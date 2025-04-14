@@ -1,0 +1,8 @@
+{
+  "video_id": "G50UWUcArHE",
+  "url": "https://www.youtube.com/watch?v=G50UWUcArHE",
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\G50UWUcArHE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\G50UWUcArHE.json",
+  "transcription_timestamp": "2025-04-14T18:37:08.190355",
+  "model": "whisper-1"
+}

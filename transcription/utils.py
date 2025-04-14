@@ -120,13 +120,13 @@ def create_sample_video_list(file_path):
         for video in sample_videos:
             writer.writerow(video)
 
-def save_transcript(video_id, transcript, transcript_dir):
+def save_transcript(video_id, transcript_data, transcript_dir):
     """
-    Save the transcript to a JSON file.
+    Save the transcript to a JSON file with timestamps if available.
     
     Args:
         video_id: YouTube video ID
-        transcript: Transcript text
+        transcript_data: Transcript data (text and segments)
         transcript_dir: Directory to save the transcript
     
     Returns:
@@ -136,15 +136,24 @@ def save_transcript(video_id, transcript, transcript_dir):
     
     transcript_file = os.path.join(transcript_dir, f"{video_id}.json")
     
+    # Check if transcript_data is just text or has structure
+    if isinstance(transcript_data, str):
+        # Create a structured transcript object from plain text
+        transcript_data = {
+            "text": transcript_data,
+            "segments": []
+        }
+    
     # Create a structured transcript object
-    transcript_data = {
+    transcript_obj = {
         "video_id": video_id,
-        "text": transcript,
+        "text": transcript_data.get("text", ""),
+        "segments": transcript_data.get("segments", []),
         "processed_at": datetime.now().isoformat(),
     }
     
     with open(transcript_file, 'w', encoding='utf-8') as f:
-        json.dump(transcript_data, f, ensure_ascii=False, indent=2)
+        json.dump(transcript_obj, f, ensure_ascii=False, indent=2)
     
     logger.info(f"Saved transcript for {video_id} to {transcript_file}")
     return transcript_file
@@ -254,15 +263,44 @@ def split_audio_file(audio_file, chunk_duration_seconds=600, output_dir=None):
 
 def merge_transcripts(transcript_chunks):
     """
-    Merge multiple transcript chunks into a single transcript.
+    Merge multiple transcript chunks with timestamps into a single transcript.
     
     Args:
-        transcript_chunks: List of transcript texts in order
+        transcript_chunks: List of transcript data objects in order
         
     Returns:
-        Merged transcript text
+        Merged transcript data with adjusted timestamps
     """
-    return " ".join(transcript_chunks)
+    full_text = []
+    all_segments = []
+    time_offset = 0
+    
+    for chunk in transcript_chunks:
+        if not chunk:
+            continue
+            
+        # Add the text
+        full_text.append(chunk.get("text", ""))
+        
+        # Process segments with adjusted timestamps
+        segments = chunk.get("segments", [])
+        for segment in segments:
+            # Adjust timestamps by the current offset
+            if "start" in segment:
+                segment["start"] += time_offset
+            if "end" in segment:
+                segment["end"] += time_offset
+            
+            all_segments.append(segment)
+        
+        # Update time offset for next chunk (if available)
+        if segments and "end" in segments[-1]:
+            time_offset = segments[-1]["end"]
+    
+    return {
+        "text": " ".join(full_text),
+        "segments": all_segments
+    }
 
 def get_file_size_mb(file_path):
     """
@@ -276,3 +314,99 @@ def get_file_size_mb(file_path):
     """
     import os
     return os.path.getsize(file_path) / (1024 * 1024)
+
+def generate_srt_file(video_id, transcript_data, output_dir):
+    """
+    Generate an SRT subtitle file from transcript data with timestamps.
+    
+    Args:
+        video_id: YouTube video ID
+        transcript_data: Transcript data with text and segments
+        output_dir: Directory to save the subtitle file
+    
+    Returns:
+        Path to the generated SRT file
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    srt_file = os.path.join(output_dir, f"{video_id}.srt")
+    
+    # Ensure transcript_data has segments
+    segments = transcript_data.get("segments", [])
+    if not segments:
+        logger.warning(f"No timestamp segments found for {video_id}, cannot generate SRT")
+        return None
+    
+    with open(srt_file, 'w', encoding='utf-8') as f:
+        for i, segment in enumerate(segments):
+            # SRT index (starting at 1)
+            f.write(f"{i+1}\n")
+            
+            # Format timestamps as HH:MM:SS,mmm --> HH:MM:SS,mmm
+            start_time = format_timestamp_srt(segment.get("start", 0))
+            end_time = format_timestamp_srt(segment.get("end", 0))
+            f.write(f"{start_time} --> {end_time}\n")
+            
+            # Write segment text
+            f.write(f"{segment.get('text', '').strip()}\n\n")
+    
+    logger.info(f"Generated SRT file for {video_id}: {srt_file}")
+    return srt_file
+
+def generate_vtt_file(video_id, transcript_data, output_dir):
+    """
+    Generate a VTT subtitle file from transcript data with timestamps.
+    
+    Args:
+        video_id: YouTube video ID
+        transcript_data: Transcript data with text and segments
+        output_dir: Directory to save the subtitle file
+    
+    Returns:
+        Path to the generated VTT file
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    vtt_file = os.path.join(output_dir, f"{video_id}.vtt")
+    
+    # Ensure transcript_data has segments
+    segments = transcript_data.get("segments", [])
+    if not segments:
+        logger.warning(f"No timestamp segments found for {video_id}, cannot generate VTT")
+        return None
+    
+    with open(vtt_file, 'w', encoding='utf-8') as f:
+        # VTT header
+        f.write("WEBVTT\n\n")
+        
+        for segment in segments:
+            # Format timestamps as HH:MM:SS.mmm --> HH:MM:SS.mmm
+            start_time = format_timestamp_vtt(segment.get("start", 0))
+            end_time = format_timestamp_vtt(segment.get("end", 0))
+            f.write(f"{start_time} --> {end_time}\n")
+            
+            # Write segment text
+            f.write(f"{segment.get('text', '').strip()}\n\n")
+    
+    logger.info(f"Generated VTT file for {video_id}: {vtt_file}")
+    return vtt_file
+
+def format_timestamp_srt(seconds):
+    """
+    Format seconds as SRT timestamp: HH:MM:SS,mmm
+    """
+    hours = int(seconds / 3600)
+    minutes = int((seconds % 3600) / 60)
+    seconds = seconds % 60
+    milliseconds = int((seconds - int(seconds)) * 1000)
+    
+    return f"{hours:02d}:{minutes:02d}:{int(seconds):02d},{milliseconds:03d}"
+
+def format_timestamp_vtt(seconds):
+    """
+    Format seconds as VTT timestamp: HH:MM:SS.mmm
+    """
+    hours = int(seconds / 3600)
+    minutes = int((seconds % 3600) / 60)
+    seconds = seconds % 60
+    milliseconds = int((seconds - int(seconds)) * 1000)
+    
+    return f"{hours:02d}:{minutes:02d}:{int(seconds):02d}.{milliseconds:03d}"

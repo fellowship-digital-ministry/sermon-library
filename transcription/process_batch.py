@@ -1,17 +1,17 @@
 """
-Main script for batch processing YouTube sermon videos with transcription tracking.
+Main script for batch processing YouTube sermon videos with transcription and subtitle generation.
 
-This script orchestrates the downloading and transcription of YouTube sermon videos
-and maintains tracking information in a CSV file. It supports both single video
-processing and batch processing with various options.
+This script orchestrates the downloading and transcription of YouTube sermon videos,
+creates subtitle files, and maintains tracking information in a CSV file. It supports
+both single video processing and batch processing with various options.
 
 Features:
 - Downloads audio from YouTube videos using yt-dlp
-- Transcribes audio using OpenAI's Whisper API
+- Transcribes audio using OpenAI's Whisper API with timestamp data
+- Generates SRT and VTT subtitle files for YouTube uploads
 - Tracks processing status and progress in a CSV file
 - Supports proof-of-concept (POC) mode for testing with small batches
 - Handles large audio files by splitting them into chunks
-- Provides detailed logging and error handling
 
 Usage examples:
   # Process a single YouTube URL:
@@ -35,6 +35,31 @@ CSV tracking:
   - processing_date: Timestamp of last processing attempt
   - transcript_path: Path to the generated transcript file
 
+Output files for each video:
+  - Transcript JSON: data/transcripts/{video_id}.json
+    Contains full text and timestamps for each segment
+  - SRT subtitle: data/subtitles/{video_id}.srt
+    Industry-standard subtitle format for YouTube uploads
+  - VTT subtitle: data/subtitles/{video_id}.vtt
+    Web-standard subtitle format for HTML5 video
+  - Metadata: data/metadata/{video_id}_metadata.json
+    Contains links to all generated files and process information
+
+Using subtitle files:
+  The generated SRT files can be uploaded to YouTube to add closed captions:
+  1. Go to YouTube Studio and select the video
+  2. Click "Subtitles" in the left menu
+  3. Click "Add" → "Upload file"
+  4. Select "With timing" and upload the SRT file
+  5. Choose "English" as the language
+  6. Click "Publish"
+
+GitHub Actions automation:
+  This script is designed to run automatically via GitHub Actions to:
+  1. Check for new sermon uploads on Monday and Thursday evenings
+  2. Process new videos and generate transcripts/subtitles
+  3. Commit results back to the repository
+
 Created for Fellowship Baptist Church Sermon Library
 """
 import os
@@ -48,6 +73,7 @@ import config
 from utils import extract_video_id, save_transcript, save_metadata, get_video_url
 from download_audio import download_batch, download_audio
 from transcribe_audio import transcribe_batch, transcribe_audio
+from utils import generate_srt_file, generate_vtt_file
 
 logger = logging.getLogger(__name__)
 
@@ -166,6 +192,7 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
         "videos_processed": 0,
         "audio_files_downloaded": 0,
         "transcripts_created": 0,
+        "subtitles_created": 0,
         "failures": 0
     }
     
@@ -201,13 +228,25 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
             transcript_file = save_transcript(video_id, transcript, config.TRANSCRIPT_DIR)
             results["transcripts_created"] += 1
             
-            # Save metadata
+            # Step 4: Generate subtitle files
+            subtitle_dir = os.path.join(config.DATA_DIR, "subtitles")
+            os.makedirs(subtitle_dir, exist_ok=True)
+            
+            srt_file = generate_srt_file(video_id, transcript, subtitle_dir)
+            vtt_file = generate_vtt_file(video_id, transcript, subtitle_dir)
+            
+            if srt_file and vtt_file:
+                results["subtitles_created"] += 1
+            
+            # Step 5: Save metadata
             metadata = {
                 "video_id": video_id,
                 "title": video.get("title", ""),
                 "publish_date": video.get("publish_date", ""),
                 "audio_file": audio_file,
                 "transcript_file": transcript_file,
+                "srt_file": srt_file,
+                "vtt_file": vtt_file,
                 "duration": video.get("duration", 0),
                 "transcription_timestamp": datetime.now().isoformat(),
                 "model": config.WHISPER_MODEL,
@@ -238,6 +277,7 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
     logger.info(f"Videos processed: {results['videos_processed']}")
     logger.info(f"Audio files downloaded: {results['audio_files_downloaded']}")
     logger.info(f"Transcripts created: {results['transcripts_created']}")
+    logger.info(f"Subtitle files created: {results['subtitles_created']}")
     logger.info(f"Failures: {results['failures']}")
     
     return results

@@ -1,0 +1,8 @@
+{
+  "video_id": "zrbGEE0_O1k",
+  "url": "https://youtu.be/zrbGEE0_O1k",
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\zrbGEE0_O1k.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\zrbGEE0_O1k.json",
+  "transcription_timestamp": "2025-04-14T18:45:35.215623",
+  "model": "whisper-1"
+}

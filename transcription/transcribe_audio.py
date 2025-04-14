@@ -68,9 +68,10 @@ def transcribe_audio(audio_file, model=config.WHISPER_MODEL, language=config.WHI
         # File is small enough, transcribe directly
         return transcribe_chunk(audio_file, model, language)
 
+# In transcribe_audio.py
 def transcribe_chunk(audio_file, model, language):
     """
-    Transcribe a single audio chunk using the Whisper API.
+    Transcribe a single audio chunk using the Whisper API with timestamps.
     
     Args:
         audio_file: Path to the audio file
@@ -78,7 +79,7 @@ def transcribe_chunk(audio_file, model, language):
         language: Language code
     
     Returns:
-        Transcript text or None if transcription failed
+        Transcript object with text and segments or None if transcription failed
     """
     logger.info(f"Transcribing {audio_file} with model {model}")
     
@@ -86,21 +87,46 @@ def transcribe_chunk(audio_file, model, language):
     
     try:
         with open(audio_file, "rb") as audio:
-            # Call the OpenAI API
+            # Call the OpenAI API with timestamps option
             response = client.audio.transcriptions.create(
                 model=model,
                 file=audio,
-                language=language
+                language=language,
+                response_format="verbose_json",  # Request timestamps
+                timestamp_granularities=["segment"]  # Get segment-level timestamps
             )
         
-        # Extract transcript
-        transcript = response.text
+        # Convert segments to plain dictionaries
+        segments_list = []
+        if hasattr(response, 'segments') and response.segments:
+            for segment in response.segments:
+                # Convert TranscriptionSegment to a dictionary
+                segment_dict = {}
+                if hasattr(segment, 'id'):
+                    segment_dict['id'] = segment.id
+                if hasattr(segment, 'start'):
+                    segment_dict['start'] = segment.start
+                if hasattr(segment, 'end'):
+                    segment_dict['end'] = segment.end
+                if hasattr(segment, 'text'):
+                    segment_dict['text'] = segment.text
+                segments_list.append(segment_dict)
         
-        logger.info(f"Successfully transcribed {audio_file} ({len(transcript)} characters)")
+        # Create a properly structured transcript object with plain Python types
+        transcript = {
+            "text": response.text if hasattr(response, 'text') else "",
+            "segments": segments_list
+        }
+        
+        # Log success with details
+        segment_count = len(transcript["segments"])
+        logger.info(f"Successfully transcribed {audio_file} ({len(transcript['text'])} characters, {segment_count} segments)")
+        
         return transcript
     except Exception as e:
         logger.error(f"Failed to transcribe {audio_file}: {str(e)}")
-        return None
+        # Return a valid but empty transcript structure
+        return {"text": "", "segments": []}
 
 def transcribe_batch(audio_files, output_dir=config.TRANSCRIPT_DIR, metadata_dir=config.METADATA_DIR):
     """

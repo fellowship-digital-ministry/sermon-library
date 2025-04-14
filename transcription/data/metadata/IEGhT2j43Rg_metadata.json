@@ -1,0 +1,10 @@
+{
+  "video_id": "IEGhT2j43Rg",
+  "title": "\"Transformation\"   II Corinthians 5:17",
+  "publish_date": 20250406,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\IEGhT2j43Rg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\IEGhT2j43Rg.json",
+  "duration": 2697,
+  "transcription_timestamp": "2025-04-14T17:01:45.329484",
+  "model": "whisper-1"
+}

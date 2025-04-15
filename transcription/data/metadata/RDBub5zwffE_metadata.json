@@ -1,0 +1,12 @@
+{
+  "video_id": "RDBub5zwffE",
+  "title": "\"They Crucified Him\" Matthew 27:27-50",
+  "publish_date": 20240325,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\RDBub5zwffE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\RDBub5zwffE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RDBub5zwffE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RDBub5zwffE.vtt",
+  "duration": 2883,
+  "transcription_timestamp": "2025-04-15T08:10:18.423270",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "AZytGOf3GPA",
+  "title": "\"Behavior In God's Church - Part 2\" I Timothy 3:1-15",
+  "publish_date": 20240422,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\AZytGOf3GPA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\AZytGOf3GPA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\AZytGOf3GPA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\AZytGOf3GPA.vtt",
+  "duration": 3134,
+  "transcription_timestamp": "2025-04-15T07:25:19.597290",
+  "model": "whisper-1"
+}

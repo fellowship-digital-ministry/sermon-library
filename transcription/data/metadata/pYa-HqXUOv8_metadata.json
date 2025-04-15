@@ -1,0 +1,12 @@
+{
+  "video_id": "pYa-HqXUOv8",
+  "title": "\"Fishers Of Men - Part 1\" Matthew 4:19",
+  "publish_date": 20240702,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\pYa-HqXUOv8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\pYa-HqXUOv8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pYa-HqXUOv8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pYa-HqXUOv8.vtt",
+  "duration": 2851,
+  "transcription_timestamp": "2025-04-15T01:30:09.849507",
+  "model": "whisper-1"
+}

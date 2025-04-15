@@ -1,0 +1,12 @@
+{
+  "video_id": "We8921d40Z4",
+  "title": "\"Yield Yourselves Unto God\" Romans 6:1-19",
+  "publish_date": 20241004,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\We8921d40Z4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\We8921d40Z4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\We8921d40Z4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\We8921d40Z4.vtt",
+  "duration": 2409,
+  "transcription_timestamp": "2025-04-14T22:45:28.802398",
+  "model": "whisper-1"
+}

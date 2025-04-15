@@ -1,0 +1,12 @@
+{
+  "video_id": "Xx99YvltqXQ",
+  "title": "\"We Ought To Walk As Christ Walked - Part 3\" I John 2:6",
+  "publish_date": 20241111,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Xx99YvltqXQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Xx99YvltqXQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Xx99YvltqXQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Xx99YvltqXQ.vtt",
+  "duration": 2187,
+  "transcription_timestamp": "2025-04-14T21:29:19.761478",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "X0_tae_rdlg",
+  "title": "\"Continue\" II Timothy 3:14",
+  "publish_date": 20240102,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\X0_tae_rdlg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\X0_tae_rdlg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\X0_tae_rdlg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\X0_tae_rdlg.vtt",
+  "duration": 3043,
+  "transcription_timestamp": "2025-04-15T10:13:48.272213",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "ZqunktIJ8Vc",
+  "title": "\"A Church And It's Pastor\" I Thessalonians 5:12-13",
+  "publish_date": 20240205,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZqunktIJ8Vc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZqunktIJ8Vc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZqunktIJ8Vc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZqunktIJ8Vc.vtt",
+  "duration": 2132,
+  "transcription_timestamp": "2025-04-15T09:19:25.519748",
+  "model": "whisper-1"
+}

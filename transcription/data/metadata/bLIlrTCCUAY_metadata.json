@@ -1,0 +1,12 @@
+{
+  "video_id": "bLIlrTCCUAY",
+  "title": "\"Grace, Mercy And Peace\" II Timothy 1:1-2",
+  "publish_date": 20240721,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bLIlrTCCUAY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bLIlrTCCUAY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bLIlrTCCUAY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bLIlrTCCUAY.vtt",
+  "duration": 3174,
+  "transcription_timestamp": "2025-04-15T00:00:15.393325",
+  "model": "whisper-1"
+}

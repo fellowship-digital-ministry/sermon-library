@@ -1,0 +1,12 @@
+{
+  "video_id": "MD6v9zE8L4E",
+  "title": "\"Honor Thy Mother\" Ephesians 6:1-3",
+  "publish_date": 20240513,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\MD6v9zE8L4E.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\MD6v9zE8L4E.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MD6v9zE8L4E.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MD6v9zE8L4E.vtt",
+  "duration": 1769,
+  "transcription_timestamp": "2025-04-15T07:05:09.237188",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "Pekao7m8BpQ",
+  "title": "\"The Miracle Of Christmas\" Galatians 4:4-7",
+  "publish_date": 20231224,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Pekao7m8BpQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Pekao7m8BpQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Pekao7m8BpQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Pekao7m8BpQ.vtt",
+  "duration": 2904,
+  "transcription_timestamp": "2025-04-15T10:20:04.436715",
+  "model": "whisper-1"
+}

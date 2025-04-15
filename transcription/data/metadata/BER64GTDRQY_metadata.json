@@ -1,0 +1,12 @@
+{
+  "video_id": "BER64GTDRQY",
+  "title": "\"Great Is The Mystery Of Godliness\" I Timothy 3:16",
+  "publish_date": 20240505,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BER64GTDRQY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BER64GTDRQY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BER64GTDRQY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BER64GTDRQY.vtt",
+  "duration": 3139,
+  "transcription_timestamp": "2025-04-15T07:19:54.981841",
+  "model": "whisper-1"
+}

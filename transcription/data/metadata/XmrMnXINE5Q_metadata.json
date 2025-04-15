@@ -1,0 +1,12 @@
+{
+  "video_id": "XmrMnXINE5Q",
+  "title": "\"Tongues Shall Cease\" I Corinthians 13:8",
+  "publish_date": 20240902,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\XmrMnXINE5Q.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\XmrMnXINE5Q.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XmrMnXINE5Q.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XmrMnXINE5Q.vtt",
+  "duration": 3098,
+  "transcription_timestamp": "2025-04-14T23:30:15.220367",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "8OgJllM8BSQ",
+  "title": "\"We Ought To Walk Humbly\" Romans 12:3",
+  "publish_date": 20240922,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8OgJllM8BSQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8OgJllM8BSQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8OgJllM8BSQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8OgJllM8BSQ.vtt",
+  "duration": 2148,
+  "transcription_timestamp": "2025-04-14T23:06:27.967264",
+  "model": "whisper-1"
+}

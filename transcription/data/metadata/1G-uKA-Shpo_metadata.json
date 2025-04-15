@@ -1,0 +1,12 @@
+{
+  "video_id": "1G-uKA-Shpo",
+  "title": "\"Teach Others Also\" II Timothy 2:1-2",
+  "publish_date": 20240819,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\1G-uKA-Shpo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\1G-uKA-Shpo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1G-uKA-Shpo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1G-uKA-Shpo.vtt",
+  "duration": 2998,
+  "transcription_timestamp": "2025-04-14T23:40:00.945022",
+  "model": "whisper-1"
+}

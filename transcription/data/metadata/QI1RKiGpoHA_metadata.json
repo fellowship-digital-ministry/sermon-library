@@ -1,0 +1,12 @@
+{
+  "video_id": "QI1RKiGpoHA",
+  "title": "\"The Church Of The Laodiceans - Part One\" Revelation 3:14-17",
+  "publish_date": 20250322,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QI1RKiGpoHA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QI1RKiGpoHA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QI1RKiGpoHA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QI1RKiGpoHA.vtt",
+  "duration": 2348,
+  "transcription_timestamp": "2025-04-14T19:19:42.790595",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "MyCOoL7O768",
+  "title": "\"The Church In Thyatira - Part 2\"  Revelation 2:20-29",
+  "publish_date": 20250211,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\MyCOoL7O768.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\MyCOoL7O768.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MyCOoL7O768.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MyCOoL7O768.vtt",
+  "duration": 2614,
+  "transcription_timestamp": "2025-04-14T20:06:17.980906",
+  "model": "whisper-1"
+}

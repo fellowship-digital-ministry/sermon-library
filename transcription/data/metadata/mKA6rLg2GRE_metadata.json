@@ -1,0 +1,12 @@
+{
+  "video_id": "mKA6rLg2GRE",
+  "title": "\"God Meant It Unto Good\" Genesis 50:15-21",
+  "publish_date": 20240422,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\mKA6rLg2GRE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\mKA6rLg2GRE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mKA6rLg2GRE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mKA6rLg2GRE.vtt",
+  "duration": 2337,
+  "transcription_timestamp": "2025-04-15T07:29:04.879386",
+  "model": "whisper-1"
+}

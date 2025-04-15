@@ -1,0 +1,12 @@
+{
+  "video_id": "MPv8bPsuptg",
+  "title": "\"No Bread In All The Land\" Genesis 47:13-26",
+  "publish_date": 20240223,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\MPv8bPsuptg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\MPv8bPsuptg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MPv8bPsuptg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MPv8bPsuptg.vtt",
+  "duration": 1727,
+  "transcription_timestamp": "2025-04-15T08:59:23.266198",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "CejLq4peEWY",
+  "title": "\"Jacob Guided His Hands Wittingly\" Genesis 48:1-22",
+  "publish_date": 20240226,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\CejLq4peEWY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\CejLq4peEWY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CejLq4peEWY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CejLq4peEWY.vtt",
+  "duration": 2884,
+  "transcription_timestamp": "2025-04-15T08:47:56.092725",
+  "model": "whisper-1"
+}

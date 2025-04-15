@@ -1,0 +1,12 @@
+{
+  "video_id": "0wy6AB2BCmw",
+  "title": "\"Great Is The Lord, And Greatly To Be Praised\" Psalm 145:1-21",
+  "publish_date": 20231217,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\0wy6AB2BCmw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\0wy6AB2BCmw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0wy6AB2BCmw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0wy6AB2BCmw.vtt",
+  "duration": 3089,
+  "transcription_timestamp": "2025-04-15T10:25:16.859311",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "LOzX3Aa4VcI",
+  "title": "\"Praying For Leaders\" I Timothy 2:2-3",
+  "publish_date": 20240219,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LOzX3Aa4VcI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LOzX3Aa4VcI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LOzX3Aa4VcI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LOzX3Aa4VcI.vtt",
+  "duration": 2401,
+  "transcription_timestamp": "2025-04-15T09:04:45.724955",
+  "model": "whisper-1"
+}

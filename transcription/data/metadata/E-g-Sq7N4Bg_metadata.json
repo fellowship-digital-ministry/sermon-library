@@ -1,0 +1,12 @@
+{
+  "video_id": "E-g-Sq7N4Bg",
+  "title": "\"The Revelation Of Jesus Christ\" Revelation 1:1-3",
+  "publish_date": 20241021,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\E-g-Sq7N4Bg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\E-g-Sq7N4Bg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\E-g-Sq7N4Bg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\E-g-Sq7N4Bg.vtt",
+  "duration": 2902,
+  "transcription_timestamp": "2025-04-14T22:21:54.606298",
+  "model": "whisper-1"
+}

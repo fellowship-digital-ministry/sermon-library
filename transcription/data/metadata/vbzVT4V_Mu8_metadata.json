@@ -1,0 +1,12 @@
+{
+  "video_id": "vbzVT4V_Mu8",
+  "title": "\"Rejoice Evermore\" I Thessalonians 5:16",
+  "publish_date": 20240320,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\vbzVT4V_Mu8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\vbzVT4V_Mu8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vbzVT4V_Mu8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vbzVT4V_Mu8.vtt",
+  "duration": 2222,
+  "transcription_timestamp": "2025-04-15T08:14:13.934579",
+  "model": "whisper-1"
+}

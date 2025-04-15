@@ -1,0 +1,12 @@
+{
+  "video_id": "w1BfKif_BvI",
+  "title": "\"We Ought To Seek The Lord\" James 4:13-15",
+  "publish_date": 20240922,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\w1BfKif_BvI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\w1BfKif_BvI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\w1BfKif_BvI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\w1BfKif_BvI.vtt",
+  "duration": 2271,
+  "transcription_timestamp": "2025-04-14T22:54:59.784250",
+  "model": "whisper-1"
+}

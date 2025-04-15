@@ -1,0 +1,12 @@
+{
+  "video_id": "CuDgnvg3ek8",
+  "title": "\"Joseph's Brethren Went Down To Buy Corn In Egypt\" Genesis 42:1-38",
+  "publish_date": 20231211,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\CuDgnvg3ek8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\CuDgnvg3ek8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CuDgnvg3ek8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CuDgnvg3ek8.vtt",
+  "duration": 2586,
+  "transcription_timestamp": "2025-04-15T10:30:00.724479",
+  "model": "whisper-1"
+}

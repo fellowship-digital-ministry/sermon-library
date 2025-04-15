@@ -1,0 +1,12 @@
+{
+  "video_id": "cwDxVvhjqgw",
+  "title": "\"Equipped To Continue\" I Timothy 1:1-4",
+  "publish_date": 20240108,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cwDxVvhjqgw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cwDxVvhjqgw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cwDxVvhjqgw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cwDxVvhjqgw.vtt",
+  "duration": 3032,
+  "transcription_timestamp": "2025-04-15T10:08:47.527467",
+  "model": "whisper-1"
+}

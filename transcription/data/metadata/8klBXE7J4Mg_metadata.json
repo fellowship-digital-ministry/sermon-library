@@ -1,0 +1,12 @@
+{
+  "video_id": "8klBXE7J4Mg",
+  "title": "\"I Know Their Sorrows\" Exodus 3:7-12",
+  "publish_date": 20240520,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8klBXE7J4Mg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8klBXE7J4Mg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8klBXE7J4Mg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8klBXE7J4Mg.vtt",
+  "duration": 1986,
+  "transcription_timestamp": "2025-04-15T07:02:12.452285",
+  "model": "whisper-1"
+}

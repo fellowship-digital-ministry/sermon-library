@@ -1,0 +1,12 @@
+{
+  "video_id": "DoWaLkMdeTk",
+  "title": "\"Bringing People To Jesus\" Mark 2:1-12",
+  "publish_date": 20240602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\DoWaLkMdeTk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\DoWaLkMdeTk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DoWaLkMdeTk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DoWaLkMdeTk.vtt",
+  "duration": 3140,
+  "transcription_timestamp": "2025-04-15T06:43:57.444474",
+  "model": "whisper-1"
+}

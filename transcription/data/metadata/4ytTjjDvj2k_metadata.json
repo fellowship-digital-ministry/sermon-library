@@ -1,0 +1,12 @@
+{
+  "video_id": "4ytTjjDvj2k",
+  "title": "\"Be Of Good Cheer\" John 16:33",
+  "publish_date": 20240828,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4ytTjjDvj2k.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4ytTjjDvj2k.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4ytTjjDvj2k.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4ytTjjDvj2k.vtt",
+  "duration": 2930,
+  "transcription_timestamp": "2025-04-14T23:35:07.368589",
+  "model": "whisper-1"
+}

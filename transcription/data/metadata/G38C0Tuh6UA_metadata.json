@@ -1,0 +1,12 @@
+{
+  "video_id": "G38C0Tuh6UA",
+  "title": "\"We Faint Not\" II Corinthians 4:8-18",
+  "publish_date": 20250224,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\G38C0Tuh6UA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\G38C0Tuh6UA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G38C0Tuh6UA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G38C0Tuh6UA.vtt",
+  "duration": 3104,
+  "transcription_timestamp": "2025-04-14T19:47:59.815000",
+  "model": "whisper-1"
+}

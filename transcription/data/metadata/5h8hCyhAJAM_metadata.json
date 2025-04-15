@@ -1,0 +1,12 @@
+{
+  "video_id": "5h8hCyhAJAM",
+  "title": "\"The Cup Was Found In Benjamin's Sack\" Genesis 43:1 - Genesis 44:34",
+  "publish_date": 20240108,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\5h8hCyhAJAM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\5h8hCyhAJAM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5h8hCyhAJAM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5h8hCyhAJAM.vtt",
+  "duration": 2939,
+  "transcription_timestamp": "2025-04-15T10:03:37.815214",
+  "model": "whisper-1"
+}

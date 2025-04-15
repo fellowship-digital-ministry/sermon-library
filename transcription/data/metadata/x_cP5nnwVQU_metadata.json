@@ -1,0 +1,12 @@
+{
+  "video_id": "x_cP5nnwVQU",
+  "title": "\"We Ought To Listen Up - Part 1\" Hebrews 2:1-4",
+  "publish_date": 20241015,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\x_cP5nnwVQU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\x_cP5nnwVQU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x_cP5nnwVQU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x_cP5nnwVQU.vtt",
+  "duration": 2165,
+  "transcription_timestamp": "2025-04-14T22:25:38.362702",
+  "model": "whisper-1"
+}

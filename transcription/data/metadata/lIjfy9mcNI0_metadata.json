@@ -1,0 +1,12 @@
+{
+  "video_id": "lIjfy9mcNI0",
+  "title": "\"The Lord's Supper\" I Corinthians 11:23-31",
+  "publish_date": 20240304,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\lIjfy9mcNI0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\lIjfy9mcNI0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lIjfy9mcNI0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lIjfy9mcNI0.vtt",
+  "duration": 2258,
+  "transcription_timestamp": "2025-04-15T08:43:16.559618",
+  "model": "whisper-1"
+}

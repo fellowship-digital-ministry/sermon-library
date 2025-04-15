@@ -1,0 +1,12 @@
+{
+  "video_id": "4We4-x8cwIg",
+  "title": "\"Unity In The Church\" I Thessalonians 5:13",
+  "publish_date": 20240205,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4We4-x8cwIg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4We4-x8cwIg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4We4-x8cwIg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4We4-x8cwIg.vtt",
+  "duration": 1693,
+  "transcription_timestamp": "2025-04-15T09:30:09.496153",
+  "model": "whisper-1"
+}

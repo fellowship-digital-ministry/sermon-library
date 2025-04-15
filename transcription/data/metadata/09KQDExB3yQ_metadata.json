@@ -1,0 +1,12 @@
+{
+  "video_id": "09KQDExB3yQ",
+  "title": "\"Jacob Blesses His Sons - Part 1\" Genesis 49:1-12",
+  "publish_date": 20240320,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\09KQDExB3yQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\09KQDExB3yQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\09KQDExB3yQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\09KQDExB3yQ.vtt",
+  "duration": 2255,
+  "transcription_timestamp": "2025-04-15T08:17:50.043689",
+  "model": "whisper-1"
+}

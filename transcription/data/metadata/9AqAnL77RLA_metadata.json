@@ -1,0 +1,12 @@
+{
+  "video_id": "9AqAnL77RLA",
+  "title": "\"Comfort The Feebleminded\" I Thessalonians 5:14",
+  "publish_date": 20240205,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9AqAnL77RLA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9AqAnL77RLA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9AqAnL77RLA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9AqAnL77RLA.vtt",
+  "duration": 2145,
+  "transcription_timestamp": "2025-04-15T09:23:39.795436",
+  "model": "whisper-1"
+}

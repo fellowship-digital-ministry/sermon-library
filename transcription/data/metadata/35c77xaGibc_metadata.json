@@ -1,0 +1,12 @@
+{
+  "video_id": "35c77xaGibc",
+  "title": "\"The Lord Is King For Ever And Ever\" Psalm 10:16",
+  "publish_date": 20241027,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\35c77xaGibc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\35c77xaGibc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\35c77xaGibc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\35c77xaGibc.vtt",
+  "duration": 3378,
+  "transcription_timestamp": "2025-04-14T21:59:25.010363",
+  "model": "whisper-1"
+}

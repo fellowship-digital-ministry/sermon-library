@@ -1,0 +1,12 @@
+{
+  "video_id": "PE0mOy8YRqw",
+  "title": "\"Effectual Prayer\" I Timothy 2:8",
+  "publish_date": 20240304,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\PE0mOy8YRqw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\PE0mOy8YRqw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PE0mOy8YRqw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PE0mOy8YRqw.vtt",
+  "duration": 2864,
+  "transcription_timestamp": "2025-04-15T08:39:31.602324",
+  "model": "whisper-1"
+}

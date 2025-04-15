@@ -1,0 +1,12 @@
+{
+  "video_id": "Ms9rW5KmNQM",
+  "title": "\"God's Will For Humanity\" I Timothy 2:4-7",
+  "publish_date": 20240226,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ms9rW5KmNQM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ms9rW5KmNQM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ms9rW5KmNQM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ms9rW5KmNQM.vtt",
+  "duration": 3026,
+  "transcription_timestamp": "2025-04-15T08:53:04.162692",
+  "model": "whisper-1"
+}

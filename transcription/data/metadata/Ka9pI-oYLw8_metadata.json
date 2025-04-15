@@ -1,0 +1,12 @@
+{
+  "video_id": "Ka9pI-oYLw8",
+  "title": "\"The Certainty Of Heaven\"  II Corinthians 5:1-8",
+  "publish_date": 20250303,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ka9pI-oYLw8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ka9pI-oYLw8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ka9pI-oYLw8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ka9pI-oYLw8.vtt",
+  "duration": 2778,
+  "transcription_timestamp": "2025-04-14T19:35:01.603684",
+  "model": "whisper-1"
+}

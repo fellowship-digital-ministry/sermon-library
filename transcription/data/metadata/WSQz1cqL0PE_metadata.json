@@ -1,0 +1,12 @@
+{
+  "video_id": "WSQz1cqL0PE",
+  "title": "\"And Joseph Died\" Genesis 50:22-26",
+  "publish_date": 20240506,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\WSQz1cqL0PE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\WSQz1cqL0PE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WSQz1cqL0PE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WSQz1cqL0PE.vtt",
+  "duration": 2647,
+  "transcription_timestamp": "2025-04-15T07:14:46.478834",
+  "model": "whisper-1"
+}

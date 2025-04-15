@@ -1,0 +1,12 @@
+{
+  "video_id": "m0i_-MjkrIo",
+  "title": "\"Structure In Your Prayer Life\" I Timothy 2:1",
+  "publish_date": 20240205,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\m0i_-MjkrIo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\m0i_-MjkrIo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\m0i_-MjkrIo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\m0i_-MjkrIo.vtt",
+  "duration": 2851,
+  "transcription_timestamp": "2025-04-15T09:38:20.309668",
+  "model": "whisper-1"
+}

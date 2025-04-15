@@ -1,0 +1,12 @@
+{
+  "video_id": "CHq3SIGfCKo",
+  "title": "\"Press On\" II Timothy 3:13 - II Timothy 4:5",
+  "publish_date": 20241117,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\CHq3SIGfCKo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\CHq3SIGfCKo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CHq3SIGfCKo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CHq3SIGfCKo.vtt",
+  "duration": 3056,
+  "transcription_timestamp": "2025-04-14T21:16:31.869498",
+  "model": "whisper-1"
+}

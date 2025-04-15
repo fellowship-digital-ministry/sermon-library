@@ -1,0 +1,12 @@
+{
+  "video_id": "4jMDiZ3Rc6E",
+  "title": "\"The Glorious Gospel\"  II Corinthians 3:1-18",
+  "publish_date": 20250211,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4jMDiZ3Rc6E.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4jMDiZ3Rc6E.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4jMDiZ3Rc6E.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4jMDiZ3Rc6E.vtt",
+  "duration": 3222,
+  "transcription_timestamp": "2025-04-14T20:01:41.579628",
+  "model": "whisper-1"
+}

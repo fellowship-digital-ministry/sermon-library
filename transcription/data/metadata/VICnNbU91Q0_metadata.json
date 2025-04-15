@@ -1,0 +1,12 @@
+{
+  "video_id": "VICnNbU91Q0",
+  "title": "\"Joseph Made Himself Known To His Brethren\" Genesis 45:1-28",
+  "publish_date": 20240122,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\VICnNbU91Q0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\VICnNbU91Q0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VICnNbU91Q0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VICnNbU91Q0.vtt",
+  "duration": 1906,
+  "transcription_timestamp": "2025-04-15T09:48:52.785703",
+  "model": "whisper-1"
+}

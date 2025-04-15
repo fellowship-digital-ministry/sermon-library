@@ -1,0 +1,12 @@
+{
+  "video_id": "kSiYJ1lbpPo",
+  "title": "\"The Valley Of Achor\" Hosea 2:14-23",
+  "publish_date": 20240819,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\kSiYJ1lbpPo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\kSiYJ1lbpPo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kSiYJ1lbpPo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kSiYJ1lbpPo.vtt",
+  "duration": 2607,
+  "transcription_timestamp": "2025-04-14T23:44:32.917830",
+  "model": "whisper-1"
+}

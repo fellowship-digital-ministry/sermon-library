@@ -1,0 +1,12 @@
+{
+  "video_id": "BB7NHySh5dQ",
+  "title": "\"I Have Much People In This City\" Acts 18:1-11",
+  "publish_date": 20240603,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BB7NHySh5dQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BB7NHySh5dQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BB7NHySh5dQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BB7NHySh5dQ.vtt",
+  "duration": 2405,
+  "transcription_timestamp": "2025-04-15T06:21:33.257673",
+  "model": "whisper-1"
+}

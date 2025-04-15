@@ -1,0 +1,12 @@
+{
+  "video_id": "x8DoFdgJ9qA",
+  "title": "\"Support The Weak\" I Thessalonians 5:14",
+  "publish_date": 20240212,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\x8DoFdgJ9qA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\x8DoFdgJ9qA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x8DoFdgJ9qA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x8DoFdgJ9qA.vtt",
+  "duration": 2080,
+  "transcription_timestamp": "2025-04-15T09:11:08.414110",
+  "model": "whisper-1"
+}

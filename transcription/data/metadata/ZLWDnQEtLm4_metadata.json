@@ -1,0 +1,12 @@
+{
+  "video_id": "ZLWDnQEtLm4",
+  "title": "\"Someone Is Watching You\" Proverbs 23:26",
+  "publish_date": 20240618,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZLWDnQEtLm4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZLWDnQEtLm4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZLWDnQEtLm4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZLWDnQEtLm4.vtt",
+  "duration": 2028,
+  "transcription_timestamp": "2025-04-15T06:17:35.310996",
+  "model": "whisper-1"
+}

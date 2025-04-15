@@ -1,0 +1,12 @@
+{
+  "video_id": "BrRJsjtlhBg",
+  "title": "\"With Suffering Comes Comfort\" II Corinthians 1:1-11",
+  "publish_date": 20250106,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BrRJsjtlhBg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BrRJsjtlhBg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BrRJsjtlhBg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BrRJsjtlhBg.vtt",
+  "duration": 2867,
+  "transcription_timestamp": "2025-04-14T20:40:00.137086",
+  "model": "whisper-1"
+}

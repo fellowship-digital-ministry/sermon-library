@@ -1,0 +1,12 @@
+{
+  "video_id": "lmbflZLlrso",
+  "title": "\"We Ought To Proclaim The Gospel\" Ephesians 6:19-20",
+  "publish_date": 20240922,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\lmbflZLlrso.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\lmbflZLlrso.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lmbflZLlrso.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lmbflZLlrso.vtt",
+  "duration": 2184,
+  "transcription_timestamp": "2025-04-14T22:58:36.704254",
+  "model": "whisper-1"
+}

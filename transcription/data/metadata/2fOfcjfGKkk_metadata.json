@@ -1,0 +1,12 @@
+{
+  "video_id": "2fOfcjfGKkk",
+  "title": "\"Why Missions?\" Romans 10:13-17",
+  "publish_date": 20240311,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2fOfcjfGKkk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2fOfcjfGKkk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2fOfcjfGKkk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2fOfcjfGKkk.vtt",
+  "duration": 2193,
+  "transcription_timestamp": "2025-04-15T08:34:25.819778",
+  "model": "whisper-1"
+}

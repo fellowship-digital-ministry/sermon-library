@@ -1,0 +1,12 @@
+{
+  "video_id": "nKp9POTWPKI",
+  "title": "\"How Is Your Diet?\" I Timothy 4:1-16",
+  "publish_date": 20240520,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nKp9POTWPKI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nKp9POTWPKI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp9POTWPKI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp9POTWPKI.vtt",
+  "duration": 3130,
+  "transcription_timestamp": "2025-04-15T06:59:00.068244",
+  "model": "whisper-1"
+}

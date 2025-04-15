@@ -1,0 +1,12 @@
+{
+  "video_id": "FZYKQS7fq1w",
+  "title": "\"Carry Him To His Mother\" II Kings 4:8-37",
+  "publish_date": 20240513,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\FZYKQS7fq1w.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\FZYKQS7fq1w.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FZYKQS7fq1w.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FZYKQS7fq1w.vtt",
+  "duration": 3248,
+  "transcription_timestamp": "2025-04-15T07:10:34.105481",
+  "model": "whisper-1"
+}

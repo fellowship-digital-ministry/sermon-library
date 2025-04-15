@@ -4,7 +4,9 @@
   "publish_date": 20250413,
   "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\aTSM21mPzc0.mp3",
   "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\aTSM21mPzc0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aTSM21mPzc0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aTSM21mPzc0.vtt",
   "duration": 2636,
-  "transcription_timestamp": "2025-04-14T16:57:08.620527",
+  "transcription_timestamp": "2025-04-14T18:59:34.449425",
   "model": "whisper-1"
 }

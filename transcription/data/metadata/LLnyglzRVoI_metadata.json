@@ -1,0 +1,12 @@
+{
+  "video_id": "LLnyglzRVoI",
+  "title": "\"Christ Jesus Came Into The World To Save Sinners\" I Timothy 1:12-17",
+  "publish_date": 20240122,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LLnyglzRVoI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LLnyglzRVoI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LLnyglzRVoI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LLnyglzRVoI.vtt",
+  "duration": 2843,
+  "transcription_timestamp": "2025-04-15T09:53:32.902689",
+  "model": "whisper-1"
+}

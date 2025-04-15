@@ -1,0 +1,12 @@
+{
+  "video_id": "IgF7S1e9tQM",
+  "title": "\"Doctrine Matters\" I Timothy 1:5-11",
+  "publish_date": 20240114,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\IgF7S1e9tQM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\IgF7S1e9tQM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IgF7S1e9tQM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IgF7S1e9tQM.vtt",
+  "duration": 3136,
+  "transcription_timestamp": "2025-04-15T09:58:40.456221",
+  "model": "whisper-1"
+}

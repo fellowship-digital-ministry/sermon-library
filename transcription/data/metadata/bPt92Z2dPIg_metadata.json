@@ -1,0 +1,12 @@
+{
+  "video_id": "bPt92Z2dPIg",
+  "title": "\"Absolute Surrender\" Romans 12:1-2",
+  "publish_date": 20231211,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bPt92Z2dPIg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bPt92Z2dPIg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bPt92Z2dPIg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bPt92Z2dPIg.vtt",
+  "duration": 2611,
+  "transcription_timestamp": "2025-04-15T10:34:15.784460",
+  "model": "whisper-1"
+}

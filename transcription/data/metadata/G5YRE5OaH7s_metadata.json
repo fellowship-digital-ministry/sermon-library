@@ -1,0 +1,12 @@
+{
+  "video_id": "G5YRE5OaH7s",
+  "title": "\"Abstain From All Appearance of Evil\" I Thessalonians 5:22",
+  "publish_date": 20240415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\G5YRE5OaH7s.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\G5YRE5OaH7s.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G5YRE5OaH7s.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G5YRE5OaH7s.vtt",
+  "duration": 2080,
+  "transcription_timestamp": "2025-04-15T07:32:31.313852",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "5gWVxtcarvc",
+  "title": "\"Unto The Church In Sardis\" - Revelation 3:1-6",
+  "publish_date": 20250217,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\5gWVxtcarvc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\5gWVxtcarvc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5gWVxtcarvc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5gWVxtcarvc.vtt",
+  "duration": 2537,
+  "transcription_timestamp": "2025-04-14T19:52:05.882894",
+  "model": "whisper-1"
+}

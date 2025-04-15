@@ -1,0 +1,12 @@
+{
+  "video_id": "N6BsUO2YuSE",
+  "title": "\"Every Man In His Place\" Judges 7:1-25",
+  "publish_date": 20240602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\N6BsUO2YuSE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\N6BsUO2YuSE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N6BsUO2YuSE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N6BsUO2YuSE.vtt",
+  "duration": 2834,
+  "transcription_timestamp": "2025-04-15T06:49:00.370934",
+  "model": "whisper-1"
+}

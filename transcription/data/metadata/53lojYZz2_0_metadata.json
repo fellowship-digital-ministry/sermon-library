@@ -1,0 +1,12 @@
+{
+  "video_id": "53lojYZz2_0",
+  "title": "\"Developing Biblical Perspective\" I Timothy 6:1-10",
+  "publish_date": 20240702,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\53lojYZz2_0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\53lojYZz2_0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\53lojYZz2_0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\53lojYZz2_0.vtt",
+  "duration": 3140,
+  "transcription_timestamp": "2025-04-15T01:36:04.658899",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "UNpT0Mg8wG8",
+  "title": "\"A Healthy Church\" I Thessalonians 5:26-28",
+  "publish_date": 20240602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\UNpT0Mg8wG8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\UNpT0Mg8wG8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UNpT0Mg8wG8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UNpT0Mg8wG8.vtt",
+  "duration": 2023,
+  "transcription_timestamp": "2025-04-15T06:35:12.283655",
+  "model": "whisper-1"
+}

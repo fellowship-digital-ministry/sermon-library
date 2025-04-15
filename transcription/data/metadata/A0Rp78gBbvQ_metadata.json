@@ -1,0 +1,12 @@
+{
+  "video_id": "A0Rp78gBbvQ",
+  "title": "\"Jesus Is Coming Again\" John 14:1-3",
+  "publish_date": 20250119,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\A0Rp78gBbvQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\A0Rp78gBbvQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\A0Rp78gBbvQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\A0Rp78gBbvQ.vtt",
+  "duration": 3197,
+  "transcription_timestamp": "2025-04-14T20:26:34.568949",
+  "model": "whisper-1"
+}

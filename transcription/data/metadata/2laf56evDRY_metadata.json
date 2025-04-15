@@ -1,0 +1,12 @@
+{
+  "video_id": "2laf56evDRY",
+  "title": "\"John Saw Him\" Revelation 1:9-20",
+  "publish_date": 20241104,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2laf56evDRY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2laf56evDRY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2laf56evDRY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2laf56evDRY.vtt",
+  "duration": 2933,
+  "transcription_timestamp": "2025-04-14T21:39:55.528842",
+  "model": "whisper-1"
+}

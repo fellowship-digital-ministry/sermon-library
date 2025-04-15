@@ -1,0 +1,12 @@
+{
+  "video_id": "KnZFjfOQSr4",
+  "title": "\"The Church In Philadelphia\"  Revelation 3:7-13",
+  "publish_date": 20250303,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KnZFjfOQSr4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KnZFjfOQSr4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KnZFjfOQSr4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KnZFjfOQSr4.vtt",
+  "duration": 2108,
+  "transcription_timestamp": "2025-04-14T19:38:31.121096",
+  "model": "whisper-1"
+}

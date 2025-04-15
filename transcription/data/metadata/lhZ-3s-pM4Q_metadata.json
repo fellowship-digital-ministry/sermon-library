@@ -1,0 +1,12 @@
+{
+  "video_id": "lhZ-3s-pM4Q",
+  "title": "\"Sound In The Faith\" I Thessalonians 5:20-21",
+  "publish_date": 20240415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\lhZ-3s-pM4Q.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\lhZ-3s-pM4Q.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lhZ-3s-pM4Q.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lhZ-3s-pM4Q.vtt",
+  "duration": 2261,
+  "transcription_timestamp": "2025-04-15T07:36:21.836849",
+  "model": "whisper-1"
+}

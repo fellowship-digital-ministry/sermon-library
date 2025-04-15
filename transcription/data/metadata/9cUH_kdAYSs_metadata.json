@@ -1,0 +1,12 @@
+{
+  "video_id": "9cUH_kdAYSs",
+  "title": "\"Let A Man Examine Himself\"  I Corinthians 11:17-31",
+  "publish_date": 20250203,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9cUH_kdAYSs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9cUH_kdAYSs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9cUH_kdAYSs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9cUH_kdAYSs.vtt",
+  "duration": 2671,
+  "transcription_timestamp": "2025-04-14T20:10:58.713749",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "KllS1nVQlNQ",
+  "title": "\"A Praying Church\" Acts 12:1-19",
+  "publish_date": 20240311,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KllS1nVQlNQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KllS1nVQlNQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KllS1nVQlNQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KllS1nVQlNQ.vtt",
+  "duration": 2871,
+  "transcription_timestamp": "2025-04-15T08:30:34.253654",
+  "model": "whisper-1"
+}

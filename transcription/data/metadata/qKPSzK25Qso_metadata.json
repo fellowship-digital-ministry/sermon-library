@@ -1,0 +1,12 @@
+{
+  "video_id": "qKPSzK25Qso",
+  "title": "\"What Doest Thou Here, Elijah?\" I Kings 19:1-18",
+  "publish_date": 20241009,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\qKPSzK25Qso.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\qKPSzK25Qso.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qKPSzK25Qso.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qKPSzK25Qso.vtt",
+  "duration": 2768,
+  "transcription_timestamp": "2025-04-14T22:41:19.953211",
+  "model": "whisper-1"
+}

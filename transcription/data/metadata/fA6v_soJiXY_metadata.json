@@ -1,0 +1,12 @@
+{
+  "video_id": "fA6v_soJiXY",
+  "title": "\"We Ought To Love One Another\" I John 4:11",
+  "publish_date": 20240922,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\fA6v_soJiXY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\fA6v_soJiXY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fA6v_soJiXY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fA6v_soJiXY.vtt",
+  "duration": 2192,
+  "transcription_timestamp": "2025-04-14T23:02:33.249477",
+  "model": "whisper-1"
+}

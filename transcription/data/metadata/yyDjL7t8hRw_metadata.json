@@ -1,0 +1,12 @@
+{
+  "video_id": "yyDjL7t8hRw",
+  "title": "\"Brethren, Pray For Us\" I Thessalonians 5:25",
+  "publish_date": 20240909,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\yyDjL7t8hRw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\yyDjL7t8hRw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yyDjL7t8hRw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yyDjL7t8hRw.vtt",
+  "duration": 2133,
+  "transcription_timestamp": "2025-04-14T23:19:18.081625",
+  "model": "whisper-1"
+}

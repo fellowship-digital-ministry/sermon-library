@@ -1,0 +1,12 @@
+{
+  "video_id": "nKp-m3cnElM",
+  "title": "\"This Treasure In Earthen Vessels\"  II Corinthians 4:1-7",
+  "publish_date": 20250216,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nKp-m3cnElM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nKp-m3cnElM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp-m3cnElM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp-m3cnElM.vtt",
+  "duration": 2470,
+  "transcription_timestamp": "2025-04-14T19:56:12.753512",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "YSyHF-jDiT4",
+  "title": "\"In Every Thing Give Thanks\" I Thessalonians 5:18",
+  "publish_date": 20240415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\YSyHF-jDiT4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\YSyHF-jDiT4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YSyHF-jDiT4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YSyHF-jDiT4.vtt",
+  "duration": 2206,
+  "transcription_timestamp": "2025-04-15T07:43:13.247884",
+  "model": "whisper-1"
+}

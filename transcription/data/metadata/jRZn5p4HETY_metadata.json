@@ -1,0 +1,12 @@
+{
+  "video_id": "jRZn5p4HETY",
+  "title": "\"The Church In Pergamos\" Revelation 2:12-17",
+  "publish_date": 20250106,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jRZn5p4HETY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jRZn5p4HETY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jRZn5p4HETY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jRZn5p4HETY.vtt",
+  "duration": 2754,
+  "transcription_timestamp": "2025-04-14T20:44:41.904382",
+  "model": "whisper-1"
+}

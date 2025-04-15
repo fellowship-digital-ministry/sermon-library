@@ -1,0 +1,12 @@
+{
+  "video_id": "7YFnql3gWjE",
+  "title": "\"King Of Kings And Lord Of Lords\" I Timothy 6:13-21",
+  "publish_date": 20240714,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\7YFnql3gWjE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\7YFnql3gWjE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7YFnql3gWjE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7YFnql3gWjE.vtt",
+  "duration": 3163,
+  "transcription_timestamp": "2025-04-15T00:08:26.872250",
+  "model": "whisper-1"
+}

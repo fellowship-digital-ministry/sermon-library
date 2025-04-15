@@ -1,0 +1,12 @@
+{
+  "video_id": "nAg0uoCzhe8",
+  "title": "\"My Cup Runneth Over - Part 2\" Psalm 23:5",
+  "publish_date": 20231120,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nAg0uoCzhe8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nAg0uoCzhe8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nAg0uoCzhe8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nAg0uoCzhe8.vtt",
+  "duration": 2091,
+  "transcription_timestamp": "2025-04-15T10:49:42.557265",
+  "model": "whisper-1"
+}

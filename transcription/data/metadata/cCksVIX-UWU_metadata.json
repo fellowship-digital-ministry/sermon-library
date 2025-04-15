@@ -1,0 +1,12 @@
+{
+  "video_id": "cCksVIX-UWU",
+  "title": "\"For The Audience Of One\" Ephesians 2:10",
+  "publish_date": 20231127,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cCksVIX-UWU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cCksVIX-UWU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cCksVIX-UWU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cCksVIX-UWU.vtt",
+  "duration": 3286,
+  "transcription_timestamp": "2025-04-15T10:45:35.086826",
+  "model": "whisper-1"
+}

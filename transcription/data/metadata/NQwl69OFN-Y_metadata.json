@@ -1,0 +1,12 @@
+{
+  "video_id": "NQwl69OFN-Y",
+  "title": "\"A Good Soldier - Part 5\" II Timothy 2:6, 24-26",
+  "publish_date": 20241013,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\NQwl69OFN-Y.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\NQwl69OFN-Y.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NQwl69OFN-Y.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NQwl69OFN-Y.vtt",
+  "duration": 3023,
+  "transcription_timestamp": "2025-04-14T22:31:08.671513",
+  "model": "whisper-1"
+}

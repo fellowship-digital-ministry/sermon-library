@@ -1,0 +1,12 @@
+{
+  "video_id": "YCUS9wAR_oA",
+  "title": "\"Thy Will Be Done\" Luke 11:1-4",
+  "publish_date": 20240318,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\YCUS9wAR_oA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\YCUS9wAR_oA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YCUS9wAR_oA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YCUS9wAR_oA.vtt",
+  "duration": 2713,
+  "transcription_timestamp": "2025-04-15T08:25:42.555287",
+  "model": "whisper-1"
+}

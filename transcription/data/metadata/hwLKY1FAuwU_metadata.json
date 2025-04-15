@@ -1,0 +1,12 @@
+{
+  "video_id": "hwLKY1FAuwU",
+  "title": "\"Honorable Elders\" I Timothy 5:17-25",
+  "publish_date": 20240623,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\hwLKY1FAuwU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\hwLKY1FAuwU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hwLKY1FAuwU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hwLKY1FAuwU.vtt",
+  "duration": 3246,
+  "transcription_timestamp": "2025-04-15T06:08:50.002945",
+  "model": "whisper-1"
+}

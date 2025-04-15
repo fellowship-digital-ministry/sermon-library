@@ -1,0 +1,12 @@
+{
+  "video_id": "14-lQQNG7W8",
+  "title": "\"Jacob's Final Request\" Genesis 49:29 - 50:14",
+  "publish_date": 20240415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\14-lQQNG7W8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\14-lQQNG7W8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\14-lQQNG7W8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\14-lQQNG7W8.vtt",
+  "duration": 2555,
+  "transcription_timestamp": "2025-04-15T07:50:46.344328",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "g08Zns8_rJI",
+  "title": "\"Intercessory Prayer\" I Thessalonians 5:25",
+  "publish_date": 20240602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\g08Zns8_rJI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\g08Zns8_rJI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\g08Zns8_rJI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\g08Zns8_rJI.vtt",
+  "duration": 2000,
+  "transcription_timestamp": "2025-04-15T06:28:37.530329",
+  "model": "whisper-1"
+}

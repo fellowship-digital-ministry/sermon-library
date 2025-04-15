@@ -1,0 +1,12 @@
+{
+  "video_id": "HyiDXKZbWS8",
+  "title": "\"Perilous Times\" II Timothy 3:1-9",
+  "publish_date": 20241104,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\HyiDXKZbWS8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\HyiDXKZbWS8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HyiDXKZbWS8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HyiDXKZbWS8.vtt",
+  "duration": 3187,
+  "transcription_timestamp": "2025-04-14T21:45:12.889822",
+  "model": "whisper-1"
+}

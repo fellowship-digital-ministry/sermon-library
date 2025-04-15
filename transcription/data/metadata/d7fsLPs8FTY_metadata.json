@@ -1,0 +1,12 @@
+{
+  "video_id": "d7fsLPs8FTY",
+  "title": "\"Jacob Blesses His Sons - Part Two\" Genesis 49:13-19",
+  "publish_date": 20240325,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\d7fsLPs8FTY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\d7fsLPs8FTY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d7fsLPs8FTY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d7fsLPs8FTY.vtt",
+  "duration": 2814,
+  "transcription_timestamp": "2025-04-15T08:05:32.714091",
+  "model": "whisper-1"
+}

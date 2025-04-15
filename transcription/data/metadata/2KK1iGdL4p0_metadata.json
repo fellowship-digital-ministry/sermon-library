@@ -1,0 +1,12 @@
+{
+  "video_id": "2KK1iGdL4p0",
+  "title": "\"I Will Build My Church\" Matthew 16:18",
+  "publish_date": 20240722,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2KK1iGdL4p0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2KK1iGdL4p0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2KK1iGdL4p0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2KK1iGdL4p0.vtt",
+  "duration": 2707,
+  "transcription_timestamp": "2025-04-14T23:54:57.524883",
+  "model": "whisper-1"
+}

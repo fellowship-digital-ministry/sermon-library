@@ -1,0 +1,12 @@
+{
+  "video_id": "VUxY_FF000Q",
+  "title": "\"Flee, Follow, Fight\" I Timothy 6:11-12",
+  "publish_date": 20240708,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\VUxY_FF000Q.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\VUxY_FF000Q.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VUxY_FF000Q.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VUxY_FF000Q.vtt",
+  "duration": 3062,
+  "transcription_timestamp": "2025-04-15T01:24:43.503997",
+  "model": "whisper-1"
+}

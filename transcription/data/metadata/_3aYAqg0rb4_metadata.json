@@ -1,0 +1,12 @@
+{
+  "video_id": "_3aYAqg0rb4",
+  "title": "\"Busybodies\" II Thessalonians 3:11-12",
+  "publish_date": 20240602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_3aYAqg0rb4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_3aYAqg0rb4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_3aYAqg0rb4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_3aYAqg0rb4.vtt",
+  "duration": 2101,
+  "transcription_timestamp": "2025-04-15T06:25:10.523423",
+  "model": "whisper-1"
+}

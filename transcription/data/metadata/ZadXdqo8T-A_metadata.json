@@ -1,0 +1,12 @@
+{
+  "video_id": "ZadXdqo8T-A",
+  "title": "\"Walk Worthy\" I Thessalonians 2:12",
+  "publish_date": 20240205,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZadXdqo8T-A.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZadXdqo8T-A.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZadXdqo8T-A.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZadXdqo8T-A.vtt",
+  "duration": 1960,
+  "transcription_timestamp": "2025-04-15T09:33:36.431241",
+  "model": "whisper-1"
+}

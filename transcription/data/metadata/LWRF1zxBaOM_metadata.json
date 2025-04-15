@@ -1,0 +1,12 @@
+{
+  "video_id": "LWRF1zxBaOM",
+  "title": "\"Pray Without Ceasing\" I Thessalonians 5:17",
+  "publish_date": 20240320,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LWRF1zxBaOM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LWRF1zxBaOM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LWRF1zxBaOM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LWRF1zxBaOM.vtt",
+  "duration": 1920,
+  "transcription_timestamp": "2025-04-15T08:21:08.488900",
+  "model": "whisper-1"
+}

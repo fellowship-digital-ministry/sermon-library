@@ -1,0 +1,12 @@
+{
+  "video_id": "LXUyl5whAVc",
+  "title": "\"How Shall We Order The Child?\" Judges 13",
+  "publish_date": 20240618,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LXUyl5whAVc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LXUyl5whAVc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LXUyl5whAVc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LXUyl5whAVc.vtt",
+  "duration": 2909,
+  "transcription_timestamp": "2025-04-15T06:14:15.452407",
+  "model": "whisper-1"
+}

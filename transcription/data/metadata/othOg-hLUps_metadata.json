@@ -1,0 +1,12 @@
+{
+  "video_id": "othOg-hLUps",
+  "title": "\"When You Are Misunderstood\" II Corinthians 1:12-2:4",
+  "publish_date": 20250112,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\othOg-hLUps.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\othOg-hLUps.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\othOg-hLUps.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\othOg-hLUps.vtt",
+  "duration": 2780,
+  "transcription_timestamp": "2025-04-14T20:35:14.147453",
+  "model": "whisper-1"
+}

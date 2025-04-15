@@ -1,0 +1,12 @@
+{
+  "video_id": "jcFu5W9Vr5Y",
+  "title": "\"Jacob Lived In Egypt Seventeen Years\" Genesis 47:1-12, 28-31",
+  "publish_date": 20240212,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jcFu5W9Vr5Y.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jcFu5W9Vr5Y.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jcFu5W9Vr5Y.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jcFu5W9Vr5Y.vtt",
+  "duration": 2622,
+  "transcription_timestamp": "2025-04-15T09:15:39.163396",
+  "model": "whisper-1"
+}

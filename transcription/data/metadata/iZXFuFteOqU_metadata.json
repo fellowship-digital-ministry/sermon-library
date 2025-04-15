@@ -1,0 +1,12 @@
+{
+  "video_id": "iZXFuFteOqU",
+  "title": "\"So Run, That Ye May Obtain\" Acts 20:17-36",
+  "publish_date": 20231206,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\iZXFuFteOqU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\iZXFuFteOqU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iZXFuFteOqU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iZXFuFteOqU.vtt",
+  "duration": 2979,
+  "transcription_timestamp": "2025-04-15T10:39:48.999770",
+  "model": "whisper-1"
+}

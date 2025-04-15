@@ -1,0 +1,12 @@
+{
+  "video_id": "iMFOWiAni18",
+  "title": "\"The Judgment Seat Of Christ\"  II Corinthians 5:10-13",
+  "publish_date": 20250316,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\iMFOWiAni18.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\iMFOWiAni18.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iMFOWiAni18.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iMFOWiAni18.vtt",
+  "duration": 3213,
+  "transcription_timestamp": "2025-04-14T19:25:02.138473",
+  "model": "whisper-1"
+}

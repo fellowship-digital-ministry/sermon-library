@@ -1,0 +1,12 @@
+{
+  "video_id": "R16x_G3i864",
+  "title": "\"Quench Not The Spirit\" I Thessalonians 5:19",
+  "publish_date": 20240415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\R16x_G3i864.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\R16x_G3i864.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R16x_G3i864.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R16x_G3i864.vtt",
+  "duration": 1888,
+  "transcription_timestamp": "2025-04-15T07:39:26.762630",
+  "model": "whisper-1"
+}

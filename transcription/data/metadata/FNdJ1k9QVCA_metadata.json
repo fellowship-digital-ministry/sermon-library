@@ -1,0 +1,12 @@
+{
+  "video_id": "FNdJ1k9QVCA",
+  "title": "\"A Good Soldier - Part 2\" II Timothy 2:4, 14-19",
+  "publish_date": 20240909,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\FNdJ1k9QVCA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\FNdJ1k9QVCA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FNdJ1k9QVCA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FNdJ1k9QVCA.vtt",
+  "duration": 2968,
+  "transcription_timestamp": "2025-04-14T23:15:45.619794",
+  "model": "whisper-1"
+}

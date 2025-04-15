@@ -1,0 +1,12 @@
+{
+  "video_id": "2cDKZaPlI5s",
+  "title": "\"The Seven Years Of Dearth Began\" Genesis 41:53-57",
+  "publish_date": 20231115,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2cDKZaPlI5s.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2cDKZaPlI5s.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2cDKZaPlI5s.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2cDKZaPlI5s.vtt",
+  "duration": 2510,
+  "transcription_timestamp": "2025-04-15T10:59:43.232736",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "giwhcbMIrNo",
+  "title": "\"Victory In Jesus\"  II Corinthians 2:12-17",
+  "publish_date": 20250203,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\giwhcbMIrNo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\giwhcbMIrNo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\giwhcbMIrNo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\giwhcbMIrNo.vtt",
+  "duration": 2829,
+  "transcription_timestamp": "2025-04-14T20:15:44.420651",
+  "model": "whisper-1"
+}

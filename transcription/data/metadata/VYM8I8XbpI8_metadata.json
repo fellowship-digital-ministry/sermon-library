@@ -1,0 +1,12 @@
+{
+  "video_id": "VYM8I8XbpI8",
+  "title": "\"A Good Soldier - Part 1\" II Timothy 2:3",
+  "publish_date": 20240902,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\VYM8I8XbpI8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\VYM8I8XbpI8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VYM8I8XbpI8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VYM8I8XbpI8.vtt",
+  "duration": 3268,
+  "transcription_timestamp": "2025-04-14T23:24:53.703526",
+  "model": "whisper-1"
+}

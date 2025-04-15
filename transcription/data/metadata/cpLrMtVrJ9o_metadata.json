@@ -1,0 +1,12 @@
+{
+  "video_id": "cpLrMtVrJ9o",
+  "title": "\"Forgiveness\" II Corinthians 2:5-11",
+  "publish_date": 20250126,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cpLrMtVrJ9o.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cpLrMtVrJ9o.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cpLrMtVrJ9o.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cpLrMtVrJ9o.vtt",
+  "duration": 2917,
+  "transcription_timestamp": "2025-04-14T20:20:58.722689",
+  "model": "whisper-1"
+}

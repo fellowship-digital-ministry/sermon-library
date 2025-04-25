@@ -6,7 +6,7 @@ on:
     - cron: '0 20 * * 1,4'
   workflow_dispatch:  # Allows manual triggering
 
-# Add this permissions block
+# Add permissions block
 permissions:
   contents: write
 
@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Full history for commits
-          token: ${{ secrets.PAT_TOKEN }}  # Use a Personal Access Token instead
+          token: ${{ secrets.PAT_TOKEN }}  # Use a Personal Access Token
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -46,15 +46,18 @@ jobs:
           cd transcription
           python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup
       
+      # First pull latest changes before committing
+      - name: Pull latest changes
+        run: git pull origin main
+        
       - name: Commit and push changes
         run: |
           git add transcription/data/transcripts/
           git add transcription/data/metadata/
           git add transcription/data/video_list.csv
-          git diff --quiet && git diff --staged --quiet || (
-            git config --global user.name "Sermon Transcription Bot"
-            git config --global user.email "fellowship-digital-ministry@proton.me"
-            git pull --rebase origin main
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
             git commit -m "Add new sermon transcripts and subtitles [skip ci]"
             git push
-          )
+          fi

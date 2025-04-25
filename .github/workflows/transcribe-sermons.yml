@@ -43,10 +43,12 @@ jobs:
           python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup
       
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT token here too
         run: |
           git add transcription/data/transcripts/
           git add transcription/data/metadata/
           git add transcription/data/video_list.csv
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new sermon transcripts and subtitles [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Add new sermon transcripts and subtitles [skip ci]" && 
+            git remote set-url origin https://${{ secrets.PAT_TOKEN }}@github.com/fellowship-digital-ministry/sermon-library.git &&
+            git push
+          )

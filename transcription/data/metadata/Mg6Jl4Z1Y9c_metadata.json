@@ -1,0 +1,12 @@
+{
+  "video_id": "Mg6Jl4Z1Y9c",
+  "title": "FBC Oakton, VA - December 13, 2020 (Morning Worship)",
+  "publish_date": 20201213,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Mg6Jl4Z1Y9c.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Mg6Jl4Z1Y9c.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Mg6Jl4Z1Y9c.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Mg6Jl4Z1Y9c.vtt",
+  "duration": 3533,
+  "transcription_timestamp": "2025-04-17T10:03:49.871288",
+  "model": "whisper-1"
+}

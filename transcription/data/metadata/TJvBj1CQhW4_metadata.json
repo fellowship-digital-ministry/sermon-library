@@ -1,0 +1,12 @@
+{
+  "video_id": "TJvBj1CQhW4",
+  "title": "\"Thy Name Shall Be Abraham\" Genesis 17:2-27",
+  "publish_date": 20210315,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\TJvBj1CQhW4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\TJvBj1CQhW4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TJvBj1CQhW4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TJvBj1CQhW4.vtt",
+  "duration": 2746,
+  "transcription_timestamp": "2025-04-17T07:39:50.797584",
+  "model": "whisper-1"
+}

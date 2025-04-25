@@ -1,0 +1,12 @@
+{
+  "video_id": "bONI-IK_A_Y",
+  "title": "\"Receive Him As Myself\" Philemon 15-17",
+  "publish_date": 20220714,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bONI-IK_A_Y.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bONI-IK_A_Y.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bONI-IK_A_Y.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bONI-IK_A_Y.vtt",
+  "duration": 1619,
+  "transcription_timestamp": "2025-04-16T13:57:23.551047",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "PgcjaAnGexU",
+  "title": "\"Go Forward\" Exodus 14:15",
+  "publish_date": 20211226,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\PgcjaAnGexU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\PgcjaAnGexU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PgcjaAnGexU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PgcjaAnGexU.vtt",
+  "duration": 3269,
+  "transcription_timestamp": "2025-04-17T01:19:41.707796",
+  "model": "whisper-1"
+}

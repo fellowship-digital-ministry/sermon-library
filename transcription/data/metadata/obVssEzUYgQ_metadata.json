@@ -1,0 +1,12 @@
+{
+  "video_id": "obVssEzUYgQ",
+  "title": "\"Generational Faith\" II Timothy 1:5",
+  "publish_date": 20220509,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\obVssEzUYgQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\obVssEzUYgQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\obVssEzUYgQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\obVssEzUYgQ.vtt",
+  "duration": 2649,
+  "transcription_timestamp": "2025-04-16T15:01:23.573372",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "zo6IdkJY-nY",
+  "title": "\"Praying Always For You\" Colossians 1:3",
+  "publish_date": 20210125,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\zo6IdkJY-nY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\zo6IdkJY-nY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\zo6IdkJY-nY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\zo6IdkJY-nY.vtt",
+  "duration": 2458,
+  "transcription_timestamp": "2025-04-17T09:05:41.668045",
+  "model": "whisper-1"
+}

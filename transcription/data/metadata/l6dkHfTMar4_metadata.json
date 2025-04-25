@@ -1,0 +1,12 @@
+{
+  "video_id": "l6dkHfTMar4",
+  "title": "\"The Pathway To Revival\" Hosea 10:12",
+  "publish_date": 20220905,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\l6dkHfTMar4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\l6dkHfTMar4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\l6dkHfTMar4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\l6dkHfTMar4.vtt",
+  "duration": 2869,
+  "transcription_timestamp": "2025-04-16T13:17:57.792038",
+  "model": "whisper-1"
+}

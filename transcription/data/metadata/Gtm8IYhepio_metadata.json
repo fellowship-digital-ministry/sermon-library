@@ -1,0 +1,12 @@
+{
+  "video_id": "Gtm8IYhepio",
+  "title": "\"Joy Is Withered Away\" Joel 1:1-14",
+  "publish_date": 20210920,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Gtm8IYhepio.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Gtm8IYhepio.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gtm8IYhepio.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gtm8IYhepio.vtt",
+  "duration": 2823,
+  "transcription_timestamp": "2025-04-17T04:06:47.770998",
+  "model": "whisper-1"
+}

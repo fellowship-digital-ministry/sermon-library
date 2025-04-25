@@ -1,0 +1,12 @@
+{
+  "video_id": "IM7A6QqEAIQ",
+  "title": "\"Why Missions?\" Acts 13:1-5",
+  "publish_date": 20220925,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\IM7A6QqEAIQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\IM7A6QqEAIQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IM7A6QqEAIQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IM7A6QqEAIQ.vtt",
+  "duration": 3113,
+  "transcription_timestamp": "2025-04-16T13:03:32.958686",
+  "model": "whisper-1"
+}

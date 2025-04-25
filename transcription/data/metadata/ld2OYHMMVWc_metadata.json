@@ -1,0 +1,12 @@
+{
+  "video_id": "ld2OYHMMVWc",
+  "title": "FBC Oakton, VA - September 5, 2021 (Evening Worship)",
+  "publish_date": 20210921,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ld2OYHMMVWc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ld2OYHMMVWc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ld2OYHMMVWc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ld2OYHMMVWc.vtt",
+  "duration": 2753,
+  "transcription_timestamp": "2025-04-17T03:57:09.293562",
+  "model": "whisper-1"
+}

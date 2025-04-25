@@ -1,0 +1,12 @@
+{
+  "video_id": "R9o268hePTY",
+  "title": "\"My Fellowworkers\" Colossians 4:7-11",
+  "publish_date": 20211114,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\R9o268hePTY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\R9o268hePTY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R9o268hePTY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R9o268hePTY.vtt",
+  "duration": 2749,
+  "transcription_timestamp": "2025-04-17T02:23:04.545456",
+  "model": "whisper-1"
+}

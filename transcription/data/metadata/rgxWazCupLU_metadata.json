@@ -1,0 +1,12 @@
+{
+  "video_id": "rgxWazCupLU",
+  "title": "\"In Remembrance Of Me\" I Corinthians 11:23-31",
+  "publish_date": 20211101,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\rgxWazCupLU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\rgxWazCupLU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rgxWazCupLU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rgxWazCupLU.vtt",
+  "duration": 1887,
+  "transcription_timestamp": "2025-04-17T02:43:53.166650",
+  "model": "whisper-1"
+}

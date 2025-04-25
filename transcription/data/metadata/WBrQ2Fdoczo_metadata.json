@@ -1,0 +1,12 @@
+{
+  "video_id": "WBrQ2Fdoczo",
+  "title": "\"Isaac Blessed Him And Charged Him\" Genesis 28:1-9",
+  "publish_date": 20220227,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\WBrQ2Fdoczo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\WBrQ2Fdoczo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBrQ2Fdoczo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBrQ2Fdoczo.vtt",
+  "duration": 2625,
+  "transcription_timestamp": "2025-04-16T16:24:36.680068",
+  "model": "whisper-1"
+}

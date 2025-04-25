@@ -1,0 +1,12 @@
+{
+  "video_id": "ih2lvcJJaCE",
+  "title": "\"When Christ Shall Appear\" Colossians 3:4",
+  "publish_date": 20210725,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ih2lvcJJaCE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ih2lvcJJaCE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ih2lvcJJaCE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ih2lvcJJaCE.vtt",
+  "duration": 2979,
+  "transcription_timestamp": "2025-04-17T05:09:43.472627",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "vy5VEXZUwEU",
+  "title": "\"O How Love I Thy Law - Part 2\" Psalm 119:159",
+  "publish_date": 20230312,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\vy5VEXZUwEU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\vy5VEXZUwEU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vy5VEXZUwEU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vy5VEXZUwEU.vtt",
+  "duration": 2806,
+  "transcription_timestamp": "2025-04-16T10:11:58.886408",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "rmcjjZFliXA",
+  "title": "\"The Generation To Come\" Psalm 78:1-8",
+  "publish_date": 20220926,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\rmcjjZFliXA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\rmcjjZFliXA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rmcjjZFliXA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rmcjjZFliXA.vtt",
+  "duration": 2887,
+  "transcription_timestamp": "2025-04-16T12:58:09.585428",
+  "model": "whisper-1"
+}

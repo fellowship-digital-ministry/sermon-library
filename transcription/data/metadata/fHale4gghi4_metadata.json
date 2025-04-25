@@ -1,0 +1,12 @@
+{
+  "video_id": "fHale4gghi4",
+  "title": "\"Love One Another\" I John 2:7-11",
+  "publish_date": 20220207,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\fHale4gghi4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\fHale4gghi4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fHale4gghi4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fHale4gghi4.vtt",
+  "duration": 3020,
+  "transcription_timestamp": "2025-04-17T00:09:59.912692",
+  "model": "whisper-1"
+}

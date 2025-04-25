@@ -1,0 +1,12 @@
+{
+  "video_id": "CECxpbAod2A",
+  "title": "\"Fruitful In The Land Of Affliction\" Genesis 41:44-53",
+  "publish_date": 20231106,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\CECxpbAod2A.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\CECxpbAod2A.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CECxpbAod2A.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CECxpbAod2A.vtt",
+  "duration": 2853,
+  "transcription_timestamp": "2025-04-15T23:24:23.750113",
+  "model": "whisper-1"
+}

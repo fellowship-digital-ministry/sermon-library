@@ -1,0 +1,12 @@
+{
+  "video_id": "__bA4Uw99tw",
+  "title": "\"The Secret Was Revealed Unto Daniel\" Daniel 2:7-23",
+  "publish_date": 20231106,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\__bA4Uw99tw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\__bA4Uw99tw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\__bA4Uw99tw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\__bA4Uw99tw.vtt",
+  "duration": 2997,
+  "transcription_timestamp": "2025-04-15T23:29:26.720034",
+  "model": "whisper-1"
+}

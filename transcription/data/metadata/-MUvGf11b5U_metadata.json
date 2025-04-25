@@ -1,0 +1,12 @@
+{
+  "video_id": "-MUvGf11b5U",
+  "title": "\"Joseph In The Pit\" Genesis 37:12-30",
+  "publish_date": 20230713,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\-MUvGf11b5U.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\-MUvGf11b5U.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-MUvGf11b5U.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-MUvGf11b5U.vtt",
+  "duration": 2461,
+  "transcription_timestamp": "2025-04-16T08:12:08.169546",
+  "model": "whisper-1"
+}

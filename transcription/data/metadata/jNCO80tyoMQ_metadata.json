@@ -1,0 +1,12 @@
+{
+  "video_id": "jNCO80tyoMQ",
+  "title": "\"They Thought To Do Me Mischief\" Nehemiah 6:1-19",
+  "publish_date": 20210425,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jNCO80tyoMQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jNCO80tyoMQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jNCO80tyoMQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jNCO80tyoMQ.vtt",
+  "duration": 3191,
+  "transcription_timestamp": "2025-04-17T06:38:53.508032",
+  "model": "whisper-1"
+}

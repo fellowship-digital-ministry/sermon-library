@@ -1,0 +1,12 @@
+{
+  "video_id": "wmBpYb5deRo",
+  "title": "\"Ezra, A Ready Scribe\" Ezra 7:1-10",
+  "publish_date": 20200517,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\wmBpYb5deRo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\wmBpYb5deRo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wmBpYb5deRo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wmBpYb5deRo.vtt",
+  "duration": 1842,
+  "transcription_timestamp": "2025-04-17T20:01:04.433252",
+  "model": "whisper-1"
+}

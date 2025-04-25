@@ -1,0 +1,12 @@
+{
+  "video_id": "cndo5VpvDZo",
+  "title": "\"He Is Precious - Part 1\" I Peter 2:7",
+  "publish_date": 20211121,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cndo5VpvDZo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cndo5VpvDZo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cndo5VpvDZo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cndo5VpvDZo.vtt",
+  "duration": 2638,
+  "transcription_timestamp": "2025-04-17T02:14:07.292872",
+  "model": "whisper-1"
+}

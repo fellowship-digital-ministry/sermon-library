@@ -1,0 +1,12 @@
+{
+  "video_id": "WTvsGmnExXA",
+  "title": "\"Beware!\" Colossians 2:8-10",
+  "publish_date": 20210314,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\WTvsGmnExXA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\WTvsGmnExXA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WTvsGmnExXA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WTvsGmnExXA.vtt",
+  "duration": 3213,
+  "transcription_timestamp": "2025-04-17T07:45:03.942151",
+  "model": "whisper-1"
+}

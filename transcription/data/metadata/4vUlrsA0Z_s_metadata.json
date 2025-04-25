@@ -1,0 +1,12 @@
+{
+  "video_id": "4vUlrsA0Z_s",
+  "title": "\"Noah's Final Days\" Genesis 9:18-29",
+  "publish_date": 20200615,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4vUlrsA0Z_s.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4vUlrsA0Z_s.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4vUlrsA0Z_s.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4vUlrsA0Z_s.vtt",
+  "duration": 2795,
+  "transcription_timestamp": "2025-04-17T16:39:54.827856",
+  "model": "whisper-1"
+}

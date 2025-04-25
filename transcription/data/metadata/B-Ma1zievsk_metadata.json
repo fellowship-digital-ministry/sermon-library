@@ -1,0 +1,12 @@
+{
+  "video_id": "B-Ma1zievsk",
+  "title": "\"Divisions and Contentions\" I Corinthians 1:10-11",
+  "publish_date": 20230507,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\B-Ma1zievsk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\B-Ma1zievsk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B-Ma1zievsk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B-Ma1zievsk.vtt",
+  "duration": 2101,
+  "transcription_timestamp": "2025-04-16T09:22:57.449056",
+  "model": "whisper-1"
+}

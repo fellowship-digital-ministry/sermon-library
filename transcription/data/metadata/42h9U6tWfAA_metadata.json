@@ -1,0 +1,12 @@
+{
+  "video_id": "42h9U6tWfAA",
+  "title": "\"Greater Is He That Is In You\" I John 4:4-6",
+  "publish_date": 20220717,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\42h9U6tWfAA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\42h9U6tWfAA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\42h9U6tWfAA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\42h9U6tWfAA.vtt",
+  "duration": 2810,
+  "transcription_timestamp": "2025-04-16T13:53:56.844513",
+  "model": "whisper-1"
+}

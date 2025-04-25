@@ -1,0 +1,12 @@
+{
+  "video_id": "1AnI1m5Yp2c",
+  "title": "\"We Are His Workmanship\" Ephesians 2:10",
+  "publish_date": 20230723,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\1AnI1m5Yp2c.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\1AnI1m5Yp2c.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1AnI1m5Yp2c.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1AnI1m5Yp2c.vtt",
+  "duration": 3358,
+  "transcription_timestamp": "2025-04-16T01:27:03.680303",
+  "model": "whisper-1"
+}

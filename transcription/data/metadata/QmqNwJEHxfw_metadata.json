@@ -1,0 +1,12 @@
+{
+  "video_id": "QmqNwJEHxfw",
+  "title": "FBC Oakton, VA - May 10, 2020 (Evening Worship)",
+  "publish_date": 20200511,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QmqNwJEHxfw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QmqNwJEHxfw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QmqNwJEHxfw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QmqNwJEHxfw.vtt",
+  "duration": 1851,
+  "transcription_timestamp": "2025-04-17T20:12:12.384225",
+  "model": "whisper-1"
+}

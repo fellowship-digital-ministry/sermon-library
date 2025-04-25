@@ -1,0 +1,12 @@
+{
+  "video_id": "EYMGpQZnswg",
+  "title": "\"Many Rise Against Me\" Psalm 3:1-2",
+  "publish_date": 20211202,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\EYMGpQZnswg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\EYMGpQZnswg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EYMGpQZnswg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EYMGpQZnswg.vtt",
+  "duration": 1773,
+  "transcription_timestamp": "2025-04-17T01:50:39.848752",
+  "model": "whisper-1"
+}

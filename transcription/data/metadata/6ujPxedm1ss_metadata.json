@@ -1,0 +1,12 @@
+{
+  "video_id": "6ujPxedm1ss",
+  "title": "\"I Knew That Thou Art A Gracious God\" Jonah 4:1-2",
+  "publish_date": 20220711,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6ujPxedm1ss.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6ujPxedm1ss.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6ujPxedm1ss.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6ujPxedm1ss.vtt",
+  "duration": 3178,
+  "transcription_timestamp": "2025-04-16T14:03:41.719111",
+  "model": "whisper-1"
+}

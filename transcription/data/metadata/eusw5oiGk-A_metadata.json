@@ -1,0 +1,12 @@
+{
+  "video_id": "eusw5oiGk-A",
+  "title": "\"Jacob Saw Rachel\" Genesis 29:1-30",
+  "publish_date": 20220307,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\eusw5oiGk-A.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\eusw5oiGk-A.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eusw5oiGk-A.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eusw5oiGk-A.vtt",
+  "duration": 2539,
+  "transcription_timestamp": "2025-04-16T16:00:22.670004",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "nh_yOTAqen4",
+  "title": "\"Gehazi Followed After Naaman\" II Kings 5:20-27",
+  "publish_date": 20200409,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nh_yOTAqen4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nh_yOTAqen4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nh_yOTAqen4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nh_yOTAqen4.vtt",
+  "duration": 2171,
+  "transcription_timestamp": "2025-04-17T20:58:20.608591",
+  "model": "whisper-1"
+}

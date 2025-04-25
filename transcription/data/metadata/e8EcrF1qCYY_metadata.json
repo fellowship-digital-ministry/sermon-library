@@ -1,0 +1,12 @@
+{
+  "video_id": "e8EcrF1qCYY",
+  "title": "\"A Witness Of The Sufferings Of Christ\" I Peter 5:1",
+  "publish_date": 20220403,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\e8EcrF1qCYY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\e8EcrF1qCYY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\e8EcrF1qCYY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\e8EcrF1qCYY.vtt",
+  "duration": 2732,
+  "transcription_timestamp": "2025-04-16T15:31:41.042148",
+  "model": "whisper-1"
+}

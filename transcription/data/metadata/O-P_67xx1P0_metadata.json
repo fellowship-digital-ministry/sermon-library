@@ -1,0 +1,12 @@
+{
+  "video_id": "O-P_67xx1P0",
+  "title": "\"The Righteous Lord Loveth Righteousness\" Psalm 11:7",
+  "publish_date": 20201116,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\O-P_67xx1P0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\O-P_67xx1P0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\O-P_67xx1P0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\O-P_67xx1P0.vtt",
+  "duration": 3010,
+  "transcription_timestamp": "2025-04-17T10:59:13.264648",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "wGhXfp34H1M",
+  "title": "\"Teach Us To Pray\" Luke 11:1-2",
+  "publish_date": 20210211,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\wGhXfp34H1M.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\wGhXfp34H1M.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wGhXfp34H1M.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wGhXfp34H1M.vtt",
+  "duration": 1472,
+  "transcription_timestamp": "2025-04-17T08:34:36.966764",
+  "model": "whisper-1"
+}

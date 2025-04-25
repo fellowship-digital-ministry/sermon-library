@@ -1,0 +1,12 @@
+{
+  "video_id": "N3xsGpOdIxU",
+  "title": "\"According Unto The Greatness Of Thy Mercy\" Numbers 14:11-20",
+  "publish_date": 20230614,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\N3xsGpOdIxU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\N3xsGpOdIxU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N3xsGpOdIxU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N3xsGpOdIxU.vtt",
+  "duration": 2889,
+  "transcription_timestamp": "2025-04-16T08:41:52.350488",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "2RltBTO3zYE",
+  "title": "\"Consider Christ\" Hebrews 12:3",
+  "publish_date": 20231016,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2RltBTO3zYE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2RltBTO3zYE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2RltBTO3zYE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2RltBTO3zYE.vtt",
+  "duration": 3092,
+  "transcription_timestamp": "2025-04-15T23:40:06.162962",
+  "model": "whisper-1"
+}

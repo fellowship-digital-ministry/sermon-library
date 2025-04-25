@@ -1,0 +1,12 @@
+{
+  "video_id": "bADTYZtvU4s",
+  "title": "\"Finding My Place In World Missions\" Mark 16:15",
+  "publish_date": 20220408,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bADTYZtvU4s.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bADTYZtvU4s.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bADTYZtvU4s.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bADTYZtvU4s.vtt",
+  "duration": 1611,
+  "transcription_timestamp": "2025-04-16T15:26:47.389595",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "sn_vh6-Qfx0",
+  "title": "\"Hold Our Peace or Go And Tell?\" II Kings 7:1-20",
+  "publish_date": 20230306,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\sn_vh6-Qfx0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\sn_vh6-Qfx0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sn_vh6-Qfx0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sn_vh6-Qfx0.vtt",
+  "duration": 2548,
+  "transcription_timestamp": "2025-04-16T10:16:24.918373",
+  "model": "whisper-1"
+}

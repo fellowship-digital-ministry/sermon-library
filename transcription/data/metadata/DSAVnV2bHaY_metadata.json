@@ -1,0 +1,12 @@
+{
+  "video_id": "DSAVnV2bHaY",
+  "title": "\"The Dreams Of Joseph\" Genesis 37:5-11",
+  "publish_date": 20230626,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\DSAVnV2bHaY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\DSAVnV2bHaY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DSAVnV2bHaY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DSAVnV2bHaY.vtt",
+  "duration": 2376,
+  "transcription_timestamp": "2025-04-16T08:24:18.773891",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "9du5nBV5SM8",
+  "title": "\"Battle Plan For Victory\" James 4:7",
+  "publish_date": 20210909,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9du5nBV5SM8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9du5nBV5SM8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9du5nBV5SM8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9du5nBV5SM8.vtt",
+  "duration": 1909,
+  "transcription_timestamp": "2025-04-17T04:14:11.632417",
+  "model": "whisper-1"
+}

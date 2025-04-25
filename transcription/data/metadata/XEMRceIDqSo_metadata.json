@@ -1,0 +1,12 @@
+{
+  "video_id": "XEMRceIDqSo",
+  "title": "\"Get Thee To Zarephath\" I Kings 17:8-16",
+  "publish_date": 20230709,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\XEMRceIDqSo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\XEMRceIDqSo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XEMRceIDqSo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XEMRceIDqSo.vtt",
+  "duration": 2417,
+  "transcription_timestamp": "2025-04-16T08:16:02.804728",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "sJAMffvnci8",
+  "title": "\"He Saw Them\" Mark 6:45-52",
+  "publish_date": 20210429,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\sJAMffvnci8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\sJAMffvnci8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sJAMffvnci8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sJAMffvnci8.vtt",
+  "duration": 1511,
+  "transcription_timestamp": "2025-04-17T06:33:22.358193",
+  "model": "whisper-1"
+}

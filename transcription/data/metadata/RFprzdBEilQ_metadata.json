@@ -1,0 +1,12 @@
+{
+  "video_id": "RFprzdBEilQ",
+  "title": "\"As Ye See The Day Approaching\" Hebrews 10:25",
+  "publish_date": 20220327,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\RFprzdBEilQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\RFprzdBEilQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RFprzdBEilQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RFprzdBEilQ.vtt",
+  "duration": 2887,
+  "transcription_timestamp": "2025-04-16T15:40:30.415826",
+  "model": "whisper-1"
+}

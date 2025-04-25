@@ -1,0 +1,12 @@
+{
+  "video_id": "ptmZhTOqic0",
+  "title": "\"Put On Therefore\" Colossians 3:10-14",
+  "publish_date": 20210829,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ptmZhTOqic0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ptmZhTOqic0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ptmZhTOqic0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ptmZhTOqic0.vtt",
+  "duration": 3353,
+  "transcription_timestamp": "2025-04-17T04:29:46.089598",
+  "model": "whisper-1"
+}

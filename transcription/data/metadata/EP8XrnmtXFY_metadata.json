@@ -1,0 +1,12 @@
+{
+  "video_id": "EP8XrnmtXFY",
+  "title": "\"For Our Good Always\" Deuteronomy 6:20-25",
+  "publish_date": 20210607,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\EP8XrnmtXFY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\EP8XrnmtXFY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EP8XrnmtXFY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EP8XrnmtXFY.vtt",
+  "duration": 3180,
+  "transcription_timestamp": "2025-04-17T05:57:39.693644",
+  "model": "whisper-1"
+}

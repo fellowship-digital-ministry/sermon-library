@@ -1,0 +1,12 @@
+{
+  "video_id": "9JjoBDbN7Ms",
+  "title": "\"The Place Of Prayer In Our Lives\" I Timothy 2:1-8",
+  "publish_date": 20220227,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9JjoBDbN7Ms.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9JjoBDbN7Ms.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9JjoBDbN7Ms.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9JjoBDbN7Ms.vtt",
+  "duration": 2944,
+  "transcription_timestamp": "2025-04-16T16:18:07.900187",
+  "model": "whisper-1"
+}

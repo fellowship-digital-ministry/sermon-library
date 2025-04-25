@@ -1,0 +1,12 @@
+{
+  "video_id": "eg1F6EDQyos",
+  "title": "\"Deceiving Your Own Selves\" James 1:22",
+  "publish_date": 20211122,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\eg1F6EDQyos.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\eg1F6EDQyos.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eg1F6EDQyos.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eg1F6EDQyos.vtt",
+  "duration": 1877,
+  "transcription_timestamp": "2025-04-17T02:09:21.951438",
+  "model": "whisper-1"
+}

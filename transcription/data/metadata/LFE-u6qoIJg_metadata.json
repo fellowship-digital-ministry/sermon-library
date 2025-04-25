@@ -1,0 +1,12 @@
+{
+  "video_id": "LFE-u6qoIJg",
+  "title": "\"Judge Not, That Ye Be Not Judged\" Matthew 7:1-5",
+  "publish_date": 20221114,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LFE-u6qoIJg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LFE-u6qoIJg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LFE-u6qoIJg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LFE-u6qoIJg.vtt",
+  "duration": 2631,
+  "transcription_timestamp": "2025-04-16T11:38:35.246940",
+  "model": "whisper-1"
+}

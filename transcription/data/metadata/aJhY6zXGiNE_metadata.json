@@ -1,0 +1,12 @@
+{
+  "video_id": "aJhY6zXGiNE",
+  "title": "\"We Also Forgive\" Luke 11:4",
+  "publish_date": 20210401,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\aJhY6zXGiNE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\aJhY6zXGiNE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aJhY6zXGiNE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aJhY6zXGiNE.vtt",
+  "duration": 1506,
+  "transcription_timestamp": "2025-04-17T07:09:34.382066",
+  "model": "whisper-1"
+}

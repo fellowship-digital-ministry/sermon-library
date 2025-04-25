@@ -1,0 +1,12 @@
+{
+  "video_id": "Qr15eY1HTgY",
+  "title": "\"A More Sure Word\" II Peter 1:12-21",
+  "publish_date": 20230226,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Qr15eY1HTgY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Qr15eY1HTgY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qr15eY1HTgY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qr15eY1HTgY.vtt",
+  "duration": 2666,
+  "transcription_timestamp": "2025-04-16T10:28:18.704039",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "NDFKzTPUOA0",
+  "title": "\"To The Saints At Colosse\" Colossians 1:1-8",
+  "publish_date": 20210110,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\NDFKzTPUOA0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\NDFKzTPUOA0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NDFKzTPUOA0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NDFKzTPUOA0.vtt",
+  "duration": 3190,
+  "transcription_timestamp": "2025-04-17T09:23:01.203353",
+  "model": "whisper-1"
+}

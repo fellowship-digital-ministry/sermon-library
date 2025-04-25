@@ -1,0 +1,12 @@
+{
+  "video_id": "QYdUNHCXj2g",
+  "title": "\"The Provision Of The Lord\" II Kings 4:1-7",
+  "publish_date": 20210809,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QYdUNHCXj2g.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QYdUNHCXj2g.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QYdUNHCXj2g.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QYdUNHCXj2g.vtt",
+  "duration": 2320,
+  "transcription_timestamp": "2025-04-17T04:58:13.053528",
+  "model": "whisper-1"
+}

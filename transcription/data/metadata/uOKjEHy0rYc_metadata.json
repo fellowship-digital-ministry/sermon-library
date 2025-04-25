@@ -1,0 +1,12 @@
+{
+  "video_id": "uOKjEHy0rYc",
+  "title": "\"I Will Praise Thy Name\" Psalm 54:1-7",
+  "publish_date": 20221121,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\uOKjEHy0rYc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\uOKjEHy0rYc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uOKjEHy0rYc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uOKjEHy0rYc.vtt",
+  "duration": 2386,
+  "transcription_timestamp": "2025-04-16T11:34:13.284488",
+  "model": "whisper-1"
+}

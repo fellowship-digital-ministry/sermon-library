@@ -1,0 +1,12 @@
+{
+  "video_id": "JrmIhisZf_M",
+  "title": "\"The Birth of Ishmael\" Genesis 16:1-16",
+  "publish_date": 20201214,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\JrmIhisZf_M.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\JrmIhisZf_M.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JrmIhisZf_M.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JrmIhisZf_M.vtt",
+  "duration": 2509,
+  "transcription_timestamp": "2025-04-17T09:58:00.388449",
+  "model": "whisper-1"
+}

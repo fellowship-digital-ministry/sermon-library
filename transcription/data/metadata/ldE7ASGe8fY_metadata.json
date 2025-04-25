@@ -1,0 +1,12 @@
+{
+  "video_id": "ldE7ASGe8fY",
+  "title": "FBC Oakton, VA - May 24, 2020 (Morning Worship)",
+  "publish_date": 20200524,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ldE7ASGe8fY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ldE7ASGe8fY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ldE7ASGe8fY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ldE7ASGe8fY.vtt",
+  "duration": 2774,
+  "transcription_timestamp": "2025-04-17T19:55:31.451754",
+  "model": "whisper-1"
+}

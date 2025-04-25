@@ -1,0 +1,12 @@
+{
+  "video_id": "_fRtpMZRJGo",
+  "title": "\"Life And Death\" Genesis 35:16-29",
+  "publish_date": 20230403,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_fRtpMZRJGo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_fRtpMZRJGo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_fRtpMZRJGo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_fRtpMZRJGo.vtt",
+  "duration": 2503,
+  "transcription_timestamp": "2025-04-16T09:49:32.069452",
+  "model": "whisper-1"
+}

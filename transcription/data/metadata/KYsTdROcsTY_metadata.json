@@ -1,0 +1,12 @@
+{
+  "video_id": "KYsTdROcsTY",
+  "title": "\"Are You Ready?\" II Samuel 15:15",
+  "publish_date": 20221204,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KYsTdROcsTY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KYsTdROcsTY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KYsTdROcsTY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KYsTdROcsTY.vtt",
+  "duration": 2195,
+  "transcription_timestamp": "2025-04-16T11:25:49.029720",
+  "model": "whisper-1"
+}

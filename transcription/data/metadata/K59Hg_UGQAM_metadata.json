@@ -1,0 +1,12 @@
+{
+  "video_id": "K59Hg_UGQAM",
+  "title": "\"Salvation Belongeth Unto The Lord\" Psalm 3:7-8",
+  "publish_date": 20220110,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\K59Hg_UGQAM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\K59Hg_UGQAM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\K59Hg_UGQAM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\K59Hg_UGQAM.vtt",
+  "duration": 1967,
+  "transcription_timestamp": "2025-04-17T00:58:29.044928",
+  "model": "whisper-1"
+}

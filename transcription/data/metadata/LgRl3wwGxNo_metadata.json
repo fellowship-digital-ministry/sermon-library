@@ -1,0 +1,12 @@
+{
+  "video_id": "LgRl3wwGxNo",
+  "title": "\"Walk As He Walked\" I John 2:3-6",
+  "publish_date": 20220130,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LgRl3wwGxNo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LgRl3wwGxNo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LgRl3wwGxNo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LgRl3wwGxNo.vtt",
+  "duration": 2911,
+  "transcription_timestamp": "2025-04-17T00:26:33.030298",
+  "model": "whisper-1"
+}

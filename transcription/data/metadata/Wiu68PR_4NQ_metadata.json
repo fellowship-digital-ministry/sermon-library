@@ -1,0 +1,12 @@
+{
+  "video_id": "Wiu68PR_4NQ",
+  "title": "\"The Generations Of Esau\" Genesis 36:1-43",
+  "publish_date": 20230605,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Wiu68PR_4NQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Wiu68PR_4NQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Wiu68PR_4NQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Wiu68PR_4NQ.vtt",
+  "duration": 3019,
+  "transcription_timestamp": "2025-04-16T08:47:05.148862",
+  "model": "whisper-1"
+}

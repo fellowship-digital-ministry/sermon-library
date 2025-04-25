@@ -1,0 +1,12 @@
+{
+  "video_id": "_utmsqe125g",
+  "title": "\"Present With The Lord\" II Corinthians 5:1-9",
+  "publish_date": 20230809,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_utmsqe125g.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_utmsqe125g.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_utmsqe125g.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_utmsqe125g.vtt",
+  "duration": 3358,
+  "transcription_timestamp": "2025-04-16T01:14:37.464952",
+  "model": "whisper-1"
+}

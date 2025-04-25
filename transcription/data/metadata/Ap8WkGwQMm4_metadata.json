@@ -1,0 +1,12 @@
+{
+  "video_id": "Ap8WkGwQMm4",
+  "title": "\"Good Tidings Of Great Joy\" Luke 2:8-20",
+  "publish_date": 20201221,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ap8WkGwQMm4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ap8WkGwQMm4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ap8WkGwQMm4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ap8WkGwQMm4.vtt",
+  "duration": 3328,
+  "transcription_timestamp": "2025-04-17T09:50:08.692330",
+  "model": "whisper-1"
+}

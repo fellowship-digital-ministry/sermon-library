@@ -1,0 +1,12 @@
+{
+  "video_id": "td5xeZwEM4k",
+  "title": "\"Jesus Is All The World To Me - Part 2\" I Peter 2:3,7",
+  "publish_date": 20201216,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\td5xeZwEM4k.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\td5xeZwEM4k.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\td5xeZwEM4k.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\td5xeZwEM4k.vtt",
+  "duration": 2054,
+  "transcription_timestamp": "2025-04-17T09:53:45.338734",
+  "model": "whisper-1"
+}

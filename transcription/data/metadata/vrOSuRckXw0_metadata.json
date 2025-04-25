@@ -1,0 +1,12 @@
+{
+  "video_id": "vrOSuRckXw0",
+  "title": "FBC Oakton, VA - October 18, 2020 (Evening Worship)",
+  "publish_date": 20201019,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\vrOSuRckXw0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\vrOSuRckXw0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vrOSuRckXw0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vrOSuRckXw0.vtt",
+  "duration": 1691,
+  "transcription_timestamp": "2025-04-17T13:26:40.169094",
+  "model": "whisper-1"
+}

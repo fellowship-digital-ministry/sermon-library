@@ -1,0 +1,12 @@
+{
+  "video_id": "c02Czidq-Fk",
+  "title": "\"He Arose, And Followed Him\" Matthew 9:9-13",
+  "publish_date": 20220807,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\c02Czidq-Fk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\c02Czidq-Fk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\c02Czidq-Fk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\c02Czidq-Fk.vtt",
+  "duration": 2845,
+  "transcription_timestamp": "2025-04-16T13:38:10.645416",
+  "model": "whisper-1"
+}

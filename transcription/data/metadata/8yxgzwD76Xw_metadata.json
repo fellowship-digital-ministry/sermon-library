@@ -1,0 +1,12 @@
+{
+  "video_id": "8yxgzwD76Xw",
+  "title": "\"For The Gospel's Sake\" I Corinthians 9:16-27",
+  "publish_date": 20210217,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8yxgzwD76Xw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8yxgzwD76Xw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8yxgzwD76Xw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8yxgzwD76Xw.vtt",
+  "duration": 2012,
+  "transcription_timestamp": "2025-04-17T08:27:52.379917",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "ua2iS3T_sQE",
+  "title": "\"I Love To Tell The Story\" Romans 1:14-16",
+  "publish_date": 20210113,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ua2iS3T_sQE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ua2iS3T_sQE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ua2iS3T_sQE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ua2iS3T_sQE.vtt",
+  "duration": 3593,
+  "transcription_timestamp": "2025-04-17T09:12:13.679993",
+  "model": "whisper-1"
+}

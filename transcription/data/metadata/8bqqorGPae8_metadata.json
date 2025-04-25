@@ -1,0 +1,12 @@
+{
+  "video_id": "8bqqorGPae8",
+  "title": "\"An Eyewitness Account\" I John 1:1-4",
+  "publish_date": 20220110,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8bqqorGPae8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8bqqorGPae8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8bqqorGPae8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8bqqorGPae8.vtt",
+  "duration": 3025,
+  "transcription_timestamp": "2025-04-17T00:54:53.395021",
+  "model": "whisper-1"
+}

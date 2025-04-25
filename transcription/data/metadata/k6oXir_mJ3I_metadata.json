@@ -1,0 +1,12 @@
+{
+  "video_id": "k6oXir_mJ3I",
+  "title": "\"The Blessings Of Obedience\" I John 3:19-24",
+  "publish_date": 20220626,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\k6oXir_mJ3I.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\k6oXir_mJ3I.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\k6oXir_mJ3I.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\k6oXir_mJ3I.vtt",
+  "duration": 2765,
+  "transcription_timestamp": "2025-04-16T14:18:58.047128",
+  "model": "whisper-1"
+}

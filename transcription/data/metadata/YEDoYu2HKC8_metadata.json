@@ -1,0 +1,12 @@
+{
+  "video_id": "YEDoYu2HKC8",
+  "title": "FBC Oakton, VA - September 27, 2021 (Monday Evening)",
+  "publish_date": 20210928,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\YEDoYu2HKC8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\YEDoYu2HKC8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YEDoYu2HKC8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YEDoYu2HKC8.vtt",
+  "duration": 2944,
+  "transcription_timestamp": "2025-04-17T03:40:21.889833",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "ZWhiVzLFfxc",
+  "title": "\"Sowing and Reaping\" Galatians 6:7-8",
+  "publish_date": 20211028,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZWhiVzLFfxc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZWhiVzLFfxc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZWhiVzLFfxc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZWhiVzLFfxc.vtt",
+  "duration": 2044,
+  "transcription_timestamp": "2025-04-17T02:52:47.448682",
+  "model": "whisper-1"
+}

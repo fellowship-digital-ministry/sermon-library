@@ -1,0 +1,12 @@
+{
+  "video_id": "KskHW1EZsM8",
+  "title": "\"Confident Prayer\" I John 5:14-15",
+  "publish_date": 20221127,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KskHW1EZsM8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KskHW1EZsM8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KskHW1EZsM8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KskHW1EZsM8.vtt",
+  "duration": 2675,
+  "transcription_timestamp": "2025-04-16T11:30:23.556498",
+  "model": "whisper-1"
+}

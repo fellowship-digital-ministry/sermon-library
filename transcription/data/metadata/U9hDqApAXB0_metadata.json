@@ -1,0 +1,12 @@
+{
+  "video_id": "U9hDqApAXB0",
+  "title": "\"The Well Beloved Gaius\" III John 1-8",
+  "publish_date": 20230625,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\U9hDqApAXB0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\U9hDqApAXB0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U9hDqApAXB0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U9hDqApAXB0.vtt",
+  "duration": 2663,
+  "transcription_timestamp": "2025-04-16T08:33:07.723993",
+  "model": "whisper-1"
+}

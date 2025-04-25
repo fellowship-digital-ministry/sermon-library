@@ -1,0 +1,12 @@
+{
+  "video_id": "LAgQEfojK6Q",
+  "title": "\"Complete In Christ\" Colossians 2:10",
+  "publish_date": 20210103,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\LAgQEfojK6Q.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\LAgQEfojK6Q.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LAgQEfojK6Q.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LAgQEfojK6Q.vtt",
+  "duration": 2647,
+  "transcription_timestamp": "2025-04-17T09:39:02.145226",
+  "model": "whisper-1"
+}

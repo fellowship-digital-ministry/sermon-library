@@ -1,0 +1,12 @@
+{
+  "video_id": "rsDeJmgGGS8",
+  "title": "FBC Oakton, VA - 2023 Missions Conference",
+  "publish_date": 20230528,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\rsDeJmgGGS8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\rsDeJmgGGS8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rsDeJmgGGS8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rsDeJmgGGS8.vtt",
+  "duration": 2992,
+  "transcription_timestamp": "2025-04-16T09:00:54.010582",
+  "model": "whisper-1"
+}

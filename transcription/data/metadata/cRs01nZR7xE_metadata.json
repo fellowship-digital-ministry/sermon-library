@@ -1,0 +1,12 @@
+{
+  "video_id": "cRs01nZR7xE",
+  "title": "\"The Doctrine Of The Trinity\" I John 5:7",
+  "publish_date": 20220905,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cRs01nZR7xE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cRs01nZR7xE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cRs01nZR7xE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cRs01nZR7xE.vtt",
+  "duration": 2559,
+  "transcription_timestamp": "2025-04-16T13:12:54.871023",
+  "model": "whisper-1"
+}

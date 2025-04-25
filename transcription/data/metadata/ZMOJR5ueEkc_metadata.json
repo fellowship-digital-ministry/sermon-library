@@ -1,0 +1,12 @@
+{
+  "video_id": "ZMOJR5ueEkc",
+  "title": "\"Are Your Feet Dirty?\" John 13:1-16",
+  "publish_date": 20230910,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZMOJR5ueEkc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZMOJR5ueEkc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZMOJR5ueEkc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZMOJR5ueEkc.vtt",
+  "duration": 3107,
+  "transcription_timestamp": "2025-04-16T00:36:27.977187",
+  "model": "whisper-1"
+}

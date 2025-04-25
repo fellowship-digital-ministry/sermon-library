@@ -1,0 +1,12 @@
+{
+  "video_id": "6q394CAnPD0",
+  "title": "\"What's In Your Tent?\" Genesis 31:17-37",
+  "publish_date": 20220502,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6q394CAnPD0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6q394CAnPD0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6q394CAnPD0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6q394CAnPD0.vtt",
+  "duration": 2141,
+  "transcription_timestamp": "2025-04-16T15:05:04.066251",
+  "model": "whisper-1"
+}

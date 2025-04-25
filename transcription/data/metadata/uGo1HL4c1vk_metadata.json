@@ -1,0 +1,12 @@
+{
+  "video_id": "uGo1HL4c1vk",
+  "title": "\"Fulfil Your Ministry\" Colossians 4:14-18",
+  "publish_date": 20211212,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\uGo1HL4c1vk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\uGo1HL4c1vk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uGo1HL4c1vk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uGo1HL4c1vk.vtt",
+  "duration": 3077,
+  "transcription_timestamp": "2025-04-17T01:38:57.785777",
+  "model": "whisper-1"
+}

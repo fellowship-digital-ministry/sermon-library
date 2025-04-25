@@ -1,0 +1,12 @@
+{
+  "video_id": "B2bISRh1PFo",
+  "title": "FBC Oakton, VA - September 13, 2020 (Morning Worship)",
+  "publish_date": 20200913,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\B2bISRh1PFo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\B2bISRh1PFo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B2bISRh1PFo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B2bISRh1PFo.vtt",
+  "duration": 3568,
+  "transcription_timestamp": "2025-04-17T14:11:05.317308",
+  "model": "whisper-1"
+}

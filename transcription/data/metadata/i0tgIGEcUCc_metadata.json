@@ -1,0 +1,12 @@
+{
+  "video_id": "i0tgIGEcUCc",
+  "title": "\"Who Do You Believe?\" Acts 27:9-11",
+  "publish_date": 20210712,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\i0tgIGEcUCc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\i0tgIGEcUCc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i0tgIGEcUCc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i0tgIGEcUCc.vtt",
+  "duration": 2781,
+  "transcription_timestamp": "2025-04-17T05:14:45.386585",
+  "model": "whisper-1"
+}

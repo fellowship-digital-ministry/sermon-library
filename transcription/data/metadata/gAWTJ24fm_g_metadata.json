@@ -1,0 +1,12 @@
+{
+  "video_id": "gAWTJ24fm_g",
+  "title": "\"El Shaddai\" Genesis 17:1",
+  "publish_date": 20210301,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\gAWTJ24fm_g.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\gAWTJ24fm_g.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gAWTJ24fm_g.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gAWTJ24fm_g.vtt",
+  "duration": 2944,
+  "transcription_timestamp": "2025-04-17T08:10:33.696165",
+  "model": "whisper-1"
+}

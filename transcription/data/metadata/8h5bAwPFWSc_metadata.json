@@ -1,0 +1,12 @@
+{
+  "video_id": "8h5bAwPFWSc",
+  "title": "\"The Proclamation Of Jethro\" Exodus 18:1-12",
+  "publish_date": 20230814,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8h5bAwPFWSc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8h5bAwPFWSc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8h5bAwPFWSc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8h5bAwPFWSc.vtt",
+  "duration": 2608,
+  "transcription_timestamp": "2025-04-16T01:03:27.938226",
+  "model": "whisper-1"
+}

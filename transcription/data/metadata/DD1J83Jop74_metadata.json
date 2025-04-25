@@ -1,0 +1,12 @@
+{
+  "video_id": "DD1J83Jop74",
+  "title": "\"Walk In Wisdom\" Colossians 4:5-6",
+  "publish_date": 20211107,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\DD1J83Jop74.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\DD1J83Jop74.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DD1J83Jop74.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DD1J83Jop74.vtt",
+  "duration": 2824,
+  "transcription_timestamp": "2025-04-17T02:36:44.201660",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "L2VPresPC4c",
+  "title": "FBC Oakton, VA - September 6, 2020 (Morning Worship)",
+  "publish_date": 20200906,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\L2VPresPC4c.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\L2VPresPC4c.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L2VPresPC4c.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L2VPresPC4c.vtt",
+  "duration": 3179,
+  "transcription_timestamp": "2025-04-17T14:16:13.371263",
+  "model": "whisper-1"
+}

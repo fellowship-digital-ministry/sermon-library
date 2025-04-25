@@ -1,0 +1,12 @@
+{
+  "video_id": "QaNLhiuXtTI",
+  "title": "\"Building Up\" Proverbs 14:1",
+  "publish_date": 20220509,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QaNLhiuXtTI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QaNLhiuXtTI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QaNLhiuXtTI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QaNLhiuXtTI.vtt",
+  "duration": 1400,
+  "transcription_timestamp": "2025-04-16T14:56:45.152662",
+  "model": "whisper-1"
+}

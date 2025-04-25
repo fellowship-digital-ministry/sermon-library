@@ -1,0 +1,12 @@
+{
+  "video_id": "tekmD5z_NmE",
+  "title": "\"He Had This Testimony\" Hebrews 11:5",
+  "publish_date": 20230724,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\tekmD5z_NmE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\tekmD5z_NmE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tekmD5z_NmE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tekmD5z_NmE.vtt",
+  "duration": 1875,
+  "transcription_timestamp": "2025-04-16T01:21:23.833993",
+  "model": "whisper-1"
+}

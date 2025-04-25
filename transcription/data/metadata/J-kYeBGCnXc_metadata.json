@@ -1,0 +1,12 @@
+{
+  "video_id": "J-kYeBGCnXc",
+  "title": "\"Our Great High Priest\" Hebrews 5:1-10",
+  "publish_date": 20200419,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\J-kYeBGCnXc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\J-kYeBGCnXc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\J-kYeBGCnXc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\J-kYeBGCnXc.vtt",
+  "duration": 3080,
+  "transcription_timestamp": "2025-04-17T20:46:48.361874",
+  "model": "whisper-1"
+}

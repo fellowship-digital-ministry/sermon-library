@@ -1,0 +1,12 @@
+{
+  "video_id": "jqx67c84gmA",
+  "title": "\"Nothing Between My Soul and My Saviour\" Acts 24:16",
+  "publish_date": 20220911,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jqx67c84gmA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jqx67c84gmA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jqx67c84gmA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jqx67c84gmA.vtt",
+  "duration": 2824,
+  "transcription_timestamp": "2025-04-16T13:08:27.383468",
+  "model": "whisper-1"
+}

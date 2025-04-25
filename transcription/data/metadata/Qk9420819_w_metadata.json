@@ -1,0 +1,12 @@
+{
+  "video_id": "Qk9420819_w",
+  "title": "\"Strengthen My Hands\" Nehemiah 6:9",
+  "publish_date": 20221003,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Qk9420819_w.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Qk9420819_w.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qk9420819_w.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qk9420819_w.vtt",
+  "duration": 2805,
+  "transcription_timestamp": "2025-04-16T12:47:58.859918",
+  "model": "whisper-1"
+}

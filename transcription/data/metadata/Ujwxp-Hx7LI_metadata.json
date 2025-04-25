@@ -1,0 +1,12 @@
+{
+  "video_id": "Ujwxp-Hx7LI",
+  "title": "\"Eben-ezer\" I Samuel 7:3-12",
+  "publish_date": 20220602,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ujwxp-Hx7LI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ujwxp-Hx7LI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ujwxp-Hx7LI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ujwxp-Hx7LI.vtt",
+  "duration": 2736,
+  "transcription_timestamp": "2025-04-16T14:39:24.221136",
+  "model": "whisper-1"
+}

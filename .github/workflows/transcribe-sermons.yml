@@ -1,5 +1,8 @@
 name: Transcribe Sermons
 
+permissions:
+  contents: write  # Grant write access to push changes
+
 on:
   schedule:
     # Run once a week on Sunday at 2 AM UTC
@@ -9,12 +12,15 @@ on:
 jobs:
   transcribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This gives write permission to the repository contents
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Full history for commits
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use GITHUB_TOKEN for authentication
       
       - name: Set up Python
         uses: actions/setup-python@v4

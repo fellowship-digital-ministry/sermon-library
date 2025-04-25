@@ -1,0 +1,12 @@
+{
+  "video_id": "Frg4i29kHnM",
+  "title": "\"I Will Not Destroy It For Ten's Sake\" Genesis 18:16-33",
+  "publish_date": 20210329,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Frg4i29kHnM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Frg4i29kHnM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Frg4i29kHnM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Frg4i29kHnM.vtt",
+  "duration": 3070,
+  "transcription_timestamp": "2025-04-17T07:14:40.569824",
+  "model": "whisper-1"
+}

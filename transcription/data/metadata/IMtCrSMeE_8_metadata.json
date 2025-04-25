@@ -1,0 +1,12 @@
+{
+  "video_id": "IMtCrSMeE_8",
+  "title": "\"The Sons of Jacob - Part 1\" Genesis 29:31 - 30:13",
+  "publish_date": 20220321,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\IMtCrSMeE_8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\IMtCrSMeE_8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IMtCrSMeE_8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IMtCrSMeE_8.vtt",
+  "duration": 2527,
+  "transcription_timestamp": "2025-04-16T15:46:30.292796",
+  "model": "whisper-1"
+}

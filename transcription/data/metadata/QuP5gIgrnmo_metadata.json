@@ -1,0 +1,12 @@
+{
+  "video_id": "QuP5gIgrnmo",
+  "title": "\"Crucify Your Flesh\" Colossians 3:5-7",
+  "publish_date": 20210815,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QuP5gIgrnmo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QuP5gIgrnmo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QuP5gIgrnmo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QuP5gIgrnmo.vtt",
+  "duration": 3227,
+  "transcription_timestamp": "2025-04-17T04:54:09.754708",
+  "model": "whisper-1"
+}

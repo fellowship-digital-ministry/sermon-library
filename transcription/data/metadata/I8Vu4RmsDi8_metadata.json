@@ -1,0 +1,12 @@
+{
+  "video_id": "I8Vu4RmsDi8",
+  "title": "\"Think It Not Strange\" I Peter 4:12-19",
+  "publish_date": 20210125,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\I8Vu4RmsDi8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\I8Vu4RmsDi8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I8Vu4RmsDi8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I8Vu4RmsDi8.vtt",
+  "duration": 3107,
+  "transcription_timestamp": "2025-04-17T09:01:01.645378",
+  "model": "whisper-1"
+}

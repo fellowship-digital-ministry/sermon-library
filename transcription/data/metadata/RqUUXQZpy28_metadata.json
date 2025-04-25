@@ -1,0 +1,12 @@
+{
+  "video_id": "RqUUXQZpy28",
+  "title": "\"Life After The Flood\" Genesis 9:1-7",
+  "publish_date": 20200420,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\RqUUXQZpy28.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\RqUUXQZpy28.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RqUUXQZpy28.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RqUUXQZpy28.vtt",
+  "duration": 2406,
+  "transcription_timestamp": "2025-04-17T20:41:41.798021",
+  "model": "whisper-1"
+}

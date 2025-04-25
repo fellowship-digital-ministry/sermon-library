@@ -1,0 +1,12 @@
+{
+  "video_id": "SfucrRfy8nw",
+  "title": "FBC Oakton, VA - July 5, 2020 (Morning Worship)",
+  "publish_date": 20200706,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\SfucrRfy8nw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\SfucrRfy8nw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\SfucrRfy8nw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\SfucrRfy8nw.vtt",
+  "duration": 3712,
+  "transcription_timestamp": "2025-04-17T16:07:25.499846",
+  "model": "whisper-1"
+}

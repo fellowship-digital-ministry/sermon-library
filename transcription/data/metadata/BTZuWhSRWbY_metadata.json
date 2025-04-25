@@ -1,0 +1,12 @@
+{
+  "video_id": "BTZuWhSRWbY",
+  "title": "\"The Ministry of Paul\" Colossians 1:24-29",
+  "publish_date": 20210221,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BTZuWhSRWbY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BTZuWhSRWbY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTZuWhSRWbY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTZuWhSRWbY.vtt",
+  "duration": 3152,
+  "transcription_timestamp": "2025-04-17T08:21:30.692857",
+  "model": "whisper-1"
+}

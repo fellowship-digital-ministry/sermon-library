@@ -1,0 +1,12 @@
+{
+  "video_id": "XA-BnGEgWUA",
+  "title": "\"God's Great Plan Of Redemption\" Galatians 4:4-5",
+  "publish_date": 20230716,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\XA-BnGEgWUA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\XA-BnGEgWUA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XA-BnGEgWUA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XA-BnGEgWUA.vtt",
+  "duration": 2570,
+  "transcription_timestamp": "2025-04-16T01:34:52.580465",
+  "model": "whisper-1"
+}

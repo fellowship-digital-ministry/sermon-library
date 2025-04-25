@@ -1,0 +1,12 @@
+{
+  "video_id": "9Tofq_cScf8",
+  "title": "FBC Oakton, VA - July 15, 2020 (Mid-Week Service)",
+  "publish_date": 20200716,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9Tofq_cScf8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9Tofq_cScf8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9Tofq_cScf8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9Tofq_cScf8.vtt",
+  "duration": 2063,
+  "transcription_timestamp": "2025-04-17T15:43:52.743840",
+  "model": "whisper-1"
+}

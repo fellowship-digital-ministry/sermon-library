@@ -1,0 +1,12 @@
+{
+  "video_id": "nEQdkmuMUk8",
+  "title": "\"What About Dinosaurs?\" Genesis 1:24-25",
+  "publish_date": 20210628,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nEQdkmuMUk8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nEQdkmuMUk8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nEQdkmuMUk8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nEQdkmuMUk8.vtt",
+  "duration": 2991,
+  "transcription_timestamp": "2025-04-17T05:33:35.991170",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "Hoso3B9I6nQ",
+  "title": "\"They Rehearsed All That God Had Done\" Acts 14:21-28",
+  "publish_date": 20210520,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Hoso3B9I6nQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Hoso3B9I6nQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Hoso3B9I6nQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Hoso3B9I6nQ.vtt",
+  "duration": 1367,
+  "transcription_timestamp": "2025-04-17T06:09:05.787409",
+  "model": "whisper-1"
+}

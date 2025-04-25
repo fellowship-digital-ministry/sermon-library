@@ -1,0 +1,12 @@
+{
+  "video_id": "FEm43rSvhYg",
+  "title": "\"Hide Thyself By The Brook Cherith\" I Kings 17:1-7",
+  "publish_date": 20230625,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\FEm43rSvhYg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\FEm43rSvhYg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FEm43rSvhYg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FEm43rSvhYg.vtt",
+  "duration": 2752,
+  "transcription_timestamp": "2025-04-16T08:28:45.312015",
+  "model": "whisper-1"
+}

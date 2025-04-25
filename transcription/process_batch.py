@@ -28,44 +28,18 @@ Usage examples:
   
   # Force re-download of audio files:
   python process_batch.py --csv data/video_list.csv --force
-
-CSV tracking:
-  The script adds and updates these columns in the video list CSV:
-  - processing_status: 'pending', 'in_progress', 'processed', or 'failed'
-  - processing_date: Timestamp of last processing attempt
-  - transcript_path: Path to the generated transcript file
-
-Output files for each video:
-  - Transcript JSON: data/transcripts/{video_id}.json
-    Contains full text and timestamps for each segment
-  - SRT subtitle: data/subtitles/{video_id}.srt
-    Industry-standard subtitle format for YouTube uploads
-  - VTT subtitle: data/subtitles/{video_id}.vtt
-    Web-standard subtitle format for HTML5 video
-  - Metadata: data/metadata/{video_id}_metadata.json
-    Contains links to all generated files and process information
-
-Using subtitle files:
-  The generated SRT files can be uploaded to YouTube to add closed captions:
-  1. Go to YouTube Studio and select the video
-  2. Click "Subtitles" in the left menu
-  3. Click "Add" → "Upload file"
-  4. Select "With timing" and upload the SRT file
-  5. Choose "English" as the language
-  6. Click "Publish"
-
-GitHub Actions automation:
-  This script is designed to run automatically via GitHub Actions to:
-  1. Check for new sermon uploads on Monday and Thursday evenings
-  2. Process new videos and generate transcripts/subtitles
-  3. Commit results back to the repository
-
-Created for Fellowship Baptist Church Sermon Library
+  
+  # Use cookies for authentication:
+  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt
+  
+  # Add delay between downloads:
+  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt --delay 10
 """
 import os
 import logging
 import argparse
 import pandas as pd
+import time
 from datetime import datetime
 from tqdm import tqdm
 
@@ -149,7 +123,7 @@ def prepare_csv_with_status(csv_path):
         logger.error(f"Failed to prepare CSV: {str(e)}")
         return csv_path
 
-def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, process_all=False):
+def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, process_all=False, cookies_file=None, delay=0):
     """
     Process videos from a CSV file with status tracking.
     
@@ -157,6 +131,8 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
         csv_path: Path to the CSV file
         force_download: Whether to download audio even if files already exist
         process_all: Whether to process all videos regardless of status
+        cookies_file: Path to cookies file for YouTube authentication
+        delay: Seconds to wait between downloads (helps avoid rate limits)
     
     Returns:
         Dictionary with processing statistics
@@ -206,7 +182,7 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
             
             # Step 1: Download audio
             logger.info(f"Downloading audio for {video_id}")
-            audio_file = download_audio(video_id, config.AUDIO_DIR, force_download)
+            audio_file = download_audio(video_id, config.AUDIO_DIR, force_download, cookies_file)
             
             if not audio_file:
                 update_video_status(csv_path, video_id, "failed")
@@ -257,6 +233,11 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
             update_video_status(csv_path, video_id, "processed", transcript_file)
             results["videos_processed"] += 1
             
+            # Add delay before processing next video (if not the last video)
+            if delay > 0 and video != video_list[-1]:
+                logger.info(f"Waiting {delay} seconds before next video")
+                time.sleep(delay)
+                
         except Exception as e:
             logger.error(f"Error processing {video_id}: {str(e)}")
             update_video_status(csv_path, video_id, "failed")
@@ -282,13 +263,15 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
     
     return results
 
-def process_single_url(youtube_url, force_download=False):
+def process_single_url(youtube_url, force_download=False, cookies_file=None, delay=0):
     """
     Process a single YouTube URL: extract ID, download audio, and transcribe.
     
     Args:
         youtube_url: YouTube URL to process
         force_download: Whether to download audio even if file already exists
+        cookies_file: Path to cookies file for YouTube authentication
+        delay: Seconds to wait between downloads (helps avoid rate limits)
     
     Returns:
         Transcript file path or None if processing failed
@@ -302,7 +285,7 @@ def process_single_url(youtube_url, force_download=False):
     logger.info(f"Processing YouTube URL: {youtube_url} (ID: {video_id})")
     
     # Step 1: Download audio
-    audio_file = download_audio(video_id, config.AUDIO_DIR, force_download)
+    audio_file = download_audio(video_id, config.AUDIO_DIR, force_download, cookies_file)
     if not audio_file:
         logger.error(f"Failed to download audio for {youtube_url}")
         return None
@@ -333,6 +316,7 @@ def process_single_url(youtube_url, force_download=False):
     return transcript_file
 
 if __name__ == "__main__":
+    # python process_batch.py --csv data/video_list.csv --full --cookies youtube_cookies.txt --delay 10
     # Set up argument parser for command-line options
     parser = argparse.ArgumentParser(description="Process YouTube sermon videos for transcription")
     parser.add_argument("--force", action="store_true", help="Force download even if files exist")
@@ -342,6 +326,9 @@ if __name__ == "__main__":
     parser.add_argument("--urls", type=str, help="File containing YouTube URLs (one per line)")
     parser.add_argument("--csv", type=str, default=config.VIDEO_LIST_PATH, 
                         help=f"Path to video list CSV (default: {config.VIDEO_LIST_PATH})")
+    parser.add_argument("--cookies", type=str, help="Path to cookies file for YouTube authentication")
+    parser.add_argument("--delay", type=float, default=0, 
+                        help="Add delay between downloads in seconds (helps avoid rate limits)")
     args = parser.parse_args()
     
     # Override POC mode if --full flag is provided
@@ -351,7 +338,8 @@ if __name__ == "__main__":
     
     # Process a single URL if provided
     if args.url:
-        process_single_url(args.url, force_download=args.force)
+        process_single_url(args.url, force_download=args.force, 
+                          cookies_file=args.cookies, delay=args.delay)
     
     # Process multiple URLs from a file if provided
     elif args.urls:
@@ -362,9 +350,17 @@ if __name__ == "__main__":
                 urls = [line.strip() for line in f if line.strip()]
             
             logger.info(f"Processing {len(urls)} URLs from file: {args.urls}")
-            for url in urls:
-                process_single_url(url, force_download=args.force)
+            for i, url in enumerate(urls):
+                process_single_url(url, force_download=args.force, 
+                                  cookies_file=args.cookies)
+                
+                # Add delay between URLs if not the last one
+                if args.delay > 0 and i < len(urls) - 1:
+                    logger.info(f"Waiting {args.delay} seconds before next URL")
+                    time.sleep(args.delay)
     
     # Otherwise, process videos from the CSV file
     else:
-        process_videos(csv_path=args.csv, force_download=args.force, process_all=args.all)
+        process_videos(csv_path=args.csv, force_download=args.force, 
+                      process_all=args.all, cookies_file=args.cookies, 
+                      delay=args.delay)

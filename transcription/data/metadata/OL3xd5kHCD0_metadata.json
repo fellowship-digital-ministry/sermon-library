@@ -1,0 +1,12 @@
+{
+  "video_id": "OL3xd5kHCD0",
+  "title": "\"Pulling Them Out Of The Fire\" Jude 22-23",
+  "publish_date": 20210517,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\OL3xd5kHCD0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\OL3xd5kHCD0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OL3xd5kHCD0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OL3xd5kHCD0.vtt",
+  "duration": 2351,
+  "transcription_timestamp": "2025-04-17T06:13:05.780889",
+  "model": "whisper-1"
+}

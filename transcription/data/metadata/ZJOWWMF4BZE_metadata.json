@@ -1,0 +1,12 @@
+{
+  "video_id": "ZJOWWMF4BZE",
+  "title": "\"Hallowed Be Thy Name\" Luke 11:2",
+  "publish_date": 20210304,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZJOWWMF4BZE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZJOWWMF4BZE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZJOWWMF4BZE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZJOWWMF4BZE.vtt",
+  "duration": 1519,
+  "transcription_timestamp": "2025-04-17T07:55:36.716011",
+  "model": "whisper-1"
+}

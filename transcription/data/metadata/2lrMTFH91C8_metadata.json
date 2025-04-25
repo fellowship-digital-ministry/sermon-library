@@ -1,0 +1,12 @@
+{
+  "video_id": "2lrMTFH91C8",
+  "title": "\"Pharaoh Sent And Called Joseph\" Genesis 41:1-32",
+  "publish_date": 20231016,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2lrMTFH91C8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2lrMTFH91C8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2lrMTFH91C8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2lrMTFH91C8.vtt",
+  "duration": 2673,
+  "transcription_timestamp": "2025-04-15T23:44:44.113531",
+  "model": "whisper-1"
+}

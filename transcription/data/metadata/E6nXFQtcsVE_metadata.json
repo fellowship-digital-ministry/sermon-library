@@ -1,0 +1,12 @@
+{
+  "video_id": "E6nXFQtcsVE",
+  "title": "\"The Zeal Of Epaphras\" Colossians 4:12-13",
+  "publish_date": 20211129,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\E6nXFQtcsVE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\E6nXFQtcsVE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\E6nXFQtcsVE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\E6nXFQtcsVE.vtt",
+  "duration": 2677,
+  "transcription_timestamp": "2025-04-17T02:00:26.440080",
+  "model": "whisper-1"
+}

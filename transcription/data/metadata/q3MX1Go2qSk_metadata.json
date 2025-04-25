@@ -1,0 +1,12 @@
+{
+  "video_id": "q3MX1Go2qSk",
+  "title": "\"They Pitched In Rephidim\" Exodus 17:1-7",
+  "publish_date": 20211227,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\q3MX1Go2qSk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\q3MX1Go2qSk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\q3MX1Go2qSk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\q3MX1Go2qSk.vtt",
+  "duration": 2610,
+  "transcription_timestamp": "2025-04-17T01:14:00.390882",
+  "model": "whisper-1"
+}

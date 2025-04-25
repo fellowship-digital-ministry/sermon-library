@@ -1,0 +1,12 @@
+{
+  "video_id": "x6r4JdehzQM",
+  "title": "\"He Loved Them Unto The End\" John 13:1",
+  "publish_date": 20230605,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\x6r4JdehzQM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\x6r4JdehzQM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x6r4JdehzQM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x6r4JdehzQM.vtt",
+  "duration": 2772,
+  "transcription_timestamp": "2025-04-16T08:51:42.082405",
+  "model": "whisper-1"
+}

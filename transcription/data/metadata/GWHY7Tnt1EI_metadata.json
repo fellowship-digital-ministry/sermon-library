@@ -1,0 +1,12 @@
+{
+  "video_id": "GWHY7Tnt1EI",
+  "title": "\"God Hath Dealt Graciously With Me\" Genesis 33:1-20",
+  "publish_date": 20230227,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\GWHY7Tnt1EI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\GWHY7Tnt1EI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GWHY7Tnt1EI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GWHY7Tnt1EI.vtt",
+  "duration": 1865,
+  "transcription_timestamp": "2025-04-16T10:23:51.487020",
+  "model": "whisper-1"
+}

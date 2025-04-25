@@ -1,0 +1,12 @@
+{
+  "video_id": "bsk8iNEnRVo",
+  "title": "\"God Is With Thee In All That Thou Doest\" Genesis 21:22-34",
+  "publish_date": 20211017,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bsk8iNEnRVo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bsk8iNEnRVo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bsk8iNEnRVo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bsk8iNEnRVo.vtt",
+  "duration": 2796,
+  "transcription_timestamp": "2025-04-17T03:01:16.137924",
+  "model": "whisper-1"
+}

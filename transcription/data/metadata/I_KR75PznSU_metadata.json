@@ -1,0 +1,12 @@
+{
+  "video_id": "I_KR75PznSU",
+  "title": "\"Spiritual Discernment\" I Corinthians 2:14 - I Corinthians 3:3",
+  "publish_date": 20230130,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\I_KR75PznSU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\I_KR75PznSU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I_KR75PznSU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I_KR75PznSU.vtt",
+  "duration": 3199,
+  "transcription_timestamp": "2025-04-16T10:51:37.750148",
+  "model": "whisper-1"
+}

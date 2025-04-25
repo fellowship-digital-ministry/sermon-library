@@ -1,0 +1,12 @@
+{
+  "video_id": "BTFBBPIk4YQ",
+  "title": "\"Decisions That Endure\" I Thessalonians 3:1-8",
+  "publish_date": 20211004,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BTFBBPIk4YQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BTFBBPIk4YQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTFBBPIk4YQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTFBBPIk4YQ.vtt",
+  "duration": 2342,
+  "transcription_timestamp": "2025-04-17T03:21:24.466706",
+  "model": "whisper-1"
+}

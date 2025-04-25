@@ -1,0 +1,12 @@
+{
+  "video_id": "7MaW7QDG15s",
+  "title": "\"Living For Jesus\" John 6:66-69",
+  "publish_date": 20230801,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\7MaW7QDG15s.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\7MaW7QDG15s.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7MaW7QDG15s.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7MaW7QDG15s.vtt",
+  "duration": 2276,
+  "transcription_timestamp": "2025-04-16T01:18:29.331974",
+  "model": "whisper-1"
+}

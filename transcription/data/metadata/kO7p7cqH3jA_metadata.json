@@ -1,0 +1,12 @@
+{
+  "video_id": "kO7p7cqH3jA",
+  "title": "\"Jesus Loves You\" I John 3:16",
+  "publish_date": 20210214,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\kO7p7cqH3jA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\kO7p7cqH3jA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kO7p7cqH3jA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kO7p7cqH3jA.vtt",
+  "duration": 3089,
+  "transcription_timestamp": "2025-04-17T08:32:50.360656",
+  "model": "whisper-1"
+}

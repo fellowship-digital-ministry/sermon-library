@@ -1,0 +1,12 @@
+{
+  "video_id": "DFRdmeWDOAQ",
+  "title": "\"To Me Thou Hast Given No Seed\" Genesis 15:2-6",
+  "publish_date": 20201130,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\DFRdmeWDOAQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\DFRdmeWDOAQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DFRdmeWDOAQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DFRdmeWDOAQ.vtt",
+  "duration": 3107,
+  "transcription_timestamp": "2025-04-17T10:25:09.997035",
+  "model": "whisper-1"
+}

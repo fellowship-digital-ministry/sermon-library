@@ -1,0 +1,12 @@
+{
+  "video_id": "o5mEG3RptRs",
+  "title": "\"The Faith And Obedience Of Abraham\" Genesis 22:1-24",
+  "publish_date": 20211108,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\o5mEG3RptRs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\o5mEG3RptRs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\o5mEG3RptRs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\o5mEG3RptRs.vtt",
+  "duration": 2712,
+  "transcription_timestamp": "2025-04-17T02:31:36.617351",
+  "model": "whisper-1"
+}

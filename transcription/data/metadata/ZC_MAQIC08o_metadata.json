@@ -1,0 +1,12 @@
+{
+  "video_id": "ZC_MAQIC08o",
+  "title": "\"A Home Where The Lord Is Honored\" Colossians 3:18-21",
+  "publish_date": 20210912,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ZC_MAQIC08o.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ZC_MAQIC08o.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZC_MAQIC08o.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZC_MAQIC08o.vtt",
+  "duration": 2266,
+  "transcription_timestamp": "2025-04-17T04:10:43.795597",
+  "model": "whisper-1"
+}

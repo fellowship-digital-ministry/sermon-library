@@ -1,0 +1,12 @@
+{
+  "video_id": "a8Z2gxOlMKc",
+  "title": "\"Restore The Man His Wife\" Genesis 20:1-18",
+  "publish_date": 20210816,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\a8Z2gxOlMKc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\a8Z2gxOlMKc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\a8Z2gxOlMKc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\a8Z2gxOlMKc.vtt",
+  "duration": 2858,
+  "transcription_timestamp": "2025-04-17T04:48:46.151475",
+  "model": "whisper-1"
+}

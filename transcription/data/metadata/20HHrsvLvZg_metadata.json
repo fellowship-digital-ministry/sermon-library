@@ -1,0 +1,12 @@
+{
+  "video_id": "20HHrsvLvZg",
+  "title": "\"If Thou Knewest The Gift Of God\" John 4:10",
+  "publish_date": 20211219,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\20HHrsvLvZg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\20HHrsvLvZg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\20HHrsvLvZg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\20HHrsvLvZg.vtt",
+  "duration": 3079,
+  "transcription_timestamp": "2025-04-17T01:24:53.008093",
+  "model": "whisper-1"
+}

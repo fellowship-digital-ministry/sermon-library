@@ -1,0 +1,12 @@
+{
+  "video_id": "6SpHqGGtcFw",
+  "title": "\"Abraham Came To Mourn For Sarah\" Genesis 23:1-20",
+  "publish_date": 20211115,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6SpHqGGtcFw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6SpHqGGtcFw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6SpHqGGtcFw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6SpHqGGtcFw.vtt",
+  "duration": 2381,
+  "transcription_timestamp": "2025-04-17T02:18:14.882928",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "kZ4u2Ljc7cU",
+  "title": "\"The Pride Of Thine Heart\" Obadiah 3-4",
+  "publish_date": 20211104,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\kZ4u2Ljc7cU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\kZ4u2Ljc7cU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kZ4u2Ljc7cU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kZ4u2Ljc7cU.vtt",
+  "duration": 2087,
+  "transcription_timestamp": "2025-04-17T02:40:30.151972",
+  "model": "whisper-1"
+}

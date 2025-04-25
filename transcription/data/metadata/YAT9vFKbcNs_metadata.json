@@ -1,0 +1,12 @@
+{
+  "video_id": "YAT9vFKbcNs",
+  "title": "\"The Empty Tomb\" Matthew 28:1-10",
+  "publish_date": 20230409,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\YAT9vFKbcNs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\YAT9vFKbcNs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YAT9vFKbcNs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YAT9vFKbcNs.vtt",
+  "duration": 2895,
+  "transcription_timestamp": "2025-04-16T09:45:20.424741",
+  "model": "whisper-1"
+}

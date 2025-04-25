@@ -1,0 +1,12 @@
+{
+  "video_id": "UpbuU9BS4yg",
+  "title": "\"Inspiration Reveals The Greatness Of God\" II Timothy 3:14-17",
+  "publish_date": 20230212,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\UpbuU9BS4yg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\UpbuU9BS4yg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UpbuU9BS4yg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UpbuU9BS4yg.vtt",
+  "duration": 2835,
+  "transcription_timestamp": "2025-04-16T10:37:58.015635",
+  "model": "whisper-1"
+}

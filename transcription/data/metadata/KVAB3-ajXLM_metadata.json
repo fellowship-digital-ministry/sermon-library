@@ -1,0 +1,12 @@
+{
+  "video_id": "KVAB3-ajXLM",
+  "title": "\"Are You Willing To Stand?\" Daniel 3:1-30",
+  "publish_date": 20210613,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KVAB3-ajXLM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KVAB3-ajXLM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KVAB3-ajXLM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KVAB3-ajXLM.vtt",
+  "duration": 2979,
+  "transcription_timestamp": "2025-04-17T05:52:35.691244",
+  "model": "whisper-1"
+}

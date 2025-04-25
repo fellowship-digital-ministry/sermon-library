@@ -1,0 +1,12 @@
+{
+  "video_id": "Y0rICXkoJFs",
+  "title": "\"How Shall They Preach, Except They Be Sent\" Romans 10:13-17",
+  "publish_date": 20220207,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Y0rICXkoJFs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Y0rICXkoJFs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y0rICXkoJFs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y0rICXkoJFs.vtt",
+  "duration": 1663,
+  "transcription_timestamp": "2025-04-17T00:13:16.043246",
+  "model": "whisper-1"
+}

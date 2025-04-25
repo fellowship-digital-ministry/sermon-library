@@ -1,0 +1,12 @@
+{
+  "video_id": "_pCyHOxnY7Y",
+  "title": "\"The Testimony Of A Changed Life\" Galatians 1:11-24",
+  "publish_date": 20210607,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_pCyHOxnY7Y.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_pCyHOxnY7Y.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_pCyHOxnY7Y.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_pCyHOxnY7Y.vtt",
+  "duration": 2811,
+  "transcription_timestamp": "2025-04-17T06:02:33.657733",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "_bNqgIZk0oA",
+  "title": "\"Ye Therefore Do Greatly Err\" Mark 12:18-27",
+  "publish_date": 20211111,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_bNqgIZk0oA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_bNqgIZk0oA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_bNqgIZk0oA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_bNqgIZk0oA.vtt",
+  "duration": 2081,
+  "transcription_timestamp": "2025-04-17T02:26:47.803244",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "otLjEpBz9Rk",
+  "title": "\"Jesus Is All The World To Me - Part 1\" John 20:28-29",
+  "publish_date": 20201210,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\otLjEpBz9Rk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\otLjEpBz9Rk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\otLjEpBz9Rk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\otLjEpBz9Rk.vtt",
+  "duration": 1842,
+  "transcription_timestamp": "2025-04-17T10:06:55.606243",
+  "model": "whisper-1"
+}

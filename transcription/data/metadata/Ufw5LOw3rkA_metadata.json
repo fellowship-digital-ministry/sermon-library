@@ -1,0 +1,12 @@
+{
+  "video_id": "Ufw5LOw3rkA",
+  "title": "FBC Oakton, VA - August 30, 2020 (Morning Worship)",
+  "publish_date": 20200830,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ufw5LOw3rkA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ufw5LOw3rkA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ufw5LOw3rkA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ufw5LOw3rkA.vtt",
+  "duration": 3219,
+  "transcription_timestamp": "2025-04-17T14:27:32.047875",
+  "model": "whisper-1"
+}

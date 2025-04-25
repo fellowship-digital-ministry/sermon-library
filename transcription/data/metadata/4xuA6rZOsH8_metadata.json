@@ -1,0 +1,12 @@
+{
+  "video_id": "4xuA6rZOsH8",
+  "title": "\"Spiritual Distancing\" I Corinthians 15:33",
+  "publish_date": 20211021,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4xuA6rZOsH8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4xuA6rZOsH8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4xuA6rZOsH8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4xuA6rZOsH8.vtt",
+  "duration": 1791,
+  "transcription_timestamp": "2025-04-17T02:56:11.774513",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "frq7AqJtgGY",
+  "title": "\"Our Gathering Together Unto Him\" II Thessalonians 2:1",
+  "publish_date": 20230417,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\frq7AqJtgGY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\frq7AqJtgGY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\frq7AqJtgGY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\frq7AqJtgGY.vtt",
+  "duration": 2494,
+  "transcription_timestamp": "2025-04-16T09:36:02.532113",
+  "model": "whisper-1"
+}

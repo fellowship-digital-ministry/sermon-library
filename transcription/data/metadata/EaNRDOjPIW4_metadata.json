@@ -1,0 +1,12 @@
+{
+  "video_id": "EaNRDOjPIW4",
+  "title": "\"That Your Heart Be Not Deceived\" Deuteronomy 11:1-17",
+  "publish_date": 20211014,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\EaNRDOjPIW4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\EaNRDOjPIW4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EaNRDOjPIW4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EaNRDOjPIW4.vtt",
+  "duration": 1788,
+  "transcription_timestamp": "2025-04-17T03:09:35.947309",
+  "model": "whisper-1"
+}

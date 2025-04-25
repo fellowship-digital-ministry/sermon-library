@@ -1,0 +1,12 @@
+{
+  "video_id": "HU9EA4cSKt0",
+  "title": "\"Paul's Prayer For The Colossians\" Colossians 1:9-14",
+  "publish_date": 20210131,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\HU9EA4cSKt0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\HU9EA4cSKt0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HU9EA4cSKt0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HU9EA4cSKt0.vtt",
+  "duration": 3963,
+  "transcription_timestamp": "2025-04-17T08:51:14.013603",
+  "model": "whisper-1"
+}

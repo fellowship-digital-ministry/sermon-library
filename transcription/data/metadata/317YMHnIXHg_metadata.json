@@ -1,0 +1,12 @@
+{
+  "video_id": "317YMHnIXHg",
+  "title": "FBC Oakton, VA - October 18, 2020 (Morning Worship)",
+  "publish_date": 20201018,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\317YMHnIXHg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\317YMHnIXHg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\317YMHnIXHg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\317YMHnIXHg.vtt",
+  "duration": 3658,
+  "transcription_timestamp": "2025-04-17T13:33:03.725011",
+  "model": "whisper-1"
+}

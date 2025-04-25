@@ -1,0 +1,12 @@
+{
+  "video_id": "uy4CGijVawo",
+  "title": "\"Prayer Of Repentance\" Luke 11:4",
+  "publish_date": 20210325,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\uy4CGijVawo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\uy4CGijVawo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uy4CGijVawo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uy4CGijVawo.vtt",
+  "duration": 1764,
+  "transcription_timestamp": "2025-04-17T07:23:27.557082",
+  "model": "whisper-1"
+}

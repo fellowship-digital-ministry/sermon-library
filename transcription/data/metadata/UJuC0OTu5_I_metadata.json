@@ -1,0 +1,12 @@
+{
+  "video_id": "UJuC0OTu5_I",
+  "title": "\"Isaac And Ishmael Buried Abraham\" Genesis 25:1-11",
+  "publish_date": 20211206,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\UJuC0OTu5_I.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\UJuC0OTu5_I.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UJuC0OTu5_I.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UJuC0OTu5_I.vtt",
+  "duration": 2931,
+  "transcription_timestamp": "2025-04-17T01:47:39.656419",
+  "model": "whisper-1"
+}

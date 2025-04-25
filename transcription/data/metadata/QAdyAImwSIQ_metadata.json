@@ -1,0 +1,12 @@
+{
+  "video_id": "QAdyAImwSIQ",
+  "title": "\"Jesus Is All The World To Me - Part 3\" I Peter 2:3,7",
+  "publish_date": 20210106,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QAdyAImwSIQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QAdyAImwSIQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QAdyAImwSIQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QAdyAImwSIQ.vtt",
+  "duration": 2820,
+  "transcription_timestamp": "2025-04-17T09:29:12.000669",
+  "model": "whisper-1"
+}

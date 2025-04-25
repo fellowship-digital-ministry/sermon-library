@@ -1,0 +1,12 @@
+{
+  "video_id": "nS3pAoxKMb4",
+  "title": "\"Direction And Deliverance\" Luke 11:4",
+  "publish_date": 20210411,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nS3pAoxKMb4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nS3pAoxKMb4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nS3pAoxKMb4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nS3pAoxKMb4.vtt",
+  "duration": 1702,
+  "transcription_timestamp": "2025-04-17T06:57:50.097788",
+  "model": "whisper-1"
+}

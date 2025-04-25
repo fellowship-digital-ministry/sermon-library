@@ -1,0 +1,12 @@
+{
+  "video_id": "tvDolqjH5AQ",
+  "title": "\"God Is Light\" I John 1:5-10",
+  "publish_date": 20220117,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\tvDolqjH5AQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\tvDolqjH5AQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tvDolqjH5AQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tvDolqjH5AQ.vtt",
+  "duration": 3201,
+  "transcription_timestamp": "2025-04-17T00:41:13.152184",
+  "model": "whisper-1"
+}

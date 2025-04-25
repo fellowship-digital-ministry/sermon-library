@@ -1,0 +1,12 @@
+{
+  "video_id": "rwlS36WfLm8",
+  "title": "\"Elisha Wept\" II Kings 8:7-15",
+  "publish_date": 20220501,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\rwlS36WfLm8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\rwlS36WfLm8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rwlS36WfLm8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rwlS36WfLm8.vtt",
+  "duration": 2744,
+  "transcription_timestamp": "2025-04-16T15:09:38.397405",
+  "model": "whisper-1"
+}

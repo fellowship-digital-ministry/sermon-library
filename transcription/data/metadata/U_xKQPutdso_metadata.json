@@ -1,0 +1,12 @@
+{
+  "video_id": "U_xKQPutdso",
+  "title": "\"Thou Shalt Teach Thy Children\" Deuteronomy 6:1-9",
+  "publish_date": 20211010,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\U_xKQPutdso.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\U_xKQPutdso.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U_xKQPutdso.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U_xKQPutdso.vtt",
+  "duration": 2626,
+  "transcription_timestamp": "2025-04-17T03:14:16.920125",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "aqe1f-L2aGE",
+  "title": "\"The Need For Revival\" Nehemiah 1:1-11",
+  "publish_date": 20220828,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\aqe1f-L2aGE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\aqe1f-L2aGE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aqe1f-L2aGE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aqe1f-L2aGE.vtt",
+  "duration": 2969,
+  "transcription_timestamp": "2025-04-16T13:22:56.713240",
+  "model": "whisper-1"
+}

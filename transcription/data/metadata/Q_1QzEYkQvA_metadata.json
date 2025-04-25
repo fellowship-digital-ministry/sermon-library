@@ -1,0 +1,12 @@
+{
+  "video_id": "Q_1QzEYkQvA",
+  "title": "\"The Lord Spoke To Jacob\" Genesis 28:10-22",
+  "publish_date": 20220228,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Q_1QzEYkQvA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Q_1QzEYkQvA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q_1QzEYkQvA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q_1QzEYkQvA.vtt",
+  "duration": 2945,
+  "transcription_timestamp": "2025-04-16T16:13:03.762095",
+  "model": "whisper-1"
+}

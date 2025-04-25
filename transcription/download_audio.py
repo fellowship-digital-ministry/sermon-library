@@ -10,7 +10,7 @@ from utils import get_video_url, get_audio_filename
 
 logger = logging.getLogger(__name__)
 
-def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False):
+def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, cookies_file=None):
     """
     Download audio from a YouTube video.
     
@@ -18,6 +18,7 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False):
         video_id: YouTube video ID
         output_dir: Directory to save the audio file
         force_download: Whether to download even if the file already exists
+        cookies_file: Path to cookies file for YouTube authentication
     
     Returns:
         Path to the downloaded audio file or None if download failed
@@ -42,6 +43,10 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False):
         'no_warnings': True,
     }
     
+    # Add cookies file if provided
+    if cookies_file:
+        ydl_opts['cookiefile'] = cookies_file
+    
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download([video_url])
@@ -52,7 +57,7 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False):
         logger.error(f"Failed to download audio for {video_id}: {str(e)}")
         return None
 
-def download_batch(video_list, output_dir=config.AUDIO_DIR, force_download=False):
+def download_batch(video_list, output_dir=config.AUDIO_DIR, force_download=False, cookies_file=None):
     """
     Download audio for a batch of videos.
     
@@ -60,6 +65,7 @@ def download_batch(video_list, output_dir=config.AUDIO_DIR, force_download=False
         video_list: List of dictionaries with video information
         output_dir: Directory to save audio files
         force_download: Whether to download even if files already exist
+        cookies_file: Path to cookies file for YouTube authentication
     
     Returns:
         Dictionary mapping video IDs to audio file paths
@@ -68,7 +74,7 @@ def download_batch(video_list, output_dir=config.AUDIO_DIR, force_download=False
     
     for video in tqdm(video_list, desc="Downloading audio"):
         video_id = video["video_id"]
-        audio_file = download_audio(video_id, output_dir, force_download)
+        audio_file = download_audio(video_id, output_dir, force_download, cookies_file)
         
         if audio_file:
             results[video_id] = audio_file

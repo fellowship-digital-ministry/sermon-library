@@ -1,0 +1,12 @@
+{
+  "video_id": "VAwhGyZS5VU",
+  "title": "\"O How Love I Thy Law\" Psalm 119:97",
+  "publish_date": 20220424,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\VAwhGyZS5VU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\VAwhGyZS5VU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VAwhGyZS5VU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VAwhGyZS5VU.vtt",
+  "duration": 2542,
+  "transcription_timestamp": "2025-04-16T15:14:00.254839",
+  "model": "whisper-1"
+}

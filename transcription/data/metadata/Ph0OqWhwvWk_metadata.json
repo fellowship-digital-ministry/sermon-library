@@ -1,0 +1,12 @@
+{
+  "video_id": "Ph0OqWhwvWk",
+  "title": "\"Prayer As Our First Response\" I Timothy 2:1-8",
+  "publish_date": 20200608,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Ph0OqWhwvWk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Ph0OqWhwvWk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ph0OqWhwvWk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ph0OqWhwvWk.vtt",
+  "duration": 3073,
+  "transcription_timestamp": "2025-04-17T16:55:28.700138",
+  "model": "whisper-1"
+}

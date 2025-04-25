@@ -1,0 +1,12 @@
+{
+  "video_id": "bk0BCi-BMI0",
+  "title": "\"Can Two Walk Together, Except They Be Agreed?\" Amos 3:3",
+  "publish_date": 20221017,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\bk0BCi-BMI0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\bk0BCi-BMI0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bk0BCi-BMI0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bk0BCi-BMI0.vtt",
+  "duration": 2689,
+  "transcription_timestamp": "2025-04-16T11:57:39.170899",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "yTL0aNdEv6o",
+  "title": "\"I Will Come Again\" John 14:1-3",
+  "publish_date": 20211003,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\yTL0aNdEv6o.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\yTL0aNdEv6o.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yTL0aNdEv6o.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yTL0aNdEv6o.vtt",
+  "duration": 3309,
+  "transcription_timestamp": "2025-04-17T03:27:08.790702",
+  "model": "whisper-1"
+}

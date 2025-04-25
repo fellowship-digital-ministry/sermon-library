@@ -1,0 +1,12 @@
+{
+  "video_id": "ufTU8EXV5N8",
+  "title": "\"The Trial Of Your Faith\" I Peter 1:3-9",
+  "publish_date": 20210829,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ufTU8EXV5N8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ufTU8EXV5N8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ufTU8EXV5N8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ufTU8EXV5N8.vtt",
+  "duration": 1758,
+  "transcription_timestamp": "2025-04-17T04:33:01.391597",
+  "model": "whisper-1"
+}

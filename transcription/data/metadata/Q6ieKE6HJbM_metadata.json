@@ -1,0 +1,12 @@
+{
+  "video_id": "Q6ieKE6HJbM",
+  "title": "\"Thou Called And I Delivered\" Psalm 81:7",
+  "publish_date": 20200406,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Q6ieKE6HJbM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Q6ieKE6HJbM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q6ieKE6HJbM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q6ieKE6HJbM.vtt",
+  "duration": 1937,
+  "transcription_timestamp": "2025-04-17T21:01:43.187355",
+  "model": "whisper-1"
+}

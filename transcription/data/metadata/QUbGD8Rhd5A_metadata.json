@@ -1,0 +1,12 @@
+{
+  "video_id": "QUbGD8Rhd5A",
+  "title": "\"Naaman Stood At The Door of Elisha\" II Kings 5:9-19",
+  "publish_date": 20200405,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QUbGD8Rhd5A.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QUbGD8Rhd5A.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QUbGD8Rhd5A.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QUbGD8Rhd5A.vtt",
+  "duration": 2098,
+  "transcription_timestamp": "2025-04-17T21:05:27.464059",
+  "model": "whisper-1"
+}

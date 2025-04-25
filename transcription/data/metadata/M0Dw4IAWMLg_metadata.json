@@ -1,0 +1,12 @@
+{
+  "video_id": "M0Dw4IAWMLg",
+  "title": "\"Because He Lives\" I Corinthians 15",
+  "publish_date": 20220417,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\M0Dw4IAWMLg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\M0Dw4IAWMLg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M0Dw4IAWMLg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M0Dw4IAWMLg.vtt",
+  "duration": 2744,
+  "transcription_timestamp": "2025-04-16T15:19:06.833370",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "WBmULZEQcX8",
+  "title": "\"The Wickedness Of Judah\" Genesis 38:1-30",
+  "publish_date": 20230809,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\WBmULZEQcX8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\WBmULZEQcX8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBmULZEQcX8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBmULZEQcX8.vtt",
+  "duration": 2989,
+  "transcription_timestamp": "2025-04-16T01:08:42.501790",
+  "model": "whisper-1"
+}

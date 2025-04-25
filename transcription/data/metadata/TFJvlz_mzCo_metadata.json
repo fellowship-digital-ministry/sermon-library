@@ -1,0 +1,12 @@
+{
+  "video_id": "TFJvlz_mzCo",
+  "title": "\"The Truth Shall Make You Free\" John 8:32-36",
+  "publish_date": 20220703,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\TFJvlz_mzCo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\TFJvlz_mzCo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TFJvlz_mzCo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TFJvlz_mzCo.vtt",
+  "duration": 2678,
+  "transcription_timestamp": "2025-04-16T14:14:12.231168",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "7rseeVx8SA0",
+  "title": "\"Sarah Conceived And Bare A Son\" Genesis 21:1-7",
+  "publish_date": 20210823,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\7rseeVx8SA0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\7rseeVx8SA0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7rseeVx8SA0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7rseeVx8SA0.vtt",
+  "duration": 2846,
+  "transcription_timestamp": "2025-04-17T04:38:08.454338",
+  "model": "whisper-1"
+}

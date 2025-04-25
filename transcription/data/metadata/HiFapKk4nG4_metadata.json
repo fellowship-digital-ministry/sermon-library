@@ -1,0 +1,12 @@
+{
+  "video_id": "HiFapKk4nG4",
+  "title": "\"Ye Are The Light Of The World\" Matthew 5:14-16",
+  "publish_date": 20210510,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\HiFapKk4nG4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\HiFapKk4nG4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HiFapKk4nG4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HiFapKk4nG4.vtt",
+  "duration": 2962,
+  "transcription_timestamp": "2025-04-17T06:26:44.777993",
+  "model": "whisper-1"
+}

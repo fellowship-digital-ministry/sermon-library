@@ -1,0 +1,12 @@
+{
+  "video_id": "1tNRCH4gQSE",
+  "title": "\"The Elder Shall Serve The Younger\" Genesis 25:19-26",
+  "publish_date": 20211213,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\1tNRCH4gQSE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\1tNRCH4gQSE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1tNRCH4gQSE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1tNRCH4gQSE.vtt",
+  "duration": 2960,
+  "transcription_timestamp": "2025-04-17T01:33:36.084354",
+  "model": "whisper-1"
+}

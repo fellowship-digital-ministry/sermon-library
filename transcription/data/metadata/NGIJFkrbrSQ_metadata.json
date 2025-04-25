@@ -1,0 +1,12 @@
+{
+  "video_id": "NGIJFkrbrSQ",
+  "title": "\"Whom Do Men Say That I Am?\" Matthew 16:13-17",
+  "publish_date": 20201203,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\NGIJFkrbrSQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\NGIJFkrbrSQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NGIJFkrbrSQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NGIJFkrbrSQ.vtt",
+  "duration": 1766,
+  "transcription_timestamp": "2025-04-17T10:20:03.027488",
+  "model": "whisper-1"
+}

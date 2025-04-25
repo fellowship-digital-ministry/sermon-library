@@ -1,0 +1,12 @@
+{
+  "video_id": "mkxrJUvuFss",
+  "title": "\"Thou Shalt Call His Name Jesus\" Matthew 1:21",
+  "publish_date": 20221219,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\mkxrJUvuFss.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\mkxrJUvuFss.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mkxrJUvuFss.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mkxrJUvuFss.vtt",
+  "duration": 1952,
+  "transcription_timestamp": "2025-04-16T11:16:59.431747",
+  "model": "whisper-1"
+}

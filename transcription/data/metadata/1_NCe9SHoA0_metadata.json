@@ -1,0 +1,12 @@
+{
+  "video_id": "1_NCe9SHoA0",
+  "title": "\"Love Not The World\" I John 2:15-17",
+  "publish_date": 20220220,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\1_NCe9SHoA0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\1_NCe9SHoA0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1_NCe9SHoA0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1_NCe9SHoA0.vtt",
+  "duration": 2743,
+  "transcription_timestamp": "2025-04-16T16:29:38.256552",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "6MLW_MPF-wo",
+  "title": "\"A Teachable Spirit\" Acts 8:26-39",
+  "publish_date": 20220206,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6MLW_MPF-wo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6MLW_MPF-wo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6MLW_MPF-wo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6MLW_MPF-wo.vtt",
+  "duration": 1751,
+  "transcription_timestamp": "2025-04-17T00:16:29.833897",
+  "model": "whisper-1"
+}

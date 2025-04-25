@@ -1,0 +1,12 @@
+{
+  "video_id": "hambfbjt07M",
+  "title": "\"He Is Risen\" Matthew 28:1-10",
+  "publish_date": 20200412,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\hambfbjt07M.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\hambfbjt07M.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hambfbjt07M.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hambfbjt07M.vtt",
+  "duration": 2960,
+  "transcription_timestamp": "2025-04-17T20:54:46.534449",
+  "model": "whisper-1"
+}

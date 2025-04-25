@@ -1,0 +1,12 @@
+{
+  "video_id": "FoatIgA4SQs",
+  "title": "\"Love In Deed And In Truth\" I John 3:11-18",
+  "publish_date": 20220620,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\FoatIgA4SQs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\FoatIgA4SQs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FoatIgA4SQs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FoatIgA4SQs.vtt",
+  "duration": 2697,
+  "transcription_timestamp": "2025-04-16T14:29:16.766445",
+  "model": "whisper-1"
+}

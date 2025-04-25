@@ -1,0 +1,12 @@
+{
+  "video_id": "TNNHR9aPzJk",
+  "title": "\"Returning To Bethel\" Genesis 35:1-15",
+  "publish_date": 20230327,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\TNNHR9aPzJk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\TNNHR9aPzJk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TNNHR9aPzJk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TNNHR9aPzJk.vtt",
+  "duration": 2601,
+  "transcription_timestamp": "2025-04-16T09:58:06.896198",
+  "model": "whisper-1"
+}

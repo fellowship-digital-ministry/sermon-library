@@ -1,0 +1,12 @@
+{
+  "video_id": "kLHnB6hbHMY",
+  "title": "\"The Thing Proceedeth From The Lord\" Genesis 24:1-67",
+  "publish_date": 20211129,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\kLHnB6hbHMY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\kLHnB6hbHMY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kLHnB6hbHMY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kLHnB6hbHMY.vtt",
+  "duration": 2940,
+  "transcription_timestamp": "2025-04-17T01:55:57.522149",
+  "model": "whisper-1"
+}

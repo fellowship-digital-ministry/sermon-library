@@ -1,0 +1,12 @@
+{
+  "video_id": "KNJW7jy8zDg",
+  "title": "\"Ye Are Dull Of Hearing\" Hebrews 5:11-14",
+  "publish_date": 20200426,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\KNJW7jy8zDg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\KNJW7jy8zDg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KNJW7jy8zDg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KNJW7jy8zDg.vtt",
+  "duration": 3027,
+  "transcription_timestamp": "2025-04-17T20:34:36.404025",
+  "model": "whisper-1"
+}

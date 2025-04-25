@@ -1,0 +1,12 @@
+{
+  "video_id": "eO6wOHtfoHo",
+  "title": "\"The Exalted Christ\" Colossians 1:15-23",
+  "publish_date": 20210207,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\eO6wOHtfoHo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\eO6wOHtfoHo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eO6wOHtfoHo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eO6wOHtfoHo.vtt",
+  "duration": 3658,
+  "transcription_timestamp": "2025-04-17T08:40:54.214336",
+  "model": "whisper-1"
+}

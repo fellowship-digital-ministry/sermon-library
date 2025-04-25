@@ -1,0 +1,12 @@
+{
+  "video_id": "s3ZqPxXQpm0",
+  "title": "\"A Mighty Valiant Man\" I Samuel 16:18",
+  "publish_date": 20210708,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\s3ZqPxXQpm0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\s3ZqPxXQpm0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\s3ZqPxXQpm0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\s3ZqPxXQpm0.vtt",
+  "duration": 1814,
+  "transcription_timestamp": "2025-04-17T05:23:07.110612",
+  "model": "whisper-1"
+}

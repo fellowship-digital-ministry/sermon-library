@@ -1,0 +1,12 @@
+{
+  "video_id": "EP6z-pS8q5k",
+  "title": "FBC Oakton, VA - August 23, 2020 (Evening Worship)",
+  "publish_date": 20200824,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\EP6z-pS8q5k.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\EP6z-pS8q5k.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EP6z-pS8q5k.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EP6z-pS8q5k.vtt",
+  "duration": 2475,
+  "transcription_timestamp": "2025-04-17T14:35:20.472315",
+  "model": "whisper-1"
+}

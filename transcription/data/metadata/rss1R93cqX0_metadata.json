@@ -1,0 +1,12 @@
+{
+  "video_id": "rss1R93cqX0",
+  "title": "\"He Spake, And It Was Done\" Psalm 33:6-9",
+  "publish_date": 20230108,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\rss1R93cqX0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\rss1R93cqX0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rss1R93cqX0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rss1R93cqX0.vtt",
+  "duration": 2692,
+  "transcription_timestamp": "2025-04-16T11:09:53.381437",
+  "model": "whisper-1"
+}

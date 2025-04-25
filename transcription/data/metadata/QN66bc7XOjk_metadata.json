@@ -1,0 +1,12 @@
+{
+  "video_id": "QN66bc7XOjk",
+  "title": "\"In Egypt, God Made His Greatness Known\" Psalm 105:23-28",
+  "publish_date": 20230417,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QN66bc7XOjk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QN66bc7XOjk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QN66bc7XOjk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QN66bc7XOjk.vtt",
+  "duration": 2838,
+  "transcription_timestamp": "2025-04-16T09:40:37.634525",
+  "model": "whisper-1"
+}

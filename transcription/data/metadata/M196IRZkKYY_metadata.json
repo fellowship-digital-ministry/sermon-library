@@ -1,0 +1,12 @@
+{
+  "video_id": "M196IRZkKYY",
+  "title": "\"Who Are You Living For?\" Philippians 1:21",
+  "publish_date": 20200525,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\M196IRZkKYY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\M196IRZkKYY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M196IRZkKYY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M196IRZkKYY.vtt",
+  "duration": 2102,
+  "transcription_timestamp": "2025-04-17T19:51:09.274368",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "b0asT7EEcLU",
+  "title": "FBC Oakton, VA - November 1, 2020 (Morning Worship)",
+  "publish_date": 20201101,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\b0asT7EEcLU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\b0asT7EEcLU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b0asT7EEcLU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b0asT7EEcLU.vtt",
+  "duration": 2977,
+  "transcription_timestamp": "2025-04-17T11:38:51.960318",
+  "model": "whisper-1"
+}

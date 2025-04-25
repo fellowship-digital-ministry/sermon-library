@@ -1,0 +1,12 @@
+{
+  "video_id": "V5wHGLUSkdE",
+  "title": "\"A Man Named Zacchaeus\" Luke 19:1-10",
+  "publish_date": 20201109,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\V5wHGLUSkdE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\V5wHGLUSkdE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\V5wHGLUSkdE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\V5wHGLUSkdE.vtt",
+  "duration": 2592,
+  "transcription_timestamp": "2025-04-17T11:06:37.640327",
+  "model": "whisper-1"
+}

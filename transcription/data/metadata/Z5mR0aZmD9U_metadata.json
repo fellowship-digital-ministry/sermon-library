@@ -1,0 +1,12 @@
+{
+  "video_id": "Z5mR0aZmD9U",
+  "title": "\"The Choice Is Yours\" Joshua 24:14-16",
+  "publish_date": 20230925,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Z5mR0aZmD9U.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Z5mR0aZmD9U.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Z5mR0aZmD9U.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Z5mR0aZmD9U.vtt",
+  "duration": 2979,
+  "transcription_timestamp": "2025-04-15T23:59:43.578760",
+  "model": "whisper-1"
+}

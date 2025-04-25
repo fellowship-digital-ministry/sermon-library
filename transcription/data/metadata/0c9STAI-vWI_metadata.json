@@ -1,0 +1,12 @@
+{
+  "video_id": "0c9STAI-vWI",
+  "title": "\"God Is Love\" I John 4:7-10",
+  "publish_date": 20221012,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\0c9STAI-vWI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\0c9STAI-vWI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0c9STAI-vWI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0c9STAI-vWI.vtt",
+  "duration": 2614,
+  "transcription_timestamp": "2025-04-16T12:06:44.854639",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "987NUYE7IME",
+  "title": "\"Arise Therefore, And Be Doing\" I Chronicles 22:1-19",
+  "publish_date": 20210321,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\987NUYE7IME.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\987NUYE7IME.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\987NUYE7IME.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\987NUYE7IME.vtt",
+  "duration": 3393,
+  "transcription_timestamp": "2025-04-17T07:33:37.416494",
+  "model": "whisper-1"
+}

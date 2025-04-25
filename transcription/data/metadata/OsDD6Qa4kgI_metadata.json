@@ -1,0 +1,12 @@
+{
+  "video_id": "OsDD6Qa4kgI",
+  "title": "\"Enter Into His Gates With Thanksgiving\" Psalm 100:4",
+  "publish_date": 20210415,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\OsDD6Qa4kgI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\OsDD6Qa4kgI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OsDD6Qa4kgI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OsDD6Qa4kgI.vtt",
+  "duration": 1771,
+  "transcription_timestamp": "2025-04-17T06:50:41.046343",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "omA2lxHRXXU",
+  "title": "\"In Horeb, God Made His Greatness Known\" Exodus 3:1-4:10",
+  "publish_date": 20230326,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\omA2lxHRXXU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\omA2lxHRXXU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\omA2lxHRXXU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\omA2lxHRXXU.vtt",
+  "duration": 2616,
+  "transcription_timestamp": "2025-04-16T10:02:28.071637",
+  "model": "whisper-1"
+}

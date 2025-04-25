@@ -1,0 +1,12 @@
+{
+  "video_id": "PcWAoGx4sog",
+  "title": "\"That My Soul May Bless Thee\" Genesis 27:1-46",
+  "publish_date": 20220214,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\PcWAoGx4sog.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\PcWAoGx4sog.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PcWAoGx4sog.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PcWAoGx4sog.vtt",
+  "duration": 2684,
+  "transcription_timestamp": "2025-04-16T16:34:26.727131",
+  "model": "whisper-1"
+}

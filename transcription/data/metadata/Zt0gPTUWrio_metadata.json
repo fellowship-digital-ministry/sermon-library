@@ -1,0 +1,12 @@
+{
+  "video_id": "Zt0gPTUWrio",
+  "title": "\"Abraham Made A Great Feast\" Genesis 21:8-21",
+  "publish_date": 20210829,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Zt0gPTUWrio.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Zt0gPTUWrio.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Zt0gPTUWrio.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Zt0gPTUWrio.vtt",
+  "duration": 2766,
+  "transcription_timestamp": "2025-04-17T04:23:53.043668",
+  "model": "whisper-1"
+}

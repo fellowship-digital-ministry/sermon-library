@@ -1,0 +1,12 @@
+{
+  "video_id": "yiyc0K-2BUA",
+  "title": "\"Lessons From Joash\" II Chronicles 24:1-27",
+  "publish_date": 20230814,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\yiyc0K-2BUA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\yiyc0K-2BUA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yiyc0K-2BUA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yiyc0K-2BUA.vtt",
+  "duration": 2595,
+  "transcription_timestamp": "2025-04-16T00:58:44.854495",
+  "model": "whisper-1"
+}

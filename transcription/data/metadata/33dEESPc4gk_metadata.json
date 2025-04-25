@@ -1,0 +1,12 @@
+{
+  "video_id": "33dEESPc4gk",
+  "title": "\"Two Purposes For Learning\" Matthew 7:29",
+  "publish_date": 20220129,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\33dEESPc4gk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\33dEESPc4gk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\33dEESPc4gk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\33dEESPc4gk.vtt",
+  "duration": 1886,
+  "transcription_timestamp": "2025-04-17T00:29:59.616587",
+  "model": "whisper-1"
+}

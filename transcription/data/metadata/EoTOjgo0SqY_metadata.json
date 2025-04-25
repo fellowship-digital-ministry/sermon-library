@@ -1,0 +1,12 @@
+{
+  "video_id": "EoTOjgo0SqY",
+  "title": "\"Faithful Through Trials\" Genesis 40:1-23",
+  "publish_date": 20231003,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\EoTOjgo0SqY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\EoTOjgo0SqY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EoTOjgo0SqY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EoTOjgo0SqY.vtt",
+  "duration": 3026,
+  "transcription_timestamp": "2025-04-15T23:49:42.511925",
+  "model": "whisper-1"
+}

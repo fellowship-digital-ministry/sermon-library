@@ -1,0 +1,12 @@
+{
+  "video_id": "DzfYEJzAihI",
+  "title": "\"He Made The Stars Also\" Genesis 1:14-19",
+  "publish_date": 20230115,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\DzfYEJzAihI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\DzfYEJzAihI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DzfYEJzAihI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DzfYEJzAihI.vtt",
+  "duration": 2730,
+  "transcription_timestamp": "2025-04-16T11:05:25.112128",
+  "model": "whisper-1"
+}

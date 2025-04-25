@@ -1,0 +1,12 @@
+{
+  "video_id": "I6K0V0ASzDE",
+  "title": "\"The Danger Of Deception\" Mark 13:5-6",
+  "publish_date": 20211007,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\I6K0V0ASzDE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\I6K0V0ASzDE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I6K0V0ASzDE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I6K0V0ASzDE.vtt",
+  "duration": 1822,
+  "transcription_timestamp": "2025-04-17T03:17:29.741461",
+  "model": "whisper-1"
+}

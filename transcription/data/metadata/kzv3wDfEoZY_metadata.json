@@ -1,0 +1,12 @@
+{
+  "video_id": "kzv3wDfEoZY",
+  "title": "\"His Great Love\" Ephesians 2:4",
+  "publish_date": 20230430,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\kzv3wDfEoZY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\kzv3wDfEoZY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kzv3wDfEoZY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kzv3wDfEoZY.vtt",
+  "duration": 2778,
+  "transcription_timestamp": "2025-04-16T09:27:10.179366",
+  "model": "whisper-1"
+}

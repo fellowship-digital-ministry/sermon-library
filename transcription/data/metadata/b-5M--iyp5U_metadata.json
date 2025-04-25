@@ -1,0 +1,12 @@
+{
+  "video_id": "b-5M--iyp5U",
+  "title": "\"Lot Sat In The Gate Of Sodom\" Genesis 19:1",
+  "publish_date": 20210411,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\b-5M--iyp5U.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\b-5M--iyp5U.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b-5M--iyp5U.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b-5M--iyp5U.vtt",
+  "duration": 2558,
+  "transcription_timestamp": "2025-04-17T06:55:01.418213",
+  "model": "whisper-1"
+}

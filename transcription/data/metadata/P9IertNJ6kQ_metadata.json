@@ -1,0 +1,12 @@
+{
+  "video_id": "P9IertNJ6kQ",
+  "title": "FBC Oakton, VA - July 12, 2020 (Evening Worship)",
+  "publish_date": 20200713,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\P9IertNJ6kQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\P9IertNJ6kQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\P9IertNJ6kQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\P9IertNJ6kQ.vtt",
+  "duration": 2775,
+  "transcription_timestamp": "2025-04-17T15:48:22.774229",
+  "model": "whisper-1"
+}

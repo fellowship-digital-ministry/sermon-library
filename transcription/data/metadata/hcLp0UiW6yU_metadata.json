@@ -1,0 +1,12 @@
+{
+  "video_id": "hcLp0UiW6yU",
+  "title": "\"As A Father Doth His Children - Part 2\" I Thessalonians 2:11",
+  "publish_date": 20210621,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\hcLp0UiW6yU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\hcLp0UiW6yU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hcLp0UiW6yU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hcLp0UiW6yU.vtt",
+  "duration": 2704,
+  "transcription_timestamp": "2025-04-17T05:43:04.818849",
+  "model": "whisper-1"
+}

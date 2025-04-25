@@ -1,0 +1,12 @@
+{
+  "video_id": "StOoWZioV1U",
+  "title": "\"Pour Out Your Heart Before Him\" Psalm 62:1-12",
+  "publish_date": 20210411,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\StOoWZioV1U.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\StOoWZioV1U.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\StOoWZioV1U.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\StOoWZioV1U.vtt",
+  "duration": 2955,
+  "transcription_timestamp": "2025-04-17T07:02:59.404568",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "GY5NSQuQTLw",
+  "title": "\"Phebe Our Sister\" Romans 16:1-2",
+  "publish_date": 20210509,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\GY5NSQuQTLw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\GY5NSQuQTLw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GY5NSQuQTLw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GY5NSQuQTLw.vtt",
+  "duration": 2968,
+  "transcription_timestamp": "2025-04-17T06:31:38.919676",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "WhaPo-g3nqA",
+  "title": "\"He That Doeth Righteousness Is Righteous\" I John 3:4-10",
+  "publish_date": 20220605,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\WhaPo-g3nqA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\WhaPo-g3nqA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WhaPo-g3nqA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WhaPo-g3nqA.vtt",
+  "duration": 2969,
+  "transcription_timestamp": "2025-04-16T14:34:29.993911",
+  "model": "whisper-1"
+}

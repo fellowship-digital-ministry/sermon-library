@@ -1,0 +1,12 @@
+{
+  "video_id": "wb3Da9z0nOk",
+  "title": "FBC Oakton, VA - January 12, 2022 (Mid-Week Service)",
+  "publish_date": 20220117,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\wb3Da9z0nOk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\wb3Da9z0nOk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wb3Da9z0nOk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wb3Da9z0nOk.vtt",
+  "duration": 1906,
+  "transcription_timestamp": "2025-04-17T00:44:26.100839",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "6as6Bz2amJY",
+  "title": "\"Isaac Dwelt In Gerar\" Genesis 26:1-35",
+  "publish_date": 20220131,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6as6Bz2amJY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6as6Bz2amJY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6as6Bz2amJY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6as6Bz2amJY.vtt",
+  "duration": 2933,
+  "transcription_timestamp": "2025-04-17T00:21:37.340573",
+  "model": "whisper-1"
+}

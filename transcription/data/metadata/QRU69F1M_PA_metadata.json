@@ -1,0 +1,12 @@
+{
+  "video_id": "QRU69F1M_PA",
+  "title": "\"This Do In Remembrance Of Me\" I Corinthians 11:23-32",
+  "publish_date": 20230508,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QRU69F1M_PA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QRU69F1M_PA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QRU69F1M_PA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QRU69F1M_PA.vtt",
+  "duration": 2441,
+  "transcription_timestamp": "2025-04-16T09:19:29.741749",
+  "model": "whisper-1"
+}

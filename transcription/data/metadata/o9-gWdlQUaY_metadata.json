@@ -1,0 +1,12 @@
+{
+  "video_id": "o9-gWdlQUaY",
+  "title": "\"Speak, Lord; For Thy Servant Heareth\" I Samuel 3:1-11",
+  "publish_date": 20210808,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\o9-gWdlQUaY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\o9-gWdlQUaY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\o9-gWdlQUaY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\o9-gWdlQUaY.vtt",
+  "duration": 3286,
+  "transcription_timestamp": "2025-04-17T05:04:39.756395",
+  "model": "whisper-1"
+}

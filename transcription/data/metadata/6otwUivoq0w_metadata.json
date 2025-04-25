@@ -1,0 +1,12 @@
+{
+  "video_id": "6otwUivoq0w",
+  "title": "\"Jacob Prepares To Meet Esau\" Genesis 32:1-23",
+  "publish_date": 20230206,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6otwUivoq0w.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6otwUivoq0w.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6otwUivoq0w.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6otwUivoq0w.vtt",
+  "duration": 2666,
+  "transcription_timestamp": "2025-04-16T10:42:15.277634",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "6eUsQrWOpqo",
+  "title": "\"Let God Be Magnified\" Psalm 70:4",
+  "publish_date": 20220731,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\6eUsQrWOpqo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\6eUsQrWOpqo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6eUsQrWOpqo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6eUsQrWOpqo.vtt",
+  "duration": 2973,
+  "transcription_timestamp": "2025-04-16T13:48:48.018400",
+  "model": "whisper-1"
+}

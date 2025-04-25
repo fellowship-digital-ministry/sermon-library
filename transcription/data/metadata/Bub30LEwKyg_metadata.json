@@ -1,0 +1,12 @@
+{
+  "video_id": "Bub30LEwKyg",
+  "title": "\"The Syrians Besieged Samaria\" II Kings 6:24-33",
+  "publish_date": 20200429,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Bub30LEwKyg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Bub30LEwKyg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Bub30LEwKyg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Bub30LEwKyg.vtt",
+  "duration": 1715,
+  "transcription_timestamp": "2025-04-17T20:26:15.201399",
+  "model": "whisper-1"
+}

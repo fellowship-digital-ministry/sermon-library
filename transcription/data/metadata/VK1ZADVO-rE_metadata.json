@@ -1,0 +1,12 @@
+{
+  "video_id": "VK1ZADVO-rE",
+  "title": "\"Went Every Where Preaching The Word\" Acts 8:1-4",
+  "publish_date": 20220515,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\VK1ZADVO-rE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\VK1ZADVO-rE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VK1ZADVO-rE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VK1ZADVO-rE.vtt",
+  "duration": 2879,
+  "transcription_timestamp": "2025-04-16T14:54:46.554099",
+  "model": "whisper-1"
+}

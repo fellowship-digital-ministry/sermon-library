@@ -1,0 +1,12 @@
+{
+  "video_id": "Y7Ff430VPN0",
+  "title": "\"Sent Forth\" Acts 13:1-12",
+  "publish_date": 20210513,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Y7Ff430VPN0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Y7Ff430VPN0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y7Ff430VPN0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y7Ff430VPN0.vtt",
+  "duration": 1878,
+  "transcription_timestamp": "2025-04-17T06:21:51.064700",
+  "model": "whisper-1"
+}

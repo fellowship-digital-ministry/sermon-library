@@ -1,0 +1,12 @@
+{
+  "video_id": "Qw84YBHvTq4",
+  "title": "\"The Proclamation Of Rahab\" Joshua 2:8-21",
+  "publish_date": 20230821,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Qw84YBHvTq4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Qw84YBHvTq4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qw84YBHvTq4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qw84YBHvTq4.vtt",
+  "duration": 2918,
+  "transcription_timestamp": "2025-04-16T00:54:06.848221",
+  "model": "whisper-1"
+}

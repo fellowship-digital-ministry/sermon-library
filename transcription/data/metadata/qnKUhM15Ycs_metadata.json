@@ -1,0 +1,12 @@
+{
+  "video_id": "qnKUhM15Ycs",
+  "title": "\"I Am The Lord Your God\" Leviticus 18:1-5",
+  "publish_date": 20210129,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\qnKUhM15Ycs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\qnKUhM15Ycs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qnKUhM15Ycs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qnKUhM15Ycs.vtt",
+  "duration": 2172,
+  "transcription_timestamp": "2025-04-17T08:55:23.090199",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "hMIOkmwPfzg",
+  "title": "\"Jacob Increased Exceedingly\" Genesis 30:25 - Genesis 31:16",
+  "publish_date": 20220411,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\hMIOkmwPfzg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\hMIOkmwPfzg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hMIOkmwPfzg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hMIOkmwPfzg.vtt",
+  "duration": 2603,
+  "transcription_timestamp": "2025-04-16T15:24:05.912145",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "wG9tDeVyFl8",
+  "title": "\"It May Be That The Lord Will Work For Us\" I Samuel 14:1-23",
+  "publish_date": 20201221,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\wG9tDeVyFl8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\wG9tDeVyFl8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wG9tDeVyFl8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wG9tDeVyFl8.vtt",
+  "duration": 2756,
+  "transcription_timestamp": "2025-04-17T09:43:57.242514",
+  "model": "whisper-1"
+}

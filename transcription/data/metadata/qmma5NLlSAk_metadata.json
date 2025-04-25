@@ -1,0 +1,12 @@
+{
+  "video_id": "qmma5NLlSAk",
+  "title": "\"This Poor Man Cried\" Psalm 34",
+  "publish_date": 20231029,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\qmma5NLlSAk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\qmma5NLlSAk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qmma5NLlSAk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qmma5NLlSAk.vtt",
+  "duration": 3004,
+  "transcription_timestamp": "2025-04-15T23:34:38.604150",
+  "model": "whisper-1"
+}

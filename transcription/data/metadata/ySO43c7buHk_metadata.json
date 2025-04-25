@@ -1,0 +1,12 @@
+{
+  "video_id": "ySO43c7buHk",
+  "title": "\"The Life Of A Believer\" I John 5:1-5",
+  "publish_date": 20221112,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\ySO43c7buHk.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\ySO43c7buHk.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ySO43c7buHk.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ySO43c7buHk.vtt",
+  "duration": 2576,
+  "transcription_timestamp": "2025-04-16T11:48:05.753013",
+  "model": "whisper-1"
+}

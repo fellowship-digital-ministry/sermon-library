@@ -1,0 +1,12 @@
+{
+  "video_id": "eXtodevZP38",
+  "title": "\"The Proclamation Of Naaman\" II Kings 5:1-19",
+  "publish_date": 20230828,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\eXtodevZP38.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\eXtodevZP38.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eXtodevZP38.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eXtodevZP38.vtt",
+  "duration": 2865,
+  "transcription_timestamp": "2025-04-16T00:41:26.584674",
+  "model": "whisper-1"
+}

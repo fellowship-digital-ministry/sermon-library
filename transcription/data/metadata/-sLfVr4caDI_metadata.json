@@ -1,0 +1,12 @@
+{
+  "video_id": "-sLfVr4caDI",
+  "title": "\"When The People Complained\" Numbers 11:1-3",
+  "publish_date": 20220321,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\-sLfVr4caDI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\-sLfVr4caDI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-sLfVr4caDI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-sLfVr4caDI.vtt",
+  "duration": 2913,
+  "transcription_timestamp": "2025-04-16T15:51:36.302735",
+  "model": "whisper-1"
+}

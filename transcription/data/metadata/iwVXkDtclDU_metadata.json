@@ -1,0 +1,12 @@
+{
+  "video_id": "iwVXkDtclDU",
+  "title": "FBC Oakton, VA - October 21, 2020 (Mid-Week Service)",
+  "publish_date": 20201023,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\iwVXkDtclDU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\iwVXkDtclDU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iwVXkDtclDU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iwVXkDtclDU.vtt",
+  "duration": 2179,
+  "transcription_timestamp": "2025-04-17T13:23:39.106777",
+  "model": "whisper-1"
+}

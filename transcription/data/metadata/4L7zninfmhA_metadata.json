@@ -1,0 +1,12 @@
+{
+  "video_id": "4L7zninfmhA",
+  "title": "\"What Should I Desire To Learn?\" Psalm 27:11",
+  "publish_date": 20220210,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\4L7zninfmhA.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\4L7zninfmhA.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4L7zninfmhA.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4L7zninfmhA.vtt",
+  "duration": 2036,
+  "transcription_timestamp": "2025-04-17T00:04:37.372759",
+  "model": "whisper-1"
+}

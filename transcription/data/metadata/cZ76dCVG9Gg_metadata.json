@@ -1,0 +1,12 @@
+{
+  "video_id": "cZ76dCVG9Gg",
+  "title": "\"The Power Of Our Words\" Proverbs 15:1",
+  "publish_date": 20230515,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cZ76dCVG9Gg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cZ76dCVG9Gg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cZ76dCVG9Gg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cZ76dCVG9Gg.vtt",
+  "duration": 1949,
+  "transcription_timestamp": "2025-04-16T09:11:59.222626",
+  "model": "whisper-1"
+}

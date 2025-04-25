@@ -1,0 +1,12 @@
+{
+  "video_id": "oHhbZQxf4Do",
+  "title": "\"Joseph Was Seventeen Years Old\" Genesis 37:1-4",
+  "publish_date": 20230614,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\oHhbZQxf4Do.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\oHhbZQxf4Do.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oHhbZQxf4Do.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oHhbZQxf4Do.vtt",
+  "duration": 2498,
+  "transcription_timestamp": "2025-04-16T08:37:15.210626",
+  "model": "whisper-1"
+}

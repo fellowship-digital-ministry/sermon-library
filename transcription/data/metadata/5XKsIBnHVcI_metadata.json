@@ -1,0 +1,12 @@
+{
+  "video_id": "5XKsIBnHVcI",
+  "title": "\"Jacob Wept For Joseph\" Genesis 37:31-35",
+  "publish_date": 20230717,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\5XKsIBnHVcI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\5XKsIBnHVcI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5XKsIBnHVcI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5XKsIBnHVcI.vtt",
+  "duration": 2147,
+  "transcription_timestamp": "2025-04-16T01:30:26.434544",
+  "model": "whisper-1"
+}

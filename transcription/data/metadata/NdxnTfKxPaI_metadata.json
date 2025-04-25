@@ -1,0 +1,12 @@
+{
+  "video_id": "NdxnTfKxPaI",
+  "title": "\"I Cried Unto The Lord And He Heard Me\" Psalm 3:3-4",
+  "publish_date": 20211209,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\NdxnTfKxPaI.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\NdxnTfKxPaI.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NdxnTfKxPaI.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NdxnTfKxPaI.vtt",
+  "duration": 2111,
+  "transcription_timestamp": "2025-04-17T01:42:45.968733",
+  "model": "whisper-1"
+}

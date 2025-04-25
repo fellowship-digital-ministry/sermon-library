@@ -1,0 +1,12 @@
+{
+  "video_id": "8LNBaTbwuzM",
+  "title": "\"The Sons of Jacob - Part 2\" Genesis 30:18-24",
+  "publish_date": 20220328,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\8LNBaTbwuzM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\8LNBaTbwuzM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8LNBaTbwuzM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8LNBaTbwuzM.vtt",
+  "duration": 2207,
+  "transcription_timestamp": "2025-04-16T15:35:29.661761",
+  "model": "whisper-1"
+}

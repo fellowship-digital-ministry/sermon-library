@@ -1,0 +1,12 @@
+{
+  "video_id": "HNDLdpkeeFU",
+  "title": "\"A Prayer For Boldness\" Acts 4:23-31",
+  "publish_date": 20200503,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\HNDLdpkeeFU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\HNDLdpkeeFU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HNDLdpkeeFU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HNDLdpkeeFU.vtt",
+  "duration": 2295,
+  "transcription_timestamp": "2025-04-17T20:23:18.445663",
+  "model": "whisper-1"
+}

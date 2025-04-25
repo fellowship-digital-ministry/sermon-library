@@ -1,0 +1,12 @@
+{
+  "video_id": "MdhI7Kwc2nw",
+  "title": "\"The Lord Was With Joseph - Part 2\" Genesis 39:7-19",
+  "publish_date": 20230828,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\MdhI7Kwc2nw.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\MdhI7Kwc2nw.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MdhI7Kwc2nw.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MdhI7Kwc2nw.vtt",
+  "duration": 1887,
+  "transcription_timestamp": "2025-04-16T00:44:39.302024",
+  "model": "whisper-1"
+}

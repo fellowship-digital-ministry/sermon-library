@@ -1,0 +1,12 @@
+{
+  "video_id": "69YhlHSnwtE",
+  "title": "\"The Noahic Covenant\" Genesis 9:8-17",
+  "publish_date": 20200426,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\69YhlHSnwtE.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\69YhlHSnwtE.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\69YhlHSnwtE.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\69YhlHSnwtE.vtt",
+  "duration": 1845,
+  "transcription_timestamp": "2025-04-17T20:29:22.115281",
+  "model": "whisper-1"
+}

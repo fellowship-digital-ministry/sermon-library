@@ -1,0 +1,12 @@
+{
+  "video_id": "PYLTQa60aoQ",
+  "title": "\"Jesus Stood In The Midst Of Them\" Luke 24:36-53",
+  "publish_date": 20210405,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\PYLTQa60aoQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\PYLTQa60aoQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PYLTQa60aoQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PYLTQa60aoQ.vtt",
+  "duration": 2578,
+  "transcription_timestamp": "2025-04-17T07:07:31.655047",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "12L3c81JzTQ",
+  "title": "\"I Laid Me Down And Slept\" Psalm 3:5-6",
+  "publish_date": 20211216,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\12L3c81JzTQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\12L3c81JzTQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\12L3c81JzTQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\12L3c81JzTQ.vtt",
+  "duration": 1989,
+  "transcription_timestamp": "2025-04-17T01:28:24.563917",
+  "model": "whisper-1"
+}

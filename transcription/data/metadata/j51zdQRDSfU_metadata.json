@@ -1,0 +1,12 @@
+{
+  "video_id": "j51zdQRDSfU",
+  "title": "\"Rooted And Built Up In Christ\" Colossians 2:4-7",
+  "publish_date": 20210307,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\j51zdQRDSfU.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\j51zdQRDSfU.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\j51zdQRDSfU.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\j51zdQRDSfU.vtt",
+  "duration": 3330,
+  "transcription_timestamp": "2025-04-17T07:53:44.423222",
+  "model": "whisper-1"
+}

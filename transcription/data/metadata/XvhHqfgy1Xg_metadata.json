@@ -1,0 +1,12 @@
+{
+  "video_id": "XvhHqfgy1Xg",
+  "title": "FBC Oakton, VA - September 26, 2021 (Morning Worship)",
+  "publish_date": 20210927,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\XvhHqfgy1Xg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\XvhHqfgy1Xg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XvhHqfgy1Xg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XvhHqfgy1Xg.vtt",
+  "duration": 2684,
+  "transcription_timestamp": "2025-04-17T03:49:13.844476",
+  "model": "whisper-1"
+}

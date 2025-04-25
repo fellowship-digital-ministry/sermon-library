@@ -1,0 +1,12 @@
+{
+  "video_id": "aCE3YCr6zy8",
+  "title": "\"Living Your Faith\" Philippians 4:9",
+  "publish_date": 20220103,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\aCE3YCr6zy8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\aCE3YCr6zy8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aCE3YCr6zy8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aCE3YCr6zy8.vtt",
+  "duration": 3343,
+  "transcription_timestamp": "2025-04-17T01:04:40.010223",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "pMYKOSWS2nY",
+  "title": "\"Try The Spirits\" I John 4:1-3",
+  "publish_date": 20220711,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\pMYKOSWS2nY.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\pMYKOSWS2nY.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pMYKOSWS2nY.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pMYKOSWS2nY.vtt",
+  "duration": 2708,
+  "transcription_timestamp": "2025-04-16T14:09:00.134431",
+  "model": "whisper-1"
+}

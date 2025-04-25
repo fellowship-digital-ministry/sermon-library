@@ -1,0 +1,12 @@
+{
+  "video_id": "d8tHudo0_3I",
+  "title": "\"The Power Of The Gospel\" Romans 1:14-16",
+  "publish_date": 20210516,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\d8tHudo0_3I.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\d8tHudo0_3I.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d8tHudo0_3I.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d8tHudo0_3I.vtt",
+  "duration": 2941,
+  "transcription_timestamp": "2025-04-17T06:18:28.173626",
+  "model": "whisper-1"
+}

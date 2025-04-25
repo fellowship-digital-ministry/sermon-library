@@ -1,0 +1,12 @@
+{
+  "video_id": "RC_zjgDAiHo",
+  "title": "\"Is Any Thing Too Hard For The Lord?\" Genesis 18:1-15",
+  "publish_date": 20210322,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\RC_zjgDAiHo.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\RC_zjgDAiHo.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RC_zjgDAiHo.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RC_zjgDAiHo.vtt",
+  "duration": 2731,
+  "transcription_timestamp": "2025-04-17T07:28:02.783649",
+  "model": "whisper-1"
+}

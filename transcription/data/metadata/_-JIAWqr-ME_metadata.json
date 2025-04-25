@@ -1,0 +1,12 @@
+{
+  "video_id": "_-JIAWqr-ME",
+  "title": "\"To Save Sinners\" I Timothy 1:12-17",
+  "publish_date": 20210328,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\_-JIAWqr-ME.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\_-JIAWqr-ME.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_-JIAWqr-ME.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_-JIAWqr-ME.vtt",
+  "duration": 3386,
+  "transcription_timestamp": "2025-04-17T07:20:19.086642",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "L3JbLyIPp5M",
+  "title": "\"Great Is The Lord\" Psalm 48:1-2",
+  "publish_date": 20230101,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\L3JbLyIPp5M.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\L3JbLyIPp5M.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L3JbLyIPp5M.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L3JbLyIPp5M.vtt",
+  "duration": 2327,
+  "transcription_timestamp": "2025-04-16T11:13:51.865313",
+  "model": "whisper-1"
+}

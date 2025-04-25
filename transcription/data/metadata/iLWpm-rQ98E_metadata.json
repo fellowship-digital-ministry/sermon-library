@@ -1,0 +1,12 @@
+{
+  "video_id": "iLWpm-rQ98E",
+  "title": "FBC Oakton, VA - November 22, 2020 (Morning Worship)",
+  "publish_date": 20201122,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\iLWpm-rQ98E.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\iLWpm-rQ98E.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iLWpm-rQ98E.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iLWpm-rQ98E.vtt",
+  "duration": 3343,
+  "transcription_timestamp": "2025-04-17T10:40:27.432033",
+  "model": "whisper-1"
+}

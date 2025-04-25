@@ -1,0 +1,12 @@
+{
+  "video_id": "jIT6eZVTo_c",
+  "title": "\"What Shall We Eat The Seventh Year?\" Leviticus 25:1-7, 18-22",
+  "publish_date": 20210204,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jIT6eZVTo_c.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jIT6eZVTo_c.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jIT6eZVTo_c.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jIT6eZVTo_c.vtt",
+  "duration": 1962,
+  "transcription_timestamp": "2025-04-17T08:44:12.643986",
+  "model": "whisper-1"
+}

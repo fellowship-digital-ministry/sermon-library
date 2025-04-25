@@ -1,0 +1,12 @@
+{
+  "video_id": "qwt_XuUQD9E",
+  "title": "\"Rejoicing Through Trials\" I Peter 1:3-9",
+  "publish_date": 20231003,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\qwt_XuUQD9E.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\qwt_XuUQD9E.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qwt_XuUQD9E.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qwt_XuUQD9E.vtt",
+  "duration": 2947,
+  "transcription_timestamp": "2025-04-15T23:54:35.884006",
+  "model": "whisper-1"
+}

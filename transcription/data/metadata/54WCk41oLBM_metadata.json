@@ -1,0 +1,12 @@
+{
+  "video_id": "54WCk41oLBM",
+  "title": "FBC Oakton, VA - Fall Revival - Paul Mershon (Monday Evening)",
+  "publish_date": 20230919,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\54WCk41oLBM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\54WCk41oLBM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\54WCk41oLBM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\54WCk41oLBM.vtt",
+  "duration": 3258,
+  "transcription_timestamp": "2025-04-16T00:15:05.630046",
+  "model": "whisper-1"
+}

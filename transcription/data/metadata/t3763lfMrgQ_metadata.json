@@ -1,0 +1,12 @@
+{
+  "video_id": "t3763lfMrgQ",
+  "title": "\"I Have Learned To Be Content\" Philippians 4:10-12",
+  "publish_date": 20220324,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\t3763lfMrgQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\t3763lfMrgQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\t3763lfMrgQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\t3763lfMrgQ.vtt",
+  "duration": 1505,
+  "transcription_timestamp": "2025-04-16T15:42:17.848889",
+  "model": "whisper-1"
+}

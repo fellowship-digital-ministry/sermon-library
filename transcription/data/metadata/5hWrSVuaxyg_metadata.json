@@ -1,0 +1,12 @@
+{
+  "video_id": "5hWrSVuaxyg",
+  "title": "\"To Obey Is Better\" I Samuel 15:22",
+  "publish_date": 20220801,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\5hWrSVuaxyg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\5hWrSVuaxyg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5hWrSVuaxyg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5hWrSVuaxyg.vtt",
+  "duration": 2841,
+  "transcription_timestamp": "2025-04-16T13:42:52.492737",
+  "model": "whisper-1"
+}

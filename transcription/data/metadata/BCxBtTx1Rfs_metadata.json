@@ -1,0 +1,12 @@
+{
+  "video_id": "BCxBtTx1Rfs",
+  "title": "\"He Took My Place\" I Peter 3:18",
+  "publish_date": 20230402,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\BCxBtTx1Rfs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\BCxBtTx1Rfs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BCxBtTx1Rfs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BCxBtTx1Rfs.vtt",
+  "duration": 2695,
+  "transcription_timestamp": "2025-04-16T09:53:53.164903",
+  "model": "whisper-1"
+}

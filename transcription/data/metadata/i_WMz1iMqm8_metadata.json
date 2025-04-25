@@ -1,0 +1,12 @@
+{
+  "video_id": "i_WMz1iMqm8",
+  "title": "\"Our Father Which Art In Heaven\" Luke 11:2",
+  "publish_date": 20210219,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\i_WMz1iMqm8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\i_WMz1iMqm8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i_WMz1iMqm8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i_WMz1iMqm8.vtt",
+  "duration": 1679,
+  "transcription_timestamp": "2025-04-17T08:24:14.284314",
+  "model": "whisper-1"
+}

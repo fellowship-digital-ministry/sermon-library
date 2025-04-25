@@ -1,0 +1,12 @@
+{
+  "video_id": "N9mMZtwmED4",
+  "title": "\"Jesus, Our Advocate\" I John 2:1-2",
+  "publish_date": 20220123,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\N9mMZtwmED4.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\N9mMZtwmED4.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N9mMZtwmED4.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N9mMZtwmED4.vtt",
+  "duration": 2673,
+  "transcription_timestamp": "2025-04-17T00:35:37.510967",
+  "model": "whisper-1"
+}

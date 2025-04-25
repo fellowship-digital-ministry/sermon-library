@@ -1,0 +1,12 @@
+{
+  "video_id": "9G6aYNGlUN8",
+  "title": "\"The Trinity\" I John 5:7",
+  "publish_date": 20201119,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\9G6aYNGlUN8.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\9G6aYNGlUN8.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9G6aYNGlUN8.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9G6aYNGlUN8.vtt",
+  "duration": 2240,
+  "transcription_timestamp": "2025-04-17T10:44:08.611643",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "nCFMKjd4qOQ",
+  "title": "\"Walking In The Light\" I John 1:7",
+  "publish_date": 20220102,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\nCFMKjd4qOQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\nCFMKjd4qOQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nCFMKjd4qOQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nCFMKjd4qOQ.vtt",
+  "duration": 2673,
+  "transcription_timestamp": "2025-04-17T01:09:32.647671",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "jiYib4rm3vs",
+  "title": "\"The Only Hope For America Is Jesus\" Romans 1:14-16",
+  "publish_date": 20230705,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\jiYib4rm3vs.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\jiYib4rm3vs.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jiYib4rm3vs.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jiYib4rm3vs.vtt",
+  "duration": 2898,
+  "transcription_timestamp": "2025-04-16T08:20:27.522283",
+  "model": "whisper-1"
+}

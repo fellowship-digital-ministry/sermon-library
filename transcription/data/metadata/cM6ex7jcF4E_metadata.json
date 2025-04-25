@@ -1,0 +1,12 @@
+{
+  "video_id": "cM6ex7jcF4E",
+  "title": "\"Thy Name Is Great - Part 1\" Proverbs 18:10",
+  "publish_date": 20201105,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\cM6ex7jcF4E.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\cM6ex7jcF4E.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cM6ex7jcF4E.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cM6ex7jcF4E.vtt",
+  "duration": 2056,
+  "transcription_timestamp": "2025-04-17T11:32:13.737131",
+  "model": "whisper-1"
+}

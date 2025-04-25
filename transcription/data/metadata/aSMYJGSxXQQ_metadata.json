@@ -1,0 +1,12 @@
+{
+  "video_id": "aSMYJGSxXQQ",
+  "title": "\"Continue In Prayer\" Colossians 4:2-4",
+  "publish_date": 20211031,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\aSMYJGSxXQQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\aSMYJGSxXQQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aSMYJGSxXQQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aSMYJGSxXQQ.vtt",
+  "duration": 2947,
+  "transcription_timestamp": "2025-04-17T02:49:07.093872",
+  "model": "whisper-1"
+}

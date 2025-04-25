@@ -1,0 +1,12 @@
+{
+  "video_id": "R5uUKjkYSvg",
+  "title": "\"Finish With No Regrets\" Acts 20:24",
+  "publish_date": 20220814,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\R5uUKjkYSvg.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\R5uUKjkYSvg.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R5uUKjkYSvg.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R5uUKjkYSvg.vtt",
+  "duration": 2480,
+  "transcription_timestamp": "2025-04-16T13:33:12.910766",
+  "model": "whisper-1"
+}

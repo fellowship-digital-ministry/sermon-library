@@ -1,0 +1,12 @@
+{
+  "video_id": "gDoMZMw9sRM",
+  "title": "\"More With Us Than With Them\" II Kings 6:8-23",
+  "publish_date": 20200422,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\gDoMZMw9sRM.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\gDoMZMw9sRM.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gDoMZMw9sRM.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gDoMZMw9sRM.vtt",
+  "duration": 1796,
+  "transcription_timestamp": "2025-04-17T20:37:46.351979",
+  "model": "whisper-1"
+}

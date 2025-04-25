@@ -1,0 +1,12 @@
+{
+  "video_id": "QHvb8WfH4Bc",
+  "title": "\"Thank You, Lord\" Ephesians 5:20",
+  "publish_date": 20201123,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\QHvb8WfH4Bc.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\QHvb8WfH4Bc.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QHvb8WfH4Bc.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QHvb8WfH4Bc.vtt",
+  "duration": 2858,
+  "transcription_timestamp": "2025-04-17T10:34:46.929292",
+  "model": "whisper-1"
+}

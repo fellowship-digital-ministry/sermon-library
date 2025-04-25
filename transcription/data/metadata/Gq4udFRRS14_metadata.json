@@ -1,0 +1,12 @@
+{
+  "video_id": "Gq4udFRRS14",
+  "title": "\"Moses Prayed For The People\" Numbers 21:4-9",
+  "publish_date": 20221003,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\Gq4udFRRS14.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\Gq4udFRRS14.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gq4udFRRS14.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gq4udFRRS14.vtt",
+  "duration": 2932,
+  "transcription_timestamp": "2025-04-16T12:53:16.321417",
+  "model": "whisper-1"
+}

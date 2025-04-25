@@ -1,0 +1,12 @@
+{
+  "video_id": "3XoFc6vc9t0",
+  "title": "\"The Iron Did Swim\" II Kings 6:1-7",
+  "publish_date": 20200416,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\3XoFc6vc9t0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\3XoFc6vc9t0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\3XoFc6vc9t0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\3XoFc6vc9t0.vtt",
+  "duration": 1667,
+  "transcription_timestamp": "2025-04-17T20:49:56.285900",
+  "model": "whisper-1"
+}

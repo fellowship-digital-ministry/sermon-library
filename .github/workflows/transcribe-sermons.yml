@@ -1,8 +1,5 @@
 name: Transcribe Sermons
 
-permissions:
-  contents: write  # Grant write access to push changes
-
 on:
   schedule:
     # Run once a week on Sunday at 2 AM UTC
@@ -12,15 +9,13 @@ on:
 jobs:
   transcribe:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # This gives write permission to the repository contents
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Full history for commits
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use GITHUB_TOKEN for authentication
+          token: ${{ secrets.PAT_TOKEN }}  # Use a Personal Access Token instead
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -48,6 +43,8 @@ jobs:
           python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup
       
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT token here too
         run: |
           git add transcription/data/transcripts/
           git add transcription/data/metadata/

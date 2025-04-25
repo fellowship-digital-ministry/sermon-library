@@ -1,4 +1,4 @@
-name: Transcribe Sermon
+name: Transcribe Sermons
 
 on:
   schedule:

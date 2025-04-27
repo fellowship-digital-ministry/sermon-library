@@ -3,6 +3,8 @@ Sermon Search API
 
 A FastAPI backend for the sermon library that connects to Pinecone
 for vector search and OpenAI for generating answers.
+
+Deployed on render.com
 """
 
 import os
@@ -14,6 +16,7 @@ from fastapi import FastAPI, HTTPException, Query, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 import openai
+# Updated Pinecone import for version 6.0.2
 from pinecone import Pinecone
 
 # Configure API keys and settings directly from environment variables
@@ -34,7 +37,7 @@ if not PINECONE_API_KEY:
 # Initialize clients
 openai_client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
-# Initialize Pinecone with new API
+# Initialize Pinecone with version 6.0.2 API
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
 # Connect to the index
@@ -158,9 +161,9 @@ async def health_check():
     """Health check endpoint."""
     # Check connections to external services
     try:
-        # Check Pinecone
+        # Check Pinecone - updated to use v6.0.2 API
         stats = pinecone_index.describe_index_stats()
-        vector_count = stats.get("total_vector_count", 0)
+        vector_count = stats.total_vector_count
         
         # Check OpenAI (minimal test)
         openai_client.embeddings.create(
@@ -205,22 +208,21 @@ async def search(
         # Generate embedding for the query
         query_embedding = generate_embedding(query)
         
-        # Search Pinecone
+        # Search Pinecone - updated for v6.0.2 API
         search_response = pinecone_index.query(
             vector=query_embedding,
             top_k=top_k,
             include_metadata=True
         )
         
-        # Format results
+        # Format results - updated for v6.0.2 API
         results = []
-        matches = search_response.get("matches", [])
         
-        for match in matches:
-            if match["score"] < min_score:
+        for match in search_response.matches:
+            if match.score < min_score:
                 continue
                 
-            metadata = match["metadata"]
+            metadata = match.metadata
             
             # Convert segment_ids to List[str] if needed
             segment_ids = metadata.get("segment_ids", [])
@@ -234,7 +236,7 @@ async def search(
                 text=metadata.get("text", ""),
                 start_time=metadata.get("start_time", 0),
                 end_time=metadata.get("end_time", 0),
-                similarity=match["score"],
+                similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
                 segment_ids=segment_ids
             ))
@@ -261,22 +263,21 @@ async def answer(request: AnswerRequest):
         # Generate embedding for the query
         query_embedding = generate_embedding(request.query)
         
-        # Search Pinecone
+        # Search Pinecone - updated for v6.0.2 API
         search_response = pinecone_index.query(
             vector=query_embedding,
             top_k=request.top_k,
             include_metadata=True
         )
         
-        # Format search results
+        # Format search results - updated for v6.0.2 API
         search_results = []
-        matches = search_response.get("matches", [])
         
-        for match in matches:
-            if match["score"] < 0.5:  # Minimum threshold for relevance
+        for match in search_response.matches:
+            if match.score < 0.5:  # Minimum threshold for relevance
                 continue
                 
-            metadata = match["metadata"]
+            metadata = match.metadata
             
             # Convert segment_ids to List[str] if needed
             segment_ids = metadata.get("segment_ids", [])
@@ -290,7 +291,7 @@ async def answer(request: AnswerRequest):
                 text=metadata.get("text", ""),
                 start_time=metadata.get("start_time", 0),
                 end_time=metadata.get("end_time", 0),
-                similarity=match["score"],
+                similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
                 segment_ids=segment_ids
             ))
@@ -320,22 +321,21 @@ async def list_sermons(
     Returns metadata for available sermons.
     """
     try:
-        # Get stats from Pinecone
+        # Get stats from Pinecone - updated for v6.0.2 API
         stats = pinecone_index.describe_index_stats()
         
-        # Query for a sample of vectors to get sermon metadata
+        # Query for a sample of vectors to get sermon metadata - updated for v6.0.2 API
         results = pinecone_index.query(
             vector=[0.1] * 1536,  # Random vector
             top_k=limit + offset,
             include_metadata=True
         )
         
-        # Group by video_id to get unique sermons
+        # Group by video_id to get unique sermons - updated for v6.0.2 API
         sermons = {}
-        matches = results.get("matches", [])
         
-        for match in matches:
-            metadata = match["metadata"]
+        for match in results.matches:
+            metadata = match.metadata
             video_id = metadata.get("video_id", "")
             
             if video_id and video_id not in sermons:
@@ -374,7 +374,7 @@ async def get_sermon(video_id: str):
         # Use a filter to get only chunks for this sermon
         query_embedding = generate_embedding("sermon about faith")  # Generic query
         
-        # Create a filter to match video_id
+        # Create a filter to match video_id - updated for v6.0.2 API
         filter_dict = {"video_id": {"$eq": video_id}}
         
         results = pinecone_index.query(
@@ -384,12 +384,12 @@ async def get_sermon(video_id: str):
             filter=filter_dict
         )
         
-        matches = results.get("matches", [])
-        if not matches:
+        # Updated for v6.0.2 API
+        if not results.matches:
             raise HTTPException(status_code=404, detail=f"Sermon not found: {video_id}")
         
-        # Get sermon metadata from the first match
-        first_match = matches[0]["metadata"]
+        # Get sermon metadata from the first match - updated for v6.0.2 API
+        first_match = results.matches[0].metadata
         sermon_info = {
             "video_id": video_id,
             "title": first_match.get("title", f"Sermon {video_id}"),
@@ -398,10 +398,10 @@ async def get_sermon(video_id: str):
             "url": f"https://www.youtube.com/watch?v={video_id}"
         }
         
-        # Collect all chunks
+        # Collect all chunks - updated for v6.0.2 API
         chunks = []
-        for match in matches:
-            metadata = match["metadata"]
+        for match in results.matches:
+            metadata = match.metadata
             if metadata.get("video_id") == video_id:
                 # Convert segment_ids to List[str] if needed
                 segment_ids = metadata.get("segment_ids", [])

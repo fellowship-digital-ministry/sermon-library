@@ -307,7 +307,8 @@ async def search(
                 end_time=metadata.get("end_time", 0),
                 similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
-                segment_ids=segment_ids
+                segment_ids=segment_ids,
+                publish_date=enhanced_metadata.get("publish_date")  # Add this line
             ))
         
         return SearchResponse(
@@ -366,7 +367,8 @@ async def answer(request: AnswerRequest):
                 end_time=metadata.get("end_time", 0),
                 similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
-                segment_ids=segment_ids
+                segment_ids=segment_ids,
+                publish_date=enhanced_metadata.get("publish_date")  # Add this line
             ))
         
         # Generate AI answer - pass language to the generation function

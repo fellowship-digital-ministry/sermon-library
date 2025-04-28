@@ -66,6 +66,7 @@ class SearchResult(BaseModel):
     similarity: float
     chunk_index: int
     segment_ids: List[str] = []
+    publish_date: Optional[int] = None
 
 class SearchResponse(BaseModel):
     query: str

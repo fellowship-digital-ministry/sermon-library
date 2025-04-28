@@ -1,17 +1,8 @@
-"""
-Sermon Search API
-
-A FastAPI backend for the sermon library that connects to Pinecone
-for vector search and OpenAI for generating answers.
-
-Deployed on render.com
-https://sermon-search-api-8fok.onrender.com
-"""
-
 import os
 import time
 from typing import List, Dict, Optional, Any, Union
 from datetime import datetime
+import json
 
 from fastapi import FastAPI, HTTPException, Query, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
@@ -28,6 +19,10 @@ PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "sermon-embeddings")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 SEARCH_TOP_K = int(os.environ.get("SEARCH_TOP_K", "5"))
 COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")
+
+# Path to metadata directory
+METADATA_DIR = os.environ.get("METADATA_DIR", "./transcription/data/metadata")
+SUBTITLES_DIR = os.environ.get("SUBTITLES_DIR", "./transcription/data/subtitles")
 
 # Check for required environment variables
 if not OPENAI_API_KEY:
@@ -108,6 +103,26 @@ def get_language(accept_language: Optional[str] = Header(None, include_in_schema
     
     # Default to English
     return "en"
+
+# Helper function to load metadata
+def load_metadata(video_id):
+    """Load metadata for a video from its JSON file."""
+    try:
+        metadata_file = os.path.join(METADATA_DIR, f"{video_id}_metadata.json")
+        with open(metadata_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {
+            "video_id": video_id,
+            "title": f"Unknown Sermon ({video_id})",
+            "publish_date": None
+        }
+    except json.JSONDecodeError:
+        return {
+            "video_id": video_id,
+            "title": f"Error Loading Metadata ({video_id})",
+            "publish_date": None
+        }
 
 # Functions
 def generate_embedding(text: str) -> List[float]:
@@ -265,7 +280,7 @@ async def search(
             include_metadata=True
         )
         
-        # Format results - updated for v6.0.2 API
+        # Format results - updated for v6.0.2 API and enhanced with metadata
         results = []
         
         for match in search_response.matches:
@@ -273,6 +288,10 @@ async def search(
                 continue
                 
             metadata = match.metadata
+            video_id = metadata.get("video_id", "")
+            
+            # Load additional metadata to get proper title and date
+            enhanced_metadata = load_metadata(video_id)
             
             # Convert segment_ids to List[str] if needed
             segment_ids = metadata.get("segment_ids", [])
@@ -280,9 +299,9 @@ async def search(
                 segment_ids = []
             
             results.append(SearchResult(
-                video_id=metadata.get("video_id", ""),
-                title=metadata.get("title", "Unknown Sermon"),
-                url=get_youtube_timestamp_url(metadata.get("video_id", ""), metadata.get("start_time", 0)),
+                video_id=video_id,
+                title=enhanced_metadata.get("title", metadata.get("title", "Unknown Sermon")),
+                url=get_youtube_timestamp_url(video_id, metadata.get("start_time", 0)),
                 text=metadata.get("text", ""),
                 start_time=metadata.get("start_time", 0),
                 end_time=metadata.get("end_time", 0),
@@ -320,7 +339,7 @@ async def answer(request: AnswerRequest):
             include_metadata=True
         )
         
-        # Format search results - updated for v6.0.2 API
+        # Format search results - updated for v6.0.2 API and enhanced with metadata
         search_results = []
         
         for match in search_response.matches:
@@ -328,6 +347,10 @@ async def answer(request: AnswerRequest):
                 continue
                 
             metadata = match.metadata
+            video_id = metadata.get("video_id", "")
+            
+            # Load additional metadata to get proper title and date
+            enhanced_metadata = load_metadata(video_id)
             
             # Convert segment_ids to List[str] if needed
             segment_ids = metadata.get("segment_ids", [])
@@ -335,9 +358,9 @@ async def answer(request: AnswerRequest):
                 segment_ids = []
             
             search_results.append(SearchResult(
-                video_id=metadata.get("video_id", ""),
-                title=metadata.get("title", "Unknown Sermon"),
-                url=get_youtube_timestamp_url(metadata.get("video_id", ""), metadata.get("start_time", 0)),
+                video_id=video_id,
+                title=enhanced_metadata.get("title", metadata.get("title", "Unknown Sermon")),
+                url=get_youtube_timestamp_url(video_id, metadata.get("start_time", 0)),
                 text=metadata.get("text", ""),
                 start_time=metadata.get("start_time", 0),
                 end_time=metadata.get("end_time", 0),
@@ -371,7 +394,68 @@ async def get_transcript(
     Returns the transcript segments with timestamps.
     """
     try:
-        # Query Pinecone for chunks with this video_id
+        # First, try to use the SRT file directly if it exists
+        srt_file = os.path.join(SUBTITLES_DIR, f"{video_id}.srt")
+        
+        # Load metadata for better title and date
+        enhanced_metadata = load_metadata(video_id)
+        
+        if os.path.exists(srt_file):
+            # Parse the SRT file
+            segments = []
+            with open(srt_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Split by double newline to get individual subtitle entries
+            entries = content.strip().split('\n\n')
+            
+            for entry in entries:
+                lines = entry.strip().split('\n')
+                if len(lines) < 3:
+                    continue
+                
+                # Parse the timestamp line (format: 00:00:00,000 --> 00:00:00,000)
+                timestamp_line = lines[1]
+                time_parts = timestamp_line.split(' --> ')
+                if len(time_parts) != 2:
+                    continue
+                
+                start_time_str, end_time_str = time_parts
+                
+                # Convert timestamp to seconds
+                def time_to_seconds(time_str):
+                    h, m, s = time_str.replace(',', '.').split(':')
+                    return float(h) * 3600 + float(m) * 60 + float(s)
+                
+                start_time = time_to_seconds(start_time_str)
+                end_time = time_to_seconds(end_time_str)
+                
+                # Get the text (might be multiple lines)
+                text = ' '.join(lines[2:])
+                
+                segments.append({
+                    "start_time": start_time,
+                    "end_time": end_time,
+                    "text": text
+                })
+            
+            # If language isn't English, add a note about language availability
+            note = ""
+            if language != "en":
+                note = "Transcripts are currently only available in English. Future updates will include translation."
+            
+            return {
+                "video_id": video_id,
+                "title": enhanced_metadata.get("title", f"Sermon {video_id}"),
+                "publish_date": enhanced_metadata.get("publish_date"),
+                "language": language,
+                "segments": segments,
+                "total_segments": len(segments),
+                "note": note,
+                "transcript_source": "srt_file"
+            }
+        
+        # If SRT file doesn't exist, fall back to Pinecone query
         query_embedding = generate_embedding("sermon transcript")
         
         # Create a filter to match video_id
@@ -467,10 +551,13 @@ async def get_transcript(
         
         return {
             "video_id": video_id,
+            "title": enhanced_metadata.get("title", f"Sermon {video_id}"),
+            "publish_date": enhanced_metadata.get("publish_date"),
             "language": language,
             "segments": processed_segments,
             "total_segments": len(processed_segments),
-            "note": note
+            "note": note,
+            "transcript_source": "pinecone"
         }
         
     except HTTPException:
@@ -514,11 +601,14 @@ async def list_sermons(
                 video_id = metadata.get("video_id", "")
                 
                 if video_id and video_id not in all_sermons:
+                    # Load enhanced metadata
+                    enhanced_metadata = load_metadata(video_id)
+                    
                     all_sermons[video_id] = {
                         "video_id": video_id,
-                        "title": metadata.get("title", f"Sermon {video_id}"),
+                        "title": enhanced_metadata.get("title", metadata.get("title", f"Sermon {video_id}")),
                         "channel": metadata.get("channel", "Unknown"),
-                        "publish_date": metadata.get("publish_date", ""),
+                        "publish_date": enhanced_metadata.get("publish_date", metadata.get("publish_date", "")),
                         "url": f"https://www.youtube.com/watch?v={video_id}"
                     }
         
@@ -544,11 +634,14 @@ async def list_sermons(
                     for match in result.matches:
                         metadata = match.metadata
                         if metadata.get("video_id") == video_id:
+                            # Load enhanced metadata
+                            enhanced_metadata = load_metadata(video_id)
+                            
                             # Update sermon info with any additional metadata
                             all_sermons[video_id].update({
-                                "title": metadata.get("title", all_sermons[video_id]["title"]),
+                                "title": enhanced_metadata.get("title", metadata.get("title", all_sermons[video_id]["title"])),
                                 "channel": metadata.get("channel", all_sermons[video_id]["channel"]),
-                                "publish_date": metadata.get("publish_date", all_sermons[video_id]["publish_date"])
+                                "publish_date": enhanced_metadata.get("publish_date", metadata.get("publish_date", all_sermons[video_id]["publish_date"]))
                             })
             except Exception as filter_err:
                 # If filtering fails, log the error but continue
@@ -578,6 +671,9 @@ async def get_sermon(video_id: str):
     Returns metadata and available chunks for the sermon.
     """
     try:
+        # Load enhanced metadata
+        enhanced_metadata = load_metadata(video_id)
+        
         # Query Pinecone for chunks with this video_id
         # Use a filter to get only chunks for this sermon
         query_embedding = generate_embedding("sermon about faith")  # Generic query
@@ -600,9 +696,9 @@ async def get_sermon(video_id: str):
         first_match = results.matches[0].metadata
         sermon_info = {
             "video_id": video_id,
-            "title": first_match.get("title", f"Sermon {video_id}"),
+            "title": enhanced_metadata.get("title", first_match.get("title", f"Sermon {video_id}")),
             "channel": first_match.get("channel", "Unknown"),
-            "publish_date": first_match.get("publish_date", ""),
+            "publish_date": enhanced_metadata.get("publish_date", first_match.get("publish_date", "")),
             "url": f"https://www.youtube.com/watch?v={video_id}"
         }
         

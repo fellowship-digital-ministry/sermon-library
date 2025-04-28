@@ -377,9 +377,10 @@ async def get_transcript(
         # Create a filter to match video_id
         filter_dict = {"video_id": {"$eq": video_id}}
         
+        # Increase top_k to ensure we get ALL segments
         results = pinecone_index.query(
             vector=query_embedding,
-            top_k=100,  # Get many results to find all segments for this sermon
+            top_k=500,  # Get much more results to ensure complete coverage
             include_metadata=True,
             filter=filter_dict
         )
@@ -388,11 +389,11 @@ async def get_transcript(
             raise HTTPException(status_code=404, detail=f"Transcript not found for video: {video_id}")
         
         # Convert matches to transcript segments
-        segments = []
+        raw_segments = []
         for match in results.matches:
             metadata = match.metadata
             if metadata.get("video_id") == video_id and metadata.get("text"):
-                segments.append({
+                raw_segments.append({
                     "start_time": metadata.get("start_time", 0),
                     "end_time": metadata.get("end_time", 0),
                     "text": metadata.get("text", ""),
@@ -400,11 +401,66 @@ async def get_transcript(
                 })
         
         # Sort segments by start time
-        segments.sort(key=lambda x: x["start_time"])
+        raw_segments.sort(key=lambda x: x["start_time"])
         
-        # If language isn't English and we had a translation service,
-        # this is where we would translate the text
-        # For now, just return the original English text with a note
+        # Process segments to remove duplicates and fill gaps
+        processed_segments = []
+        
+        if raw_segments:
+            # Start with the first segment
+            current_segment = raw_segments[0].copy()
+            
+            for i in range(1, len(raw_segments)):
+                next_segment = raw_segments[i]
+                
+                # Check if current segment overlaps with next segment
+                if current_segment["end_time"] >= next_segment["start_time"]:
+                    # Find the overlap
+                    current_text = current_segment["text"]
+                    next_text = next_segment["text"]
+                    
+                    # Try to find where the overlap begins
+                    overlap_found = False
+                    
+                    # Check for substantial text overlap (at least 20 characters)
+                    for overlap_size in range(20, min(len(current_text), len(next_text)) // 2):
+                        if current_text[-overlap_size:] == next_text[:overlap_size]:
+                            # We found an overlap
+                            overlap_found = True
+                            
+                            # Merge the segments
+                            current_segment["text"] = current_text + next_text[overlap_size:]
+                            current_segment["end_time"] = next_segment["end_time"]
+                            break
+                    
+                    # If no clear overlap found but timestamps indicate they should connect
+                    if not overlap_found and (next_segment["start_time"] - current_segment["end_time"]) < 2:
+                        # Just append with a space
+                        current_segment["text"] = current_text + " " + next_text
+                        current_segment["end_time"] = next_segment["end_time"]
+                else:
+                    # No overlap - check if there's a gap
+                    time_gap = next_segment["start_time"] - current_segment["end_time"]
+                    
+                    if time_gap > 5:  # Significant gap (more than 5 seconds)
+                        # Add an indicator of missing content
+                        processed_segments.append(current_segment)
+                        processed_segments.append({
+                            "start_time": current_segment["end_time"],
+                            "end_time": next_segment["start_time"],
+                            "text": "[...]",  # Indicator of gap
+                            "is_gap": True
+                        })
+                        current_segment = next_segment.copy()
+                    else:
+                        # Small gap, just add current and start a new one
+                        processed_segments.append(current_segment)
+                        current_segment = next_segment.copy()
+            
+            # Add the final segment
+            processed_segments.append(current_segment)
+        
+        # If language isn't English, add a note about language availability
         note = ""
         if language != "en":
             note = "Transcripts are currently only available in English. Future updates will include translation."
@@ -412,8 +468,8 @@ async def get_transcript(
         return {
             "video_id": video_id,
             "language": language,
-            "segments": segments,
-            "total_segments": len(segments),
+            "segments": processed_segments,
+            "total_segments": len(processed_segments),
             "note": note
         }
         

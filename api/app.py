@@ -10,10 +10,10 @@ https://sermon-search-api-8fok.onrender.com
 
 import os
 import time
-from typing import List, Dict, Optional, Any
+from typing import List, Dict, Optional, Any, Union
 from datetime import datetime
 
-from fastapi import FastAPI, HTTPException, Query, Depends
+from fastapi import FastAPI, HTTPException, Query, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 import openai
@@ -82,12 +82,32 @@ class AnswerRequest(BaseModel):
     query: str = Field(..., description="The question to answer based on sermon content")
     top_k: int = Field(5, description="Number of search results to consider")
     include_sources: bool = Field(True, description="Whether to include source information in the response")
+    language: str = Field("en", description="Language for the response (en, es, zh)")
 
 class AnswerResponse(BaseModel):
     query: str
     answer: str
     sources: List[SearchResult] = []
     processing_time: float
+
+# Helper Functions
+def get_language(accept_language: Optional[str] = Header(None, include_in_schema=False)) -> str:
+    """Extract and validate the preferred language from the Accept-Language header."""
+    if not accept_language:
+        return "en"
+    
+    # Simple parsing of Accept-Language header
+    languages = [lang.split(";")[0].strip() for lang in accept_language.split(",")]
+    
+    # Check if any of our supported languages are requested
+    for lang in languages:
+        if lang.startswith("es"):
+            return "es"
+        elif lang.startswith("zh"):
+            return "zh"
+    
+    # Default to English
+    return "en"
 
 # Functions
 def generate_embedding(text: str) -> List[float]:
@@ -111,33 +131,62 @@ def get_youtube_timestamp_url(video_id: str, seconds: float) -> str:
     """Generate a YouTube URL with a timestamp."""
     return f"https://www.youtube.com/watch?v={video_id}&t={int(seconds)}"
 
-def generate_ai_answer(query: str, search_results: List[SearchResult]) -> str:
-    """Generate an AI answer based on the search results."""
+def generate_ai_answer(query: str, search_results: List[SearchResult], language: str = "en") -> str:
+    """Generate an AI answer based on the search results in the specified language."""
     # Prepare the context from search results
     context = "\n\n".join([
         f"Segment {i+1} (Time: {format_time(result.start_time)} - {format_time(result.end_time)}):\n{result.text}"
         for i, result in enumerate(search_results)
     ])
     
-    # Prepare the prompt for GPT-4
-    prompt = f"""
-You are an assistant helping users understand sermon content. Answer the following question based only on the 
-provided sermon segments. If the answer cannot be found in the segments, say so clearly.
+    # Set system message based on language
+    if language == "es":
+        system_message = "Eres un asistente que ayuda a los usuarios a entender el contenido de sermones. Responde en español."
+    elif language == "zh":
+        system_message = "你是一个帮助用户理解讲道内容的助手。用中文回答。"
+    else:
+        system_message = "You are a helpful assistant that answers questions about sermon content."
+    
+    # Prepare the prompt for GPT-4 based on language
+    if language == "es":
+        prompt = f"""
+Responde a la siguiente pregunta basándote únicamente en los segmentos de sermón proporcionados. Si la respuesta no se encuentra en los segmentos, dilo claramente.
+
+PREGUNTA DEL USUARIO: {query}
+
+SEGMENTOS DEL SERMÓN:
+{context}
+
+Responde a la pregunta basándote únicamente en los segmentos de sermón proporcionados. Incluye referencias específicas a qué segmento(s) contienen la información (por ejemplo, "En el Segmento 3, el pastor explica..."). Mantén tu respuesta enfocada y concisa.
+        """
+    elif language == "zh":
+        prompt = f"""
+根据提供的讲道片段回答以下问题。如果在这些片段中找不到答案，请清楚地说明。
+
+用户问题: {query}
+
+讲道片段:
+{context}
+
+仅根据提供的讲道片段回答问题。包括具体引用哪个片段包含信息（例如，"在片段3中，牧师解释了..."）。保持回答重点明确和简洁。
+        """
+    else:
+        prompt = f"""
+Answer the following question based only on the provided sermon segments. If the answer cannot be found in the segments, say so clearly.
 
 USER QUESTION: {query}
 
 SERMON SEGMENTS:
 {context}
 
-Answer the question based only on the provided sermon segments. Include specific references to which segment(s) 
-contain the information (e.g., "In Segment 3, the pastor explains..."). Keep your response focused and concise.
-    """
+Answer the question based only on the provided sermon segments. Include specific references to which segment(s) contain the information (e.g., "In Segment 3, the pastor explains..."). Keep your response focused and concise.
+        """
     
     try:
         response = openai_client.chat.completions.create(
             model=COMPLETION_MODEL,
             messages=[
-                {"role": "system", "content": "You are a helpful assistant that answers questions about sermon content."},
+                {"role": "system", "content": system_message},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.3,
@@ -297,10 +346,10 @@ async def answer(request: AnswerRequest):
                 segment_ids=segment_ids
             ))
         
-        # Generate AI answer
+        # Generate AI answer - pass language to the generation function
         answer_text = "No relevant sermon content found to answer this question."
         if search_results:
-            answer_text = generate_ai_answer(request.query, search_results)
+            answer_text = generate_ai_answer(request.query, search_results, request.language)
         
         return AnswerResponse(
             query=request.query,
@@ -311,6 +360,67 @@ async def answer(request: AnswerRequest):
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Answer generation error: {str(e)}")
+
+@app.get("/transcript/{video_id}")
+async def get_transcript(
+    video_id: str,
+    language: Optional[str] = Query("en", description="Language for the transcript")
+):
+    """
+    Get a sermon transcript with optional translation.
+    Returns the transcript segments with timestamps.
+    """
+    try:
+        # Query Pinecone for chunks with this video_id
+        query_embedding = generate_embedding("sermon transcript")
+        
+        # Create a filter to match video_id
+        filter_dict = {"video_id": {"$eq": video_id}}
+        
+        results = pinecone_index.query(
+            vector=query_embedding,
+            top_k=100,  # Get many results to find all segments for this sermon
+            include_metadata=True,
+            filter=filter_dict
+        )
+        
+        if not results.matches:
+            raise HTTPException(status_code=404, detail=f"Transcript not found for video: {video_id}")
+        
+        # Convert matches to transcript segments
+        segments = []
+        for match in results.matches:
+            metadata = match.metadata
+            if metadata.get("video_id") == video_id and metadata.get("text"):
+                segments.append({
+                    "start_time": metadata.get("start_time", 0),
+                    "end_time": metadata.get("end_time", 0),
+                    "text": metadata.get("text", ""),
+                    "chunk_index": metadata.get("chunk_index", 0)
+                })
+        
+        # Sort segments by start time
+        segments.sort(key=lambda x: x["start_time"])
+        
+        # If language isn't English and we had a translation service,
+        # this is where we would translate the text
+        # For now, just return the original English text with a note
+        note = ""
+        if language != "en":
+            note = "Transcripts are currently only available in English. Future updates will include translation."
+        
+        return {
+            "video_id": video_id,
+            "language": language,
+            "segments": segments,
+            "total_segments": len(segments),
+            "note": note
+        }
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error retrieving transcript: {str(e)}")
 
 @app.get("/sermons")
 async def list_sermons(

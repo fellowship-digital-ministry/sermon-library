@@ -19,6 +19,7 @@ PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "sermon-embeddings")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 SEARCH_TOP_K = int(os.environ.get("SEARCH_TOP_K", "5"))
 COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")
+TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-3.5-turbo") # Smaller model for translations
 
 # Path to metadata directory
 METADATA_DIR = os.environ.get("METADATA_DIR", "./transcription/data/metadata")
@@ -86,7 +87,50 @@ class AnswerResponse(BaseModel):
     sources: List[SearchResult] = []
     processing_time: float
 
-# Helper Functions
+# Helper function to get full language name
+def get_language_name(lang_code):
+    """Return the full language name from a language code."""
+    language_names = {
+        "en": "English",
+        "es": "Spanish",
+        "zh": "Chinese"
+    }
+    return language_names.get(lang_code, "Unknown")
+
+# Helper function for translation
+async def translate_text(text, source_lang, target_lang="en"):
+    """
+    Translate text using GPT model
+    source_lang: The source language code (e.g., 'zh', 'es')
+    target_lang: The target language code (default: 'en')
+    """
+    if not text or source_lang == target_lang:
+        return text  # No need to translate if languages match
+
+    try:
+        # Construct the prompt based on direction of translation
+        if target_lang == "en":
+            prompt = f"Translate the following text from {get_language_name(source_lang)} to English. Preserve all information accurately: \n\n{text}"
+        else:
+            prompt = f"Translate the following text from English to {get_language_name(target_lang)}. Preserve all information accurately: \n\n{text}"
+        
+        response = openai_client.chat.completions.create(
+            model=TRANSLATION_MODEL,  # Use smaller model for translation
+            messages=[
+                {"role": "system", "content": "You are a professional translator."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.3,
+            max_tokens=1024
+        )
+        
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"Translation error: {str(e)}")
+        # If translation fails, return original text
+        return text
+
+# Helper function to extract language from header
 def get_language(accept_language: Optional[str] = Header(None, include_in_schema=False)) -> str:
     """Extract and validate the preferred language from the Accept-Language header."""
     if not accept_language:
@@ -141,7 +185,7 @@ def format_time(seconds: float) -> str:
     """Format time in seconds to MM:SS format."""
     minutes = int(seconds // 60)
     seconds = int(seconds % 60)
-    return f"{minutes:02d}:{seconds:02d}"
+    return f"{minutes}:${seconds}".zfill(5)
 
 def get_youtube_timestamp_url(video_id: str, seconds: float) -> str:
     """Generate a YouTube URL with a timestamp."""
@@ -309,7 +353,7 @@ async def search(
                 similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
                 segment_ids=segment_ids,
-                publish_date=enhanced_metadata.get("publish_date")  # Add this line
+                publish_date=enhanced_metadata.get("publish_date")
             ))
         
         return SearchResponse(
@@ -331,8 +375,18 @@ async def answer(request: AnswerRequest):
     start_time = time.time()
     
     try:
-        # Generate embedding for the query
-        query_embedding = generate_embedding(request.query)
+        # Determine if we need to translate the query
+        original_language = request.language
+        needs_translation = original_language != "en"
+        
+        # Translate query to English if needed
+        query = request.query
+        if needs_translation:
+            query = await translate_text(query, original_language, "en")
+            print(f"Translated query from {original_language} to English: {query}")
+        
+        # Generate embedding for the translated query
+        query_embedding = generate_embedding(query)
         
         # Search Pinecone - updated for v6.0.2 API
         search_response = pinecone_index.query(
@@ -369,16 +423,28 @@ async def answer(request: AnswerRequest):
                 similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
                 segment_ids=segment_ids,
-                publish_date=enhanced_metadata.get("publish_date")  # Add this line
+                publish_date=enhanced_metadata.get("publish_date")
             ))
         
-        # Generate AI answer - pass language to the generation function
-        answer_text = "No relevant sermon content found to answer this question."
+        # Generate AI answer - always generate in English first, then translate if needed
+        default_no_results = "No relevant sermon content found to answer this question."
+        
         if search_results:
-            answer_text = generate_ai_answer(request.query, search_results, request.language)
+            # Always generate in English first for consistency
+            answer_text = generate_ai_answer(query, search_results, "en")
+            
+            # Then translate to the requested language if needed
+            if needs_translation:
+                answer_text = await translate_text(answer_text, "en", original_language)
+                print(f"Translated answer from English to {original_language}")
+        else:
+            # Handle no results case with appropriate translation
+            answer_text = default_no_results
+            if needs_translation:
+                answer_text = await translate_text(default_no_results, "en", original_language)
         
         return AnswerResponse(
-            query=request.query,
+            query=request.query,  # Return the original untranslated query
             answer=answer_text,
             sources=search_results if request.include_sources else [],
             processing_time=time.time() - start_time
@@ -436,16 +502,19 @@ async def get_transcript(
                 # Get the text (might be multiple lines)
                 text = ' '.join(lines[2:])
                 
+                # If language is not English, translate the text
+                if language != "en":
+                    try:
+                        text = await translate_text(text, "en", language)
+                    except Exception as e:
+                        print(f"Translation error for segment: {str(e)}")
+                        # Continue with untranslated text
+                
                 segments.append({
                     "start_time": start_time,
                     "end_time": end_time,
                     "text": text
                 })
-            
-            # If language isn't English, add a note about language availability
-            note = ""
-            if language != "en":
-                note = "Transcripts are currently only available in English. Future updates will include translation."
             
             return {
                 "video_id": video_id,
@@ -454,7 +523,6 @@ async def get_transcript(
                 "language": language,
                 "segments": segments,
                 "total_segments": len(segments),
-                "note": note,
                 "transcript_source": "srt_file"
             }
         
@@ -480,10 +548,20 @@ async def get_transcript(
         for match in results.matches:
             metadata = match.metadata
             if metadata.get("video_id") == video_id and metadata.get("text"):
+                text = metadata.get("text", "")
+                
+                # If language is not English, translate the text
+                if language != "en":
+                    try:
+                        text = await translate_text(text, "en", language)
+                    except Exception as e:
+                        print(f"Translation error for segment: {str(e)}")
+                        # Continue with untranslated text
+                
                 raw_segments.append({
                     "start_time": metadata.get("start_time", 0),
                     "end_time": metadata.get("end_time", 0),
-                    "text": metadata.get("text", ""),
+                    "text": text,
                     "chunk_index": metadata.get("chunk_index", 0)
                 })
         
@@ -547,11 +625,6 @@ async def get_transcript(
             # Add the final segment
             processed_segments.append(current_segment)
         
-        # If language isn't English, add a note about language availability
-        note = ""
-        if language != "en":
-            note = "Transcripts are currently only available in English. Future updates will include translation."
-        
         return {
             "video_id": video_id,
             "title": enhanced_metadata.get("title", f"Sermon {video_id}"),
@@ -559,7 +632,6 @@ async def get_transcript(
             "language": language,
             "segments": processed_segments,
             "total_segments": len(processed_segments),
-            "note": note,
             "transcript_source": "pinecone"
         }
         

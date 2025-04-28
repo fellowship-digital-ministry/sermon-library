@@ -66,6 +66,7 @@ class SearchResult(BaseModel):
     similarity: float
     chunk_index: int
     segment_ids: List[str] = []
+    publish_date: Optional[Any] = None  # Add this line
 
 class SearchResponse(BaseModel):
     query: str
@@ -307,7 +308,8 @@ async def search(
                 end_time=metadata.get("end_time", 0),
                 similarity=match.score,
                 chunk_index=metadata.get("chunk_index", 0),
-                segment_ids=segment_ids
+                segment_ids=segment_ids,
+                publish_date=enhanced_metadata.get("publish_date")  # Add this line
             ))
         
         return SearchResponse(
@@ -357,17 +359,18 @@ async def answer(request: AnswerRequest):
             if not isinstance(segment_ids, list):
                 segment_ids = []
             
-            search_results.append(SearchResult(
-                video_id=video_id,
-                title=enhanced_metadata.get("title", metadata.get("title", "Unknown Sermon")),
-                url=get_youtube_timestamp_url(video_id, metadata.get("start_time", 0)),
-                text=metadata.get("text", ""),
-                start_time=metadata.get("start_time", 0),
-                end_time=metadata.get("end_time", 0),
-                similarity=match.score,
-                chunk_index=metadata.get("chunk_index", 0),
-                segment_ids=segment_ids
-            ))
+                search_results.append(SearchResult(
+                    video_id=video_id,
+                    title=enhanced_metadata.get("title", metadata.get("title", "Unknown Sermon")),
+                    url=get_youtube_timestamp_url(video_id, metadata.get("start_time", 0)),
+                    text=metadata.get("text", ""),
+                    start_time=metadata.get("start_time", 0),
+                    end_time=metadata.get("end_time", 0),
+                    similarity=match.score,
+                    chunk_index=metadata.get("chunk_index", 0),
+                    segment_ids=segment_ids,
+                    publish_date=enhanced_metadata.get("publish_date")  # Add this line
+                ))
         
         # Generate AI answer - pass language to the generation function
         answer_text = "No relevant sermon content found to answer this question."

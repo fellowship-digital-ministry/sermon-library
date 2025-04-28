@@ -57,6 +57,21 @@ jobs:
         run: |
           python tools/transcript_to_embeddings.py --skip_existing
       
+      # Add this new step to update metadata in Pinecone
+      - name: Update Pinecone metadata from JSON files
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_ENVIRONMENT: ${{ secrets.PINECONE_ENVIRONMENT || 'us-east-1' }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME || 'sermon-embeddings' }}
+        run: |
+          # Copy the metadata utilities to the tools directory
+          cp api/metadata_utils.py tools/
+          
+          # Run the metadata update script for only recent changes
+          # This ensures we only update metadata for newly processed sermons
+          python api/improved_update_pinecone_metadata.py --only-recent --days=7
+      
       # First pull latest changes before committing
       - name: Pull latest changes
         run: git pull origin main

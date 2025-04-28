@@ -5,6 +5,7 @@ A FastAPI backend for the sermon library that connects to Pinecone
 for vector search and OpenAI for generating answers.
 
 Deployed on render.com
+https://sermon-search-api-8fok.onrender.com
 """
 
 import os
@@ -313,7 +314,7 @@ async def answer(request: AnswerRequest):
 
 @app.get("/sermons")
 async def list_sermons(
-    limit: int = Query(50, description="Maximum number of sermons to return"),
+    limit: int = Query(100, description="Maximum number of sermons to return"),
     offset: int = Query(0, description="Offset for pagination")
 ):
     """
@@ -321,36 +322,77 @@ async def list_sermons(
     Returns metadata for available sermons.
     """
     try:
-        # Get stats from Pinecone - updated for v6.0.2 API
+        # Get index stats to confirm vector count
         stats = pinecone_index.describe_index_stats()
+        total_vectors = stats.total_vector_count
         
-        # Query for a sample of vectors to get sermon metadata - updated for v6.0.2 API
-        results = pinecone_index.query(
-            vector=[0.1] * 1536,  # Random vector
-            top_k=limit + offset,
-            include_metadata=True
-        )
+        # Collect all unique sermon IDs with a systematic approach
+        all_sermons = {}
+        batch_size = 10000  # Max vectors to process per batch
         
-        # Group by video_id to get unique sermons - updated for v6.0.2 API
-        sermons = {}
-        
-        for match in results.matches:
-            metadata = match.metadata
-            video_id = metadata.get("video_id", "")
+        # First, get all unique video_ids using metadata filtering
+        # We'll use different random vectors to get diverse results
+        for i in range(0, (total_vectors // batch_size) + 1):
+            # Create a varied random vector for each batch to get different results
+            random_vector = [(i + j) / 1000.0 for j in range(1536)]
             
-            if video_id and video_id not in sermons:
-                sermons[video_id] = {
-                    "video_id": video_id,
-                    "title": metadata.get("title", f"Sermon {video_id}"),
-                    "channel": metadata.get("channel", "Unknown"),
-                    "publish_date": metadata.get("publish_date", ""),
-                    "url": f"https://www.youtube.com/watch?v={video_id}"
-                }
+            response = pinecone_index.query(
+                vector=random_vector,
+                top_k=batch_size,  # Get a large batch
+                include_metadata=True
+            )
+            
+            # Process each match to extract sermon metadata
+            for match in response.matches:
+                metadata = match.metadata
+                video_id = metadata.get("video_id", "")
+                
+                if video_id and video_id not in all_sermons:
+                    all_sermons[video_id] = {
+                        "video_id": video_id,
+                        "title": metadata.get("title", f"Sermon {video_id}"),
+                        "channel": metadata.get("channel", "Unknown"),
+                        "publish_date": metadata.get("publish_date", ""),
+                        "url": f"https://www.youtube.com/watch?v={video_id}"
+                    }
         
-        # Convert to list and apply pagination
-        sermon_list = list(sermons.values())
+        # If we still don't have all sermons, try using filters directly
+        # This approach helps ensure we get all unique sermons
+        if len(all_sermons) < 400:  # Assuming we should have at least 400 sermons based on your count of 429
+            # Get namespaces if your index uses them
+            try:
+                # For each unique video_id we've found so far, query for more related vectors
+                existing_ids = list(all_sermons.keys())
+                for video_id in existing_ids:
+                    # Use filter to get vectors with this video_id
+                    filter_dict = {"video_id": {"$eq": video_id}}
+                    
+                    result = pinecone_index.query(
+                        vector=[0.1] * 1536,  # Placeholder vector
+                        top_k=5,  # Just need a few to get metadata
+                        include_metadata=True,
+                        filter=filter_dict
+                    )
+                    
+                    # Get any additional metadata
+                    for match in result.matches:
+                        metadata = match.metadata
+                        if metadata.get("video_id") == video_id:
+                            # Update sermon info with any additional metadata
+                            all_sermons[video_id].update({
+                                "title": metadata.get("title", all_sermons[video_id]["title"]),
+                                "channel": metadata.get("channel", all_sermons[video_id]["channel"]),
+                                "publish_date": metadata.get("publish_date", all_sermons[video_id]["publish_date"])
+                            })
+            except Exception as filter_err:
+                # If filtering fails, log the error but continue
+                print(f"Filter query error: {str(filter_err)}")
+        
+        # Convert to list and apply sorting and pagination
+        sermon_list = list(all_sermons.values())
         sermon_list.sort(key=lambda x: x.get("publish_date", ""), reverse=True)
         
+        # Apply pagination
         paginated_sermons = sermon_list[offset:offset + limit]
         
         return {

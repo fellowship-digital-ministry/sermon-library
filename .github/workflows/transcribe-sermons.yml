@@ -33,7 +33,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pandas yt-dlp openai tqdm pydub
-          pip install pinecone-client
+          # Install the correct Pinecone package - new version
+          pip uninstall -y pinecone-client
+          pip install pinecone
       
       - name: Configure Git
         run: |
@@ -70,7 +72,7 @@ jobs:
           
           # Run the metadata update script for only recent changes
           # This ensures we only update metadata for newly processed sermons
-          python api/improved_update_pinecone_metadata.py --only-recent --days=7
+          python api/update_pinecone_metadata.py --only-recent --days=7
       
       # First pull latest changes before committing
       - name: Pull latest changes

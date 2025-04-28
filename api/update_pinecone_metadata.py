@@ -1,6 +1,7 @@
 """
 Script to update metadata in Pinecone vectors from JSON metadata files.
 Optimized for use with GitHub Actions workflow.
+Compatible with Pinecone API v6.0+
 
 Can run in two modes:
 1. Update all metadata (for initial sync)
@@ -15,12 +16,21 @@ import argparse
 from datetime import datetime, timedelta
 from typing import Dict, Any, List, Set, Optional
 import glob
+import logging
 
 # Add the current directory to the path so we can import metadata_utils
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from metadata_utils import get_all_sermon_metadata, get_metadata_directory
 from pinecone import Pinecone
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    filename='metadata_sync.log'
+)
+logger = logging.getLogger('metadata_sync')
 
 def find_new_or_modified_metadata(days: int = 7) -> Set[str]:
     """
@@ -85,7 +95,10 @@ def update_pinecone_metadata(
         days: Number of days to look back for recent files
         specific_ids: List of specific video IDs to update (overrides only_recent)
     """
-    # Initialize Pinecone client
+    print(f"Starting metadata update for Pinecone index: {index_name}")
+    logger.info(f"Starting metadata update for Pinecone index: {index_name}")
+    
+    # Initialize Pinecone client with v6.0+ API
     pc = Pinecone(api_key=api_key)
     
     # Connect to the index
@@ -94,6 +107,7 @@ def update_pinecone_metadata(
     # Get all metadata from JSON files
     all_metadata = get_all_sermon_metadata()
     print(f"Loaded metadata for {len(all_metadata)} sermons from JSON files")
+    logger.info(f"Loaded metadata for {len(all_metadata)} sermons from JSON files")
     
     if not all_metadata:
         print("No metadata found. Exiting.")
@@ -103,6 +117,7 @@ def update_pinecone_metadata(
     stats = index.describe_index_stats()
     total_vectors = stats.total_vector_count
     print(f"Found {total_vectors} vectors in Pinecone index '{index_name}'")
+    logger.info(f"Found {total_vectors} vectors in Pinecone index '{index_name}'")
     
     # Determine which video IDs to process
     video_ids_to_process = set()
@@ -137,6 +152,7 @@ def update_pinecone_metadata(
     for video_id, metadata in metadata_to_process.items():
         try:
             print(f"Processing sermon: {video_id} - {metadata.get('title', 'Unknown Title')}")
+            logger.info(f"Processing sermon: {video_id} - {metadata.get('title', 'Unknown Title')}")
             
             # Create a filter to find vectors with this video_id
             filter_dict = {"video_id": {"$eq": video_id}}
@@ -155,9 +171,11 @@ def update_pinecone_metadata(
             # If no vectors found, skip this sermon
             if not results.matches:
                 print(f"  No vectors found for sermon {video_id}")
+                logger.warning(f"No vectors found for sermon {video_id}")
                 continue
             
             print(f"  Found {len(results.matches)} vectors for sermon {video_id}")
+            logger.info(f"Found {len(results.matches)} vectors for sermon {video_id}")
             
             # Prepare batches of updates
             vectors_to_update = []
@@ -176,6 +194,22 @@ def update_pinecone_metadata(
                 for key, value in metadata.items():
                     if key not in ["text", "start_time", "end_time", "chunk_index", "segment_ids"]:
                         new_metadata[key] = value
+                
+                # Convert segment_ids to list of strings if it exists
+                if "segment_ids" in new_metadata and not isinstance(new_metadata["segment_ids"], list):
+                    # Try to convert to a list if it's not already one
+                    try:
+                        if isinstance(new_metadata["segment_ids"], str):
+                            # If it's a string, try to parse it as JSON
+                            if new_metadata["segment_ids"].startswith("[") and new_metadata["segment_ids"].endswith("]"):
+                                new_metadata["segment_ids"] = json.loads(new_metadata["segment_ids"])
+                            else:
+                                # If it's a single value, convert to a list with one item
+                                new_metadata["segment_ids"] = [new_metadata["segment_ids"]]
+                    except Exception as e:
+                        # If conversion fails, set to an empty list
+                        logger.warning(f"Failed to convert segment_ids for {vector_id}: {str(e)}")
+                        new_metadata["segment_ids"] = []
                 
                 # Add to the list of vectors to update
                 vectors_to_update.append((vector_id, new_metadata))
@@ -197,20 +231,33 @@ def update_pinecone_metadata(
                 
                 # Update Pinecone (unless dry run)
                 if not dry_run:
-                    index.update(vectors=update_batch)
-                    # Sleep to avoid rate limits
-                    time.sleep(0.5)
-                
-                updated_count += len(batch)
+                    try:
+                        # Use the v6.0+ API update method
+                        index.update(vectors=update_batch)
+                        # Sleep to avoid rate limits
+                        time.sleep(0.5)
+                        updated_count += len(batch)
+                    except Exception as e:
+                        error_message = f"Error updating batch for {video_id}: {str(e)}"
+                        print(f"ERROR: {error_message}")
+                        logger.error(error_message)
+                        error_count += 1
+                else:
+                    # Count updates even in dry run mode
+                    updated_count += len(batch)
             
         except Exception as e:
-            print(f"  Error processing sermon {video_id}: {str(e)}")
+            error_message = f"Error processing sermon {video_id}: {str(e)}"
+            print(f"ERROR: {error_message}")
+            logger.error(error_message)
             error_count += 1
     
     print(f"\nSummary:")
     print(f"  Total sermons processed: {len(metadata_to_process)}")
     print(f"  Total vectors {'would be' if dry_run else ''} updated: {updated_count}")
     print(f"  Errors: {error_count}")
+    
+    logger.info(f"Summary: {len(metadata_to_process)} sermons processed, {updated_count} vectors updated, {error_count} errors")
     
     if dry_run:
         print("\nThis was a dry run. No changes were made to Pinecone.")

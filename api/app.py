@@ -19,7 +19,7 @@ PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "sermon-embeddings")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 SEARCH_TOP_K = int(os.environ.get("SEARCH_TOP_K", "5"))
 COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")
-TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-3.5-turbo") # Smaller model for translations
+TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-4o") # Smaller model for translations
 
 # Path to metadata directory
 METADATA_DIR = os.environ.get("METADATA_DIR", "./transcription/data/metadata")

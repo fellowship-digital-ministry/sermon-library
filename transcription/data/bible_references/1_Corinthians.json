@@ -1,0 +1,68 @@
+[
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "verse": 5,
+    "reference_text": "1 Corinthians 10:5",
+    "context": "But with many of them, God was not well pleased.",
+    "is_implicit": false,
+    "video_id": "-sLfVr4caDI",
+    "start_time": 1232.1600036621094,
+    "end_time": 1297.2600021362305
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "verse": 10,
+    "reference_text": "1 Corinthians 10:10",
+    "context": "Neither murmur ye, as some of them also murmured and were destroyed of the destroyer.",
+    "is_implicit": false,
+    "video_id": "-sLfVr4caDI",
+    "start_time": 1232.1600036621094,
+    "end_time": 1297.2600021362305
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 57,
+    "reference_text": "1 Corinthians 15:57",
+    "context": "But thanks be to God which giveth us the victory.",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 216.22000122070312,
+    "end_time": 280.3399963378906
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 11,
+    "verse": 30,
+    "reference_text": "1 Corinthians 11:30",
+    "context": "For this cause, many are asleep.",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1467.8200073242188,
+    "end_time": 1535.3599853515625
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 5,
+    "verse": 1,
+    "reference_text": "1 Corinthians 5:1",
+    "context": "...how that his birthright was forfeited...",
+    "is_implicit": true,
+    "video_id": "09KQDExB3yQ",
+    "start_time": 321.1000061035156,
+    "end_time": 399.5199890136719
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 11,
+    "verse": null,
+    "reference_text": "1 Corinthians 11",
+    "context": "you know the Bible talks about let a man examine himself, right? We read that often, we observe the Lord's Supper and what appropriate passage that is in 1 Corinthians 11.",
+    "is_implicit": false,
+    "video_id": "09KQDExB3yQ",
+    "start_time": 2099.980010986328,
+    "end_time": 2155.8600158691406
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "book": "Acts",
+    "chapter": 12,
+    "verse": null,
+    "reference_text": "Acts chapter number 12",
+    "context": "I think about Peter in Acts chapter number 12 and what peace of, the peace of God he had as he's asleep between two prison guards",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 0.0,
+    "end_time": 70.19999694824219
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Acts chapter 20",
+    "context": "...No, he purchased the church with his own blood, did he not? Acts chapter 20...",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1535.3599853515625,
+    "end_time": 1598.6000061035156
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": 28,
+    "reference_text": "Acts 20:28",
+    "context": "the one who purchased it with his own blood",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1598.6000061035156,
+    "end_time": 1672.239990234375
+  }
+]

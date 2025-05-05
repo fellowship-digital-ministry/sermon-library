@@ -1,8 +1,10 @@
 import os
 import time
+import glob
+import json
 from typing import List, Dict, Optional, Any, Union
 from datetime import datetime
-import json
+from collections import Counter, defaultdict
 
 from fastapi import FastAPI, HTTPException, Query, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
@@ -24,6 +26,8 @@ TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-4o") # Smaller mode
 # Path to metadata directory
 METADATA_DIR = os.environ.get("METADATA_DIR", "./transcription/data/metadata")
 SUBTITLES_DIR = os.environ.get("SUBTITLES_DIR", "./transcription/data/subtitles")
+# Add Bible references directory path
+BIBLE_REFERENCES_DIR = os.environ.get("BIBLE_REFERENCES_DIR", "./transcription/data/bible_references")
 
 # Check for required environment variables
 if not OPENAI_API_KEY:
@@ -86,6 +90,32 @@ class AnswerResponse(BaseModel):
     answer: str
     sources: List[SearchResult] = []
     processing_time: float
+
+# Bible reference models
+class BibleBook(BaseModel):
+    book: str
+    count: int
+    references: List[Dict[str, Any]] = []
+    
+class BibleReference(BaseModel):
+    book: str
+    chapter: Optional[int]
+    verse: Optional[int]
+    reference_text: str
+    context: str
+    is_implicit: bool
+    video_id: str
+    start_time: float
+    end_time: float
+
+class BibleReferenceStats(BaseModel):
+    total_references: int
+    books_count: Dict[str, int]
+    chapters_count: Dict[str, Dict[str, int]]
+    top_books: List[Dict[str, Any]]
+    top_chapters: List[Dict[str, Any]]
+    old_testament_count: int
+    new_testament_count: int
 
 # Helper function to get full language name
 def get_language_name(lang_code):
@@ -185,7 +215,7 @@ def format_time(seconds: float) -> str:
     """Format time in seconds to MM:SS format."""
     minutes = int(seconds // 60)
     seconds = int(seconds % 60)
-    return f"{minutes}:${seconds}".zfill(5)
+    return f"{minutes}:{seconds:02d}"
 
 def get_youtube_timestamp_url(video_id: str, seconds: float) -> str:
     """Generate a YouTube URL with a timestamp."""
@@ -256,6 +286,75 @@ Answer the question based only on the provided sermon segments. Include specific
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error generating AI answer: {str(e)}")
 
+# Bible reference helper functions
+def load_bible_references() -> Dict[str, List[Dict[str, Any]]]:
+    """Load all Bible references from JSON files."""
+    references = {}
+    
+    # Get all JSON files in the references directory
+    reference_files = glob.glob(os.path.join(BIBLE_REFERENCES_DIR, "*.json"))
+    
+    for file_path in reference_files:
+        try:
+            book_name = os.path.basename(file_path).split('.')[0]
+            with open(file_path, 'r', encoding='utf-8') as f:
+                book_references = json.load(f)
+                references[book_name] = book_references
+        except Exception as e:
+            print(f"Error loading reference file {file_path}: {str(e)}")
+    
+    return references
+
+def get_bible_stats() -> BibleReferenceStats:
+    """Generate statistics about Bible references."""
+    all_references = load_bible_references()
+    
+    # Count references per book
+    books_count = {book: len(references) for book, references in all_references.items()}
+    
+    # Count references per chapter
+    chapters_count = defaultdict(lambda: defaultdict(int))
+    for book, references in all_references.items():
+        for ref in references:
+            if ref.get('chapter'):
+                chapter_key = f"{ref['chapter']}"
+                chapters_count[book][chapter_key] += 1
+    
+    # Get top books by reference count
+    top_books = [{"book": book, "count": count} 
+                for book, count in sorted(books_count.items(), key=lambda x: x[1], reverse=True)[:10]]
+    
+    # Get top chapters by reference count
+    chapter_flat_counts = []
+    for book, chapters in chapters_count.items():
+        for chapter, count in chapters.items():
+            chapter_flat_counts.append({"book": book, "chapter": chapter, "count": count})
+    
+    top_chapters = sorted(chapter_flat_counts, key=lambda x: x["count"], reverse=True)[:10]
+    
+    # Count testament references
+    old_testament_books = [
+        "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth", 
+        "1_Samuel", "2_Samuel", "1_Kings", "2_Kings", "1_Chronicles", "2_Chronicles", "Ezra", 
+        "Nehemiah", "Esther", "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song_of_Solomon", 
+        "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", 
+        "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
+    ]
+    
+    old_testament_count = sum(len(all_references.get(book, [])) for book in old_testament_books)
+    total_references = sum(len(refs) for refs in all_references.values())
+    new_testament_count = total_references - old_testament_count
+    
+    return BibleReferenceStats(
+        total_references=total_references,
+        books_count=books_count,
+        chapters_count=dict(chapters_count),
+        top_books=top_books,
+        top_chapters=top_chapters,
+        old_testament_count=old_testament_count,
+        new_testament_count=new_testament_count
+    )
+
 # API Endpoints
 @app.get("/")
 async def root():
@@ -281,6 +380,10 @@ async def health_check():
             model=EMBEDDING_MODEL
         )
         
+        # Check Bible references
+        bible_refs = load_bible_references()
+        bible_books_count = len(bible_refs)
+        
         return {
             "status": "healthy",
             "pinecone": {
@@ -292,6 +395,10 @@ async def health_check():
                 "status": "connected",
                 "embedding_model": EMBEDDING_MODEL,
                 "completion_model": COMPLETION_MODEL
+            },
+            "bible_references": {
+                "status": "available" if bible_books_count > 0 else "not found",
+                "books_count": bible_books_count
             },
             "timestamp": datetime.now().isoformat()
         }
@@ -808,6 +915,194 @@ async def get_sermon(video_id: str):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving sermon: {str(e)}")
+
+# Bible reference endpoints
+@app.get("/bible/stats", response_model=BibleReferenceStats)
+async def get_bible_reference_stats():
+    """Get statistics about Bible references in sermons."""
+    try:
+        stats = get_bible_stats()
+        return stats
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error generating Bible stats: {str(e)}")
+
+@app.get("/bible/books")
+async def list_bible_books():
+    """List all Bible books with reference counts."""
+    try:
+        all_references = load_bible_references()
+        books = [
+            {
+                "book": book,
+                "count": len(references)
+            }
+            for book, references in all_references.items()
+        ]
+        
+        # Sort books by count, descending
+        books.sort(key=lambda x: x["count"], reverse=True)
+        
+        return {
+            "books": books,
+            "total_books": len(books),
+            "total_references": sum(book["count"] for book in books)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing Bible books: {str(e)}")
+
+@app.get("/bible/books/{book}")
+async def get_book_references(book: str):
+    """Get all references for a specific Bible book."""
+    try:
+        all_references = load_bible_references()
+        
+        if book not in all_references:
+            raise HTTPException(status_code=404, detail=f"Book not found: {book}")
+        
+        # Get references and enhance with metadata
+        references = all_references[book]
+        enhanced_references = []
+        
+        for ref in references:
+            video_id = ref.get("video_id", "")
+            
+            # Load sermon metadata for each reference
+            metadata = load_metadata(video_id)
+            
+            enhanced_references.append({
+                **ref,
+                "sermon_title": metadata.get("title", f"Sermon {video_id}"),
+                "url": get_youtube_timestamp_url(video_id, ref.get("start_time", 0))
+            })
+        
+        # Group references by chapter
+        chapters = defaultdict(list)
+        for ref in enhanced_references:
+            chapter_key = str(ref.get("chapter", "unknown"))
+            chapters[chapter_key].append(ref)
+        
+        # Sort verses within each chapter
+        for chapter_key, chapter_refs in chapters.items():
+            chapter_refs.sort(key=lambda x: (x.get("verse", 0) or 0))
+        
+        return {
+            "book": book,
+            "total_references": len(enhanced_references),
+            "chapters": dict(chapters),
+            "references": enhanced_references
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error retrieving book references: {str(e)}")
+
+@app.get("/bible/references/{reference_id}")
+async def get_reference(reference_id: str):
+    """Get all occurrences of a specific Bible reference (like "John 3:16" or "Romans 8")."""
+    try:
+        book = None
+        chapter = None
+        verse = None
+        
+        # Parse reference ID format: "Book_Chapter_Verse" or "Book_Chapter" or just "Book"
+        parts = reference_id.split('_')
+        if len(parts) >= 1:
+            book = parts[0]
+        if len(parts) >= 2:
+            try:
+                chapter = int(parts[1])
+            except ValueError:
+                chapter = None
+        if len(parts) >= 3:
+            try:
+                verse = int(parts[2])
+            except ValueError:
+                verse = None
+        
+        if not book:
+            raise HTTPException(status_code=400, detail="Invalid reference format")
+        
+        # Load references for the book
+        all_references = load_bible_references()
+        if book not in all_references:
+            raise HTTPException(status_code=404, detail=f"Book not found: {book}")
+        
+        book_references = all_references[book]
+        
+        # Filter by chapter and verse if provided
+        filtered_references = book_references
+        if chapter is not None:
+            filtered_references = [ref for ref in filtered_references if ref.get("chapter") == chapter]
+        if verse is not None:
+            filtered_references = [ref for ref in filtered_references if ref.get("verse") == verse]
+        
+        if not filtered_references:
+            raise HTTPException(status_code=404, detail=f"No references found for {reference_id}")
+        
+        # Enhance references with metadata
+        enhanced_references = []
+        for ref in filtered_references:
+            video_id = ref.get("video_id", "")
+            
+            # Load sermon metadata
+            metadata = load_metadata(video_id)
+            
+            enhanced_references.append({
+                **ref,
+                "sermon_title": metadata.get("title", f"Sermon {video_id}"),
+                "sermon_date": metadata.get("publish_date", None),
+                "url": get_youtube_timestamp_url(video_id, ref.get("start_time", 0))
+            })
+        
+        # Group by sermon (video_id)
+        sermons = defaultdict(list)
+        for ref in enhanced_references:
+            sermons[ref["video_id"]].append(ref)
+        
+        # Find related references (same chapter, different verses)
+        related_references = []
+        if chapter is not None:
+            # Get other verses from the same chapter
+            related = [
+                ref for ref in book_references 
+                if ref.get("chapter") == chapter and (verse is None or ref.get("verse") != verse)
+            ]
+            
+            # Count occurrences by verse
+            verse_counts = Counter(ref.get("verse") for ref in related if ref.get("verse") is not None)
+            
+            # Format related references
+            for verse_num, count in verse_counts.most_common(10):  # Get top 10 related verses
+                related_references.append({
+                    "book": book,
+                    "chapter": chapter,
+                    "verse": verse_num,
+                    "reference_text": f"{book} {chapter}:{verse_num}",
+                    "count": count
+                })
+        
+        # Format reference display text
+        display_text = book.replace("_", " ")
+        if chapter is not None:
+            display_text += f" {chapter}"
+            if verse is not None:
+                display_text += f":{verse}"
+        
+        return {
+            "reference_id": reference_id,
+            "display_text": display_text,
+            "book": book,
+            "chapter": chapter,
+            "verse": verse,
+            "total_occurrences": len(enhanced_references),
+            "occurrences_by_sermon": dict(sermons),
+            "all_occurrences": enhanced_references,
+            "related_references": related_references
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error retrieving reference: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn

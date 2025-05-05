@@ -1,0 +1,35 @@
+[
+  {
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "1 Thessalonians chapter five",
+    "context": "Notice, if you will, in 1 Thessalonians chapter five. I believe that this goes hand in hand and we're familiar with the latter part of 1 Thessalonians five and how many just simple verses of scripture and just commands and instructions that are given",
+    "is_implicit": false,
+    "video_id": "-sLfVr4caDI",
+    "start_time": 2060.4400024414062,
+    "end_time": 2128.9400024414062
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 18,
+    "reference_text": "1 Thessalonians 5:18",
+    "context": "in everything give thanks for this is the will of God and Christ Jesus concerning you",
+    "is_implicit": false,
+    "video_id": "-sLfVr4caDI",
+    "start_time": 2128.9400024414062,
+    "end_time": 2192.4200134277344
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 18,
+    "reference_text": "1 Thessalonians 5:18",
+    "context": "in everything give thanks, for this is the will of God and Christ Jesus concerning you",
+    "is_implicit": false,
+    "video_id": "-sLfVr4caDI",
+    "start_time": 2192.4200134277344,
+    "end_time": 2260.3999938964844
+  }
+]

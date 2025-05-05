@@ -1,0 +1,57 @@
+[
+  {
+    "book": "Psalm",
+    "chapter": 90,
+    "verse": null,
+    "reference_text": "Psalm 90",
+    "context": "As I look at Genesis 37 and I think about that truth in Psalm 90...",
+    "is_implicit": false,
+    "video_id": "-MUvGf11b5U",
+    "start_time": 2131.4800415039062,
+    "end_time": 2208.4400329589844
+  },
+  {
+    "book": "Psalm",
+    "chapter": 19,
+    "verse": 7,
+    "reference_text": "Psalm 19:7",
+    "context": "The law of the Lord is perfect, converting the soul. The testimony of the Lord is sure, making wise the simple.",
+    "is_implicit": false,
+    "video_id": "07naoQP9rPI",
+    "start_time": 692.5599975585938,
+    "end_time": 757.5599975585938
+  },
+  {
+    "book": "Psalm",
+    "chapter": 94,
+    "verse": 11,
+    "reference_text": "Psalm 94:11",
+    "context": "Psalm 94 and verse number 12, we know that the psalmist says it this way... I'll read verse 11 along with it",
+    "is_implicit": false,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1032.5599975585938,
+    "end_time": 1127.5599975585938
+  },
+  {
+    "book": "Psalm",
+    "chapter": 94,
+    "verse": 12,
+    "reference_text": "Psalm 94:12",
+    "context": "Psalm 94 and verse number 12, we know that the psalmist says it this way",
+    "is_implicit": false,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1032.5599975585938,
+    "end_time": 1127.5599975585938
+  },
+  {
+    "book": "Psalm",
+    "chapter": 16,
+    "verse": 11,
+    "reference_text": "Psalm 16:11",
+    "context": "in his presence is fullness of joy",
+    "is_implicit": true,
+    "video_id": "07naoQP9rPI",
+    "start_time": 1598.6000061035156,
+    "end_time": 1672.239990234375
+  }
+]

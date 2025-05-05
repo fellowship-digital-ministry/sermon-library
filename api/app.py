@@ -316,9 +316,18 @@ def get_bible_stats() -> BibleReferenceStats:
     chapters_count = defaultdict(lambda: defaultdict(int))
     for book, references in all_references.items():
         for ref in references:
-            if ref.get('chapter'):
+            # Check if ref is a dictionary before using get()
+            if isinstance(ref, dict) and ref.get('chapter'):
                 chapter_key = f"{ref['chapter']}"
                 chapters_count[book][chapter_key] += 1
+            elif isinstance(ref, dict):
+                # If there's no chapter key, count it as chapter "unknown"
+                chapters_count[book]["unknown"] += 1
+            else:
+                # Handle the case where ref is not a dictionary
+                print(f"Warning: Reference is not a dictionary: {ref}")
+                # Count it as an "unknown" chapter
+                chapters_count[book]["unknown"] += 1
     
     # Get top books by reference count
     top_books = [{"book": book, "count": count} 

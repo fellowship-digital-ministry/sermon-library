@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 23,
+    "reference_text": "Colossians 3:23",
+    "context": "Look over at the book of Colossians, if you will, in the third chapter",
+    "is_implicit": true,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 314.760009765625,
+    "end_time": 380.29998779296875
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 23,
+    "reference_text": "Colossians 3:23",
+    "context": "and I want you to notice what the Bible says in Colossians three and verse 23, and whatsoever you do, do it heartily, and then notice these words, as to the Lord, and not unto men.",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 380.29998779296875,
+    "end_time": 450.260009765625
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 24,
+    "reference_text": "Colossians 3:24",
+    "context": "verse 24, knowing that of the Lord, ye shall receive the reward of the inheritance, for ye serve the Lord Christ.",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 380.29998779296875,
+    "end_time": 450.260009765625
+  },
+  {
+    "book": "Colossians",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Colossians 4:17",
+    "context": "And we find that this charge is given, and we find that again, it summarizes, help us to understand that God has an individual plan for each of us.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2752.760009765625,
+    "end_time": 2822.2200317382812
+  }
+]

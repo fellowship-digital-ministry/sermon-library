@@ -53,5 +53,148 @@
     "video_id": "07naoQP9rPI",
     "start_time": 1598.6000061035156,
     "end_time": 1672.239990234375
+  },
+  {
+    "book": "Psalm",
+    "chapter": 48,
+    "verse": 1,
+    "reference_text": "Psalm 48:1",
+    "context": "Great is the Lord and greatly to be praised",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 119.5999984741211,
+    "end_time": 182.27999877929688
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 1,
+    "reference_text": "Psalm 145:1",
+    "context": "I will extol thee, my God, O King, and I will bless thy name forever and ever.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 119.5999984741211,
+    "end_time": 182.27999877929688
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 2,
+    "reference_text": "Psalm 145:2",
+    "context": "Every day will I bless thee and I will praise thy name forever and ever.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 119.5999984741211,
+    "end_time": 182.27999877929688
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 3,
+    "reference_text": "Psalm 145:3",
+    "context": "Great is the Lord and greatly to be praised and His greatness is unsearchable.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 119.5999984741211,
+    "end_time": 182.27999877929688
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 4,
+    "reference_text": "Psalm 145:4",
+    "context": "One generation shall praise thy works to another and shall declare thy mighty acts.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 119.5999984741211,
+    "end_time": 182.27999877929688
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 9,
+    "reference_text": "Psalm 145:9",
+    "context": "he's good to all. Notice his tender mercies are over all his works",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1020.5199890136719,
+    "end_time": 1082.4400024414062
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": 10,
+    "reference_text": "Psalm 145:10",
+    "context": "all thy works shall praise thee, O Lord, and thy saints shall bless thee",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1020.5199890136719,
+    "end_time": 1082.4400024414062
+  },
+  {
+    "book": "Psalm",
+    "chapter": 145,
+    "verse": null,
+    "reference_text": "Psalm 145",
+    "context": "The psalmist, in Psalm 145, as we walk through this psalm, the psalmist is convinced, he's confident that his God, our God, is great.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1999.8999633789062,
+    "end_time": 2065.219970703125
+  },
+  {
+    "book": "Psalm",
+    "chapter": 27,
+    "verse": 1,
+    "reference_text": "Psalm 27:1",
+    "context": "Because God is my light and my salvation. Because the Lord is the strength of my life.",
+    "is_implicit": true,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1127.3800048828125,
+    "end_time": 1194.8599853515625
+  },
+  {
+    "book": "Psalm",
+    "chapter": 56,
+    "verse": 1,
+    "reference_text": "Psalm 56:1",
+    "context": "be merciful unto me, O God, for man would swallow me up. He fighting daily oppresseth me.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1127.3800048828125,
+    "end_time": 1194.8599853515625
+  },
+  {
+    "book": "Psalm",
+    "chapter": 56,
+    "verse": 3,
+    "reference_text": "Psalm 56:3",
+    "context": "what time I am afraid, I will trust in thee.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1127.3800048828125,
+    "end_time": 1194.8599853515625
+  },
+  {
+    "book": "Psalm",
+    "chapter": 56,
+    "verse": 4,
+    "reference_text": "Psalm 56:4",
+    "context": "In God, I will praise his word. In God, I have put my trust. I will not fear what flesh can do unto me.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1127.3800048828125,
+    "end_time": 1194.8599853515625
+  },
+  {
+    "book": "Psalm",
+    "chapter": 3,
+    "verse": 2,
+    "reference_text": "Psalm 3:2",
+    "context": "What was it that they said, the enemies, in verse number 2 of Psalm 3? There's no help for him in God",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1412.500015258789,
+    "end_time": 1477.9800109863281
   }
 ]

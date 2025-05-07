@@ -229,5 +229,49 @@
     "video_id": "09KQDExB3yQ",
     "start_time": 1753.0800170898438,
     "end_time": 1826.7200164794922
+  },
+  {
+    "book": "Revelation",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Revelation chapter 20",
+    "context": "We've read the entirety of the Bible, we've read Revelation chapter 20, we're familiar with the judgment, the great white throne judgment, and we know that, and therefore, we ought to have some compassion.",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1715.1199951171875,
+    "end_time": 1783.6199951171875
+  },
+  {
+    "book": "Revelation",
+    "chapter": 19,
+    "verse": 6,
+    "reference_text": "Revelation 19:6",
+    "context": "The Lord God omnipotent ruleth.",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1082.4400024414062,
+    "end_time": 1143.760009765625
+  },
+  {
+    "book": "Revelation",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "I am alpha and omega",
+    "context": "He says, I am alpha and omega. Wow.",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1205.1199660301208,
+    "end_time": 1275.1599655151367
+  },
+  {
+    "book": "Revelation",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Revelation chapter 20",
+    "context": "The scene in Revelation chapter 20 is, honestly, it's a sad scene. It's a scene that should cause every child of God to weep, the great white throne judgment.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 2803.8399658203125,
+    "end_time": 2864.199981689453
   }
 ]

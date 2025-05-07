@@ -119,5 +119,27 @@
     "video_id": "09KQDExB3yQ",
     "start_time": 1337.0800170898438,
     "end_time": 1394.0800170898438
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 7,
+    "reference_text": "Deuteronomy 31:7",
+    "context": "you could go to the book of Deuteronomy in the 31st chapter in verses seven and eight",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 951.6799926757812,
+    "end_time": 1010.3200073242188
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 8,
+    "reference_text": "Deuteronomy 31:8",
+    "context": "you could go to the book of Deuteronomy in the 31st chapter in verses seven and eight",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 951.6799926757812,
+    "end_time": 1010.3200073242188
   }
 ]

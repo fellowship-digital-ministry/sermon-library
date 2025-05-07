@@ -42,5 +42,27 @@
     "video_id": "07naoQP9rPI",
     "start_time": 1032.5599975585938,
     "end_time": 1127.5599975585938
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 24,
+    "verse": 10,
+    "reference_text": "Proverbs 24:10",
+    "context": "it says this in Proverbs 24 in verse number 10, if thou faint in the day of adversity, thy strength is small.",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 906.8999938964844,
+    "end_time": 966.0
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 27,
+    "verse": 1,
+    "reference_text": "Proverbs 27:1",
+    "context": "Proverbs tells us, boast not thyself of tomorrow. Why? No man knoweth what a day may bring forth.",
+    "is_implicit": false,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 2154.480010986328,
+    "end_time": 2233.480010986328
   }
 ]

@@ -42,5 +42,49 @@
     "video_id": "09KQDExB3yQ",
     "start_time": 1826.7200164794922,
     "end_time": 1900.1600189208984
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "Isaiah 6",
+    "context": "You see the scene in Isaiah 6, the Lord is high and holy, lifted up.",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1480.0799560546875,
+    "end_time": 1559.5399780273438
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "verse": 3,
+    "reference_text": "Isaiah 26:3",
+    "context": "Isaiah 26, it's a familiar verse of Scripture in verse 3 where the Bible talks about the the peace that God offers us and that perfect peace. Verses 3 and 4 of Isaiah 26 are precious verses of Scripture. It tells us this, thou will keep him in perfect peace whose mind is stayed on thee.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1477.9800109863281,
+    "end_time": 1556.1800231933594
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "verse": 3,
+    "reference_text": "Isaiah 26:3",
+    "context": "thou will keep him in perfect peace whose mind is stayed on thee because he trusteth in thee.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1556.1800231933594,
+    "end_time": 1625.5400085449219
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 26,
+    "verse": 4,
+    "reference_text": "Isaiah 26:4",
+    "context": "trust ye in the Lord forever for in the Lord Jehovah is everlasting strength.",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1556.1800231933594,
+    "end_time": 1625.5400085449219
   }
 ]

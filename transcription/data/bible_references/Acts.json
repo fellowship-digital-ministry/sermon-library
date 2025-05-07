@@ -31,5 +31,126 @@
     "video_id": "07naoQP9rPI",
     "start_time": 1598.6000061035156,
     "end_time": 1672.239990234375
+  },
+  {
+    "book": "Acts",
+    "chapter": 17,
+    "verse": 2,
+    "reference_text": "Acts 17:2",
+    "context": "you could go back to Acts 17, and you can read it during the second missionary journey, and you find there's not much given to us there, because they're just there for about three Sabbaths, is what the Bible says",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1851.620002746582,
+    "end_time": 1912.740005493164
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Acts one in verse number eight",
+    "context": "He tells us, but ye shall receive power after the Holy Ghost has come upon you in Acts one in verse number eight.",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 588.6599731445312,
+    "end_time": 645.9200057983398
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 4,
+    "reference_text": "Acts 9:4",
+    "context": "But here in Acts chapter number nine is where we meet the, or read the text of scripture where Saul trusts Christ as his savior, where Saul is born again. We obviously refer to him often as Paul. And, but we find here in this text that this is the conversion of Paul and his name is referenced here as being Saul. But I want to draw your attention in verse number four,",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1721.1199951171875,
+    "end_time": 1780.9199829101562
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 4,
+    "reference_text": "Acts 9:4",
+    "context": "he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1780.9199829101562,
+    "end_time": 1849.2000007629395
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 5,
+    "reference_text": "Acts 9:5",
+    "context": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1780.9199829101562,
+    "end_time": 1849.2000007629395
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 6,
+    "reference_text": "Acts 9:6",
+    "context": "And he trembling and astonished said, Lord, what wilt thou have me to do?",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1780.9199829101562,
+    "end_time": 1849.2000007629395
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 15,
+    "reference_text": "Acts 9:15",
+    "context": "but the Lord said unto him, go thy way. He's speaking to Ananias here and it says, for he is a chosen vessel unto me to bear my name before the Gentiles and kings and the children of Israel, for I will show him how great things he must suffer for my name's sake.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1849.2000007629395,
+    "end_time": 1916.400001525879
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Acts chapter 20",
+    "context": "Look at Acts chapter 20, and notice what Paul says in his testimony as he's sharing and having revealed to us under the inspiration of the Holy Spirit of God",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2492.000015258789,
+    "end_time": 2557.5800170898438
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": 24,
+    "reference_text": "Acts chapter 20 and verse number 24",
+    "context": "he says in Acts chapter 20 and verse number 24, but none of these things move me, neither count I my life dear unto myself so that I might finish my course with joy.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2557.5800170898438,
+    "end_time": 2618.820022583008
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": 24,
+    "reference_text": "none of these things move me. Neither count I my life dear unto myself",
+    "context": "And Paul, he says, none of these things move me. Neither count I my life dear unto myself, why? Because I want to fulfill what God has for me to do, his plan for me.",
+    "is_implicit": true,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2681.980010986328,
+    "end_time": 2752.760009765625
+  },
+  {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 6,
+    "reference_text": "Lord, what wilt thou have me to do?",
+    "context": "Because I asked him, Lord, what wilt thou have me to do?",
+    "is_implicit": true,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2681.980010986328,
+    "end_time": 2752.760009765625
   }
 ]

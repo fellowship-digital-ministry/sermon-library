@@ -64,5 +64,82 @@
     "video_id": "09KQDExB3yQ",
     "start_time": 2099.980010986328,
     "end_time": 2155.8600158691406
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 2,
+    "verse": 14,
+    "reference_text": "1 Corinthians 2:14",
+    "context": "...the Bible tells us in 1 Corinthians 2 and verse 14, that the natural man receiveth not the things of the Spirit of God...",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1580.4600219726562,
+    "end_time": 1648.6800231933594
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": null,
+    "reference_text": "1 Corinthians 13",
+    "context": "Paul wrote under the inspiration of the Holy Spirit of God in 1 Corinthians 13",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 326.5,
+    "end_time": 387.6400146484375
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 6,
+    "verse": 20,
+    "reference_text": "1 Corinthians 6:20",
+    "context": "when we understand that we've been bought with a price",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 314.760009765625,
+    "end_time": 380.29998779296875
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 58,
+    "reference_text": "1 Corinthians 15:58",
+    "context": "therefore my beloved brethren be",
+    "is_implicit": false,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 1297.1800155639648,
+    "end_time": 1358.4600219726562
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 58,
+    "reference_text": "1 Corinthians 15:58",
+    "context": "our labor is not in vain. Help us to remain steadfast and unmovable",
+    "is_implicit": true,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 1927.0399932861328,
+    "end_time": 1996.9599914550781
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 53,
+    "reference_text": "this mortal shall put on immortality, that this corruption shall put on incorruption",
+    "context": "...this mortal shall put on immortality, that this corruption shall put on incorruption...",
+    "is_implicit": true,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 715.9200210571289,
+    "end_time": 772.0800170898438
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 12,
+    "verse": 11,
+    "reference_text": "1 Corinthians 12:11",
+    "context": "The Bible tells us in the book of 1 Corinthians that God, the Holy Spirit, that he gives the gift to every man as he will",
+    "is_implicit": true,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2139.9200134277344,
+    "end_time": 2209.8399963378906
   }
 ]

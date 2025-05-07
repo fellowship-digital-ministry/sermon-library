@@ -31,5 +31,115 @@
     "video_id": "-sLfVr4caDI",
     "start_time": 2192.4200134277344,
     "end_time": 2260.3999938964844
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "1 Thessalonians chapter number one",
+    "context": "as you read the book of 1 Thessalonians, you find that the Apostle Paul was a man that moved and worked with compassion.",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1783.6199951171875,
+    "end_time": 1851.620002746582
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "verse": null,
+    "reference_text": "1 Thessalonians chapter number two",
+    "context": "notice what the Bible tells us about Paul's ministry there in Thessalonica",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1783.6199951171875,
+    "end_time": 1851.620002746582
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 1,
+    "verse": 4,
+    "reference_text": "1 Thessalonians 1:4",
+    "context": "the Bible says in verse number four, knowing, brethren, beloved, your election of God",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1851.620002746582,
+    "end_time": 1912.740005493164
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 1,
+    "verse": 5,
+    "reference_text": "1 Thessalonians 1:5",
+    "context": "for our gospel came not unto you in word only, but also in power to the Holy Ghost, and in much assurance, as you know, what manner of men we were among you",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1851.620002746582,
+    "end_time": 1912.740005493164
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "1 Thessalonians 2:4",
+    "context": "Paul says, as we were allowed of God, notice what he says in verse four of chapter two, to be put in trust with the gospel, even so we speak.",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 2025.9400024414062,
+    "end_time": 2089.3800048828125
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "verse": 5,
+    "reference_text": "chapter one in verse number five",
+    "context": "But notice as we continue in verse five, he says, for neither at any time used be flattering words, as ye know, nor a cloak of covetousness. God is witness.",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 2091.220001220703,
+    "end_time": 2157.220001220703
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "1 Thessalonians chapter number five",
+    "context": "we studied through the latter part of 1 Thessalonians chapter number five",
+    "is_implicit": true,
+    "video_id": "0lpK3XY3NtI",
+    "start_time": 0.0,
+    "end_time": 60.040000915527344
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "1 Thessalonians 4:13",
+    "context": "that tells us if we have loved ones that are saved, that are heaven-bound, that if they die, that we sorrow not as others which have no hope.",
+    "is_implicit": true,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 581.7999877929688,
+    "end_time": 648.4400215148926
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "1 Thessalonians 4:13",
+    "context": "we sorrow not as others which have no hope.",
+    "is_implicit": true,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 648.4400215148926,
+    "end_time": 715.9200210571289
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 18,
+    "reference_text": "1 Thessalonians 4:18",
+    "context": "wherefore comfort one another with these words.",
+    "is_implicit": false,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 648.4400215148926,
+    "end_time": 715.9200210571289
   }
 ]

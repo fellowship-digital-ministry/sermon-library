@@ -1,0 +1,79 @@
+[
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "the book of Jude",
+    "context": "Turn to the book of Jude, and as you turn to the book of Jude, it's only one chapter, but what a power-packed chapter of God's word this is.",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1180.2200317382812,
+    "end_time": 1250.8000106811523
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 3,
+    "reference_text": "Jude 1:3",
+    "context": "it says in verse three that it was needful for me, right in the middle of the verse, to write unto you and to exhort you that you should earnestly contend for the faith which was once delivered unto the saints.",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1250.8000106811523,
+    "end_time": 1314.760009765625
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 4,
+    "reference_text": "Jude 1:4",
+    "context": "because in verse number four, there are certain men crept in unawares who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness and denying the only Lord God and our Lord Jesus Christ",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1250.8000106811523,
+    "end_time": 1314.760009765625
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 21,
+    "reference_text": "Jude 1:21",
+    "context": "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1510.3200073242188,
+    "end_time": 1580.4600219726562
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "Jude 1:22",
+    "context": "and of some, have compassion making a difference",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1510.3200073242188,
+    "end_time": 1580.4600219726562
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 23,
+    "reference_text": "Jude 1:23",
+    "context": "and others, save with fear, pulling them out of the fire, hating even the garment spotted by the flesh",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1510.3200073242188,
+    "end_time": 1580.4600219726562
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "Jude 1:22",
+    "context": "...the Bible says in verse 22, and of some, have compassion...",
+    "is_implicit": false,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1580.4600219726562,
+    "end_time": 1648.6800231933594
+  }
+]

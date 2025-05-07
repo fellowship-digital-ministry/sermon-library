@@ -9,5 +9,38 @@
     "video_id": "07naoQP9rPI",
     "start_time": 757.5599975585938,
     "end_time": 824.5599975585938
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": 5,
+    "reference_text": "1 Peter 1:5",
+    "context": "we are kept by the power of God",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1884.359962463379,
+    "end_time": 1942.7799682617188
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "1 Peter chapter 1",
+    "context": "I am kept by the power of God according to 1 Peter chapter 1.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 376.0,
+    "end_time": 444.0
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 4,
+    "verse": 10,
+    "reference_text": "1 Peter 4:10",
+    "context": "notice in 1 Peter chapter number 4, the Bible speaks about this truth of ministering and having received this gift... Notice in verse number 10 of 1 Peter 4, as every man hath received the gift, even so",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2209.8399963378906,
+    "end_time": 2280.760009765625
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "book": "Daniel",
+    "chapter": 6,
+    "verse": 16,
+    "reference_text": "Daniel 6:16",
+    "context": "Darius says, I know that the Lord that you serve continually, I know He is able to deliver thee.",
+    "is_implicit": true,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 761.5800018310547,
+    "end_time": 838.0600128173828
+  },
+  {
+    "book": "Daniel",
+    "chapter": 6,
+    "verse": 20,
+    "reference_text": "Daniel 6:20",
+    "context": "Daniel, is your God whom you serve continually able to deliver thee?",
+    "is_implicit": true,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 761.5800018310547,
+    "end_time": 838.0600128173828
+  }
+]

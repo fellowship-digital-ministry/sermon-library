@@ -1,0 +1,35 @@
+[
+  {
+    "book": "Jeremiah",
+    "chapter": 31,
+    "verse": null,
+    "reference_text": "Jeremiah 31",
+    "context": "Notice what Jeremiah says. You don't need to turn there. I'll read the verse for you. But in Jeremiah 31, Jeremiah is speaking about the love of God, and the Bible says this in",
+    "is_implicit": true,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1298.3400192260742,
+    "end_time": 1357.9400177001953
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 31,
+    "verse": 3,
+    "reference_text": "Jeremiah 31:3",
+    "context": "Jeremiah 31 and verse number 3, the Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love, therefore with lovingkindness have I drawn thee.",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1357.9400177001953,
+    "end_time": 1431.6600189208984
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 33,
+    "verse": 3,
+    "reference_text": "Jeremiah 33:3",
+    "context": "He says to Jeremiah, call unto me, and I will answer thee, and show thee great and mighty things which thou knowest not.",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1816.3199653625488,
+    "end_time": 1884.359962463379
+  }
+]

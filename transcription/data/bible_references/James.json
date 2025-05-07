@@ -1,0 +1,68 @@
+[
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 2,
+    "reference_text": "James 4:2",
+    "context": "You have not because you ask not. Is that what the scriptures teach us?",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 276.7200012207031,
+    "end_time": 347.1199951171875
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 3,
+    "reference_text": "James 4:3",
+    "context": "The scriptures also teach us that you have not because you ask amiss.",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 276.7200012207031,
+    "end_time": 347.1199951171875
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "Help your people to be doers of the word and not hearers only.",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 3013.7999925613403,
+    "end_time": 3083.479995727539
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "James 4:14",
+    "context": "James says, what is your life? It's but a vapor that appeareth for a little time and then vanisheth away.",
+    "is_implicit": false,
+    "video_id": "14-lQQNG7W8",
+    "start_time": 2154.480010986328,
+    "end_time": 2233.480010986328
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 2,
+    "reference_text": "James 4:2",
+    "context": "ye have not, because ye ask not.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1780.9199829101562,
+    "end_time": 1849.2000007629395
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 3,
+    "reference_text": "James 4:3",
+    "context": "Ye ask, and receive not, because ye ask amiss",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 1780.9199829101562,
+    "end_time": 1849.2000007629395
+  }
+]

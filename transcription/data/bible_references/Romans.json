@@ -9,5 +9,148 @@
     "video_id": "07naoQP9rPI",
     "start_time": 960.5599975585938,
     "end_time": 1032.5599975585938
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 39,
+    "reference_text": "nothing that can separate us from the love of God",
+    "context": "By the way, aren't you thankful that there's nothing that can separate us from the love of God?",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1446.5600128173828,
+    "end_time": 1510.3200073242188
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "Romans 1:16",
+    "context": "...the gospel is the power of God unto salvation...",
+    "is_implicit": true,
+    "video_id": "0bvsCvT1aho",
+    "start_time": 1580.4600219726562,
+    "end_time": 1648.6800231933594
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 37,
+    "reference_text": "Romans 8:37",
+    "context": "we are more than conquerors through Christ",
+    "is_implicit": true,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 205.1199951171875,
+    "end_time": 265.0
+  },
+  {
+    "book": "Romans",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "Romans 5:8",
+    "context": "The Bible says this in Romans 5 and verse number 8, but God commendeth His love. Again, we see those words, toward us, and that while we're yet sinners, Christ died for us.",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1298.3400192260742,
+    "end_time": 1357.9400177001953
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "Romans chapter number 8",
+    "context": "Notice how His love is described for us in the book of Romans, in the eighth chapter, in Romans chapter number 8.",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1693.6800231933594,
+    "end_time": 1763.2200317382812
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 37,
+    "reference_text": "Romans 8:37",
+    "context": "V. 37 of Romans 8, 'Nay, in all these things we are more than conquerors. Notice this, through Him that loved us.'",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1763.2200317382812,
+    "end_time": 1836.5400009155273
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 38,
+    "reference_text": "Romans 8:38-39",
+    "context": "'That neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature...'",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1836.5400009155273,
+    "end_time": 1928.020004272461
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 39,
+    "reference_text": "Romans 8:38-39",
+    "context": "'That neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature...'",
+    "is_implicit": false,
+    "video_id": "0c9STAI-vWI",
+    "start_time": 1836.5400009155273,
+    "end_time": 1928.020004272461
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 23,
+    "reference_text": "Romans 6:23",
+    "context": "the gift of God... the gift of eternal life",
+    "is_implicit": true,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 1020.5199890136719,
+    "end_time": 1082.4400024414062
+  },
+  {
+    "book": "Romans",
+    "chapter": 3,
+    "verse": 10,
+    "reference_text": "Romans 3:10",
+    "context": "there's none righteous, no not one",
+    "is_implicit": false,
+    "video_id": "0wy6AB2BCmw",
+    "start_time": 2941.199951171875,
+    "end_time": 3013.7999925613403
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 28,
+    "reference_text": "Romans 8:28",
+    "context": "Remember the truth of Romans 828. Oftentimes we don't quote the beginning when it says, and we know that all things work together for good to them who love God, to them who are the",
+    "is_implicit": false,
+    "video_id": "12L3c81JzTQ",
+    "start_time": 1354.020004272461,
+    "end_time": 1412.500015258789
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 3,
+    "reference_text": "Romans 12:3",
+    "context": "In Romans chapter 12 beginning in verse number 3, the Bible says, for I say through the grace given unto me to every man that is among you, not to think of himself more highly than he ought to think, but to think soberly according as God hath dealt to every man the measure of faith.",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2056.0,
+    "end_time": 2139.9200134277344
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 5,
+    "reference_text": "Romans 12:5",
+    "context": "so we being many are one body in Christ and every one members one of another",
+    "is_implicit": false,
+    "video_id": "1AnI1m5Yp2c",
+    "start_time": 2139.9200134277344,
+    "end_time": 2209.8399963378906
   }
 ]

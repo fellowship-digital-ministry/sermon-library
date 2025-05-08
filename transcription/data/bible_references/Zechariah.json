@@ -1,0 +1,57 @@
+[
+  {
+    "book": "Zechariah",
+    "chapter": 8,
+    "verse": 16,
+    "reference_text": "Zechariah 8:16",
+    "context": "Zechariah 8 and verse number 16. The Bible says this, these are the things that ye shall do, speak every man the truth to his neighbor, execute the judgment of truth, and peace in your gates.",
+    "is_implicit": false,
+    "video_id": "cZ76dCVG9Gg",
+    "start_time": 506.0,
+    "end_time": 571.5599975585938
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "Zechariah 4:6",
+    "context": "Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+    "is_implicit": false,
+    "video_id": "HU9EA4cSKt0",
+    "start_time": 2194.5400390625,
+    "end_time": 2259.500030517578
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 12,
+    "verse": 10,
+    "reference_text": "Zechariah 12:10",
+    "context": "The Bible says, and I will pour upon the house of David and upon the inhabitants of Jerusalem, the spirit of grace and of supplication, and they shall look upon me whom they have pierced, and they shall mourn for him as one mourneth for his only son, and shall be in bitterness for him as one that is in bitterness for his firstborn.",
+    "is_implicit": false,
+    "video_id": "iOuNydlRGNs",
+    "start_time": 1960.3400268554688,
+    "end_time": 2013.7400360107422
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 14,
+    "verse": 4,
+    "reference_text": "Zechariah 14:4",
+    "context": "his feet shall stand in that day upon the Mount of Olives",
+    "is_implicit": true,
+    "video_id": "iOuNydlRGNs",
+    "start_time": 2013.7400360107422,
+    "end_time": 2063.760040283203
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 14,
+    "verse": 4,
+    "reference_text": "Zechariah 14:4",
+    "context": "and the Mount of Olives shall cleave in the midst thereof toward the east and toward the west",
+    "is_implicit": false,
+    "video_id": "iOuNydlRGNs",
+    "start_time": 2063.760040283203,
+    "end_time": 2117.320037841797
+  }
+]

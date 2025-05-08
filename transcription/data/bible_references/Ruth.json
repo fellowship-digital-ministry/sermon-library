@@ -1,0 +1,24 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 3,
+    "verse": 12,
+    "reference_text": "Ruth 3:12",
+    "context": "and we find that he says this in chapter number three and verse number 12, and now it is true that I am thy near kinsman, albeit there is a kinsman nearer than I.",
+    "is_implicit": false,
+    "video_id": "TljookEyMZU",
+    "start_time": 2248.6799926757812,
+    "end_time": 2312.6399841308594
+  },
+  {
+    "book": "Ruth",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "book of Ruth",
+    "context": "but we find that as we look at the truth of the book of Ruth and we find that as Jesus is our kinsman redeemer in that picture that is given here in the book of Ruth",
+    "is_implicit": true,
+    "video_id": "TljookEyMZU",
+    "start_time": 2312.6399841308594,
+    "end_time": 2382.739990234375
+  }
+]

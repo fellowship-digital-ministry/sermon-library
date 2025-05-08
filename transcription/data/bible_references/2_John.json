@@ -9,5 +9,27 @@
     "video_id": "0c9STAI-vWI",
     "start_time": 2106.019989013672,
     "end_time": 2164.1799926757812
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 7,
+    "reference_text": "2 John 1:7",
+    "context": "2 John and verse number 7, the Bible says this. Notice just a few pages over in 2 John, verse number 7, for many deceivers are entered into the world.",
+    "is_implicit": false,
+    "video_id": "d-1B6rYpHbw",
+    "start_time": 753.8800354003906,
+    "end_time": 815.0400238037109
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "2 John 8",
+    "context": "2 John 8 says that we may receive a full reward.",
+    "is_implicit": false,
+    "video_id": "iMFOWiAni18",
+    "start_time": 2814.5199584960938,
+    "end_time": 2881.5199584960938
   }
 ]

@@ -1,0 +1,35 @@
+[
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Esther 4:12",
+    "context": "They told to Mordecai Esther's words.",
+    "is_implicit": false,
+    "video_id": "qKPSzK25Qso",
+    "start_time": 2224.1799926757812,
+    "end_time": 2281.3399963378906
+  },
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "Esther 4:13",
+    "context": "Then Mordecai commanded to answer Esther, think not with thyself that thou shalt escape in the king's house more than all the Jews.",
+    "is_implicit": false,
+    "video_id": "qKPSzK25Qso",
+    "start_time": 2281.3399963378906,
+    "end_time": 2337.02001953125
+  },
+  {
+    "book": "Esther",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "Esther 4:14",
+    "context": "for if thou altogether holdest thy peace at this time, then shall their enlargement and deliverance arise to the Jews from another place... and who knoweth whether thou art come to the kingdom for such a time as this?",
+    "is_implicit": false,
+    "video_id": "qKPSzK25Qso",
+    "start_time": 2281.3399963378906,
+    "end_time": 2337.02001953125
+  }
+]

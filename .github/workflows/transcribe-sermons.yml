@@ -70,7 +70,7 @@ jobs:
           echo "Starting sermon monitoring process"
           
           # Try running the improved monitoring script
-          python improved-youtube-monitor.py \
+          python monitor_channel.py \
             --channel "https://www.youtube.com/@chrismann9821" \
             --process \
             --embed \

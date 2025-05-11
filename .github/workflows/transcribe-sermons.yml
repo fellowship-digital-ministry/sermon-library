@@ -2,8 +2,8 @@ name: Transcribe and Embed Sermons
 
 on:
   schedule:
-    # Run once a week on Sunday at 2 AM UTC
-    - cron: '0 20 * * 1,4'
+    # Run every day at 2AM UTC
+    - cron: '0 7 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 # Add permissions block

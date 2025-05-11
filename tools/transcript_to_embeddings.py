@@ -2,10 +2,12 @@
 Generate embeddings from sermon transcripts and store them in Pinecone.
 CSV-driven approach: Uses video_list.csv as the source of truth.
 
-This script:
-1. Reads the video_list.csv file
-2. Only processes videos with 'processing_status' = 'processed'
-3. Updates the CSV with embedding status after processing
+Improvements:
+1. Better error handling
+2. More comprehensive logging
+3. Automatic retry functionality
+4. More robust CSV processing
+5. Additional monitoring capabilities
 """
 
 import os
@@ -13,10 +15,12 @@ import json
 import time
 import argparse
 import pandas as pd
-from typing import List, Dict, Tuple, Optional
+from typing import List, Dict, Tuple, Optional, Any
 import logging
 from datetime import datetime
 from tqdm import tqdm
+import sys
+import traceback
 
 import openai
 from pinecone import Pinecone, ServerlessSpec, CloudProvider
@@ -25,7 +29,10 @@ from pinecone import Pinecone, ServerlessSpec, CloudProvider
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename='embedding_processing.log'
+    handlers=[
+        logging.FileHandler("embedding_processing.log"),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 logger = logging.getLogger('sermon_embeddings')
 
@@ -38,6 +45,7 @@ EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", "250"))  # Number of words per chunk
 CHUNK_OVERLAP = int(os.environ.get("CHUNK_OVERLAP", "50"))  # Number of overlapping words between chunks
 BATCH_SIZE = int(os.environ.get("BATCH_SIZE", "10"))  # Number of embeddings to send at once
+MAX_RETRIES = int(os.environ.get("MAX_RETRIES", "3"))  # Maximum number of retry attempts
 
 def check_environment():
     """Verify required environment variables are set."""
@@ -59,30 +67,45 @@ def initialize_clients():
     
     # Check if index exists
     index_exists = False
-    for index in pc.list_indexes():
-        if index.name == PINECONE_INDEX_NAME:
-            index_exists = True
-            break
+    try:
+        for index in pc.list_indexes():
+            if index.name == PINECONE_INDEX_NAME:
+                index_exists = True
+                break
+    except Exception as e:
+        logger.error(f"Error checking Pinecone indexes: {e}")
+        raise
     
     # Create index if it doesn't exist
     if not index_exists:
         logger.info(f"Creating new Pinecone index: {PINECONE_INDEX_NAME}")
-        # Create a new index
-        index_config = pc.create_index(
-            name=PINECONE_INDEX_NAME,
-            dimension=1536,  # text-embedding-3-small uses 1536 dimensions
-            metric="cosine",
-            spec=ServerlessSpec(
-                cloud=CloudProvider.AWS,
-                region=PINECONE_ENVIRONMENT
+        try:
+            # Create a new index
+            index_config = pc.create_index(
+                name=PINECONE_INDEX_NAME,
+                dimension=1536,  # text-embedding-3-small uses 1536 dimensions
+                metric="cosine",
+                spec=ServerlessSpec(
+                    cloud=CloudProvider.AWS,
+                    region=PINECONE_ENVIRONMENT
+                )
             )
-        )
-        logger.info(f"Created new index with host: {index_config.host}")
+            logger.info(f"Created new index with host: {index_config.host}")
+        except Exception as e:
+            logger.error(f"Error creating Pinecone index: {e}")
+            raise
     
     # Connect to the index
-    pinecone_index = pc.Index(PINECONE_INDEX_NAME)
-    
-    return openai_client, pinecone_index
+    try:
+        pinecone_index = pc.Index(PINECONE_INDEX_NAME)
+        # Test the connection
+        stats = pinecone_index.describe_index_stats()
+        logger.info(f"Connected to Pinecone index. Vector count: {stats.get('total_vector_count', 'unknown')}")
+        
+        return openai_client, pinecone_index
+    except Exception as e:
+        logger.error(f"Error connecting to Pinecone index: {e}")
+        raise
 
 def load_video_list_csv(csv_path: str) -> pd.DataFrame:
     """
@@ -102,6 +125,19 @@ def load_video_list_csv(csv_path: str) -> pd.DataFrame:
             df['embeddings_status'] = 'pending'
             logger.info("Added 'embeddings_status' column to video list")
         
+        # Add embeddings_date column if it doesn't exist
+        if 'embeddings_date' not in df.columns:
+            df['embeddings_date'] = None
+            logger.info("Added 'embeddings_date' column to video list")
+            
+        # Add embeddings_count column if it doesn't exist
+        if 'embeddings_count' not in df.columns:
+            df['embeddings_count'] = 0
+            logger.info("Added 'embeddings_count' column to video list")
+            
+        # Ensure values are of the right types
+        df['embeddings_count'] = pd.to_numeric(df['embeddings_count'], errors='coerce').fillna(0).astype(int)
+        
         return df
     except Exception as e:
         logger.error(f"Error loading video list CSV: {e}")
@@ -110,6 +146,13 @@ def load_video_list_csv(csv_path: str) -> pd.DataFrame:
 def save_video_list_csv(df: pd.DataFrame, csv_path: str):
     """Save updated video list CSV"""
     try:
+        # Create a backup
+        backup_path = f"{csv_path}.bak"
+        if os.path.exists(csv_path):
+            import shutil
+            shutil.copy(csv_path, backup_path)
+            logger.info(f"Created backup of CSV at {backup_path}")
+        
         df.to_csv(csv_path, index=False)
         logger.info(f"Saved updated video list CSV with {len(df)} rows")
     except Exception as e:
@@ -149,8 +192,21 @@ def get_videos_needing_embeddings(df_videos: pd.DataFrame) -> List[Dict]:
 
 def load_transcript(file_path: str) -> Dict:
     """Load and parse a transcript JSON file."""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            
+        # Basic validation
+        if not isinstance(data, dict):
+            raise ValueError(f"Transcript file does not contain a JSON object: {file_path}")
+            
+        return data
+    except json.JSONDecodeError as e:
+        logger.error(f"Error parsing transcript JSON at {file_path}: {e}")
+        raise
+    except Exception as e:
+        logger.error(f"Error loading transcript from {file_path}: {e}")
+        raise
 
 def get_transcript_path(video_id: str, transcript_dir: str, csv_transcript_path: str = None) -> str:
     """Get the path to a transcript file, checking multiple possible locations"""
@@ -180,8 +236,11 @@ def extract_video_metadata(transcript: Dict, video_data: Dict) -> Dict:
     metadata = {}
     
     if os.path.exists(metadata_path):
-        with open(metadata_path, 'r', encoding='utf-8') as f:
-            metadata = json.load(f)
+        try:
+            with open(metadata_path, 'r', encoding='utf-8') as f:
+                metadata = json.load(f)
+        except Exception as e:
+            logger.warning(f"Could not load metadata file for {video_id}: {e}")
     
     # Use metadata from both sources, prioritizing CSV data
     return {
@@ -221,8 +280,8 @@ def chunk_transcript(transcript: Dict) -> List[Dict]:
     chunks = []
     current_chunk = {
         "text": "",
-        "start_time": segments[0]["start"],
-        "end_time": segments[0]["end"],
+        "start_time": segments[0]["start"] if segments else 0,
+        "end_time": segments[0]["end"] if segments else 0,
         "segment_ids": []
     }
     current_word_count = 0
@@ -262,7 +321,7 @@ def chunk_transcript(transcript: Dict) -> List[Dict]:
             current_chunk["text"] += " "
         current_chunk["text"] += segment_text
         current_chunk["end_time"] = segment["end"]
-        current_chunk["segment_ids"].append(segment["id"])
+        current_chunk["segment_ids"].append(segment.get("id", len(current_chunk["segment_ids"])))
         current_word_count += segment_word_count
     
     # Add the last chunk if it's not empty
@@ -282,23 +341,34 @@ def create_embeddings(client, text_chunks: List[str]) -> List[List[float]]:
     for i in range(0, len(text_chunks), BATCH_SIZE):
         batch = text_chunks[i:i + BATCH_SIZE]
         
-        try:
-            response = client.embeddings.create(
-                input=batch,
-                model=EMBEDDING_MODEL
-            )
-            
-            batch_embeddings = [item.embedding for item in response.data]
-            embeddings.extend(batch_embeddings)
-            
-            # Avoid rate limiting
-            if i + BATCH_SIZE < len(text_chunks):
-                time.sleep(0.5)
+        for retry in range(MAX_RETRIES):
+            try:
+                response = client.embeddings.create(
+                    input=batch,
+                    model=EMBEDDING_MODEL
+                )
                 
-        except Exception as e:
-            logger.error(f"Error generating embeddings for batch {i}: {str(e)}")
-            # Insert empty embeddings as placeholders
-            embeddings.extend([[] for _ in range(len(batch))])
+                batch_embeddings = [item.embedding for item in response.data]
+                embeddings.extend(batch_embeddings)
+                
+                # Avoid rate limiting
+                if i + BATCH_SIZE < len(text_chunks):
+                    time.sleep(0.5)
+                
+                # If successful, break the retry loop
+                break
+                
+            except Exception as e:
+                logger.error(f"Error generating embeddings for batch {i} (attempt {retry+1}/{MAX_RETRIES}): {str(e)}")
+                if retry < MAX_RETRIES - 1:
+                    # Wait longer between retries
+                    wait_time = (retry + 1) * 2
+                    logger.info(f"Waiting {wait_time} seconds before retrying...")
+                    time.sleep(wait_time)
+                else:
+                    # Insert empty embeddings as placeholders on last retry
+                    logger.error(f"Failed to generate embeddings after {MAX_RETRIES} attempts")
+                    embeddings.extend([[] for _ in range(len(batch))])
     
     return embeddings
 
@@ -326,7 +396,7 @@ def upload_to_pinecone(index, embeddings: List[List[float]], chunks: List[Dict],
             "text": chunk["text"],
             "start_time": chunk["start_time"],
             "end_time": chunk["end_time"],
-            "segment_ids": segment_ids,  # Now a list of strings
+            "segment_ids": segment_ids,
             "word_count": len(chunk["text"].split())
         }
         
@@ -337,27 +407,36 @@ def upload_to_pinecone(index, embeddings: List[List[float]], chunks: List[Dict],
         })
     
     # Log the number of vectors to upload
-    print(f"Preparing to upload {len(vectors)} vectors to Pinecone")
-    logger.info(f"Preparing to upload {len(vectors)} vectors to Pinecone")
+    logger.info(f"Preparing to upload {len(vectors)} vectors to Pinecone for {metadata['video_id']}")
     
     # Upload vectors in batches
     uploaded = 0
     for i in range(0, len(vectors), BATCH_SIZE):
         batch = vectors[i:i + BATCH_SIZE]
-        try:
-            print(f"Uploading batch {i//BATCH_SIZE + 1} of {(len(vectors) + BATCH_SIZE - 1)//BATCH_SIZE}")
-            index.upsert(vectors=batch)
-            uploaded += len(batch)
-            print(f"Successfully uploaded {uploaded}/{len(vectors)} vectors")
-            
-            # Avoid rate limiting
-            if i + BATCH_SIZE < len(vectors):
-                time.sleep(0.5)
+        for retry in range(MAX_RETRIES):
+            try:
+                logger.info(f"Uploading batch {i//BATCH_SIZE + 1} of {(len(vectors) + BATCH_SIZE - 1)//BATCH_SIZE}")
+                index.upsert(vectors=batch)
+                uploaded += len(batch)
+                logger.info(f"Successfully uploaded {uploaded}/{len(vectors)} vectors")
                 
-        except Exception as e:
-            error_message = f"Error uploading batch {i} to Pinecone: {str(e)}"
-            print(f"ERROR: {error_message}")
-            logger.error(error_message)
+                # Avoid rate limiting
+                if i + BATCH_SIZE < len(vectors):
+                    time.sleep(0.5)
+                
+                # If successful, break retry loop
+                break
+                
+            except Exception as e:
+                error_message = f"Error uploading batch {i} to Pinecone (attempt {retry+1}/{MAX_RETRIES}): {str(e)}"
+                logger.error(error_message)
+                if retry < MAX_RETRIES - 1:
+                    # Wait longer between retries
+                    wait_time = (retry + 1) * 2
+                    logger.info(f"Waiting {wait_time} seconds before retrying...")
+                    time.sleep(wait_time)
+                else:
+                    logger.error(f"Failed to upload batch after {MAX_RETRIES} attempts")
     
     return uploaded
 
@@ -435,6 +514,7 @@ def process_video(
         
     except Exception as e:
         logger.error(f"Error processing {video_id}: {str(e)}")
+        traceback.print_exc()
         return False, 0, 0
 
 def process_videos_from_csv(
@@ -448,6 +528,9 @@ def process_videos_from_csv(
     Returns total chunks and vectors uploaded.
     """
     try:
+        # Check environment
+        check_environment()
+        
         # Initialize clients
         openai_client, pinecone_index = initialize_clients()
         
@@ -496,14 +579,16 @@ def process_videos_from_csv(
             # Track totals
             total_chunks += chunks
             total_uploaded += uploaded
+            
+            # Save the CSV after each video to preserve progress
+            save_video_list_csv(df_videos, csv_path)
         
-        # Save the updated CSV
-        save_video_list_csv(df_videos, csv_path)
-        
+        logger.info(f"All videos processed. Generated {total_chunks} chunks and uploaded {total_uploaded} vectors.")
         return total_chunks, total_uploaded
         
     except Exception as e:
         logger.error(f"Error in batch processing: {str(e)}")
+        traceback.print_exc()
         return 0, 0
 
 def main():
@@ -519,7 +604,13 @@ def main():
                         help="Limit the number of videos to process")
     parser.add_argument("--api_key", type=str, default=None,
                         help="Pinecone API key (overrides environment variable)")
+    parser.add_argument("--verbose", action="store_true", default=False,
+                        help="Enable verbose logging")
     args = parser.parse_args()
+    
+    # Set log level based on verbose flag
+    if args.verbose:
+        logger.setLevel(logging.DEBUG)
     
     # Override environment variables with command line arguments if provided
     if args.api_key:

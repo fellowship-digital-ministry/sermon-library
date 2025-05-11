@@ -3,7 +3,7 @@ name: Transcribe and Embed Sermons
 on:
   schedule:
     # Run every day at 2AM UTC
-    - cron: '0 7 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 # Add permissions block
@@ -32,12 +32,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # Update to latest yt-dlp to handle 2025 YouTube changes
+          # Update to latest yt-dlp to handle YouTube changes
           pip install --upgrade yt-dlp
-          pip install pandas openai tqdm pydub
-          # Install the correct Pinecone package - new version
-          pip uninstall -y pinecone-client
-          pip install pinecone
+          # Install other dependencies
+          pip install pandas openai tqdm pydub requests
+          # Install Pinecone
+          pip install pinecone-client
       
       # Create cookies file from GitHub secret
       - name: Setup YouTube Cookies
@@ -49,6 +49,8 @@ jobs:
             echo "Warning: Cookies file is empty. This may cause authentication issues."
           else
             echo "Cookies file created successfully"
+            # Print cookies file stats without revealing content
+            wc -l $HOME/youtube_cookies.txt
           fi
         shell: bash
       
@@ -63,18 +65,26 @@ jobs:
           # Pass cookies location to the script
           YOUTUBE_COOKIES: $HOME/youtube_cookies.txt
         run: |
-          cd transcription
-          # Check if cookies file exists before running
-          if [ -f "$HOME/youtube_cookies.txt" ]; then
-            echo "Using cookies file for authentication"
+          # Output current time
+          date
+          echo "Starting sermon monitoring process"
+          
+          # Try running the improved monitoring script
+          python improved-youtube-monitor.py \
+            --channel "https://www.youtube.com/@chrismann9821" \
+            --process \
+            --embed \
+            --cookies "$HOME/youtube_cookies.txt"
+            
+          # Check if the script failed
+          if [ $? -ne 0 ]; then
+            echo "Improved script failed, falling back to original script"
+            cd transcription
             python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup --cookies "$HOME/youtube_cookies.txt"
-          else
-            echo "No cookies file found, running without authentication"
-            python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup
           fi
         shell: bash
       
-      # Add the embedding step here
+      # Add the embedding step here if not done in the monitoring script
       - name: Generate embeddings for new transcripts
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -84,7 +94,7 @@ jobs:
         run: |
           python tools/transcript_to_embeddings.py --skip_existing
       
-      # Add this new step to update metadata in Pinecone
+      # Add this step to update metadata in Pinecone
       - name: Update Pinecone metadata from JSON files
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -96,7 +106,6 @@ jobs:
           cp api/metadata_utils.py tools/
           
           # Run the metadata update script for only recent changes
-          # This ensures we only update metadata for newly processed sermons
           python api/update_pinecone_metadata.py --only-recent --days=7
       
       # Clean up cookies after use for security
@@ -113,9 +122,11 @@ jobs:
           git add transcription/data/transcripts/
           git add transcription/data/metadata/
           git add transcription/data/video_list.csv
+          git add sermon_monitor.log
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Add new sermon transcripts and subtitles [skip ci]"
+            git commit -m "Add new sermon transcripts and update embeddings [skip ci]"
             git push
           fi

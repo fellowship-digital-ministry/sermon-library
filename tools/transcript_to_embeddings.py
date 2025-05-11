@@ -1,18 +1,20 @@
 """
 Generate embeddings from sermon transcripts and store them in Pinecone.
-This script processes JSON transcript files, chunks them appropriately,
-and uploads the embeddings to Pinecone for semantic search.
+CSV-driven approach: Uses video_list.csv as the source of truth.
 
-Updated for Pinecone API v6.0+ without dotenv dependency
+This script:
+1. Reads the video_list.csv file
+2. Only processes videos with 'processing_status' = 'processed'
+3. Updates the CSV with embedding status after processing
 """
 
 import os
 import json
 import time
 import argparse
+import pandas as pd
 from typing import List, Dict, Tuple, Optional
 import logging
-import uuid
 from datetime import datetime
 from tqdm import tqdm
 
@@ -82,14 +84,96 @@ def initialize_clients():
     
     return openai_client, pinecone_index
 
+def load_video_list_csv(csv_path: str) -> pd.DataFrame:
+    """
+    Load the video_list.csv to determine which videos need embedding.
+    This is the source of truth for the system.
+    """
+    if not os.path.exists(csv_path):
+        logger.error(f"Video list CSV not found at {csv_path}")
+        raise FileNotFoundError(f"Video list CSV not found at {csv_path}")
+    
+    try:
+        df = pd.read_csv(csv_path)
+        logger.info(f"Loaded video list CSV with {len(df)} rows")
+        
+        # Add embeddings_status column if it doesn't exist
+        if 'embeddings_status' not in df.columns:
+            df['embeddings_status'] = 'pending'
+            logger.info("Added 'embeddings_status' column to video list")
+        
+        return df
+    except Exception as e:
+        logger.error(f"Error loading video list CSV: {e}")
+        raise
+
+def save_video_list_csv(df: pd.DataFrame, csv_path: str):
+    """Save updated video list CSV"""
+    try:
+        df.to_csv(csv_path, index=False)
+        logger.info(f"Saved updated video list CSV with {len(df)} rows")
+    except Exception as e:
+        logger.error(f"Error saving video list CSV: {e}")
+        raise
+
+def get_videos_needing_embeddings(df_videos: pd.DataFrame) -> List[Dict]:
+    """
+    Get list of videos that need embeddings based on CSV status
+    Returns list of video metadata dictionaries with all the information needed
+    """
+    # Get videos that are processed but don't have embeddings yet
+    videos_to_process = df_videos[
+        (df_videos['processing_status'] == 'processed') & 
+        ((df_videos['embeddings_status'] != 'completed') | 
+         (df_videos['embeddings_status'].isna()))
+    ]
+    
+    if videos_to_process.empty:
+        logger.info("No videos need embeddings processing")
+        return []
+    
+    logger.info(f"Found {len(videos_to_process)} videos needing embeddings")
+    
+    # Convert to list of dictionaries
+    videos_list = []
+    for _, row in videos_to_process.iterrows():
+        video_data = {
+            'video_id': row['video_id'],
+            'title': row['title'],
+            'transcript_path': row.get('transcript_path', ''),
+            'publish_date': row.get('publish_date', '')
+        }
+        videos_list.append(video_data)
+    
+    return videos_list
+
 def load_transcript(file_path: str) -> Dict:
     """Load and parse a transcript JSON file."""
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def extract_video_metadata(transcript: Dict) -> Dict:
-    """Extract metadata from the transcript."""
-    video_id = transcript.get('video_id', '')
+def get_transcript_path(video_id: str, transcript_dir: str, csv_transcript_path: str = None) -> str:
+    """Get the path to a transcript file, checking multiple possible locations"""
+    # First try the path from CSV if provided
+    if csv_transcript_path and os.path.exists(csv_transcript_path):
+        return csv_transcript_path
+    
+    # Try default location
+    default_path = os.path.join(transcript_dir, f"{video_id}.json")
+    if os.path.exists(default_path):
+        return default_path
+    
+    # Try alternative locations
+    alt_path = os.path.join("transcription", "data", "transcripts", f"{video_id}.json")
+    if os.path.exists(alt_path):
+        return alt_path
+    
+    # Not found
+    return None
+
+def extract_video_metadata(transcript: Dict, video_data: Dict) -> Dict:
+    """Extract metadata from the transcript and video data from CSV"""
+    video_id = transcript.get('video_id', video_data.get('video_id', ''))
     
     # If we have metadata files, we could load additional information here
     metadata_path = os.path.join('transcription', 'data', 'metadata', f"{video_id}.json")
@@ -99,15 +183,13 @@ def extract_video_metadata(transcript: Dict) -> Dict:
         with open(metadata_path, 'r', encoding='utf-8') as f:
             metadata = json.load(f)
     
-    # Extract publish date if available
-    publish_date = metadata.get('upload_date', datetime.now().strftime('%Y-%m-%d'))
-    
+    # Use metadata from both sources, prioritizing CSV data
     return {
         "video_id": video_id,
-        "title": metadata.get('title', f"Sermon {video_id}"),
+        "title": video_data.get('title') or metadata.get('title', f"Sermon {video_id}"),
         "channel": metadata.get('channel', 'Unknown'),
-        "publish_date": publish_date,
-        "url": f"https://www.youtube.com/watch?v={video_id}"
+        "publish_date": video_data.get('publish_date') or metadata.get('upload_date', datetime.now().strftime('%Y-%m-%d')),
+        "url": metadata.get('webpage_url') or f"https://www.youtube.com/watch?v={video_id}"
     }
 
 def chunk_transcript(transcript: Dict) -> List[Dict]:
@@ -220,10 +302,6 @@ def create_embeddings(client, text_chunks: List[str]) -> List[List[float]]:
     
     return embeddings
 
-"""
-Updated upload_to_pinecone function to fix the segment_ids metadata issue.
-"""
-
 def upload_to_pinecone(index, embeddings: List[List[float]], chunks: List[Dict], metadata: Dict) -> int:
     """
     Upload embeddings and metadata to Pinecone.
@@ -283,26 +361,65 @@ def upload_to_pinecone(index, embeddings: List[List[float]], chunks: List[Dict],
     
     return uploaded
 
-def process_transcript_file(file_path: str, openai_client, pinecone_index) -> Tuple[int, int]:
+def check_existing_embeddings(pinecone_index, video_id: str) -> bool:
+    """Check if embeddings already exist for this video"""
+    try:
+        # Query for any vectors with this video_id
+        response = pinecone_index.query(
+            vector=[0.0] * 1536,  # Dummy vector
+            filter={"video_id": video_id},
+            top_k=1,
+            include_metadata=False
+        )
+        # If we get any matches, embeddings exist
+        return len(response.matches) > 0
+    except Exception as e:
+        logger.warning(f"Error checking existing embeddings for {video_id}: {e}")
+        return False
+
+def process_video(
+    video_data: Dict, 
+    transcript_dir: str, 
+    openai_client, 
+    pinecone_index,
+    skip_existing: bool = True
+) -> Tuple[bool, int, int]:
     """
-    Process a single transcript file.
-    Returns the number of chunks and successfully uploaded vectors.
+    Process a single video's transcript and generate embeddings.
+    Returns success status, number of chunks, and number of vectors uploaded.
     """
-    logger.info(f"Processing transcript: {file_path}")
+    video_id = video_data['video_id']
+    logger.info(f"Processing video: {video_id} - {video_data['title']}")
+    
+    # Check if embeddings already exist
+    if skip_existing and check_existing_embeddings(pinecone_index, video_id):
+        logger.info(f"Skipping {video_id} - embeddings already exist in Pinecone")
+        return True, 0, 0
+    
+    # Get transcript path
+    transcript_path = get_transcript_path(
+        video_id, 
+        transcript_dir, 
+        video_data.get('transcript_path', '')
+    )
+    
+    if not transcript_path:
+        logger.warning(f"Transcript not found for video {video_id}")
+        return False, 0, 0
     
     try:
-        # Load and parse the transcript
-        transcript = load_transcript(file_path)
+        # Load transcript
+        transcript = load_transcript(transcript_path)
         
         # Extract metadata
-        metadata = extract_video_metadata(transcript)
+        metadata = extract_video_metadata(transcript, video_data)
         
         # Split transcript into chunks
         chunks = chunk_transcript(transcript)
         
         if not chunks:
-            logger.warning(f"No chunks generated for {file_path}")
-            return 0, 0
+            logger.warning(f"No chunks generated for {video_id}")
+            return False, 0, 0
         
         # Get just the text from each chunk for embedding
         texts = [chunk["text"] for chunk in chunks]
@@ -313,72 +430,75 @@ def process_transcript_file(file_path: str, openai_client, pinecone_index) -> Tu
         # Upload to Pinecone
         uploaded = upload_to_pinecone(pinecone_index, embeddings, chunks, metadata)
         
-        logger.info(f"Successfully processed {file_path}: {len(chunks)} chunks, {uploaded} vectors uploaded")
-        return len(chunks), uploaded
+        logger.info(f"Successfully processed {video_id}: {len(chunks)} chunks, {uploaded} vectors uploaded")
+        return True, len(chunks), uploaded
         
     except Exception as e:
-        logger.error(f"Error processing {file_path}: {str(e)}")
-        return 0, 0
+        logger.error(f"Error processing {video_id}: {str(e)}")
+        return False, 0, 0
 
-def process_all_transcripts(transcript_dir: str, skip_existing: bool = True, limit: Optional[int] = None) -> Tuple[int, int]:
+def process_videos_from_csv(
+    csv_path: str,
+    transcript_dir: str,
+    skip_existing: bool = True,
+    limit: Optional[int] = None
+) -> Tuple[int, int]:
     """
-    Process all transcript files in the specified directory.
-    Returns the total number of chunks and successfully uploaded vectors.
+    Process videos based on their status in the CSV file.
+    Returns total chunks and vectors uploaded.
     """
     try:
         # Initialize clients
         openai_client, pinecone_index = initialize_clients()
         
-        # Get list of processed IDs if we're skipping existing
-        processed_ids = set()
-        if skip_existing:
-            try:
-                # Query for existing IDs in Pinecone
-                stats = pinecone_index.describe_index_stats()
-                # We could query for all vectors but that might be expensive
-                # Instead, we'll use file modification time to decide what to process
-                logger.info(f"Index stats: {stats}")
-            except Exception as e:
-                logger.warning(f"Could not fetch index stats: {str(e)}")
+        # Load video list CSV
+        df_videos = load_video_list_csv(csv_path)
         
-        # Get all transcript files
-        file_paths = []
-        for file in os.listdir(transcript_dir):
-            if file.endswith('.json'):
-                file_path = os.path.join(transcript_dir, file)
-                file_paths.append(file_path)
+        # Get videos that need embeddings
+        videos_to_process = get_videos_needing_embeddings(df_videos)
         
-        # Sort by modification time (newest first)
-        file_paths.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+        if not videos_to_process:
+            logger.info("No videos need embeddings processing")
+            return 0, 0
         
         # Apply limit if specified
-        if limit and limit > 0:
-            file_paths = file_paths[:limit]
-            logger.info(f"Processing limited to {limit} files")
+        if limit and limit > 0 and len(videos_to_process) > limit:
+            logger.info(f"Limiting processing to {limit} videos")
+            videos_to_process = videos_to_process[:limit]
         
+        # Track totals
         total_chunks = 0
         total_uploaded = 0
         
-        # Process each file
-        for file_path in tqdm(file_paths, desc="Processing transcripts"):
-            video_id = os.path.basename(file_path).split('.')[0]
+        # Process each video
+        for video_data in tqdm(videos_to_process, desc="Processing videos"):
+            video_id = video_data['video_id']
             
-            # Skip if already processed and we're skipping existing
-            if skip_existing:
-                # Check file modification time
-                mod_time = os.path.getmtime(file_path)
-                # If file was modified in the last day, process it anyway
-                # This allows for reprocessing recent files with updated algorithms
-                is_recent = (time.time() - mod_time) < 86400  # 24 hours
-                
-                # If it's not recent and we've processed it before, skip
-                if not is_recent and any(vector_id.startswith(video_id) for vector_id in processed_ids):
-                    logger.info(f"Skipping already processed transcript: {video_id}")
-                    continue
+            # Process the video
+            success, chunks, uploaded = process_video(
+                video_data,
+                transcript_dir,
+                openai_client,
+                pinecone_index,
+                skip_existing
+            )
             
-            chunks, uploaded = process_transcript_file(file_path, openai_client, pinecone_index)
+            # Update the CSV regardless of success
+            if video_id in df_videos['video_id'].values:
+                idx = df_videos.index[df_videos['video_id'] == video_id].tolist()[0]
+                if success and uploaded > 0:
+                    df_videos.at[idx, 'embeddings_status'] = 'completed'
+                    df_videos.at[idx, 'embeddings_date'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    df_videos.at[idx, 'embeddings_count'] = uploaded
+                elif not success:
+                    df_videos.at[idx, 'embeddings_status'] = 'failed'
+            
+            # Track totals
             total_chunks += chunks
             total_uploaded += uploaded
+        
+        # Save the updated CSV
+        save_video_list_csv(df_videos, csv_path)
         
         return total_chunks, total_uploaded
         
@@ -389,12 +509,14 @@ def process_all_transcripts(transcript_dir: str, skip_existing: bool = True, lim
 def main():
     """Main entry point for the script."""
     parser = argparse.ArgumentParser(description="Generate embeddings from sermon transcripts")
+    parser.add_argument("--video_list_csv", type=str, default="./transcription/data/video_list.csv",
+                        help="Path to video_list.csv file")
     parser.add_argument("--transcript_dir", type=str, default="./transcription/data/transcripts",
                         help="Directory containing transcript JSON files")
     parser.add_argument("--skip_existing", action="store_true", default=True,
-                        help="Skip transcripts that have already been processed")
+                        help="Skip videos that already have embeddings in Pinecone")
     parser.add_argument("--limit", type=int, default=None,
-                        help="Limit the number of transcripts to process")
+                        help="Limit the number of videos to process")
     parser.add_argument("--api_key", type=str, default=None,
                         help="Pinecone API key (overrides environment variable)")
     args = parser.parse_args()
@@ -413,10 +535,13 @@ def main():
         return
     
     print(f"Starting transcript embedding process...")
+    print(f"Using video list CSV: {args.video_list_csv}")
+    print(f"Looking for transcripts in: {args.transcript_dir}")
     
-    # Process all transcripts
-    total_chunks, total_uploaded = process_all_transcripts(
-        args.transcript_dir, 
+    # Process videos based on CSV
+    total_chunks, total_uploaded = process_videos_from_csv(
+        args.video_list_csv,
+        args.transcript_dir,
         args.skip_existing,
         args.limit
     )

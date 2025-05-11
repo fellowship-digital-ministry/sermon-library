@@ -33,13 +33,83 @@ class SermonMonitor:
         if os.path.exists(self.video_list_file):
             try:
                 self.df_videos = pd.read_csv(self.video_list_file)
+                
+                # Check if required columns exist, add them if missing
+                # Based on your CSV, the columns are:
+                # video_id,title,description,publish_date,duration,view_count,like_count,url,thumbnail,processing_status,processing_date,transcript_path
+                required_columns = {
+                    'video_id': '',
+                    'title': '',
+                    'description': '',
+                    'publish_date': '',
+                    'duration': 0,
+                    'view_count': 0,
+                    'like_count': 0,
+                    'url': '',
+                    'thumbnail': '',
+                    'processing_status': 'pending',  # Key change: using processing_status instead of processed
+                    'processing_date': '',
+                    'transcript_path': ''
+                }
+                
+                existing_columns = list(self.df_videos.columns)
+                
+                for col, default_value in required_columns.items():
+                    if col not in existing_columns:
+                        logger.warning(f"Missing column '{col}' in CSV, adding with default values")
+                        self.df_videos[col] = default_value
+                
                 logger.info(f"Found {len(self.df_videos)} existing videos in CSV")
+                
             except pd.errors.EmptyDataError:
                 logger.warning("CSV file is empty, creating new DataFrame")
-                self.df_videos = pd.DataFrame(columns=['video_id', 'title', 'upload_date', 'processed', 'last_check'])
+                self.df_videos = self._create_empty_dataframe()
         else:
             logger.info("No existing video list found, creating new DataFrame")
-            self.df_videos = pd.DataFrame(columns=['video_id', 'title', 'upload_date', 'processed', 'last_check'])
+            self.df_videos = self._create_empty_dataframe()
+    
+    def _create_empty_dataframe(self):
+        """Create an empty DataFrame with the correct columns"""
+        columns = [
+            'video_id', 'title', 'description', 'publish_date', 'duration',
+            'view_count', 'like_count', 'url', 'thumbnail', 'processing_status',
+            'processing_date', 'transcript_path'
+        ]
+        return pd.DataFrame(columns=columns)
+    
+    def validate_cookies_file(self):
+        """Validate the cookies file format"""
+        if not self.cookies_path or not os.path.exists(self.cookies_path):
+            return False, "Cookies file not found"
+        
+        try:
+            with open(self.cookies_path, 'r') as f:
+                content = f.read().strip()
+                
+                # Check if it's empty
+                if not content:
+                    return False, "Cookies file is empty"
+                
+                # Basic validation for Netscape format
+                lines = content.split('\n')
+                netscape_header = "# Netscape HTTP Cookie File"
+                
+                # Check if it starts with the Netscape header (some exporters may omit this)
+                if lines[0].startswith('#') and len(lines) > 1:
+                    # Try to validate format by checking a non-comment line
+                    for line in lines:
+                        if not line.startswith('#') and line.strip():
+                            parts = line.split('\t')
+                            if len(parts) < 7:
+                                return False, f"Invalid cookie format. Expected 7 tab-separated values, got {len(parts)}"
+                            break
+                else:
+                    return False, "Cookies file doesn't appear to be in Netscape format. Make sure to export in 'Netscape HTTP Cookie File' format."
+                
+                return True, "Cookies file format appears valid"
+                
+        except Exception as e:
+            return False, f"Error validating cookies file: {e}"
     
     def get_channel_videos(self, max_videos=50):
         """Get recent videos from YouTube channel using yt-dlp"""
@@ -51,20 +121,36 @@ class SermonMonitor:
             '--no-download'
         ]
         
-        # Add cookies if available
-        if self.cookies_path and os.path.exists(self.cookies_path):
-            cmd.extend(['--cookies', self.cookies_path])
-            logger.info(f"Using cookies from: {self.cookies_path}")
+        # Add cookies if available and valid
+        if self.cookies_path:
+            is_valid, msg = self.validate_cookies_file()
+            if is_valid:
+                cmd.extend(['--cookies', self.cookies_path])
+                logger.info(f"Using cookies from: {self.cookies_path}")
+            else:
+                logger.warning(f"Cookies validation failed: {msg}")
+                logger.warning("Proceeding without cookies - may encounter rate limits")
         else:
-            logger.warning("No cookies file provided or file not found")
+            logger.warning("No cookies file provided")
         
         cmd.append(self.channel_url)
         
         try:
-            result = subprocess.run(cmd, capture_output=True, text=True)
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
             
             if result.returncode != 0:
                 logger.error(f"Error fetching channel videos: {result.stderr}")
+                
+                # Check for specific error messages and provide helpful suggestions
+                if "does not look like a Netscape format cookies file" in result.stderr:
+                    logger.error("\n🔍 Cookie Format Problem:")
+                    logger.error("   Your cookies file is not in the correct format.")
+                    logger.error("   Please export cookies using one of these methods:")
+                    logger.error("   1. Firefox: Use 'cookies.txt' extension by Lennon Hill")
+                    logger.error("   2. Chrome: Use 'Get cookies.txt LOCALLY' extension")
+                    logger.error("   3. Make sure to export in 'Netscape HTTP Cookie File' format")
+                    logger.error("   4. The file should start with '# Netscape HTTP Cookie File'")
+                
                 return []
             
             videos = []
@@ -79,6 +165,9 @@ class SermonMonitor:
             logger.info(f"Found {len(videos)} videos from channel")
             return videos
             
+        except subprocess.TimeoutExpired:
+            logger.error("Timeout fetching channel videos (60 seconds)")
+            return []
         except Exception as e:
             logger.error(f"Error getting channel videos: {e}")
             return []
@@ -94,7 +183,7 @@ class SermonMonitor:
         cmd.append(f'https://www.youtube.com/watch?v={video_id}')
         
         try:
-            result = subprocess.run(cmd, capture_output=True, text=True)
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
             
             if result.returncode == 0:
                 return json.loads(result.stdout)
@@ -105,6 +194,9 @@ class SermonMonitor:
                     logger.error("Authentication required. Please ensure cookies are properly configured.")
                 return None
                 
+        except subprocess.TimeoutExpired:
+            logger.error(f"Timeout getting details for video {video_id}")
+            return None
         except Exception as e:
             logger.error(f"Error getting details for video {video_id}: {e}")
             return None
@@ -118,7 +210,7 @@ class SermonMonitor:
         
         if not recent_videos:
             logger.warning("No videos found from channel")
-            return
+            return []
         
         # Track new videos
         new_videos = []
@@ -140,18 +232,22 @@ class SermonMonitor:
                     new_video = {
                         'video_id': video_id,
                         'title': video_details.get('title', 'Unknown'),
-                        'upload_date': video_details.get('upload_date', ''),
-                        'processed': False,
-                        'last_check': current_time
+                        'description': video_details.get('description', ''),
+                        'publish_date': video_details.get('upload_date', ''),
+                        'duration': video_details.get('duration', 0),
+                        'view_count': video_details.get('view_count', 0),
+                        'like_count': video_details.get('like_count', 0),
+                        'url': video_details.get('webpage_url', f'https://www.youtube.com/watch?v={video_id}'),
+                        'thumbnail': video_details.get('thumbnail', ''),
+                        'processing_status': 'pending',  # Use processing_status instead of processed
+                        'processing_date': '',
+                        'transcript_path': ''
                     }
                     new_videos.append(new_video)
                     
                     # Add to DataFrame
                     new_df = pd.DataFrame([new_video])
                     self.df_videos = pd.concat([self.df_videos, new_df], ignore_index=True)
-            else:
-                # Update last_check for existing video
-                self.df_videos.loc[self.df_videos['video_id'] == video_id, 'last_check'] = current_time
         
         # Save updated CSV
         self.df_videos.to_csv(self.video_list_file, index=False)
@@ -167,7 +263,17 @@ class SermonMonitor:
     
     def process_unprocessed_videos(self):
         """Process videos that haven't been processed yet"""
-        unprocessed = self.df_videos[self.df_videos['processed'] == False]
+        # Check for unprocessed videos using processing_status
+        try:
+            # Videos with status 'pending' or empty need processing
+            unprocessed = self.df_videos[
+                (self.df_videos['processing_status'] == 'pending') | 
+                (self.df_videos['processing_status'] == '') |
+                (self.df_videos['processing_status'].isna())
+            ]
+        except KeyError:
+            logger.error("Missing 'processing_status' column. Creating empty DataFrame...")
+            unprocessed = pd.DataFrame()
         
         if unprocessed.empty:
             logger.info("No unprocessed videos found")

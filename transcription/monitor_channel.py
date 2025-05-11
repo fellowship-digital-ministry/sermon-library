@@ -5,11 +5,7 @@ YouTube channel monitoring script for sermon transcription pipeline.
 This script checks for new videos on a YouTube channel, adds them to the video list CSV,
 and processes them through the transcription pipeline.
 
-Improvements:
-1. More robust video fetching with retries
-2. Better error handling
-3. Improved logging
-4. More reliable detection of new videos
+This version is designed to work without requiring cookies, which simplifies the process.
 """
 import argparse
 import csv
@@ -34,16 +30,11 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None) -> Tuple[bool, str]:
+def run_yt_dlp(args: List[str]) -> Tuple[bool, str]:
     """Run yt-dlp with given arguments and return output"""
     try:
         # Build the full command
         command = ["yt-dlp"] + args
-        
-        # Add cookies if provided
-        if cookies_file and os.path.exists(cookies_file):
-            command.extend(["--cookies", cookies_file])
-            logger.info(f"Using cookies from {cookies_file}")
         
         logger.info(f"Running command: {' '.join(command)}")
         
@@ -66,7 +57,7 @@ def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None) -> Tuple[boo
         logger.error(f"Error running yt-dlp: {e}")
         return False, str(e)
 
-def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None) -> List[Dict]:
+def fetch_channel_videos(channel_url: str) -> List[Dict]:
     """Fetch videos from the channel using yt-dlp with retries"""
     # Arguments for yt-dlp to get channel metadata in JSON format
     args = [
@@ -80,7 +71,7 @@ def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None) -
     # Try up to 3 times
     for attempt in range(3):
         try:
-            success, output = run_yt_dlp(args, cookies_file)
+            success, output = run_yt_dlp(args)
             
             if not success:
                 logger.warning(f"Attempt {attempt+1}/3 failed, retrying in 10 seconds...")
@@ -109,7 +100,7 @@ def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None) -
     logger.error("Failed to fetch channel videos after 3 attempts")
     return []
 
-def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Optional[Dict]:
+def get_video_details(video_id: str) -> Optional[Dict]:
     """Get detailed metadata for a specific video with retries"""
     args = [
         "--dump-json",
@@ -118,7 +109,7 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
     
     # Try up to 3 times
     for attempt in range(3):
-        success, output = run_yt_dlp(args, cookies_file)
+        success, output = run_yt_dlp(args)
         
         if not success:
             logger.error(f"Failed to get details for video {video_id} (attempt {attempt+1}/3)")
@@ -195,14 +186,13 @@ def save_video_list(videos: Dict[str, Dict], columns: List[str], csv_path: str):
     except Exception as e:
         logger.error(f"Error saving to CSV file: {e}")
 
-def check_for_new_videos(channel_url: str, csv_path: str, cookies_file: Optional[str] = None) -> List[str]:
+def check_for_new_videos(channel_url: str, csv_path: str) -> List[str]:
     """
     Check for new videos on a YouTube channel and add them to the CSV.
     
     Args:
         channel_url: URL of the YouTube channel
         csv_path: Path to the video list CSV file
-        cookies_file: Optional path to cookies file for authenticated requests
         
     Returns:
         List of new video IDs
@@ -213,7 +203,7 @@ def check_for_new_videos(channel_url: str, csv_path: str, cookies_file: Optional
     existing_videos, columns = load_video_list(csv_path)
     
     # Fetch videos from channel
-    channel_videos = fetch_channel_videos(channel_url, cookies_file)
+    channel_videos = fetch_channel_videos(channel_url)
     
     if not channel_videos:
         logger.warning("No videos found or error fetching channel")
@@ -233,7 +223,7 @@ def check_for_new_videos(channel_url: str, csv_path: str, cookies_file: Optional
             logger.info(f"Found new video: {video_id} - {video.get('title', 'Unknown Title')}")
             
             # Get detailed info
-            detailed_info = get_video_details(video_id, cookies_file)
+            detailed_info = get_video_details(video_id)
             
             if not detailed_info:
                 logger.warning(f"Could not get detailed info for video {video_id}, skipping")
@@ -328,7 +318,7 @@ if __name__ == "__main__":
     parser.add_argument("--channel", required=True, help="YouTube channel URL")
     parser.add_argument("--output-dir", default="data", help="Output directory for data")
     parser.add_argument("--csv-file", help="Path to video list CSV (default: output-dir/video_list.csv)")
-    parser.add_argument("--cookies", help="Path to YouTube cookies file")
+    parser.add_argument("--cookies", help="Path to YouTube cookies file (not used in this version)")
     parser.add_argument("--process", action="store_true", help="Process new videos immediately")
     parser.add_argument("--cleanup", action="store_true", help="Delete audio files after processing")
     
@@ -338,8 +328,8 @@ if __name__ == "__main__":
     if not args.csv_file:
         args.csv_file = os.path.join(args.output_dir, "video_list.csv")
     
-    # Check for new videos
-    new_videos = check_for_new_videos(args.channel, args.csv_file, args.cookies)
+    # Check for new videos (ignoring cookies parameter)
+    new_videos = check_for_new_videos(args.channel, args.csv_file)
     
     # Process if requested and new videos found
     if args.process and new_videos:

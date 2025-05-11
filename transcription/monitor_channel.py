@@ -110,32 +110,64 @@ def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None) -
     return []
 
 def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Optional[Dict]:
-    """Get detailed metadata for a specific video with retries"""
+    """Get detailed metadata for a specific video with enhanced anti-bot detection"""
+    
+    # Add more robust user-agent and headers
     args = [
         "--dump-json",
-        f"https://www.youtube.com/watch?v={video_id}"
+        f"https://www.youtube.com/watch?v={video_id}",
+        "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "--add-header", "Accept-Language:en-US,en;q=0.9",
+        "--sleep-interval", "3", "--max-sleep-interval", "6"
     ]
     
-    # Try up to 3 times
+    # Try up to 3 times with increasing delays between attempts
     for attempt in range(3):
+        # Use cookies file if provided
         success, output = run_yt_dlp(args, cookies_file)
         
-        if not success:
+        if success:
+            try:
+                video_info = json.loads(output)
+                return video_info
+            except json.JSONDecodeError:
+                logger.error(f"Could not parse JSON for video {video_id}")
+        else:
             logger.error(f"Failed to get details for video {video_id} (attempt {attempt+1}/3)")
-            if attempt < 2:
-                time.sleep(5)
-                continue
-            return None
         
-        try:
-            video_info = json.loads(output)
-            return video_info
-        except json.JSONDecodeError:
-            logger.error(f"Could not parse JSON for video {video_id}")
-            if attempt < 2:
-                time.sleep(5)
-                continue
-            return None
+        # Wait longer between retries
+        wait_time = (attempt + 1) * 5
+        logger.info(f"Waiting {wait_time} seconds before retry")
+        time.sleep(wait_time)
+    
+    # If all attempts failed, try downloading just the audio without metadata
+    # This is often more reliable than getting the metadata
+    logger.warning(f"All metadata attempts failed for {video_id}, trying direct audio download")
+    try:
+        audio_args = [
+            "-x",  # Extract audio
+            "--audio-format", "mp3",
+            "--audio-quality", "0",  # Best quality
+            "-o", f"data/audio/{video_id}.%(ext)s",
+            f"https://www.youtube.com/watch?v={video_id}",
+            "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "--add-header", "Accept-Language:en-US,en;q=0.9"
+        ]
+        
+        success, _ = run_yt_dlp(audio_args, cookies_file)
+        if success:
+            # Create minimal metadata since we couldn't get full details
+            return {
+                "video_id": video_id,
+                "title": f"Unknown Title ({video_id})",
+                "description": "",
+                "upload_date": datetime.now().strftime('%Y%m%d'),
+                "duration": 0,
+                "view_count": 0,
+                "like_count": 0
+            }
+    except Exception as e:
+        logger.error(f"Direct audio download failed: {e}")
     
     return None
 

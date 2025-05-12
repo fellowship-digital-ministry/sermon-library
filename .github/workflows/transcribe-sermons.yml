@@ -57,12 +57,12 @@ jobs:
           # Create output directories
           mkdir -p transcription/data/audio
           
-          # Run the monitoring script with YouTube API
+          # Run the monitoring script with YouTube API - using direct channel ID
           cd transcription
           python monitor_channel.py \
             --youtube-api \
             --api-key "$YOUTUBE_API_KEY" \
-            --channel "@chrismann9821" \
+            --channel-id "UCek_LI7dZopFJEvwxDnovJg" \
             --max 5 \
             --process \
             --cleanup

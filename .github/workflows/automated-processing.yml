@@ -1,0 +1,110 @@
+name: Sermon Processing Pipeline
+
+on:
+  # Run on a schedule (every day at 2:00 AM UTC)
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Allow manual triggering from the GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force reprocessing of existing files'
+        type: boolean
+        default: false
+      max_videos:
+        description: 'Maximum number of videos to check'
+        type: number
+        default: 5
+      channel_id:
+        description: 'YouTube channel ID (leave blank for default)'
+        type: string
+        required: false
+
+jobs:
+  process-sermons:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        
+        # Install required Python packages
+        pip install pandas openai pinecone-client tqdm requests pytube
+        
+        # Install additional tools
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+        pip install yt-dlp
+
+    - name: Set up YouTube cookies
+      run: |
+        echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
+      
+    - name: Set up environment variables
+      run: |
+        echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+        echo "PINECONE_API_KEY=${{ secrets.PINECONE_API_KEY }}" >> $GITHUB_ENV
+        echo "PINECONE_ENVIRONMENT=${{ secrets.PINECONE_ENVIRONMENT }}" >> $GITHUB_ENV
+        echo "PINECONE_INDEX_NAME=sermon-embeddings" >> $GITHUB_ENV
+        echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
+        
+    - name: Run sermon processing pipeline
+      run: |
+        # Create the sermon_pipeline.py script if it doesn't exist
+        if [ ! -f "sermon_pipeline.py" ]; then
+          curl -s https://raw.githubusercontent.com/fellowship-digital-ministry/sermon-library/main/sermon_pipeline.py -o sermon_pipeline.py || echo "#!/usr/bin/env python3" > sermon_pipeline.py
+          chmod +x sermon_pipeline.py
+        fi
+        
+        # Determine channel ID to use
+        CHANNEL_ID="${{ github.event.inputs.channel_id }}"
+        if [ -z "$CHANNEL_ID" ]; then
+          CHANNEL_ID="UCek_LI7dZopFJEvwxDnovJg"  # Default channel ID for Fellowship Baptist Church
+        fi
+        
+        # Run the pipeline
+        python sermon_pipeline.py \
+          --channel "$CHANNEL_ID" \
+          --cookies youtube_cookies.txt \
+          --max ${{ github.event.inputs.max_videos || 5 }} \
+          ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+          
+    - name: Upload processed data as artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: transcription-data
+        path: |
+          transcription/data/transcripts/
+          transcription/data/metadata/
+          transcription/data/subtitles/
+          transcription/data/bible_references/
+          transcription/data/video_list.csv
+        retention-days: 7
+
+    - name: Commit changes
+      if: ${{ success() }}
+      run: |
+        git config --local user.email "github-actions@github.com"
+        git config --local user.name "GitHub Actions"
+        
+        git add transcription/data/
+        
+        # Only commit if there are changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update sermon data [skip ci]"
+          git push
+        fi

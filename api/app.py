@@ -992,8 +992,7 @@ async def get_book_references(book: str):
         
         # Sort verses within each chapter
         for chapter_key, chapter_refs in chapters.items():
-            chapter_refs.sort(key=lambda x: (x.get("verse", 0) or 0))
-        
+            chapter_refs.sort(key=lambda x: int(x.get("verse", 0) or 0))
         return {
             "book": book,
             "total_references": len(enhanced_references),

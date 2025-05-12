@@ -990,10 +990,25 @@ async def get_book_references(book: str):
             chapter_key = str(ref.get("chapter", "unknown"))
             chapters[chapter_key].append(ref)
         
-        # Sort verses within each chapter - handle verse ranges
+        # Sort verses within each chapter - handle different verse formats
         for chapter_key, chapter_refs in chapters.items():
-            # Sort by the first number in the verse (in case of ranges like "1-12")
-            chapter_refs.sort(key=lambda x: int(x.get("verse", "0").split('-')[0] or 0))
+            # Define a custom sorting function that handles different verse formats
+            def verse_sort_key(ref):
+                verse = ref.get("verse", 0)
+                if verse is None:
+                    return 0
+                    
+                # Convert to string if it's not already
+                verse_str = str(verse)
+                
+                # Get the first number in case of ranges
+                if '-' in verse_str:
+                    return int(verse_str.split('-')[0])
+                else:
+                    return int(verse_str or 0)
+            
+            # Sort using our custom function
+            chapter_refs.sort(key=verse_sort_key)
         
         return {
             "book": book,

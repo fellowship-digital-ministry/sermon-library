@@ -27,23 +27,19 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
       with:
         token: ${{ secrets.PAT_TOKEN }}
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v2
       with:
         python-version: '3.10'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        
-        # Install required Python packages
         pip install pandas openai pinecone-client tqdm requests pytube
-        
-        # Install additional tools
         sudo apt-get update
         sudo apt-get install -y ffmpeg
         pip install yt-dlp
@@ -60,14 +56,205 @@ jobs:
         echo "PINECONE_INDEX_NAME=sermon-embeddings" >> $GITHUB_ENV
         echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
         
+    - name: Create sermon pipeline script
+      run: |
+        echo '#!/usr/bin/env python3' > sermon_pipeline.py
+        echo '"""' >> sermon_pipeline.py
+        echo 'Sermon Processing Pipeline' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'This script orchestrates the complete sermon processing pipeline:' >> sermon_pipeline.py
+        echo '1. Monitor YouTube channel for new videos' >> sermon_pipeline.py
+        echo '2. Process and transcribe new videos' >> sermon_pipeline.py
+        echo '3. Convert transcripts to SRT format' >> sermon_pipeline.py
+        echo '4. Extract Bible references' >> sermon_pipeline.py
+        echo '5. Generate embeddings for search' >> sermon_pipeline.py
+        echo '"""' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'import os' >> sermon_pipeline.py
+        echo 'import sys' >> sermon_pipeline.py
+        echo 'import argparse' >> sermon_pipeline.py
+        echo 'import subprocess' >> sermon_pipeline.py
+        echo 'import logging' >> sermon_pipeline.py
+        echo 'import time' >> sermon_pipeline.py
+        echo 'from datetime import datetime' >> sermon_pipeline.py
+        echo 'from pathlib import Path' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo '# Set up logging' >> sermon_pipeline.py
+        echo 'logging.basicConfig(' >> sermon_pipeline.py
+        echo '    level=logging.INFO,' >> sermon_pipeline.py
+        echo '    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",' >> sermon_pipeline.py
+        echo '    handlers=[' >> sermon_pipeline.py
+        echo '        logging.FileHandler("sermon_pipeline.log"),' >> sermon_pipeline.py
+        echo '        logging.StreamHandler()' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo ')' >> sermon_pipeline.py
+        echo 'logger = logging.getLogger("sermon_pipeline")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo '# Default paths' >> sermon_pipeline.py
+        echo 'DATA_DIR = "transcription/data"' >> sermon_pipeline.py
+        echo 'VIDEO_LIST_CSV = os.path.join(DATA_DIR, "video_list.csv")' >> sermon_pipeline.py
+        echo 'TRANSCRIPT_DIR = os.path.join(DATA_DIR, "transcripts")' >> sermon_pipeline.py
+        echo 'METADATA_DIR = os.path.join(DATA_DIR, "metadata")' >> sermon_pipeline.py
+        echo 'SUBTITLES_DIR = os.path.join(DATA_DIR, "subtitles")' >> sermon_pipeline.py
+        echo 'BIBLE_REFERENCES_DIR = os.path.join(DATA_DIR, "bible_references")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def ensure_directories_exist():' >> sermon_pipeline.py
+        echo '    """Create all necessary directories if they don\'t exist"""' >> sermon_pipeline.py
+        echo '    for directory in [DATA_DIR, TRANSCRIPT_DIR, METADATA_DIR, SUBTITLES_DIR, BIBLE_REFERENCES_DIR]:' >> sermon_pipeline.py
+        echo '        os.makedirs(directory, exist_ok=True)' >> sermon_pipeline.py
+        echo '        logger.info(f"Ensured directory exists: {directory}")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def run_command(cmd, description):' >> sermon_pipeline.py
+        echo '    """Run a command and log output"""' >> sermon_pipeline.py
+        echo '    logger.info(f"Starting: {description}")' >> sermon_pipeline.py
+        echo '    logger.info(f"Running command: {\" \".join(cmd)}")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    try:' >> sermon_pipeline.py
+        echo '        start_time = time.time()' >> sermon_pipeline.py
+        echo '        result = subprocess.run(cmd, check=True, capture_output=True, text=True)' >> sermon_pipeline.py
+        echo '        duration = time.time() - start_time' >> sermon_pipeline.py
+        echo '        ' >> sermon_pipeline.py
+        echo '        logger.info(f"Command output: {result.stdout}")' >> sermon_pipeline.py
+        echo '        if result.stderr:' >> sermon_pipeline.py
+        echo '            logger.warning(f"Command stderr: {result.stderr}")' >> sermon_pipeline.py
+        echo '        ' >> sermon_pipeline.py
+        echo '        logger.info(f"Completed: {description} in {duration:.2f} seconds")' >> sermon_pipeline.py
+        echo '        return True' >> sermon_pipeline.py
+        echo '    except subprocess.CalledProcessError as e:' >> sermon_pipeline.py
+        echo '        logger.error(f"Command failed with code {e.returncode}: {e.stderr}")' >> sermon_pipeline.py
+        echo '        return False' >> sermon_pipeline.py
+        echo '    except Exception as e:' >> sermon_pipeline.py
+        echo '        logger.error(f"Error executing command: {str(e)}")' >> sermon_pipeline.py
+        echo '        return False' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def step1_monitor_channel(channel_id, cookies_file=None, max_videos=5):' >> sermon_pipeline.py
+        echo '    """Step 1: Monitor YouTube channel for new videos"""' >> sermon_pipeline.py
+        echo '    cmd = [' >> sermon_pipeline.py
+        echo '        "python", "transcription/monitor_channel.py",' >> sermon_pipeline.py
+        echo '        "--channel-id", channel_id,' >> sermon_pipeline.py
+        echo '        "--output-dir", DATA_DIR,' >> sermon_pipeline.py
+        echo '        "--csv-file", VIDEO_LIST_CSV,' >> sermon_pipeline.py
+        echo '        "--max", str(max_videos)' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    if cookies_file:' >> sermon_pipeline.py
+        echo '        cmd.extend(["--cookies", cookies_file])' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    return run_command(cmd, "Monitoring YouTube channel for new videos")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def step2_process_videos(cookies_file=None, force=False):' >> sermon_pipeline.py
+        echo '    """Step 2: Process and transcribe new videos"""' >> sermon_pipeline.py
+        echo '    cmd = [' >> sermon_pipeline.py
+        echo '        "python", "transcription/process_batch.py",' >> sermon_pipeline.py
+        echo '        "--csv", VIDEO_LIST_CSV,' >> sermon_pipeline.py
+        echo '        "--full"' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    if cookies_file:' >> sermon_pipeline.py
+        echo '        cmd.extend(["--cookies", cookies_file])' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    if force:' >> sermon_pipeline.py
+        echo '        cmd.append("--force")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    return run_command(cmd, "Processing and transcribing videos")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def step3_convert_to_srt():' >> sermon_pipeline.py
+        echo '    """Step 3: Convert JSON transcripts to SRT format"""' >> sermon_pipeline.py
+        echo '    cmd = [' >> sermon_pipeline.py
+        echo '        "python", "transcription/json_to_srt.py",' >> sermon_pipeline.py
+        echo '        "--input", TRANSCRIPT_DIR,' >> sermon_pipeline.py
+        echo '        "--output", SUBTITLES_DIR' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    return run_command(cmd, "Converting transcripts to SRT format")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def step4_extract_bible_references():' >> sermon_pipeline.py
+        echo '    """Step 4: Extract Bible references from transcripts"""' >> sermon_pipeline.py
+        echo '    cmd = [' >> sermon_pipeline.py
+        echo '        "python", "tools/bible_reference_extractor.py",' >> sermon_pipeline.py
+        echo '        "--input-dir", TRANSCRIPT_DIR,' >> sermon_pipeline.py
+        echo '        "--output-dir", BIBLE_REFERENCES_DIR' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    return run_command(cmd, "Extracting Bible references from transcripts")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def step5_generate_embeddings():' >> sermon_pipeline.py
+        echo '    """Step 5: Generate embeddings for search"""' >> sermon_pipeline.py
+        echo '    cmd = [' >> sermon_pipeline.py
+        echo '        "python", "tools/transcript_to_embeddings.py",' >> sermon_pipeline.py
+        echo '        "--video_list_csv", VIDEO_LIST_CSV,' >> sermon_pipeline.py
+        echo '        "--transcript_dir", TRANSCRIPT_DIR,' >> sermon_pipeline.py
+        echo '        "--verbose"' >> sermon_pipeline.py
+        echo '    ]' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    return run_command(cmd, "Generating embeddings for search")' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'def run_pipeline(channel_id, cookies_file=None, force=False, max_videos=5):' >> sermon_pipeline.py
+        echo '    """Run the full pipeline"""' >> sermon_pipeline.py
+        echo '    ensure_directories_exist()' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    start_time = time.time()' >> sermon_pipeline.py
+        echo '    logger.info(f"Starting sermon processing pipeline at {datetime.now().isoformat()}")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Step 1: Monitor channel for new videos' >> sermon_pipeline.py
+        echo '    if not step1_monitor_channel(channel_id, cookies_file, max_videos):' >> sermon_pipeline.py
+        echo '        logger.error("Failed to monitor channel, stopping pipeline")' >> sermon_pipeline.py
+        echo '        return False' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Step 2: Process and transcribe videos' >> sermon_pipeline.py
+        echo '    if not step2_process_videos(cookies_file, force):' >> sermon_pipeline.py
+        echo '        logger.error("Failed to process videos, stopping pipeline")' >> sermon_pipeline.py
+        echo '        return False' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Step 3: Convert transcripts to SRT' >> sermon_pipeline.py
+        echo '    if not step3_convert_to_srt():' >> sermon_pipeline.py
+        echo '        logger.error("Failed to convert transcripts to SRT, continuing anyway")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Step 4: Extract Bible references' >> sermon_pipeline.py
+        echo '    if not step4_extract_bible_references():' >> sermon_pipeline.py
+        echo '        logger.error("Failed to extract Bible references, continuing anyway")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Step 5: Generate embeddings' >> sermon_pipeline.py
+        echo '    if not step5_generate_embeddings():' >> sermon_pipeline.py
+        echo '        logger.error("Failed to generate embeddings, pipeline incomplete")' >> sermon_pipeline.py
+        echo '        return False' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    duration = time.time() - start_time' >> sermon_pipeline.py
+        echo '    logger.info(f"Completed sermon processing pipeline in {duration:.2f} seconds")' >> sermon_pipeline.py
+        echo '    return True' >> sermon_pipeline.py
+        echo '' >> sermon_pipeline.py
+        echo 'if __name__ == "__main__":' >> sermon_pipeline.py
+        echo '    parser = argparse.ArgumentParser(description="Run the complete sermon processing pipeline")' >> sermon_pipeline.py
+        echo '    parser.add_argument("--channel", default="UCek_LI7dZopFJEvwxDnovJg", ' >> sermon_pipeline.py
+        echo '                      help="YouTube channel ID (default: Fellowship Baptist Church)")' >> sermon_pipeline.py
+        echo '    parser.add_argument("--cookies", help="Path to YouTube cookies file for authentication")' >> sermon_pipeline.py
+        echo '    parser.add_argument("--force", action="store_true", help="Force reprocessing of files")' >> sermon_pipeline.py
+        echo '    parser.add_argument("--max", type=int, default=5, help="Maximum number of recent videos to check")' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    args = parser.parse_args()' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    # Find cookies file if not specified' >> sermon_pipeline.py
+        echo '    if not args.cookies:' >> sermon_pipeline.py
+        echo '        potential_files = ["youtube_cookies.txt", "cookies.txt"]' >> sermon_pipeline.py
+        echo '        for file in potential_files:' >> sermon_pipeline.py
+        echo '            if os.path.exists(file):' >> sermon_pipeline.py
+        echo '                args.cookies = file' >> sermon_pipeline.py
+        echo '                logger.info(f"Found cookies file: {file}")' >> sermon_pipeline.py
+        echo '                break' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    success = run_pipeline(' >> sermon_pipeline.py
+        echo '        channel_id=args.channel,' >> sermon_pipeline.py
+        echo '        cookies_file=args.cookies,' >> sermon_pipeline.py
+        echo '        force=args.force,' >> sermon_pipeline.py
+        echo '        max_videos=args.max' >> sermon_pipeline.py
+        echo '    )' >> sermon_pipeline.py
+        echo '    ' >> sermon_pipeline.py
+        echo '    sys.exit(0 if success else 1)' >> sermon_pipeline.py
+        
+        chmod +x sermon_pipeline.py
+    
     - name: Run sermon processing pipeline
       run: |
-        # Create the sermon_pipeline.py script if it doesn't exist
-        if [ ! -f "sermon_pipeline.py" ]; then
-          curl -s https://raw.githubusercontent.com/fellowship-digital-ministry/sermon-library/main/sermon_pipeline.py -o sermon_pipeline.py || echo "#!/usr/bin/env python3" > sermon_pipeline.py
-          chmod +x sermon_pipeline.py
-        fi
-        
         # Determine channel ID to use
         CHANNEL_ID="${{ github.event.inputs.channel_id }}"
         if [ -z "$CHANNEL_ID" ]; then
@@ -81,18 +268,17 @@ jobs:
           --max ${{ github.event.inputs.max_videos || 5 }} \
           ${{ github.event.inputs.force == 'true' && '--force' || '' }}
           
-    - name: Upload processed data as artifacts
-      uses: actions/upload-artifact@v3
-      with:
-        name: transcription-data
-        path: |
-          transcription/data/transcripts/
-          transcription/data/metadata/
-          transcription/data/subtitles/
-          transcription/data/bible_references/
-          transcription/data/video_list.csv
-        retention-days: 7
-
+    - name: List generated files
+      run: |
+        echo "Transcript files:"
+        ls -la transcription/data/transcripts/ || echo "No transcripts found"
+        
+        echo "Subtitle files:"
+        ls -la transcription/data/subtitles/ || echo "No subtitles found"
+        
+        echo "Bible references:"
+        ls -la transcription/data/bible_references/ || echo "No Bible references found"
+      
     - name: Commit changes
       if: ${{ success() }}
       run: |

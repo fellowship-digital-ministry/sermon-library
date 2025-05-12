@@ -990,9 +990,11 @@ async def get_book_references(book: str):
             chapter_key = str(ref.get("chapter", "unknown"))
             chapters[chapter_key].append(ref)
         
-        # Sort verses within each chapter
+        # Sort verses within each chapter - handle verse ranges
         for chapter_key, chapter_refs in chapters.items():
-            chapter_refs.sort(key=lambda x: int(x.get("verse", 0) or 0))
+            # Sort by the first number in the verse (in case of ranges like "1-12")
+            chapter_refs.sort(key=lambda x: int(x.get("verse", "0").split('-')[0] or 0))
+        
         return {
             "book": book,
             "total_references": len(enhanced_references),

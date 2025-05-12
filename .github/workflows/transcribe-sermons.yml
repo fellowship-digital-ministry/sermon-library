@@ -31,14 +31,551 @@ jobs:
           python -m pip install --upgrade pip
           # Install required dependencies
           pip install pandas openai tqdm requests
+          pip install pytube yt-dlp
           # Install the correct Pinecone package
           pip uninstall -y pinecone-client
           pip install pinecone
+          # Install ffmpeg for audio conversion
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
       
       - name: Configure Git
         run: |
           git config --global user.name "Sermon Transcription Bot"
           git config --global user.email "fellowship-digital-ministry@proton.me"
+      
+      - name: Create Enhanced Downloader Script
+        run: |
+          # Copy the content of the enhanced downloader script
+          cat > transcription/enhanced_downloader.py << 'EOF'
+          #!/usr/bin/env python3
+          """
+          Enhanced YouTube Audio Downloader with multiple fallback strategies
+          to handle blocks and rate limits.
+          """
+          import os
+          import sys
+          import time
+          import random
+          import logging
+          import subprocess
+          import requests
+          import json
+          from pathlib import Path
+          from typing import Optional, List, Dict, Tuple
+          from urllib.parse import quote
+
+          # Set up logging
+          logging.basicConfig(
+              level=logging.INFO,
+              format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+              handlers=[
+                  logging.FileHandler("youtube_downloader.log"),
+                  logging.StreamHandler()
+              ]
+          )
+          logger = logging.getLogger(__name__)
+
+          # List of user agents to rotate
+          USER_AGENTS = [
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+              "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",
+              "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1"
+          ]
+
+          # List of Invidious instances to try
+          INVIDIOUS_INSTANCES = [
+              "https://invidious.slipfox.xyz",
+              "https://invidious.privacydev.net",
+              "https://invidious.sethforprivacy.com",
+              "https://inv.in.projectsegfau.lt",
+              "https://invidious.protokolla.fi",
+              "https://yt.artemislena.eu",
+              "https://invidious.baczek.me",
+              "https://invidious.0011.lt",
+              "https://inv.tux.pizza",
+              "https://iv.ggtyler.dev"
+          ]
+
+          # List of fallback domains for proxy requests
+          PROXY_DOMAINS = [
+              "https://ytapi.smartyapi.dev",
+              "https://api.ytbapi.com",
+              "https://api.ytscraper.com",
+              "https://api.vevioz.com",
+              "https://api.mp3download.zone"
+          ]
+
+          def get_random_user_agent() -> str:
+              """Return a random user agent from the list."""
+              return random.choice(USER_AGENTS)
+
+          def create_download_dir(output_dir: str) -> str:
+              """Create download directory and return its path."""
+              os.makedirs(output_dir, exist_ok=True)
+              return output_dir
+
+          def run_command(cmd: List[str], max_retries: int = 3) -> Tuple[bool, str]:
+              """Run a command with retries and return whether it succeeded."""
+              for attempt in range(max_retries):
+                  try:
+                      logger.info(f"Running command (attempt {attempt+1}/{max_retries}): {' '.join(cmd)}")
+                      
+                      result = subprocess.run(
+                          cmd,
+                          text=True,
+                          capture_output=True,
+                          check=False
+                      )
+                      
+                      if result.returncode == 0:
+                          return True, result.stdout
+                      
+                      logger.warning(f"Command failed (attempt {attempt+1}/{max_retries}): {result.stderr}")
+                      
+                      # Wait before retrying (increasing delay with jitter)
+                      if attempt < max_retries - 1:
+                          sleep_time = (attempt + 1) * 5 + random.uniform(1, 3)
+                          logger.info(f"Waiting {sleep_time:.1f}s before retrying...")
+                          time.sleep(sleep_time)
+                          
+                  except Exception as e:
+                      logger.error(f"Exception running command (attempt {attempt+1}/{max_retries}): {e}")
+                      if attempt < max_retries - 1:
+                          time.sleep((attempt + 1) * 5 + random.uniform(1, 3))
+              
+              return False, f"Failed after {max_retries} attempts"
+
+          def method_yt_dlp(video_id: str, output_dir: str) -> bool:
+              """Try downloading with yt-dlp using different configurations."""
+              output_file = os.path.join(output_dir, f"{video_id}.mp3")
+              
+              # Try different yt-dlp configurations
+              configs = [
+                  # Standard approach with user agent rotation
+                  [
+                      "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--user-agent", get_random_user_agent(),
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "5", "--max-sleep-interval", "10",
+                      f"https://www.youtube.com/watch?v={video_id}"
+                  ],
+                  # With additional extract audio options
+                  [
+                      "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--extract-audio", "--audio-format", "mp3",
+                      "--user-agent", get_random_user_agent(),
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "5", "--max-sleep-interval", "10",
+                      f"https://www.youtube.com/watch?v={video_id}"
+                  ],
+                  # With different format selection
+                  [
+                      "-f", "bestaudio[ext=m4a]/bestaudio/best", 
+                      "-x", "--audio-format", "mp3",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--user-agent", get_random_user_agent(),
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "5", "--max-sleep-interval", "10",
+                      f"https://www.youtube.com/watch?v={video_id}"
+                  ],
+                  # Try with YouTube Music URL
+                  [
+                      "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--user-agent", get_random_user_agent(),
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "5", "--max-sleep-interval", "10",
+                      f"https://music.youtube.com/watch?v={video_id}"
+                  ],
+                  # Try with YouTube mobile URL format
+                  [
+                      "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--user-agent", "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1",
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "5", "--max-sleep-interval", "10",
+                      f"https://m.youtube.com/watch?v={video_id}"
+                  ],
+              ]
+              
+              for i, config in enumerate(configs):
+                  logger.info(f"Trying yt-dlp config {i+1}/{len(configs)}")
+                  success, output = run_command(["yt-dlp"] + config, max_retries=1)
+                  if success:
+                      logger.info(f"Successfully downloaded audio with yt-dlp config {i+1}: {video_id}")
+                      return True
+                  
+                  # Add a delay between attempts to avoid triggering rate limits
+                  time.sleep(random.uniform(5, 10))
+              
+              logger.warning(f"All yt-dlp configurations failed for {video_id}")
+              return False
+
+          def method_pytube(video_id: str, output_dir: str) -> bool:
+              """Try downloading with pytube."""
+              try:
+                  logger.info(f"Attempting pytube download for {video_id}")
+                  
+                  # Dynamically import pytube to avoid dependency issues
+                  try:
+                      from pytube import YouTube
+                  except ImportError:
+                      logger.info("Installing pytube...")
+                      subprocess.check_call([sys.executable, "-m", "pip", "install", "pytube"])
+                      from pytube import YouTube
+                  
+                  url = f"https://www.youtube.com/watch?v={video_id}"
+                  yt = YouTube(url)
+                  
+                  # Try to get audio stream
+                  stream = yt.streams.filter(only_audio=True).first()
+                  
+                  if stream:
+                      temp_file = stream.download(output_path=output_dir, filename=f"temp_{video_id}")
+                      
+                      # Convert to mp3 if needed
+                      output_file = os.path.join(output_dir, f"{video_id}.mp3")
+                      
+                      if not temp_file.endswith('.mp3'):
+                          logger.info(f"Converting {temp_file} to MP3")
+                          
+                          try:
+                              subprocess.run([
+                                  "ffmpeg", "-i", temp_file, "-vn", "-ab", "128k", 
+                                  "-ar", "44100", "-y", output_file
+                              ], check=True, capture_output=True)
+                              
+                              # Remove temp file after conversion
+                              os.remove(temp_file)
+                          except Exception as e:
+                              logger.warning(f"FFmpeg conversion failed: {e}")
+                              # If FFmpeg fails, just rename the file as an alternative
+                              os.rename(temp_file, output_file)
+                      else:
+                          # If already MP3, just rename
+                          os.rename(temp_file, output_file)
+                          
+                      logger.info(f"Successfully downloaded audio with pytube: {video_id}")
+                      return True
+                  else:
+                      logger.warning(f"No audio stream found for {video_id}")
+                      return False
+                      
+              except Exception as e:
+                  logger.error(f"Pytube download failed: {e}")
+                  return False
+
+          def method_invidious(video_id: str, output_dir: str) -> bool:
+              """Try downloading using Invidious API."""
+              output_file = os.path.join(output_dir, f"{video_id}.mp3")
+              
+              # Randomize the order of instances to distribute load
+              instances = INVIDIOUS_INSTANCES.copy()
+              random.shuffle(instances)
+              
+              for instance in instances:
+                  try:
+                      logger.info(f"Trying Invidious instance {instance} for {video_id}")
+                      
+                      # First get video details from Invidious
+                      api_url = f"{instance}/api/v1/videos/{video_id}"
+                      headers = {"User-Agent": get_random_user_agent()}
+                      
+                      response = requests.get(api_url, headers=headers, timeout=15)
+                      
+                      if response.status_code == 200:
+                          video_data = response.json()
+                          
+                          # Find the audio stream (prefer audio only)
+                          audio_url = None
+                          
+                          # First try audio formats
+                          for fmt in sorted(video_data.get("adaptiveFormats", []), 
+                                            key=lambda x: x.get("bitrate", 0), reverse=True):
+                              if fmt.get("type", "").startswith("audio"):
+                                  audio_url = fmt.get("url")
+                                  if audio_url:
+                                      break
+                          
+                          # If no audio formats, try mixed formats
+                          if not audio_url:
+                              for fmt in sorted(video_data.get("formatStreams", []), 
+                                                key=lambda x: int(x.get("quality", "0").replace("p", "")), 
+                                                reverse=True):
+                                  audio_url = fmt.get("url")
+                                  if audio_url:
+                                      break
+                          
+                          if audio_url:
+                              logger.info(f"Found audio URL via Invidious: {audio_url[:100]}...")
+                              
+                              # Download the audio file
+                              download_headers = {
+                                  "User-Agent": get_random_user_agent(),
+                                  "Referer": instance
+                              }
+                              
+                              audio_response = requests.get(
+                                  audio_url, 
+                                  headers=download_headers, 
+                                  stream=True, 
+                                  timeout=60
+                              )
+                              
+                              if audio_response.status_code == 200:
+                                  temp_file = os.path.join(output_dir, f"temp_{video_id}")
+                                  
+                                  with open(temp_file, 'wb') as f:
+                                      for chunk in audio_response.iter_content(chunk_size=8192):
+                                          f.write(chunk)
+                                  
+                                  # Convert to MP3 using ffmpeg
+                                  try:
+                                      subprocess.run([
+                                          "ffmpeg", "-i", temp_file, "-vn", "-ab", "128k", 
+                                          "-ar", "44100", "-y", output_file
+                                      ], check=True, capture_output=True)
+                                      
+                                      # Remove temp file
+                                      os.remove(temp_file)
+                                      
+                                      logger.info(f"Successfully downloaded and converted audio via Invidious: {video_id}")
+                                      return True
+                                  except Exception as e:
+                                      logger.warning(f"FFmpeg conversion failed: {e}")
+                                      # If FFmpeg fails, just rename the file
+                                      os.rename(temp_file, output_file)
+                                      return True
+                          else:
+                              logger.warning(f"No audio URL found in Invidious data for {video_id}")
+                      else:
+                          logger.warning(f"Invidious API returned status {response.status_code}")
+                          
+                  except Exception as e:
+                      logger.warning(f"Invidious instance {instance} failed: {e}")
+                  
+                  # Add delay between instances
+                  time.sleep(random.uniform(3, 7))
+              
+              logger.warning(f"All Invidious instances failed for {video_id}")
+              return False
+
+          def method_api_services(video_id: str, output_dir: str) -> bool:
+              """Try downloading using various API services."""
+              output_file = os.path.join(output_dir, f"{video_id}.mp3")
+              
+              # Different API endpoints to try
+              apis = [
+                  {
+                      "name": "SaveFrom.net API",
+                      "url": f"https://sfsapi.com/api/convert?url=https://www.youtube.com/watch?v={video_id}",
+                      "method": "GET",
+                      "extract": lambda data: data.get("url", [])[0]["url"] if data.get("url") and len(data.get("url")) > 0 else None
+                  },
+                  {
+                      "name": "YT1s API",
+                      "url": "https://yt1s.com/api/ajaxSearch",
+                      "method": "POST",
+                      "data": {"q": f"https://www.youtube.com/watch?v={video_id}", "vt": "mp3"},
+                      "extract": lambda data: data.get("links", {}).get("mp3", {}).get("mp3128", {}).get("k")
+                  },
+                  {
+                      "name": "Y2Mate API",
+                      "url": "https://www.y2mate.com/mates/analyzeV2/ajax",
+                      "method": "POST",
+                      "data": {"k_query": f"https://www.youtube.com/watch?v={video_id}", "k_page": "home", "hl": "en", "q_auto": 0},
+                      "extract": lambda data: next((link for link in data.get("links", {}).get("mp3", []) if link.get("q") == "128"), {}).get("k")
+                  }
+              ]
+              
+              for api in apis:
+                  try:
+                      logger.info(f"Trying {api['name']} for {video_id}")
+                      
+                      headers = {
+                          "User-Agent": get_random_user_agent(),
+                          "Accept": "application/json",
+                          "Referer": "https://www.google.com/",
+                          "Origin": "https://www.google.com"
+                      }
+                      
+                      if api["method"] == "GET":
+                          response = requests.get(api["url"], headers=headers, timeout=30)
+                      elif api["method"] == "POST":
+                          response = requests.post(api["url"], headers=headers, data=api.get("data", {}), timeout=30)
+                      
+                      if response.status_code == 200:
+                          try:
+                              data = response.json()
+                              download_url = api["extract"](data)
+                              
+                              if download_url:
+                                  logger.info(f"Found download URL via {api['name']}: {download_url[:100]}...")
+                                  
+                                  # Some APIs need a second request to get the actual download link
+                                  if "YT1s API" in api["name"] and download_url:
+                                      convert_response = requests.post(
+                                          "https://yt1s.com/api/ajaxConvert", 
+                                          headers=headers, 
+                                          data={"vid": video_id, "k": download_url}
+                                      )
+                                      if convert_response.status_code == 200:
+                                          convert_data = convert_response.json()
+                                          download_url = convert_data.get("dlink")
+                                  
+                                  if "Y2Mate API" in api["name"] and download_url:
+                                      convert_response = requests.post(
+                                          "https://www.y2mate.com/mates/convertV2/ajax", 
+                                          headers=headers, 
+                                          data={"vid": video_id, "k": download_url}
+                                      )
+                                      if convert_response.status_code == 200:
+                                          convert_data = convert_response.json()
+                                          download_url = convert_data.get("dlink")
+                                  
+                                  # Download the file
+                                  download_headers = {
+                                      "User-Agent": get_random_user_agent(),
+                                      "Referer": "https://www.google.com/"
+                                  }
+                                  
+                                  file_response = requests.get(
+                                      download_url, 
+                                      headers=download_headers, 
+                                      stream=True, 
+                                      timeout=120
+                                  )
+                                  
+                                  if file_response.status_code == 200:
+                                      with open(output_file, 'wb') as f:
+                                          for chunk in file_response.iter_content(chunk_size=8192):
+                                              f.write(chunk)
+                                      
+                                      logger.info(f"Successfully downloaded audio via {api['name']}: {video_id}")
+                                      return True
+                          except Exception as e:
+                              logger.warning(f"Error processing {api['name']} response: {e}")
+                  
+                  except Exception as e:
+                      logger.warning(f"{api['name']} failed: {e}")
+                  
+                  # Add delay between API calls
+                  time.sleep(random.uniform(5, 10))
+              
+              logger.warning(f"All API services failed for {video_id}")
+              return False
+
+          def method_direct_youtube_dl(video_id: str, output_dir: str) -> bool:
+              """Try downloading using youtube-dl (alternative to yt-dlp)."""
+              output_file = os.path.join(output_dir, f"{video_id}.mp3")
+              
+              try:
+                  # First check if youtube-dl is installed
+                  try:
+                      subprocess.run(["youtube-dl", "--version"], capture_output=True, check=True)
+                  except (subprocess.SubprocessError, FileNotFoundError):
+                      logger.info("Installing youtube-dl...")
+                      subprocess.check_call([sys.executable, "-m", "pip", "install", "youtube-dl"])
+                  
+                  logger.info(f"Attempting youtube-dl download for {video_id}")
+                  
+                  cmd = [
+                      "youtube-dl",
+                      "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                      "-o", f"{output_dir}/{video_id}.%(ext)s",
+                      "--user-agent", get_random_user_agent(),
+                      "--add-header", f"Accept-Language:en-US,en;q=0.{random.randint(5, 9)}",
+                      "--retries", "3", "--sleep-interval", "3", "--max-sleep-interval", "6",
+                      f"https://www.youtube.com/watch?v={video_id}"
+                  ]
+                  
+                  success, output = run_command(cmd, max_retries=2)
+                  
+                  if success:
+                      logger.info(f"Successfully downloaded audio with youtube-dl: {video_id}")
+                      return True
+                  
+                  logger.warning(f"youtube-dl failed for {video_id}")
+                  return False
+                  
+              except Exception as e:
+                  logger.error(f"youtube-dl download failed: {e}")
+                  return False
+
+          def download_audio(video_id: str, output_dir: str) -> bool:
+              """
+              Main function to download audio using multiple fallback methods.
+              Returns True if any method succeeds, False otherwise.
+              """
+              logger.info(f"=== Starting download for video {video_id} ===")
+              
+              # Create output directory
+              create_download_dir(output_dir)
+              output_file = os.path.join(output_dir, f"{video_id}.mp3")
+              
+              # Check if file already exists
+              if os.path.exists(output_file):
+                  logger.info(f"File already exists: {output_file}")
+                  return True
+              
+              # Try each method in sequence
+              methods = [
+                  ("yt-dlp", method_yt_dlp),
+                  ("pytube", method_pytube),
+                  ("invidious", method_invidious),
+                  ("api_services", method_api_services),
+                  ("youtube-dl", method_direct_youtube_dl)
+              ]
+              
+              for method_name, method_func in methods:
+                  try:
+                      logger.info(f"Trying method: {method_name}")
+                      success = method_func(video_id, output_dir)
+                      
+                      if success:
+                          logger.info(f"Successfully downloaded {video_id} using {method_name}")
+                          return True
+                      
+                      # Add delay between methods
+                      time.sleep(random.uniform(3, 7))
+                      
+                  except Exception as e:
+                      logger.error(f"Error in method {method_name}: {e}")
+              
+              logger.error(f"All download methods failed for {video_id}")
+              return False
+
+          def main():
+              """Command line interface for the downloader."""
+              import argparse
+              
+              parser = argparse.ArgumentParser(description="Enhanced YouTube Audio Downloader")
+              parser.add_argument("--video-id", required=True, help="YouTube video ID to download")
+              parser.add_argument("--output-dir", default="data/audio", help="Output directory for downloaded audio")
+              args = parser.parse_args()
+              
+              success = download_audio(args.video_id, args.output_dir)
+              
+              if success:
+                  print(f"Successfully downloaded audio for {args.video_id}")
+                  return 0
+              else:
+                  print(f"Failed to download audio for {args.video_id}")
+                  return 1
+
+          if __name__ == "__main__":
+              sys.exit(main())
+          EOF
+          
+          # Make the script executable
+          chmod +x transcription/enhanced_downloader.py
+        shell: bash
       
       - name: Create Tracking Script
         run: |
@@ -281,95 +818,3 @@ jobs:
           # Make the script executable
           chmod +x track_sermons.py
         shell: bash
-      
-      - name: Run sermon tracking with YouTube API
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: |
-          # Create output directories
-          mkdir -p transcription/data/audio
-          
-          # Run the tracking script with YouTube API
-          cd transcription
-          python ../track_sermons.py \
-            --channel-id "UCek_LI7dZopFJEvwxDnovJg" \
-            --api-key "$YOUTUBE_API_KEY" \
-            --output-csv "data/video_list.csv" \
-            --max 10
-        shell: bash
-      
-      # First pull latest changes before committing
-      - name: Pull latest changes
-        run: git pull origin main
-        
-      - name: Generate CSV Report of Videos Needing Audio
-        run: |
-          # Create a script to generate a report of videos needing audio
-          cat > generate_report.py << 'EOF'
-          import csv
-          import os
-          import sys
-          from datetime import datetime
-
-          # Read the video list CSV
-          csv_path = sys.argv[1]
-          needs_audio = []
-
-          with open(csv_path, 'r', encoding='utf-8') as f:
-              reader = csv.DictReader(f)
-              for row in reader:
-                  if row.get('processing_status') == 'needs_audio':
-                      needs_audio.append(row)
-
-          # Sort by publish date, most recent first
-          needs_audio.sort(key=lambda x: x.get('publish_date', ''), reverse=True)
-
-          # Generate a markdown report
-          report_file = "VIDEOS_NEEDING_AUDIO.md"
-          with open(report_file, 'w', encoding='utf-8') as f:
-              f.write("# Videos Needing Audio Files\n\n")
-              f.write("This report was generated on " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
-              f.write("The following sermon videos have been discovered but need audio files downloaded manually:\n\n")
-              
-              f.write("| Date | Title | Video ID | Link |\n")
-              f.write("|------|-------|----------|------|\n")
-              
-              for video in needs_audio:
-                  date = video.get('publish_date', '')
-                  if date:
-                      try:
-                          date = datetime.strptime(date, '%Y%m%d').strftime('%Y-%m-%d')
-                      except:
-                          pass
-                  
-                  title = video.get('title', 'Unknown Title')
-                  video_id = video.get('video_id', '')
-                  link = video.get('url', f'https://www.youtube.com/watch?v={video_id}')
-                  
-                  f.write(f"| {date} | {title} | {video_id} | [{video_id}]({link}) |\n")
-              
-              f.write("\n## How to Download Audio\n\n")
-              f.write("1. Download the audio file manually using a service like y2mate.com or similar\n")
-              f.write("2. Save the audio file as `[VIDEO_ID].mp3` in the `transcription/data/audio` directory\n")
-              f.write("3. Run the transcription script: `python transcription/process_batch.py --video-id [VIDEO_ID]`\n")
-              
-          print(f"Report generated: {report_file}")
-          print(f"Found {len(needs_audio)} videos needing audio")
-          EOF
-          
-          # Run the script
-          python generate_report.py transcription/data/video_list.csv
-        shell: bash
-      
-      - name: Commit and push changes
-        run: |
-          git add transcription/data/video_list.csv
-          git add transcription/data/metadata/
-          git add VIDEOS_NEEDING_AUDIO.md
-          
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update sermon video database and report [skip ci]"
-            git push
-          fi

@@ -15,9 +15,13 @@ import requests
 import subprocess
 import sys
 import time
-from datetime import datetime
+import random
+import hashlib
+import pickle
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
+from functools import lru_cache
 
 # Set up logging
 logging.basicConfig(
@@ -30,6 +34,61 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Cache directory for API responses
+CACHE_DIR = ".api_cache"
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+def cache_response(func):
+    """Cache API responses to reduce quota usage and avoid throttling"""
+    def wrapper(*args, **kwargs):
+        # Create a cache key based on args
+        key_parts = [str(arg) for arg in args]
+        key_parts.extend([f"{k}={v}" for k, v in sorted(kwargs.items())])
+        key_str = "|".join(key_parts)
+        hash_key = hashlib.md5(key_str.encode()).hexdigest()
+        cache_file = os.path.join(CACHE_DIR, f"{hash_key}.pkl")
+        
+        # Check if we have a fresh cache
+        cache_valid_time = timedelta(hours=1)  # Cache for 1 hour
+        if os.path.exists(cache_file):
+            file_age = datetime.now() - datetime.fromtimestamp(os.path.getmtime(cache_file))
+            if file_age < cache_valid_time:
+                try:
+                    with open(cache_file, 'rb') as f:
+                        return pickle.load(f)
+                except Exception:
+                    pass
+        
+        # Call the function and cache result
+        result = func(*args, **kwargs)
+        try:
+            with open(cache_file, 'wb') as f:
+                pickle.dump(result, f)
+        except Exception as e:
+            logger.warning(f"Failed to cache response: {e}")
+        
+        return result
+    
+    return wrapper
+
+def api_call_with_retry(func, *args, max_retries=3, **kwargs):
+    """Make API calls with exponential backoff retry logic"""
+    for attempt in range(max_retries):
+        try:
+            return func(*args, **kwargs)
+        except requests.exceptions.RequestException as e:
+            if attempt == max_retries - 1:
+                logger.error(f"API call failed after {max_retries} attempts: {e}")
+                return None
+            
+            # Calculate backoff time: 2^attempt * 0.5 second + random jitter
+            backoff = (2 ** attempt) * 0.5 + random.uniform(0, 0.5)
+            logger.warning(f"API call failed (attempt {attempt+1}/{max_retries}), "
+                          f"retrying in {backoff:.2f}s: {e}")
+            time.sleep(backoff)
+    
+    return None
+
 def get_channel_id_from_handle(channel_handle: str) -> Optional[str]:
     """Convert a YouTube handle (@username) to a channel ID"""
     if channel_handle.startswith('@'):
@@ -40,7 +99,7 @@ def get_channel_id_from_handle(channel_handle: str) -> Optional[str]:
         url = f"https://www.youtube.com/@{channel_handle}"
     
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=30)
         if response.status_code == 200:
             match = re.search(r'"channelId":"([^"]+)"', response.text)
             if match:
@@ -50,84 +109,100 @@ def get_channel_id_from_handle(channel_handle: str) -> Optional[str]:
     
     return None
 
+@cache_response
+def fetch_playlist_items(api_key, playlist_id, max_results=5):
+    """Fetch videos from a playlist using YouTube Data API"""
+    url = "https://www.googleapis.com/youtube/v3/playlistItems"
+    params = {
+        "part": "snippet,contentDetails",
+        "playlistId": playlist_id,
+        "maxResults": max_results,
+        "key": api_key
+    }
+    
+    response = requests.get(url, params=params, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+@cache_response
+def fetch_video_details(api_key, video_id):
+    """Fetch detailed information about a specific video"""
+    url = "https://www.googleapis.com/youtube/v3/videos"
+    params = {
+        "part": "snippet,contentDetails,statistics",
+        "id": video_id,
+        "key": api_key
+    }
+    
+    response = requests.get(url, params=params, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
 def fetch_channel_videos_api(channel_id: str, api_key: str, max_videos: int = 5) -> List[Dict]:
     """Fetch videos from a channel using the YouTube Data API"""
     logger.info(f"Fetching up to {max_videos} videos for channel {channel_id} using YouTube API")
     
-    # First, get the list of recent videos
-    search_url = "https://www.googleapis.com/youtube/v3/search"
-    search_params = {
-        "part": "snippet",
-        "channelId": channel_id,
-        "maxResults": max_videos,
-        "order": "date",
-        "type": "video",
-        "key": api_key
-    }
-    
-    try:
-        response = requests.get(search_url, params=search_params)
-        response.raise_for_status()
-        search_data = response.json()
-        
-        videos = []
-        for item in search_data.get('items', []):
-            video_id = item['id']['videoId']
-            logger.info(f"Found video: {video_id}")
-            
-            # Get more detailed video information
-            video_url = "https://www.googleapis.com/youtube/v3/videos"
-            video_params = {
-                "part": "snippet,contentDetails,statistics",
-                "id": video_id,
-                "key": api_key
-            }
-            
-            video_response = requests.get(video_url, params=video_params)
-            video_response.raise_for_status()
-            video_data = video_response.json()
-            
-            if video_data.get('items'):
-                video_info = video_data['items'][0]
-                snippet = video_info['snippet']
-                statistics = video_info.get('statistics', {})
-                
-                # Parse duration (in ISO 8601 format)
-                duration_str = video_info.get('contentDetails', {}).get('duration', 'PT0S')
-                # Convert ISO duration to seconds (simplified)
-                duration_match = re.search(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_str)
-                hours = int(duration_match.group(1) or 0)
-                minutes = int(duration_match.group(2) or 0)
-                seconds = int(duration_match.group(3) or 0)
-                duration = hours * 3600 + minutes * 60 + seconds
-                
-                # Format publish date
-                publish_date = snippet.get('publishedAt', '')
-                if publish_date:
-                    dt = datetime.strptime(publish_date, "%Y-%m-%dT%H:%M:%SZ")
-                    publish_date = dt.strftime('%Y%m%d')
-                
-                videos.append({
-                    "video_id": video_id,
-                    "title": snippet.get('title', ''),
-                    "description": snippet.get('description', ''),
-                    "publish_date": publish_date,
-                    "duration": duration,
-                    "view_count": int(statistics.get('viewCount', 0)),
-                    "like_count": int(statistics.get('likeCount', 0)),
-                    "url": f"https://www.youtube.com/watch?v={video_id}",
-                    "thumbnail": snippet.get('thumbnails', {}).get('high', {}).get('url', '')
-                })
-            
-            # Add a small delay to avoid rate limiting
-            time.sleep(0.5)
-        
-        logger.info(f"Found {len(videos)} videos from YouTube API")
-        return videos
-        
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Error fetching videos from YouTube API: {e}")
+    # Get uploads playlist ID (convert UC to UU)
+    uploads_playlist_id = "UU" + channel_id[2:] if channel_id.startswith("UC") else None
+    if not uploads_playlist_id:
+        logger.error("Invalid channel ID format")
         return []
+    
+    # Fetch playlist items
+    playlist_data = api_call_with_retry(fetch_playlist_items, api_key, uploads_playlist_id, max_videos)
+    if not playlist_data:
+        logger.error("Failed to fetch playlist items")
+        return []
+    
+    videos = []
+    for item in playlist_data.get('items', []):
+        video_id = item.get('snippet', {}).get('resourceId', {}).get('videoId')
+        if not video_id:
+            continue
+            
+        logger.info(f"Found video: {video_id}")
+        
+        # Get detailed video information
+        video_data = api_call_with_retry(fetch_video_details, api_key, video_id)
+        if not video_data or not video_data.get('items'):
+            logger.warning(f"No detailed data found for video {video_id}")
+            continue
+            
+        video_info = video_data['items'][0]
+        snippet = video_info.get('snippet', {})
+        statistics = video_info.get('statistics', {})
+        
+        # Parse duration (in ISO 8601 format)
+        duration_str = video_info.get('contentDetails', {}).get('duration', 'PT0S')
+        duration_match = re.search(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_str)
+        hours = int(duration_match.group(1) or 0)
+        minutes = int(duration_match.group(2) or 0)
+        seconds = int(duration_match.group(3) or 0)
+        duration = hours * 3600 + minutes * 60 + seconds
+        
+        # Format publish date
+        publish_date = snippet.get('publishedAt', '')
+        if publish_date:
+            dt = datetime.strptime(publish_date, "%Y-%m-%dT%H:%M:%SZ")
+            publish_date = dt.strftime('%Y%m%d')
+        
+        videos.append({
+            "video_id": video_id,
+            "title": snippet.get('title', ''),
+            "description": snippet.get('description', ''),
+            "publish_date": publish_date,
+            "duration": duration,
+            "view_count": int(statistics.get('viewCount', 0)),
+            "like_count": int(statistics.get('likeCount', 0)),
+            "url": f"https://www.youtube.com/watch?v={video_id}",
+            "thumbnail": snippet.get('thumbnails', {}).get('high', {}).get('url', '')
+        })
+        
+        # Small delay to avoid rate limiting
+        time.sleep(0.5)
+    
+    logger.info(f"Found {len(videos)} videos from YouTube API")
+    return videos
 
 def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None, max_retries: int = 3) -> Tuple[bool, str]:
     """Run yt-dlp with given arguments and return output with retry logic"""
@@ -166,6 +241,97 @@ def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None, max_retries:
                 time.sleep((attempt + 1) * 5)
     
     return False, f"Failed after {max_retries} attempts"
+
+def get_video_details_with_pytube(video_id: str) -> Optional[Dict]:
+    """Get video details using PyTube"""
+    try:
+        from pytube import YouTube
+    except ImportError:
+        logger.error("PyTube not installed, cannot use PyTube fallback")
+        return None
+    
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    try:
+        yt = YouTube(url)
+        
+        # Extract the publish date in YYYYMMDD format
+        publish_date = ""
+        if yt.publish_date:
+            publish_date = yt.publish_date.strftime('%Y%m%d')
+        
+        return {
+            "video_id": video_id,
+            "title": yt.title or f"Unknown Title ({video_id})",
+            "description": yt.description or "",
+            "publish_date": publish_date,
+            "duration": yt.length or 0,
+            "view_count": yt.views or 0,
+            "like_count": 0,  # PyTube doesn't get likes
+            "url": url,
+            "thumbnail": yt.thumbnail_url or ""
+        }
+    except Exception as e:
+        logger.error(f"PyTube metadata error for {video_id}: {e}")
+        return None
+    
+def download_audio_with_pytube(video_id: str, output_dir: str = "data/audio") -> bool:
+    """Download audio using PyTube with robust error handling"""
+    try:
+        from pytube import YouTube
+    except ImportError:
+        logger.error("PyTube not installed, cannot download with PyTube")
+        return False
+    
+    logger.info(f"Downloading audio for {video_id} using PyTube")
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, f"{video_id}.mp3")
+    
+    # If file already exists, skip download
+    if os.path.exists(output_path):
+        logger.info(f"Audio file already exists: {output_path}")
+        return True
+        
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    max_retries = 3
+    
+    for attempt in range(max_retries):
+        try:
+            # Configure PyTube with timeout
+            yt = YouTube(url)
+            
+            # Get highest quality audio stream
+            audio_stream = yt.streams.filter(only_audio=True).order_by('abr').last()
+            
+            if not audio_stream:
+                logger.warning(f"No audio stream found for {video_id}")
+                return False
+                
+            # Download to temp file first
+            temp_file = audio_stream.download(
+                output_path=output_dir,
+                filename=f"{video_id}.temp"
+            )
+            
+            # Convert to MP3 using FFmpeg
+            temp_path = os.path.join(output_dir, f"{video_id}.temp")
+            subprocess.run([
+                "ffmpeg", "-y", "-i", temp_path,
+                "-b:a", "192k", output_path
+            ], check=True, capture_output=True)
+            
+            # Remove temp file
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+                
+            logger.info(f"Successfully downloaded and converted {video_id}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"PyTube download attempt {attempt+1} failed: {e}")
+            time.sleep((attempt + 1) * 5)  # Exponential backoff
+    
+    logger.error(f"All download attempts failed for {video_id}")
+    return False
 
 def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None, max_videos: int = 5) -> List[Dict]:
     """Fetch videos from the channel using yt-dlp with improved error handling"""
@@ -223,22 +389,20 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
         except json.JSONDecodeError:
             logger.error(f"Could not parse JSON for video {video_id}")
     
-    # If getting metadata failed, try direct audio download
-    logger.warning(f"Metadata fetch failed for {video_id}, trying direct audio download")
+    # If getting metadata failed, try using PyTube as fallback
+    logger.warning(f"yt-dlp metadata fetch failed for {video_id}, trying PyTube")
+    video_info = get_video_details_with_pytube(video_id)
+    
+    if video_info:
+        return video_info
+    
+    # If PyTube failed too, try direct audio download as last resort
+    logger.warning(f"PyTube metadata fetch failed for {video_id}, trying direct download")
     
     # Create output directory if it doesn't exist
     os.makedirs("data/audio", exist_ok=True)
     
-    audio_args = [
-        "-x",
-        "--audio-format", "mp3",
-        "--audio-quality", "0",
-        "-o", f"data/audio/{video_id}.%(ext)s",
-        f"https://www.youtube.com/watch?v={video_id}"
-    ]
-    
-    success, _ = run_yt_dlp(audio_args, cookies_file)
-    if success:
+    if download_audio_with_pytube(video_id, "data/audio"):
         # Create minimal metadata
         return {
             "video_id": video_id,
@@ -251,34 +415,6 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
             "url": f"https://www.youtube.com/watch?v={video_id}",
             "thumbnail": ""
         }
-    
-    # If we couldn't get audio either, try pytube as a fallback
-    try:
-        from pytube import YouTube
-        logger.info(f"Attempting pytube download for {video_id}")
-        
-        url = f"https://www.youtube.com/watch?v={video_id}"
-        yt = YouTube(url)
-        stream = yt.streams.filter(only_audio=True).first()
-        
-        if stream:
-            os.makedirs("data/audio", exist_ok=True)
-            stream.download(output_path="data/audio", filename=f"{video_id}.mp4")
-            logger.info(f"Successfully downloaded {video_id} using pytube")
-            
-            return {
-                "video_id": video_id,
-                "title": yt.title or f"Unknown Title ({video_id})",
-                "description": yt.description or "",
-                "upload_date": datetime.now().strftime('%Y%m%d'),
-                "duration": yt.length or 0,
-                "view_count": yt.views or 0,
-                "like_count": 0,
-                "url": url,
-                "thumbnail": yt.thumbnail_url or ""
-            }
-    except Exception as e:
-        logger.error(f"Pytube fallback failed: {e}")
     
     return None
 
@@ -542,7 +678,8 @@ def cleanup_audio_files():
 
 def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_file: Optional[str] = None) -> bool:
     """
-    Download just the audio from a YouTube video using yt-dlp.
+    Download just the audio from a YouTube video.
+    First tries PyTube, falls back to yt-dlp if PyTube fails.
     
     Args:
         video_id: YouTube video ID
@@ -556,6 +693,13 @@ def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_
     
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
+    
+    # First try with PyTube
+    if download_audio_with_pytube(video_id, output_dir):
+        return True
+    
+    # If PyTube failed, try with yt-dlp
+    logger.info(f"PyTube download failed, trying with yt-dlp")
     
     # Arguments for yt-dlp to download audio
     args = [
@@ -576,29 +720,7 @@ def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_
     
     success, output = run_yt_dlp(args, cookies_file, max_retries=3)
     
-    if not success:
-        logger.error(f"Failed to download audio for video {video_id}")
-        # Try fallback using pytube
-        try:
-            from pytube import YouTube
-            logger.info(f"Attempting pytube download for {video_id}")
-            
-            url = f"https://www.youtube.com/watch?v={video_id}"
-            yt = YouTube(url)
-            stream = yt.streams.filter(only_audio=True).first()
-            
-            if stream:
-                output_file = stream.download(output_path=output_dir, filename=f"{video_id}.mp4")
-                logger.info(f"Successfully downloaded {video_id} using pytube to {output_file}")
-                return True
-            else:
-                logger.error(f"No audio stream available for {video_id}")
-                return False
-        except Exception as e:
-            logger.error(f"Pytube fallback failed: {e}")
-            return False
-    
-    return True
+    return success
 
 def main():
     """Main function"""
@@ -662,13 +784,16 @@ def main():
     # Process if requested and new videos found
     if args.process and new_videos:
         # Before processing, ensure we have the audio files
-        if args.youtube_api:
-            # When using the API, we need to download the audio files separately
-            for video_id in new_videos:
-                download_video_audio(video_id, os.path.join(args.output_dir, "audio"), args.cookies)
+        success_count = 0
+        for video_id in new_videos:
+            if download_video_audio(video_id, os.path.join(args.output_dir, "audio"), args.cookies):
+                success_count += 1
+                
+        logger.info(f"Successfully downloaded audio for {success_count}/{len(new_videos)} videos")
         
         # Now process the videos
-        process_new_videos(args.csv_file)
+        if success_count > 0:
+            process_new_videos(args.csv_file)
     
     # Clean up audio files if requested
     if args.cleanup:

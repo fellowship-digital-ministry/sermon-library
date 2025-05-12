@@ -600,6 +600,107 @@ def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_
     
     return True
 
+def download_audio_from_youtube(video_id, output_dir="data/audio", cookies_file=None):
+    """
+    Download audio using either cookies or a direct API approach
+    """
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f"{video_id}.mp3")
+    
+    # Try using cookies if provided
+    if cookies_file and os.path.exists(cookies_file):
+        logger.info(f"Attempting download with cookies: {video_id}")
+        success, _ = run_yt_dlp([
+            "-x", 
+            "--audio-format", "mp3",
+            "--audio-quality", "0",
+            "-o", f"{output_dir}/{video_id}.%(ext)s",
+            f"https://www.youtube.com/watch?v={video_id}"
+        ], cookies_file, max_retries=1)
+        
+        if success:
+            logger.info(f"Successfully downloaded audio with cookies: {video_id}")
+            return True
+    
+    # If cookies failed or not provided, try an alternative approach
+    try:
+        # Try using the Invidious API approach
+        invidious_instances = [
+            "https://invidious.snopyta.org",
+            "https://inv.riverside.rocks",
+            "https://invidio.xamh.de",
+            "https://y.com.sb",
+            "https://invidious.kavin.rocks"
+        ]
+        
+        for instance in invidious_instances:
+            try:
+                logger.info(f"Trying Invidious instance {instance} for {video_id}")
+                # First get video details from Invidious
+                api_url = f"{instance}/api/v1/videos/{video_id}"
+                response = requests.get(api_url, timeout=10)
+                
+                if response.status_code == 200:
+                    video_data = response.json()
+                    
+                    # Find the audio stream
+                    for fmt in video_data.get("adaptiveFormats", []):
+                        if fmt.get("type", "").startswith("audio"):
+                            audio_url = fmt.get("url")
+                            if audio_url:
+                                logger.info(f"Found audio URL via Invidious: {video_id}")
+                                # Download the audio file
+                                audio_response = requests.get(audio_url, stream=True, timeout=30)
+                                if audio_response.status_code == 200:
+                                    with open(output_file, 'wb') as f:
+                                        for chunk in audio_response.iter_content(chunk_size=8192):
+                                            f.write(chunk)
+                                    logger.info(f"Successfully downloaded audio via Invidious: {video_id}")
+                                    return True
+                            break
+            except Exception as e:
+                logger.warning(f"Invidious instance {instance} failed: {e}")
+                continue
+        
+        # Next option: Try the YouTube Music API approach
+        logger.info(f"Trying YouTube Music API for {video_id}")
+        try:
+            from pytube import YouTube
+            yt = YouTube(f"https://www.youtube.com/watch?v={video_id}")
+            
+            # Get audio-only stream
+            stream = yt.streams.filter(only_audio=True).first()
+            if stream:
+                # Download to temporary file
+                temp_file = stream.download(output_path=output_dir, filename=f"temp_{video_id}")
+                
+                # Convert to mp3 using ffmpeg if needed
+                if not temp_file.endswith('.mp3'):
+                    mp3_file = os.path.join(output_dir, f"{video_id}.mp3")
+                    subprocess.run([
+                        "ffmpeg", "-i", temp_file, "-vn", "-ab", "128k", 
+                        "-ar", "44100", "-y", mp3_file
+                    ], check=True, capture_output=True)
+                    
+                    # Remove temp file
+                    os.remove(temp_file)
+                    
+                logger.info(f"Successfully downloaded audio with pytube: {video_id}")
+                return True
+        except Exception as e:
+            logger.warning(f"YouTube Music API approach failed: {e}")
+        
+        # Final attempt: Try YouTube-DL with different IPs or proxy approach
+        # This is a more advanced option that would require proxy rotation
+            
+        logger.error(f"All download methods failed for {video_id}")
+        return False
+        
+    except Exception as e:
+        logger.error(f"Error downloading audio for {video_id}: {e}")
+        return False
+
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(description="Monitor YouTube channel for new videos")

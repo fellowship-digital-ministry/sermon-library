@@ -3496,5 +3496,49 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 2381.6000366210938,
     "end_time": 2463.6400032043457
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 5,
+    "reference_text": "James 1:5",
+    "context": "if any man lack wisdom, let him ask of God, who giveth to all men liberally and upbraideth",
+    "is_implicit": false,
+    "video_id": "GOhUNz1pDM0",
+    "start_time": 981.760009765625,
+    "end_time": 1050.719970703125
+  },
+  {
+    "book": "James",
+    "chapter": 5,
+    "verse": 16,
+    "reference_text": "James 5:16",
+    "context": "the effectual fervent prayer of a righteous man availeth much",
+    "is_implicit": false,
+    "video_id": "GOhUNz1pDM0",
+    "start_time": 1345.8399658203125,
+    "end_time": 1420.1600341796875
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "James 4:14",
+    "context": "what is your life? It's a vapor that appears for a little time and then vanisheth away.",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 1022.6000061035156,
+    "end_time": 1115.0
+  },
+  {
+    "book": "James",
+    "chapter": 2,
+    "verse": 10,
+    "reference_text": "James 2:10",
+    "context": "James will later say that if you offend in one point, you're guilty of all.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2999.02001953125,
+    "end_time": 3058.260021209717
   }
 ]

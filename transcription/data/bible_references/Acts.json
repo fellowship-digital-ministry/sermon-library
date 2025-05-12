@@ -16014,5 +16014,71 @@
     "video_id": "_pCyHOxnY7Y",
     "start_time": 1831.180004119873,
     "end_time": 1892.9800033569336
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "Acts 1:11",
+    "context": "Why stand you gazing up into heaven? This same Jesus, right? Is that what they say in Acts chapter 1?",
+    "is_implicit": true,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2093.8999633789062,
+    "end_time": 2157.8999633789062
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 6,
+    "reference_text": "Acts 1",
+    "context": "...when the disciples asked Jesus in Acts 1, is it now the time that you're going to restore the kingdom to Israel?...",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2613.659957885742,
+    "end_time": 2684.1399536132812
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Acts 1:8",
+    "context": "but you shall receive power after the Holy Ghost has come upon you. And you shall be witnesses unto me, both in Jerusalem, Judea, Samaria, the uttermost part of the earth.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2684.1399536132812,
+    "end_time": 2746.5399780273438
+  },
+  {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": 4,
+    "reference_text": "Acts 8:4",
+    "context": "In Acts chapter number 8, we see the faithfulness of these disciples here in this really highest point of persecution. As we've read through the book of Acts from the first chapter till now in chapter 8, as you understand all that's going on, this height of persecution there in Jerusalem, it was a great persecution. The church was scattered abroad because of this, and all the believers of the church. Now, the thing that's interesting about Acts chapter number 8 is that the leaders of the church, well, they stayed in Jerusalem. It was the people that were scattered abroad. And the Bible says this in verse number 4 in Acts chapter number",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 1380.060043334961,
+    "end_time": 1437.4200439453125
+  },
+  {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "Acts chapter 8",
+    "context": "to talk about the pattern of faithful ambassadors, because I want you to see not only seizing the opportunity from the disciples in Acts chapter 8",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 1617.9800415039062,
+    "end_time": 1677.5400390625
+  },
+  {
+    "book": "Acts",
+    "chapter": 5,
+    "verse": 34,
+    "reference_text": "Acts 5:34",
+    "context": "Gamaliel stands and says",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 280.0,
+    "end_time": 332.0
   }
 ]

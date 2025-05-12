@@ -12109,5 +12109,71 @@
     "video_id": "_utmsqe125g",
     "start_time": 1095.0799865722656,
     "end_time": 1161.7799682617188
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": null,
+    "reference_text": "1 Corinthians chapter 15",
+    "context": "Well, turn over to 1 Corinthians chapter 15. In 1 Corinthians 15, we see another reference here that helps us in understanding this...",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2230.8999633789062,
+    "end_time": 2301.8999633789062
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 51,
+    "reference_text": "1 Corinthians 15:51",
+    "context": "Behold, I show you a mystery. We shall not all sleep, but we shall all be changed.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2301.8999633789062,
+    "end_time": 2365.8999633789062
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 52,
+    "reference_text": "1 Corinthians 15:52",
+    "context": "In a moment, in the twinkling of an eye, at the last trump, for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2301.8999633789062,
+    "end_time": 2365.8999633789062
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 53,
+    "reference_text": "1 Corinthians 15:53",
+    "context": "For this corruptible must put on incorruption, and this mortal must put on immortality.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2301.8999633789062,
+    "end_time": 2365.8999633789062
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "verse": 23,
+    "reference_text": "1 Corinthians 10:23",
+    "context": "Paul says this, he says, all things are lawful but not all things are expedient.",
+    "is_implicit": false,
+    "video_id": "2-7TNtHtf_0",
+    "start_time": 1504.5599670410156,
+    "end_time": 1578.0199890136719
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 57,
+    "reference_text": "1 Corinthians 15:57",
+    "context": "thanks be to God what giveth us the victory",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 1800.4400024414062,
+    "end_time": 1851.96000289917
   }
 ]

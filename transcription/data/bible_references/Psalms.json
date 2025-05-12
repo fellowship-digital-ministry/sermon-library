@@ -16179,5 +16179,38 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 189.75999450683594,
     "end_time": 251.8000030517578
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 3,
+    "reference_text": "Psalm 127:3",
+    "context": "children are an inheritance of the Lord. The fruit of the womb is His reward",
+    "is_implicit": true,
+    "video_id": "2-7TNtHtf_0",
+    "start_time": 1786.4400024414062,
+    "end_time": 1861.3800048828125
+  },
+  {
+    "book": "Psalms",
+    "chapter": 34,
+    "verse": 8,
+    "reference_text": "Psalm 34:8",
+    "context": "David says in Psalm 34 and verse number 8, oh taste and see that the Lord is good",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 1677.5400390625,
+    "end_time": 1737.3800659179688
+  },
+  {
+    "book": "Psalms",
+    "chapter": 34,
+    "verse": 8,
+    "reference_text": "Psalm 34:8",
+    "context": "David said, taste and see that the Lord is good",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 937.1000061035156,
+    "end_time": 1008.1799926757812
   }
 ]

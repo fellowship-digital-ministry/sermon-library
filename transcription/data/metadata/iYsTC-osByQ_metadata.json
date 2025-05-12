@@ -1,0 +1,12 @@
+{
+  "video_id": "iYsTC-osByQ",
+  "title": "\"A Faithful Ambassador\"  II Corinthians 5:20",
+  "publish_date": 20250427,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\iYsTC-osByQ.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\iYsTC-osByQ.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iYsTC-osByQ.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iYsTC-osByQ.vtt",
+  "duration": 3081,
+  "transcription_timestamp": "2025-05-12T15:58:08.832085",
+  "model": "whisper-1"
+}

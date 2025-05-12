@@ -3243,5 +3243,16 @@
     "video_id": "_utmsqe125g",
     "start_time": 1997.5800018310547,
     "end_time": 2055.779998779297
+  },
+  {
+    "book": "Psalm",
+    "chapter": 90,
+    "verse": null,
+    "reference_text": "Psalm 90",
+    "context": "A day is 1,000 years, 1,000 years as a day. We read that in Psalm 90.",
+    "is_implicit": true,
+    "video_id": "14-YoafCO5U",
+    "start_time": 1065.6199951171875,
+    "end_time": 1128.0999755859375
   }
 ]

@@ -2605,5 +2605,38 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 117.5199966430664,
     "end_time": 189.0399932861328
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 33,
+    "verse": 3,
+    "reference_text": "Jeremiah 33:3",
+    "context": "prior to the promise that we read in Jeremiah 33-3, it starts out by saying, call unto me",
+    "is_implicit": false,
+    "video_id": "GOhUNz1pDM0",
+    "start_time": 310.9599914550781,
+    "end_time": 375.44000244140625
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 33,
+    "verse": 3,
+    "reference_text": "Jeremiah 33:3",
+    "context": "God says this to Jeremiah in Jeremiah 33, 3, calling to me, and then He says this, and I will answer thee and show thee great and mighty things which thou knowest not.",
+    "is_implicit": false,
+    "video_id": "GOhUNz1pDM0",
+    "start_time": 1050.719970703125,
+    "end_time": 1124.0
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 17,
+    "verse": 9,
+    "reference_text": "Jeremiah 17:9",
+    "context": "God's Word says your heart is deceitful. Don't trust in your heart.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 870.1400146484375,
+    "end_time": 937.1000061035156
   }
 ]

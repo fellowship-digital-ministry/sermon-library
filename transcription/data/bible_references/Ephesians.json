@@ -10316,5 +10316,38 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 117.5199966430664,
     "end_time": 189.0399932861328
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Ephesians chapter number one",
+    "context": "if you read Ephesians chapter number one, God determined before the foundation of the world that there was only one way that mankind would be saved and that was through Jesus Christ.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 1188.3400268554688,
+    "end_time": 1246.7399787902832
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 25,
+    "reference_text": "Ephesians 4:25",
+    "context": "know what Paul says in Ephesians 4? Stop lying. Speak the truth.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2330.0800170898438,
+    "end_time": 2411.0400171279907
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "reference_text": "Ephesians 2:8",
+    "context": "Ephesians 2 says that for by grace you're saved through faith and not of yourselves. It's the gift of God, not of works, lest any man should boast.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2476.60001373291,
+    "end_time": 2543.240020751953
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "video_id": "GOhUNz1pDM0",
+  "title": "\"Ask, Seek, Knock\"   Matthew 7:7-11",
+  "publish_date": 20250512,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\GOhUNz1pDM0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\GOhUNz1pDM0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GOhUNz1pDM0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GOhUNz1pDM0.vtt",
+  "duration": 1495,
+  "transcription_timestamp": "2025-05-12T15:38:36.746572",
+  "model": "whisper-1"
+}

@@ -21118,5 +21118,49 @@
     "video_id": "_utmsqe125g",
     "start_time": 1342.6000213623047,
     "end_time": 1408.4200134277344
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": null,
+    "reference_text": "John 14",
+    "context": "Paul didn't hear the voice when Jesus was speaking to the disciples in John 14, but he understood the truth.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2033.8999633789062,
+    "end_time": 2093.8999633789062
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "for God so loved the world that he gave",
+    "context": "for God so loved the world that he gave God in his love and his grace",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 1610.9599914550781,
+    "end_time": 1682.0399780273438
+  },
+  {
+    "book": "John",
+    "chapter": 2,
+    "verse": null,
+    "reference_text": "John chapter number two",
+    "context": "John uses this little phrase at the end of John chapter number two that we would be ashamed at Him at His appearing.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 1851.96000289917,
+    "end_time": 1904.8400039672852
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 6,
+    "reference_text": "John 14:6",
+    "context": "Jesus said, I am the way, the truth and the life. No man cometh unto the Father but by me.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2193.3600158691406,
+    "end_time": 2264.0800170898438
   }
 ]

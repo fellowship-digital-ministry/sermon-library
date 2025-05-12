@@ -5729,5 +5729,71 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 1059.9200134277344,
     "end_time": 1150.2200317382812
+  },
+  {
+    "book": "Philippians",
+    "chapter": 1,
+    "verse": 23,
+    "reference_text": "Philippians 1:23",
+    "context": "he was in a straight betwixt two. What was the straight betwixt two? Having a desire to part, to be with Christ, which is far better.",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 2306.06005859375,
+    "end_time": 2363.0200805664062
+  },
+  {
+    "book": "Philippians",
+    "chapter": 1,
+    "verse": 21,
+    "reference_text": "Philippians 1:21",
+    "context": "for me to live as Christ, but to die as gain.",
+    "is_implicit": false,
+    "video_id": "iYsTC-osByQ",
+    "start_time": 2306.06005859375,
+    "end_time": 2363.0200805664062
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "verse": 4,
+    "reference_text": "Philippians 3:4",
+    "context": "Paul had, we're going to start reading verse number 4.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2796.1600036621094,
+    "end_time": 2880.300018310547
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "verse": 4,
+    "reference_text": "Philippians 3:4",
+    "context": "though, verse number 4, Philippians 3, though I might also have confidence in the flesh.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2880.300018310547,
+    "end_time": 2934.260009765625
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "verse": 8,
+    "reference_text": "Philippians 3:8",
+    "context": "of Christ Jesus my Lord, for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2934.260009765625,
+    "end_time": 2999.02001953125
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "verse": 9,
+    "reference_text": "Philippians 3:9",
+    "context": "and then notice what he says in verse nine, and be found in him, not having mine own righteousness which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2934.260009765625,
+    "end_time": 2999.02001953125
   }
 ]

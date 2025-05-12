@@ -10140,5 +10140,16 @@
     "video_id": "__bA4Uw99tw",
     "start_time": 1802.8200073242188,
     "end_time": 1874.0600051879883
+  },
+  {
+    "book": "1 John",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "1 John",
+    "context": "The spirit of antichrist doth work already according to what John says in 1 John.",
+    "is_implicit": true,
+    "video_id": "14-YoafCO5U",
+    "start_time": 1921.8999633789062,
+    "end_time": 1977.8999633789062
   }
 ]

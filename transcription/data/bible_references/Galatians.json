@@ -5267,5 +5267,71 @@
     "video_id": "_pCyHOxnY7Y",
     "start_time": 2669.260009765625,
     "end_time": 2745.260009765625
+  },
+  {
+    "book": "Galatians",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "the book of Galatians",
+    "context": "you read the book of Galatians, he said, I receive this with the revelation of Jesus Christ.",
+    "is_implicit": false,
+    "video_id": "14-YoafCO5U",
+    "start_time": 2033.8999633789062,
+    "end_time": 2093.8999633789062
+  },
+  {
+    "book": "Galatians",
+    "chapter": 3,
+    "verse": 6,
+    "reference_text": "Galatians 3:6",
+    "context": "In Galatians chapter number 3 and verse number 6, the Bible says, even as Abraham believed God and it was accounted to him for righteousness.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2668.8200073242188,
+    "end_time": 2726.8400268554688
+  },
+  {
+    "book": "Galatians",
+    "chapter": 3,
+    "verse": 21,
+    "reference_text": "Galatians 3:21",
+    "context": "I want you to skip down and look at verse number 21, if you will. The Bible says, is the law then against the promises",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2668.8200073242188,
+    "end_time": 2726.8400268554688
+  },
+  {
+    "book": "Galatians",
+    "chapter": 3,
+    "verse": 21,
+    "reference_text": "Galatians 3:21",
+    "context": "for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2726.8400268554688,
+    "end_time": 2796.1600036621094
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": 21,
+    "reference_text": "Galatians 2:21",
+    "context": "For if righteousness come by the law, then Christ is dead in vain.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2726.8400268554688,
+    "end_time": 2796.1600036621094
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": 21,
+    "reference_text": "Galatians 2:21",
+    "context": "if righteousness come by the law, then Christ is dead in vain.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2796.1600036621094,
+    "end_time": 2880.300018310547
   }
 ]

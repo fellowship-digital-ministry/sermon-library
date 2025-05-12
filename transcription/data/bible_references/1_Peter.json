@@ -6730,5 +6730,93 @@
     "video_id": "_utmsqe125g",
     "start_time": 2784.5199584960938,
     "end_time": 2848.9199829101562
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 21,
+    "reference_text": "1 Peter 2:21",
+    "context": "Bible says in verse 21 of 1 Peter chapter 2, for even unto, excuse me, for even here unto were ye called because Christ also suffered for us, leaving us an example that you should follow His steps.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 1971.8399963378906,
+    "end_time": 2042.3200073242188
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 22,
+    "reference_text": "1 Peter 2:22",
+    "context": "who did no sin, neither was guile found in his mouth.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2042.3200073242188,
+    "end_time": 2121.279998779297
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 23,
+    "reference_text": "1 Peter 2:23",
+    "context": "who when he was reviled, reviled not again. When he suffered, he threatened not, but committed himself to him that judgeth righteously.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2042.3200073242188,
+    "end_time": 2121.279998779297
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 24,
+    "reference_text": "1 Peter 2:24",
+    "context": "To his own self bear our sins and his own body on the tree, that we being dead to sin should live unto righteousness, by whose stripes ye were healed.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2042.3200073242188,
+    "end_time": 2121.279998779297
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 25,
+    "reference_text": "1 Peter 2:25",
+    "context": "For ye were as sheep going astray, but are now returned to the shepherd and bishop of your souls.",
+    "is_implicit": true,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2042.3200073242188,
+    "end_time": 2121.279998779297
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 25,
+    "reference_text": "1 Peter 2:25",
+    "context": "The Bible says that we were as sheep going astray, but now are returned to the shepherd and bishop of your souls.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2121.279998779297,
+    "end_time": 2192.6400146484375
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 24,
+    "reference_text": "1 Peter 2:24",
+    "context": "he also bear our sins in his own body on the tree.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2121.279998779297,
+    "end_time": 2192.6400146484375
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "1 Peter 3:18",
+    "context": "the Bible says, for Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God being put to death in the flesh and quickened by the spirit.",
+    "is_implicit": false,
+    "video_id": "vVjqEYUgWc4",
+    "start_time": 2121.279998779297,
+    "end_time": 2192.6400146484375
   }
 ]

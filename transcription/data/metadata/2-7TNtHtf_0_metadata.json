@@ -1,0 +1,12 @@
+{
+  "video_id": "2-7TNtHtf_0",
+  "title": "\"A Virtuous Woman\"  Ruth 3:11",
+  "publish_date": 20250511,
+  "audio_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\audio\\2-7TNtHtf_0.mp3",
+  "transcript_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\transcripts\\2-7TNtHtf_0.json",
+  "srt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2-7TNtHtf_0.srt",
+  "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2-7TNtHtf_0.vtt",
+  "duration": 2769,
+  "transcription_timestamp": "2025-05-12T15:43:05.840341",
+  "model": "whisper-1"
+}

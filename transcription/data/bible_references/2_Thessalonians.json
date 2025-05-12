@@ -1395,5 +1395,27 @@
     "video_id": "_3aYAqg0rb4",
     "start_time": 376.760009765625,
     "end_time": 452.55999755859375
+  },
+  {
+    "book": "2 Thessalonians",
+    "chapter": 2,
+    "verse": null,
+    "reference_text": "2 Thessalonians chapter number 2",
+    "context": "According to what we read in 2 Thessalonians chapter number 2 and 3, we begin to understand this",
+    "is_implicit": true,
+    "video_id": "14-YoafCO5U",
+    "start_time": 1921.8999633789062,
+    "end_time": 1977.8999633789062
+  },
+  {
+    "book": "2 Thessalonians",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "2 Thessalonians chapter number 3",
+    "context": "According to what we read in 2 Thessalonians chapter number 2 and 3, we begin to understand this",
+    "is_implicit": true,
+    "video_id": "14-YoafCO5U",
+    "start_time": 1921.8999633789062,
+    "end_time": 1977.8999633789062
   }
 ]

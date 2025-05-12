@@ -7,6 +7,7 @@ and processes them through the transcription pipeline.
 """
 import argparse
 import csv
+import importlib.util
 import json
 import logging
 import os
@@ -19,13 +20,6 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
-# Try to import the enhanced downloader
-try:
-    from enhanced_downloader import download_audio as enhanced_download_audio
-    HAS_ENHANCED_DOWNLOADER = True
-except ImportError:
-    HAS_ENHANCED_DOWNLOADER = False
-
 # Set up logging
 logging.basicConfig(
     level=logging.INFO,
@@ -36,6 +30,27 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+def import_selenium_downloader():
+    """Dynamically import the selenium_youtube_downloader module if available."""
+    try:
+        # Check if selenium is installed
+        import selenium
+        
+        # Try to import the selenium_youtube_downloader module
+        module_path = Path(__file__).parent / "selenium_youtube_downloader.py"
+        
+        if module_path.exists():
+            spec = importlib.util.spec_from_file_location("selenium_youtube_downloader", module_path)
+            module = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(module)
+            return module
+        else:
+            # Try to import as a regular module (if installed)
+            return importlib.import_module("selenium_youtube_downloader")
+    except ImportError as e:
+        logger.warning(f"Selenium downloader not available: {e}")
+        return None
 
 def get_channel_id_from_handle(channel_handle: str) -> Optional[str]:
     """Convert a YouTube handle (@username) to a channel ID"""
@@ -136,18 +151,6 @@ def fetch_channel_videos_api(channel_id: str, api_key: str, max_videos: int = 5)
         logger.error(f"Error fetching videos from YouTube API: {e}")
         return []
 
-def get_random_user_agent() -> str:
-    """Return a random user agent"""
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
-        "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-    ]
-    import random
-    return random.choice(user_agents)
-
 def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None, max_retries: int = 3) -> Tuple[bool, str]:
     """Run yt-dlp with given arguments and return output with retry logic"""
     command = ["yt-dlp"] + args
@@ -175,9 +178,8 @@ def run_yt_dlp(args: List[str], cookies_file: Optional[str] = None, max_retries:
             
             # Wait before retrying (increasing delay)
             if attempt < max_retries - 1:
-                import random
-                sleep_time = (attempt + 1) * 5 + random.uniform(1, 3)
-                logger.info(f"Waiting {sleep_time:.1f}s before retrying...")
+                sleep_time = (attempt + 1) * 5
+                logger.info(f"Waiting {sleep_time}s before retrying...")
                 time.sleep(sleep_time)
                 
         except Exception as e:
@@ -196,7 +198,7 @@ def fetch_channel_videos(channel_url: str, cookies_file: Optional[str] = None, m
         "--playlist-end", str(max_videos),
         "--no-warnings",
         # Add user agent and headers to reduce blocking
-        "--user-agent", get_random_user_agent(),
+        "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "--add-header", "Accept-Language:en-US,en;q=0.9",
         # Add delays to avoid rate limiting
         "--sleep-interval", "3",
@@ -228,7 +230,7 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
     args = [
         "--dump-json",
         f"https://www.youtube.com/watch?v={video_id}",
-        "--user-agent", get_random_user_agent(),
+        "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "--add-header", "Accept-Language:en-US,en;q=0.9",
         "--sleep-interval", "3", 
         "--max-sleep-interval", "6"
@@ -243,30 +245,36 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
         except json.JSONDecodeError:
             logger.error(f"Could not parse JSON for video {video_id}")
     
-    # If getting metadata failed, try enhanced downloader if available
-    logger.warning(f"Metadata fetch failed for {video_id}, trying enhanced download approach")
+    # If getting metadata failed, try direct audio download
+    logger.warning(f"Metadata fetch failed for {video_id}, trying direct audio download")
     
-    if HAS_ENHANCED_DOWNLOADER:
-        output_dir = "data/audio"
-        os.makedirs(output_dir, exist_ok=True)
-        
-        success = enhanced_download_audio(video_id, output_dir)
-        if success:
-            logger.info(f"Successfully downloaded audio for {video_id} using enhanced downloader")
-            # Create minimal metadata
-            return {
-                "video_id": video_id,
-                "title": f"Unknown Title ({video_id})",
-                "description": "",
-                "upload_date": datetime.now().strftime('%Y%m%d'),
-                "duration": 0,
-                "view_count": 0,
-                "like_count": 0,
-                "url": f"https://www.youtube.com/watch?v={video_id}",
-                "thumbnail": ""
-            }
+    # Create output directory if it doesn't exist
+    os.makedirs("data/audio", exist_ok=True)
     
-    # Try legacy fallback methods
+    audio_args = [
+        "-x",
+        "--audio-format", "mp3",
+        "--audio-quality", "0",
+        "-o", f"data/audio/{video_id}.%(ext)s",
+        f"https://www.youtube.com/watch?v={video_id}"
+    ]
+    
+    success, _ = run_yt_dlp(audio_args, cookies_file)
+    if success:
+        # Create minimal metadata
+        return {
+            "video_id": video_id,
+            "title": f"Unknown Title ({video_id})",
+            "description": "",
+            "upload_date": datetime.now().strftime('%Y%m%d'),
+            "duration": 0,
+            "view_count": 0,
+            "like_count": 0,
+            "url": f"https://www.youtube.com/watch?v={video_id}",
+            "thumbnail": ""
+        }
+    
+    # If we couldn't get audio either, try pytube as a fallback
     try:
         from pytube import YouTube
         logger.info(f"Attempting pytube download for {video_id}")
@@ -293,6 +301,25 @@ def get_video_details(video_id: str, cookies_file: Optional[str] = None) -> Opti
             }
     except Exception as e:
         logger.error(f"Pytube fallback failed: {e}")
+    
+    # If all else fails, try Selenium
+    try:
+        # Try to download with Selenium
+        selenium_result = download_video_audio_with_selenium(video_id, "data/audio", cookies_file)
+        if selenium_result:
+            return {
+                "video_id": video_id,
+                "title": f"Unknown Title ({video_id}) - Selenium Download",
+                "description": "",
+                "upload_date": datetime.now().strftime('%Y%m%d'),
+                "duration": 0,
+                "view_count": 0,
+                "like_count": 0,
+                "url": f"https://www.youtube.com/watch?v={video_id}",
+                "thumbnail": ""
+            }
+    except Exception as e:
+        logger.error(f"Selenium fallback failed: {e}")
     
     return None
 
@@ -416,7 +443,7 @@ def check_for_new_videos_api(channel_id: str, api_key: str, csv_path: str, max_v
             existing_videos[video_id] = video_data
             new_videos.append(video_id)
             
-        elif existing_videos[video_id].get("processing_status") in ["failed", "pending", "", "download_failed"]:
+        elif existing_videos[video_id].get("processing_status") in ["failed", "pending", ""]:
             # This is a video that needs to be reprocessed
             logger.info(f"Video needs processing: {video_id} - {existing_videos[video_id].get('title', 'Unknown Title')}")
             existing_videos[video_id]["processing_status"] = "pending"
@@ -502,7 +529,7 @@ def check_for_new_videos(channel_url: str, csv_path: str, cookies_file: Optional
             existing_videos[video_id] = video_data
             new_videos.append(video_id)
             
-        elif existing_videos[video_id].get("processing_status") in ["failed", "pending", "", "download_failed"]:
+        elif existing_videos[video_id].get("processing_status") in ["failed", "pending", ""]:
             # This is a video that needs to be reprocessed
             logger.info(f"Video needs processing: {video_id} - {existing_videos[video_id].get('title', 'Unknown Title')}")
             updated_videos.append(video_id)
@@ -514,94 +541,6 @@ def check_for_new_videos(channel_url: str, csv_path: str, cookies_file: Optional
     
     # Return combined list of videos that need processing
     return new_videos + updated_videos
-
-def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_file: Optional[str] = None) -> bool:
-    """
-    Download just the audio from a YouTube video using enhanced downloader if available.
-    
-    Args:
-        video_id: YouTube video ID
-        output_dir: Directory to save the audio file
-        cookies_file: Optional path to cookies file
-        
-    Returns:
-        True if successful, False otherwise
-    """
-    logger.info(f"Downloading audio for video {video_id}")
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # First try with enhanced downloader if available
-    if HAS_ENHANCED_DOWNLOADER:
-        logger.info(f"Using enhanced downloader for {video_id}")
-        success = enhanced_download_audio(video_id, output_dir)
-        if success:
-            logger.info(f"Successfully downloaded audio with enhanced downloader: {video_id}")
-            return True
-        logger.warning(f"Enhanced downloader failed for {video_id}, trying fallback methods")
-    
-    # Try with yt-dlp as fallback
-    # Arguments for yt-dlp to download audio
-    args = [
-        "-x",  # Extract audio
-        "--audio-format", "mp3",  # Convert to MP3
-        "--audio-quality", "0",  # Best quality
-        "-o", f"{output_dir}/{video_id}.%(ext)s",  # Output filename
-        "--no-warnings",
-        # Add user agent and headers to reduce blocking
-        "--user-agent", get_random_user_agent(),
-        "--add-header", "Accept-Language:en-US,en;q=0.9",
-        # Add retries and delays
-        "--retries", "5",
-        "--sleep-interval", "3",
-        "--max-sleep-interval", "6",
-        f"https://www.youtube.com/watch?v={video_id}"
-    ]
-    
-    success, output = run_yt_dlp(args, cookies_file, max_retries=3)
-    
-    if not success:
-        logger.warning(f"yt-dlp failed for {video_id}, trying pytube fallback")
-        
-        # Try fallback using pytube
-        try:
-            from pytube import YouTube
-            logger.info(f"Attempting pytube download for {video_id}")
-            
-            url = f"https://www.youtube.com/watch?v={video_id}"
-            yt = YouTube(url)
-            stream = yt.streams.filter(only_audio=True).first()
-            
-            if stream:
-                output_file = stream.download(output_path=output_dir, filename=f"{video_id}.mp4")
-                logger.info(f"Successfully downloaded {video_id} using pytube to {output_file}")
-                
-                # Convert to MP3 if necessary
-                mp3_file = os.path.join(output_dir, f"{video_id}.mp3")
-                if not output_file.endswith('.mp3'):
-                    try:
-                        subprocess.run([
-                            "ffmpeg", "-i", output_file, "-vn", "-ab", "128k", 
-                            "-ar", "44100", "-y", mp3_file
-                        ], check=True, capture_output=True)
-                        # Remove original file
-                        os.remove(output_file)
-                        logger.info(f"Converted {output_file} to {mp3_file}")
-                    except Exception as e:
-                        logger.warning(f"FFmpeg conversion failed: {e}")
-                        # If conversion fails, just rename the file
-                        os.rename(output_file, mp3_file)
-                
-                return True
-            else:
-                logger.error(f"No audio stream available for {video_id}")
-                return False
-        except Exception as e:
-            logger.error(f"Pytube fallback failed: {e}")
-            return False
-    
-    return True
 
 def process_new_videos(csv_path: str):
     """Process newly discovered videos using the transcription pipeline."""
@@ -642,6 +581,200 @@ def cleanup_audio_files():
         except Exception as e:
             logger.error(f"Error cleaning up audio files in {audio_dir}: {e}")
 
+def download_video_audio_with_selenium(video_id: str, output_dir: str = "data/audio", cookies_file: Optional[str] = None) -> bool:
+    """
+    Download video audio using the Selenium-based downloader if available.
+    
+    Args:
+        video_id: YouTube video ID
+        output_dir: Directory to save the audio file
+        cookies_file: Optional path to cookies file
+        
+    Returns:
+        True if successful, False otherwise
+    """
+    logger.info(f"Attempting to download video {video_id} with Selenium")
+    
+    # Try to import the Selenium downloader
+    selenium_downloader = import_selenium_downloader()
+    
+    if not selenium_downloader:
+        logger.warning("Selenium downloader not available")
+        return False
+    
+    try:
+        # Use the downloader function
+        return selenium_downloader.download_youtube_audio_with_selenium(
+            video_id=video_id,
+            output_dir=output_dir,
+            cookies_file=cookies_file,
+            headless=True
+        )
+    except Exception as e:
+        logger.error(f"Error with Selenium downloader: {e}")
+        return False
+
+def download_video_audio(video_id: str, output_dir: str = "data/audio", cookies_file: Optional[str] = None) -> bool:
+    """
+    Download just the audio from a YouTube video using yt-dlp with Selenium fallback.
+    
+    Args:
+        video_id: YouTube video ID
+        output_dir: Directory to save the audio file
+        cookies_file: Optional path to cookies file
+        
+    Returns:
+        True if successful, False otherwise
+    """
+    logger.info(f"Downloading audio for video {video_id}")
+    
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Arguments for yt-dlp to download audio
+    args = [
+        "-x",  # Extract audio
+        "--audio-format", "mp3",  # Convert to MP3
+        "--audio-quality", "0",  # Best quality
+        "-o", f"{output_dir}/{video_id}.%(ext)s",  # Output filename
+        "--no-warnings",
+        # Add user agent and headers to reduce blocking
+        "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "--add-header", "Accept-Language:en-US,en;q=0.9",
+        # Add retries and delays
+        "--retries", "5",
+        "--sleep-interval", "3",
+        "--max-sleep-interval", "6",
+        f"https://www.youtube.com/watch?v={video_id}"
+    ]
+    
+    success, output = run_yt_dlp(args, cookies_file, max_retries=3)
+    
+    if success:
+        return True
+    
+    # If yt-dlp failed, try pytube
+    try:
+        from pytube import YouTube
+        logger.info(f"Attempting pytube download for {video_id}")
+        
+        url = f"https://www.youtube.com/watch?v={video_id}"
+        yt = YouTube(url)
+        stream = yt.streams.filter(only_audio=True).first()
+        
+        if stream:
+            output_file = stream.download(output_path=output_dir, filename=f"{video_id}.mp4")
+            logger.info(f"Successfully downloaded {video_id} using pytube to {output_file}")
+            return True
+        else:
+            logger.error(f"No audio stream available for {video_id}")
+    except Exception as e:
+        logger.error(f"Pytube fallback failed: {e}")
+    
+    # If both yt-dlp and pytube failed, try the Selenium approach
+    return download_video_audio_with_selenium(video_id, output_dir, cookies_file)
+
+def download_audio_from_youtube(video_id, output_dir="data/audio", cookies_file=None):
+    """
+    Download audio using either cookies or a direct API approach
+    """
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f"{video_id}.mp3")
+    
+    # Try using cookies if provided
+    if cookies_file and os.path.exists(cookies_file):
+        logger.info(f"Attempting download with cookies: {video_id}")
+        success, _ = run_yt_dlp([
+            "-x", 
+            "--audio-format", "mp3",
+            "--audio-quality", "0",
+            "-o", f"{output_dir}/{video_id}.%(ext)s",
+            f"https://www.youtube.com/watch?v={video_id}"
+        ], cookies_file, max_retries=1)
+        
+        if success:
+            logger.info(f"Successfully downloaded audio with cookies: {video_id}")
+            return True
+    
+    # If cookies failed or not provided, try an alternative approach
+    try:
+        # Try using the Invidious API approach
+        invidious_instances = [
+            "https://invidious.snopyta.org",
+            "https://inv.riverside.rocks",
+            "https://invidio.xamh.de",
+            "https://y.com.sb",
+            "https://invidious.kavin.rocks"
+        ]
+        
+        for instance in invidious_instances:
+            try:
+                logger.info(f"Trying Invidious instance {instance} for {video_id}")
+                # First get video details from Invidious
+                api_url = f"{instance}/api/v1/videos/{video_id}"
+                response = requests.get(api_url, timeout=10)
+                
+                if response.status_code == 200:
+                    video_data = response.json()
+                    
+                    # Find the audio stream
+                    for fmt in video_data.get("adaptiveFormats", []):
+                        if fmt.get("type", "").startswith("audio"):
+                            audio_url = fmt.get("url")
+                            if audio_url:
+                                logger.info(f"Found audio URL via Invidious: {video_id}")
+                                # Download the audio file
+                                audio_response = requests.get(audio_url, stream=True, timeout=30)
+                                if audio_response.status_code == 200:
+                                    with open(output_file, 'wb') as f:
+                                        for chunk in audio_response.iter_content(chunk_size=8192):
+                                            f.write(chunk)
+                                    logger.info(f"Successfully downloaded audio via Invidious: {video_id}")
+                                    return True
+                            break
+            except Exception as e:
+                logger.warning(f"Invidious instance {instance} failed: {e}")
+                continue
+        
+        # Next option: Try the YouTube Music API approach
+        logger.info(f"Trying YouTube Music API for {video_id}")
+        try:
+            from pytube import YouTube
+            yt = YouTube(f"https://www.youtube.com/watch?v={video_id}")
+            
+            # Get audio-only stream
+            stream = yt.streams.filter(only_audio=True).first()
+            if stream:
+                # Download to temporary file
+                temp_file = stream.download(output_path=output_dir, filename=f"temp_{video_id}")
+                
+                # Convert to mp3 using ffmpeg if needed
+                if not temp_file.endswith('.mp3'):
+                    mp3_file = os.path.join(output_dir, f"{video_id}.mp3")
+                    subprocess.run([
+                        "ffmpeg", "-i", temp_file, "-vn", "-ab", "128k", 
+                        "-ar", "44100", "-y", mp3_file
+                    ], check=True, capture_output=True)
+                    
+                    # Remove temp file
+                    os.remove(temp_file)
+                    
+                logger.info(f"Successfully downloaded audio with pytube: {video_id}")
+                return True
+        except Exception as e:
+            logger.warning(f"YouTube Music API approach failed: {e}")
+        
+        # Try the Selenium approach as a final fallback
+        return download_video_audio_with_selenium(video_id, output_dir, cookies_file)
+            
+        logger.error(f"All download methods failed for {video_id}")
+        return False
+        
+    except Exception as e:
+        logger.error(f"Error downloading audio for {video_id}: {e}")
+        return False
+
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(description="Monitor YouTube channel for new videos")
@@ -652,7 +785,11 @@ def main():
     parser.add_argument("--process", action="store_true", help="Process new videos immediately")
     parser.add_argument("--cleanup", action="store_true", help="Delete audio files after processing")
     parser.add_argument("--max", type=int, default=5, help="How many recent videos to scan")
-    parser.add_argument("--force-download", action="store_true", help="Force download even for 'needs_audio' videos")
+    parser.add_argument("--user-agent", help="User agent to use for requests")
+    
+    # Add Selenium-specific arguments
+    parser.add_argument("--use-selenium", action="store_true", help="Use Selenium-based downloader directly")
+    parser.add_argument("--no-headless", action="store_true", help="Run Selenium in visible mode (not headless)")
     
     # YouTube API related arguments
     parser.add_argument("--youtube-api", action="store_true", help="Use YouTube API instead of yt-dlp")
@@ -668,6 +805,53 @@ def main():
     # Create output directory if it doesn't exist
     os.makedirs(os.path.dirname(args.csv_file), exist_ok=True)
     
+    # If --use-selenium flag is provided, directly download videos using Selenium
+    if args.use_selenium:
+        # Load existing videos from CSV
+        existing_videos, columns = load_video_list(args.csv_file)
+        
+        # Filter for pending videos
+        pending_videos = [vid_id for vid_id, data in existing_videos.items() 
+                          if data.get('processing_status') in ['pending', 'failed', '']]
+        
+        if not pending_videos:
+            logger.info("No pending videos found for Selenium processing")
+            return 0
+        
+        logger.info(f"Using Selenium to download {len(pending_videos)} pending videos")
+        
+        # Try to import the Selenium downloader
+        selenium_downloader = import_selenium_downloader()
+        if not selenium_downloader:
+            logger.error("Selenium downloader not available, please install selenium and chromedriver")
+            return 1
+        
+        # Download each pending video
+        success_count = 0
+        for video_id in pending_videos:
+            success = selenium_downloader.download_youtube_audio_with_selenium(
+                video_id=video_id,
+                output_dir=os.path.join(args.output_dir, "audio"),
+                cookies_file=args.cookies,
+                headless=not args.no_headless
+            )
+            
+            if success:
+                success_count += 1
+            
+        logger.info(f"Downloaded {success_count}/{len(pending_videos)} videos with Selenium")
+        
+        # Process if requested and videos were downloaded
+        if args.process and success_count > 0:
+            process_new_videos(args.csv_file)
+        
+        # Clean up if requested
+        if args.cleanup:
+            cleanup_audio_files()
+        
+        return 0 if success_count > 0 else 1
+    
+    # Otherwise, proceed with normal operation
     # Decide which method to use
     new_videos = []
     if args.youtube_api:
@@ -702,62 +886,13 @@ def main():
         logger.info(f"Using yt-dlp to check for new videos (channel: {args.channel})")
         new_videos = check_for_new_videos(args.channel, args.csv_file, args.cookies, args.max)
     
-    # Check for videos that need audio and try to download them
-    if args.force_download or (HAS_ENHANCED_DOWNLOADER and not args.process):
-        videos_needing_audio = []
-        
-        # Load the CSV to find videos needing audio
-        videos, _ = load_video_list(args.csv_file)
-        for video_id, data in videos.items():
-            if data.get("processing_status") in ["needs_audio", "download_failed"]:
-                videos_needing_audio.append(video_id)
-        
-        if videos_needing_audio:
-            logger.info(f"Found {len(videos_needing_audio)} videos needing audio, attempting to download")
-            
-            # Create audio directory
-            audio_dir = os.path.join(args.output_dir, "audio")
-            os.makedirs(audio_dir, exist_ok=True)
-            
-            # Try to download audio for each video
-            for video_id in videos_needing_audio:
-                logger.info(f"Downloading audio for {video_id} using enhanced methods")
-                
-                # Try to download using enhanced downloader
-                if HAS_ENHANCED_DOWNLOADER:
-                    success = enhanced_download_audio(video_id, audio_dir)
-                else:
-                    success = download_video_audio(video_id, audio_dir, args.cookies)
-                
-                if success:
-                    logger.info(f"Successfully downloaded audio for {video_id}")
-                    
-                    # Update status in CSV
-                    videos[video_id]["processing_status"] = "pending"
-                    
-                    # Add to list of new videos to process
-                    if video_id not in new_videos:
-                        new_videos.append(video_id)
-                else:
-                    logger.error(f"Failed to download audio for {video_id}")
-                    videos[video_id]["processing_status"] = "download_failed"
-            
-            # Save updated video statuses
-            save_video_list(videos, list(videos[next(iter(videos))].keys()), args.csv_file)
-    
     # Process if requested and new videos found
     if args.process and new_videos:
-        # Before processing, ensure we have the audio files if using API
+        # Before processing, ensure we have the audio files
         if args.youtube_api:
             # When using the API, we need to download the audio files separately
-            audio_dir = os.path.join(args.output_dir, "audio")
-            os.makedirs(audio_dir, exist_ok=True)
-            
             for video_id in new_videos:
-                if HAS_ENHANCED_DOWNLOADER:
-                    enhanced_download_audio(video_id, audio_dir)
-                else:
-                    download_video_audio(video_id, audio_dir, args.cookies)
+                download_video_audio(video_id, os.path.join(args.output_dir, "audio"), args.cookies)
         
         # Now process the videos
         process_new_videos(args.csv_file)
@@ -767,7 +902,7 @@ def main():
         cleanup_audio_files()
     
     logger.info(f"Found {len(new_videos)} videos to process")
-    return 0
+    return 0 if len(new_videos) > 0 or not args.process else 1
 
 if __name__ == "__main__":
     sys.exit(main())

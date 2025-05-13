@@ -2069,21 +2069,27 @@ async def get_related_sermons(
         
         # If we have enough sermons, try to identify common themes
         common_themes = None
+        # Fixed version of the problematic code block
         if ENABLE_THEMATIC_ANALYSIS and len(related_list) >= 3:
             try:
-                # Get text samples from related sermons
-                sermon_samples = [
-                    f"Sermon: {s['title']}\nText: {s['sample_text']}"
-                    for s in related_list[:5]
-                ]
+                # Get text samples from related sermons - FIXED: Don't use f-strings with backslashes
+                sermon_samples = []
+                for s in related_list[:5]:
+                    sermon_samples.append("Sermon: {}\nText: {}".format(
+                        s['title'], 
+                        s['sample_text']
+                    ))
                 
-                # Add original sermon
-                sermon_samples.insert(0, f"Original Sermon: {enhanced_metadata.get('title', f'Sermon {video_id}')}\nText: {chunks[0] if chunks else ''}")
+                # Add original sermon - FIXED: Don't use nested f-strings
+                original_title = enhanced_metadata.get('title', 'Sermon {}'.format(video_id))
+                original_text = chunks[0] if chunks else ''
+                sermon_samples.insert(0, "Original Sermon: {}\nText: {}".format(original_title, original_text))
                 
-                prompt = f"""
+                # FIXED: Don't use f-string with JSON examples and escape sequences
+                prompt = """
                 Analyze these related sermon excerpts and identify 2-3 common theological or biblical themes that connect them.
                 
-                {'\n\n'.join(sermon_samples)}
+                {}
                 
                 For each theme:
                 1. Provide a concise name (e.g., "Grace through Faith")
@@ -2098,7 +2104,23 @@ async def get_related_sermons(
                         }}
                     ]
                 }}
-                """
+                """.format('\n\n'.join(sermon_samples))
+                
+                response = openai_client.chat.completions.create(
+                    model=COMPLETION_MODEL,
+                    messages=[
+                        {"role": "system", "content": "You identify common themes between related sermons."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.5,
+                    max_tokens=500,
+                    response_format={"type": "json_object"}
+                )
+                
+                result = json.loads(response.choices[0].message.content)
+                common_themes = result.get("common_themes", [])
+            except Exception as e:
+                print(f"Error identifying common themes: {str(e)}")
                 
                 response = openai_client.chat.completions.create(
                     model=COMPLETION_MODEL,

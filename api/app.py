@@ -84,6 +84,10 @@ class AnswerRequest(BaseModel):
     top_k: int = Field(5, description="Number of search results to consider")
     include_sources: bool = Field(True, description="Whether to include source information in the response")
     language: str = Field("en", description="Language for the response (en, es, zh)")
+    # New fields for title and date filtering
+    title: Optional[str] = Field(None, description="Filter by sermon title")
+    date: Optional[str] = Field(None, description="Filter by sermon date (YYYY-MM-DD)")
+    preacher: Optional[str] = Field(None, description="Filter by preacher name")
 
 class AnswerResponse(BaseModel):
     query: str
@@ -116,6 +120,14 @@ class BibleReferenceStats(BaseModel):
     top_chapters: List[Dict[str, Any]]
     old_testament_count: int
     new_testament_count: int
+
+# New model for sermon metadata
+class SermonMetadata(BaseModel):
+    video_id: str
+    title: str
+    publish_date: Optional[str] = None
+    preacher: Optional[str] = None
+    url: str
 
 # Helper function to get full language name
 def get_language_name(lang_code):
@@ -221,11 +233,12 @@ def get_youtube_timestamp_url(video_id: str, seconds: float) -> str:
     """Generate a YouTube URL with a timestamp."""
     return f"https://www.youtube.com/watch?v={video_id}&t={int(seconds)}"
 
+# Modified to include sermon metadata in the context
 def generate_ai_answer(query: str, search_results: List[SearchResult], language: str = "en") -> str:
     """Generate an AI answer based on the search results in the specified language."""
-    # Prepare the context from search results
+    # Prepare the context from search results with enhanced metadata
     context = "\n\n".join([
-        f"Segment {i+1} (Time: {format_time(result.start_time)} - {format_time(result.end_time)}):\n{result.text}"
+        f"Segment {i+1} (Sermon: \"{result.title}\", Date: {result.publish_date}, Time: {format_time(result.start_time)} - {format_time(result.end_time)}):\n{result.text}"
         for i, result in enumerate(search_results)
     ])
     
@@ -237,7 +250,7 @@ def generate_ai_answer(query: str, search_results: List[SearchResult], language:
     else:
         system_message = "You are a helpful assistant that answers questions about sermon content."
     
-    # Prepare the prompt for GPT-4 based on language
+    # Prepare the prompt for GPT-4 based on language - enhanced to mention sermon title and date
     if language == "es":
         prompt = f"""
 Responde a la siguiente pregunta basándote únicamente en los segmentos de sermón proporcionados. Si la respuesta no se encuentra en los segmentos, dilo claramente.
@@ -247,7 +260,7 @@ PREGUNTA DEL USUARIO: {query}
 SEGMENTOS DEL SERMÓN:
 {context}
 
-Responde a la pregunta basándote únicamente en los segmentos de sermón proporcionados. Incluye referencias específicas a qué segmento(s) contienen la información (por ejemplo, "En el Segmento 3, el pastor explica..."). Mantén tu respuesta enfocada y concisa.
+Responde a la pregunta basándote únicamente en los segmentos de sermón proporcionados. Incluye referencias específicas al sermón (por título y fecha) y qué segmento(s) contienen la información (por ejemplo, "En el sermón 'El Amor de Dios' del 15 de enero de 2023, Segmento 3, el pastor explica..."). Mantén tu respuesta enfocada y concisa.
         """
     elif language == "zh":
         prompt = f"""
@@ -258,7 +271,7 @@ Responde a la pregunta basándote únicamente en los segmentos de sermón propor
 讲道片段:
 {context}
 
-仅根据提供的讲道片段回答问题。包括具体引用哪个片段包含信息（例如，"在片段3中，牧师解释了..."）。保持回答重点明确和简洁。
+仅根据提供的讲道片段回答问题。包括具体引用哪个讲道（按标题和日期）和哪个片段包含信息（例如，"在2023年1月15日的'上帝的爱'讲道中，片段3中，牧师解释了..."）。保持回答重点明确和简洁。
         """
     else:
         prompt = f"""
@@ -269,7 +282,7 @@ USER QUESTION: {query}
 SERMON SEGMENTS:
 {context}
 
-Answer the question based only on the provided sermon segments. Include specific references to which segment(s) contain the information (e.g., "In Segment 3, the pastor explains..."). Keep your response focused and concise.
+Answer the question based only on the provided sermon segments. Include specific references to which sermon (by title and date) and segment(s) contain the information (e.g., "In the sermon 'God's Love' from January 15, 2023, Segment 3, the pastor explains..."). Keep your response focused and concise.
         """
     
     try:
@@ -418,11 +431,15 @@ async def health_check():
             "timestamp": datetime.now().isoformat()
         }
 
+# Modified to support title and date filtering
 @app.get("/search", response_model=SearchResponse)
 async def search(
     query: str = Query(..., description="The search query"),
     top_k: int = Query(SEARCH_TOP_K, description="Number of results to return"),
-    min_score: float = Query(0.6, description="Minimum similarity score (0-1)")
+    min_score: float = Query(0.6, description="Minimum similarity score (0-1)"),
+    title: Optional[str] = Query(None, description="Filter by sermon title (partial match)"),
+    date: Optional[str] = Query(None, description="Filter by sermon date (YYYY-MM-DD)"),
+    preacher: Optional[str] = Query(None, description="Filter by preacher name")
 ):
     """
     Search for sermon segments matching the query.
@@ -434,11 +451,28 @@ async def search(
         # Generate embedding for the query
         query_embedding = generate_embedding(query)
         
+        # Build filter dict based on parameters
+        filter_dict = {}
+        
+        if title:
+            # For Pinecone, we need to check if metadata contains this title
+            # Note: This may need adjustment based on your Pinecone plan
+            # Basic approach is exact match - more advanced would require
+            # a different filtering mechanism that supports partial matches
+            filter_dict["title"] = {"$eq": title}
+        
+        if date:
+            filter_dict["publish_date"] = {"$eq": date}
+            
+        if preacher:
+            filter_dict["preacher"] = {"$eq": preacher}
+        
         # Search Pinecone - updated for v6.0.2 API
         search_response = pinecone_index.query(
             vector=query_embedding,
             top_k=top_k,
-            include_metadata=True
+            include_metadata=True,
+            filter=filter_dict if filter_dict else None
         )
         
         # Format results - updated for v6.0.2 API and enhanced with metadata
@@ -482,6 +516,7 @@ async def search(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Search error: {str(e)}")
 
+# Modified to support title and date filtering
 @app.post("/answer", response_model=AnswerResponse)
 async def answer(request: AnswerRequest):
     """
@@ -504,11 +539,24 @@ async def answer(request: AnswerRequest):
         # Generate embedding for the translated query
         query_embedding = generate_embedding(query)
         
+        # Build filter dict based on parameters
+        filter_dict = {}
+        
+        if request.title:
+            filter_dict["title"] = {"$eq": request.title}
+        
+        if request.date:
+            filter_dict["publish_date"] = {"$eq": request.date}
+            
+        if request.preacher:
+            filter_dict["preacher"] = {"$eq": request.preacher}
+        
         # Search Pinecone - updated for v6.0.2 API
         search_response = pinecone_index.query(
             vector=query_embedding,
             top_k=request.top_k,
-            include_metadata=True
+            include_metadata=True,
+            filter=filter_dict if filter_dict else None
         )
         
         # Format search results - updated for v6.0.2 API and enhanced with metadata
@@ -759,7 +807,9 @@ async def get_transcript(
 @app.get("/sermons")
 async def list_sermons(
     limit: int = Query(100, description="Maximum number of sermons to return"),
-    offset: int = Query(0, description="Offset for pagination")
+    offset: int = Query(0, description="Offset for pagination"),
+    sort_by: str = Query("date", description="Sort by 'date' or 'title'"),
+    order: str = Query("desc", description="Sort order: 'asc' or 'desc'")
 ):
     """
     List available sermons in the library.
@@ -840,7 +890,13 @@ async def list_sermons(
         
         # Convert to list and apply sorting and pagination
         sermon_list = list(all_sermons.values())
-        sermon_list.sort(key=lambda x: x.get("publish_date", ""), reverse=True)
+        
+        # Apply sorting
+        reverse_order = order.lower() == "desc"
+        if sort_by.lower() == "title":
+            sermon_list.sort(key=lambda x: x.get("title", "").lower(), reverse=reverse_order)
+        else:  # Default to date
+            sermon_list.sort(key=lambda x: x.get("publish_date", ""), reverse=reverse_order)
         
         # Apply pagination
         paginated_sermons = sermon_list[offset:offset + limit]
@@ -924,6 +980,127 @@ async def get_sermon(video_id: str):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving sermon: {str(e)}")
+
+# New endpoints for sermon metadata filtering
+
+@app.get("/sermons/by-title")
+async def list_sermons_by_title():
+    """List all available sermon titles."""
+    try:
+        # Get all unique sermon titles from Pinecone
+        # We need to use a query that will return diverse results
+        # so we can get as many unique video_ids as possible
+        random_vector = [0.1] * 1536  # Placeholder vector
+        
+        response = pinecone_index.query(
+            vector=random_vector,
+            top_k=1000,  # Get a large batch
+            include_metadata=True
+        )
+        
+        # Extract unique titles
+        titles = {}
+        for match in response.matches:
+            metadata = match.metadata
+            video_id = metadata.get("video_id", "")
+            
+            if video_id and video_id not in titles:
+                # Load enhanced metadata
+                enhanced_metadata = load_metadata(video_id)
+                
+                title = enhanced_metadata.get("title", metadata.get("title", f"Sermon {video_id}"))
+                titles[video_id] = {
+                    "video_id": video_id, 
+                    "title": title,
+                    "publish_date": enhanced_metadata.get("publish_date", metadata.get("publish_date", "")),
+                    "url": f"https://www.youtube.com/watch?v={video_id}"
+                }
+        
+        # Convert to list and sort by title
+        title_list = list(titles.values())
+        title_list.sort(key=lambda x: x["title"])
+        
+        return {
+            "titles": title_list,
+            "total": len(title_list)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing sermon titles: {str(e)}")
+
+@app.get("/sermons/by-date")
+async def list_sermons_by_date():
+    """List all available sermon dates."""
+    try:
+        # Get all unique sermon dates from Pinecone
+        random_vector = [0.1] * 1536  # Placeholder vector
+        
+        response = pinecone_index.query(
+            vector=random_vector,
+            top_k=1000,  # Get a large batch
+            include_metadata=True
+        )
+        
+        # Extract unique dates and their associated sermons
+        dates = {}
+        for match in response.matches:
+            metadata = match.metadata
+            video_id = metadata.get("video_id", "")
+            
+            if video_id and video_id not in dates:
+                # Load enhanced metadata
+                enhanced_metadata = load_metadata(video_id)
+                
+                publish_date = enhanced_metadata.get("publish_date", metadata.get("publish_date", ""))
+                if publish_date:
+                    # Use video_id as key to avoid duplicates
+                    dates[video_id] = {
+                        "video_id": video_id,
+                        "date": publish_date,
+                        "title": enhanced_metadata.get("title", metadata.get("title", f"Sermon {video_id}")),
+                        "url": f"https://www.youtube.com/watch?v={video_id}"
+                    }
+        
+        # Convert to list and sort by date
+        date_list = list(dates.values())
+        date_list.sort(key=lambda x: x["date"], reverse=True)
+        
+        # Group by year and month for easier UI presentation
+        grouped_dates = {}
+        for sermon in date_list:
+            date_str = sermon["date"]
+            try:
+                # Try to extract year and month from date string
+                if "-" in date_str:
+                    year, month, _ = date_str.split("-", 2)
+                elif "/" in date_str:
+                    month, _, year = date_str.split("/", 2)
+                else:
+                    # If unrecognized format, use "Unknown" as year/month
+                    year, month = "Unknown", "Unknown"
+                
+                # Create year group if it doesn't exist
+                if year not in grouped_dates:
+                    grouped_dates[year] = {}
+                
+                # Create month group if it doesn't exist
+                if month not in grouped_dates[year]:
+                    grouped_dates[year][month] = []
+                
+                # Add sermon to the appropriate group
+                grouped_dates[year][month].append(sermon)
+            except Exception:
+                # If date parsing fails, add to Unknown category
+                if "Unknown" not in grouped_dates:
+                    grouped_dates["Unknown"] = {"Unknown": []}
+                grouped_dates["Unknown"]["Unknown"].append(sermon)
+        
+        return {
+            "dates": date_list,
+            "grouped_dates": grouped_dates,
+            "total": len(date_list)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing sermon dates: {str(e)}")
 
 # Bible reference endpoints
 @app.get("/bible/stats", response_model=BibleReferenceStats)

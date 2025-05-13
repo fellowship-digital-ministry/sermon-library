@@ -226,18 +226,38 @@ def preprocess_query(query: str) -> Tuple[str, Optional[int], Optional[str]]:
     date_filter = None
     title_filter = None
     
-    # Check for date references like "last Sunday" or specific dates
-    date_filter = extract_date_reference(query)
+    # Check for date references first
+    date_filter, human_readable_date = extract_date_reference(query)
     
-    # Check for title references like "sermon about love" or "the message on faith"
+    # Check for specific title patterns first
     title_match = re.search(r'(?:sermon|message|talk)(?:\s+(?:about|on|titled|called|named))?\s+["\']?([^"\'?.]+)["\']?', query, re.IGNORECASE)
     if title_match:
         title_filter = title_match.group(1).strip()
         # Remove the title reference from the query
         processed_query = re.sub(r'(?:sermon|message|talk)(?:\s+(?:about|on|titled|called|named))?\s+["\']?([^"\'?.]+)["\']?', '', processed_query, flags=re.IGNORECASE).strip()
+    else:
+        # Check if the query itself might be a sermon title or part of a sermon title
+        # This allows direct searches like "The Power of Prayer" without needing "sermon titled"
+        metadata_files = glob.glob(os.path.join(METADATA_DIR, "*_metadata.json"))
+        for metadata_file in metadata_files:
+            try:
+                with open(metadata_file, 'r', encoding='utf-8') as f:
+                    metadata = json.load(f)
+                    sermon_title = metadata.get("title", "").lower()
+                    query_lower = query.lower()
+                    
+                    # Check if the query is contained in or similar to the sermon title
+                    if query_lower in sermon_title or sermon_title in query_lower:
+                        words_in_query = set(query_lower.split())
+                        words_in_title = set(sermon_title.split())
+                        # If there's a significant word overlap, consider it a match
+                        if len(words_in_query & words_in_title) >= min(2, len(words_in_query)):
+                            title_filter = query
+                            break
+            except Exception as e:
+                print(f"Error reading metadata for title matching: {str(e)}")
     
     return processed_query, date_filter, title_filter
-
 
 
 def extract_date_reference(query: str) -> tuple[Optional[int], Optional[str]]:
@@ -420,6 +440,7 @@ def get_proper_date_from_metadata(metadata: Dict[str, Any]) -> Optional[int]:
     
     # No valid date found
     return None
+
 def format_response_with_suggestions(answer_text: str, suggested_queries: List[str]) -> str:
     """
     Formats the response text to include suggested queries in a user-friendly way.
@@ -434,7 +455,7 @@ def format_response_with_suggestions(answer_text: str, suggested_queries: List[s
     if not suggested_queries:
         return answer_text
     
-    suggestions_text = "\n\n**You might want to try these related questions:**\n"
+    suggestions_text = "\n\n**Bible-Based Questions You Might Find Helpful:**\n"
     for i, query in enumerate(suggested_queries, 1):
         suggestions_text += f"\n{i}. {query}"
     
@@ -535,9 +556,11 @@ def generate_suggested_queries_with_results(original_query: str, max_suggestions
         return suggestions, []
     
     return valid_suggestions, all_results
+
 def generate_suggested_queries(original_query: str, max_suggestions: int = 3) -> List[str]:
     """
-    Generate suggested search queries when the original query returns no results.
+    Generate suggested search queries that are specifically focused on Biblical content
+    when the original query returns no results.
     
     Args:
         original_query: The user's original query that returned no results
@@ -546,25 +569,35 @@ def generate_suggested_queries(original_query: str, max_suggestions: int = 3) ->
     Returns:
         List of suggested queries
     """
-    # If the query is completely off-topic, return a default set of suggestions
-    if is_off_topic_query(original_query):
-        return [
-            "What is faith?",
-            "Tell me about prayer",
-            "How to read the Bible"
-        ]
-    
     try:
-        # Use GPT-4o to generate related but more effective queries
+        # Use GPT-4o to generate Bible-passage-focused suggestions
         response = openai_client.chat.completions.create(
             model=COMPLETION_MODEL,
             messages=[
-                {"role": "system", "content": """You are a helpful assistant for a sermon search engine. 
-                A user's search query returned no results. Generate 3 alternative search queries related 
-                to their original query that are more likely to match sermon content. Focus on Biblical 
-                topics, spiritual concepts, and common sermon themes. Keep suggestions concise and 
-                directly related to the original intent. Return only the queries without explanations, 
-                one per line."""},
+                {"role": "system", "content": """You are a helpful assistant for an Independent Fundamental Baptist (IFB) 
+                church sermon search engine. A user's search query returned no results. Generate 3 alternative search 
+                queries related to their original query that are more likely to match sermon content.
+                
+                Follow these guidelines:
+                1. Always try to connect the query to a relevant Bible passage or principle
+                2. Focus on core Biblical topics, spiritual concepts, and common sermon themes in IFB churches
+                3. Include at least one suggestion that references a specific Bible book or passage
+                4. Keep suggestions concise and directly related to the original intent
+                5. Return only the queries without explanations, one per line
+                
+                Example 1:
+                Original query: "dealing with anxiety"
+                Suggestions:
+                What does Philippians 4:6-7 teach about worry?
+                Biblical wisdom on overcoming fear
+                Finding peace in God's promises
+                
+                Example 2:
+                Original query: "salvation requirements"
+                Suggestions: 
+                What does the Bible say about salvation through faith?
+                Romans 10:9-10 and the path to salvation
+                How to be saved according to scripture"""},
                 {"role": "user", "content": f"Original query: '{original_query}'\nPlease suggest 3 alternative search queries."}
             ],
             temperature=0.7,
@@ -582,9 +615,9 @@ def generate_suggested_queries(original_query: str, max_suggestions: int = 3) ->
         print(f"Error generating suggestions: {str(e)}")
         # Fallback suggestions if API call fails
         return [
-            "faith and doubt",
-            "grace in difficult times",
-            "understanding God's purpose"
+            "What does the Bible teach about faith?",
+            "Finding God's will in scripture",
+            "Biblical principles for Christian living"
         ]
 
 def is_off_topic_query(query: str) -> bool:
@@ -977,9 +1010,21 @@ async def search(
             enhanced_metadata = load_metadata(video_id)
             
             # Apply title filtering if specified
-            if title_filter and title_filter.lower() not in enhanced_metadata.get("title", "").lower():
-                continue
-            
+            if title_filter:
+                # Use partial matching instead of exact matching
+                title_lower = enhanced_metadata.get("title", "").lower()
+                title_filter_lower = title_filter.lower()
+                
+                # Check if title_filter is a substantial part of the title or vice versa
+                if title_filter_lower not in title_lower and title_lower not in title_filter_lower:
+                    # Check word-by-word match (for cases like "faith sermon" matching "A Sermon About Faith")
+                    title_words = set(title_lower.split())
+                    filter_words = set(title_filter_lower.split())
+                    significant_words = filter_words - {'sermon', 'message', 'about', 'on', 'the', 'a', 'an', 'and', 'or', 'of', 'in', 'for', 'with'}
+                    
+                    # If no significant match in important words, skip this result
+                    if len(title_words.intersection(significant_words)) < min(1, len(significant_words)):
+                        continue
             # Validate and get proper date
             publish_date = get_proper_date_from_metadata(enhanced_metadata)
             

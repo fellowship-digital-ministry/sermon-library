@@ -2,17 +2,21 @@ import os
 import time
 import glob
 import json
-from typing import List, Dict, Optional, Any, Union
-from datetime import datetime
+import logging
 from collections import Counter, defaultdict
+from datetime import datetime, timedelta
+from typing import List, Dict, Optional, Any, Union, Tuple
 
-from fastapi import FastAPI, HTTPException, Query, Depends, Header
+from fastapi import FastAPI, HTTPException, Query, Depends, Header, Body
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
+
 import openai
-# Updated Pinecone import for version 6.0.2
 from pinecone import Pinecone
 
+
+# Set up logger
+logger = logging.getLogger(__name__)
 # Configure API keys and settings directly from environment variables
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
@@ -1128,6 +1132,299 @@ async def get_reference(reference_id: str):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving reference: {str(e)}")
+
+
+# Define the summarize request and response models
+class SummarizeRequest(BaseModel):
+    date_reference: str = Field(..., description="Date reference like 'last sunday', a specific date 'YYYY-MM-DD', or 'latest'")
+    max_length: int = Field(500, description="Maximum length of the summary")
+    language: str = Field("en", description="Language for the response (en, es, zh)")
+    include_scripture: bool = Field(True, description="Whether to include scripture references in the summary")
+
+class SummarizeResponse(BaseModel):
+    video_id: str
+    date: str
+    title: str
+    summary: str
+    scripture_references: List[Dict] = []
+    url: str
+    processing_time: float
+
+@app.post("/summarize", response_model=SummarizeResponse)
+async def summarize_sermon(request: SummarizeRequest):
+    """
+    Generate a summary of a sermon based on a date reference.
+    Handles natural language date references like 'last sunday'.
+    """
+    start_time = time.time()
+    
+    try:
+        # Parse the date reference
+        sermon_date, video_id = await resolve_date_reference(request.date_reference)
+        
+        if not video_id:
+            raise HTTPException(
+                status_code=404, 
+                detail=f"No sermon found for date reference: {request.date_reference}"
+            )
+        
+        # Get the full transcript
+        transcript_result = await get_transcript(video_id, request.language)
+        segments = transcript_result.get("segments", [])
+        
+        if not segments:
+            raise HTTPException(
+                status_code=404, 
+                detail=f"Transcript not found for sermon on {sermon_date}"
+            )
+        
+        # Get sermon metadata
+        metadata = load_metadata(video_id)
+        
+        # Get Bible references for this sermon if requested
+        bible_references = []
+        if request.include_scripture:
+            try:
+                # Query for Bible references using Pinecone
+                filter_dict = {"video_id": {"$eq": video_id}}
+                bible_refs_query = pinecone_index.query(
+                    vector=[0.1] * 1536,  # Dummy vector
+                    filter=filter_dict,
+                    top_k=50,
+                    include_metadata=True
+                )
+                
+                # Extract Bible references from metadata if available
+                for match in bible_refs_query.matches:
+                    if "bible_references" in match.metadata:
+                        bible_references = match.metadata["bible_references"]
+                        break
+            except Exception as e:
+                logger.warning(f"Error getting Bible references: {str(e)}")
+        
+        # Generate the summary
+        summary = await generate_sermon_summary(
+            segments=segments,
+            title=metadata.get("title", "Unknown Sermon"),
+            bible_references=bible_references,
+            max_length=request.max_length,
+            language=request.language
+        )
+        
+        return SummarizeResponse(
+            video_id=video_id,
+            date=sermon_date,
+            title=metadata.get("title", "Unknown Sermon"),
+            summary=summary,
+            scripture_references=bible_references[:10] if bible_references else [],  # Limit to top 10 references
+            url=f"https://www.youtube.com/watch?v={video_id}",
+            processing_time=time.time() - start_time
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Summarization error: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error generating summary: {str(e)}")
+
+async def resolve_date_reference(date_reference: str) -> Tuple[str, Optional[str]]:
+    """
+    Convert a date reference like 'last sunday' to an actual date and find the corresponding sermon.
+    Returns a tuple of (formatted_date, video_id)
+    """
+    today = datetime.now().date()
+    target_date = None
+    
+    # Handle common natural language references
+    if date_reference.lower() == "last sunday":
+        days_since_sunday = (today.weekday() + 1) % 7  # Adjusted calculation
+        target_date = today - timedelta(days=days_since_sunday + (0 if days_since_sunday == 0 else 7))
+    elif date_reference.lower() == "yesterday":
+        target_date = today - timedelta(days=1)
+    elif date_reference.lower() == "latest" or date_reference.lower() == "most recent":
+        # Find the most recent sermon by getting the sermons list
+        sermons_response = await list_sermons(limit=1, offset=0)
+        if sermons_response.get("sermons") and len(sermons_response["sermons"]) > 0:
+            latest_sermon = sermons_response["sermons"][0]
+            return latest_sermon.get("publish_date", "Unknown date"), latest_sermon.get("video_id")
+        else:
+            raise HTTPException(status_code=404, detail="No sermons found")
+    else:
+        # Try to parse as YYYY-MM-DD
+        try:
+            target_date = datetime.strptime(date_reference, "%Y-%m-%d").date()
+        except ValueError:
+            # Try other date formats if needed
+            try:
+                target_date = datetime.strptime(date_reference, "%m/%d/%Y").date()
+            except ValueError:
+                raise HTTPException(status_code=400, detail=f"Could not understand date format: {date_reference}")
+    
+    # Format the date consistently
+    formatted_date = target_date.strftime("%Y-%m-%d")
+    
+    # Find sermon for this date
+    video_id = await find_sermon_by_date(formatted_date)
+    return formatted_date, video_id
+
+async def find_sermon_by_date(date_str: str, margin_days: int = 1) -> Optional[str]:
+    """
+    Find a sermon video ID for the given date, or within margin_days if not found.
+    """
+    # Use Pinecone filtering to find a sermon with the exact date
+    try:
+        # Get all sermons 
+        sermons_response = await list_sermons(limit=100, offset=0)
+        sermons = sermons_response.get("sermons", [])
+        
+        # First try exact date match
+        for sermon in sermons:
+            if sermon.get("publish_date") == date_str:
+                return sermon.get("video_id")
+        
+        # If not found, try within margin days
+        if margin_days > 0:
+            target_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+            
+            for i in range(1, margin_days + 1):
+                # Check days before
+                before_date = (target_date - timedelta(days=i)).strftime("%Y-%m-%d")
+                for sermon in sermons:
+                    if sermon.get("publish_date") == before_date:
+                        return sermon.get("video_id")
+                
+                # Check days after
+                after_date = (target_date + timedelta(days=i)).strftime("%Y-%m-%d")
+                for sermon in sermons:
+                    if sermon.get("publish_date") == after_date:
+                        return sermon.get("video_id")
+        
+        # No sermon found for this date
+        return None
+        
+    except Exception as e:
+        logger.error(f"Error finding sermon by date: {str(e)}")
+        return None
+
+async def generate_sermon_summary(
+    segments: List[Dict], 
+    title: str, 
+    bible_references: List[Dict] = None, 
+    max_length: int = 500, 
+    language: str = "en"
+) -> str:
+    """
+    Generate a structured summary of the sermon using the OpenAI API.
+    """
+    # Combine all segments into a full transcript
+    full_text = " ".join([segment.get("text", "") for segment in segments])
+    
+    # Truncate if extremely long to fit context window
+    max_chars = 100000  # Adjust based on your context window size
+    if len(full_text) > max_chars:
+        full_text = full_text[:max_chars] + "... [text truncated due to length]"
+    
+    # Format Bible references if available
+    bible_refs_text = ""
+    if bible_references and len(bible_references) > 0:
+        try:
+            # Attempt to format references based on structure
+            refs = []
+            for ref in bible_references[:10]:
+                if isinstance(ref, dict):
+                    book = ref.get('book', '')
+                    chapter = ref.get('chapter', '')
+                    verse = ref.get('verse', '')
+                    if book and chapter and verse:
+                        refs.append(f"{book} {chapter}:{verse}")
+                    elif book and chapter:
+                        refs.append(f"{book} {chapter}")
+                    elif book:
+                        refs.append(book)
+            
+            if refs:
+                bible_refs_text = "Key scripture references: " + ", ".join(refs)
+        except Exception as e:
+            logger.warning(f"Error formatting Bible references: {str(e)}")
+    
+    # Choose the system message based on language
+    if language == "es":
+        system_message = "Eres un asistente especializado en resumir sermones de manera clara y estructurada."
+    elif language == "zh":
+        system_message = "你是一位专门提供清晰、结构化讲道摘要的助手。"
+    else:
+        system_message = "You are a specialized assistant that creates clear, structured sermon summaries."
+    
+    # Create the prompt based on language
+    if language == "es":
+        prompt = f"""
+Crea un resumen conciso y bien estructurado del sermón titulado "{title}".
+
+{bible_refs_text}
+
+TRANSCRIPCIÓN COMPLETA DEL SERMÓN:
+{full_text}
+
+Tu resumen debe incluir:
+1. Tema principal y mensaje central
+2. Puntos clave del sermón (máximo 5)
+3. Escrituras principales mencionadas y su relevancia
+4. Aplicaciones prácticas sugeridas en el sermón
+5. Una conclusión breve
+
+Mantén el resumen informativo y directo, con un máximo de {max_length} palabras. Usa párrafos y estructura clara.
+"""
+    elif language == "zh":
+        prompt = f"""
+为标题为"{title}"的讲道创建一个简洁、结构良好的摘要。
+
+{bible_refs_text}
+
+讲道完整文本:
+{full_text}
+
+你的摘要应包括:
+1. 主题和中心信息
+2. 讲道的关键点（最多5点）
+3. 提到的主要经文及其相关性
+4. 讲道中建议的实际应用
+5. 简短的结论
+
+保持摘要信息丰富且直接，不超过{max_length}字。使用段落和清晰的结构。
+"""
+    else:
+        prompt = f"""
+Create a concise, well-structured summary of the sermon titled "{title}".
+
+{bible_refs_text}
+
+FULL SERMON TRANSCRIPT:
+{full_text}
+
+Your summary should include:
+1. Main theme and central message
+2. Key points from the sermon (maximum 5)
+3. Major scriptures mentioned and their relevance
+4. Practical applications suggested in the sermon
+5. A brief conclusion
+
+Keep the summary informative and direct, with a maximum of {max_length} words. Use paragraphs and clear structure.
+"""
+    
+    try:
+        response = openai_client.chat.completions.create(
+            model=COMPLETION_MODEL,
+            messages=[
+                {"role": "system", "content": system_message},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.3,
+            max_tokens=max(700, min(1500, max_length * 2))  # Allow enough tokens for response
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        logger.error(f"Error generating sermon summary: {str(e)}")
+        raise Exception(f"Error generating sermon summary: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn

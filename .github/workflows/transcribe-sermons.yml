@@ -32,12 +32,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip uninstall -y pinecone-client
+          pip install -r requirements.txt
           # Update to latest yt-dlp to handle current YouTube changes
           pip install --upgrade yt-dlp
-          pip install pandas openai tqdm pydub pytube
-          # Install the correct Pinecone package
-          pip uninstall -y pinecone-client
-          pip install pinecone
+          pip install pandas pytube
       
       # Create properly formatted cookies file from GitHub secret
       - name: Setup YouTube Cookies

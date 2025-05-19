@@ -1,0 +1,46 @@
+name: Podcast Ingest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  podcast-ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install yt-dlp pydub pandas openai pinecone
+
+      - name: Transcribe podcast audio
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python transcription/transcribe_audio.py
+
+      - name: Generate embeddings for transcripts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_ENVIRONMENT: ${{ secrets.PINECONE_ENVIRONMENT || 'us-east-1' }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME || 'sermon-embeddings' }}
+        run: |
+          python tools/transcript_to_embeddings.py --skip_existing
+
+      - name: Update Pinecone metadata
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_ENVIRONMENT: ${{ secrets.PINECONE_ENVIRONMENT || 'us-east-1' }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME || 'sermon-embeddings' }}
+        run: |
+          python api/update_pinecone_metadata.py --only-recent --days=7

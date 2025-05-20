@@ -44,12 +44,44 @@ from datetime import datetime
 from tqdm import tqdm
 
 import config
-from utils import extract_video_id, save_transcript, save_metadata, get_video_url
-from download_audio import download_batch, download_audio
+from utils import extract_video_id, save_transcript, save_metadata, get_video_url, get_audio_filename
+import yt_dlp
 from transcribe_audio import transcribe_batch, transcribe_audio
 from utils import generate_srt_file, generate_vtt_file
 
 logger = logging.getLogger(__name__)
+
+def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, cookies_file=None):
+    """Download audio from a YouTube video using yt-dlp."""
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = get_audio_filename(video_id, output_dir)
+
+    if os.path.exists(output_file) and not force_download:
+        logger.info(f"Audio for {video_id} already exists at {output_file}")
+        return output_file
+
+    video_url = get_video_url(video_id)
+    logger.info(f"Downloading audio from {video_url}")
+
+    ydl_opts = {
+        'format': config.YTDLP_FORMAT,
+        'postprocessors': config.YTDLP_POSTPROCESSORS,
+        'outtmpl': os.path.join(output_dir, f"{video_id}.%(ext)s"),
+        'quiet': True,
+        'no_warnings': True,
+    }
+    if cookies_file:
+        ydl_opts['cookiefile'] = cookies_file
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([video_url])
+
+        logger.info(f"Successfully downloaded audio for {video_id} to {output_file}")
+        return output_file
+    except Exception as e:
+        logger.error(f"Failed to download audio for {video_id}: {e}")
+        return None
 
 def update_video_status(csv_path, video_id, status, transcript_path=None):
     """

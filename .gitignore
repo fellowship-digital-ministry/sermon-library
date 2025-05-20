@@ -173,4 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .mp3
+transcription/data/audio/
 youtube_cookies.txt

@@ -75,6 +75,22 @@ Set the following variables so the scripts can access OpenAI and Pinecone:
 - `PINECONE_ENVIRONMENT` (defaults to `us-east-1`)
 - `PINECONE_INDEX_NAME` (defaults to `sermon-embeddings`)
 
+### Generate Embeddings
+
+After transcripts are generated you can create Pinecone embeddings using
+`tools/transcript_to_embeddings.py`. The script reads the unified
+`video_list.csv` and updates its status as vectors are uploaded.
+
+```bash
+python tools/transcript_to_embeddings.py \
+  --video_list_csv transcription/data/video_list.csv \
+  --transcript_dir transcription/data/transcripts \
+  --skip_existing
+```
+
+Ensure `OPENAI_API_KEY` and `PINECONE_API_KEY` are set in your environment.
+
+
 ## Contact
 This is an unofficial community initiative. For more information about this project, please open an issue in this repository.
 For official church information, please visit [Fellowship Baptist Church](https://www.fbcva.org/).

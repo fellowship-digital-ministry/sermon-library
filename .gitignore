@@ -175,3 +175,4 @@ cython_debug/
 .mp3
 transcription/data/audio/
 youtube_cookies.txt
+data/

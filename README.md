@@ -55,9 +55,20 @@ cd transcription
 python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
 python process_batch.py --csv data/video_list.csv
 ```
+### Windows Batch Workflow
+
+For a simple end-to-end process on Windows, use the provided `process_sermons.bat` script. It downloads new videos from the channel, transcribes them, and generates Pinecone embeddings.
+
+```cmd
+process_sermons.bat
+```
+
+Pass a different channel ID as the first argument if needed.
+
 
 ## Contact
 
 This is an unofficial community initiative. For more information about this project, please open an issue in this repository.
 
 For official church information, please visit [Fellowship Baptist Church](https://www.fbcva.org/).
+

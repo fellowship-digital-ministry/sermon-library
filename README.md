@@ -22,48 +22,36 @@ This is a community initiative project currently in development. The system will
 ## Repository Structure
 
 - `transcription/` - Python scripts for downloading and transcribing sermons
-- `database/` - Vector database integration for sermon search
 - `api/` - Backend API for querying sermon content
-- `frontend/` - Jekyll-based web interface
 
 ## Getting Started
 
 Documentation for setup and usage will be expanded as development progresses. The initial transcription system is now available in the `transcription/` directory.
 
-## Audio Files
+## Workflow
 
-Raw audio files (.mp3) are not stored in the repository. Use the download script to retrieve them:
+1. Run `rss_sermon_downloader.py` to update `data/video_list.csv` and download MP3 files.
+2. Run `process_batch.py` to transcribe the audio and generate subtitle files.
+3. Run `tools/transcript_to_embeddings.py` to push the transcripts to Pinecone.
 
-```bash
-cd transcription
-python download_audio.py --video-id <VIDEO_ID>
-```
-
-To download all videos listed in `data/video_list.csv` run:
-
-```bash
-python process_batch.py --csv data/video_list.csv
-```
-
-
-## Manual Transcription Workflow
-
-You can run the transcription tools yourself using the scripts in `transcription/`. Always provide the YouTube channel ID to process (a channel handle will work once the script supports it). The default Fellowship Baptist Church channel ID is `UCek_LI7dZopFJEvwxDnovJg`.
-
-```bash
-cd transcription
-python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
-python process_batch.py --csv data/video_list.csv
-```
 ### Windows Batch Workflow
 
-For a simple end-to-end process on Windows, use the provided `process_sermons.bat` script. It downloads new videos from the channel, transcribes them, and generates Pinecone embeddings.
+The `process_sermons.bat` script automates the above steps on Windows:
 
 ```cmd
 process_sermons.bat
 ```
 
 Pass a different channel ID as the first argument if needed.
+
+## Environment Variables
+
+Set the following variables so the scripts can access OpenAI and Pinecone:
+
+- `OPENAI_API_KEY`
+- `PINECONE_API_KEY`
+- `PINECONE_ENVIRONMENT` (defaults to `us-east-1`)
+- `PINECONE_INDEX_NAME` (defaults to `sermon-embeddings`)
 
 
 ## Contact

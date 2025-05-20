@@ -65,6 +65,19 @@ process_sermons.bat
 
 Pass a different channel ID as the first argument if needed.
 
+### Python CLI Workflow
+
+If you prefer a cross-platform approach, run the new `process_sermons.py` script
+which orchestrates the entire pipeline:
+
+```bash
+python process_sermons.py --channel-id UCek_LI7dZopFJEvwxDnovJg --embeddings
+```
+
+Additional options allow you to specify the RSS feed URL, output location and
+other settings so one command completes the download, transcription and
+embedding steps.
+
 
 ## Contact
 

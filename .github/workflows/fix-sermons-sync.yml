@@ -43,7 +43,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           cd transcription
-          python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup
+          python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
       
       - name: Force push changes
         run: |

@@ -1,13 +1,32 @@
 """
-Test script to verify Pinecone connection with direct API key input
+Test script to verify Pinecone connection using environment variables.
+
+Set the following environment variables before running:
+ - ``PINECONE_API_KEY``
+ - ``PINECONE_ENVIRONMENT``
+ - ``PINECONE_INDEX_NAME``
 """
 
 from pinecone import Pinecone
+import os
+import sys
 
-# Replace this with your actual API key when running the test
-API_KEY = "pcsk_khcUz_RPtxQCVimQASNLzn6qDhsXMxBDEEVgh7fHHJFAUqtXVbEEu18gjXjpVBDyUR2Vi"  
-ENVIRONMENT = "us-east-1"
-INDEX_NAME = "sermon-embeddings"
+API_KEY = os.environ.get("PINECONE_API_KEY")
+ENVIRONMENT = os.environ.get("PINECONE_ENVIRONMENT")
+INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME")
+
+missing = [
+    name for name, value in {
+        "PINECONE_API_KEY": API_KEY,
+        "PINECONE_ENVIRONMENT": ENVIRONMENT,
+        "PINECONE_INDEX_NAME": INDEX_NAME,
+    }.items()
+    if not value
+]
+
+if missing:
+    print(f"Error: missing environment variables: {', '.join(missing)}")
+    sys.exit(1)
 
 try:
     # Initialize Pinecone with direct API key

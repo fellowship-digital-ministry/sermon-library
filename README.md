@@ -30,19 +30,14 @@ This is a community initiative project currently in development. The system will
 
 Documentation for setup and usage will be expanded as development progresses. The initial transcription system is now available in the `transcription/` directory.
 
-## Audio Files
 
-Raw audio files (.mp3) are not stored in the repository. Use the download script to retrieve them:
+## Downloading Sermons
+
+Raw audio files (.mp3) are not stored in the repository. Use the RSS downloader to retrieve and process them:
 
 ```bash
 cd transcription
-python download_audio.py --video-id <VIDEO_ID>
-```
-
-To download all videos listed in `data/video_list.csv` run:
-
-```bash
-python process_batch.py --csv data/video_list.csv
+python rss_sermon_downloader.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
 ```
 
 
@@ -52,8 +47,7 @@ You can run the transcription tools yourself using the scripts in `transcription
 
 ```bash
 cd transcription
-python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
-python process_batch.py --csv data/video_list.csv
+python rss_sermon_downloader.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
 ```
 ### Windows Batch Workflow
 

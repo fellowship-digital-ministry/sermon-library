@@ -30,6 +30,21 @@ This is a community initiative project currently in development. The system will
 
 Documentation for setup and usage will be expanded as development progresses. The initial transcription system is now available in the `transcription/` directory.
 
+## Audio Files
+
+Raw audio files (.mp3) are not stored in the repository. Use the download script to retrieve them:
+
+```bash
+cd transcription
+python download_audio.py --video-id <VIDEO_ID>
+```
+
+To download all videos listed in `data/video_list.csv` run:
+
+```bash
+python process_batch.py --csv data/video_list.csv
+```
+
 
 ## Manual Transcription Workflow
 

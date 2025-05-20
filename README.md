@@ -30,25 +30,41 @@ This is a community initiative project currently in development. The system will
 
 Documentation for setup and usage will be expanded as development progresses. The initial transcription system is now available in the `transcription/` directory.
 
+# Downloading Sermons
+Raw audio files (.mp3) are not stored in the repository. There are two methods to download sermons:
 
-## Downloading Sermons
+## Method 1: Using YouTube Video ID
+```bash
+cd transcription
+python download_audio.py --video-id <VIDEO_ID>
+```
+To download all videos listed in `transcription/data/video_list.csv` run:
+```bash
+python process_batch.py --csv transcription/data/video_list.csv
+```
 
-Raw audio files (.mp3) are not stored in the repository. Use the RSS downloader to retrieve and process them:
-
+## Method 2: Using RSS Feed (Recommended)
 ```bash
 cd transcription
 python rss_sermon_downloader.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
 ```
 
-
-## Manual Transcription Workflow
-
+# Manual Transcription Workflow
 You can run the transcription tools yourself using the scripts in `transcription/`. Always provide the YouTube channel ID to process (a channel handle will work once the script supports it). The default Fellowship Baptist Church channel ID is `UCek_LI7dZopFJEvwxDnovJg`.
 
 ```bash
 cd transcription
+# Choose one of the following methods:
+# Method 1: Monitor channel and process videos
+python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
+
+# Method 2: Process from CSV list
+python process_batch.py --csv transcription/data/video_list.csv
+
+# Method 3: Use RSS downloader (recommended)
 python rss_sermon_downloader.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
 ```
+
 ### Windows Batch Workflow
 
 For a simple end-to-end process on Windows, use the provided `process_sermons.bat` script. It downloads new videos from the channel, transcribes them, and generates Pinecone embeddings.

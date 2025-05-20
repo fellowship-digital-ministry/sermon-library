@@ -86,7 +86,7 @@ jobs:
           
           # Run the monitoring script with improved cookie handling
           cd transcription
-          python monitor_channel.py --channel "https://www.youtube.com/@chrismann9821" --process --cleanup --cookies "$HOME/youtube_cookies.txt"
+          python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup --cookies "$HOME/youtube_cookies.txt"
         shell: bash
       
       # Add the embedding step

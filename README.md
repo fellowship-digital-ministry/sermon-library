@@ -39,10 +39,10 @@ cd transcription
 python download_audio.py --video-id <VIDEO_ID>
 ```
 
-To download all videos listed in `data/video_list.csv` run:
+To download all videos listed in `transcription/data/video_list.csv` run:
 
 ```bash
-python process_batch.py --csv data/video_list.csv
+python process_batch.py --csv transcription/data/video_list.csv
 ```
 
 
@@ -53,7 +53,7 @@ You can run the transcription tools yourself using the scripts in `transcription
 ```bash
 cd transcription
 python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
-python process_batch.py --csv data/video_list.csv
+python process_batch.py --csv transcription/data/video_list.csv
 ```
 ### Windows Batch Workflow
 

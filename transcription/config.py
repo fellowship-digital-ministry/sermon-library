@@ -36,6 +36,7 @@ POC_LIMIT = int(os.environ.get("POC_LIMIT", "5"))
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Canonical directory for all sermon data
 DATA_DIR = os.path.join(BASE_DIR, "data")
 AUDIO_DIR = os.path.join(DATA_DIR, "audio")
 TRANSCRIPT_DIR = os.path.join(DATA_DIR, "transcripts")

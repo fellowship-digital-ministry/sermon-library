@@ -18,22 +18,22 @@ Usage examples:
   python process_batch.py --url "https://www.youtube.com/watch?v=VIDEO_ID"
   
   # Process 5 videos (POC mode default):
-  python process_batch.py --csv data/video_list.csv
+  python process_batch.py --csv transcription/data/video_list.csv
   
   # Process all pending/failed videos (full batch):
-  python process_batch.py --csv data/video_list.csv --full
+  python process_batch.py --csv transcription/data/video_list.csv --full
   
   # Process all videos regardless of status:
-  python process_batch.py --csv data/video_list.csv --all --full
+  python process_batch.py --csv transcription/data/video_list.csv --all --full
   
   # Force re-download of audio files:
-  python process_batch.py --csv data/video_list.csv --force
+  python process_batch.py --csv transcription/data/video_list.csv --force
   
   # Use cookies for authentication:
-  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt
+  python process_batch.py --csv transcription/data/video_list.csv --cookies youtube_cookies.txt
   
   # Add delay between downloads:
-  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt --delay 10
+  python process_batch.py --csv transcription/data/video_list.csv --cookies youtube_cookies.txt --delay 10
 """
 import os
 import logging
@@ -316,7 +316,7 @@ def process_single_url(youtube_url, force_download=False, cookies_file=None, del
     return transcript_file
 
 if __name__ == "__main__":
-    # python process_batch.py --csv data/video_list.csv --full --cookies youtube_cookies.txt --delay 10
+    # python process_batch.py --csv transcription/data/video_list.csv --full --cookies youtube_cookies.txt --delay 10
     # Set up argument parser for command-line options
     parser = argparse.ArgumentParser(description="Process YouTube sermon videos for transcription")
     parser.add_argument("--force", action="store_true", help="Force download even if files exist")

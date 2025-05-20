@@ -3,7 +3,8 @@
 PubSub Monitor - Alternative approach to fetch YouTube videos using RSS feeds
 
 This script monitors a YouTube channel via RSS feed, which is less likely to be flagged
-as a bot compared to direct YouTube API or scraping methods.
+as a bot compared to direct YouTube API or scraping methods. Provide either
+``--channel-id`` or ``--channel``/``--handle`` to specify which channel to watch.
 """
 import argparse
 import csv
@@ -30,6 +31,38 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+def channel_id_from_handle(channel: str) -> Optional[str]:
+    """Resolve a YouTube channel handle or URL to a channel ID."""
+    if not channel:
+        return None
+
+    url = channel.strip()
+    if url.startswith('@'):
+        url = f"https://www.youtube.com/{url}"
+    elif not url.startswith('http'):
+        url = f"https://www.youtube.com/{url.lstrip('/')}"
+
+    # Try pytube first
+    try:
+        from pytube import Channel
+        ch = Channel(url)
+        if ch.channel_id:
+            return ch.channel_id
+    except Exception as e:
+        logger.warning(f"pytube failed to get channel id: {e}")
+
+    # Fallback to scraping
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        match = re.search(r'"channelId":"(UC[^"]+)"', response.text)
+        if match:
+            return match.group(1)
+    except Exception as e:
+        logger.error(f"Failed to scrape channel id: {e}")
+
+    return None
 
 def get_channel_feed(channel_id: str) -> Optional[str]:
     """Get the RSS feed XML for a YouTube channel"""
@@ -454,7 +487,8 @@ def cleanup_audio_files():
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(description="Monitor YouTube channel via RSS feed")
-    parser.add_argument("--channel-id", default="UCek_LI7dZopFJEvwxDnovJg", help="YouTube channel ID")
+    parser.add_argument("--channel-id", help="YouTube channel ID")
+    parser.add_argument("--channel", "--handle", dest="channel", help="Channel handle or URL (e.g. @name)")
     parser.add_argument("--output-dir", default="data", help="Output directory for data")
     parser.add_argument("--csv-file", help="Path to video list CSV (default: output-dir/video_list.csv)")
     parser.add_argument("--cookies", help="Path to YouTube cookies file")
@@ -480,8 +514,18 @@ def main():
                 logger.info(f"Using found cookies file: {args.cookies}")
                 break
     
+    # Determine channel ID
+    channel_id = args.channel_id
+    if args.channel:
+        channel_id = channel_id_from_handle(args.channel)
+        if not channel_id:
+            logger.error("Unable to resolve channel ID from provided handle/URL")
+            return 1
+    if not channel_id:
+        channel_id = "UCek_LI7dZopFJEvwxDnovJg"
+
     # Get videos from feed
-    new_videos = check_for_new_videos_feed(args.channel_id, args.csv_file, args.max)
+    new_videos = check_for_new_videos_feed(channel_id, args.csv_file, args.max)
     
     # Load the video list to get titles
     existing_videos, _ = load_video_list(args.csv_file)

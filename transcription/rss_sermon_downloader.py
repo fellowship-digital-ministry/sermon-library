@@ -21,6 +21,8 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Any
 import urllib.parse
 
+import config
+
 # Set up logging
 logging.basicConfig(
     level=logging.INFO,
@@ -312,7 +314,7 @@ def save_video_list(videos: Dict[str, Dict], columns: List[str], csv_path: str):
     except Exception as e:
         logger.error(f"Error saving to CSV file: {e}")
 
-def download_from_rss_feed(video_id: str, mp3_url: str, output_dir: str = "data/audio") -> bool:
+def download_from_rss_feed(video_id: str, mp3_url: str, output_dir: str = config.AUDIO_DIR) -> bool:
     """Download sermon audio directly from the church's RSS feed"""
     if not video_id or not mp3_url:
         logger.error(f"Missing video_id or mp3_url")
@@ -361,10 +363,10 @@ def download_from_rss_feed(video_id: str, mp3_url: str, output_dir: str = "data/
         logger.error(f"Error downloading from RSS feed: {e}")
         return False
 
-def match_and_process_videos(youtube_videos: List[Dict], 
-                             church_sermons: List[Dict], 
-                             csv_path: str, 
-                             output_dir: str = "data/audio") -> List[str]:
+def match_and_process_videos(youtube_videos: List[Dict],
+                             church_sermons: List[Dict],
+                             csv_path: str,
+                             output_dir: str = config.AUDIO_DIR) -> List[str]:
     """
     Match YouTube videos with church RSS sermons and download/process them
     
@@ -494,7 +496,7 @@ def process_new_videos(csv_path: str):
 
 def cleanup_audio_files():
     """Delete all audio files in the audio directory after processing"""
-    audio_dirs = ["data/audio", "audio", "temp_audio"]
+    audio_dirs = [config.AUDIO_DIR, "audio", "temp_audio"]
     
     for audio_dir in audio_dirs:
         if not os.path.exists(audio_dir):
@@ -520,7 +522,7 @@ def main():
     parser.add_argument("--channel", "--handle", dest="channel", help="Channel handle or URL (e.g. @name)")
     parser.add_argument("--church-rss", default="https://fbcministries.net/feed/podcast", 
                         help="URL to church's podcast RSS feed")
-    parser.add_argument("--output-dir", default="data", help="Output directory for data")
+    parser.add_argument("--output-dir", default=config.DATA_DIR, help="Output directory for data")
     parser.add_argument("--csv-file", help="Path to video list CSV (default: output-dir/video_list.csv)")
     parser.add_argument("--process", action="store_true", help="Process new videos immediately", default=True)
     parser.add_argument("--cleanup", action="store_true", help="Delete audio files after processing", default=True)
@@ -558,10 +560,10 @@ def main():
     
     # Match videos from YouTube feed with sermons from church RSS feed and process them
     processed_videos = match_and_process_videos(
-        youtube_videos, 
-        church_sermons, 
-        args.csv_file, 
-        os.path.join(args.output_dir, "audio")
+        youtube_videos,
+        church_sermons,
+        args.csv_file,
+        config.AUDIO_DIR
     )
     
     # Now process the videos

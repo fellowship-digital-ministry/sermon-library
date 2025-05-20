@@ -10,8 +10,8 @@ if "%CHANNEL_ID%"=="" (
     set CHANNEL_ID=UCek_LI7dZopFJEvwxDnovJg
 )
 
-REM Step 1: monitor the channel and process new videos
-python "%~dp0transcription\monitor_channel.py" --channel-id %CHANNEL_ID% --process --cleanup
+REM Step 1: download new sermons using the RSS downloader
+python "%~dp0transcription\rss_sermon_downloader.py" --channel-id %CHANNEL_ID% --process --cleanup
 
 REM Step 2: generate embeddings for any new transcripts
 python "%~dp0tools\transcript_to_embeddings.py" --video_list_csv "%~dp0transcription\data\video_list.csv" --transcript_dir "%~dp0transcription\data\transcripts" --skip_existing

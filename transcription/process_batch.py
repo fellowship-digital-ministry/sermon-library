@@ -18,22 +18,22 @@ Usage examples:
   python process_batch.py --url "https://www.youtube.com/watch?v=VIDEO_ID"
   
   # Process 5 videos (POC mode default):
-  python process_batch.py --csv data/video_list.csv
+  python process_batch.py --csv transcription/data/video_list.csv
   
   # Process all pending/failed videos (full batch):
-  python process_batch.py --csv data/video_list.csv --full
+  python process_batch.py --csv transcription/data/video_list.csv --full
   
   # Process all videos regardless of status:
-  python process_batch.py --csv data/video_list.csv --all --full
+  python process_batch.py --csv transcription/data/video_list.csv --all --full
   
   # Force re-download of audio files:
-  python process_batch.py --csv data/video_list.csv --force
+  python process_batch.py --csv transcription/data/video_list.csv --force
   
   # Use cookies for authentication:
-  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt
+  python process_batch.py --csv transcription/data/video_list.csv --cookies youtube_cookies.txt
   
   # Add delay between downloads:
-  python process_batch.py --csv data/video_list.csv --cookies youtube_cookies.txt --delay 10
+  python process_batch.py --csv transcription/data/video_list.csv --cookies youtube_cookies.txt --delay 10
 """
 import os
 import logging
@@ -44,12 +44,44 @@ from datetime import datetime
 from tqdm import tqdm
 
 import config
-from utils import extract_video_id, save_transcript, save_metadata, get_video_url
-from download_audio import download_batch, download_audio
+from utils import extract_video_id, save_transcript, save_metadata, get_video_url, get_audio_filename
+import yt_dlp
 from transcribe_audio import transcribe_batch, transcribe_audio
 from utils import generate_srt_file, generate_vtt_file
 
 logger = logging.getLogger(__name__)
+
+def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, cookies_file=None):
+    """Download audio from a YouTube video using yt-dlp."""
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = get_audio_filename(video_id, output_dir)
+
+    if os.path.exists(output_file) and not force_download:
+        logger.info(f"Audio for {video_id} already exists at {output_file}")
+        return output_file
+
+    video_url = get_video_url(video_id)
+    logger.info(f"Downloading audio from {video_url}")
+
+    ydl_opts = {
+        'format': config.YTDLP_FORMAT,
+        'postprocessors': config.YTDLP_POSTPROCESSORS,
+        'outtmpl': os.path.join(output_dir, f"{video_id}.%(ext)s"),
+        'quiet': True,
+        'no_warnings': True,
+    }
+    if cookies_file:
+        ydl_opts['cookiefile'] = cookies_file
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([video_url])
+
+        logger.info(f"Successfully downloaded audio for {video_id} to {output_file}")
+        return output_file
+    except Exception as e:
+        logger.error(f"Failed to download audio for {video_id}: {e}")
+        return None
 
 def update_video_status(csv_path, video_id, status, transcript_path=None):
     """
@@ -316,7 +348,7 @@ def process_single_url(youtube_url, force_download=False, cookies_file=None, del
     return transcript_file
 
 if __name__ == "__main__":
-    # python process_batch.py --csv data/video_list.csv --full --cookies youtube_cookies.txt --delay 10
+    # python process_batch.py --csv transcription/data/video_list.csv --full --cookies youtube_cookies.txt --delay 10
     # Set up argument parser for command-line options
     parser = argparse.ArgumentParser(description="Process YouTube sermon videos for transcription")
     parser.add_argument("--force", action="store_true", help="Force download even if files exist")

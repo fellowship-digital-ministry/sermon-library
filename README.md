@@ -30,6 +30,17 @@ This is a community initiative project currently in development. The system will
 
 Documentation for setup and usage will be expanded as development progresses. The initial transcription system is now available in the `transcription/` directory.
 
+
+## Manual Transcription Workflow
+
+You can run the transcription tools yourself using the scripts in `transcription/`. Always provide the YouTube channel ID to process (a channel handle will work once the script supports it). The default Fellowship Baptist Church channel ID is `UCek_LI7dZopFJEvwxDnovJg`.
+
+```bash
+cd transcription
+python monitor_channel.py --channel-id UCek_LI7dZopFJEvwxDnovJg --process --cleanup
+python process_batch.py --csv data/video_list.csv
+```
+
 ## Contact
 
 This is an unofficial community initiative. For more information about this project, please open an issue in this repository.

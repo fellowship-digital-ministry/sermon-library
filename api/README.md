@@ -23,16 +23,12 @@ This design allows for efficient semantic search while maintaining detailed meta
 
 ## Metadata Integration
 
-The API integrates metadata from JSON files in the following ways:
-
-1. **Runtime Integration** - Automatically enriches search results with metadata from JSON files
-2. **Periodic Synchronization** - Updates Pinecone vectors with metadata from JSON files through GitHub Actions
+The API integrates metadata from JSON files at runtime so search results include sermon details.
 
 ## Key Components
 
 - `app.py` - Main FastAPI application with all endpoints
 - `metadata_utils.py` - Utilities for accessing metadata from JSON files
-- `improved_update_pinecone_metadata.py` - Script for updating Pinecone metadata from JSON files
 
 ## Environment Variables
 
@@ -59,32 +55,5 @@ The project includes GitHub Actions workflows for:
 
 1. Monitoring and transcribing new sermons
 2. Generating embeddings for new transcripts
-3. Updating Pinecone metadata from JSON files
 
 This ensures that both the transcript database and metadata are kept in sync.
-
-## Manual Operations
-
-### Initial Metadata Sync
-
-To sync all metadata to Pinecone (one-time operation):
-
-```bash
-python api/improved_update_pinecone_metadata.py
-```
-
-### Update Recent Metadata
-
-To update only recently changed metadata:
-
-```bash
-python api/improved_update_pinecone_metadata.py --only-recent --days=7
-```
-
-### Specific Sermon Updates
-
-To update specific sermons by video ID:
-
-```bash
-python api/improved_update_pinecone_metadata.py --video-ids="video_id1,video_id2"
-```

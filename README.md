@@ -66,6 +66,22 @@ process_sermons.bat
 Pass a different channel ID as the first argument if needed.
 
 
+### Generate Embeddings
+
+After transcripts are generated you can create Pinecone embeddings using
+`tools/transcript_to_embeddings.py`. The script reads the unified
+`video_list.csv` and updates its status as vectors are uploaded.
+
+```bash
+python tools/transcript_to_embeddings.py \
+  --video_list_csv transcription/data/video_list.csv \
+  --transcript_dir transcription/data/transcripts \
+  --skip_existing
+```
+
+Ensure `OPENAI_API_KEY` and `PINECONE_API_KEY` are set in your environment.
+
+
 ## Contact
 
 This is an unofficial community initiative. For more information about this project, please open an issue in this repository.

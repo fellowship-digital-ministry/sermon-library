@@ -90,6 +90,8 @@ Set the following variables so the scripts can access OpenAI and Pinecone:
 - `PINECONE_ENVIRONMENT` (defaults to `us-east-1`)
 - `PINECONE_INDEX_NAME` (defaults to `sermon-embeddings`)
 
+Copy `.env.example` to `.env` and fill in these values before running the scripts.
+
 
 ### Generate Embeddings
 

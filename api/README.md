@@ -41,6 +41,18 @@ The API requires the following environment variables:
 - `EMBEDDING_MODEL` - OpenAI embedding model (defaults to "text-embedding-3-small")
 - `COMPLETION_MODEL` - OpenAI completion model (defaults to "gpt-4o")
 
+## Running Locally
+
+To run the API on your machine you must provide the required environment
+variables (e.g. `OPENAI_API_KEY` and `PINECONE_API_KEY`). Once they are set,
+start the server with `uvicorn`:
+
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000
+```
+
+Launch the command from the `api` directory so FastAPI can locate `app.py`.
+
 ## Deployment
 
 The API is deployed on Render.com and automatically updates when changes are pushed to the GitHub repository.

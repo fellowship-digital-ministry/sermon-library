@@ -306,5 +306,49 @@
     "video_id": "XXBT17UK3Ck",
     "start_time": 2353.1600952148438,
     "end_time": 2421.8400707244873
+  },
+  {
+    "book": "Micah",
+    "chapter": 5,
+    "verse": 2,
+    "reference_text": "Micah chapter 5 in verse number 2",
+    "context": "where is he that is born King of the Jews, the going ghetto, and Bethlehem of Judah, for thus it is written in the prophets. And they reference back to Micah chapter 5 in verse number 2",
+    "is_implicit": false,
+    "video_id": "witUS2m1Xyg",
+    "start_time": 1444.0799865722656,
+    "end_time": 1505.1799926757812
+  },
+  {
+    "book": "Micah",
+    "chapter": 5,
+    "verse": 1,
+    "reference_text": "Micah 5:1",
+    "context": "Micah chapter number five, the place where Christ would be born",
+    "is_implicit": true,
+    "video_id": "_-nwuxfV8gI",
+    "start_time": 964.3399658203125,
+    "end_time": 1030.3999938964844
+  },
+  {
+    "book": "Micah",
+    "chapter": 5,
+    "verse": 2,
+    "reference_text": "Micah 5:2",
+    "context": "but thou Bethlehem Ephrata, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel, whose goings forth have been from old, from everlasting",
+    "is_implicit": true,
+    "video_id": "_-nwuxfV8gI",
+    "start_time": 1030.3999938964844,
+    "end_time": 1094.1599731445312
+  },
+  {
+    "book": "Micah",
+    "chapter": 5,
+    "verse": 2,
+    "reference_text": "Micah 5:2",
+    "context": "they quote from Micah five, and thou Bethlehem in the land of Judah, art not the least among the princes of Judah, for out of thee shall come a governor that shall rule my people Israel",
+    "is_implicit": true,
+    "video_id": "_-nwuxfV8gI",
+    "start_time": 1094.1599731445312,
+    "end_time": 1161.0599975585938
   }
 ]

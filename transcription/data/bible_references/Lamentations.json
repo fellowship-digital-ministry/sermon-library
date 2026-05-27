@@ -625,5 +625,27 @@
     "video_id": "YtBFmhBhoH8",
     "start_time": 1635.5,
     "end_time": 1723.1799926757812
+  },
+  {
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Lamentations 3",
+    "context": "if you read in the book of Lamentations in the third chapter, he did just that. He called to God, and God answered, and God delivered, and God worked",
+    "is_implicit": true,
+    "video_id": "EYFIfx9U54k",
+    "start_time": 700.7999877929688,
+    "end_time": 755.7999877929688
+  },
+  {
+    "book": "Lamentations",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Lamentations",
+    "context": "you read the book of Lamentations and you find that Jeremiah specifically deals with the fact that he called and God answered",
+    "is_implicit": false,
+    "video_id": "6l5bpUvCEko",
+    "start_time": 1105.4200134277344,
+    "end_time": 1171.7000122070312
   }
 ]

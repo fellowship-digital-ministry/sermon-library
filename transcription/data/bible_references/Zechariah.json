@@ -64,5 +64,38 @@
     "video_id": "14-YoafCO5U",
     "start_time": 2157.8999633789062,
     "end_time": 2230.8999633789062
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 14,
+    "verse": null,
+    "reference_text": "Zechariah chapter 14",
+    "context": "his foot actually comes down and is on the Mount of Olives, and all that takes place according to Zechariah chapter 14",
+    "is_implicit": false,
+    "video_id": "witUS2m1Xyg",
+    "start_time": 2312.0599975585938,
+    "end_time": 2371.739990234375
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 14,
+    "verse": null,
+    "reference_text": "Zechariah chapter 14",
+    "context": "the battle of Armageddon will take place, Zechariah chapter 14, when he comes and puts his foot on the Mount of Olives",
+    "is_implicit": false,
+    "video_id": "FB5EieJXeVQ",
+    "start_time": 1050.9200134277344,
+    "end_time": 1122.5999755859375
+  },
+  {
+    "book": "Zechariah",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "Zechariah 4:6",
+    "context": "not by might nor by power, but by my Spirit, saith the Lord of hosts",
+    "is_implicit": false,
+    "video_id": "Ryn7Axm_fJs",
+    "start_time": 1738.06005859375,
+    "end_time": 1808.1400146484375
   }
 ]

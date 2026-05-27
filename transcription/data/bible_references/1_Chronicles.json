@@ -757,5 +757,27 @@
     "video_id": "Z5mR0aZmD9U",
     "start_time": 672.379997253418,
     "end_time": 730.8800048828125
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 29,
+    "verse": null,
+    "reference_text": "1 Chronicles 29",
+    "context": "the perspective from 1 Chronicles 29",
+    "is_implicit": false,
+    "video_id": "lReYV18RAeg",
+    "start_time": 1913.0800018310547,
+    "end_time": 1973.4800109863281
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "1 Chronicles",
+    "context": "Achan is described in 1 Chronicles in the genealogies that no one likes to read? He is the troubler of Israel.",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2300.320037841797,
+    "end_time": 2386.2200317382812
   }
 ]

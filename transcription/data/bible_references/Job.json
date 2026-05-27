@@ -922,5 +922,82 @@
     "video_id": "_fRtpMZRJGo",
     "start_time": 698.8000030517578,
     "end_time": 763.1999969482422
+  },
+  {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "Job 14:1",
+    "context": "man that is born of woman is a few days and full of trouble",
+    "is_implicit": true,
+    "video_id": "vuHdGtGSkOk",
+    "start_time": 1035.6799621582031,
+    "end_time": 1095.6199645996094
+  },
+  {
+    "book": "Job",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Job",
+    "context": "when I'm tried I should come forth as gold",
+    "is_implicit": true,
+    "video_id": "vuHdGtGSkOk",
+    "start_time": 2444.539993286133,
+    "end_time": 2517.4999923706055
+  },
+  {
+    "book": "Job",
+    "chapter": 23,
+    "verse": 12,
+    "reference_text": "Job 23:12",
+    "context": "Job said it was more necessary to him than his food",
+    "is_implicit": true,
+    "video_id": "xI5uCsuW9eg",
+    "start_time": 2574.500045776367,
+    "end_time": 2640.740036010742
+  },
+  {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "Job 14:1",
+    "context": "Man that is born of woman is a few days and full of trouble, according to Job",
+    "is_implicit": true,
+    "video_id": "B7qA98qbh00",
+    "start_time": 1687.3000183105469,
+    "end_time": 1747.4600219726562
+  },
+  {
+    "book": "Job",
+    "chapter": 16,
+    "verse": 2,
+    "reference_text": "Job 16:2",
+    "context": "miserable comforters",
+    "is_implicit": true,
+    "video_id": "faPvPJvS9rU",
+    "start_time": 2416.8600463867188,
+    "end_time": 2484.8600463867188
+  },
+  {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "Job 14:1",
+    "context": "Man that is born of a woman is a few days and full of trouble",
+    "is_implicit": false,
+    "video_id": "-oec2OYFv2I",
+    "start_time": 302.2799987792969,
+    "end_time": 363.0
+  },
+  {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 1,
+    "reference_text": "Job 1:1",
+    "context": "just read Job one",
+    "is_implicit": false,
+    "video_id": "LE1qkzND4b0",
+    "start_time": 1261.560001373291,
+    "end_time": 1324.599998474121
   }
 ]

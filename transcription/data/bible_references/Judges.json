@@ -1109,5 +1109,71 @@
     "video_id": "zZ4UTRQP2jE",
     "start_time": 2165.4200439453125,
     "end_time": 2234.3400268554688
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 10,
+    "reference_text": "Judges 2:10",
+    "context": "In Judges chapter number two in verse number 10, the Bible tells us about this very tragic situation",
+    "is_implicit": true,
+    "video_id": "MjhT7n4WF6Y",
+    "start_time": 1985.0800323486328,
+    "end_time": 2047.300033569336
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 10,
+    "reference_text": "Judges 2:10",
+    "context": "In Judges chapter number two in verse number 10, the Bible says, and also all that generation were gathered under their fathers",
+    "is_implicit": true,
+    "video_id": "MjhT7n4WF6Y",
+    "start_time": 1985.0800323486328,
+    "end_time": 2047.300033569336
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 10,
+    "reference_text": "Judges 2:10",
+    "context": "And there arose another generation after them which knew not the Lord, nor yet the works which he had done for Israel",
+    "is_implicit": true,
+    "video_id": "MjhT7n4WF6Y",
+    "start_time": 2047.300033569336,
+    "end_time": 2128.260040283203
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 11,
+    "reference_text": "Judges 2:11",
+    "context": "And so what happened, the children of Israel did evil in the sight of the Lord and served Balaam",
+    "is_implicit": true,
+    "video_id": "MjhT7n4WF6Y",
+    "start_time": 2047.300033569336,
+    "end_time": 2128.260040283203
+  },
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 12,
+    "reference_text": "Judges 2:12",
+    "context": "They forsook the Lord God of their fathers, which brought them out of the land of Egypt and followed other gods of the people that were around about them and bowed themselves unto them and provoked the Lord to anger",
+    "is_implicit": true,
+    "video_id": "MjhT7n4WF6Y",
+    "start_time": 2047.300033569336,
+    "end_time": 2128.260040283203
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 6,
+    "reference_text": "Judges 17:6",
+    "context": "every man did that which was right in his own sight",
+    "is_implicit": true,
+    "video_id": "BhyhczSVZM0",
+    "start_time": 426.6600036621094,
+    "end_time": 489.29998779296875
   }
 ]

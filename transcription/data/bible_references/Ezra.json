@@ -625,5 +625,16 @@
     "video_id": "YCUS9wAR_oA",
     "start_time": 1549.6599731445312,
     "end_time": 1610.8599853515625
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 10,
+    "reference_text": "Ezra 7:10",
+    "context": "he prepared his heart to seek the law of the Lord and to do it, right? And to teach in Israel statutes and judgments. Ezra 7 and verse number 10",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 972.7799987792969,
+    "end_time": 1040.1400146484375
   }
 ]

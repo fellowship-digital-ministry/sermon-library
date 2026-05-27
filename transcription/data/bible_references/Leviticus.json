@@ -1472,5 +1472,148 @@
     "video_id": "ZJOWWMF4BZE",
     "start_time": 371.8800048828125,
     "end_time": 436.0
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 18,
+    "reference_text": "Leviticus 19:18",
+    "context": "Thou shalt love thy neighbor as thyself",
+    "is_implicit": true,
+    "video_id": "mGFBKSQ9gYE",
+    "start_time": 1587.0799560546875,
+    "end_time": 1656.0799560546875
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 2,
+    "reference_text": "Leviticus 19:2",
+    "context": "ye shall be holy, for I the Lord your God am holy",
+    "is_implicit": true,
+    "video_id": "mGFBKSQ9gYE",
+    "start_time": 1935.699951171875,
+    "end_time": 2000.3399505615234
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 15,
+    "reference_text": "Leviticus 19:15",
+    "context": "ye shall do no unrighteousness in judgment. Thou shalt not respect the person of the poor nor honor the person of the mighty, but in righteousness shalt thou judge thy neighbor",
+    "is_implicit": true,
+    "video_id": "mGFBKSQ9gYE",
+    "start_time": 1935.699951171875,
+    "end_time": 2000.3399505615234
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": null,
+    "reference_text": "Leviticus 26",
+    "context": "go to the book of Leviticus if you will Leviticus chapter number 26",
+    "is_implicit": false,
+    "video_id": "EmHoC0CRw6w",
+    "start_time": 515.0399780273438,
+    "end_time": 573.2000122070312
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 20,
+    "reference_text": "Leviticus 26:20",
+    "context": "and your labour shall be spent in vain, for your land shall not yield her increase, neither shall the trees of the land yield their fruits",
+    "is_implicit": false,
+    "video_id": "EmHoC0CRw6w",
+    "start_time": 573.2000122070312,
+    "end_time": 648.8799705505371
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 14,
+    "reference_text": "Leviticus 26:14",
+    "context": "but if you will not hearken unto me and will not do all these commandments",
+    "is_implicit": false,
+    "video_id": "EmHoC0CRw6w",
+    "start_time": 573.2000122070312,
+    "end_time": 648.8799705505371
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": null,
+    "reference_text": "Leviticus 26",
+    "context": "we see in Leviticus 26, as God is preparing his people for them to have this understanding that famine reveals divine judgment",
+    "is_implicit": false,
+    "video_id": "EmHoC0CRw6w",
+    "start_time": 648.8799705505371,
+    "end_time": 710.6799697875977
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 7,
+    "reference_text": "Leviticus 4:7",
+    "context": "the book of Leviticus chapter four, it's repeated four times in that chapter, verse seven",
+    "is_implicit": true,
+    "video_id": "gJS2k2SH2Ko",
+    "start_time": 505.2200012207031,
+    "end_time": 580.4400024414062
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 18,
+    "reference_text": "Leviticus 4:18",
+    "context": "verse 18",
+    "is_implicit": true,
+    "video_id": "gJS2k2SH2Ko",
+    "start_time": 505.2200012207031,
+    "end_time": 580.4400024414062
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 25,
+    "reference_text": "Leviticus 4:25",
+    "context": "verse 25",
+    "is_implicit": true,
+    "video_id": "gJS2k2SH2Ko",
+    "start_time": 505.2200012207031,
+    "end_time": 580.4400024414062
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 30,
+    "reference_text": "Leviticus 4:30",
+    "context": "verse number 30",
+    "is_implicit": true,
+    "video_id": "gJS2k2SH2Ko",
+    "start_time": 505.2200012207031,
+    "end_time": 580.4400024414062
+  },
+  {
+    "book": "Leviticus",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Leviticus",
+    "context": "You read the book of Leviticus, and you'll read it repeatedly throughout the book of Leviticus, where God says to his people, be holy. Why? Because I am holy.",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 705.7200012207031,
+    "end_time": 772.8800048828125
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 44,
+    "reference_text": "Leviticus 11:44",
+    "context": "be holy as I am holy",
+    "is_implicit": true,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 772.8800048828125,
+    "end_time": 842.6399993896484
   }
 ]

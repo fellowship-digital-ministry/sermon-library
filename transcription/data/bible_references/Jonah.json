@@ -801,5 +801,16 @@
     "video_id": "RC_zjgDAiHo",
     "start_time": 2372.47998046875,
     "end_time": 2452.439998626709
+  },
+  {
+    "book": "Jonah",
+    "chapter": 1,
+    "verse": 17,
+    "reference_text": "Jonah 1:17",
+    "context": "Who was the one that was obedient in the book of Jonah? Jonah or the whale?",
+    "is_implicit": true,
+    "video_id": "gEWKQ2I0a2I",
+    "start_time": 1338.499984741211,
+    "end_time": 1408.6999816894531
   }
 ]

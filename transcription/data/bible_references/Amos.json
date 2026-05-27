@@ -405,5 +405,16 @@
     "video_id": "ZWhiVzLFfxc",
     "start_time": 261.3399963378906,
     "end_time": 333.17999267578125
+  },
+  {
+    "book": "Amos",
+    "chapter": 3,
+    "verse": 3,
+    "reference_text": "Amos 3:3",
+    "context": "how can two walk together except they be agreed",
+    "is_implicit": true,
+    "video_id": "MODJ0wQftRk",
+    "start_time": 1895.560043334961,
+    "end_time": 1961.0800476074219
   }
 ]

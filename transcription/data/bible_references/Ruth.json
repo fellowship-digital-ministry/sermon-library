@@ -229,5 +229,82 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1999.3800048828125,
     "end_time": 2079.3800048828125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "Ruth 4:13",
+    "context": "In verse 13 of Ruth chapter number four, the Bible says this. So Boaz took Ruth.",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2493.9600372314453,
+    "end_time": 2570.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "Ruth 4:13",
+    "context": "the Lord gave her conception and she bare a son",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "Ruth 4:14",
+    "context": "blessed be the Lord which hath not left thee this day without a kinsman",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 15,
+    "reference_text": "Ruth 4:15",
+    "context": "thy daughter-in-law, which loveth thee, which is better to thee than seven sons, hath born him",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 16,
+    "reference_text": "Ruth 4:16",
+    "context": "Naomi took the child and laid it in her bosom and became nurse unto it",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Ruth 4:17",
+    "context": "they called his name Obed",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
+  },
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 18,
+    "reference_text": "Ruth 4:18-22",
+    "context": "Pharaohs begat Hezron, Hezron begat Ram, and Ram begat Amminadab, and Amminadab begat Nashon, and Nashon begat Salmon, Salmon begat Boaz, and Boaz begat Obed, and Obed begat Jesse, and Jesse begat David",
+    "is_implicit": true,
+    "video_id": "vc7GUAlgbGA",
+    "start_time": 2570.4200439453125,
+    "end_time": 2636.4200439453125
   }
 ]

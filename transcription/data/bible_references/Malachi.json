@@ -537,5 +537,27 @@
     "video_id": "zAAeXH-9tS0",
     "start_time": 367.5199890136719,
     "end_time": 433.0199890136719
+  },
+  {
+    "book": "Malachi",
+    "chapter": 3,
+    "verse": 6,
+    "reference_text": "Malachi 3:6",
+    "context": "I am the Lord, I change not, therefore you sons of Jacob are not consumed",
+    "is_implicit": true,
+    "video_id": "Ae5Ae4szuGI",
+    "start_time": 1231.9999904632568,
+    "end_time": 1311.5999908447266
+  },
+  {
+    "book": "Malachi",
+    "chapter": 3,
+    "verse": 6,
+    "reference_text": "Malachi 3:6",
+    "context": "He said, I change not.",
+    "is_implicit": true,
+    "video_id": "BhyhczSVZM0",
+    "start_time": 2036.0599822998047,
+    "end_time": 2115.3399963378906
   }
 ]

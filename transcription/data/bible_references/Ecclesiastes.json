@@ -317,5 +317,27 @@
     "video_id": "_fRtpMZRJGo",
     "start_time": 631.6000003814697,
     "end_time": 698.8000030517578
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 12,
+    "verse": 5,
+    "reference_text": "Ecclesiastes 12:5",
+    "context": "man goeth to his long home",
+    "is_implicit": true,
+    "video_id": "BkxDIqE9JxI",
+    "start_time": 2210.0799865722656,
+    "end_time": 2281.019989013672
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 9,
+    "verse": 10,
+    "reference_text": "Ecclesiastes 9:10",
+    "context": "whatsoever thy hand findeth to do, do it heartily as unto the Lord",
+    "is_implicit": true,
+    "video_id": "thHbuJ_uXzw",
+    "start_time": 3144.4199829101562,
+    "end_time": 3226.5599822998047
   }
 ]

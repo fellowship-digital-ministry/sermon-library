@@ -1681,5 +1681,126 @@
     "video_id": "ZXx-U62v8Bc",
     "start_time": 372.9200134277344,
     "end_time": 441.05999755859375
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 9,
+    "verse": null,
+    "reference_text": "2 Chronicles 9",
+    "context": "2 Chronicles chapter number nine",
+    "is_implicit": true,
+    "video_id": "_dFILA2HCeY",
+    "start_time": 730.2999877929688,
+    "end_time": 791.0999755859375
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 9,
+    "verse": 8,
+    "reference_text": "2 Chronicles 9:8",
+    "context": "blessed be the Lord thy God, which delighted in thee to set thee on his throne to be king for the Lord thy God",
+    "is_implicit": true,
+    "video_id": "_dFILA2HCeY",
+    "start_time": 791.0999755859375,
+    "end_time": 856.4199829101562
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "2 Chronicles 5",
+    "context": "the book of 2 Chronicles 5",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1480.4199829101562,
+    "end_time": 1556.6199951171875
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "2 Chronicles 2:4",
+    "context": "And you find that in v. 4, the Bible says,",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1556.6199951171875,
+    "end_time": 1615.9399719238281
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 5,
+    "verse": 1,
+    "reference_text": "2 Chronicles 5:1",
+    "context": "thus all the work that Solomon made for the house of the Lord, notice this phrase, was finished",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1615.9399719238281,
+    "end_time": 1693.0999755859375
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 5,
+    "verse": 5,
+    "reference_text": "2 Chronicles 5:5",
+    "context": "and the house which I build is great. Why? For great is our God above all gods",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1615.9399719238281,
+    "end_time": 1693.0999755859375
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 9,
+    "reference_text": "2 Chronicles 2:9",
+    "context": "even to prepare me timber and abundance for the house which I am about to build shall be wonderful great",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1615.9399719238281,
+    "end_time": 1693.0999755859375
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 5,
+    "verse": 13,
+    "reference_text": "2 Chronicles 5:13",
+    "context": "it came even to pass as the trumpeters and singers were as one to make one sound to be heard in praising and thanking the Lord",
+    "is_implicit": true,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1693.0999755859375,
+    "end_time": 1769.8599853515625
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "2 Chronicles",
+    "context": "the glory of these chapters in 2 Chronicles",
+    "is_implicit": false,
+    "video_id": "j_nhiIFLglw",
+    "start_time": 1770.7000122070312,
+    "end_time": 1837.840000152588
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 26,
+    "verse": 1,
+    "reference_text": "2 Chronicles 26 (King Uzziah)",
+    "context": "Can I remind you of a king of Israel by the name of Uzziah? Uzziah was a king",
+    "is_implicit": true,
+    "video_id": "MODJ0wQftRk",
+    "start_time": 1638.0400085449219,
+    "end_time": 1706.4800109863281
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "2 Chronicles",
+    "context": "we could look in 2 Chronicles as well",
+    "is_implicit": false,
+    "video_id": "-oec2OYFv2I",
+    "start_time": 1353.7600402832031,
+    "end_time": 1415.280044555664
   }
 ]

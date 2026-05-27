@@ -449,5 +449,137 @@
     "video_id": "zZ4UTRQP2jE",
     "start_time": 2165.4200439453125,
     "end_time": 2234.3400268554688
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 1,
+    "reference_text": "2 Samuel 11:1",
+    "context": "it was time for the kings to go forth to battle, but David tarried at Jerusalem, according to verse number one",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2914.4000244140625,
+    "end_time": 2989.780029296875
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 2,
+    "reference_text": "2 Samuel 11:2",
+    "context": "He's there, and he sees a woman, according to verse number two",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2914.4000244140625,
+    "end_time": 2989.780029296875
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "2 Samuel 11:3",
+    "context": "David sent and inquired after the woman",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2914.4000244140625,
+    "end_time": 2989.780029296875
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "2 Samuel 11:3",
+    "context": "is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2914.4000244140625,
+    "end_time": 2989.780029296875
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "verse number three",
+    "context": "the response of verse number three, as David sends and inquires",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "2 Samuel 11:3",
+    "context": "is not this Bathsheba the daughter of Eliam? And this is actually a family relationship to the one who was David's counselor",
+    "is_implicit": true,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "2 Samuel 11:3",
+    "context": "the daughter of Eliam, the wife of Uriah the Hittite",
+    "is_implicit": true,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "verse number three",
+    "context": "Thank God for the warning that David was given in verse number three",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 4,
+    "reference_text": "verse number four",
+    "context": "And you read verse number four, and the Bible says, and David sent messengers and took her",
+    "is_implicit": false,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 4,
+    "reference_text": "2 Samuel 11:4",
+    "context": "and David sent messengers and took her. She came in unto him, and he lay with her, for she was purified from her uncleanness, and she returned unto her house",
+    "is_implicit": true,
+    "video_id": "CXZQVH0uWS0",
+    "start_time": 2989.780029296875,
+    "end_time": 3065.340042114258
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verse": 1,
+    "reference_text": "2 Samuel 9:1-13",
+    "context": "he makes inquiry whether there were any that remained and he finds out about this one, a son of Jonathan, Mephibosheth",
+    "is_implicit": true,
+    "video_id": "KkcM-CWB5g0",
+    "start_time": 868.7400207519531,
+    "end_time": 940.5800170898438
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verse": 8,
+    "reference_text": "2 Samuel 9:8",
+    "context": "what do you want with a dead dog such as I?",
+    "is_implicit": true,
+    "video_id": "KkcM-CWB5g0",
+    "start_time": 868.7400207519531,
+    "end_time": 940.5800170898438
   }
 ]

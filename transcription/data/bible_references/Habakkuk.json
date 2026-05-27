@@ -174,5 +174,16 @@
     "video_id": "Y0rICXkoJFs",
     "start_time": 590.5999755859375,
     "end_time": 655.3999786376953
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "Habakkuk 2:4",
+    "context": "the just shall live by faith",
+    "is_implicit": true,
+    "video_id": "6dYI_cEbDbI",
+    "start_time": 337.5199890136719,
+    "end_time": 404.1600036621094
   }
 ]

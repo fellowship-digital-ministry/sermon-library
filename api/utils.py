@@ -15,13 +15,15 @@ from pinecone import Pinecone
 
 # Configure API keys and settings directly from environment variables
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
 PINECONE_ENVIRONMENT = os.environ.get("PINECONE_ENVIRONMENT", "us-east-1")
 PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "sermon-embeddings")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 SEARCH_TOP_K = int(os.environ.get("SEARCH_TOP_K", "5"))
-COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")
-TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-4o")  # Smaller model for translations
+COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")  # OpenAI direct: suggested-query generation
+ANSWER_MODEL = os.environ.get("ANSWER_MODEL", "anthropic/claude-sonnet-4.6")  # OpenRouter slug: main grounded answer
+TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-4o")  # OpenAI direct: translations
 
 # Path to metadata directory
 METADATA_DIR = os.environ.get("METADATA_DIR", "./transcription/data/metadata")
@@ -32,11 +34,26 @@ BIBLE_REFERENCES_DIR = os.environ.get("BIBLE_REFERENCES_DIR", "./transcription/d
 # Check for required environment variables
 if not OPENAI_API_KEY:
     raise ValueError("Missing OPENAI_API_KEY environment variable")
+if not OPENROUTER_API_KEY:
+    raise ValueError("Missing OPENROUTER_API_KEY environment variable")
 if not PINECONE_API_KEY:
     raise ValueError("Missing PINECONE_API_KEY environment variable")
 
 # Initialize clients
 openai_client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+# OpenRouter is OpenAI-compatible — same SDK, different base URL. We route the
+# main answer generator through it so models can be swapped via env var alone
+# (e.g. ANSWER_MODEL=anthropic/claude-opus-4.7 or openai/gpt-5). Embeddings and
+# translations stay on OpenAI direct (OpenRouter doesn't proxy embeddings).
+openrouter_client = openai.OpenAI(
+    api_key=OPENROUTER_API_KEY,
+    base_url="https://openrouter.ai/api/v1",
+    default_headers={
+        "HTTP-Referer": "https://fellowship-digital-ministry.github.io",
+        "X-Title": "Fellowship Sermon Search",
+    },
+)
 
 # Initialize Pinecone with version 6.0.2 API
 pc = Pinecone(api_key=PINECONE_API_KEY)

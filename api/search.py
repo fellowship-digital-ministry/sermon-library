@@ -13,9 +13,11 @@ from fastapi import HTTPException
 from .utils import (
     METADATA_DIR,
     openai_client,
+    openrouter_client,
     pinecone_index,
     EMBEDDING_MODEL,
     COMPLETION_MODEL,
+    ANSWER_MODEL,
     SearchResult,
     load_metadata,
 )
@@ -639,14 +641,17 @@ IMPORTANT REMINDERS:
 """
     
     try:
-        response = openai_client.chat.completions.create(
-            model=COMPLETION_MODEL,
+        # Routed through OpenRouter (OpenAI-compatible API). Model is set via
+        # ANSWER_MODEL env var so you can A/B different providers (anthropic/...,
+        # openai/..., google/...) without code changes.
+        response = openrouter_client.chat.completions.create(
+            model=ANSWER_MODEL,
             messages=[
                 {"role": "system", "content": system_message},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt},
             ],
             temperature=0.3,
-            max_tokens=1000
+            max_tokens=1000,
         )
         return response.choices[0].message.content.strip()
     except Exception as e:

@@ -170,13 +170,18 @@ def get_language(accept_language: Optional[str] = Header(None, include_in_schema
     return "en"
 
 def load_metadata(video_id: str) -> Dict[str, Any]:
-    """Load metadata for a video from its JSON file."""
+    """Load metadata for a video from its JSON file.
+
+    On miss (file not yet committed/deployed, or unreadable), return only
+    the video_id. Callers then fall back to Pinecone-stored chunk metadata
+    (which usually has the title) before ever showing 'Unknown Sermon'.
+    Previously this returned a 'Unknown Sermon (...)' placeholder that
+    suppressed the Pinecone fallback in callers using .get('title', ...).
+    """
     try:
         metadata_file = os.path.join(METADATA_DIR, f"{video_id}_metadata.json")
         with open(metadata_file, "r", encoding="utf-8") as f:
             return json.load(f)
-    except FileNotFoundError:
-        return {"video_id": video_id, "title": f"Unknown Sermon ({video_id})", "publish_date": None}
-    except json.JSONDecodeError:
-        return {"video_id": video_id, "title": f"Error Loading Metadata ({video_id})", "publish_date": None}
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {"video_id": video_id}
 

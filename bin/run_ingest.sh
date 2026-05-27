@@ -83,15 +83,24 @@ python tools/transcript_to_embeddings.py \
 # already handles incremental — skips transcripts it has already seen.
 # Uses Claude Haiku 4.5 via OpenRouter (OPENROUTER_API_KEY in .env).
 echo ""
-echo "[5/6] extract bible references for new transcripts"
+echo "[5/7] extract bible references for new transcripts"
 python tools/bible_reference_extractor.py \
   --input-dir transcription/data/transcripts \
   --output-dir transcription/data/bible_references \
   || echo "(bible reference extraction had issues, continuing)"
 
-# --- 5. commit and push results ---
+# --- 5. generate "In this sermon" footnote summaries for new references ---
+# Idempotent: only refs without a point_summary field get processed, so this
+# is cheap on weekly runs (only the new sermon's refs). Uses Sonnet 4.6 by
+# default for theological nuance; override with SUMMARY_MODEL env var.
 echo ""
-echo "[6/6] commit & push"
+echo "[6/7] generate footnote summaries for new references"
+python tools/generate_reference_summaries.py \
+  || echo "(footnote summary generation had issues, continuing)"
+
+# --- 6. commit and push results ---
+echo ""
+echo "[7/7] commit & push"
 git add transcription/data/video_list.csv \
         transcription/data/transcripts/ \
         transcription/data/metadata/ \

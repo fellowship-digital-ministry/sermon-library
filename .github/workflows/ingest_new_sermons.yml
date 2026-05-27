@@ -1,0 +1,75 @@
+name: Ingest new sermons (weekly)
+
+# Runs the existing RSS-based pipeline against the YouTube channel feed and
+# the church podcast feed. Fast and cheap — only sees the ~15 most recent
+# uploads, so this is for keeping the corpus current week-to-week.
+# For catching up on older missing videos, use backfill_youtube_channel.yml.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Mondays 09:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sermon-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pandas yt-dlp python-dotenv
+
+      - name: Configure git
+        run: |
+          git config --global user.name "Sermon Ingest Bot"
+          git config --global user.email "sermon-ingest-bot@users.noreply.github.com"
+
+      - name: Run RSS-based ingest with embeddings
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_ENVIRONMENT: ${{ secrets.PINECONE_ENVIRONMENT || 'us-east-1' }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME || 'sermon-embeddings' }}
+          POC_MODE: 'false'
+        run: |
+          python process_sermons.py \
+            --output-dir transcription/data \
+            --csv-file transcription/data/video_list.csv \
+            --max 30 \
+            --embeddings
+
+      - name: Commit CSV + transcripts + metadata
+        run: |
+          git pull --rebase origin main || true
+          git add -f transcription/data/video_list.csv \
+                     transcription/data/transcripts/ \
+                     transcription/data/metadata/ \
+                     transcription/data/subtitles/ || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly ingest: new sermons [skip ci]"
+            git push
+          fi

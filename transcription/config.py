@@ -30,8 +30,10 @@ if not OPENAI_API_KEY:
 else:
     logger.info("Found OpenAI API key in environment variables")
 
-# Proof of Concept Mode
-POC_MODE = os.environ.get("POC_MODE", "true").lower() == "true"
+# Proof of Concept Mode — caps the number of videos processed per run.
+# Default off; set POC_MODE=true to throttle (useful in CI for partial backfills:
+# set POC_MODE=true POC_LIMIT=50 to chunk a large backlog across multiple runs).
+POC_MODE = os.environ.get("POC_MODE", "false").lower() == "true"
 POC_LIMIT = int(os.environ.get("POC_LIMIT", "5"))
 
 # Paths

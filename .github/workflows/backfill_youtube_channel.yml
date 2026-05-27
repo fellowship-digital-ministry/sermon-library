@@ -1,0 +1,144 @@
+name: Backfill YouTube channel (manual)
+
+# Two-phase backfill, run manually from the Actions tab.
+#
+#   mode = discover            → enumerate the full channel via yt-dlp,
+#                                append missing video_ids to the CSV as
+#                                pending. No transcription, no LLM cost,
+#                                ~30 seconds. Run this first to see what's
+#                                missing.
+#
+#   mode = discover_and_process → same as discover, then run Whisper on
+#                                the next batch_size pending videos and
+#                                push their embeddings to Pinecone. This
+#                                costs money (~$0.27/sermon Whisper) and
+#                                time (~5–10 min per sermon). Run repeatedly
+#                                until pending count reaches zero.
+#
+# YouTube anti-bot risk: backfill audio comes from yt-dlp (the church RSS
+# only serves recent sermons). yt-dlp without cookies works for most videos
+# but can hit "are you a human" gates after sustained activity. If failures
+# pile up, lower batch_size and increase delay between runs.
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'discover (CSV only) or discover_and_process (CSV + transcribe + embed)'
+        required: true
+        default: 'discover'
+        type: choice
+        options:
+          - discover
+          - discover_and_process
+      batch_size:
+        description: 'Max videos to transcribe this run (discover_and_process only)'
+        required: false
+        default: '50'
+      download_delay_seconds:
+        description: 'Seconds to wait between YouTube audio downloads'
+        required: false
+        default: '5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sermon-ingest  # share with weekly cron so they don't race
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350  # GH Actions caps at 360 for free tier
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pandas yt-dlp python-dotenv
+
+      - name: Configure git
+        run: |
+          git config --global user.name "Sermon Backfill Bot"
+          git config --global user.email "sermon-backfill-bot@users.noreply.github.com"
+
+      - name: Discover missing videos on channel
+        run: python tools/discover_youtube_backlog.py
+
+      - name: Commit newly-discovered pending rows
+        run: |
+          git pull --rebase origin main || true
+          git add transcription/data/video_list.csv
+          if git diff --staged --quiet; then
+            echo "No new videos discovered"
+          else
+            git commit -m "Backfill discovery: add pending rows to video_list.csv [skip ci]"
+            git push
+          fi
+
+      - name: Transcribe next batch
+        if: ${{ inputs.mode == 'discover_and_process' }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Reuse POC_MODE as a per-run cap so we don't blow past job timeout.
+          POC_MODE: 'true'
+          POC_LIMIT: ${{ inputs.batch_size }}
+        working-directory: transcription
+        run: |
+          python process_batch.py \
+            --csv data/video_list.csv \
+            --full \
+            --delay ${{ inputs.download_delay_seconds }}
+
+      - name: Generate embeddings for new transcripts
+        if: ${{ inputs.mode == 'discover_and_process' }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_ENVIRONMENT: ${{ secrets.PINECONE_ENVIRONMENT || 'us-east-1' }}
+          PINECONE_INDEX_NAME: ${{ secrets.PINECONE_INDEX_NAME || 'sermon-embeddings' }}
+        run: |
+          python tools/transcript_to_embeddings.py \
+            --video_list_csv transcription/data/video_list.csv \
+            --transcript_dir transcription/data/transcripts \
+            --skip_existing
+
+      - name: Commit transcripts, metadata, and CSV updates
+        if: ${{ inputs.mode == 'discover_and_process' }}
+        run: |
+          git pull --rebase origin main || true
+          git add -f transcription/data/video_list.csv \
+                     transcription/data/transcripts/ \
+                     transcription/data/metadata/ \
+                     transcription/data/subtitles/ || true
+          if git diff --staged --quiet; then
+            echo "No transcripts produced this run"
+          else
+            git commit -m "Backfill: transcribed ${{ inputs.batch_size }} sermons [skip ci]"
+            git push
+          fi
+
+      - name: Summarize pending count
+        run: |
+          remaining=$(python -c "
+          import csv
+          n = sum(1 for r in csv.DictReader(open('transcription/data/video_list.csv'))
+                  if r.get('processing_status') == 'pending')
+          print(n)
+          ")
+          echo "Pending videos remaining after this run: $remaining"
+          echo "If > 0, re-run this workflow with the same mode to continue."

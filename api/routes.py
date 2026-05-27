@@ -1,3 +1,4 @@
+import json
 import os
 import re
 import time
@@ -6,6 +7,7 @@ from datetime import datetime
 from typing import Optional
 
 from fastapi import APIRouter, HTTPException, Query, Header
+from fastapi.responses import StreamingResponse
 
 from .utils import (
     openai_client,
@@ -41,6 +43,7 @@ from .search import (
     format_time,
     get_youtube_timestamp_url,
     generate_enhanced_ai_answer,
+    generate_enhanced_ai_answer_streaming,
 )
 from .bible import load_bible_references, get_bible_stats
 
@@ -350,7 +353,140 @@ async def answer(request: AnswerRequest):
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Answer generation error: {str(e)}")
-    
+
+
+def _format_sse(event: str, data: dict) -> str:
+    """Format one Server-Sent Event with named event + JSON data payload."""
+    return f"event: {event}\ndata: {json.dumps(data)}\n\n"
+
+
+@router.post("/answer/stream")
+async def answer_stream(request: AnswerRequest):
+    """Streaming variant of /answer using Server-Sent Events (SSE).
+
+    Same grounding rules, same model, same answer — but tokens arrive
+    as they generate so the user sees output start within ~1s instead of
+    waiting 6-8s for the full response.
+
+    Event stream:
+      event: sources    — { sources: [...] }   sent first
+      event: token      — { text: "chunk" }    streamed throughout
+      event: suggestions— { text: "..." }      sent after main answer
+      event: done       — { processing_time, suggested_queries }
+      event: error      — { message }          on failure
+
+    English-only for now. Non-English requests get a clear 400 — clients
+    should fall back to the non-streaming /answer endpoint.
+    """
+    if request.language != "en":
+        raise HTTPException(status_code=400, detail="Streaming only supports English. Use /answer for other languages.")
+
+    start_time = time.time()
+
+    # === Same search/filter pipeline as /answer (kept inline to avoid an
+    # awkward refactor of the non-streaming endpoint while we're iterating) ===
+    try:
+        query = request.query
+        processed_query = query
+        date_filter, _ = extract_date_reference(query)
+
+        title_match = re.search(
+            r'(?:sermon|message|talk)(?:\s+(?:about|on|titled|called|named))?\s+["\']?([^"\'?.]+)["\']?',
+            query, re.IGNORECASE,
+        )
+        title_filter = None
+        if title_match:
+            title_filter = title_match.group(1).strip()
+            processed_query = re.sub(
+                r'(?:sermon|message|talk)(?:\s+(?:about|on|titled|called|named))?\s+["\']?([^"\'?.]+)["\']?',
+                '', processed_query, flags=re.IGNORECASE,
+            ).strip()
+
+        pinecone_filter = {}
+        if date_filter:
+            day_start = date_filter - (48 * 60 * 60)
+            day_end = date_filter + (48 * 60 * 60)
+            pinecone_filter["publish_date"] = {"$gte": day_start, "$lte": day_end}
+
+        query_embedding = generate_embedding(processed_query)
+
+        search_response = pinecone_index.query(
+            vector=query_embedding,
+            top_k=request.top_k,
+            include_metadata=True,
+            filter=pinecone_filter if pinecone_filter else None,
+        )
+
+        search_results = []
+        for match in search_response.matches:
+            if match.score < 0.5:
+                continue
+            metadata = match.metadata
+            video_id = metadata.get("video_id", "")
+            enhanced_metadata = load_metadata(video_id)
+            if title_filter and title_filter.lower() not in enhanced_metadata.get("title", "").lower():
+                continue
+            publish_date = get_proper_date_from_metadata(enhanced_metadata)
+            segment_ids = metadata.get("segment_ids", [])
+            if not isinstance(segment_ids, list):
+                segment_ids = []
+            search_results.append(SearchResult(
+                video_id=video_id,
+                title=enhanced_metadata.get("title", metadata.get("title", "Unknown Sermon")),
+                url=get_youtube_timestamp_url(video_id, metadata.get("start_time", 0)),
+                text=metadata.get("text", ""),
+                start_time=metadata.get("start_time", 0),
+                end_time=metadata.get("end_time", 0),
+                similarity=match.score,
+                chunk_index=metadata.get("chunk_index", 0),
+                segment_ids=segment_ids,
+                publish_date=publish_date,
+            ))
+
+        # Suggested queries (both for no-results and to enhance normal results)
+        if len(search_results) == 0:
+            suggested_queries, sample_results = generate_suggested_queries_with_results(query)
+            if sample_results:
+                search_results.append(sample_results[0])
+        else:
+            suggested_queries = generate_suggested_queries(query, max_suggestions=2)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Stream prep error: {str(e)}")
+
+    # === Now generate the SSE stream ===
+    def event_stream():
+        try:
+            yield _format_sse('sources', {
+                'sources': [s.model_dump() for s in (search_results if request.include_sources else [])],
+            })
+
+            if not search_results:
+                no_results = generate_no_results_message(request.query, suggested_queries, "en")
+                # Send as a single token event so the frontend's incremental
+                # render path handles it identically to a streamed answer
+                yield _format_sse('token', {'text': no_results})
+            else:
+                for token in generate_enhanced_ai_answer_streaming(processed_query, search_results, "en"):
+                    yield _format_sse('token', {'text': token})
+
+            yield _format_sse('done', {
+                'suggested_queries': suggested_queries,
+                'processing_time': time.time() - start_time,
+            })
+        except Exception as e:
+            yield _format_sse('error', {'message': str(e)})
+
+    return StreamingResponse(
+        event_stream(),
+        media_type='text/event-stream',
+        headers={
+            'Cache-Control': 'no-cache',
+            'X-Accel-Buffering': 'no',  # Defeat any reverse-proxy buffering
+            'Connection': 'keep-alive',
+        },
+    )
+
+
 @router.get("/transcript/{video_id}")
 async def get_transcript(
     video_id: str,

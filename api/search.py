@@ -658,3 +658,108 @@ IMPORTANT REMINDERS:
         raise HTTPException(status_code=500, detail=f"Error generating AI answer: {str(e)}")
 
 
+def generate_enhanced_ai_answer_streaming(query: str, search_results: List[SearchResult], language: str = "en"):
+    """
+    Generator variant of generate_enhanced_ai_answer that yields tokens as
+    they arrive from the model. Used by the /answer/stream SSE endpoint so
+    the user sees tokens flowing within ~1s instead of waiting 6-8s for
+    the full answer.
+
+    Identical prompt and grounding rules to generate_enhanced_ai_answer —
+    the only difference is `stream=True` on the OpenAI client call. Both
+    functions share the same system prompt, the same context construction,
+    the same model. The grounding behavior should be unchanged.
+
+    Language-restricted to English for now: translation needs the full
+    answer buffered, which defeats streaming. Non-English requests should
+    use the non-streaming /answer endpoint.
+    """
+    if language != "en":
+        raise HTTPException(status_code=400, detail="Streaming answer only supports English at this time.")
+
+    # --- exact same context construction as generate_enhanced_ai_answer ---
+    sermons = {}
+    for result in search_results:
+        if result.video_id not in sermons:
+            sermons[result.video_id] = {"title": result.title, "date": result.publish_date, "segments": []}
+        sermons[result.video_id]["segments"].append(result)
+    for sermon_data in sermons.values():
+        sermon_data["segments"].sort(key=lambda x: x.start_time)
+
+    context_parts = []
+    for sermon_data in sermons.values():
+        date_str = ""
+        if sermon_data["date"]:
+            try:
+                date_obj = datetime.fromtimestamp(sermon_data["date"])
+                if 1990 <= date_obj.year <= 2030:
+                    date_str = f" ({date_obj.strftime('%B %d, %Y')})"
+            except (ValueError, TypeError, OverflowError):
+                pass
+        context_parts.append(f"SERMON: {sermon_data['title']}{date_str}")
+        for i, segment in enumerate(sermon_data["segments"]):
+            time_str = f"{format_time(segment.start_time)} - {format_time(segment.end_time)}"
+            context_parts.append(f"  Segment {i+1} ({time_str}):\n  {segment.text}")
+        context_parts.append("---")
+    context = "\n\n".join(context_parts)
+
+    # --- same system prompt as the non-streaming version (English branch) ---
+    system_message = """You are an expert sermon content assistant for an Independent Fundamental Baptist church.
+        Your task is to provide detailed and nuanced answers based solely on the provided sermon segments.
+        If information is not present in the segments, you must clearly indicate this.
+        Provide contextual quotes from the sermons to support your points.
+
+        When answering, follow these guidelines:
+        1. Only use information explicitly stated in the sermon segments.
+        2. Quote specific parts of the sermons using "quotation marks" to support key points.
+        3. When referring to who is preaching, use terms like "the preacher," "the pastor," "the missionary," or "the evangelist"
+           as appropriate to the context, rather than the generic "the speaker." If the sermon specifically mentions who is preaching,
+           use that title and name. Most sermons are from Pastor Mann, but others may be from missionaries, evangelists, or lay preachers.
+        4. Reference which sermon contains the information (e.g., "In the sermon titled 'Faith in Action'...").
+        5. If the question asks about a specific sermon by date or title, prioritize content from that sermon.
+        6. If answering requires theological interpretation beyond what's in the segments, clearly indicate this.
+        7. Keep your answer focused and organized, with clear structure.
+        8. For scripture references, provide the book, chapter, and verse as mentioned in the sermon.
+
+        IMPORTANT: When mentioning sermon dates, only mention dates if they are clearly specified in the provided segments.
+        If you are unsure about a date, omit it completely. Never invent or assume dates. If a sermon's date is not
+        clearly provided or seems incorrect (like very old dates such as 1970), do not mention the date at all."""
+
+    prompt = f"""
+Answer the following question based only on the provided sermon segments.
+
+USER QUESTION: {query}
+
+SERMON CONTENT:
+{context}
+
+Answer the question based only on the provided sermon content. Include specific references to which sermon(s) contain the information. Keep your response focused and well-organized.
+
+IMPORTANT REMINDERS:
+1. Only mention dates if they appear in the sermon title or content.
+2. When referring to who is preaching, use appropriate terms like "the preacher," "the pastor," "the missionary," or "the evangelist" rather than "the speaker." If the sermon mentions a specific name or title, use that.
+3. Most sermons come from Pastor Mann, but some are from missionaries, evangelists, or lay preachers. Only attribute to a specific person if you can clearly determine who is speaking from the sermon content.
+"""
+
+    try:
+        stream = openrouter_client.chat.completions.create(
+            model=ANSWER_MODEL,
+            messages=[
+                {"role": "system", "content": system_message},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.3,
+            max_tokens=1000,
+            stream=True,
+        )
+        for chunk in stream:
+            # OpenAI/OpenRouter chunk shape: choices[0].delta.content (may be None)
+            if not chunk.choices:
+                continue
+            delta = chunk.choices[0].delta.content
+            if delta:
+                yield delta
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error streaming AI answer: {str(e)}")
+
+

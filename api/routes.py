@@ -1,3 +1,8 @@
+import os
+import re
+import time
+from collections import Counter, defaultdict
+from datetime import datetime
 from typing import Optional
 
 from fastapi import APIRouter, HTTPException, Query, Header
@@ -7,6 +12,7 @@ from .utils import (
     pinecone_index,
     EMBEDDING_MODEL,
     COMPLETION_MODEL,
+    PINECONE_INDEX_NAME,
     SEARCH_TOP_K,
     SUBTITLES_DIR,
     METADATA_DIR,

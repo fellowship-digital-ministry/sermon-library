@@ -1,0 +1,12 @@
+{
+  "video_id": "EYFIfx9U54k",
+  "title": "\"A Life Marked By Prayer\" Ephesians 6:10-20",
+  "publish_date": 20231115.0,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/EYFIfx9U54k.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/EYFIfx9U54k.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/EYFIfx9U54k.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/EYFIfx9U54k.vtt",
+  "duration": 3044.0,
+  "transcription_timestamp": "2026-05-27T14:05:30.086261",
+  "model": "whisper-1"
+}

@@ -69,6 +69,12 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, 
         'outtmpl': os.path.join(output_dir, f"{video_id}.%(ext)s"),
         'quiet': True,
         'no_warnings': True,
+        # YouTube now requires JS challenge solving. yt-dlp downloads its
+        # current solver from the yt-dlp/EJS repo on demand. Needs Deno on
+        # PATH at runtime; without this flag (or without Deno), every video
+        # returns "This video is not available". See bin/run_ingest.sh for
+        # the local-cron setup that ensures Deno is available.
+        'remote_components': ['ejs:github'],
     }
     if cookies_file:
         ydl_opts['cookiefile'] = cookies_file

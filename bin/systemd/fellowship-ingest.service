@@ -1,0 +1,20 @@
+[Unit]
+Description=Fellowship sermon ingest — discover, transcribe, embed
+Documentation=file:///%h/Development/experiments/fellowship/sermon-library/bin/INGEST_LOCAL.md
+# Don't run if we have no network
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+# Run from the repo so any relative paths resolve correctly
+WorkingDirectory=%h/Development/experiments/fellowship/sermon-library
+ExecStart=%h/Development/experiments/fellowship/sermon-library/bin/run_ingest.sh
+# Cap each run at 6 hours so a hung job doesn't run forever
+TimeoutStartSec=6h
+# Be a polite background citizen
+Nice=10
+IOSchedulingClass=idle
+
+[Install]
+WantedBy=default.target

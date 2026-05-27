@@ -1,0 +1,22 @@
+[Unit]
+Description=Run fellowship sermon ingest twice daily (09:00 + 21:00 local)
+
+[Timer]
+# Twice a day — catches morning + evening uploads within ~12h regardless
+# of which volunteer uploads when.
+OnCalendar=*-*-* 09:00:00
+OnCalendar=*-*-* 21:00:00
+
+# If the laptop was off when the timer was supposed to fire, run as soon
+# as we're up. This is the single most important setting for a laptop —
+# without it, you'd miss every Sunday-morning timer that fell during
+# weekend trips, vacations, etc.
+Persistent=true
+
+# Spread the load: don't fire at exactly 09:00:00 every day. Randomly
+# delay up to 10 minutes. Polite to YouTube and avoids any cron-thunder
+# effects.
+RandomizedDelaySec=600
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,12 @@
+{
+  "video_id": "wNJkNLf9kaY",
+  "title": "\"Guard Your Tongue\"  James 3:1-12",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/wNJkNLf9kaY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/wNJkNLf9kaY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/wNJkNLf9kaY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/wNJkNLf9kaY.vtt",
+  "duration": 3283.0,
+  "transcription_timestamp": "2026-05-27T14:52:35.828719",
+  "model": "whisper-1"
+}

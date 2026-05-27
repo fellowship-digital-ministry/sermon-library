@@ -1,0 +1,12 @@
+{
+  "video_id": "E31QXOicGRA",
+  "title": "\"Only God Is Great\"  Psalm 86:10-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/E31QXOicGRA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/E31QXOicGRA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/E31QXOicGRA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/E31QXOicGRA.vtt",
+  "duration": 2553.0,
+  "transcription_timestamp": "2026-05-27T17:26:37.324584",
+  "model": "whisper-1"
+}

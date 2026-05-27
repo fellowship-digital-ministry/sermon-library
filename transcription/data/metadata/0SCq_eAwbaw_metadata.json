@@ -1,0 +1,12 @@
+{
+  "video_id": "0SCq_eAwbaw",
+  "title": "\"Talk Is Cheap\"  James 2:14-20",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/0SCq_eAwbaw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/0SCq_eAwbaw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/0SCq_eAwbaw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/0SCq_eAwbaw.vtt",
+  "duration": 3616.0,
+  "transcription_timestamp": "2026-05-27T15:22:02.112641",
+  "model": "whisper-1"
+}

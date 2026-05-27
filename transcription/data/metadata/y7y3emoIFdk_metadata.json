@@ -1,0 +1,12 @@
+{
+  "video_id": "y7y3emoIFdk",
+  "title": "\"Paul's Love For The Corinthians\"  II Corinthians 12:11-19",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/y7y3emoIFdk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/y7y3emoIFdk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/y7y3emoIFdk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/y7y3emoIFdk.vtt",
+  "duration": 3191.0,
+  "transcription_timestamp": "2026-05-27T17:39:16.916585",
+  "model": "whisper-1"
+}

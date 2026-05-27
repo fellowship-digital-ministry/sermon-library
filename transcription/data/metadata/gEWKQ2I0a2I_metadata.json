@@ -1,0 +1,12 @@
+{
+  "video_id": "gEWKQ2I0a2I",
+  "title": "\"The Fourth Seal Opened\" Revelation 6:7-8",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/gEWKQ2I0a2I.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/gEWKQ2I0a2I.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/gEWKQ2I0a2I.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/gEWKQ2I0a2I.vtt",
+  "duration": 2255.0,
+  "transcription_timestamp": "2026-05-27T14:56:03.588390",
+  "model": "whisper-1"
+}

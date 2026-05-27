@@ -1,0 +1,12 @@
+{
+  "video_id": "1PzvpRN8FKE",
+  "title": "\"The Lord Hath Prevailed And Is Worthy Of Worship\" Revelation 5:1-14",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/1PzvpRN8FKE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/1PzvpRN8FKE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/1PzvpRN8FKE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/1PzvpRN8FKE.vtt",
+  "duration": 2440.0,
+  "transcription_timestamp": "2026-05-27T16:08:06.364285",
+  "model": "whisper-1"
+}

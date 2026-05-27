@@ -1,0 +1,12 @@
+{
+  "video_id": "j_nhiIFLglw",
+  "title": "\"So Moses Finished The Work\" Exodus 40:1-38",
+  "publish_date": 20200531.0,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/j_nhiIFLglw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/j_nhiIFLglw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/j_nhiIFLglw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/j_nhiIFLglw.vtt",
+  "duration": 2225.0,
+  "transcription_timestamp": "2026-05-27T14:24:17.543193",
+  "model": "whisper-1"
+}

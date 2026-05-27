@@ -1,0 +1,12 @@
+{
+  "video_id": "CXZQVH0uWS0",
+  "title": "\"Do Not Err - Part 1\" James 1:13-16",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/CXZQVH0uWS0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/CXZQVH0uWS0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CXZQVH0uWS0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CXZQVH0uWS0.vtt",
+  "duration": 3367.0,
+  "transcription_timestamp": "2026-05-27T16:12:53.619331",
+  "model": "whisper-1"
+}

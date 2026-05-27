@@ -1,0 +1,12 @@
+{
+  "video_id": "6l5bpUvCEko",
+  "title": "\"We Lack Wisdom\"  James 1:5-8",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/6l5bpUvCEko.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/6l5bpUvCEko.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6l5bpUvCEko.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6l5bpUvCEko.vtt",
+  "duration": 3049.0,
+  "transcription_timestamp": "2026-05-27T16:40:13.152471",
+  "model": "whisper-1"
+}

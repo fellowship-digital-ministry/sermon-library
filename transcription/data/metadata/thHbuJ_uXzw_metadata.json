@@ -1,0 +1,12 @@
+{
+  "video_id": "thHbuJ_uXzw",
+  "title": "\"Enduring Trials\" James 1:12",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/thHbuJ_uXzw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/thHbuJ_uXzw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/thHbuJ_uXzw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/thHbuJ_uXzw.vtt",
+  "duration": 3427.0,
+  "transcription_timestamp": "2026-05-27T16:18:22.011004",
+  "model": "whisper-1"
+}

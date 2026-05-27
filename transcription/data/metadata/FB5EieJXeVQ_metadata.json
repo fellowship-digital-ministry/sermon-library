@@ -1,0 +1,12 @@
+{
+  "video_id": "FB5EieJXeVQ",
+  "title": "\"The First Seal Opened\"  Revelation 6:1-2",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/FB5EieJXeVQ.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/FB5EieJXeVQ.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/FB5EieJXeVQ.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/FB5EieJXeVQ.vtt",
+  "duration": 2635.0,
+  "transcription_timestamp": "2026-05-27T15:42:55.159535",
+  "model": "whisper-1"
+}

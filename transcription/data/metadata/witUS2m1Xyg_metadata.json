@@ -1,0 +1,12 @@
+{
+  "video_id": "witUS2m1Xyg",
+  "title": "\"Daniels 70th Week\"  Daniel 9:24-27",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/witUS2m1Xyg.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/witUS2m1Xyg.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/witUS2m1Xyg.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/witUS2m1Xyg.vtt",
+  "duration": 2609.0,
+  "transcription_timestamp": "2026-05-27T16:04:38.436982",
+  "model": "whisper-1"
+}

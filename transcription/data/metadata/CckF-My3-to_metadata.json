@@ -1,0 +1,12 @@
+{
+  "video_id": "CckF-My3-to",
+  "title": "\"Finish Well\" Psalm 119:112",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/CckF-My3-to.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/CckF-My3-to.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CckF-My3-to.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CckF-My3-to.vtt",
+  "duration": 2226.0,
+  "transcription_timestamp": "2026-05-27T17:04:14.011899",
+  "model": "whisper-1"
+}

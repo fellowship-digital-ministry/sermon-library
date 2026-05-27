@@ -1,0 +1,12 @@
+{
+  "video_id": "LE1qkzND4b0",
+  "title": "\"Trials\" James 1:2-4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/LE1qkzND4b0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/LE1qkzND4b0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LE1qkzND4b0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LE1qkzND4b0.vtt",
+  "duration": 2584.0,
+  "transcription_timestamp": "2026-05-27T16:44:02.864988",
+  "model": "whisper-1"
+}

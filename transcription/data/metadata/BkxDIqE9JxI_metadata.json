@@ -1,0 +1,12 @@
+{
+  "video_id": "BkxDIqE9JxI",
+  "title": "\"Do You Want To Be Free?\"  John 8:32",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/BkxDIqE9JxI.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/BkxDIqE9JxI.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BkxDIqE9JxI.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BkxDIqE9JxI.vtt",
+  "duration": 3159.0,
+  "transcription_timestamp": "2026-05-27T14:37:08.179100",
+  "model": "whisper-1"
+}

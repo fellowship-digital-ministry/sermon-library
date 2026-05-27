@@ -1,0 +1,12 @@
+{
+  "video_id": "Y0jwhAYMarc",
+  "title": "\"God's Grace Is Sufficient - Part Two\" II Corinthians 12:9",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Y0jwhAYMarc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Y0jwhAYMarc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Y0jwhAYMarc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Y0jwhAYMarc.vtt",
+  "duration": 2725.0,
+  "transcription_timestamp": "2026-05-27T16:56:51.477346",
+  "model": "whisper-1"
+}

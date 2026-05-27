@@ -1,0 +1,12 @@
+{
+  "video_id": "RNHeQGD_erM",
+  "title": "\"Thou Art With Me\" Psalm 23:4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/RNHeQGD_erM.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/RNHeQGD_erM.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/RNHeQGD_erM.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/RNHeQGD_erM.vtt",
+  "duration": 3035.0,
+  "transcription_timestamp": "2026-05-27T17:31:07.663356",
+  "model": "whisper-1"
+}

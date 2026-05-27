@@ -1,0 +1,12 @@
+{
+  "video_id": "-oec2OYFv2I",
+  "title": "\"The Day Of Trouble\" Psalm 50:15",
+  "publish_date": 20201102.0,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/-oec2OYFv2I.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/-oec2OYFv2I.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/-oec2OYFv2I.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/-oec2OYFv2I.vtt",
+  "duration": 2797.0,
+  "transcription_timestamp": "2026-05-27T14:17:45.722182",
+  "model": "whisper-1"
+}

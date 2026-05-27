@@ -1,0 +1,12 @@
+{
+  "video_id": "npp6nsROFsk",
+  "title": "\"Examine Yourselves\"  II Corinthians 13:1-10",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/npp6nsROFsk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/npp6nsROFsk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/npp6nsROFsk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/npp6nsROFsk.vtt",
+  "duration": 3421.0,
+  "transcription_timestamp": "2026-05-27T17:14:22.099942",
+  "model": "whisper-1"
+}

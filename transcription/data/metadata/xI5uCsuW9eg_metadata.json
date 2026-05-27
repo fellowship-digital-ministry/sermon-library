@@ -1,0 +1,12 @@
+{
+  "video_id": "xI5uCsuW9eg",
+  "title": "\"Have Ye Not Read?\"  Matthew 12:1-14",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/xI5uCsuW9eg.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/xI5uCsuW9eg.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/xI5uCsuW9eg.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/xI5uCsuW9eg.vtt",
+  "duration": 2662.0,
+  "transcription_timestamp": "2026-05-27T17:18:13.214844",
+  "model": "whisper-1"
+}

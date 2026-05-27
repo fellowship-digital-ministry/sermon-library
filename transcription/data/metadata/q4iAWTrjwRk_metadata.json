@@ -1,0 +1,12 @@
+{
+  "video_id": "q4iAWTrjwRk",
+  "title": "\"The Fellowship Of His Sufferings\"  II Corinthians 11:16-33",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/q4iAWTrjwRk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/q4iAWTrjwRk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/q4iAWTrjwRk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/q4iAWTrjwRk.vtt",
+  "duration": 3136.0,
+  "transcription_timestamp": "2026-05-27T17:52:02.545818",
+  "model": "whisper-1"
+}

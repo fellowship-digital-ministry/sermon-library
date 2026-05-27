@@ -1,0 +1,12 @@
+{
+  "video_id": "TCdwEmJOQ3c",
+  "title": "\"The Grave Could Not Hold Him\" I Corinthians 15:1-9",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/TCdwEmJOQ3c.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/TCdwEmJOQ3c.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/TCdwEmJOQ3c.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/TCdwEmJOQ3c.vtt",
+  "duration": 2839.0,
+  "transcription_timestamp": "2026-05-27T15:34:44.740158",
+  "model": "whisper-1"
+}

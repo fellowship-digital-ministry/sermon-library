@@ -1,0 +1,12 @@
+{
+  "video_id": "MODJ0wQftRk",
+  "title": "\"Serve The Lord\" I Samuel 12",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/MODJ0wQftRk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/MODJ0wQftRk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/MODJ0wQftRk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/MODJ0wQftRk.vtt",
+  "duration": 3112.0,
+  "transcription_timestamp": "2026-05-27T16:22:49.192387",
+  "model": "whisper-1"
+}

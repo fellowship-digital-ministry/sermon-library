@@ -1,0 +1,12 @@
+{
+  "video_id": "_LYcdJO7GfA",
+  "title": "\"Once For All\" Hebrews 10:1-18",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/_LYcdJO7GfA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/_LYcdJO7GfA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_LYcdJO7GfA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_LYcdJO7GfA.vtt",
+  "duration": 3137.0,
+  "transcription_timestamp": "2026-05-27T15:39:09.667256",
+  "model": "whisper-1"
+}

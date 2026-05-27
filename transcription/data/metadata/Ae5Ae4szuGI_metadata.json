@@ -1,0 +1,12 @@
+{
+  "video_id": "Ae5Ae4szuGI",
+  "title": "\"Do Not Err - Part 2\" James 1:16-18",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Ae5Ae4szuGI.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Ae5Ae4szuGI.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ae5Ae4szuGI.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ae5Ae4szuGI.vtt",
+  "duration": 3288.0,
+  "transcription_timestamp": "2026-05-27T16:00:45.039628",
+  "model": "whisper-1"
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "lReYV18RAeg",
+  "title": "\"Riches Make Wings\" James 1:9-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/lReYV18RAeg.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/lReYV18RAeg.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lReYV18RAeg.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lReYV18RAeg.vtt",
+  "duration": 3345.0,
+  "transcription_timestamp": "2026-05-27T16:35:26.819524",
+  "model": "whisper-1"
+}

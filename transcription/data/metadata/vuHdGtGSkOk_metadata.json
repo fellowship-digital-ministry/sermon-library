@@ -1,0 +1,12 @@
+{
+  "video_id": "vuHdGtGSkOk",
+  "title": "\"In What Do You Take Pleasure?\" II Corinthians 12:9-10",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/vuHdGtGSkOk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/vuHdGtGSkOk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vuHdGtGSkOk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vuHdGtGSkOk.vtt",
+  "duration": 3242.0,
+  "transcription_timestamp": "2026-05-27T17:43:54.713865",
+  "model": "whisper-1"
+}

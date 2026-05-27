@@ -1,0 +1,12 @@
+{
+  "video_id": "ZWX3NCZ1bvc",
+  "title": "\"The Courage Of Jehosheba\"  II Kings 11:1-3",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/ZWX3NCZ1bvc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/ZWX3NCZ1bvc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ZWX3NCZ1bvc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ZWX3NCZ1bvc.vtt",
+  "duration": 2414.0,
+  "transcription_timestamp": "2026-05-27T14:59:42.662349",
+  "model": "whisper-1"
+}

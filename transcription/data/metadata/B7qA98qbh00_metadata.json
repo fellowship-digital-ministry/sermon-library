@@ -1,0 +1,12 @@
+{
+  "video_id": "B7qA98qbh00",
+  "title": "\"Faith Through Trials\"  Hebrews 11:17-19",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/B7qA98qbh00.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/B7qA98qbh00.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/B7qA98qbh00.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/B7qA98qbh00.vtt",
+  "duration": 2229.0,
+  "transcription_timestamp": "2026-05-27T14:44:21.789288",
+  "model": "whisper-1"
+}

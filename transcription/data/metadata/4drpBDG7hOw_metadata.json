@@ -1,0 +1,12 @@
+{
+  "video_id": "4drpBDG7hOw",
+  "title": "\"Priority On Humility\"  II Corinthians 12:1-10",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/4drpBDG7hOw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/4drpBDG7hOw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/4drpBDG7hOw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/4drpBDG7hOw.vtt",
+  "duration": 2617.0,
+  "transcription_timestamp": "2026-05-27T17:47:34.042131",
+  "model": "whisper-1"
+}

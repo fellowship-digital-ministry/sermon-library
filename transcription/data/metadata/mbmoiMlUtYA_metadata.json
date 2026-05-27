@@ -1,0 +1,12 @@
+{
+  "video_id": "mbmoiMlUtYA",
+  "title": "\"Hearing And Doing\"  James 1:19-27",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/mbmoiMlUtYA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/mbmoiMlUtYA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mbmoiMlUtYA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mbmoiMlUtYA.vtt",
+  "duration": 3074.0,
+  "transcription_timestamp": "2026-05-27T15:55:56.771375",
+  "model": "whisper-1"
+}

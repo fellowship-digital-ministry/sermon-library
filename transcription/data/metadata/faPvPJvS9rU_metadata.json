@@ -1,0 +1,12 @@
+{
+  "video_id": "faPvPJvS9rU",
+  "title": "\"Even So Minister - Part One\"  I Peter 4:10-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/faPvPJvS9rU.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/faPvPJvS9rU.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/faPvPJvS9rU.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/faPvPJvS9rU.vtt",
+  "duration": 2884.0,
+  "transcription_timestamp": "2026-05-27T16:48:14.361551",
+  "model": "whisper-1"
+}

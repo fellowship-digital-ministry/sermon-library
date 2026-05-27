@@ -1,0 +1,12 @@
+{
+  "video_id": "vc7GUAlgbGA",
+  "title": "\"Living By Faith - Part 2\" James 2:25-26",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/vc7GUAlgbGA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/vc7GUAlgbGA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vc7GUAlgbGA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vc7GUAlgbGA.vtt",
+  "duration": 3220.0,
+  "transcription_timestamp": "2026-05-27T15:04:23.318493",
+  "model": "whisper-1"
+}

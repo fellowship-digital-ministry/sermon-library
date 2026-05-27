@@ -1,0 +1,12 @@
+{
+  "video_id": "6dYI_cEbDbI",
+  "title": "\"Living By Faith - Part 1\" James 2:21-24",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/6dYI_cEbDbI.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/6dYI_cEbDbI.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6dYI_cEbDbI.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6dYI_cEbDbI.vtt",
+  "duration": 3452.0,
+  "transcription_timestamp": "2026-05-27T15:09:25.887145",
+  "model": "whisper-1"
+}

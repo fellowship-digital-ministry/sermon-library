@@ -1,0 +1,12 @@
+{
+  "video_id": "Sv5lMw8-UoQ",
+  "title": "\"The Lord Led Me\" Genesis 24:1-27",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Sv5lMw8-UoQ.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Sv5lMw8-UoQ.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Sv5lMw8-UoQ.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Sv5lMw8-UoQ.vtt",
+  "duration": 2336.0,
+  "transcription_timestamp": "2026-05-27T17:34:22.889427",
+  "model": "whisper-1"
+}

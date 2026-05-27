@@ -1,0 +1,12 @@
+{
+  "video_id": "LpmY21dqr9A",
+  "title": "\"Too Busy For Jesus\" Luke 10:38-42",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/LpmY21dqr9A.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/LpmY21dqr9A.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LpmY21dqr9A.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LpmY21dqr9A.vtt",
+  "duration": 2492.0,
+  "transcription_timestamp": "2026-05-27T17:55:36.977348",
+  "model": "whisper-1"
+}

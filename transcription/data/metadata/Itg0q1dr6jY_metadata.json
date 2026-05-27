@@ -1,0 +1,12 @@
+{
+  "video_id": "Itg0q1dr6jY",
+  "title": "\"The Second Seal Opened\"  Revelation 6:3-4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Itg0q1dr6jY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Itg0q1dr6jY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Itg0q1dr6jY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Itg0q1dr6jY.vtt",
+  "duration": 2578.0,
+  "transcription_timestamp": "2026-05-27T15:16:49.291070",
+  "model": "whisper-1"
+}

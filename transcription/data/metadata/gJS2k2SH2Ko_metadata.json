@@ -1,0 +1,12 @@
+{
+  "video_id": "gJS2k2SH2Ko",
+  "title": "\"The Fifth Seal Opened\" Revelation 6:9-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/gJS2k2SH2Ko.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/gJS2k2SH2Ko.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/gJS2k2SH2Ko.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/gJS2k2SH2Ko.vtt",
+  "duration": 2598.0,
+  "transcription_timestamp": "2026-05-27T14:48:02.361121",
+  "model": "whisper-1"
+}

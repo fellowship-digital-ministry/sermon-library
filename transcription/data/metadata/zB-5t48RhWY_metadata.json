@@ -1,0 +1,12 @@
+{
+  "video_id": "zB-5t48RhWY",
+  "title": "\"James, A Servant Of God\" James 1:1",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/zB-5t48RhWY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/zB-5t48RhWY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/zB-5t48RhWY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/zB-5t48RhWY.vtt",
+  "duration": 3257.0,
+  "transcription_timestamp": "2026-05-27T16:52:48.707028",
+  "model": "whisper-1"
+}

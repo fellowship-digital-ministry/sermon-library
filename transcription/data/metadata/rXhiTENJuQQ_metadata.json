@@ -1,0 +1,12 @@
+{
+  "video_id": "rXhiTENJuQQ",
+  "title": "\"Farewell\" II Corinthians 13:11-14",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/rXhiTENJuQQ.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/rXhiTENJuQQ.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rXhiTENJuQQ.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rXhiTENJuQQ.vtt",
+  "duration": 3143.0,
+  "transcription_timestamp": "2026-05-27T17:09:04.461281",
+  "model": "whisper-1"
+}

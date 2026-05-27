@@ -1,0 +1,12 @@
+{
+  "video_id": "G4Un3pWAQf0",
+  "title": "\"Sin Must Be Addressed\" II Corinthians 12:20-21",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/G4Un3pWAQf0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/G4Un3pWAQf0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/G4Un3pWAQf0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/G4Un3pWAQf0.vtt",
+  "duration": 3058.0,
+  "transcription_timestamp": "2026-05-27T17:22:52.152966",
+  "model": "whisper-1"
+}

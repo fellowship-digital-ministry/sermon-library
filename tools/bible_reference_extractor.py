@@ -21,16 +21,29 @@ BIBLE_BOOKS = [
 
 class BibleReferenceExtractor:
     """
-    A class to extract KJV Bible references from sermon transcripts using OpenAI's GPT-4o model.
-    Implements user-friendly processing with progress bars, error handling, and efficient processing.
+    A class to extract KJV Bible references from sermon transcripts using an
+    OpenAI-compatible chat-completions API. By default, calls OpenRouter with
+    Claude Haiku 4.5; falls back to direct OpenAI if no OPENROUTER_API_KEY is
+    set, preserving compatibility with the original GPT-4o setup.
+
+    Implements user-friendly processing with progress bars, error handling,
+    and efficient processing.
     """
-    
+
+    # Default model when going through OpenRouter. Override via the
+    # BIBLE_EXTRACTOR_MODEL environment variable if you want to try
+    # Sonnet 4.6, Gemini 2.5 Flash, etc.
+    DEFAULT_OPENROUTER_MODEL = "anthropic/claude-haiku-4.5"
+    DEFAULT_OPENAI_MODEL = "gpt-4o"
+
     def __init__(self, api_key, input_dir, output_dir, chunk_size=1000, batch_size=10, max_workers=4, force_reprocess=False):
         """
         Initialize the BibleReferenceExtractor with configuration parameters.
-        
+
         Args:
-            api_key (str): OpenAI API key
+            api_key (str): Explicit API key, or None to read from environment.
+                OPENROUTER_API_KEY is preferred; OPENAI_API_KEY is the legacy
+                fallback.
             input_dir (str): Directory containing sermon transcript JSON files
             output_dir (str): Directory to save the output JSON files by Bible book
             chunk_size (int): Number of characters in each chunk for processing
@@ -38,13 +51,26 @@ class BibleReferenceExtractor:
             max_workers (int): Maximum number of parallel workers
             force_reprocess (bool): Whether to reprocess files that have already been processed
         """
-        # Use the provided API key or get from environment if None
-        if api_key is None:
-            api_key = os.environ.get("OPENAI_API_KEY")
-            if not api_key:
-                raise ValueError("No OpenAI API key provided and OPENAI_API_KEY environment variable not set")
-        
-        self.client = OpenAI(api_key=api_key)
+        # Route through OpenRouter when an OPENROUTER_API_KEY is available
+        # (preferred — modern models, single account). Otherwise fall back to
+        # OpenAI directly for the legacy GPT-4o path.
+        openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+        if openrouter_key and api_key is None:
+            self.client = OpenAI(
+                api_key=openrouter_key,
+                base_url="https://openrouter.ai/api/v1",
+            )
+            self.model = os.environ.get("BIBLE_EXTRACTOR_MODEL", self.DEFAULT_OPENROUTER_MODEL)
+        else:
+            if api_key is None:
+                api_key = os.environ.get("OPENAI_API_KEY")
+                if not api_key:
+                    raise ValueError(
+                        "No API key found. Set OPENROUTER_API_KEY (preferred) "
+                        "or OPENAI_API_KEY, or pass api_key explicitly."
+                    )
+            self.client = OpenAI(api_key=api_key)
+            self.model = os.environ.get("BIBLE_EXTRACTOR_MODEL", self.DEFAULT_OPENAI_MODEL)
         self.input_dir = input_dir
         self.output_dir = output_dir
         self.chunk_size = chunk_size
@@ -209,13 +235,54 @@ class BibleReferenceExtractor:
             
         return chunks
     
+    @staticmethod
+    def _extract_json_object(text):
+        """Find the first complete {...} JSON object in a string.
+
+        Some models (Claude via OpenRouter, occasionally GPT) wrap JSON in
+        ```json ... ``` fences or append explanatory prose. This walks the
+        string and returns the substring between the first '{' and its
+        matching '}', respecting nested braces and string literals.
+        Returns None if no balanced object is found.
+        """
+        if not text:
+            return None
+        start = text.find("{")
+        if start == -1:
+            return None
+        depth = 0
+        in_string = False
+        escape = False
+        for i in range(start, len(text)):
+            c = text[i]
+            if escape:
+                escape = False
+                continue
+            if c == "\\":
+                escape = True
+                continue
+            if c == '"':
+                in_string = not in_string
+                continue
+            if in_string:
+                continue
+            if c == "{":
+                depth += 1
+            elif c == "}":
+                depth -= 1
+                if depth == 0:
+                    return text[start:i + 1]
+        return None
+
     def extract_references_with_gpt(self, chunk):
         """
-        Use OpenAI's GPT-4o to identify KJV Bible references in a chunk of text.
-        
+        Use the configured LLM (Claude Haiku 4.5 via OpenRouter by default,
+        or GPT-4o on the legacy path) to identify KJV Bible references in a
+        chunk of text.
+
         Args:
             chunk (dict): Dictionary containing chunk text and timing info
-            
+
         Returns:
             list: List of identified Bible references with timestamps
         """
@@ -231,28 +298,45 @@ class BibleReferenceExtractor:
             sample_text = chunk_text[:100] + "..."
         print(f"Processing chunk: {sample_text}")
         
-        # Notice the word "JSON" is included in the system message to satisfy the API requirement
-        system_message = "You are a biblical scholar identifying Bible references in sermon transcripts. Return your response as a valid JSON object."
-        
+        # System message names "JSON" (some providers require it for JSON mode)
+        # and disables markdown wrapping — Claude on OpenRouter has a habit of
+        # returning ```json ...``` fences which break json.loads().
+        system_message = (
+            "You are a biblical scholar identifying Bible references in sermon "
+            "transcripts. Return ONLY a valid JSON object — no markdown code "
+            "fences, no prose before or after."
+        )
+
+        # Prompt distinguishes explicit vs implicit so the LLM doesn't flag
+        # everything as explicit (which then over-trips the substring guard).
         prompt = """
         Identify King James Version Bible references in this sermon transcript.
-        
-        Format your response as a JSON object EXACTLY like this:
+
+        For each reference, set "is_implicit":
+          - false  → the speaker NAMES the citation (e.g. "John three sixteen",
+                     "Romans 5:8", "Genesis chapter 12"). reference_text MUST
+                     be a phrase that appears in the transcript.
+          - true   → the speaker QUOTES verse content without naming the
+                     citation. reference_text is your synthesized label
+                     (e.g. "Philippians 2:8"); context MUST be a quoted phrase
+                     from the transcript.
+
+        Format EXACTLY like this:
         {{"references": [
             {{"book": "John", "chapter": 3, "verse": 16, "reference_text": "John 3:16", "context": "...", "is_implicit": false}},
             {{"book": "Romans", "chapter": 5, "verse": 8, "reference_text": "Romans 5:8", "context": "...", "is_implicit": false}}
         ]}}
-        
+
         If no references are found, return:
         {{"references": []}}
-        
+
         Here's the transcript:
         {0}
         """
         
         try:
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model=self.model,
                 messages=[
                     {"role": "system", "content": system_message},
                     {"role": "user", "content": prompt.format(chunk_text)}
@@ -265,10 +349,18 @@ class BibleReferenceExtractor:
             # Get the raw response content
             raw_content = response.choices[0].message.content
             print(f"Raw response content (first 100 chars): {raw_content[:100]}")
-            
+
+            # Some models (notably Claude via OpenRouter) wrap the JSON in
+            # ```json ... ``` fences or tack on commentary after, despite the
+            # response_format flag. Extract the first {...} block.
+            json_str = self._extract_json_object(raw_content)
+            if json_str is None:
+                print(f"Could not find JSON object in response: {raw_content[:200]}")
+                return []
+
             try:
                 # Parse the JSON response
-                result = json.loads(raw_content)
+                result = json.loads(json_str)
                 
                 # Basic validation
                 if not isinstance(result, dict):
@@ -321,7 +413,39 @@ class BibleReferenceExtractor:
                             new_ref["book"] = book.replace("Second ", "2 ")
                         elif book.startswith("Third "):
                             new_ref["book"] = book.replace("Third ", "3 ")
-                        
+
+                        # Validation guard. Goal: drop hallucinated refs
+                        # without dropping legitimate ones where the LLM
+                        # mis-classified explicit vs implicit.
+                        #
+                        # Pass if ANY of the following appears in the chunk:
+                        #   - reference_text (LLM's citation string)
+                        #   - relaxed: book name + chapter number both present
+                        #   - context snippet (the verse quote)
+                        # If the only thing missing is reference_text but the
+                        # context IS in the chunk, re-flag as implicit and keep
+                        # — that's a verse quote without a spoken citation.
+                        chunk_lower = chunk_text.lower()
+                        ref_text = (new_ref.get("reference_text") or "").strip()
+                        context_text = (new_ref.get("context") or "").strip()
+
+                        ref_text_in_chunk = bool(ref_text) and ref_text.lower() in chunk_lower
+                        book_in_chunk = new_ref["book"].lower() in chunk_lower
+                        chapter = new_ref.get("chapter")
+                        chapter_in_chunk = chapter is not None and str(chapter) in chunk_text
+                        relaxed_match = book_in_chunk and chapter_in_chunk
+                        context_in_chunk = bool(context_text) and context_text.lower() in chunk_lower
+
+                        if ref_text_in_chunk or relaxed_match:
+                            pass  # explicit reference looks real
+                        elif context_in_chunk:
+                            # Likely an implicit (quoted-verse) reference the
+                            # LLM mis-flagged. Keep it but correct the flag.
+                            new_ref["is_implicit"] = True
+                        else:
+                            print(f"Drop unvalidated ref: {ref_text!r} not in chunk")
+                            continue
+
                         processed_refs.append(new_ref)
                     except Exception as e:
                         print(f"Error processing reference #{i}: {e}")
@@ -465,15 +589,16 @@ class BibleReferenceExtractor:
 def main():
     """Main function to run the Bible reference extractor"""
     import argparse
-    
-    # Get API key from environment variable
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
-        print("Error: OPENAI_API_KEY environment variable not set")
-        print("Please set it using: export OPENAI_API_KEY='your-key' (Linux/Mac)")
-        print("Or: set OPENAI_API_KEY=your-key (Windows)")
+
+    # Auth: prefer OPENROUTER_API_KEY (modern path, Claude Haiku 4.5);
+    # fall back to OPENAI_API_KEY (legacy GPT-4o). Actual selection happens
+    # inside BibleReferenceExtractor; here we only need to confirm at least
+    # one key exists so we can fail fast with a friendly message.
+    if not (os.environ.get("OPENROUTER_API_KEY") or os.environ.get("OPENAI_API_KEY")):
+        print("Error: no API key found.")
+        print("Set OPENROUTER_API_KEY (preferred) or OPENAI_API_KEY in your env / .env file.")
         return
-    
+
     parser = argparse.ArgumentParser(description="Extract KJV Bible references from sermon transcripts")
     parser.add_argument("--input-dir", default="./transcripts", help="Directory containing sermon transcript JSON files")
     parser.add_argument("--output-dir", default="./bible_references", help="Directory to save output JSON files")
@@ -492,9 +617,10 @@ def main():
     print(f"Input directory: {args.input_dir}")
     print(f"Output directory: {args.output_dir}")
     
-    # Create extractor instance
+    # Create extractor instance — pass api_key=None so the class picks the
+    # right key + base URL from the environment (OpenRouter preferred).
     extractor = BibleReferenceExtractor(
-        api_key=api_key,
+        api_key=None,
         input_dir=args.input_dir,
         output_dir=args.output_dir,
         chunk_size=args.chunk_size,

@@ -72,19 +72,31 @@ echo "transcribe exit status: $TRANSCRIBE_STATUS"
 
 # --- 3. push new transcripts to Pinecone ---
 echo ""
-echo "[4/5] generate embeddings for new transcripts"
+echo "[4/6] generate embeddings for new transcripts"
 python tools/transcript_to_embeddings.py \
   --video_list_csv transcription/data/video_list.csv \
   --transcript_dir transcription/data/transcripts \
   --skip_existing || echo "(embeddings step had issues, continuing)"
 
-# --- 4. commit and push results ---
+# --- 4. extract Bible references from new transcripts ---
+# Tracker file (transcription/data/bible_references/processed_files.json)
+# already handles incremental — skips transcripts it has already seen.
+# Uses Claude Haiku 4.5 via OpenRouter (OPENROUTER_API_KEY in .env).
 echo ""
-echo "[5/5] commit & push"
+echo "[5/6] extract bible references for new transcripts"
+python tools/bible_reference_extractor.py \
+  --input-dir transcription/data/transcripts \
+  --output-dir transcription/data/bible_references \
+  || echo "(bible reference extraction had issues, continuing)"
+
+# --- 5. commit and push results ---
+echo ""
+echo "[6/6] commit & push"
 git add transcription/data/video_list.csv \
         transcription/data/transcripts/ \
         transcription/data/metadata/ \
-        transcription/data/subtitles/ 2>/dev/null || true
+        transcription/data/subtitles/ \
+        transcription/data/bible_references/ 2>/dev/null || true
 
 if git diff --staged --quiet; then
   echo "Nothing to commit."

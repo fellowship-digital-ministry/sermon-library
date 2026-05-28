@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-Generate condensed, structured study notes for each sermon from its transcript,
-mirroring the four-section "Sermon Notes" format the pastor hands the
-congregation each year: Introduction / Outline / Conclusion / Application.
+Generate a condensed, catalog-style record for each sermon from its transcript:
+an Introduction (a short description), an Outline, and a few subject Themes.
 
-These are AI-generated study aids derived from the transcript — NOT the
-pastor's own notes, and they carry no authority. The frontend labels them as
-such ("Study notes generated from the sermon transcript").
+Think of it as the way a librarian catalogs a book: descriptive metadata that
+helps someone find and orient to the sermon, NOT a substitute for the sermon
+itself. We deliberately do not generate "Conclusion" or "Application" sections,
+because those read as a verdict and would supplant a person wrestling with the
+text. The frontend keeps these collapsed and de-emphasized, and labels them as
+auto-generated.
 
-The Introduction also doubles as the sermon's "description" — the human-readable
-line shown when browsing/searching, so a result is evaluable without watching.
+The Introduction doubles as the sermon's "description", the human-readable line
+shown when browsing/searching, so a result is evaluable without watching. The
+Themes power keyword search alongside the description and outline.
 
 Design (mirrors tools/generate_reference_summaries.py + the run_ingest.sh step):
   * Incremental/idempotent — a sermon is processed only if its metadata lacks a
@@ -52,41 +55,45 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TRANSCRIPT_DIR = os.path.join(REPO_ROOT, "transcription", "data", "transcripts")
 METADATA_DIR = os.path.join(REPO_ROOT, "transcription", "data", "metadata")
 
-NOTES_SCHEMA_VERSION = 1
+NOTES_SCHEMA_VERSION = 2
 DEFAULT_MODEL = os.environ.get("NOTES_MODEL", "anthropic/claude-sonnet-4.6")
 
 
-SYSTEM_PROMPT = """You are preparing condensed study notes for a single sermon \
-from an Independent Fundamental Baptist church, working ONLY from the verbatim \
-transcript you are given. You produce a faithful, structured summary in the \
-church's own note-taking format. You are not a commentator and you add no \
-theology, cross-references, or applications of your own.
+SYSTEM_PROMPT = """You are cataloging a single sermon from an Independent \
+Fundamental Baptist church, working ONLY from the verbatim transcript you are \
+given. Like a librarian describing a book, you produce concise, descriptive \
+metadata that helps someone find and orient to the sermon. You are NOT a \
+commentator: you add no theology of your own, and you do NOT supply the \
+sermon's conclusions, applications, or takeaways. The point is to help people \
+find the sermon, not to spare them from engaging with it.
 
 Hard rules:
 1. Use ONLY what is actually said in this transcript. Never add outside \
    doctrine, illustrations, or conclusions the preacher did not state.
 2. Do not invent dates, names, or scripture references. Only include a Bible \
    reference if the preacher actually preaches from or cites it.
-3. APPLICATION is the most easily abused section. Record ONLY the specific \
-   applications the preacher explicitly called for — things he told the hearer \
-   to do, believe, or change. If he gave no explicit application, return an \
-   empty string. Never supply your own application.
-4. Keep every section tight and plain. No emojis, no flowery language. Use the \
-   preacher's wording where natural.
-5. Outline = the sermon's actual main divisions, in the order he preached \
-   them, as he framed them (keep his numbering/alliteration if he used it). If \
-   the structure is implicit, capture the genuine divisions only — do not \
-   manufacture points to hit a number.
-6. The introduction must be 1-2 sentences and read as a standalone description \
-   of what the sermon is about (it is shown when browsing), naming the main \
-   passage if the preacher gives one.
+3. NEVER use em dashes or en dashes. Use commas, periods, colons, or \
+   parentheses instead. (Plain hyphens in verse ranges like "vv. 1-15" are \
+   fine.)
+4. Keep everything tight, plain, and descriptive. No emojis, no flowery \
+   language, no exhortation. Describe what the sermon covers, do not tell the \
+   reader what to do about it.
+5. Introduction: 1 to 2 sentences, a standalone description of what the sermon \
+   is about (it is shown when browsing). Name the main passage if the preacher \
+   gives one. Descriptive, not a takeaway.
+6. Outline: the sermon's actual main divisions, in the order he preached them, \
+   as he framed them (keep his numbering or alliteration if he used it). You \
+   may add a short descriptive clause after a colon. Capture only genuine \
+   divisions; do not manufacture points to hit a number.
+7. Themes: 3 to 6 short subject keywords or phrases describing what the sermon \
+   is about (for cataloging and search), for example "prayer", "standing for \
+   convictions", "the home". Descriptive subjects, not lessons or takeaways.
 
 Return ONLY a JSON object with exactly this shape (no prose, no code fence):
 {
   "introduction": "1-2 sentence standalone description; name the main passage if stated",
   "outline": ["I. ...", "II. ...", "..."],
-  "conclusion": "how the preacher concluded / his final charge",
-  "application": "the applications he explicitly called for, or \\"\\" if none"
+  "themes": ["subject", "subject", "..."]
 }"""
 
 
@@ -94,9 +101,9 @@ def build_user_prompt(title: str, transcript: str) -> str:
     return (
         f"SERMON TITLE: {title}\n\n"
         f"TRANSCRIPT:\n{transcript}\n\n"
-        "Produce the JSON notes object now, following every hard rule. "
-        "Remember: Application must contain only what the preacher explicitly "
-        "called for, or an empty string."
+        "Produce the JSON catalog record now, following every hard rule. "
+        "Describe the sermon; do not supply its conclusions or applications, "
+        "and never use em dashes."
     )
 
 
@@ -114,21 +121,28 @@ def extract_json(raw: str) -> Dict[str, Any]:
     return json.loads(raw)
 
 
+def no_dashes(s: str) -> str:
+    """Backstop the prompt rule: replace any en/em dash with a comma so none
+    ever reach the page. Plain hyphens (verse ranges) are left alone."""
+    return re.sub(r"\s*[—–]\s*", ", ", str(s)).strip()
+
+
 def validate_and_clean(obj: Dict[str, Any]) -> Dict[str, Any]:
     """Validate against the schema. Raises ValueError on anything we will not
     persist. Returns the cleaned `notes` block (wrapped with schema version)."""
-    required = ["introduction", "outline", "conclusion", "application"]
+    required = ["introduction", "outline", "themes"]
     missing = [k for k in required if k not in obj]
     if missing:
         raise ValueError(f"missing fields: {missing}")
     if not isinstance(obj["outline"], list):
         raise ValueError("outline must be a list")
+    if not isinstance(obj["themes"], list):
+        raise ValueError("themes must be a list")
 
     notes = {
-        "introduction": str(obj["introduction"]).strip(),
-        "outline": [str(x).strip() for x in obj["outline"] if str(x).strip()],
-        "conclusion": str(obj["conclusion"]).strip(),
-        "application": str(obj["application"]).strip(),
+        "introduction": no_dashes(obj["introduction"]),
+        "outline": [no_dashes(x) for x in obj["outline"] if str(x).strip()],
+        "themes": [no_dashes(t).lower() for t in obj["themes"] if str(t).strip()],
     }
     if not notes["introduction"]:
         raise ValueError("introduction came back empty")

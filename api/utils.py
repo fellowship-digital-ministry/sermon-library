@@ -185,3 +185,71 @@ def load_metadata(video_id: str) -> Dict[str, Any]:
     except (FileNotFoundError, json.JSONDecodeError):
         return {"video_id": video_id}
 
+
+# ============================
+#       Cost + BYOK
+# ============================
+
+# Per-million-token rates for the answer model. Update when changing
+# ANSWER_MODEL. Fallback rates are applied to unknown models so cost
+# tracking degrades gracefully instead of zeroing out.
+_MODEL_RATES_USD_PER_MTOK = {
+    "anthropic/claude-sonnet-4.6": {"input": 3.0, "output": 15.0},
+    "anthropic/claude-opus-4.7":   {"input": 15.0, "output": 75.0},
+    "openai/gpt-5":                {"input": 5.0,  "output": 20.0},
+}
+_FALLBACK_RATE = {"input": 5.0, "output": 20.0}
+
+
+def compute_cost(usage, model: str) -> float:
+    """Compute USD cost from an OpenAI-style usage object.
+
+    OpenRouter includes the actual cost it charged directly in `usage.cost`
+    (or `usage["cost"]` for dicts) — we prefer that over a token-based
+    estimate because it accounts for caching discounts and survives any
+    upstream pricing changes. The rate-table fallback only kicks in for
+    raw OpenAI (no `cost` field) or for testing with plain dicts.
+
+    Returns 0 when usage is missing rather than raising — we'd rather
+    under-count than 500 on a successful answer.
+    """
+    if usage is None:
+        return 0.0
+
+    # Prefer OpenRouter's reported cost when present.
+    try:
+        if hasattr(usage, "cost") and usage.cost is not None:
+            return float(usage.cost)
+        if isinstance(usage, dict) and usage.get("cost") is not None:
+            return float(usage["cost"])
+    except (AttributeError, TypeError, ValueError):
+        pass
+
+    # Fallback: compute from tokens using our rate table.
+    try:
+        if hasattr(usage, "prompt_tokens"):
+            input_tokens = usage.prompt_tokens or 0
+            output_tokens = usage.completion_tokens or 0
+        else:
+            input_tokens = usage.get("prompt_tokens", 0) or 0
+            output_tokens = usage.get("completion_tokens", 0) or 0
+    except (AttributeError, TypeError):
+        return 0.0
+
+    rates = _MODEL_RATES_USD_PER_MTOK.get(model, _FALLBACK_RATE)
+    return (input_tokens * rates["input"] + output_tokens * rates["output"]) / 1_000_000
+
+
+def build_openrouter_client(api_key: str) -> "openai.OpenAI":
+    """Build a per-request OpenRouter client keyed by a user-supplied
+    BYOK key. The key is never logged or persisted — it lives only on
+    the resulting client object for the duration of the request."""
+    return openai.OpenAI(
+        api_key=api_key,
+        base_url="https://openrouter.ai/api/v1",
+        default_headers={
+            "HTTP-Referer": "https://fellowship-digital-ministry.github.io",
+            "X-Title": "Fellowship Sermon Search (BYOK)",
+        },
+    )
+

@@ -6,7 +6,7 @@ from collections import Counter, defaultdict
 from datetime import datetime
 from typing import Optional
 
-from fastapi import APIRouter, HTTPException, Query, Header
+from fastapi import APIRouter, HTTPException, Query, Header, Request
 from fastapi.responses import StreamingResponse
 
 from .utils import (
@@ -26,6 +26,15 @@ from .utils import (
     AnswerRequest,
     AnswerResponse,
     BibleReferenceStats,
+    build_openrouter_client,
+)
+
+from .rate_limit import (
+    check_and_reserve,
+    record_actual,
+    release_reservation,
+    get_client_ip,
+    get_quota_status,
 )
 
 from .search import (
@@ -101,6 +110,14 @@ async def health_check():
             "error": str(e),
             "timestamp": datetime.now().isoformat()
         }
+
+@router.get("/quota")
+async def quota():
+    """Public quota indicator. Returns the percentage of today's shared
+    cap that has been used, without exposing the dollar amount. The
+    frontend uses this for a soft 'quota remaining' display."""
+    return get_quota_status()
+
 
 @router.get("/search", response_model=SearchResponse)
 async def search(
@@ -221,14 +238,36 @@ async def search(
         raise HTTPException(status_code=500, detail=f"Search error: {str(e)}")
 
 @router.post("/answer", response_model=AnswerResponse)
-async def answer(request: AnswerRequest):
+async def answer(
+    request: AnswerRequest,
+    http_request: Request,
+    x_openrouter_key: Optional[str] = Header(None, alias="X-OpenRouter-Key"),
+):
     """
     Generate an AI answer to a question based on sermon content.
     Searches for relevant sermon segments and uses them to create a response.
     Enhanced with date and title awareness, better context preparation, and suggested queries directly in the response.
+
+    Rate-limit + BYOK behavior:
+    - If X-OpenRouter-Key header is present, use that key (BYOK) and skip
+      the global cap entirely — the caller is paying their own way.
+    - Otherwise: reserve a slot against the daily cap; on success, settle
+      with the real usage cost; on early failure, release the reservation.
     """
     start_time = time.time()
-    
+
+    # Pick the LLM client and decide whether this request counts against
+    # the shared daily cap. The BYOK path never touches the rate limiter.
+    byok = bool(x_openrouter_key)
+    answer_client = build_openrouter_client(x_openrouter_key) if byok else None
+    if not byok:
+        ip = get_client_ip(http_request)
+        check_and_reserve(ip)  # raises 429 if capped (no reservation on failure)
+
+    # Track whether we've already settled (record_actual or release_reservation)
+    # so the exception handlers below don't double-release.
+    settled = False
+
     try:
         # Determine if we need to translate the query
         original_language = request.language
@@ -324,25 +363,34 @@ async def answer(request: AnswerRequest):
         # Generate answer text with integrated suggestions
         if search_results:
             # Normal case - we have search results
-            answer_text = generate_enhanced_ai_answer(english_query, search_results, "en")
-            
+            answer_text, llm_cost = generate_enhanced_ai_answer(
+                english_query, search_results, "en", client=answer_client
+            )
+            if not byok:
+                record_actual(llm_cost)
+                settled = True
+
             # Add suggestions directly to the answer text for better UX
             if suggested_queries:
                 answer_text = format_response_with_suggestions(answer_text, suggested_queries)
         else:
-            # No results case
+            # No results case — we never call the answer model, so release
+            # the reservation rather than charging a phantom cost.
+            if not byok:
+                release_reservation()
+                settled = True
             no_results_message = generate_no_results_message(query, suggested_queries, "en")
             answer_text = format_response_with_suggestions(no_results_message, suggested_queries)
-            
+
             # If we had sample results, include the first one
             if 'sample_results' in locals() and sample_results:
                 search_results.append(sample_results[0])
-        
+
         # Translate to the requested language if needed
         if needs_translation:
             answer_text = await translate_text(answer_text, "en", original_language)
             print(f"Translated answer from English to {original_language}")
-        
+
         return AnswerResponse(
             query=request.query,  # Return the original untranslated query
             answer=answer_text,
@@ -350,8 +398,14 @@ async def answer(request: AnswerRequest):
             processing_time=time.time() - start_time,
             suggested_queries=suggested_queries
         )
-        
+
+    except HTTPException:
+        if not byok and not settled:
+            release_reservation()
+        raise
     except Exception as e:
+        if not byok and not settled:
+            release_reservation()
         raise HTTPException(status_code=500, detail=f"Answer generation error: {str(e)}")
 
 
@@ -361,7 +415,11 @@ def _format_sse(event: str, data: dict) -> str:
 
 
 @router.post("/answer/stream")
-async def answer_stream(request: AnswerRequest):
+async def answer_stream(
+    request: AnswerRequest,
+    http_request: Request,
+    x_openrouter_key: Optional[str] = Header(None, alias="X-OpenRouter-Key"),
+):
     """Streaming variant of /answer using Server-Sent Events (SSE).
 
     Same grounding rules, same model, same answer — but tokens arrive
@@ -377,9 +435,20 @@ async def answer_stream(request: AnswerRequest):
 
     English-only for now. Non-English requests get a clear 400 — clients
     should fall back to the non-streaming /answer endpoint.
+
+    Rate-limit + BYOK: same policy as /answer. The 429 check happens
+    before the stream opens, so the client sees a normal HTTP error.
     """
     if request.language != "en":
         raise HTTPException(status_code=400, detail="Streaming only supports English. Use /answer for other languages.")
+
+    # BYOK gating mirrors /answer. check_and_reserve raises 429 here, before
+    # we start the stream, so the client gets a real HTTP error to handle.
+    byok = bool(x_openrouter_key)
+    answer_client = build_openrouter_client(x_openrouter_key) if byok else None
+    if not byok:
+        ip = get_client_ip(http_request)
+        check_and_reserve(ip)
 
     start_time = time.time()
 
@@ -451,29 +520,48 @@ async def answer_stream(request: AnswerRequest):
         else:
             suggested_queries = generate_suggested_queries(query, max_suggestions=2)
     except Exception as e:
+        if not byok:
+            release_reservation()
         raise HTTPException(status_code=500, detail=f"Stream prep error: {str(e)}")
 
     # === Now generate the SSE stream ===
+    # `cost_holder` gets populated by the generator's final usage chunk; we
+    # settle the reservation after the stream finishes (or release it on
+    # error / no-results).
     def event_stream():
+        cost_holder = {"cost": 0.0}
+        settled = False
         try:
             yield _format_sse('sources', {
                 'sources': [s.model_dump() for s in (search_results if request.include_sources else [])],
             })
 
             if not search_results:
+                # No model call — release the reservation rather than charging.
+                if not byok:
+                    release_reservation()
+                    settled = True
                 no_results = generate_no_results_message(request.query, suggested_queries, "en")
                 # Send as a single token event so the frontend's incremental
                 # render path handles it identically to a streamed answer
                 yield _format_sse('token', {'text': no_results})
             else:
-                for token in generate_enhanced_ai_answer_streaming(processed_query, search_results, "en"):
+                for token in generate_enhanced_ai_answer_streaming(
+                    processed_query, search_results, "en",
+                    client=answer_client, cost_holder=cost_holder,
+                ):
                     yield _format_sse('token', {'text': token})
+                if not byok:
+                    record_actual(cost_holder.get("cost", 0.0))
+                    settled = True
 
             yield _format_sse('done', {
                 'suggested_queries': suggested_queries,
                 'processing_time': time.time() - start_time,
             })
         except Exception as e:
+            if not byok and not settled:
+                release_reservation()
             yield _format_sse('error', {'message': str(e)})
 
     return StreamingResponse(

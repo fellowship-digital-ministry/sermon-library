@@ -20,6 +20,7 @@ from .utils import (
     ANSWER_MODEL,
     SearchResult,
     load_metadata,
+    compute_cost,
 )
 
 def preprocess_query(query: str) -> Tuple[str, Optional[int], Optional[str]]:
@@ -517,7 +518,7 @@ def get_youtube_timestamp_url(video_id: str, seconds: float) -> str:
     """Generate a YouTube URL with a timestamp."""
     return f"https://www.youtube.com/watch?v={video_id}&t={int(seconds)}"
 
-def generate_enhanced_ai_answer(query: str, search_results: List[SearchResult], language: str = "en") -> str:
+def generate_enhanced_ai_answer(query: str, search_results: List[SearchResult], language: str = "en", client=None) -> Tuple[str, float]:
     """
     Generate an enhanced AI answer based on the search results in the specified language.
     
@@ -643,8 +644,11 @@ IMPORTANT REMINDERS:
     try:
         # Routed through OpenRouter (OpenAI-compatible API). Model is set via
         # ANSWER_MODEL env var so you can A/B different providers (anthropic/...,
-        # openai/..., google/...) without code changes.
-        response = openrouter_client.chat.completions.create(
+        # openai/..., google/...) without code changes. The `client` parameter
+        # lets the caller swap in a BYOK-keyed client so power users can bring
+        # their own OpenRouter key after the global cap is hit.
+        active_client = client or openrouter_client
+        response = active_client.chat.completions.create(
             model=ANSWER_MODEL,
             messages=[
                 {"role": "system", "content": system_message},
@@ -653,12 +657,14 @@ IMPORTANT REMINDERS:
             temperature=0.3,
             max_tokens=1000,
         )
-        return response.choices[0].message.content.strip()
+        answer_text = response.choices[0].message.content.strip()
+        cost_usd = compute_cost(response.usage, ANSWER_MODEL)
+        return answer_text, cost_usd
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error generating AI answer: {str(e)}")
 
 
-def generate_enhanced_ai_answer_streaming(query: str, search_results: List[SearchResult], language: str = "en"):
+def generate_enhanced_ai_answer_streaming(query: str, search_results: List[SearchResult], language: str = "en", client=None, cost_holder: Optional[dict] = None):
     """
     Generator variant of generate_enhanced_ai_answer that yields tokens as
     they arrive from the model. Used by the /answer/stream SSE endpoint so
@@ -742,7 +748,12 @@ IMPORTANT REMINDERS:
 """
 
     try:
-        stream = openrouter_client.chat.completions.create(
+        # `client` lets the caller swap in a BYOK-keyed OpenRouter client.
+        # `cost_holder` (if provided) gets populated with {'cost': float}
+        # after the final usage chunk — OpenRouter sends usage as a trailing
+        # chunk when stream_options.include_usage is set.
+        active_client = client or openrouter_client
+        stream = active_client.chat.completions.create(
             model=ANSWER_MODEL,
             messages=[
                 {"role": "system", "content": system_message},
@@ -751,9 +762,13 @@ IMPORTANT REMINDERS:
             temperature=0.3,
             max_tokens=1000,
             stream=True,
+            stream_options={"include_usage": True},
         )
         for chunk in stream:
-            # OpenAI/OpenRouter chunk shape: choices[0].delta.content (may be None)
+            # The final usage-only chunk has no choices but a populated
+            # `usage` field. Record the cost there.
+            if getattr(chunk, "usage", None) is not None and cost_holder is not None:
+                cost_holder["cost"] = compute_cost(chunk.usage, ANSWER_MODEL)
             if not chunk.choices:
                 continue
             delta = chunk.choices[0].delta.content

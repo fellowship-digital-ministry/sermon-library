@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "4j6miDNAqs4",
     "start_time": 344.8399963378906,
-    "end_time": 402.79998779296875
+    "end_time": 402.79998779296875,
+    "point_summary": "Micah 5:2 pinpoints Bethlehem as the prophesied birthplace of the Messiah, a prophecy the religious leaders knew but were not actively seeking to see fulfilled.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 202.63999938964844,
-    "end_time": 263.55999755859375
+    "end_time": 263.55999755859375,
+    "point_summary": "Micah 6:8's command to \"walk humbly with thy God\" is invoked as the scriptural counterpart to Paul's charge in Romans 12:3 not to think of oneself more highly than one ought.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 0.0,
-    "end_time": 65.27999877929688
+    "end_time": 65.27999877929688,
+    "point_summary": "Micah 1:1 is treated as a chronological anchor, its list of three Judean kings (Jotham, Ahaz, Hezekiah) establishing the precise historical period in which Micah's prophecy was delivered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 187.44000244140625,
-    "end_time": 244.0
+    "end_time": 244.0,
+    "point_summary": "Micah 6:8 is introduced as the sermon's controlling text, with its threefold requirement—do justly, love mercy, walk humbly—framed by the question \"what doth the Lord require of thee?\" as the message's title and focus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 244.0,
-    "end_time": 294.32000732421875
+    "end_time": 294.32000732421875,
+    "point_summary": "Micah 6:1–8 is introduced as a unit whose climactic question in verse 8 echoes Moses' identical covenant demand in Deuteronomy 10:12–13, linking prophet and Pentateuch on what God requires of his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 244.0,
-    "end_time": 294.32000732421875
+    "end_time": 294.32000732421875,
+    "point_summary": "Micah 6:8's question \"What doth the Lord require of thee?\" echoes Deuteronomy 10:12–13, establishing that God's covenant demands on Israel remained consistent across centuries of redemptive history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 294.32000732421875,
-    "end_time": 349.760009765625
+    "end_time": 349.760009765625,
+    "point_summary": "Micah 6:8's question \"What doth the Lord require of thee?\" is shown to echo a consistent biblical demand—from Moses in Deuteronomy to Solomon in Ecclesiastes—of fearing God, loving Him, and keeping His commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 410.55999755859375,
-    "end_time": 478.9599914550781
+    "end_time": 478.9599914550781,
+    "point_summary": "Micah 6:1 opens a divine courtroom scene in which God summons the mountains as witnesses to His controversy with Israel, demanding that His people testify against Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 410.55999755859375,
-    "end_time": 478.9599914550781
+    "end_time": 478.9599914550781,
+    "point_summary": "God's covenant lawsuit against Israel, summoning creation itself as witness, frames the Lord's controversy with his people as the backdrop for what he truly requires of them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 615.9799823760986,
-    "end_time": 685.47998046875
+    "end_time": 685.47998046875,
+    "point_summary": "Micah 6:6's question — \"wherewith shall I come before the Lord?\" — frames Israel's reply to God's indictment as a reliance on outward religious offerings while the heart remained far from Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1081.8399963378906,
-    "end_time": 1148.719970703125
+    "end_time": 1148.719970703125,
+    "point_summary": "Micah 6:8's call to \"do justly\" is grounded in God's revealed standard, not human self-definition, contrasting the judges-era pattern of every man doing right by his own authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1148.719970703125,
-    "end_time": 1216.7600002288818
+    "end_time": 1216.7600002288818,
+    "point_summary": "Corrupt leaders in Micah's day perverted justice, teaching, and prophecy by making personal gain their motive rather than faithful service to God's standard.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1216.7600002288818,
-    "end_time": 1295.3600006103516
+    "end_time": 1295.3600006103516,
+    "point_summary": "Micah 7:3 illustrates the wholesale corruption of Israel's leadership—prince, judge, and great man alike—all pursuing personal reward rather than the just rule God requires.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1216.7600002288818,
-    "end_time": 1295.3600006103516
+    "end_time": 1295.3600006103516,
+    "point_summary": "Against a backdrop of corrupt leaders who judged, taught, and prophesied for personal gain, Micah 6 presents God's indictment of His people alongside His remedy: do justly and love mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1365.479995727539,
-    "end_time": 1432.3999938964844
+    "end_time": 1432.3999938964844,
+    "point_summary": "Micah 6:8's call to \"love mercy\" moves beyond receiving God's mercy to actively showing it, grounded in the merciful kindness embodied in Christ and made acceptable to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1505.760009765625,
-    "end_time": 1575.0400085449219
+    "end_time": 1575.0400085449219,
+    "point_summary": "Loving mercy, as Micah 6:8 demands, means not merely welcoming God's mercy as its recipient but actively showing it to others—a disposition inseparable from humble, submissive walking with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "9Tofq_cScf8",
     "start_time": 1777.7999877929688,
-    "end_time": 1851.0799942016602
+    "end_time": 1851.0799942016602,
+    "point_summary": "Walking humbly with God, as Micah 6:8 requires, is illustrated by Christ's own humility in Philippians 2 and John 13, set against Israel's wickedness as the backdrop for what God truly demands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1851.0799942016602,
-    "end_time": 1931.3999938964844
+    "end_time": 1931.3999938964844,
+    "point_summary": "Against the backdrop of Ahaz's wickedness and Israel's misguided attempts at appeasement, Micah 6:8 is presented as God's clear, sufficient answer to what He requires: do justly, love mercy, and walk humbly with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1931.3999938964844,
-    "end_time": 1996.8799896240234
+    "end_time": 1996.8799896240234,
+    "point_summary": "Micah 6:8's three requirements—do justly, love mercy, walk humbly with God—are presented as God's own revealed standard for right living, urgently applicable amid contemporary cultural confusion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "Ap8WkGwQMm4",
     "start_time": 2039.4600219726562,
-    "end_time": 2084.3800048828125
+    "end_time": 2084.3800048828125,
+    "point_summary": "Micah 5:2's prophecy that the ruler of Israel would come out of Bethlehem is cited as the scriptural fulfillment explaining why God's providence brought Mary and Joseph to that specific town.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "eO6wOHtfoHo",
     "start_time": 2334.0599365234375,
-    "end_time": 2388.7799682617188
+    "end_time": 2388.7799682617188,
+    "point_summary": "God's casting of sins into the depths of the sea (Mic. 7:19) illustrates the totality of forgiveness secured through redemption, paired with Psalm 103:12 to show sin's complete removal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "p2r74NArQcM",
     "start_time": 2582.199935913086,
-    "end_time": 2654.43994140625
+    "end_time": 2654.43994140625,
+    "point_summary": "God's forgiveness of sin is pictured as casting transgressions into the depths of the sea, confirming that the believer's debt is fully and permanently removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 605.1199998855591,
-    "end_time": 664.5599975585938
+    "end_time": 664.5599975585938,
+    "point_summary": "Micah 5:2 is noted only in passing as a familiar messianic text before the sermon pivots to Micah 5:6 and its reference to \"the land of Nimrod\"; Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 605.1199998855591,
-    "end_time": 664.5599975585938
+    "end_time": 664.5599975585938,
+    "point_summary": "Micah 5:6's reference to Assyria as \"the land of Nimrod\" demonstrates that Nimrod's legacy was so enduring that his name identified that entire region centuries later, from Genesis through the prophetic era.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 931.3999938964844,
-    "end_time": 1001.2000122070312
+    "end_time": 1001.2000122070312,
+    "point_summary": "Old Testament prophecy specified not only that Messiah would be born but precisely where—Bethlehem, Ephrathah—a detail the scribes knew yet failed to act upon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "VXXPWmtdQok",
     "start_time": 1103.7000122070312,
-    "end_time": 1171.4600219726562
+    "end_time": 1171.4600219726562,
+    "point_summary": "God's delight in mercy, not wrath, is confirmed in Micah 7:18, which declares that pardoning iniquity flows from his pleasure in mercy rather than any delight in judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "VXXPWmtdQok",
     "start_time": 1226.6000213623047,
-    "end_time": 1288.6000213623047
+    "end_time": 1288.6000213623047,
+    "point_summary": "God's delight in mercy—not in wrath or judgment—is presented as a consistent biblical theme, with Micah 7:18 offered as a defining declaration that it is God's joy to show mercy to fallen sinners.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 2353.1600952148438,
-    "end_time": 2421.8400707244873
+    "end_time": 2421.8400707244873,
+    "point_summary": "God's forgiveness is so complete that, as Micah 7:19 declares, He casts all sins into the depths of the sea—a picture of total, irreversible pardon secured through Christ's atoning payment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1444.0799865722656,
-    "end_time": 1505.1799926757812
+    "end_time": 1505.1799926757812,
+    "point_summary": "Micah 5:2 is cited as the prophetic basis by which the chief priests and scribes identified Bethlehem as the birthplace of the Messiah when the magi inquired.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 964.3399658203125,
-    "end_time": 1030.3999938964844
+    "end_time": 1030.3999938964844,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -338,7 +398,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 1030.3999938964844,
-    "end_time": 1094.1599731445312
+    "end_time": 1094.1599731445312,
+    "point_summary": "Micah 5:2's prophecy of Bethlehem as the birthplace of Israel's eternal ruler was so precisely known that Israel's own religious experts could immediately identify it when Herod demanded to know where Christ would be born.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Micah",
@@ -349,6 +411,8 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 1094.1599731445312,
-    "end_time": 1161.0599975585938
+    "end_time": 1161.0599975585938,
+    "point_summary": "Micah 5:2's precise prediction of Bethlehem as Messiah's birthplace was known by Israel's own religious experts, yet their familiarity with the prophecy did not move them to seek the Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

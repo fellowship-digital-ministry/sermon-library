@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "-MUvGf11b5U",
     "start_time": 2131.4800415039062,
-    "end_time": 2208.4400329589844
+    "end_time": 2208.4400329589844,
+    "point_summary": "Even when others seem to hold the pen in the story of our lives, God remains sovereign over every chapter, as Psalm 90's image of our days being \"a tale that is told\" reminds us.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "07naoQP9rPI",
     "start_time": 692.5599975585938,
-    "end_time": 757.5599975585938
+    "end_time": 757.5599975585938,
+    "point_summary": "God's Word is presented as perfect and soul-converting counsel—the open, sufficient guide the Laodicean church needed in place of misplaced confidence in wealth, textiles, and medicine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "07naoQP9rPI",
     "start_time": 1032.5599975585938,
-    "end_time": 1127.5599975585938
+    "end_time": 1127.5599975585938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "07naoQP9rPI",
     "start_time": 1032.5599975585938,
-    "end_time": 1127.5599975585938
+    "end_time": 1127.5599975585938,
+    "point_summary": "Divine chastening is an expression of God's love, as Psalm 94:12 is brought alongside Proverbs 3:11–12 to establish this as a progressive, cross-biblical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "07naoQP9rPI",
     "start_time": 1598.6000061035156,
-    "end_time": 1672.239990234375
+    "end_time": 1672.239990234375,
+    "point_summary": "God's design for his people is fellowship with him, where fullness of joy is found, yet he never compels that fellowship but pursues his people patiently, leaving the choice to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 119.5999984741211,
-    "end_time": 182.27999877929688
+    "end_time": 182.27999877929688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 119.5999984741211,
-    "end_time": 182.27999877929688
+    "end_time": 182.27999877929688,
+    "point_summary": "Psalm 145:1's personal vow — \"I will extol thee\" and \"I will bless thy name forever\" — frames the entire sermon series as a call to let belief in God's greatness directly shape daily behavior and praise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 119.5999984741211,
-    "end_time": 182.27999877929688
+    "end_time": 182.27999877929688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 119.5999984741211,
-    "end_time": 182.27999877929688
+    "end_time": 182.27999877929688,
+    "point_summary": "God's greatness declared in Psalm 145:3 is explicitly \"unsearchable,\" a descriptor the sermon treats as thought-provoking and foundational to the entire series on divine greatness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 119.5999984741211,
-    "end_time": 182.27999877929688
+    "end_time": 182.27999877929688,
+    "point_summary": "Praise of God's mighty works is meant to pass from one generation to the next, each declaring what God has done to those who come after.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1020.5199890136719,
-    "end_time": 1082.4400024414062
+    "end_time": 1082.4400024414062,
+    "point_summary": "God's goodness and tender mercies extend universally to all people, grounding the affirmation that God genuinely loves all humanity and desires none to perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1020.5199890136719,
-    "end_time": 1082.4400024414062
+    "end_time": 1082.4400024414062,
+    "point_summary": "All creation praises God, but his saints are specifically called to bless him, distinguishing their responsive worship from the general praise of his works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1999.8999633789062,
-    "end_time": 2065.219970703125
+    "end_time": 2065.219970703125,
+    "point_summary": "Psalm 145 presents the psalmist's settled conviction that God is great, prompting the question of whether believers can articulate specific evidence for that greatness when challenged.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "12L3c81JzTQ",
     "start_time": 1127.3800048828125,
-    "end_time": 1194.8599853515625
+    "end_time": 1194.8599853515625,
+    "point_summary": "Fearlessness in the face of enemies flows from knowing God as light, salvation, and strength — a recognition the sermon traces through David's threefold refusal to fear in Psalm 27:1–3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1127.3800048828125,
-    "end_time": 1194.8599853515625
+    "end_time": 1194.8599853515625,
+    "point_summary": "Trust in God—not in favorable circumstances—is the declared basis for fearlessness when enemies daily oppress and outnumber the psalmist.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1127.3800048828125,
-    "end_time": 1194.8599853515625
+    "end_time": 1194.8599853515625,
+    "point_summary": "Fear is overcome not by the absence of threat but by the conscious choice to trust God, as the psalmist declares \"what time I am afraid, I will trust in thee.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1127.3800048828125,
-    "end_time": 1194.8599853515625
+    "end_time": 1194.8599853515625,
+    "point_summary": "Trust in God—expressed through praise of his word—is the stated ground for the declaration \"I will not fear what flesh can do unto me.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1412.500015258789,
-    "end_time": 1477.9800109863281
+    "end_time": 1477.9800109863281,
+    "point_summary": "Against the enemies' taunt that God would not help David, Hebrews 13:6's confession—\"the Lord is my helper\"—stands as the direct answer, grounding David's peace and sleep in divine aid.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "2RltBTO3zYE",
     "start_time": 2149.0999755859375,
-    "end_time": 2208.5399780273438
+    "end_time": 2208.5399780273438,
+    "point_summary": "Psalm 121:1–2 is cited to confirm that the Lord is the believer's helper, with the psalmist's declaration that help comes from the Lord who made heaven and earth reinforcing Hebrews 13:6's identical claim.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "2RltBTO3zYE",
     "start_time": 2149.0999755859375,
-    "end_time": 2208.5399780273438
+    "end_time": 2208.5399780273438,
+    "point_summary": "Psalm 121:1–2 is cited to confirm that the Lord—who made heaven and earth—is the believer's helper, reinforcing the Hebrews 13:6 declaration that he need not fear what man can do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "2RltBTO3zYE",
     "start_time": 2268.679962158203,
-    "end_time": 2325.8399658203125
+    "end_time": 2325.8399658203125,
+    "point_summary": "Psalm 23:1's declaration that \"the Lord is my shepherd\" finds its New Testament anchor in Hebrews 13:20–21, where Christ is identified as \"that great shepherd of the sheep.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "34zEdoVkxR0",
     "start_time": 1412.6999969482422,
-    "end_time": 1481.3800048828125
+    "end_time": 1481.3800048828125,
+    "point_summary": "Praying Psalm 19:14 is presented as the posture that moves a believer from careless speech to calculated, deliberate words that strengthen rather than wound.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 415.3999938964844,
-    "end_time": 490.239990234375
+    "end_time": 490.239990234375,
+    "point_summary": "God's own righteous character—he loves righteousness—grounds the Christian's obligation to let biblical standards shape civic participation, including the ballot.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 415.3999938964844,
-    "end_time": 490.239990234375
+    "end_time": 490.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1447.979995727539,
-    "end_time": 1517.9199829101562
+    "end_time": 1517.9199829101562,
+    "point_summary": "God's righteousness and upright judgments stand as the divine standard against which the corruption of human justice in contemporary society is measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "4BBfiBe_jzw",
     "start_time": 1016.8800048828125,
-    "end_time": 1079.199951171875
+    "end_time": 1079.199951171875,
+    "point_summary": "Afflictions are not random but purposeful, for though many are the afflictions of the righteous, God's sovereign goodness guarantees deliverance from them all while using them to teach lessons learned nowhere else.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "4BBfiBe_jzw",
     "start_time": 1016.8800048828125,
-    "end_time": 1079.199951171875
+    "end_time": 1079.199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "4L7zninfmhA",
     "start_time": 1123.260009765625,
-    "end_time": 1190.300048828125
+    "end_time": 1190.300048828125,
+    "point_summary": "Praying \"teach me to do Thy will\" (Ps. 143:10) is presented as the corrective to endless discussion—knowing God's plan demands obedient action, not merely accumulated knowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "4We4-x8cwIg",
     "start_time": 232.66000366210938,
-    "end_time": 291.0400085449219
+    "end_time": 291.0400085449219,
+    "point_summary": "Psalm 133:1 is introduced as biblical evidence that unity among God's people is not incidental but part of God's intentional plan for the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "4xuA6rZOsH8",
     "start_time": 1030.5400085449219,
-    "end_time": 1094.1399841308594
+    "end_time": 1094.1399841308594,
+    "point_summary": "Psalm 106:36–40 is cited as a cautionary endpoint — the spiritual ruin Israel reached through worldly entanglement — that believers must avoid by practicing deliberate separation from corrupting influences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -338,7 +398,9 @@
     "is_implicit": true,
     "video_id": "59eHWxG90YI",
     "start_time": 197.1199951171875,
-    "end_time": 264.4800109863281
+    "end_time": 264.4800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -349,7 +411,9 @@
     "is_implicit": true,
     "video_id": "59eHWxG90YI",
     "start_time": 823.239990234375,
-    "end_time": 891.7999877929688
+    "end_time": 891.7999877929688,
+    "point_summary": "Great peace belongs to those who love God's law, linked here to Jehovah Shalom as the source of that peace which keeps believers from offense or stumbling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "5gWVxtcarvc",
     "start_time": 1314.6200408935547,
-    "end_time": 1370.060043334961
+    "end_time": 1370.060043334961,
+    "point_summary": "Forgetting God is a persistent human tendency, and the psalmist's resolve — \"I will not forget thy precepts\" — is invoked alongside Peter and Moses to underscore Christ's command to the church at Sardis to remember.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "5h8hCyhAJAM",
     "start_time": 2448.3000564575195,
-    "end_time": 2528.5000534057617
+    "end_time": 2528.5000534057617,
+    "point_summary": "Psalm 51 is cited as David's example of choosing confession over concealment after Nathan's confrontation, illustrating that forsaking cover-up leads to God's mercy rather than continued judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "5h8hCyhAJAM",
     "start_time": 2528.5000534057617,
-    "end_time": 2599.9200592041016
+    "end_time": 2599.9200592041016,
+    "point_summary": "David's response to Nathan's exposure of his sin in Psalm 51 is held up as the model of confession over concealment, contrasted with the futility of covering sin that God already knows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "5h8hCyhAJAM",
     "start_time": 2599.9200592041016,
-    "end_time": 2683.040069580078
+    "end_time": 2683.040069580078,
+    "point_summary": "David's prayer of repentance in Psalm 51 is presented as the biblical model of confession over concealment, illustrating that sin hidden from others remains fully known to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "5h8hCyhAJAM",
     "start_time": 2683.040069580078,
-    "end_time": 2760.1200561523438
+    "end_time": 2760.1200561523438,
+    "point_summary": "Genuine brokenness and contrition of heart, not outward religious performance, is the sacrifice God accepts—illustrated by Judah's self-offering on Benjamin's behalf as a picture of that inward reality.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "5h8hCyhAJAM",
     "start_time": 2683.040069580078,
-    "end_time": 2760.1200561523438
+    "end_time": 2760.1200561523438,
+    "point_summary": "Outward religious acts — sacrifices, offerings, burnt offerings — are acceptable to God only after the inner brokenness of Psalm 51:17 has been genuinely established in the heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1303.040023803711,
-    "end_time": 1374.4000244140625
+    "end_time": 1374.4000244140625,
+    "point_summary": "God's greatness—the theme of Psalm 48—grounds the Noahic covenant's everlasting duration, since only an eternal, all-powerful God could establish and sustain such a covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1303.040023803711,
-    "end_time": 1374.4000244140625
+    "end_time": 1374.4000244140625,
+    "point_summary": "Psalm 48's declaration of God's greatness grounds the covenant's everlasting duration in the eternal nature of the God who made it — \"our God forever.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1303.040023803711,
-    "end_time": 1374.4000244140625
+    "end_time": 1374.4000244140625,
+    "point_summary": "God's identity as the covenant-maker grounds the Noahic covenant's eternal duration, with Psalm 48:10's declaration that \"this God is our God forever\" offered as direct confirmation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 792.7200164794922,
-    "end_time": 864.260009765625
+    "end_time": 864.260009765625,
+    "point_summary": "Psalm 34:1's \"I will bless the Lord at all times\" is presented as a settled, unconditional resolve to magnify God—not contingent on circumstances, because God's goodness is constant in His nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 864.260009765625,
-    "end_time": 935.260009765625
+    "end_time": 935.260009765625,
+    "point_summary": "Psalm 34:1's \"I will bless the Lord at all times\" is read as a settled, unconditional resolve rooted in God's unchanging goodness rather than in favorable circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 864.260009765625,
-    "end_time": 935.260009765625
+    "end_time": 935.260009765625,
+    "point_summary": "The poverty and neediness confessed in verse 5 become the very ground for boasting in the Lord, since deliverance belongs entirely to Him and not to the one who is poor and needy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -492,7 +580,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1697.739990234375,
-    "end_time": 1795.6199951171875
+    "end_time": 1795.6199951171875,
+    "point_summary": "Even sins elaborately concealed from human sight are fully known to God, as David's confession in Psalm 51 — \"against thee, and thee only have I done this wickedness\" — demonstrates after months of attempted cover-up.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1704.5599975585938,
-    "end_time": 1766.5
+    "end_time": 1766.5,
+    "point_summary": "Psalm 106:35–43 is referenced as a parallel passage where the psalmist records the same truth about divine judgment and justice that 2 Chronicles 7:19–22 declares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "7rseeVx8SA0",
     "start_time": 2402.5999755859375,
-    "end_time": 2476.7199783325195
+    "end_time": 2476.7199783325195,
+    "point_summary": "Waiting on the Lord is not passive idleness but active, hopeful expectation—anchored in His word—that God will fulfill what He has promised, as Abraham's experience illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "8bqqorGPae8",
     "start_time": 2268.8200073242188,
-    "end_time": 2351.5399780273438
+    "end_time": 2351.5399780273438,
+    "point_summary": "Joy, unlike circumstantial happiness, is a gift of salvation that sin can rob—as David's plea in Psalm 51:12 demonstrates by asking God to restore the joy of salvation, not salvation itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "8bqqorGPae8",
     "start_time": 2531.759979248047,
-    "end_time": 2599.8399810791016
+    "end_time": 2599.8399810791016,
+    "point_summary": "Unconfessed sin does not prevent God from hearing prayer physically, but it does hinder fellowship and blocks His answering, disrupting the joy that flows from walking with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "8h5bAwPFWSc",
     "start_time": 0.0,
-    "end_time": 63.31999969482422
+    "end_time": 63.31999969482422,
+    "point_summary": "Psalm 48:1 serves as the congregation's year-long theme text, anchoring a two-phase movement from discovering God's greatness to declaring it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -558,7 +658,9 @@
     "is_implicit": true,
     "video_id": "9cUH_kdAYSs",
     "start_time": 1737.0800170898438,
-    "end_time": 1822.0800228118896
+    "end_time": 1822.0800228118896,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -569,7 +671,9 @@
     "is_implicit": true,
     "video_id": "9cUH_kdAYSs",
     "start_time": 1737.0800170898438,
-    "end_time": 1822.0800228118896
+    "end_time": 1822.0800228118896,
+    "point_summary": "Psalm 19:7's declaration that the law of the Lord is perfect is cited as scriptural grounding for God's repeated call to holiness that runs from the Old Testament into the New.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "9cUH_kdAYSs",
     "start_time": 1737.0800170898438,
-    "end_time": 1822.0800228118896
+    "end_time": 1822.0800228118896,
+    "point_summary": "Self-examination before God requires honesty about hidden sin, since even the believer cannot fully understand his own errors and needs divine cleansing from secret faults.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "9cUH_kdAYSs",
     "start_time": 2123.260009765625,
-    "end_time": 2195.6800231933594
+    "end_time": 2195.6800231933594,
+    "point_summary": "Self-examination requires hiding God's word in the heart as the scriptural safeguard against sin, cited here as the foundation for the sermon's broader question of what happens when believers do sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "9du5nBV5SM8",
     "start_time": 1638.4000244140625,
-    "end_time": 1713.3000183105469
+    "end_time": 1713.3000183105469,
+    "point_summary": "Memorizing Scripture is presented as a practical component of resisting the devil, with Psalm 119:9 cited as the biblical warrant for cleansing one's way by heeding God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "9du5nBV5SM8",
     "start_time": 1638.4000244140625,
-    "end_time": 1713.3000183105469
+    "end_time": 1713.3000183105469,
+    "point_summary": "Hiding God's Word in the heart is presented as a practical weapon of resistance, making the believer a harder target for the devil than someone who is carnal or ignorant of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "9JjoBDbN7Ms",
     "start_time": 1696.2000122070312,
-    "end_time": 1751.5599975585938
+    "end_time": 1751.5599975585938,
+    "point_summary": "Prayer is not rote repetition but a genuine, heartfelt outpouring to God as Father, as the psalmist commands—trusting Him at all times because He is our refuge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2762.3999633789062,
-    "end_time": 2830.7999572753906
+    "end_time": 2830.7999572753906,
+    "point_summary": "Psalm 48 was assigned as a companion reading to Paul's testimony of deliverance from persecution, with the psalm commended as personally enriching and powerful without further exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 1959.9199676513672,
-    "end_time": 2014.1199798583984
+    "end_time": 2014.1199798583984,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -657,7 +775,9 @@
     "is_implicit": true,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Blessing is tied to wholehearted seeking of God, as Psalm 119:2 is marshaled alongside a chain of Scripture to establish that undivided devotion is the consistent biblical standard.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Wholehearted seeking of God is paired with a plea for preservation from wandering, cited here as one of a chain of verses establishing the standard of whole-heart devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Despite false accusations from the proud, the psalmist resolves to keep God's precepts with his whole heart—cited here as one of a chain of verses on wholehearted devotion to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -734,7 +866,9 @@
     "is_implicit": true,
     "video_id": "aSMYJGSxXQQ",
     "start_time": 744.5999908447266,
-    "end_time": 808.5999908447266
+    "end_time": 808.5999908447266,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "bk0BCi-BMI0",
     "start_time": 1842.7399368286133,
-    "end_time": 1906.1799392700195
+    "end_time": 1906.1799392700195,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "bLIlrTCCUAY",
     "start_time": 1422.0199890136719,
-    "end_time": 1502.6599731445312
+    "end_time": 1502.6599731445312,
+    "point_summary": "Great peace belongs to those who love God's law, establishing that the peace Paul wishes Timothy is not circumstantial but flows from a relationship with God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "bPt92Z2dPIg",
     "start_time": 2060.1199951171875,
-    "end_time": 2130.6000061035156
+    "end_time": 2130.6000061035156,
+    "point_summary": "Surrender to God, the sermon argues from Psalm 70:4's cry \"Let God be magnified,\" is the very means by which Christ is exalted in a believer's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "bsk8iNEnRVo",
     "start_time": 1673.8599853515625,
-    "end_time": 1742.6599731445312
+    "end_time": 1742.6599731445312,
+    "point_summary": "Psalm 78's declaration that Israel \"limited the Holy One of Israel\" is applied as evidence that doubt and unbelief are the means by which finite creatures restrict the working of an unlimited God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "BTFBBPIk4YQ",
     "start_time": 1602.8400268554688,
-    "end_time": 1664.4600219726562
+    "end_time": 1664.4600219726562,
+    "point_summary": "Decisions built on Scripture endure because God's Word is eternally settled and unchanging, unlike human opinion, which can shift.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "CHv-7-cvC0E",
     "start_time": 1095.1199951171875,
-    "end_time": 1158.7999877929688
+    "end_time": 1158.7999877929688,
+    "point_summary": "God's guidance through life's journey culminates in the ultimate destination of glory, a promise the sermon holds before Jacob's traveling family as the horizon of their trust.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "CHv-7-cvC0E",
     "start_time": 1508.760009765625,
-    "end_time": 1570.4599914550781
+    "end_time": 1570.4599914550781,
+    "point_summary": "The psalmist's phrase \"afterward, receive me to glory\" is cited as scriptural assurance that believers will be received into God's presence, grounding the sermon's anticipation of heaven's grand reunion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 127.91999816894531,
-    "end_time": 192.94000244140625
+    "end_time": 192.94000244140625,
+    "point_summary": "God's name alone is excellent and above all creation, making the study of His names an act of praise and a gateway into understanding who He is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 753.0399932861328,
-    "end_time": 809.1999969482422
+    "end_time": 809.1999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -844,7 +996,9 @@
     "is_implicit": true,
     "video_id": "cndo5VpvDZo",
     "start_time": 130.47999572753906,
-    "end_time": 192.5
+    "end_time": 192.5,
+    "point_summary": "The language of 1 Peter 2:3 — \"tasted that the Lord is gracious\" — is noted as strikingly similar to David's words in Psalm 34, connecting the two texts around the theme of God's graciousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "cRs01nZR7xE",
     "start_time": 408.2200012207031,
-    "end_time": 480.6600036621094
+    "end_time": 480.6600036621094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "cwDxVvhjqgw",
     "start_time": 401.2799987792969,
-    "end_time": 465.7200012207031
+    "end_time": 465.7200012207031,
+    "point_summary": "God is not merely a giver of hope but is himself the believer's hope—a confident expectancy, not wishful thinking—as the psalmist declares, \"thou art my hope, O Lord God.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 1224.8399810791016,
-    "end_time": 1295.2799835205078
+    "end_time": 1295.2799835205078,
+    "point_summary": "Time is brief and finite — Moses's reference to a lifespan of seventy or eighty years frames the call to redeem time, since life passes like a tale that is told.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 1224.8399810791016,
-    "end_time": 1295.2799835205078
+    "end_time": 1295.2799835205078,
+    "point_summary": "Time is brief and its investment is serious — Psalm 90:12's call to number our days grounds the sermon's appeal to redeem time wisely, treating it as a precious, God-given commodity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -899,7 +1061,9 @@
     "is_implicit": true,
     "video_id": "DtcTsCiwnIM",
     "start_time": 1205.320004940033,
-    "end_time": 1279.9200057983398
+    "end_time": 1279.9200057983398,
+    "point_summary": "The psalmist's declaration \"O how love I thy law\" is examined as a claim that demands supporting evidence in the believer's life, not merely words.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 0.0,
-    "end_time": 60.70000076293945
+    "end_time": 60.70000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 0.0,
-    "end_time": 60.70000076293945
+    "end_time": 60.70000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 732.4600219726562,
-    "end_time": 788.1800231933594
+    "end_time": 788.1800231933594,
+    "point_summary": "God's intimate knowledge of every star — numbering and naming each one — is presented as a proclamation of His infinite power and wisdom, calling mankind to worship the Creator rather than the creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 732.4600219726562,
-    "end_time": 788.1800231933594
+    "end_time": 788.1800231933594,
+    "point_summary": "God's intimate knowledge of every star — telling their exact number and calling each by name — proclaims His infinite power and wisdom, standing in contrast to man's mere estimates of billions of trillions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 732.4600219726562,
-    "end_time": 788.1800231933594
+    "end_time": 788.1800231933594,
+    "point_summary": "God's naming and numbering of every star, declared in verse 5 alongside His infinite understanding, is presented as the basis for worshipping the Creator rather than the creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 732.4600219726562,
-    "end_time": 788.1800231933594
+    "end_time": 788.1800231933594,
+    "point_summary": "The heavens declaring God's glory in Psalm 19:1 is cited as scriptural corroboration that God made the stars so humanity would worship the Creator rather than the creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 2294.4000549316406,
-    "end_time": 2369.1600341796875
+    "end_time": 2369.1600341796875,
+    "point_summary": "The God whose power is vast enough to number and name every star is the same God who keeps intimate, personal promises to heal the brokenhearted and lift up the meek.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 2294.4000549316406,
-    "end_time": 2369.1600341796875
+    "end_time": 2369.1600341796875,
+    "point_summary": "The infinite power and understanding declared in Psalm 147:5 are set within surrounding promises of personal care, so that the God who heals broken hearts and lifts the meek is the same God of boundless might.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -998,7 +1178,9 @@
     "is_implicit": true,
     "video_id": "DzfYEJzAihI",
     "start_time": 2294.4000549316406,
-    "end_time": 2369.1600341796875
+    "end_time": 2369.1600341796875,
+    "point_summary": "The God whose power numbers and names every star is the same God who heals the brokenhearted and binds up their wounds, magnifying his personal care for his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1009,7 +1191,9 @@
     "is_implicit": true,
     "video_id": "DzfYEJzAihI",
     "start_time": 2294.4000549316406,
-    "end_time": 2369.1600341796875
+    "end_time": 2369.1600341796875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1428.6199493408203,
-    "end_time": 1487.93994140625
+    "end_time": 1487.93994140625,
+    "point_summary": "Guarding the heart from deception requires immersion in God's Word, with Psalm 119 presented as the scriptural response to the vulnerability that comes amid blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1031,7 +1217,9 @@
     "is_implicit": true,
     "video_id": "EetmC5JSFHc",
     "start_time": 417.5,
-    "end_time": 487.05999755859375
+    "end_time": 487.05999755859375,
+    "point_summary": "God's promise to preserve his Word across generations — grounded in his trustworthiness — assures believers that no human effort to revise or remove Scripture can ultimately succeed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1042,7 +1230,9 @@
     "is_implicit": true,
     "video_id": "eKXXb-CvsCo",
     "start_time": 1246.3799514770508,
-    "end_time": 1311.5199508666992
+    "end_time": 1311.5199508666992,
+    "point_summary": "Psalm 139:23's prayer to be searched by God is presented as the goal that can only be honestly reached after the harder, prior work of personal self-examination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 0.0,
-    "end_time": 62.040000915527344
+    "end_time": 62.040000915527344,
+    "point_summary": "Psalm 150 is being introduced as a supporting text within a broader doctrinal study on the greatness of God, with no exposition of the psalm itself developed in this segment.\n\nWait — the rules say if mentioned only in passing, write the set phrase. Let me re-read.\n\nBrief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 296.05999755859375,
-    "end_time": 358.239990234375
+    "end_time": 358.239990234375,
+    "point_summary": "God's holiness is His most prominent attribute—meaning perfect purity and complete moral character—and Psalm 99:9 is cited as the psalmist's own declaration that exalting and worshiping God is the fitting response to this unchanging reality.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 1065.3399963378906,
-    "end_time": 1136.4600219726562
+    "end_time": 1136.4600219726562,
+    "point_summary": "Psalm 51:3–4 is held up as the model of genuine repentance—David's unflinching acknowledgment that sin is ever before him and committed ultimately against God alone, offered as the pattern for honest, unexcused confession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 2485.4599990844727,
-    "end_time": 2552.479995727539
+    "end_time": 2552.479995727539,
+    "point_summary": "Praying Psalm 119:18 daily as a personal petition—\"open thou mine eyes\"—is presented as a cultivated habit of inviting God to speak through His Word in preparation for revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "EYMGpQZnswg",
     "start_time": 200.60000610351562,
-    "end_time": 266.8800048828125
+    "end_time": 266.8800048828125,
+    "point_summary": "The historical superscription placing Psalm 3 during David's flight from Absalom grounds the opening cry of \"many rise against me\" in the concrete rebellion recorded in 2 Samuel 15–19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "EYMGpQZnswg",
     "start_time": 458.9200134277344,
-    "end_time": 524.8800048828125
+    "end_time": 524.8800048828125,
+    "point_summary": "Psalm 3:1 is read as David's candid acknowledgment of the overwhelming reality of Absalom's rebellion, with the historical backdrop of 2 Samuel 15 illuminating the psalm's opening cry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2061.739959716797,
-    "end_time": 2128.179962158203
+    "end_time": 2128.179962158203,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2128.179962158203,
-    "end_time": 2217.199951171875
+    "end_time": 2217.199951171875,
+    "point_summary": "David's cry for help in Psalm 109:26 is inseparably linked to verse 27's petition that God's hand be recognized, so that God alone receives the glory when He acts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2128.179962158203,
-    "end_time": 2217.199951171875
+    "end_time": 2217.199951171875,
+    "point_summary": "When God answers prayer, the purpose is that others would recognize it as His hand at work, so that He alone receives the glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2128.179962158203,
-    "end_time": 2217.199951171875
+    "end_time": 2217.199951171875,
+    "point_summary": "Psalm 121:1's declaration that help comes from the Lord who made heaven and earth grounds the sermon's title and frames God as the Creator-Helper to whom believers lift their eyes in adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2128.179962158203,
-    "end_time": 2217.199951171875
+    "end_time": 2217.199951171875,
+    "point_summary": "Help sought from God is rightly directed to the Lord who made heaven and earth, establishing that the Creator himself is the source of all aid.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 1946.8999328613281,
-    "end_time": 2019.3799285888672
+    "end_time": 2019.3799285888672,
+    "point_summary": "God's provision for ravens in Psalm 147:9 is shown to illuminate why he could sovereignly use those same ravens to feed Elijah at Cherith, demonstrating his care extending from creation to his servants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 1193.9800415039062,
-    "end_time": 1264.9000358581543
+    "end_time": 1264.9000358581543,
+    "point_summary": "When God is on our side, the psalmist declares there is no ground for fear of human opposition—a promise the sermon connects to the servant's newly opened eyes and the unseen divine protection surrounding Elisha.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 182.67999267578125,
-    "end_time": 251.63999938964844
+    "end_time": 251.63999938964844,
+    "point_summary": "Revival and rejoicing are directly linked in Psalm 85:6, where the plea \"wilt thou not revive us again\" is expressly tied to the people's rejoicing in God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2532.3199920654297,
-    "end_time": 2619.0800018310547
+    "end_time": 2619.0800018310547,
+    "point_summary": "Psalm 51:12 grounds the personal dimension of lost joy, with David's cry for restoration illustrating that God is a restoring God who can return what sin has taken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "GWHY7Tnt1EI",
     "start_time": 879.5199890136719,
-    "end_time": 958.0799865722656
+    "end_time": 958.0799865722656,
+    "point_summary": "Daily God loads his people with benefits, a truth the sermon draws on from Psalm 68:19 to underscore that God's goodness toward believers is constant and undeserved, calling for gratitude.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "HiFapKk4nG4",
     "start_time": 2555.5400390625,
-    "end_time": 2624.5400390625
+    "end_time": 2624.5400390625,
+    "point_summary": "Israel's limiting of the Holy One (Ps. 78:41) is applied as a warning that believers can grieve and quench the Holy Spirit through unbelief and doubt, dimming their witness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1272.700050354004,
-    "end_time": 1342.3800506591797
+    "end_time": 1342.3800506591797,
+    "point_summary": "God's creative word—speaking all things into existence from nothing—is cited as the theological ground for the disciples' confidence that no human opposition could exceed His power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1272.700050354004,
-    "end_time": 1342.3800506591797
+    "end_time": 1342.3800506591797,
+    "point_summary": "God's creative omnipotence—that He spoke and it was done, commanded and it stood fast—grounds the early church's confidence that no human opposition was beyond His power to overcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1262,7 +1490,9 @@
     "is_implicit": true,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1272.700050354004,
-    "end_time": 1342.3800506591797
+    "end_time": 1342.3800506591797,
+    "point_summary": "Psalm 48's declaration that \"great is the Lord and greatly to be praised\" and its closing affirmation \"this God is our God forever and ever\" are cited to ground the disciples' bold prayer in a settled confidence in God's greatness and eternal faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1272.700050354004,
-    "end_time": 1342.3800506591797
+    "end_time": 1342.3800506591797,
+    "point_summary": "God's eternal guidance of His people—\"this God is our God forever and ever, He will be our guide even unto death\"—grounds the disciples' confidence that the all-powerful Creator can handle what is beyond human ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1284,7 +1516,9 @@
     "is_implicit": true,
     "video_id": "hwLKY1FAuwU",
     "start_time": 2035.4199829101562,
-    "end_time": 2106.4199829101562
+    "end_time": 2106.4199829101562,
+    "point_summary": "God's forgiveness—affirmed in Psalm 130:4—grounds the call to confess rather than conceal sin, since hiding sin brings no prosperity while confession finds mercy from a gracious God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 0.0,
-    "end_time": 58.08000183105469
+    "end_time": 58.08000183105469,
+    "point_summary": "Psalm 110:4's declaration of a priest \"after the order of Melchizedek\" is a recognized messianic prophecy that Hebrews 7 presents Jesus as definitively fulfilling, surpassing the Old Testament priesthood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 185.47999572753906,
-    "end_time": 237.0399932861328
+    "end_time": 237.0399932861328,
+    "point_summary": "Psalm 110's single verse about Melchizedek, read alongside Genesis 14, constitutes the entire Old Testament foundation for Christ's eternal, unchangeable priesthood as expounded in Hebrews 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 890.1000061035156,
-    "end_time": 961.9400024414062
+    "end_time": 961.9400024414062,
+    "point_summary": "Psalm 110's messianic prophecy is applied to Jesus Christ as the interpretive key that makes sense of Melchizedek's superiority over the Levitical priesthood in Hebrews 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 3338.7601013183594,
-    "end_time": 3425.7200927734375
+    "end_time": 3425.7200927734375,
+    "point_summary": "Declaring God's greatness is the church's responsibility, because each generation must be told how great the Lord is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2749.519989013672,
-    "end_time": 2811.040008544922
+    "end_time": 2811.040008544922,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 192.60000610351562,
-    "end_time": 252.44000244140625
+    "end_time": 252.44000244140625,
+    "point_summary": "God's Word is described as eternal and preserved — \"forever settled in heaven\" — grounding confidence that the yet-unfulfilled promise of Colossians 3:4 will certainly come to pass.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 192.60000610351562,
-    "end_time": 252.44000244140625
+    "end_time": 252.44000244140625,
+    "point_summary": "God's promise to preserve His Word undergirds the confidence that what Colossians 3:4 foretells, though still future, will certainly come to pass.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 1324.1199951171875,
-    "end_time": 1395.4599914550781
+    "end_time": 1395.4599914550781,
+    "point_summary": "David's cry in Psalm 51:4 — \"against thee and thee only have I sinned\" — is cited to show that a believer who sins loses not salvation but the joy of salvation, as David's prayer was for restored joy, not restored standing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 1324.1199951171875,
-    "end_time": 1395.4599914550781
+    "end_time": 1395.4599914550781,
+    "point_summary": "David's prayer in Psalm 51:12 — \"restore unto me the joy of thy salvation\" — is cited to show that sin does not cost a believer salvation but does rob them of its joy until fellowship is restored through confession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "iQq15jU_zqs",
     "start_time": 596.1199951171875,
-    "end_time": 660.9199829101562
+    "end_time": 660.9199829101562,
+    "point_summary": "Humility—not self-righteous concern for others' faults—is what drives the psalmist's personal plea for God to search his own heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "iQq15jU_zqs",
     "start_time": 596.1199951171875,
-    "end_time": 660.9199829101562
+    "end_time": 660.9199829101562,
+    "point_summary": "Humility before God—not concern for others' faults—is what drives the psalmist's personal plea in Psalm 139:23–24 to be searched and known by God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 634.2199745178223,
-    "end_time": 708.1799774169922
+    "end_time": 708.1799774169922,
+    "point_summary": "God's omniscience is displayed in Psalm 147:4 by the fact that he not only counts the innumerable stars but calls each one by name, a truth paired with verse 5's declaration that his understanding is infinite.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 634.2199745178223,
-    "end_time": 708.1799774169922
+    "end_time": 708.1799774169922,
+    "point_summary": "God's omniscience is underscored by the phrase \"his understanding is infinite,\" paired with the staggering detail that he numbers and names every star.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1438,7 +1698,9 @@
     "is_implicit": true,
     "video_id": "J-kYeBGCnXc",
     "start_time": 1456.3799591064453,
-    "end_time": 1521.1399536132812
+    "end_time": 1521.1399536132812,
+    "point_summary": "Psalm 2:7's declaration \"Thou art my Son, this day have I begotten thee\" refers not to Christ's incarnation but to His resurrection, as confirmed by Paul's direct application of it in Acts 13:33.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "j51zdQRDSfU",
     "start_time": 2383.8800659179688,
-    "end_time": 2453.0000648498535
+    "end_time": 2453.0000648498535,
+    "point_summary": "Psalm 1's portrait of the blessed man illustrates what it means to be rooted and firmly grounded, serving as a biblical picture of the stability Paul calls for in Colossians 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 2926.9600219726562,
-    "end_time": 3006.5
+    "end_time": 3006.5,
+    "point_summary": "Psalm 121:1's question \"from whence cometh my help?\" is answered by the Creator's omnipotence, grounding the believer's fearlessness in the same God who spoke the world into existence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 2926.9600219726562,
-    "end_time": 3006.5
+    "end_time": 3006.5,
+    "point_summary": "God's power as Creator—who spoke the world into existence—is the very ground of confidence that he is able to be the helper of his people in their trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 445.70001220703125,
-    "end_time": 509.260009765625
+    "end_time": 509.260009765625,
+    "point_summary": "Psalm 19:7–11 is cited to establish the surpassing worth and transforming power of Scripture as the foundation for why a mature believer must impart biblical truth rather than personal opinion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 445.70001220703125,
-    "end_time": 509.260009765625
+    "end_time": 509.260009765625,
+    "point_summary": "Psalm 19:8's description of the Lord's commandment as pure and enlightening the eyes supports the sermon's call to impart biblical truth as more precious and authoritative than any human opinion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 445.70001220703125,
-    "end_time": 509.260009765625
+    "end_time": 509.260009765625,
+    "point_summary": "Psalm 19:9's declaration that the judgments of the Lord are true and righteous altogether grounds the sermon's insistence that Paul imparted objective biblical truth—not personal opinion—to the Thessalonians.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 509.2799987792969,
-    "end_time": 584.0999755859375
+    "end_time": 584.0999755859375,
+    "point_summary": "God's Word surpasses gold in value, and the sermon uses Psalm 19:10 to press the congregation toward treasuring Scripture as the essential currency of spiritual growth and discipleship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 509.2799987792969,
-    "end_time": 584.0999755859375
+    "end_time": 584.0999755859375,
+    "point_summary": "God's Word serves a dual function: it warns the servant and promises great reward to those who keep it, establishing its supreme value above material wealth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 509.2799987792969,
-    "end_time": 584.0999755859375
+    "end_time": 584.0999755859375,
+    "point_summary": "The psalmist's declaration that God's law surpasses thousands of gold and silver illustrates the supreme value a believer should place on Scripture as the foundation for imparting biblical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1537.7600402832031,
-    "end_time": 1596.7200317382812
+    "end_time": 1596.7200317382812,
+    "point_summary": "David's prayer in Psalm 3:7 is paralleled with Philippians 4:4–7, showing that the rejoicing David experiences follows his pouring out his burden to God and resting in Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1596.7200317382812,
-    "end_time": 1664.2400207519531
+    "end_time": 1664.2400207519531,
+    "point_summary": "Psalm 3:3–4 is paralleled with Philippians 4:6–7 to show that prayer and supplication leading to God's peace mirrors David's experience of divine protection and rest amid crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1596.7200317382812,
-    "end_time": 1664.2400207519531
+    "end_time": 1664.2400207519531,
+    "point_summary": "Prayer and supplication with thanksgiving in Psalm 3:3–4 parallels Philippians 4:6, with David's cry to God and God's answer illustrating the believer's access to God amid adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1596.7200317382812,
-    "end_time": 1664.2400207519531
+    "end_time": 1664.2400207519531,
+    "point_summary": "Psalm 3:5–6 is drawn into parallel with Philippians 4:7, identifying the rest and peace David experienced as the same \"peace of God\" Paul describes surpassing all understanding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1596.7200317382812,
-    "end_time": 1664.2400207519531
+    "end_time": 1664.2400207519531,
+    "point_summary": "The peace of God described in Philippians 4:7 is explicitly paralleled with Psalm 3:5–6, where David's rest amid surrounding enemies illustrates that same surpassing peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "k6oXir_mJ3I",
     "start_time": 1539.260009765625,
-    "end_time": 1631.5799865722656
+    "end_time": 1631.5799865722656,
+    "point_summary": "Psalm 37 is introduced as a supporting reference for the principle that answered prayer is a blessing tied to praying according to God's will, illustrated by the disciples' bold request in Acts 4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "KNJW7jy8zDg",
     "start_time": 190.47999572753906,
-    "end_time": 249.32000732421875
+    "end_time": 249.32000732421875,
+    "point_summary": "Psalm 110:4's declaration of a priest \"after the order of Melchizedek\" establishes that Christ's priesthood is superior to the Aaronic order precisely because he descends from Judah, not Levi.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "l6dkHfTMar4",
     "start_time": 281.5400085449219,
-    "end_time": 352.82000732421875
+    "end_time": 352.82000732421875,
+    "point_summary": "Desperate longing for God to act is grounded in Psalm 119:126's cry that \"it is time for thee, Lord, to work,\" set against a backdrop of law being made void.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1636,7 +1932,9 @@
     "is_implicit": true,
     "video_id": "l6dkHfTMar4",
     "start_time": 907.7000122070312,
-    "end_time": 973.1800231933594
+    "end_time": 973.1800231933594,
+    "point_summary": "Psalm 119:18 is quoted as a model prayer for approaching Scripture with prepared, receptive hearts—asking God to open one's eyes before reading His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "l6dkHfTMar4",
     "start_time": 907.7000122070312,
-    "end_time": 973.1800231933594
+    "end_time": 973.1800231933594,
+    "point_summary": "Psalm 51 is introduced as the great psalm of repentance, with David's prayer for a clean heart in verse 10 illustrating the kind of prepared, tender heart needed to receive God's word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1658,7 +1958,9 @@
     "is_implicit": true,
     "video_id": "LtegeF3nWJo",
     "start_time": 1493.0799865722656,
-    "end_time": 1565.8800048828125
+    "end_time": 1565.8800048828125,
+    "point_summary": "Psalm 119 is cited briefly as the passage that addresses Scripture's words being forever settled in heaven, without further exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "LtegeF3nWJo",
     "start_time": 1493.0799865722656,
-    "end_time": 1565.8800048828125
+    "end_time": 1565.8800048828125,
+    "point_summary": "Psalm 12:6's declaration that God's words are pure is cited to argue that translators must render every individual word of Scripture, not merely convey general thoughts or ideas.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "LtegeF3nWJo",
     "start_time": 1493.0799865722656,
-    "end_time": 1565.8800048828125
+    "end_time": 1565.8800048828125,
+    "point_summary": "God's promise in Psalm 12:7 to preserve His words—not merely His thoughts or ideas—grounds the argument that word-for-word translation fidelity matters because every individual word of Scripture is pure and divinely kept.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "M95WZQin3TU",
     "start_time": 1860.599952697754,
-    "end_time": 1955.719955444336
+    "end_time": 1955.719955444336,
+    "point_summary": "God's ownership of both power and mercy is affirmed together in verse 12, with mercy highlighted as the experiential reality believers encounter fresh every morning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "M95WZQin3TU",
     "start_time": 1860.599952697754,
-    "end_time": 1955.719955444336
+    "end_time": 1955.719955444336,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "M95WZQin3TU",
     "start_time": 2038.8399505615234,
-    "end_time": 2101.5999450683594
+    "end_time": 2101.5999450683594,
+    "point_summary": "Psalm 62 calls believers to resolve, in the face of unknown trials, to wait on God, trust Him at all times, and pour out their hearts before Him, recognizing their utter dependence on His power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 1182.7000122070312,
-    "end_time": 1244.0400390625
+    "end_time": 1244.0400390625,
+    "point_summary": "When the psalmist's fear that God's mercies are dried up gives way to deliberate remembrance of God's past works, it models the discipline of recalling what God has revealed as the antidote to doubt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "nAg0uoCzhe8",
     "start_time": 250.77999877929688,
-    "end_time": 300.3800048828125
+    "end_time": 300.3800048828125,
+    "point_summary": "The overflowing cup of Psalm 23:5 is presented as a perspective-sustaining truth—unchanging amid shifting circumstances and trials—because the Shepherd provides every need, supremely salvation through Christ alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "nAg0uoCzhe8",
     "start_time": 982.3000183105469,
-    "end_time": 1047.5600280761719
+    "end_time": 1047.5600280761719,
+    "point_summary": "Overflowing blessing in this life is set alongside the even greater promise of a prepared heavenly place, together confirming that the cup of God's goodness extends beyond the present world into eternity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "nAg0uoCzhe8",
     "start_time": 1854.9800720214844,
-    "end_time": 1925.9800720214844
+    "end_time": 1925.9800720214844,
+    "point_summary": "Rejoicing is not contingent on circumstances; the psalmist's declaration \"we will rejoice and be glad in it\" is an unconditional commitment, not a response to how the day unfolds.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "nAg0uoCzhe8",
     "start_time": 1854.9800720214844,
-    "end_time": 1925.9800720214844
+    "end_time": 1925.9800720214844,
+    "point_summary": "The overflowing cup of Psalm 23:5 calls believers to cultivate genuine, daily gratitude by recognizing God's blessings rather than fixating on hardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "NdxnTfKxPaI",
     "start_time": 0.0,
-    "end_time": 68.58000183105469
+    "end_time": 68.58000183105469,
+    "point_summary": "David's cry in Psalm 3:1 reflects not exaggeration but documented historical reality — the mounting number of enemies during Absalom's rebellion was a literal, verifiable crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "NdxnTfKxPaI",
     "start_time": 1817.0799446105957,
-    "end_time": 1911.93994140625
+    "end_time": 1911.93994140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "NdxnTfKxPaI",
     "start_time": 1817.0799446105957,
-    "end_time": 1911.93994140625
+    "end_time": 1911.93994140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 1659.7999877929688,
-    "end_time": 1722.6799926757812
+    "end_time": 1722.6799926757812,
+    "point_summary": "In contrast to Gehazi's futile self-concealment, Psalm 32:1 is cited to show that true covering of sin belongs only to God's forgiveness, not man's deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "nKp9POTWPKI",
     "start_time": 2152.0399475097656,
-    "end_time": 2225.5199584960938
+    "end_time": 2225.5199584960938,
+    "point_summary": "God's greatness, though genuinely known and celebrated as David demonstrates in Psalm 145, remains ultimately unsearchable—beyond full human comprehension or explanation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "NtYYNz8sJhU",
     "start_time": 863.1600036621094,
-    "end_time": 930.0799865722656
+    "end_time": 930.0799865722656,
+    "point_summary": "Psalm 1:1–3 is presented as a lived-out illustration of Proverbs 13's companion-choice principles, showing what it looks like when someone actually applies them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1845,7 +2179,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 350.70001220703125,
-    "end_time": 418.4599914550781
+    "end_time": 418.4599914550781,
+    "point_summary": "God's righteousness is eternal and inseparable from His truth, cited here to establish that the righteous Lord's character is not contingent or developing but everlastingly fixed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 487.9800109863281,
-    "end_time": 567.8599853515625
+    "end_time": 567.8599853515625,
+    "point_summary": "Sin's reproach on nations is grounded in Psalm 9:17's declaration that the wicked—and nations that forget God—shall be turned into hell.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2705.139923095703,
-    "end_time": 2774.2599487304688
+    "end_time": 2774.2599487304688,
+    "point_summary": "No political power or legislation can alter the fixed truth of Psalm 11:7 that the righteous Lord loves righteousness, and nations that defy that standard face inevitable judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1012.3999938964844,
-    "end_time": 1088.3200073242188
+    "end_time": 1088.3200073242188,
+    "point_summary": "Hearing God's Word rightly means receiving it with the intent to obey, as David's prayer—\"teach me thy way…I will walk in thy truth\"—illustrates the posture of listening oriented toward obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1088.3200073242188,
-    "end_time": 1168.3800048828125
+    "end_time": 1168.3800048828125,
+    "point_summary": "Psalm 119:1's opening beatitude—\"blessed are the undefiled…who walk in the way of the Lord\"—is cited to show that true hearing of God's Word is inseparable from the purpose of obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 440.4800109863281,
-    "end_time": 498.3999938964844
+    "end_time": 498.3999938964844,
+    "point_summary": "Psalm 110:4's reference to Melchizedek gains its full significance only when read alongside Genesis 14 and Hebrews 7, which together establish Melchizedek as an Old Testament type of Christ in his eternal priesthood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 917.5000305175781,
-    "end_time": 972.9800415039062
+    "end_time": 972.9800415039062,
+    "point_summary": "Knowing God as Creator—who spoke light into existence and made all things from nothing—grounds confidence that he is able to help, making Psalm 121:1–2 the congregation's running theme for seeking him in need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 917.5000305175781,
-    "end_time": 972.9800415039062
+    "end_time": 972.9800415039062,
+    "point_summary": "Knowing God as Creator—who spoke light into existence and made all things from nothing—grounds confidence that he is able to help, making his people run to him rather than toil alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "omA2lxHRXXU",
     "start_time": 60.880001068115234,
-    "end_time": 119.95999908447266
+    "end_time": 119.95999908447266,
+    "point_summary": "God's saving acts toward Israel were not ultimately for Israel's sake but to make His mighty power known — the theological lens through which the Horeb encounter will be interpreted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "OsDD6Qa4kgI",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Psalm 100 is introduced as a companion text to the Lord's Prayer framework, grounding corporate worship in the believer's covenant relationship with God as Father.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 2205.340057373047,
-    "end_time": 2293.7000427246094
+    "end_time": 2293.7000427246094,
+    "point_summary": "Psalm 121:1–2 is cited to establish the sermon's controlling theme: that the same Creator God who made heaven and earth is personally the helper of His people amid opposition and adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 2205.340057373047,
-    "end_time": 2293.7000427246094
+    "end_time": 2293.7000427246094,
+    "point_summary": "Divine help flows from divine power: the Creator of heaven and earth is not a distant sovereign but the personal helper of His people facing opposition and adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 2205.340057373047,
-    "end_time": 2293.7000427246094
+    "end_time": 2293.7000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "oZlLM5d6rzk",
     "start_time": 183.60000610351562,
-    "end_time": 246.82000732421875
+    "end_time": 246.82000732421875,
+    "point_summary": "The possessive claim \"my shepherd\" in Psalm 23:1 is the necessary foundation for the psalm's closing promise of dwelling in God's house forever, attainable only through personal saving faith in Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "oZlLM5d6rzk",
     "start_time": 183.60000610351562,
-    "end_time": 246.82000732421875
+    "end_time": 246.82000732421875,
+    "point_summary": "The eternal dwelling promised in Psalm 23:6 rests entirely on the personal relationship declared in verse 1—only those who know the Lord as their shepherd can claim they will dwell in his house forever.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "oZlLM5d6rzk",
     "start_time": 2084.679962158203,
-    "end_time": 2169.1199645996094
+    "end_time": 2169.1199645996094,
+    "point_summary": "Psalm 23's declaration \"the Lord is my shepherd\" grounds the assurance that believers can cast every burden on God, not because life becomes problem-free, but because the Shepherd personally cares and provides.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2021,7 +2387,9 @@
     "is_implicit": true,
     "video_id": "p2r74NArQcM",
     "start_time": 2582.199935913086,
-    "end_time": 2654.43994140625
+    "end_time": 2654.43994140625,
+    "point_summary": "When believers sin and confess, God removes their transgressions as far as east is from west — cited as assurance that the advocate's payment fully covers the ongoing failures of those who are not yet glorified.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 2440.0800018310547,
-    "end_time": 2515.240005493164
+    "end_time": 2515.240005493164,
+    "point_summary": "Israel's failure in the wilderness serves as a warning that human self-reliance limits the unlimited, almighty God — the very error mirrored in Genesis 27's carnality and deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2043,7 +2413,9 @@
     "is_implicit": true,
     "video_id": "PcWAoGx4sog",
     "start_time": 2515.240005493164,
-    "end_time": 2608.1600036621094
+    "end_time": 2608.1600036621094,
+    "point_summary": "Israel's unbelief, sin, and scheming are identified as what \"limited the Holy One of Israel,\" warning against replacing trust in God's plan with human scheming as Rebekah and Jacob did.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 2270.020050048828,
-    "end_time": 2330.820068359375
+    "end_time": 2330.820068359375,
+    "point_summary": "The psalmist's declaration of love for God is grounded in the assurance that God hears prayer, motivating lifelong, confident calling upon Him—contrasted with deaf idols that cannot hear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "PgcjaAnGexU",
     "start_time": 2732.759979248047,
-    "end_time": 2805.219970703125
+    "end_time": 2805.219970703125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2076,7 +2452,9 @@
     "is_implicit": true,
     "video_id": "pYr6LiZQpLI",
     "start_time": 1016.97998046875,
-    "end_time": 1086.4599914550781
+    "end_time": 1086.4599914550781,
+    "point_summary": "Psalm 19's declaration that in keeping God's word \"there is great reward\" grounds the sermon's argument that biblical warnings are given for the hearer's benefit, not as punishment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 0.0,
-    "end_time": 71.08000183105469
+    "end_time": 71.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 132.39999389648438,
-    "end_time": 199.16000366210938
+    "end_time": 199.16000366210938,
+    "point_summary": "God's deliverance of Israel at the waters of Meribah is presented as evidence that no trial—even one God himself leads his people into—falls outside his sovereign control or foreknowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 199.16000366210938,
-    "end_time": 262.9200134277344
+    "end_time": 262.9200134277344,
+    "point_summary": "Psalm 81:7's declaration that God delivered Israel when they called in trouble is traced to the specific wilderness trial at Meribah recorded in Exodus 17, distinguishing it from the earlier bitter-waters crisis at Marah in Exodus 15.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 262.9200134277344,
-    "end_time": 329.9200134277344
+    "end_time": 329.9200134277344,
+    "point_summary": "Psalm 81:7's declaration \"Thou callest in trouble and I delivered thee\" is grounded in the historical crisis at Meribah, traced back through Exodus 17 as the specific occasion God answered Israel's cry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 262.9200134277344,
-    "end_time": 329.9200134277344
+    "end_time": 329.9200134277344,
+    "point_summary": "Psalm 81:7's declaration \"Thou callest in trouble and I delivered thee\" is grounded in the historical crisis at Meribah (Exodus 17), where God answered Israel's cry and proved His faithfulness amid their hardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 909.3399963378906,
-    "end_time": 980.3399963378906
+    "end_time": 980.3399963378906,
+    "point_summary": "God's deliverance in Psalm 81:7 is framed as the direct result of crying out to Him, contrasting Moses' faith-driven intercession with Israel's murmuring as the model response to crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "QHvb8WfH4Bc",
     "start_time": 628.3399772644043,
-    "end_time": 698.4399795532227
+    "end_time": 698.4399795532227,
+    "point_summary": "Psalm 7:17 is cited as one of several Psalms illustrating the psalmist's deliberate, first-person resolve—\"I will praise\"—to praise God according to His righteousness, establishing purposeful praise as a heart attitude, not merely a principle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "QHvb8WfH4Bc",
     "start_time": 628.3399772644043,
-    "end_time": 698.4399795532227
+    "end_time": 698.4399795532227,
+    "point_summary": "Psalm 9:1's declaration \"I will praise Thee with my whole heart\" illustrates that genuine praise requires purposeful, wholehearted resolve—not half-hearted engagement—as the psalmist's example of intentional commitment to worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "QHvb8WfH4Bc",
     "start_time": 823.1399841308594,
-    "end_time": 888.5399780273438
+    "end_time": 888.5399780273438,
+    "point_summary": "Praising God with song and thanksgiving, as the psalmist vows, illustrates the wholehearted, public magnification of God that believers are called to offer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "QHvb8WfH4Bc",
     "start_time": 823.1399841308594,
-    "end_time": 888.5399780273438
+    "end_time": 888.5399780273438,
+    "point_summary": "Wholehearted, passionate praise—giving God all of one's heart—is the posture the psalmist models and the standard the sermon holds before believers for glorifying God's name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1852.5199356079102,
-    "end_time": 1911.7199401855469
+    "end_time": 1911.7199401855469,
+    "point_summary": "Psalm 109:27 is invoked to establish that the completed work of Nehemiah was visibly God's doing—a recognition the enemy itself was forced to acknowledge in Nehemiah 6:16.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2208,7 +2608,9 @@
     "is_implicit": true,
     "video_id": "qmma5NLlSAk",
     "start_time": 2106.1799926757812,
-    "end_time": 2164.0599975585938
+    "end_time": 2164.0599975585938,
+    "point_summary": "When David cried to God in the midst of troubles beyond his own ability to resolve, God heard and delivered him—demonstrating that nothing is too hard for the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "QN66bc7XOjk",
     "start_time": 119.12000274658203,
-    "end_time": 180.24000549316406
+    "end_time": 180.24000549316406,
+    "point_summary": "Israel's sojourn in Egypt, far from being a detour, was the very setting God chose to multiply his people and display his greatness through signs and wonders against their enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2230,7 +2634,9 @@
     "is_implicit": true,
     "video_id": "QN66bc7XOjk",
     "start_time": 119.12000274658203,
-    "end_time": 180.24000549316406
+    "end_time": 180.24000549316406,
+    "point_summary": "Psalm 78, alongside Psalms 105 and 106, is noted as one of three psalms that record the Egyptian plagues, with Psalm 78 providing the most detailed account among them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2241,7 +2647,9 @@
     "is_implicit": true,
     "video_id": "QN66bc7XOjk",
     "start_time": 119.12000274658203,
-    "end_time": 180.24000549316406
+    "end_time": 180.24000549316406,
+    "point_summary": "Psalm 106, like Psalms 78 and 105, references the Egyptian plagues, though with less detail than those parallel accounts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2252,7 +2660,9 @@
     "is_implicit": true,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1383.1400451660156,
-    "end_time": 1454.9000396728516
+    "end_time": 1454.9000396728516,
+    "point_summary": "Psalm 119 is invoked as the model of personal delight in, meditation on, and purposeful obedience to God's law, held up as the disposition believers must cultivate toward Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 954.5800170898438,
-    "end_time": 1015.5400085449219
+    "end_time": 1015.5400085449219,
+    "point_summary": "Forgiveness is named the first of seven benefits in Psalm 103, with verse 3 grounding that benefit in God's readiness to pardon and His removal of transgressions as far as the east is from the west.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 1573.7799682617188,
-    "end_time": 1648.4599914550781
+    "end_time": 1648.4599914550781,
+    "point_summary": "Amid apparent chaos and confusion, God's throne in heaven and His kingdom ruling over all assures believers that He remains sovereign, undefeated, and in complete control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2285,7 +2699,9 @@
     "is_implicit": true,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 2432.5599822998047,
-    "end_time": 2511.8399810791016
+    "end_time": 2511.8399810791016,
+    "point_summary": "Psalm 78 is cited as the scriptural answer to how a future generation is kept from forsaking God—by rehearsing His benefits and declaring His goodness to those who come after.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2296,7 +2712,9 @@
     "is_implicit": true,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 2432.5599822998047,
-    "end_time": 2511.8399810791016
+    "end_time": 2511.8399810791016,
+    "point_summary": "Forgetting God's benefits across generations—illustrated by Israel in Judges and the modern church's youth exodus—is the very danger Psalm 103:2's command to \"forget not\" is meant to guard against.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2307,7 +2725,9 @@
     "is_implicit": true,
     "video_id": "QuP5gIgrnmo",
     "start_time": 1892.8799591064453,
-    "end_time": 1972.8199615478516
+    "end_time": 1972.8199615478516,
+    "point_summary": "Sin is ultimately an offense against God alone, as David's confession in Psalm 51:4 illustrates the vertical nature of transgression that demands repentance and restoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2318,7 +2738,9 @@
     "is_implicit": true,
     "video_id": "QuP5gIgrnmo",
     "start_time": 1892.8799591064453,
-    "end_time": 1972.8199615478516
+    "end_time": 1972.8199615478516,
+    "point_summary": "Psalm 51:10's plea for a clean heart is cited alongside David's confession that his sin was against God alone, illustrating that genuine repentance recognizes sin vertically before it seeks restoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2329,7 +2751,9 @@
     "is_implicit": true,
     "video_id": "Qw84YBHvTq4",
     "start_time": 0.0,
-    "end_time": 63.119998931884766
+    "end_time": 63.119998931884766,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2340,7 +2764,9 @@
     "is_implicit": true,
     "video_id": "qxIieTPfZl0",
     "start_time": 821.0800018310547,
-    "end_time": 880.0799865722656
+    "end_time": 880.0799865722656,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2351,7 +2777,9 @@
     "is_implicit": true,
     "video_id": "R16x_G3i864",
     "start_time": 404.9800109863281,
-    "end_time": 468.8999938964844
+    "end_time": 468.8999938964844,
+    "point_summary": "Inviting the Holy Spirit to search and convict the heart—echoing Psalm 139:23's plea for God to know and examine one's inner life—is presented as a mark of not quenching the Spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "R16x_G3i864",
     "start_time": 404.9800109863281,
-    "end_time": 468.8999938964844
+    "end_time": 468.8999938964844,
+    "point_summary": "Praying Psalm 119:18 as a daily request for the Spirit to open one's eyes to Scripture is presented as an act of actively inviting the Holy Spirit's conviction rather than quenching it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2373,7 +2803,9 @@
     "is_implicit": false,
     "video_id": "R5uUKjkYSvg",
     "start_time": 123.0,
-    "end_time": 184.0
+    "end_time": 184.0,
+    "point_summary": "Psalm 90:10's reference to 70 or 80 years establishes a general boundary for human life, yet the sermon presses that no individual can know where his own finish line actually falls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 1644.3999938964844,
-    "end_time": 1716.9400024414062
+    "end_time": 1716.9400024414062,
+    "point_summary": "Psalm 23 is invoked to illustrate that God's ultimate purpose in discipline is restoration—bringing the wayward one back into the fold, revealing God's heart as a restorer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "RDBub5zwffE",
     "start_time": 1992.7799377441406,
-    "end_time": 2055.0599365234375
+    "end_time": 2055.0599365234375,
+    "point_summary": "Psalm 34:20's prophecy that not a bone of the Messiah would be broken is fulfilled in the soldiers' decision to bypass the leg-breaking of Jesus, who was already dead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "rmcjjZFliXA",
     "start_time": 1735.3599853515625,
-    "end_time": 1801.6800048351288
+    "end_time": 1801.6800048351288,
+    "point_summary": "God's unsearchable greatness is meant to be declared across generations, as families share personal testimonies of His mighty acts so children witness His reality firsthand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "rmcjjZFliXA",
     "start_time": 1735.3599853515625,
-    "end_time": 1801.6800048351288
+    "end_time": 1801.6800048351288,
+    "point_summary": "Each generation bears a responsibility to declare God's mighty works to the next, grounding that testimony in both Scripture and personally witnessed answers to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "rmcjjZFliXA",
     "start_time": 1735.3599853515625,
-    "end_time": 1801.6800048351288
+    "end_time": 1801.6800048351288,
+    "point_summary": "Families bear a responsibility to pass down not only scriptural accounts of God's works but also personal testimonies of answered prayer, so that the next generation sees God as real and active.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "rmcjjZFliXA",
     "start_time": 1735.3599853515625,
-    "end_time": 1801.6800048351288
+    "end_time": 1801.6800048351288,
+    "point_summary": "Families are called to pass down not only biblical accounts of God's works but personal testimonies of answered prayer, so that the next generation sees God as real and mighty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "rss1R93cqX0",
     "start_time": 395.2799987792969,
-    "end_time": 467.82000732421875
+    "end_time": 467.82000732421875,
+    "point_summary": "Creation's omnipotence is demonstrated by the direct correspondence between divine speech and immediate reality — \"he spake and it was done\" — illustrated through Genesis 1's repeated pattern of \"God said\" and \"it was so.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "rss1R93cqX0",
     "start_time": 2374.6399536132812,
-    "end_time": 2449.0599822998047
+    "end_time": 2449.0599822998047,
+    "point_summary": "Creation's dependence on God's spoken word establishes His omnipotence, offered as assurance that the same Creator who spoke the heavens into existence has all power and wisdom to address present difficulties.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2472,7 +2920,9 @@
     "is_implicit": true,
     "video_id": "s8x5TtvlC7M",
     "start_time": 300.5,
-    "end_time": 364.0199890136719
+    "end_time": 364.0199890136719,
+    "point_summary": "David's declaration \"I will declare thy greatness\" in Psalm 145 is used to frame his God-ward perspective in 1 Samuel 17, showing that his words and actions consistently reflected a settled understanding of who God is and what God can do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2932.719970703125,
-    "end_time": 3021.6000080108643
+    "end_time": 3021.6000080108643,
+    "point_summary": "The proper motive for seeking God's intervention is not personal comfort or normalcy, but that His name alone would receive glory—as Psalm 115:1 declares, \"not unto us, but unto thy name give glory.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 255.67999267578125,
-    "end_time": 312.4800109863281
+    "end_time": 312.4800109863281,
+    "point_summary": "God's preservation of his wonderful works in Scripture gives his people a means to rehearse and recall those works, deepening their understanding of his excellence and moving them to praise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 255.67999267578125,
-    "end_time": 312.4800109863281
+    "end_time": 312.4800109863281,
+    "point_summary": "Redemption itself becomes the content of praise, as the new song placed in the psalmist's mouth—drawn from being lifted out of the miry pit—is identified as praise unto God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 255.67999267578125,
-    "end_time": 312.4800109863281
+    "end_time": 312.4800109863281,
+    "point_summary": "God's redemptive act of lifting the psalmist from the miry clay and setting his feet on a rock is the basis for the new song of praise placed in his mouth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2527,7 +2985,9 @@
     "is_implicit": true,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "God's attentiveness in prayer is underscored by contrasting the deaf idols of Baal with the living God who personally hears, making worship a response to assured access rather than unanswered waiting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "The psalmist's declaration \"Thou art my God\" in verse 28 is presented as a personal, relational claim — the same intimacy seen in \"the Lord is my shepherd\" — grounding praise in the assurance that God hears prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "Psalm 118:29's closing doxology is read as the psalmist's personal, assured praise to a God who hears prayer—contrasted with the deaf idols of Baal who could not answer at Carmel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 847.3000183105469,
-    "end_time": 930.7400207519531
+    "end_time": 930.7400207519531,
+    "point_summary": "Psalm 109:26's cry for divine help—\"that they may know that this is thy hand\"—is cited as the psalmist's longing for God to work in ways unmistakably beyond human explanation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2571,7 +3037,9 @@
     "is_implicit": true,
     "video_id": "StOoWZioV1U",
     "start_time": 847.3000183105469,
-    "end_time": 930.7400207519531
+    "end_time": 930.7400207519531,
+    "point_summary": "Genuine prayer expects God to act in ways unmistakably beyond human explanation, because the psalmist's expectation is from God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1120.3800048828125,
-    "end_time": 1183.9800415039062
+    "end_time": 1183.9800415039062,
+    "point_summary": "Having moved from personal experience to communal exhortation, the psalmist's command to trust God \"at all times\" — not merely in favorable moments — is the specific weight the sermon draws from verse 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1422.7200164794922,
-    "end_time": 1500.760009765625
+    "end_time": 1500.760009765625,
+    "point_summary": "Psalm 55:22 is cited alongside 1 Peter 5:7 as Old and New Testament witnesses to God's invitation to cast burdens upon Him, with the assurance He will sustain and care for His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1761.5599975585938,
-    "end_time": 1833.6800422668457
+    "end_time": 1833.6800422668457,
+    "point_summary": "Hannah's example of pouring out her soul before the Lord illustrates Psalm 62:8's call to trust God at all times by bringing personal troubles and difficulties directly to Him in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2615,7 +3089,9 @@
     "is_implicit": true,
     "video_id": "StOoWZioV1U",
     "start_time": 2242.000030517578,
-    "end_time": 2319.5000610351562
+    "end_time": 2319.5000610351562,
+    "point_summary": "God is identified as our refuge—the first of two reasons the psalmist gives for trusting Him and pouring out the heart before Him at all times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 2319.5000610351562,
-    "end_time": 2405.7400732040405
+    "end_time": 2405.7400732040405,
+    "point_summary": "God's omnipotence and mercy are held together in Psalm 62:12, with \"power belongeth unto God\" paired with \"unto Thee belongeth mercy\" as twin assurances for those facing overwhelming storms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2637,7 +3115,9 @@
     "is_implicit": true,
     "video_id": "StOoWZioV1U",
     "start_time": 2319.5000610351562,
-    "end_time": 2405.7400732040405
+    "end_time": 2405.7400732040405,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2648,7 +3128,9 @@
     "is_implicit": false,
     "video_id": "tfcDQLfGdd8",
     "start_time": 1556.4800415039062,
-    "end_time": 1626.6400451660156
+    "end_time": 1626.6400451660156,
+    "point_summary": "Psalm 121:1's confession that help comes from the Lord, the Creator and Sustainer of all things, grounds the call for total dependence on God in spiritual battle rather than human strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2659,7 +3141,9 @@
     "is_implicit": true,
     "video_id": "tfcDQLfGdd8",
     "start_time": 1556.4800415039062,
-    "end_time": 1626.6400451660156
+    "end_time": 1626.6400451660156,
+    "point_summary": "Dependence on the Lord—the Creator and Sustainer of all things named in Psalm 121:2—is the necessary foundation for victory in the spiritual battle believers face.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 457.5400085449219,
-    "end_time": 520.0599975585938
+    "end_time": 520.0599975585938,
+    "point_summary": "Psalm 19:7–11 is invoked as the scriptural backdrop for the principle that obedience to God's preserved, profitable Word leads to blessing, illustrated through Gaius's faithful walk.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2681,7 +3167,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 457.5400085449219,
-    "end_time": 520.0599975585938
+    "end_time": 520.0599975585938,
+    "point_summary": "Psalm 19:7–11's self-description of Scripture as precious and profitable grounds the call to heed its warnings and walk in obedience, a pattern seen throughout God's word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "ua2iS3T_sQE",
     "start_time": 1016.8200073242188,
-    "end_time": 1088.8200073242188
+    "end_time": 1088.8200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2703,7 +3193,9 @@
     "is_implicit": true,
     "video_id": "ua2iS3T_sQE",
     "start_time": 1016.8200073242188,
-    "end_time": 1088.8200073242188
+    "end_time": 1088.8200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2714,7 +3206,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 1462.9200439453125,
-    "end_time": 1537.8000183105469
+    "end_time": 1537.8000183105469,
+    "point_summary": "Amid betrayal and pursuit by enemies, David's persistent praise in Psalm 52:9 — \"I will praise thee\" — illustrates that God's goodness warrants worship regardless of circumstances, whether mountaintop or valley.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 1462.9200439453125,
-    "end_time": 1537.8000183105469
+    "end_time": 1537.8000183105469,
+    "point_summary": "David's persistent praise of God amid life-threatening betrayal by the Ziphites models the sermon's call to praise God unconditionally—on the mountaintop and in the valley—because His goodness never changes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2736,7 +3232,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 1996.3999938964844,
-    "end_time": 2069.8399963378906
+    "end_time": 2069.8399963378906,
+    "point_summary": "The purity and truthfulness declared in Psalm 33:4 confirm that Scripture's historical records—including the words of Sennacherib and the events of Genesis 3—are a reliable, trustworthy account.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2747,7 +3245,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2213.6000061035156,
-    "end_time": 2287.6000061035156
+    "end_time": 2287.6000061035156,
+    "point_summary": "Scripture's perfection and authority flow directly from its divine origin—because God cannot lie or err, the law He has given is itself perfect, sure, right, pure, and true altogether.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2758,7 +3258,9 @@
     "is_implicit": true,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2437.759998321533,
-    "end_time": 2519.1399993896484
+    "end_time": 2519.1399993896484,
+    "point_summary": "Scripture's warnings serve the believer's good, and heeding them brings great reward from the same God whose authority stands behind every word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2769,7 +3271,9 @@
     "is_implicit": true,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2437.759998321533,
-    "end_time": 2519.1399993896484
+    "end_time": 2519.1399993896484,
+    "point_summary": "Meditating on Scripture day and night—as commanded in Joshua 1 and echoed in Psalm 1:2—is the path to prosperity and success precisely because the book being meditated upon is God's own inspired Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2780,7 +3284,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2667.8200073242188,
-    "end_time": 2751.540008544922
+    "end_time": 2751.540008544922,
+    "point_summary": "Scripture's eternal permanence—\"Forever, O Lord, thy word is settled in heaven\"—is cited as evidence that the Bible will endure when heaven and earth pass away.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2791,7 +3297,9 @@
     "is_implicit": false,
     "video_id": "uy4CGijVawo",
     "start_time": 614.7600002288818,
-    "end_time": 679.8399963378906
+    "end_time": 679.8399963378906,
+    "point_summary": "Unconfessed sin hinders fellowship with God, as Psalm 66:18 warns that regarding iniquity in the heart causes the Lord not to hear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2802,7 +3310,9 @@
     "is_implicit": true,
     "video_id": "U_xKQPutdso",
     "start_time": 1238.3399810791016,
-    "end_time": 1299.2599792480469
+    "end_time": 1299.2599792480469,
+    "point_summary": "Psalm 119:11 is cited to show that God's Word hidden in the heart—the inner reality behind Deuteronomy 6:6 and 6:8—is the means by which sin is guarded against.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2813,7 +3323,9 @@
     "is_implicit": false,
     "video_id": "v93DvI0bY10",
     "start_time": 1777.3400268554688,
-    "end_time": 1852.3800010681152
+    "end_time": 1852.3800010681152,
+    "point_summary": "God's identity as refuge—the ground of biblical hope—is reinforced by Psalm 46:1, connecting the Hebrews 6 call to \"flee for refuge\" with the psalmist's declaration that God is a very present help in trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2824,7 +3336,9 @@
     "is_implicit": false,
     "video_id": "v93DvI0bY10",
     "start_time": 1777.3400268554688,
-    "end_time": 1852.3800010681152
+    "end_time": 1852.3800010681152,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2835,7 +3349,9 @@
     "is_implicit": false,
     "video_id": "VAwhGyZS5VU",
     "start_time": 1869.6400299072266,
-    "end_time": 1941.280029296875
+    "end_time": 1941.280029296875,
+    "point_summary": "Psalm 19:11 is introduced as a parallel witness to Joshua 1:8, reinforcing that obedience to God's Word yields true prosperity and success, measured by Scripture rather than material wealth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2846,7 +3362,9 @@
     "is_implicit": false,
     "video_id": "vbzVT4V_Mu8",
     "start_time": 189.9600067138672,
-    "end_time": 251.52000427246094
+    "end_time": 251.52000427246094,
+    "point_summary": "Psalm 118:24 is cited to show that rejoicing is a deliberate, unconditional decision—\"we will rejoice\"—not a response contingent on circumstances, directly reinforcing the command to rejoice at all times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 185.0,
-    "end_time": 252.13999938964844
+    "end_time": 252.13999938964844,
+    "point_summary": "Psalm 139:13 is read as the scriptural witness to the wonder of human reproduction — the ongoing miracle by which God's original creative order, established in Adam and Eve, continues in every subsequent life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 576.0399780273438,
-    "end_time": 638.5399703979492
+    "end_time": 638.5399703979492,
+    "point_summary": "Psalm 139:13–18 is read as describing not the original creation of Adam and Eve but the wonder of subsequent human reproduction, extending God's direct creative work to every person conceived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 848.7399749755859,
-    "end_time": 932.6799621582031
+    "end_time": 932.6799621582031,
+    "point_summary": "God's formation of each person in the womb — from embryo (the single Hebrew word behind \"substance yet being unperfect\") to fully developed body — grounds the declaration that life begins at conception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2890,7 +3414,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 848.7399749755859,
-    "end_time": 932.6799621582031
+    "end_time": 932.6799621582031,
+    "point_summary": "God's intricate craftsmanship in forming the human body — described as \"curiously wrought,\" language drawn from skilled embroidery — takes place in the mother's womb, establishing conception as the origin of God-made life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2901,7 +3427,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 848.7399749755859,
-    "end_time": 932.6799621582031
+    "end_time": 932.6799621582031,
+    "point_summary": "Human life's origin in the womb, confirmed by the Hebrew word for embryo appearing uniquely in this passage, grounds the declaration that life begins at conception and that God is its maker.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2912,7 +3440,9 @@
     "is_implicit": true,
     "video_id": "vKHVCmdNlu0",
     "start_time": 2130.8999938964844,
-    "end_time": 2212.1799926757812
+    "end_time": 2212.1799926757812,
+    "point_summary": "The declaration \"I am fearfully and wonderfully made\" is grounded in God's valuing love, demonstrated ultimately in Christ dying for sinners who were his enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2923,7 +3453,9 @@
     "is_implicit": false,
     "video_id": "vKHVCmdNlu0",
     "start_time": 2292.8199768066406,
-    "end_time": 2375.3800048828125
+    "end_time": 2375.3800048828125,
+    "point_summary": "Psalm 139's account of God knowing the internal organs, skeletal structure, and embryo from conception grounds the conviction that human life bears inherent value because it is made in God's image.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2934,7 +3466,9 @@
     "is_implicit": false,
     "video_id": "vrOSuRckXw0",
     "start_time": 660.8399810791016,
-    "end_time": 729.9599761962891
+    "end_time": 729.9599761962891,
+    "point_summary": "God's role as personal shield is underscored by the identical Hebrew word linking \"shield\" in Psalm 3:3 and \"buckler\" in Psalm 18, establishing that David's confession is a repeated, personal declaration of divine protection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "vrOSuRckXw0",
     "start_time": 797.3199768066406,
-    "end_time": 877.1999816894531
+    "end_time": 877.1999816894531,
+    "point_summary": "Knowing who God is produces trust, and trust produces praise — the psalmist's helped heart overflows in rejoicing and song as the direct result of that confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2956,7 +3492,9 @@
     "is_implicit": false,
     "video_id": "vrOSuRckXw0",
     "start_time": 797.3199768066406,
-    "end_time": 877.1999816894531
+    "end_time": 877.1999816894531,
+    "point_summary": "Knowing who God is produces trust and praise, so that the soul waits on the Lord as its help and shield—a response the sermon illustrates by gathering multiple psalms around this theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2967,7 +3505,9 @@
     "is_implicit": false,
     "video_id": "vrOSuRckXw0",
     "start_time": 946.7999877929688,
-    "end_time": 1020.0399780273438
+    "end_time": 1020.0399780273438,
+    "point_summary": "Psalm 23:1's declaration of the Lord as shepherd points not only to His provision but equally to His protection of the flock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2978,7 +3518,9 @@
     "is_implicit": true,
     "video_id": "w1BfKif_BvI",
     "start_time": 1584.3999938964844,
-    "end_time": 1648.8800048828125
+    "end_time": 1648.8800048828125,
+    "point_summary": "Because every day of physical life is a gift from God, Psalm 118:24's declaration that \"this is the day the Lord hath made\" becomes a deliberate choice to rejoice rather than live under circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -2989,7 +3531,9 @@
     "is_implicit": false,
     "video_id": "WBmULZEQcX8",
     "start_time": 1777.7799682617188,
-    "end_time": 1842.6199989318848
+    "end_time": 1842.6199989318848,
+    "point_summary": "God's omniscience carries moral weight: because He sees all things, His love of righteousness and hatred of wickedness mean hidden sin cannot escape a God who is not indifferent to what He observes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3000,7 +3544,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 58.400001525878906,
-    "end_time": 123.5999984741211
+    "end_time": 123.5999984741211,
+    "point_summary": "Psalm 119:126's cry — \"It is time for thee, Lord, to work\" — is used as a springboard connecting Israel's desperate circumstances in 1 Samuel 14 to the timeless plea of God's people for divine intervention.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3011,7 +3557,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 756.1200103759766,
-    "end_time": 826.1600189208984
+    "end_time": 826.1600189208984,
+    "point_summary": "Obedience to God's Word carries both a warning function and a promised reward — the very motivation the psalmist identifies in Psalm 19:11 as driving a servant who keeps God's statutes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3022,7 +3570,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 1084.5599975585938,
-    "end_time": 1156.3599853515625
+    "end_time": 1156.3599853515625,
+    "point_summary": "Even troubles that are self-inflicted or externally imposed find the same resolution: the Lord hears the cry of the poor man and saves him out of all his troubles.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3033,7 +3583,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 440.29998779296875,
-    "end_time": 499.739990234375
+    "end_time": 499.739990234375,
+    "point_summary": "Psalm 23:1's declaration of the Lord as shepherd is cited as a personal, joyful counterpart to 1 Peter 2's image of straying sheep now returned to their shepherd.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3044,7 +3596,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 0.0,
-    "end_time": 64.23999786376953
+    "end_time": 64.23999786376953,
+    "point_summary": "Psalm 48 serves as the congregation's year-long theme song, anchoring the series premise that God's greatness is both knowable and inexhaustibly beyond full comprehension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3055,7 +3609,9 @@
     "is_implicit": true,
     "video_id": "XXBT17UK3Ck",
     "start_time": 189.17999267578125,
-    "end_time": 246.94000244140625
+    "end_time": 246.94000244140625,
+    "point_summary": "Psalm 110:4's declaration of a priest \"after the order of Melchizedek\" is presented as a messianic prophecy fulfilled in Christ, whose sinless, eternal priesthood surpasses the mortal, sin-bound Levitical priests.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3066,7 +3622,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 529.260009765625,
-    "end_time": 600.0999755859375
+    "end_time": 600.0999755859375,
+    "point_summary": "Psalm 37 is presented as offering practical \"indicators\" by which believers can align their own will with God's will, directly informing how \"Thy will be done\" becomes a lived reality in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3077,7 +3635,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 600.0999755859375,
-    "end_time": 665.0999755859375
+    "end_time": 665.0999755859375,
+    "point_summary": "Psalm 37:3–7 is read as a cluster of four practical indicators—trust, delight, commit, and rest—by which believers progressively align their own will with God's will in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3088,7 +3648,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 600.0999755859375,
-    "end_time": 665.0999755859375
+    "end_time": 665.0999755859375,
+    "point_summary": "Psalm 37:4's promise that God gives the desires of the heart is frequently misread in isolation; the full verse conditions that gift on first delighting oneself in the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3099,7 +3661,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 600.0999755859375,
-    "end_time": 665.0999755859375
+    "end_time": 665.0999755859375,
+    "point_summary": "Committing one's way to the Lord and trusting Him is presented as a key indicator for aligning human will with God's will, in answer to the prayer \"Thy will be done.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3110,7 +3674,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 600.0999755859375,
-    "end_time": 665.0999755859375
+    "end_time": 665.0999755859375,
+    "point_summary": "Psalm 37:6 is cited as one of four practical \"nuggets\" from Psalm 37:3–7 showing how believers can align their will with God's will in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3121,7 +3687,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 600.0999755859375,
-    "end_time": 665.0999755859375
+    "end_time": 665.0999755859375,
+    "point_summary": "Psalm 37:3–7 is read as a cluster of four practical indicators—trust, delight, commit, and rest—by which believers progressively align their own will with God's will in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3132,7 +3700,9 @@
     "is_implicit": true,
     "video_id": "YCUS9wAR_oA",
     "start_time": 1673.6999816894531,
-    "end_time": 1749.97998046875
+    "end_time": 1749.97998046875,
+    "point_summary": "God's way being perfect (Ps. 18:30) grounds the call to align human will with God's will, especially amid hardships where God proves Himself and displays His glory to onlookers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3143,7 +3713,9 @@
     "is_implicit": false,
     "video_id": "yKUQA_1zUE4",
     "start_time": 2230.1600341796875,
-    "end_time": 2284.8400268554688
+    "end_time": 2284.8400268554688,
+    "point_summary": "The deliberate repetition of \"his mercy endureth forever\" throughout Psalm 136 is cited as evidence that God wastes no words—every repetition is intentional, carrying weight God wanted his people to feel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3154,7 +3726,9 @@
     "is_implicit": false,
     "video_id": "ySO43c7buHk",
     "start_time": 1132.1200561523438,
-    "end_time": 1198.4600219726562
+    "end_time": 1198.4600219726562,
+    "point_summary": "Because the psalmist's declaration in verse 10 flows directly from his descriptions of Scripture's perfections in verses 7–9, God's Word is shown to be more desirable than gold and sweeter than honey.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3165,7 +3739,9 @@
     "is_implicit": false,
     "video_id": "ySO43c7buHk",
     "start_time": 1132.1200561523438,
-    "end_time": 1198.4600219726562
+    "end_time": 1198.4600219726562,
+    "point_summary": "Obedience to God's Word should be met with the exuberant joy of one who discovers great spoil — a delight surpassing even the pursuit of material wealth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3176,7 +3752,9 @@
     "is_implicit": false,
     "video_id": "YSyHF-jDiT4",
     "start_time": 495.9800109863281,
-    "end_time": 566.0999755859375
+    "end_time": 566.0999755859375,
+    "point_summary": "Psalm 100's call to \"enter into his gates with thanksgiving\" grounds the sermon's argument that God's daily benefits, promises, and revealed character supply the believer with every reason to give thanks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3187,7 +3765,9 @@
     "is_implicit": true,
     "video_id": "YtBFmhBhoH8",
     "start_time": 1282.979995727539,
-    "end_time": 1368.1399993896484
+    "end_time": 1368.1399993896484,
+    "point_summary": "Psalm 23:1's image of the Lord as shepherd illustrates that it is the sheep—God's people—who wander astray, not the shepherd who abandons them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3198,7 +3778,9 @@
     "is_implicit": true,
     "video_id": "ZC_MAQIC08o",
     "start_time": 116.27999877929688,
-    "end_time": 180.02000427246094
+    "end_time": 180.02000427246094,
+    "point_summary": "Entering God's presence with thanksgiving and praise—drawn from Psalm 100:4—is identified as the defining characteristic of God's people's behavior in the church house.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3209,7 +3791,9 @@
     "is_implicit": false,
     "video_id": "ZC_MAQIC08o",
     "start_time": 116.27999877929688,
-    "end_time": 180.02000427246094
+    "end_time": 180.02000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3220,7 +3804,9 @@
     "is_implicit": false,
     "video_id": "ZMOJR5ueEkc",
     "start_time": 1663.5799560546875,
-    "end_time": 1716.5799560546875
+    "end_time": 1716.5799560546875,
+    "point_summary": "Sin harbored in the heart hinders answered prayer, illustrating why unconfessed sin breaks fellowship with God rather than severing salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3231,7 +3817,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1271.9200286865234,
-    "end_time": 1348.1200256347656
+    "end_time": 1348.1200256347656,
+    "point_summary": "David's appeal in Psalm 51:1 grounds his confession not in his own merit but in God's lovingkindness and tender mercies as the sole basis for blotting out transgression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3242,7 +3830,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 1997.5800018310547,
-    "end_time": 2055.779998779297
+    "end_time": 2055.779998779297,
+    "point_summary": "Psalm 73 is cited to show that God guides believers with counsel throughout their entire lives and then personally receives them into glory when His plan for them is complete.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3253,7 +3843,9 @@
     "is_implicit": true,
     "video_id": "14-YoafCO5U",
     "start_time": 1065.6199951171875,
-    "end_time": 1128.0999755859375
+    "end_time": 1128.0999755859375,
+    "point_summary": "Psalm 90's teaching that a day is as a thousand years and a thousand years as a day establishes that God exists outside of time, explaining why \"shortly\" in Revelation need not mean immediate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3264,7 +3856,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1849.2800331115723,
-    "end_time": 1920.420036315918
+    "end_time": 1920.420036315918,
+    "point_summary": "Memorials exist not as relics but as generational teaching instruments, so that the mighty works of God are passed down and the fear of the Lord endures from one generation to the next.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3275,7 +3869,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1849.2800331115723,
-    "end_time": 1920.420036315918
+    "end_time": 1920.420036315918,
+    "point_summary": "Memorials exist not as relics but as generational teaching instruments, with Psalm 78:2's \"dark sayings of old\" framing the passing of God's mighty works from fathers to children as the very purpose Joshua's stones were meant to serve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3286,7 +3882,9 @@
     "is_implicit": false,
     "video_id": "_LYcdJO7GfA",
     "start_time": 863.4200134277344,
-    "end_time": 926.9800109863281
+    "end_time": 926.9800109863281,
+    "point_summary": "Psalm 40:6–8, quoted in Hebrews 10:5–9, reveals that God's rejection of animal sacrifices and Christ's incarnate obedience were always the predetermined plan for redeeming humanity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3297,7 +3895,9 @@
     "is_implicit": false,
     "video_id": "mbmoiMlUtYA",
     "start_time": 1315.160011291504,
-    "end_time": 1377.760009765625
+    "end_time": 1377.760009765625,
+    "point_summary": "Psalm 119:129's declaration that God's testimonies are \"wonderful\" grounds the psalmist's soul-keeping of them, illustrating that accepting Scripture as authoritative is the necessary foundation for aligning behavior with and applying the Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3308,7 +3908,9 @@
     "is_implicit": true,
     "video_id": "mbmoiMlUtYA",
     "start_time": 1315.160011291504,
-    "end_time": 1377.760009765625
+    "end_time": 1377.760009765625,
+    "point_summary": "Psalm 119:129's declaration that God's testimonies are \"wonderful\" illustrates the psalmist's acceptance of Scripture as authoritative—the necessary foundation before one will align behavior with and apply the Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3319,7 +3921,9 @@
     "is_implicit": true,
     "video_id": "mbmoiMlUtYA",
     "start_time": 1891.5200271606445,
-    "end_time": 1965.8800201416016
+    "end_time": 1965.8800201416016,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3330,7 +3934,9 @@
     "is_implicit": false,
     "video_id": "mbmoiMlUtYA",
     "start_time": 2253.9200134277344,
-    "end_time": 2318.9000244140625
+    "end_time": 2318.9000244140625,
+    "point_summary": "The \"blessed man\" of Psalm 1:1 is marked by a warned-against progression — walking with, then standing with, then sitting among the ungodly — showing how gradual compromise with the wrong crowd leads to full identification with it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3341,7 +3947,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 1430.8800048828125,
-    "end_time": 1497.3200073242188
+    "end_time": 1497.3200073242188,
+    "point_summary": "The assurance of dwelling in the Lord's house forever (v. 6) rests entirely on the prior personal claim of v. 1—one can only say the first if one can genuinely say the Lord is *my* shepherd.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3352,7 +3960,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 1430.8800048828125,
-    "end_time": 1497.3200073242188
+    "end_time": 1497.3200073242188,
+    "point_summary": "The promise of dwelling in the Lord's house forever (v. 6) is inseparable from the personal claim of v. 1—only those who can say \"the Lord is my shepherd\" can claim that eternal dwelling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3363,7 +3973,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 802.8600006103516,
-    "end_time": 886.6000061035156
+    "end_time": 886.6000061035156,
+    "point_summary": "Serving the Lord with gladness, as commanded in Psalm 100:2, is grounded in remembering the great things God has done, supremely the salvation of the soul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3374,7 +3986,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 802.8600006103516,
-    "end_time": 886.6000061035156
+    "end_time": 886.6000061035156,
+    "point_summary": "Psalm 84:9–10 is cited to frame the psalmist's perspective that even the humblest place in God's presence surpasses any dwelling outside it, grounding the call to serve the Lord with wholehearted devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3385,7 +3999,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 802.8600006103516,
-    "end_time": 886.6000061035156
+    "end_time": 886.6000061035156,
+    "point_summary": "A single day in God's courts surpasses a thousand elsewhere, making even the humblest service to the Lord more desirable than dwelling among the wicked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3396,7 +4012,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 802.8600006103516,
-    "end_time": 886.6000061035156
+    "end_time": 886.6000061035156,
+    "point_summary": "God withholds no good thing from those who walk uprightly, grounding the call to serve the Lord in His proven generosity toward His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3407,7 +4025,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 802.8600006103516,
-    "end_time": 886.6000061035156
+    "end_time": 886.6000061035156,
+    "point_summary": "Serving the Lord is grounded in trust that God withholds no good thing from those who walk uprightly, making even the humblest place in His courts more desirable than dwelling among the wicked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3418,7 +4038,9 @@
     "is_implicit": false,
     "video_id": "rXhiTENJuQQ",
     "start_time": 1573.3000183105469,
-    "end_time": 1649.8600158691406
+    "end_time": 1649.8600158691406,
+    "point_summary": "Fullness of joy is found specifically in God's presence, a fellowship that can be hindered by sin even for the saved, distinct from the security of salvation itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3429,7 +4051,9 @@
     "is_implicit": false,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1377.3999938964844,
-    "end_time": 1456.1599884033203
+    "end_time": 1456.1599884033203,
+    "point_summary": "Psalm 34:1's declaration of unceasing blessing is brought alongside James 1:16–18 to illustrate the fitting response to God as the unchanging source and giver of every good gift.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3440,7 +4064,9 @@
     "is_implicit": false,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1377.3999938964844,
-    "end_time": 1456.1599884033203
+    "end_time": 1456.1599884033203,
+    "point_summary": "Boasting in the Lord—not in self—is the posture Psalm 34:2 models, illustrating the God-centered exaltation James calls believers to as they recognize God as the source of every good gift.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3451,7 +4077,9 @@
     "is_implicit": false,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1377.3999938964844,
-    "end_time": 1456.1599884033203
+    "end_time": 1456.1599884033203,
+    "point_summary": "Psalm 34:3 is cited as a call to corporate exaltation, illustrating James's corrective aim that God's people recognize and magnify Him as the source and giver of all good things.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3462,7 +4090,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1519.6600036621094,
-    "end_time": 1590.9400024414062
+    "end_time": 1590.9400024414062,
+    "point_summary": "Psalm 34:1's movement from personal praise (\"I will bless the Lord at all times\") to corporate exaltation in verse 3 illustrates the proper perspective toward God that guards believers from erring.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3473,7 +4103,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1519.6600036621094,
-    "end_time": 1590.9400024414062
+    "end_time": 1590.9400024414062,
+    "point_summary": "Personal praise naturally expands into corporate worship, as the psalmist's individual vow to bless the Lord at all times moves in verse 3 to an invitation for others to magnify and exalt Him together.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3484,7 +4116,9 @@
     "is_implicit": true,
     "video_id": "aMhTQy-Fsac",
     "start_time": 2469.099998474121,
-    "end_time": 2532.6199951171875
+    "end_time": 2532.6199951171875,
+    "point_summary": "Creation's testimony to God's existence is cited as one of three witnesses—alongside conscience and Scripture—that \"lighten every man\" in connection with John 1:9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3495,7 +4129,9 @@
     "is_implicit": false,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 580.4400024414062,
-    "end_time": 646.9999771118164
+    "end_time": 646.9999771118164,
+    "point_summary": "The deaths of tribulation-era martyrs, whose blood is poured out under the altar, are declared precious in God's sight, grounding their martyrdom within the Old Testament sacrificial framework.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3506,7 +4142,9 @@
     "is_implicit": true,
     "video_id": "CXZQVH0uWS0",
     "start_time": 120.4000015258789,
-    "end_time": 184.9600067138672
+    "end_time": 184.9600067138672,
+    "point_summary": "God's Word is settled, unchanging, and complete—needing no revision, addition, or subtraction—making it the reliable standard against which all false teaching must be measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3517,7 +4155,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "God's incomparability—\"there is none like unto Thee, O Lord\"—grounds the sermon's call to rejoice in a God who is both omnipotent and omniscient, knowing what to do and having the power to do it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3528,7 +4168,9 @@
     "is_implicit": false,
     "video_id": "CckF-My3-to",
     "start_time": 530.3599853515625,
-    "end_time": 592.760009765625
+    "end_time": 592.760009765625,
+    "point_summary": "Finishing well requires daily commitment, framed by the psalmist's resolve in Psalm 119:112 to keep God's statutes \"unto the end\" — a lifelong, not merely initial, obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3539,7 +4181,9 @@
     "is_implicit": false,
     "video_id": "CckF-My3-to",
     "start_time": 530.3599853515625,
-    "end_time": 592.760009765625
+    "end_time": 592.760009765625,
+    "point_summary": "Finishing well requires divine instruction, as the psalmist's plea—\"Teach me, O Lord\"—reveals a desire not merely to begin but to keep God's statutes unto the end.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3550,7 +4194,9 @@
     "is_implicit": false,
     "video_id": "CckF-My3-to",
     "start_time": 1615.2599487304688,
-    "end_time": 1679.3799438476562
+    "end_time": 1679.3799438476562,
+    "point_summary": "The psalmist's repeated petitions to be taught and to perform unto the end illustrate the same deliberate, daily purpose Paul embodied in finishing his course well.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3561,7 +4207,9 @@
     "is_implicit": true,
     "video_id": "CckF-My3-to",
     "start_time": 1615.2599487304688,
-    "end_time": 1679.3799438476562
+    "end_time": 1679.3799438476562,
+    "point_summary": "Finishing well requires daily, deliberate purpose—the psalmist's resolve to \"perform unto the end\" illustrating that such commitment must be intentional, not accidental.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3572,7 +4220,9 @@
     "is_implicit": true,
     "video_id": "CckF-My3-to",
     "start_time": 1615.2599487304688,
-    "end_time": 1679.3799438476562
+    "end_time": 1679.3799438476562,
+    "point_summary": "Finishing well requires daily, deliberate purpose—like the psalmist's resolve in Psalm 119:112 to perform God's statutes unto the end, not merely to finish but to finish well.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3583,7 +4233,9 @@
     "is_implicit": true,
     "video_id": "CckF-My3-to",
     "start_time": 2120.7999877929688,
-    "end_time": 2192.6799926757812
+    "end_time": 2192.6799926757812,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3594,7 +4246,9 @@
     "is_implicit": false,
     "video_id": "KkcM-CWB5g0",
     "start_time": 2425.9599895477295,
-    "end_time": 2530.1399841308594
+    "end_time": 2530.1399841308594,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Psalm",
@@ -3605,6 +4259,8 @@
     "is_implicit": false,
     "video_id": "LE1qkzND4b0",
     "start_time": 344.55999755859375,
-    "end_time": 405.20001220703125
+    "end_time": 405.20001220703125,
+    "point_summary": "Psalm 81:7's language of God \"proving\" Israel at Meribah illuminates the meaning of \"temptations\" in James 1:2 as trials that test and refine, like a metalworker proving precious metals.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

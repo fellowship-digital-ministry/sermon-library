@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 1431.5,
-    "end_time": 1497.7799987792969
+    "end_time": 1497.7799987792969,
+    "point_summary": "Faithfulness to God does not exempt believers from adversity, as illustrated by the prophet Hanani's confrontation with King Asa over his misplaced reliance on Syria rather than the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 1561.7400207519531,
-    "end_time": 1623.7400207519531
+    "end_time": 1623.7400207519531,
+    "point_summary": "God's eyes continuously search the earth to strengthen those whose hearts are fully devoted to Him — a principle Asa forfeited by trusting Syria instead of the Lord, resulting in judgment rather than deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 1745.8599853515625,
-    "end_time": 1821.4399795532227
+    "end_time": 1821.4399795532227,
+    "point_summary": "2 Chronicles 24 illustrates that Joash's obedience depended entirely on Jehoiada's influence rather than a personal walk with God, warning that borrowed faith cannot substitute for one's own relationship with Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 1950.5799865722656,
-    "end_time": 2017.4399871826172
+    "end_time": 2017.4399871826172,
+    "point_summary": "God's faithfulness in sending messengers is met with violent rejection, as Zechariah—son of the very man who shaped Joash—was stoned at the king's command for delivering an unwelcome word of rebuke.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 1950.5799865722656,
-    "end_time": 2017.4399871826172
+    "end_time": 2017.4399871826172,
+    "point_summary": "Zechariah's murder by stoning—ordered by Joash himself, the very king Zechariah's father had shaped—illustrates that faithfulness to deliver God's message can cost the messenger his life, even at the hands of those closest to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 881.6200256347656,
-    "end_time": 947.0800170898438
+    "end_time": 947.0800170898438,
+    "point_summary": "Jehoshaphat's example illustrates the second purpose of learning—dissemination of truth—as his heart lifted up in God's ways moved him to spread that truth throughout Judah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 947.0800170898438,
-    "end_time": 1013.9200134277344
+    "end_time": 1013.9200134277344,
+    "point_summary": "Jehoshaphat's heart being \"lifted up in the ways of the Lord\" illustrates that personal devotion to God's ways naturally overflows into the dissemination of truth to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 947.0800170898438,
-    "end_time": 1013.9200134277344
+    "end_time": 1013.9200134277344,
+    "point_summary": "Jehoshaphat's commissioning of teachers to instruct throughout Judah's cities illustrates that learning truth carries the responsibility of disseminating it to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "6as6Bz2amJY",
     "start_time": 402.8599853515625,
-    "end_time": 464.6600036621094
+    "end_time": 464.6600036621094,
+    "point_summary": "Claiming God's promises in prayer—illustrated by how Israel's kings returned to 2 Chronicles 7:14—is presented as the proper response when God's people face difficulty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 2266.479949951172,
-    "end_time": 2356.9199829101562
+    "end_time": 2356.9199829101562,
+    "point_summary": "Uzziah's prosperity is traced directly to his seeking God, establishing the principle that sustained blessing flows from sustained seeking—and that prosperity itself becomes the danger point where self-sufficiency replaces dependence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1648.239990234375,
-    "end_time": 1704.5599975585938
+    "end_time": 1704.5599975585938,
+    "point_summary": "God's conditional promise of revival in 2 Chronicles 7:14 is set alongside the judgment warnings of verses 19–22 to demonstrate that God's justice falls impartially even upon his own covenant people Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1648.239990234375,
-    "end_time": 1704.5599975585938
+    "end_time": 1704.5599975585938,
+    "point_summary": "God's judgment falls impartially on His own covenant people Israel for forsaking His statutes, demonstrating that divine justice is no respecter of persons, even toward those bearing His name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2111.199981689453,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "God's persistent mercy in sending messengers is shown to have limits: when Israel mocked and despised those prophets, divine patience gave way to judgment with no remedy remaining.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2111.199981689453,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "God's patience with Israel—expressed through repeated prophetic warnings sent in compassion—was not inexhaustible; persistent rejection of those messengers brought a point of no remedy where divine wrath could no longer be stayed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 326.8399963378906,
-    "end_time": 388.8399963378906
+    "end_time": 388.8399963378906,
+    "point_summary": "Uzziah's early prosperity is traced directly to his seeking God, illustrating that divine blessing follows humble dependence on the Lord—a pattern soon shattered by pride.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 326.8399963378906,
-    "end_time": 388.8399963378906
+    "end_time": 388.8399963378906,
+    "point_summary": "God's help to Uzziah in verse 7 is set as the foundation of his prosperity, making his later pride all the more tragic by contrast.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 326.8399963378906,
-    "end_time": 388.8399963378906
+    "end_time": 388.8399963378906,
+    "point_summary": "Uzziah's exceedingly strengthened position, granted by God's help, sets the stage for the pride that followed—illustrating how prosperity given by God can become the very occasion for forgetting its source.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 388.8399963378906,
-    "end_time": 451.55999755859375
+    "end_time": 451.55999755859375,
+    "point_summary": "Uzziah's prosperity, divinely given, became the very occasion for pride — his heart lifted up \"till he was strong\" — illustrating how fleshly self-exaltation follows recognition and success.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 388.8399963378906,
-    "end_time": 451.55999755859375
+    "end_time": 451.55999755859375,
+    "point_summary": "Uzziah's trajectory from God-given prosperity to pride-driven destruction illustrates how strength and recognition, if unchecked, lift the heart up and lead to ruin — a danger common to all flesh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -217,7 +255,9 @@
     "is_implicit": true,
     "video_id": "8OgJllM8BSQ",
     "start_time": 850.4000091552734,
-    "end_time": 922.6799926757812
+    "end_time": 922.6799926757812,
+    "point_summary": "Uzziah's story in 2 Chronicles 26 is cited as a parallel to Nebuchadnezzar's: pride drove him to overstep his God-assigned role, and immediate divine judgment—leprosy—confirmed that pride leads to destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1168.800048828125,
-    "end_time": 1229.4000053405762
+    "end_time": 1229.4000053405762,
+    "point_summary": "Solomon's determined response to build the house of the Lord illustrates that when God's will has been clearly communicated, the only fitting response is firm resolution, not half-hearted intention.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1229.4000053405762,
-    "end_time": 1286.9600067138672
+    "end_time": 1286.9600067138672,
+    "point_summary": "Solomon's determined response to God's revealed will — marshaling tens of thousands of workers — illustrates that true resolution is not half-hearted effort but settled, purposeful action in obedience to a known divine calling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1286.9600067138672,
-    "end_time": 1346.1800079345703
+    "end_time": 1346.1800079345703,
+    "point_summary": "Solomon's determined response to God's revealed will—immediately mobilizing resources and workers—is held up as a model of resolute, wholehearted obedience rather than tentative, half-hearted effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1286.9600067138672,
-    "end_time": 1346.1800079345703
+    "end_time": 1346.1800079345703,
+    "point_summary": "Solomon's determined resolve to build a house dedicated to God's name—marked by worship, offerings, and perpetual ordinance—is presented as the model response when God's revealed purpose is clearly understood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1286.9600067138672,
-    "end_time": 1346.1800079345703
+    "end_time": 1346.1800079345703,
+    "point_summary": "Solomon's determination to build is tempered by humility, as his declaration that \"the house which I build is great\" is grounded not in self-confidence but in the surpassing greatness of God above all gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1286.9600067138672,
-    "end_time": 1346.1800079345703
+    "end_time": 1346.1800079345703,
+    "point_summary": "Even the grandest earthly temple cannot contain God, a reality Solomon confesses in humility, recognizing that the greatness of the task demands reverence toward the One no house can hold.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1346.1800079345703,
-    "end_time": 1427.5400085449219
+    "end_time": 1427.5400085449219,
+    "point_summary": "Solomon's declaration that the house he builds is great *because* God is great frames the entire building project as an act of humility and reverence before One too vast for any structure to contain.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1346.1800079345703,
-    "end_time": 1427.5400085449219
+    "end_time": 1427.5400085449219,
+    "point_summary": "Solomon's rhetorical question — \"who am I that I should build him a house, seeing the heaven of heavens cannot contain him?\" — frames temple service not as human achievement but as humble privilege granted by a God too great to be housed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1427.5400085449219,
-    "end_time": 1488.6199951171875
+    "end_time": 1488.6199951171875,
+    "point_summary": "Solomon's response to the call to build demonstrates understanding — he knew what resources were needed and moved with determination to secure skilled craftsmen and materials for God's house.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1427.5400085449219,
-    "end_time": 1488.6199951171875
+    "end_time": 1488.6199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -338,7 +398,9 @@
     "is_implicit": true,
     "video_id": "987NUYE7IME",
     "start_time": 1488.6199951171875,
-    "end_time": 1554.760009765625
+    "end_time": 1554.760009765625,
+    "point_summary": "Solomon's response in 2 Chronicles 2 is presented as evidence that he received and acted on the wisdom and understanding David had prayed God would give him in 1 Chronicles 22:12.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1488.6199951171875,
-    "end_time": 1554.760009765625
+    "end_time": 1554.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1554.760009765625,
-    "end_time": 1634.9200134277344
+    "end_time": 1634.9200134277344,
+    "point_summary": "2 Chronicles 3:1 marks the decisive transition from all prior planning and preparation to actual commencement, illustrating that God's charge to \"arise and be doing\" demands action, not endless planning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1554.760009765625,
-    "end_time": 1634.9200134277344
+    "end_time": 1634.9200134277344,
+    "point_summary": "The date recorded in 2 Chronicles 3:2 marks the moment preparation gave way to action — the point where planning ended and the actual work of building the house of the Lord commenced.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1634.9200134277344,
-    "end_time": 1698.0
+    "end_time": 1698.0,
+    "point_summary": "Second Chronicles 2 represents a stage of continued preparation and gathering of materials and workers that preceded the actual commencement of building, illustrating that embracing an assignment moves from planning into engaged action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1634.9200134277344,
-    "end_time": 1698.0
+    "end_time": 1698.0,
+    "point_summary": "2 Chronicles 3:1–2 marks the decisive transition from preparation to action, as Solomon's commencement of building illustrates that embracing God's assignment must move beyond planning into actual engagement with the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1698.0,
-    "end_time": 1773.4000244140625
+    "end_time": 1773.4000244140625,
+    "point_summary": "Solomon's completion of the temple—\"the work was finished\"—is held up as the direct result of embracing and engaging the assignment David charged him to do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1825.8200054168701,
-    "end_time": 1893.1600036621094
+    "end_time": 1893.1600036621094,
+    "point_summary": "When completed work is offered in unified praise, God responds — the \"then\" of divine glory filling the house depends entirely on the faithful doing that precedes it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1893.9200057983398,
-    "end_time": 1963.6000061035156
+    "end_time": 1963.6000061035156,
+    "point_summary": "The word \"then\" in verse 13 signals that God's glory filling the temple was contingent on obedience — Solomon had to arise and do the work before he could witness that divine response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1893.9200057983398,
-    "end_time": 1963.6000061035156
+    "end_time": 1963.6000061035156,
+    "point_summary": "The glory of the Lord filling the temple so completely that priests could not stand to minister is presented as the direct consequence of Solomon's obedience in completing the work God assigned him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1964.2799987792969,
-    "end_time": 2016.3200073242188
+    "end_time": 2016.3200073242188,
+    "point_summary": "God's visible glory filling the completed temple in 2 Chronicles 7:1 is presented as the direct consequence of Solomon's obedience to the charge given him — a \"then\" that only comes after faithful doing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1964.2799987792969,
-    "end_time": 2016.3200073242188
+    "end_time": 2016.3200073242188,
+    "point_summary": "God's glory filling the house so completely that priests could not stand to minister was the direct result of Solomon's obedience to the charge given him — no obedience, no glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 1964.2799987792969,
-    "end_time": 2016.3200073242188
+    "end_time": 2016.3200073242188,
+    "point_summary": "The visible glory filling the temple—witnessed by all Israel—came only because Solomon obeyed the charge to arise and build; obedience to God's assignment is the precondition for seeing God work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 2016.3200073242188,
-    "end_time": 2079.0
+    "end_time": 2079.0,
+    "point_summary": "Solomon's faithful completion of all that was in his heart to build stands as the sermon's proof that obedience to God's charge results in God visibly moving and the people worshiping.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 3120.539993286133,
-    "end_time": 3198.739990234375
+    "end_time": 3198.739990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2181.439971923828,
-    "end_time": 2243.739959716797
+    "end_time": 2243.739959716797,
+    "point_summary": "Amaziah's mixed record — doing right before God but not with a whole heart — illustrates that half-hearted Christianity, while better than none, carries a detrimental influence on future generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 1159.1199951171875,
-    "end_time": 1225.5400009155273
+    "end_time": 1225.5400009155273,
+    "point_summary": "King Ahaz is introduced as a case study in desensitization to sin, illustrating how wickedness can take root even in the grandson of Uzziah, a king whom God marvelously helped.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 1225.5400009155273,
-    "end_time": 1295.7399978637695
+    "end_time": 1295.7399978637695,
+    "point_summary": "Jotham's personal righteousness—doing right before the Lord and avoiding his father Uzziah's sin—did not prevent the people under him from continuing in corruption, setting the stage for his wicked son Ahaz.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 1295.7399978637695,
-    "end_time": 1371.5599975585938
+    "end_time": 1371.5599975585938,
+    "point_summary": "Despite a godly heritage through grandfather Uzziah and father Jotham, Ahaz personally chose to reject the Lord and walk in the idolatrous ways of Israel's kings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -547,7 +645,9 @@
     "is_implicit": true,
     "video_id": "b-5M--iyp5U",
     "start_time": 1433.259994506836,
-    "end_time": 1505.739990234375
+    "end_time": 1505.739990234375,
+    "point_summary": "Ahaz's descent into idolatry—making molten images, burning incense, and sacrificing his own children in the fire—illustrates the catastrophic endpoint of following ungodly influences down sin's slippery slope.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -558,7 +658,9 @@
     "is_implicit": true,
     "video_id": "b-5M--iyp5U",
     "start_time": 1433.259994506836,
-    "end_time": 1505.739990234375
+    "end_time": 1505.739990234375,
+    "point_summary": "Ahaz's idolatry escalated to child sacrifice by fire in the valley of Hinnom, illustrating how ungodly influences drive sin down a steepening slope toward the most extreme abominations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 1938.5399932861328,
-    "end_time": 2010.0999908447266
+    "end_time": 2010.0999908447266,
+    "point_summary": "Sin's deceitful and destructive power is illustrated by Ahaz, whose idolatry became \"the ruin of him and of all Israel\" — a pattern the sermon applies to desensitization and pornography's cascading consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1667.1200256347656,
-    "end_time": 1731.6199951171875
+    "end_time": 1731.6199951171875,
+    "point_summary": "2 Chronicles 29 is introduced as a historical example of genuine revival under Hezekiah's reign in Judah, illustrating the corporate importance of wholehearted worship before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1731.6199951171875,
-    "end_time": 1792.8599853515625
+    "end_time": 1792.8599853515625,
+    "point_summary": "Congregational worship, as seen in Hezekiah's revival, unites singing and instruments not for human recognition but as genuine praise directed wholly to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1974.7200469970703,
-    "end_time": 2037.4200439453125
+    "end_time": 2037.4200439453125,
+    "point_summary": "The revival worship under Hezekiah in 2 Chronicles—singing, bowing, and giving—illustrates that orderly, wholehearted worship is both preparatory for the heart and worthy of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 205.0800018310547,
-    "end_time": 270.9599914550781
+    "end_time": 270.9599914550781,
+    "point_summary": "Humbling, praying, seeking God's face, and turning from sin are not the results of revival but the four conditions that invite and bring it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 0.0,
-    "end_time": 62.7400016784668
+    "end_time": 62.7400016784668,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 62.7400016784668,
-    "end_time": 127.0
+    "end_time": 127.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 127.0,
-    "end_time": 189.72000122070312
+    "end_time": 189.72000122070312,
+    "point_summary": "God's conditional promise in 2 Chronicles 7:14—humbling, praying, seeking, and turning—is introduced as the scriptural backdrop against which the sermon's call to revival readiness will be developed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 687.3399963378906,
-    "end_time": 753.2599945068359
+    "end_time": 753.2599945068359,
+    "point_summary": "Contemplation and self-examination, as drawn from 2 Chronicles 7, will humble believers by exposing self-deception and reminding them they are sinners saved by grace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 1300.0200119018555,
-    "end_time": 1370.8000183105469
+    "end_time": 1370.8000183105469,
+    "point_summary": "Genuine confession — turning from wicked ways as 2 Chronicles 7:14 commands — follows honest self-examination and cannot be bypassed by mistaking God's long-suffering patience for His approval of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "EQ65fAikytg",
     "start_time": 2267.540008544922,
-    "end_time": 2340.0999755859375
+    "end_time": 2340.0999755859375,
+    "point_summary": "Seeking God's face in 2 Chronicles 7:14 is presented as the scriptural basis for intentional communion with God—prayer and seeking requiring the unhurried, meditative time that busyness crowds out.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1275.6999893188477,
-    "end_time": 1333.0999908447266
+    "end_time": 1333.0999908447266,
+    "point_summary": "God's covenant warnings in Leviticus find their counterpart in 2 Chronicles 7, where the promise of restoration upon repentance becomes the very basis on which Nehemiah pleads God's own Word back to Him in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1662.3800659179688,
-    "end_time": 1735.5000610351562
+    "end_time": 1735.5000610351562,
+    "point_summary": "God's attentiveness to Solomon's prayer in 2 Chronicles 7 is cited as scriptural precedent for the assurance that God hears His people when they pray.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 2168.93994140625,
-    "end_time": 2225.659942626953
+    "end_time": 2225.659942626953,
+    "point_summary": "2 Chronicles 7:14 is cited as a textbook example of a conditional \"if-then\" promise, contrasted with the unconditional Abrahamic covenant to establish that not all divine promises share the same structure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "J-kYeBGCnXc",
     "start_time": 1142.6199951171875,
-    "end_time": 1212.079960823059
+    "end_time": 1212.079960823059,
+    "point_summary": "Uzziah's leprosy illustrates that the priestly office cannot be self-assumed—even a king whom God blessed faced divine judgment for crossing the boundary between royal and priestly roles.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1605.4600219726562,
-    "end_time": 1672.4200134277344
+    "end_time": 1672.4200134277344,
+    "point_summary": "Israel's 70-year Babylonian captivity is presented as the direct fulfillment of Leviticus 26's warning, the land receiving the Sabbath rests that generations of disobedience had withheld from it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1674.9800109863281,
-    "end_time": 1742.6400146484375
+    "end_time": 1742.6400146484375,
+    "point_summary": "The 70-year Babylonian captivity fulfilled Leviticus 26:33's warning that the land would receive its Sabbaths by force what Israel had refused to give it in obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 61.400001525878906,
-    "end_time": 131.89999389648438
+    "end_time": 131.89999389648438,
+    "point_summary": "2 Chronicles 28 illustrates the \"slippery slope of sin\" — the progressive, snowball-effect escalation of wickedness seen throughout King Ahaz's reign over Judah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "jqx67c84gmA",
     "start_time": 789.6999969482422,
-    "end_time": 854.3000030517578
+    "end_time": 854.3000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 427.0,
-    "end_time": 492.0
+    "end_time": 492.0,
+    "point_summary": "King Uzziah's story is introduced as an Old Testament illustration that pride is destructive, with his characterization as a basically good king who sought and was helped by the Lord establishing the contrast to come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 492.0,
-    "end_time": 552.0
+    "end_time": 552.0,
+    "point_summary": "Uzziah's record of doing right before the Lord and seeking God establishes the baseline of his character before pride enters and becomes his undoing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 492.0,
-    "end_time": 552.0
+    "end_time": 552.0,
+    "point_summary": "Uzziah's prosperity under God's blessing—rooted in seeking the Lord—becomes the setup for understanding how strength, when it arrives, can become the very occasion for pride's destructive turn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 492.0,
-    "end_time": 552.0
+    "end_time": 552.0,
+    "point_summary": "God's help and blessing upon Uzziah is presented as the foundation of his strength, making the subsequent turn toward pride all the more tragic and instructive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 552.0,
-    "end_time": 627.420000076294
+    "end_time": 627.420000076294,
+    "point_summary": "Uzziah's growing strength, enabled by God's help, set the stage for the pride that ultimately led to his destruction when his heart was lifted up.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 552.0,
-    "end_time": 627.420000076294
+    "end_time": 627.420000076294,
+    "point_summary": "Uzziah's story illustrates that divine blessing and strength, described as being \"marvelously helped,\" became the very occasion for pride that lifted his heart up to his destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 552.0,
-    "end_time": 627.420000076294
+    "end_time": 627.420000076294,
+    "point_summary": "Uzziah's strength, built through God's marvelous help, became the very occasion for pride — his heart lifted up to his own destruction the moment he ceased to recognize the source of his prosperity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 627.420000076294,
-    "end_time": 695.7200012207031
+    "end_time": 695.7200012207031,
+    "point_summary": "Uzziah's strength, given by God's help, became the very occasion of his pride—his heart \"lifted up\" drove him to transgress priestly boundaries, and God judged him with leprosy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 627.420000076294,
-    "end_time": 695.7200012207031
+    "end_time": 695.7200012207031,
+    "point_summary": "Azariah and the priests who confronted Uzziah are identified as valiant men who withstood the king's prideful transgression of entering the temple to perform a role reserved exclusively for priests.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 627.420000076294,
-    "end_time": 695.7200012207031
+    "end_time": 695.7200012207031,
+    "point_summary": "Pride's destructive trajectory is illustrated in Uzziah's leprosy breaking out mid-defiance—God's immediate judgment striking him in the very act of his presumptuous, anger-fueled transgression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "l6dkHfTMar4",
     "start_time": 474.1400146484375,
-    "end_time": 538.8200073242188
+    "end_time": 538.8200073242188,
+    "point_summary": "Josiah's revival under his leadership in Judah is introduced as a biblical illustration of what a tender, prepared heart toward God can produce in a nation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "l6dkHfTMar4",
     "start_time": 538.8200073242188,
-    "end_time": 602.8800194263458
+    "end_time": 602.8800194263458,
+    "point_summary": "Josiah's revival under young leadership illustrates that God can use youth as catalysts for national spiritual renewal, even amid widespread wickedness and idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "l6dkHfTMar4",
     "start_time": 602.8800194263458,
-    "end_time": 661.2800178527832
+    "end_time": 661.2800178527832,
+    "point_summary": "While Josiah's workmen were repairing the neglected temple, Hilkiah the priest discovered the book of the Law of Moses—a recovery of God's Word that became the catalyst for national revival under a young king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "LOzX3Aa4VcI",
     "start_time": 1102.52001953125,
-    "end_time": 1157.800048828125
+    "end_time": 1157.800048828125,
+    "point_summary": "God's sovereignty over human rulers is demonstrated in His stirring the spirit of Cyrus, a pagan king, to fulfill Jeremiah's prophecy and authorize the rebuilding of the temple after 70 years of captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 0.0,
-    "end_time": 56.040000915527344
+    "end_time": 56.040000915527344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 110.87999725341797,
-    "end_time": 171.0
+    "end_time": 171.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 110.87999725341797,
-    "end_time": 171.0
+    "end_time": 171.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 171.39999389648438,
-    "end_time": 233.4199981689453
+    "end_time": 233.4199981689453,
+    "point_summary": "In the face of overwhelming conflict and chaos, God's sovereignty is the anchor—illustrated through Jehoshaphat's crisis in 2 Chronicles 20, where a good king confronted a great military threat beyond his own power to resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 233.67999267578125,
-    "end_time": 310.32000732421875
+    "end_time": 310.32000732421875,
+    "point_summary": "Jehoshaphat's sudden military crisis in 2 Chronicles 20:1 establishes the context of overwhelming difficulty against which his declaration of dependence on God in verse 12 is set.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 233.67999267578125,
-    "end_time": 310.32000732421875
+    "end_time": 310.32000732421875,
+    "point_summary": "Jehoshaphat's crisis — a vast enemy coalition advancing against him — establishes the sermon's central situation: a good man facing overwhelming odds with no human solution in sight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 233.67999267578125,
-    "end_time": 310.32000732421875
+    "end_time": 310.32000732421875,
+    "point_summary": "Jehoshaphat's confession — \"we have no might\" and \"neither know we what to do\" — models the posture of utter dependence on God as the only right response to overwhelming circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 538.9000244140625,
-    "end_time": 607.3200268745422
+    "end_time": 607.3200268745422,
+    "point_summary": "Jehoshaphat's fear in the face of an overwhelming threat did not paralyze him but drove him to seek God, establishing fear as a catalyst for earnest, corporate seeking of the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1170.9800415039062,
-    "end_time": 1234.600025177002
+    "end_time": 1234.600025177002,
+    "point_summary": "Jehoshaphat's prayer in 2 Chronicles 20 draws directly on Solomon's temple dedication prayer in 2 Chronicles 6–7, claiming God's recorded promise to hear and help when his people cry to him in affliction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1170.9800415039062,
-    "end_time": 1234.600025177002
+    "end_time": 1234.600025177002,
+    "point_summary": "Jehoshaphat's prayer draws directly on God's promise in 2 Chronicles 6–7—that when his people cry out in affliction before his house, he will hear and help—as the covenant basis for seeking divine aid.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1348.5000305175781,
-    "end_time": 1404.02001953125
+    "end_time": 1404.02001953125,
+    "point_summary": "Jehoshaphat's decision to fast and seek God in 2 Chronicles 20 is grounded in his confidence that God had promised to hear and help those who seek Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1920.4600296020508,
-    "end_time": 1992.020034790039
+    "end_time": 1992.020034790039,
+    "point_summary": "The Spirit of the Lord coming upon Jehaziel in the assembly is presented as God's direct answer to Jehoshaphat's corporate prayer, confirming that God hears and responds to His people when they seek Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1064,7 +1256,9 @@
     "is_implicit": true,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1920.4600296020508,
-    "end_time": 1992.020034790039
+    "end_time": 1992.020034790039,
+    "point_summary": "God's faithfulness to hear and answer prayer is confirmed as the Spirit of the Lord speaks directly in response to the corporate cry for help voiced in verse 9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 1920.4600296020508,
-    "end_time": 1992.020034790039
+    "end_time": 1992.020034790039,
+    "point_summary": "God's answer to Jehoshaphat's corporate prayer is the assurance that the battle belongs not to His people but to Him, a declaration applied here to the spiritual warfare believers face today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2049.1800384521484,
-    "end_time": 2104.740020751953
+    "end_time": 2104.740020751953,
+    "point_summary": "In spiritual warfare, God's people are called not to fight in their own strength but to stand still and witness his salvation, assured by his promised presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2104.740020751953,
-    "end_time": 2160.300018310547
+    "end_time": 2160.300018310547,
+    "point_summary": "Jehoshaphat's immediate prostrate worship upon receiving God's promise illustrates that certainty in God's word produces rejoicing and adoration before the promised deliverance ever arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2104.740020751953,
-    "end_time": 2160.300018310547
+    "end_time": 2160.300018310547,
+    "point_summary": "Jehoshaphat's people praised God before the battle was won because their certainty in God's promised word made pre-deliverance worship not only possible but fitting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2104.740020751953,
-    "end_time": 2160.300018310547
+    "end_time": 2160.300018310547,
+    "point_summary": "Jehoshaphat's appointment of singers to praise God before the battle illustrates that certainty in God's promised word produces rejoicing and worship even prior to the actual deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2228.02001953125,
-    "end_time": 2288.5400390625
+    "end_time": 2288.5400390625,
+    "point_summary": "Jehoshaphat's call to believe God in verse 20 grounds the people's pre-deliverance rejoicing: their certainty that God would do what He said made praise possible before any evidence arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2228.02001953125,
-    "end_time": 2288.5400390625
+    "end_time": 2288.5400390625,
+    "point_summary": "Praising God \"in the beauty of holiness\" before the battle's outcome was decided expressed the people's certainty that God would do what He had promised, making their worship an act of faith rather than a response to evidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2228.02001953125,
-    "end_time": 2288.5400390625
+    "end_time": 2288.5400390625,
+    "point_summary": "Praise offered in faith before any visible deliverance moved God to act, because Judah's rejoicing preceded the evidence of what he had promised to do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2813.780029296875,
-    "end_time": 2884.300018310547
+    "end_time": 2884.300018310547,
+    "point_summary": "Jehoshaphat's confession \"our eyes are upon thee\" models the posture of dependent faith in which God alone receives glory precisely because the believer admits he cannot figure out his own dilemma.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "OsDD6Qa4kgI",
     "start_time": 264.82000732421875,
-    "end_time": 328.5
+    "end_time": 328.5,
+    "point_summary": "2 Chronicles 7:14 is cited as a revival text preached at a pastor's meeting, connecting the broader call to corporate prayer with the sermon's ongoing theme that God's people need a renewed prayer life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 0.0,
-    "end_time": 71.08000183105469
+    "end_time": 71.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "qmma5NLlSAk",
     "start_time": 649.5800018310547,
-    "end_time": 717.4000015258789
+    "end_time": 717.4000015258789,
+    "point_summary": "God's responsiveness to prayer is confirmed across Scripture, with Solomon's temple dedication cited as a clear biblical example of God hearing and answering when his people cry out to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "Q_1QzEYkQvA",
     "start_time": 1980.1799926757812,
-    "end_time": 2045.5399932861328
+    "end_time": 2045.5399932861328,
+    "point_summary": "Joash's faithfulness lasting only as long as Jehoiada lived illustrates why inherited or mentored faith must become one's own personal relationship with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "Q_1QzEYkQvA",
     "start_time": 2045.5399932861328,
-    "end_time": 2114.459991455078
+    "end_time": 2114.459991455078,
+    "point_summary": "Jehoiada's death exposed that Joash had no personal walk with God, illustrating why every believer must develop an individual relationship with God independent of any human mentor or influencer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "Q_1QzEYkQvA",
     "start_time": 2045.5399932861328,
-    "end_time": 2114.459991455078
+    "end_time": 2114.459991455078,
+    "point_summary": "When the mentor Jehoiada died, Joash's collapse revealed he had no personal walk with God of his own — illustrating why every believer must develop an individual relationship with God, not one borrowed from another's influence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 178.55999755859375,
-    "end_time": 251.27999877929688
+    "end_time": 251.27999877929688,
+    "point_summary": "God's persistent sending of multiple prophets to restore Israel demonstrates that rejected instruction grieves a gracious God who desires repentance, not judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1251,7 +1477,9 @@
     "is_implicit": true,
     "video_id": "R9LB-ChokfQ",
     "start_time": 1716.9400024414062,
-    "end_time": 1785.3599853515625
+    "end_time": 1785.3599853515625,
+    "point_summary": "God's repeated sending of prophets, as referenced from 2 Chronicles, reveals that His driving purpose is restoration — He sends correction because He wants His people to return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 0.0,
-    "end_time": 59.540000915527344
+    "end_time": 59.540000915527344,
+    "point_summary": "God uses individual believers—however ordinary they may feel—to make a difference for His glory, as illustrated by the account in 2 Chronicles 28.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 0.0,
-    "end_time": 59.540000915527344
+    "end_time": 59.540000915527344,
+    "point_summary": "God uses individual believers—however ordinary they may feel—to make a difference for His glory, as illustrated by the account in 2 Chronicles 28.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 0.0,
-    "end_time": 59.540000915527344
+    "end_time": 59.540000915527344,
+    "point_summary": "God uses individual believers to make a difference for His glory, countering the notion that one person is too insignificant to matter, as illustrated through the account in 2 Chronicles 28.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 130.4199981689453,
-    "end_time": 201.66000366210938
+    "end_time": 201.66000366210938,
+    "point_summary": "God uses individual believers — even relatively obscure ones like Oded, whose name means \"restorer\" — as channels of His honor and glory, a pattern traceable across biblical, church, and modern history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 441.8999938964844,
-    "end_time": 501.9200134277344
+    "end_time": 501.9200134277344,
+    "point_summary": "Ahaz's failure to walk in righteousness, explicitly contrasted with David, established the moral ground for God's judgment upon Judah through the surrounding nations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 441.8999938964844,
-    "end_time": 501.9200134277344
+    "end_time": 501.9200134277344,
+    "point_summary": "Ahaz's manufacture of molten images for Baal stands as the first and defining indictment of his reign, illustrating Judah's persistent sin of idolatry in direct violation of God's command against graven images.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 568.7999877929688,
-    "end_time": 637.3800048828125
+    "end_time": 637.3800048828125,
+    "point_summary": "The word \"moreover\" in verse 3 introduces a cumulative indictment against Ahaz, illustrating what the sermon calls the slippery slope of sin—each transgression compounding into greater abomination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 568.7999877929688,
-    "end_time": 637.3800048828125
+    "end_time": 637.3800048828125,
+    "point_summary": "Ahaz's escalating sins — from idolatry to child sacrifice to worship on every high place — illustrate what the sermon calls \"the slippery slope of sin,\" the dangerous, deceitful progression that results from forsaking God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 842.3800048828125,
-    "end_time": 909.3800048828125
+    "end_time": 909.3800048828125,
+    "point_summary": "Into a scene of military triumph, fanfare, and unchecked wickedness, God's prophet appears—standing alone against the momentum of an entire victorious nation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1361,7 +1607,9 @@
     "is_implicit": true,
     "video_id": "twNPvrDg87E",
     "start_time": 2508.979995727539,
-    "end_time": 2598.1799926757812
+    "end_time": 2598.1799926757812,
+    "point_summary": "Oded's courageous obedience in 2 Chronicles 28 demonstrates that one individual, gaining nothing personally, can be used by God to directly impact 200,000 lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "x8DoFdgJ9qA",
     "start_time": 1523.5000305175781,
-    "end_time": 1584.9000244140625
+    "end_time": 1584.9000244140625,
+    "point_summary": "When enemies seek to discourage and weaken God's people, Hezekiah's charge to \"be strong and courageous\" illustrates how a leader can support the weak by countering fear with faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "x8DoFdgJ9qA",
     "start_time": 1668.2600402832031,
-    "end_time": 1736.9800415039062
+    "end_time": 1736.9800415039062,
+    "point_summary": "Hezekiah's declaration that God—not an arm of flesh—fights for His people illustrates that supporting the weak means pointing them to God as their ever-present helper.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "YEDoYu2HKC8",
     "start_time": 532.4199829101562,
-    "end_time": 631.2800273895264
+    "end_time": 631.2800273895264,
+    "point_summary": "Seeking God is presented as the indispensable condition for revival, with 2 Chronicles 7:14 anchoring a chain of biblical texts showing that God's people must actively seek His face or forfeit salvation's blessings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 0.0,
-    "end_time": 64.80000305175781
+    "end_time": 64.80000305175781,
+    "point_summary": "Scripture's record of Joash's life is presented as profitable and divinely preserved instruction, from which practical lessons are drawn especially for young people entering a new season of life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 703.7599792480469,
-    "end_time": 767.9199829101562
+    "end_time": 767.9199829101562,
+    "point_summary": "Jehoiada's death at 130 marks a decisive turning point in Joash's life, illustrating that a spiritual mentor will eventually pass into eternity, making a personal walk with God indispensable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 703.7599792480469,
-    "end_time": 767.9199829101562
+    "end_time": 767.9199829101562,
+    "point_summary": "Verse 24:17 marks a devastating turning point in Joash's life, illustrating that a personal walk with God cannot be borrowed from a mentor—when Jehoiada died, Joash had nothing of his own to sustain him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1078.1199951171875,
-    "end_time": 1143.5599975585938
+    "end_time": 1143.5599975585938,
+    "point_summary": "Abandoning the house of God they had once repaired, Judah's leaders followed flattering princes into idolatry, demonstrating how quickly godly influence removed can reverse even sincere-seeming devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1280.3999786376953,
-    "end_time": 1352.8999786376953
+    "end_time": 1352.8999786376953,
+    "point_summary": "When Joash allowed the princes of Judah to influence him, the resulting spiritual decline led him to stone Zechariah—the son of the very priest who had protected him—for proclaiming truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1280.3999786376953,
-    "end_time": 1352.8999786376953
+    "end_time": 1352.8999786376953,
+    "point_summary": "Joash's murder of Zechariah—despite Jehoiada's lifelong kindness—illustrates how corrupting influence accelerates sin until even intimate bonds of loyalty are destroyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1616.9199829101562,
-    "end_time": 1674.1399841308594
+    "end_time": 1674.1399841308594,
+    "point_summary": "God's faithfulness in sending prophets to warn His people stands as a call to maintain a tender, receptive heart toward His word, lest hardness lead to the tragic outcome of \"they would not give ear.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1616.9199829101562,
-    "end_time": 1674.1399841308594
+    "end_time": 1674.1399841308594,
+    "point_summary": "Forsaking the Lord by refusing to give ear to His word brings an inability to prosper, making sensitivity to Scripture essential to remaining in God's blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1740.739990234375,
-    "end_time": 1807.2599754333496
+    "end_time": 1807.2599754333496,
+    "point_summary": "Joash's appeal to \"the commandment of Moses\" in verse 6 shows that obedience to the written Word of God was the stated basis for the temple collection, contrasting with the later hardness of verse 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 1740.739990234375,
-    "end_time": 1807.2599754333496
+    "end_time": 1807.2599754333496,
+    "point_summary": "God's prophets testifying against Joash and being refused a hearing illustrates the danger of growing calloused to God's Word after once walking in obedience to it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 2178.8199768066406,
-    "end_time": 2240.6599731445312
+    "end_time": 2240.6599731445312,
+    "point_summary": "God's long-suffering and mercy must never be mistaken for approval of disobedience, as Judah's defeat by a small Syrian army demonstrates that He ultimately executes judgment on those who forsake Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 2178.8199768066406,
-    "end_time": 2240.6599731445312
+    "end_time": 2240.6599731445312,
+    "point_summary": "God's judgment can fall through a numerically inferior force, demonstrating that military outcome is determined by divine will, not human strength — just as with Gideon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 2329.7799682617188,
-    "end_time": 2397.9400024414062
+    "end_time": 2397.9400024414062,
+    "point_summary": "Disobedience culminating in apostasy brought divine judgment on Joash, whose own servants conspired to assassinate him—and he was denied burial among the kings as a final mark of disgrace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1524.7799987792969,
-    "end_time": 1602.8199768066406
+    "end_time": 1602.8199768066406,
+    "point_summary": "The seventy-year Babylonian captivity is shown to be the land forcibly receiving the Sabbath rests Israel had refused to observe, directly fulfilling Jeremiah's prophecy through their disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1559,7 +1841,9 @@
     "is_implicit": true,
     "video_id": "zAAeXH-9tS0",
     "start_time": 367.5199890136719,
-    "end_time": 433.0199890136719
+    "end_time": 433.0199890136719,
+    "point_summary": "Revival comes only when God's people meet all four prerequisites of 2 Chronicles 7:14—humbling, praying, seeking, and turning—with none omitted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1570,7 +1854,9 @@
     "is_implicit": true,
     "video_id": "zAAeXH-9tS0",
     "start_time": 3132.6600341796875,
-    "end_time": 3153.840042114258
+    "end_time": 3153.840042114258,
+    "point_summary": "Genuine national and personal renewal hinges on God's people humbling themselves, praying, seeking God's face, and turning from sin—conditions the sermon applies directly to individual believers today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1132.93994140625,
-    "end_time": 1196.3399658203125
+    "end_time": 1196.3399658203125,
+    "point_summary": "Manasseh's reign in 2 Chronicles 33 is introduced as a negative example illustrating how the lives others observe carry far greater weight than the words they hear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1196.3399658203125,
-    "end_time": 1268.4999618530273
+    "end_time": 1268.4999618530273,
+    "point_summary": "Manasseh's reign beginning at age twelve introduces a negative example of how a father's compromised legacy shapes the next generation, illustrating that someone is always watching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1457.4599609375,
-    "end_time": 1519.1799621582031
+    "end_time": 1519.1799621582031,
+    "point_summary": "God's judgment on Manasseh through Assyrian captivity is presented as the consequence of refusing to hearken to God's voice, a fate the sermon urges believers to avoid by humbling themselves before affliction rather than after.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1457.4599609375,
-    "end_time": 1519.1799621582031
+    "end_time": 1519.1799621582031,
+    "point_summary": "Though God mercifully heard Manasseh's prayer of humility in affliction, the sermon presses that it is far better to humble oneself and heed God's voice before judgment comes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1457.4599609375,
-    "end_time": 1519.1799621582031
+    "end_time": 1519.1799621582031,
+    "point_summary": "God's warning to Manasseh went unheeded, illustrating that hearing God's word and truly receiving it are two distinct responses with serious consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1654.5799560546875,
-    "end_time": 1713.6799926757812
+    "end_time": 1713.6799926757812,
+    "point_summary": "Even after Manasseh's genuine repentance and decree that Judah serve God, the people continued sacrificing at the high places, illustrating that righteousness cannot be legislated or forced—it is a matter of the will and heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1654.5799560546875,
-    "end_time": 1713.6799926757812
+    "end_time": 1713.6799926757812,
+    "point_summary": "Manasseh's death and succession in verse 20 serves as a narrative hinge, pivoting attention to son Amon, whose evil life demonstrates that a parent's repentance does not guarantee a child's righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1654.5799560546875,
-    "end_time": 1713.6799926757812
+    "end_time": 1713.6799926757812,
+    "point_summary": "Amon's reign is introduced here only to contrast his unrepentant evil with his father Manasseh's late-life return to God, illustrating that a parent's restoration does not guarantee a child will follow the same path.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1654.5799560546875,
-    "end_time": 1713.6799926757812
+    "end_time": 1713.6799926757812,
+    "point_summary": "Amon's replication of Manasseh's earlier idolatry—not his repentance—illustrates that a parent's return to God does not guarantee a child will follow, making the influence we model a sobering responsibility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 372.9200134277344,
-    "end_time": 441.05999755859375
+    "end_time": 441.05999755859375,
+    "point_summary": "The rapid succession of four kings following Josiah's death, as recorded at the end of 2 Chronicles 36, illustrates the swift moral and political collapse that formed the backdrop of Jeremiah's ministry on the eve of Babylonian captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "_dFILA2HCeY",
     "start_time": 730.2999877929688,
-    "end_time": 791.0999755859375
+    "end_time": 791.0999755859375,
+    "point_summary": "The Queen of Sheba's own words in 2 Chronicles 9:8 are cited to show that God's love for Israel was the stated reason He established Solomon as king over them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "_dFILA2HCeY",
     "start_time": 791.0999755859375,
-    "end_time": 856.4199829101562
+    "end_time": 856.4199829101562,
+    "point_summary": "The Queen of Sheba's declaration that God made Solomon king over Israel because He loved Israel illustrates divine love expressed through sovereign, purposeful action on behalf of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1480.4199829101562,
-    "end_time": 1556.6199951171875
+    "end_time": 1556.6199951171875,
+    "point_summary": "The same glory that filled Moses' tabernacle later filled Solomon's completed temple, establishing a pattern that obedient, finished work precedes the manifest presence of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1556.6199951171875,
-    "end_time": 1615.9399719238281
+    "end_time": 1615.9399719238281,
+    "point_summary": "Solomon's declaration in 2 Chronicles 2:4 — \"I build a house to the name of the Lord my God\" — is cited as part of the temple preparations that parallel Moses finishing the tabernacle work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1615.9399719238281,
-    "end_time": 1693.0999755859375
+    "end_time": 1693.0999755859375,
+    "point_summary": "Just as Moses finished the work of the tabernacle, Solomon finished the work of the temple — the same language marking the completion of each dwelling place God ordained for His glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1615.9399719238281,
-    "end_time": 1693.0999755859375
+    "end_time": 1693.0999755859375,
+    "point_summary": "Solomon's completion of the temple—\"the work was finished\"—is set in parallel with Moses finishing the tabernacle, showing a recurring biblical pattern of faithful servants completing God's appointed work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1615.9399719238281,
-    "end_time": 1693.0999755859375
+    "end_time": 1693.0999755859375,
+    "point_summary": "Solomon's declaration that the temple \"shall be wonderful and great\" (v. 9) illustrates the abundance of preparation required for a house built to honor a great God, paralleling the tabernacle's construction leading to Exodus 40.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "j_nhiIFLglw",
     "start_time": 1693.0999755859375,
-    "end_time": 1769.8599853515625
+    "end_time": 1769.8599853515625,
+    "point_summary": "When unified worship — trumpeters and singers as one — preceded the glory of the Lord filling Solomon's completed temple, it mirrored the same divine pattern seen when Moses finished the tabernacle in Exodus 40.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 1770.7000122070312,
-    "end_time": 1837.840000152588
+    "end_time": 1837.840000152588,
+    "point_summary": "The glory filling Solomon's temple in 2 Chronicles mirrors Exodus 40, with both events sharing the pattern that divine presence followed obedience — the word *then* marking the moment blessing came after faithful compliance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1790,7 +2114,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Uzziah's presumption in entering the sanctuary illustrates that even a prosperous, God-blessed king could not perform priestly service, because that office belonged exclusively to those appointed to it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Chronicles",
@@ -1801,6 +2127,8 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1353.7600402832031,
-    "end_time": 1415.280044555664
+    "end_time": 1415.280044555664,
+    "point_summary": "Hezekiah's story is introduced as a parallel witness to Psalm 50:15, with 2 Chronicles noted as an alternate passage before the sermon settles in Isaiah 38.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

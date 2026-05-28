@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "07naoQP9rPI",
     "start_time": 757.5599975585938,
-    "end_time": 824.5599975585938
+    "end_time": 824.5599975585938,
+    "point_summary": "In contrast to the era of the judges—when every man did what was right in his own eyes—God's statutes are always right, offering an objective standard that human perspective, being flawed, cannot supply.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "4L7zninfmhA",
     "start_time": 625.0200252532959,
-    "end_time": 690.2200241088867
+    "end_time": 690.2200241088867,
+    "point_summary": "In Judges 13:8, Manoah's prayer that God would send the man of God again to teach them how to raise the promised child is held up as a model request every parent ought to make.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "4L7zninfmhA",
     "start_time": 690.2200241088867,
-    "end_time": 757.1000213623047
+    "end_time": 757.1000213623047,
+    "point_summary": "Manoah's prayer that God would send instruction on how to raise the promised child illustrates the posture every parent should take—acknowledging dependence on divine teaching for the task of parenting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1504.3200073242188,
-    "end_time": 1563.3200073242188
+    "end_time": 1563.3200073242188,
+    "point_summary": "Judges 1:27–35 is cited as corroborating evidence that Noah's curse on Canaan—\"a servant of servants\"—was historically fulfilled as Canaanite peoples became tributaries under Israelite dominion rather than being driven out.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1504.3200073242188,
-    "end_time": 1563.3200073242188
+    "end_time": 1563.3200073242188,
+    "point_summary": "Judges 1:28, alongside parallel passages in Joshua 16–17, is cited as fulfillment of Noah's curse that Canaan would be \"a servant of servants,\" with the Canaanites reduced to tributary status under Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1618.5599975585938,
-    "end_time": 1675.1199951171875
+    "end_time": 1675.1199951171875,
+    "point_summary": "Judges 1's repeated refrain that Israel's tribes failed to drive out the Canaanites but instead put them to tribute is presented as the historical fulfillment of Noah's curse that Canaan would be a servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 694.599983215332,
-    "end_time": 758.8799896240234
+    "end_time": 758.8799896240234,
+    "point_summary": "Jehovah Shalom, meaning \"the Lord is peace,\" is revealed in Judges 6:24 through Gideon's experience, demonstrating that God's names were given to increase the faith of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 758.8799896240234,
-    "end_time": 823.239990234375
+    "end_time": 823.239990234375,
+    "point_summary": "Gideon's fearful encounter with the angel of the Lord, and God's reassuring word \"peace be unto thee,\" becomes the occasion for naming the altar Jehovah Shalom—the Lord is peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 758.8799896240234,
-    "end_time": 823.239990234375
+    "end_time": 823.239990234375,
+    "point_summary": "Jehovah Shalom — the LORD is peace — is revealed in God's direct word to the fearful Gideon, \"peace be unto thee, fear not,\" prompting Gideon to build an altar of worship in response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 823.239990234375,
-    "end_time": 891.7999877929688
+    "end_time": 891.7999877929688,
+    "point_summary": "Gideon's act of building an altar and naming it Jehovah Shalom is presented as the fitting worshipful response to God's direct assurance of peace, revealing that the Lord himself is the source and substance of that peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "59eHWxG90YI",
     "start_time": 960.0399780273438,
-    "end_time": 1024.8799743652344
+    "end_time": 1024.8799743652344,
+    "point_summary": "Jehovah Shalom reveals that God's peace is not the absence of trouble but his own presence with his people in the midst of it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "9Tofq_cScf8",
     "start_time": 1081.8399963378906,
-    "end_time": 1148.719970703125
+    "end_time": 1148.719970703125,
+    "point_summary": "Judges 21:25 grounds the warning that self-defined righteousness—every man doing what is right in his own eyes—stands in direct contrast to God's revealed standard of justice in Micah 6:8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1120.780029296875,
-    "end_time": 1181.9199829101562
+    "end_time": 1181.9199829101562,
+    "point_summary": "Samson, the most prominent judge in Israel's history, was of the tribe of Dan, fulfilling Jacob's prophecy that Dan would judge his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1241.0400085449219,
-    "end_time": 1304.7200088500977
+    "end_time": 1304.7200088500977,
+    "point_summary": "Dan's introduction of idolatry into Israel is grounded in Judges 18:30, where the tribe formally established graven image worship with a priestly line that persisted until the captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1304.7200088500977,
-    "end_time": 1386.6000061035156
+    "end_time": 1386.6000061035156,
+    "point_summary": "Judges 18:30 records the tribe of Dan establishing a graven image and a priestly line to serve it, fulfilling Jacob's prophecy by identifying Dan as the tribe that introduced idolatry to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1304.7200088500977,
-    "end_time": 1386.6000061035156
+    "end_time": 1386.6000061035156,
+    "point_summary": "The tribe of Dan's establishment of Micah's graven image at Shiloh illustrates how Dan introduced idolatry into Israel, fulfilling Jacob's prophecy of Dan as a serpent causing the nation to stumble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1825.1600284576416,
-    "end_time": 1888.0000305175781
+    "end_time": 1888.0000305175781,
+    "point_summary": "Dan's prior embrace of idolatry in Judges 18 is cited as the reason Jeroboam strategically placed one of his golden calves there—the tribe was already conditioned to accept idol worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 187.67999267578125,
-    "end_time": 252.75999450683594
+    "end_time": 252.75999450683594,
+    "point_summary": "Seven times in Judges the refrain \"the children of Israel did evil\" marks a recurring cycle in which moral autonomy—every man doing what was right in his own eyes—invites divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 187.67999267578125,
-    "end_time": 252.75999450683594
+    "end_time": 252.75999450683594,
+    "point_summary": "Seven times in Judges the refrain \"the children of Israel did evil\" marks a recurring cycle in which moral autonomy—every man doing what was right in his own eyes—invites divine judgment and then gracious deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2257.7799377441406,
-    "end_time": 2321.159912109375
+    "end_time": 2321.159912109375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2452.259925842285,
-    "end_time": 2530.4799194335938
+    "end_time": 2530.4799194335938,
+    "point_summary": "Self-dependence leads to defeat, as illustrated by Gideon's story where God deliberately reduced Israel's army so no one could claim the victory as their own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2530.4799194335938,
-    "end_time": 2613.879928588867
+    "end_time": 2613.879928588867,
+    "point_summary": "God deliberately reduced Gideon's army so Israel could not credit the victory to themselves, illustrating the danger of self-dependence after triumph.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2530.4799194335938,
-    "end_time": 2613.879928588867
+    "end_time": 2613.879928588867,
+    "point_summary": "God deliberately reduced Gideon's army to 300 so that the resulting victory over Midian could only be attributed to God, not human strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -261,7 +307,9 @@
     "is_implicit": true,
     "video_id": "L3JbLyIPp5M",
     "start_time": 178.05999755859375,
-    "end_time": 240.33999633789062
+    "end_time": 240.33999633789062,
+    "point_summary": "God's address to Gideon as a \"mighty man of valor\" illustrates how God builds faith incrementally in those who doubt their own calling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 0.0,
-    "end_time": 70.95999908447266
+    "end_time": 70.95999908447266,
+    "point_summary": "Parenting at every stage carries both honor and weighty responsibility, grounded in the biblical truth that children are an inheritance from the Lord and the fruit of the womb His reward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 197.0800018310547,
-    "end_time": 252.32000732421875
+    "end_time": 252.32000732421875,
+    "point_summary": "Judges 13:1 provides the broad national backdrop—Israel's cycle of evil and divine judgment under the Philistines—before the narrative narrows to one particular family in that troubled context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 252.32000732421875,
-    "end_time": 316.17999267578125
+    "end_time": 316.17999267578125,
+    "point_summary": "Against the broad national backdrop of Israel's sin and Philistine oppression in verse 1, verse 2 narrows the lens to introduce one particular family in Israel — Manoah, his wife, and her barrenness — as the specific context for God's redemptive work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 252.32000732421875,
-    "end_time": 316.17999267578125
+    "end_time": 316.17999267578125,
+    "point_summary": "The angel's announcement to a barren woman that she would conceive and bear a son establishes the divine initiative behind Samson's birth, setting the stage for God's instruction on how the child should be raised.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 252.32000732421875,
-    "end_time": 316.17999267578125
+    "end_time": 316.17999267578125,
+    "point_summary": "Manoah's prayer in verse 8 models the posture of seeking divine instruction for child-rearing, framing the sermon's central question about how parents should order their children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 252.32000732421875,
-    "end_time": 316.17999267578125
+    "end_time": 316.17999267578125,
+    "point_summary": "Manoah's question in verse 12 — \"How shall we order the child?\" — frames the sermon's central concern: the God-dependent responsibility of raising children according to divine instruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 316.17999267578125,
-    "end_time": 381.6600036621094
+    "end_time": 381.6600036621094,
+    "point_summary": "Manoah's prayer in verse 8 — asking God to send the angel again to teach them how to raise the promised child — frames the entire sermon as a study in parental dependence on divine instruction over self-sufficiency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1197.9400024414062,
-    "end_time": 1267.5400466918945
+    "end_time": 1267.5400466918945,
+    "point_summary": "Manoah's request for parenting direction in Judges 13 illustrates that recognizing one's deficiency is the necessary precondition for seeking God's wisdom, and that God responds with robust, specific direction rather than vague encouragement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1400.8600463867188,
-    "end_time": 1463.0000610351562
+    "end_time": 1463.0000610351562,
+    "point_summary": "Manoah's prayer in verse 8 — asking how to order the child — frames the Nazarite calling announced in verse 5 as the divine directive that parents must seek God to understand and apply.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1400.8600463867188,
-    "end_time": 1463.0000610351562
+    "end_time": 1463.0000610351562,
+    "point_summary": "Manoah's wife reports the angel's appearance and instruction to her husband, establishing that the divine directive for raising the child was first entrusted to her alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1400.8600463867188,
-    "end_time": 1463.0000610351562
+    "end_time": 1463.0000610351562,
+    "point_summary": "Manoah's wife relays the angel's announcement verbatim in verse 7, establishing the Nazarite consecration from womb to death as the foundational directive for ordering the child's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "The angel's response to Manoah's question about ordering the child reiterates to him the same Nazirite dietary commands already given to the woman, framing her faithful observance as the foundational directive for the child's consecration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "The angel's repeated instruction to Manoah—that the mother must abstain from the vine, strong drink, and unclean things—is presented as the divine answer to the father's own question of how the child should be ordered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "Manoah's offer of hospitality to detain the angel reveals his ignorance of the visitor's true identity, setting up the theophanic disclosure that follows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "The angel's refusal to eat Manoah's food and his redirection — \"offer it unto the Lord\" — signals to the reader, before Manoah himself understands, that this visitor is no ordinary man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "Manoah's question about the angel's name is met with divine mystery, the name being \"secret,\" pointing to the transcendent, uncontainable nature of the one he had encountered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "The angel's refusal to reveal his name — declaring it \"secret\" — signals the mysterious, transcendent identity of this divine messenger, pointing toward the incomprehensible nature of God himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1519.7200622558594,
-    "end_time": 1576.800048828125
+    "end_time": 1576.800048828125,
+    "point_summary": "The angel's wondrous ascent in the altar flame, and Manoah's terrified recognition that he had seen God, reveal the divine identity of the messenger who had been instructing them in raising the child.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "The angel's ascent in the altar flame at Judges 13:20 confirms the divine identity of the messenger who delivered God's child-rearing directives to Manoah and his wife.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "The angel of the Lord's final disappearance in verse 21 marks the close of divine instruction, after which Manoah recognizes the messenger's identity and the full weight of God's directive for raising the child stands complete.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "Manoah's fear of death upon seeing God is immediately answered by his wife's reasoned faith: divine acceptance of their offering proves God's intent was blessing, not destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "Manoah's wife reasons from God's prior acts of acceptance — receiving the offering and revealing these things — that divine intent to kill them is inconsistent with such grace, modeling faith that interprets providence through God's demonstrated purposes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "Samson's birth, growth, and the Lord's blessing confirm that God's detailed prenatal instructions to his parents were purposeful preparation for a child set apart to serve him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1576.800048828125,
-    "end_time": 1630.8400573730469
+    "end_time": 1630.8400573730469,
+    "point_summary": "The Spirit's movement upon the young Samson in verse 25 is read as the confirming fruit of the parents' faithful obedience to the divine directive given for his upbringing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1760.5000610351562,
-    "end_time": 1822.100061416626
+    "end_time": 1822.100061416626,
+    "point_summary": "Israel's disobedience to God's commands in Judges 13 is cited as a historical example of what happens when generations fail to apply God's statutes, resulting in forty years of Philistine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 2539.060043334961,
-    "end_time": 2609.260040283203
+    "end_time": 2609.260040283203,
+    "point_summary": "Manoah's honest acknowledgment of his own deficiencies in Judges 13 models the posture parents need—recognizing inadequacy and bringing that need directly to God for direction in raising children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 2688.260040283203,
-    "end_time": 2760.1600341796875
+    "end_time": 2760.1600341796875,
+    "point_summary": "Manoah's request for divine instruction in Judges 13 serves as a model for the universal human need to acknowledge personal deficiency and seek God's direction in every area of life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 68.13999938964844,
-    "end_time": 131.60000610351562
+    "end_time": 131.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 131.60000610351562,
-    "end_time": 196.0399932861328
+    "end_time": 196.0399932861328,
+    "point_summary": "The phrase \"every man in his place\" from Judges 7:21 is lifted as the sermon's governing theme, contrasting Israel's faithful stand here with Ezekiel's indictment that God found no man to stand in the gap.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 447.4800109863281,
-    "end_time": 510.7200012207031
+    "end_time": 510.7200012207031,
+    "point_summary": "God's reduction of Gideon's army from 32,000 to 10,000 by dismissing the fearful demonstrates that victory belongs to God alone, preventing Israel's pride from claiming credit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 447.4800109863281,
-    "end_time": 510.7200012207031
+    "end_time": 510.7200012207031,
+    "point_summary": "The vast, numberless host of Midian and their camels establishes the overwhelming odds against which God would reduce Gideon's army, making any victory unmistakably divine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 511.67999267578125,
-    "end_time": 572.1799926757812
+    "end_time": 572.1799926757812,
+    "point_summary": "Even after the fearful 22,000 departed, God declared the remaining 10,000 still too many, reserving to himself alone the sovereign decision of who would go and who would stay.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 511.67999267578125,
-    "end_time": 572.1799926757812
+    "end_time": 572.1799926757812,
+    "point_summary": "God's sovereign selection of the 300 is demonstrated through the water test of Judges 7:5, where the dividing criterion was entirely God's to interpret and apply, not Gideon's.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 572.1799926757812,
-    "end_time": 630.8199825286865
+    "end_time": 630.8199825286865,
+    "point_summary": "God himself — not the method of drinking — made the selection at the water, using the test in verse 5 only as the means by which he divided and chose the 300 men for this specific task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 572.1799926757812,
-    "end_time": 630.8199825286865
+    "end_time": 630.8199825286865,
+    "point_summary": "God's sovereign choice of the 300 is underscored by the fact that the selection method and which group would be chosen were determined entirely by God, not by any human quality the men displayed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 572.1799926757812,
-    "end_time": 630.8199825286865
+    "end_time": 630.8199825286865,
+    "point_summary": "God's sovereign choice — not human merit or method — determined which 300 men would deliver Israel, as the selection belonged entirely to God before and after the water test.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 572.1799926757812,
-    "end_time": 630.8199825286865
+    "end_time": 630.8199825286865,
+    "point_summary": "God's sovereign selection of the 300 is underscored by the dismissal of the rest — each sent to his own place — leaving only those chosen by divine decision for this specific task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 630.8199825286865,
-    "end_time": 703.9199829101562
+    "end_time": 703.9199829101562,
+    "point_summary": "God's sovereign selection of the 300 men who lapped—rather than the 9,700 dismissed—establishes that He assigns specific responsibility to a specific people chosen for a specific task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 630.8199825286865,
-    "end_time": 703.9199829101562
+    "end_time": 703.9199829101562,
+    "point_summary": "God's reduction of Gideon's army to 300 retained men—while sending the remaining 9,700 away—establishes that those chosen bear a specific, God-assigned responsibility to accomplish what the larger group could not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 908.2999877929688,
-    "end_time": 974.0599975585938
+    "end_time": 974.0599975585938,
+    "point_summary": "God's direct command to Gideon in verse 9 — \"arise, get thee down unto the host, for I have delivered it into thine hand\" — illustrates the willing acceptance of assigned responsibility that the sermon identifies as embracing one's duty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 974.0599975585938,
-    "end_time": 1043.5599975585938
+    "end_time": 1043.5599975585938,
+    "point_summary": "God's provision of an optional reassurance to the fearful Gideon — \"if thou fear to go down\" — illustrates His gracious accommodation of human weakness as a faith-builder to strengthen obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 974.0599975585938,
-    "end_time": 1043.5599975585938
+    "end_time": 1043.5599975585938,
+    "point_summary": "The title \"mighty man of valor\" given to Gideon in 6:12 stands in tension with his own self-assessment as least in his father's house, illustrating that God's call precedes and exceeds the called one's confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 974.0599975585938,
-    "end_time": 1043.5599975585938
+    "end_time": 1043.5599975585938,
+    "point_summary": "Despite being called a mighty man of valor, Gideon's self-described lowliness in 6:15 frames his subsequent wavering faith and explains why God graciously provided faith-builders to strengthen him for the task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1043.5599975585938,
-    "end_time": 1111.2799682617188
+    "end_time": 1111.2799682617188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1111.2799682617188,
-    "end_time": 1173.239990234375
+    "end_time": 1173.239990234375,
+    "point_summary": "God uses the staggering, overwhelming size of the Midianite army — innumerable as grasshoppers and sand — as the backdrop against which Gideon's final faith-building moment takes place.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1111.2799682617188,
-    "end_time": 1173.239990234375
+    "end_time": 1173.239990234375,
+    "point_summary": "God uses an enemy soldier's dream about a barley loaf overthrowing a tent as the final faith builder Gideon needed before leading his 300 men into battle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1388.3799896240234,
-    "end_time": 1457.0399780273438
+    "end_time": 1457.0399780273438,
+    "point_summary": "Gideon's division of the 300 into three companies, each equipped and assigned, illustrates that embracing responsibility means being fully surrendered and yielded to a specific, communicated task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1388.3799896240234,
-    "end_time": 1457.0399780273438
+    "end_time": 1457.0399780273438,
+    "point_summary": "Fulfilling responsibility requires first understanding and then embracing it, as Gideon's men demonstrated by following his direct command to watch him and do likewise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1388.3799896240234,
-    "end_time": 1457.0399780273438
+    "end_time": 1457.0399780273438,
+    "point_summary": "Fulfilling one's God-given responsibility requires first understanding it and then embracing it, as Gideon's 300 men demonstrated by executing their assigned roles completely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1388.3799896240234,
-    "end_time": 1457.0399780273438
+    "end_time": 1457.0399780273438,
+    "point_summary": "Gideon's 300 fulfilled their assigned responsibility by executing precisely what they had been instructed — blowing trumpets, breaking pitchers, and crying the battle cry together.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1457.0399780273438,
-    "end_time": 1531.0
+    "end_time": 1531.0,
+    "point_summary": "When every man stood in his place and fulfilled his assigned responsibility, God—not the 300—received credit for the victory, which was His design from the beginning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1457.0399780273438,
-    "end_time": 1531.0
+    "end_time": 1531.0,
+    "point_summary": "When every man stood in his place and fulfilled his assigned responsibility, God—not the 300—received credit for the victory, as the army's deliberate reduction had already made clear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "N6BsUO2YuSE",
     "start_time": 2026.1800079345703,
-    "end_time": 2094.1200256347656
+    "end_time": 2094.1200256347656,
+    "point_summary": "Judges 7's account of a task assigned to specific men serves as a launching point for contrasting the believer's own God-given commission—carrying the gospel to a lost world—as a responsibility requiring personal accountability before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 2746.5999755859375,
-    "end_time": 2817.5999755859375
+    "end_time": 2817.5999755859375,
+    "point_summary": "Gideon's 300 men each fulfilling their assigned post serves as the pattern for every believer faithfully occupying the place of witness God has appointed for them alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -866,7 +1022,9 @@
     "is_implicit": true,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1295.280029296875,
-    "end_time": 1362.2200317382812
+    "end_time": 1362.2200317382812,
+    "point_summary": "Judges 7:2 is cited to show that God deliberately reduced Gideon's army so Israel could not claim the victory belonged to their own strength or numbers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1362.2200317382812,
-    "end_time": 1438.8200225830078
+    "end_time": 1438.8200225830078,
+    "point_summary": "God deliberately reduced Gideon's army so that Israel could claim no human credit, ensuring the only explanation for victory would be that God alone accomplished it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "oGfQDeDvcH0",
     "start_time": 2404.3400268554688,
-    "end_time": 2464.4600257873535
+    "end_time": 2464.4600257873535,
+    "point_summary": "God reduces human resources to impossible odds—as with Gideon's army—so that victory cannot be credited to human wisdom or might, but glory goes to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -899,7 +1061,9 @@
     "is_implicit": true,
     "video_id": "PYLTQa60aoQ",
     "start_time": 962.9600219726562,
-    "end_time": 1029.5000305175781
+    "end_time": 1029.5000305175781,
+    "point_summary": "Gideon's repeated requests for confirming signs illustrate how believers can be slow to trust even clear evidence, paralleling the disciples' struggle to believe the risen Christ despite His physical presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -910,7 +1074,9 @@
     "is_implicit": true,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 2432.5599822998047,
-    "end_time": 2511.8399810791016
+    "end_time": 2511.8399810791016,
+    "point_summary": "Israel's failure in Judges 2:10—a generation rising up that knew not the Lord and turned to serve Baal—is cited as the sobering precedent for what happens when God's benefits go unremembered and unrehearsed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1844.039966583252,
-    "end_time": 1899.199966430664
+    "end_time": 1899.199966430664,
+    "point_summary": "Judges stands as a sobering historical witness that when God's people fail to transmit covenant truth to the next generation, an entire generation rises up that does not know the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "VUxY_FF000Q",
     "start_time": 1178.4199829101562,
-    "end_time": 1247.859992980957
+    "end_time": 1247.859992980957,
+    "point_summary": "God's patient, faith-building response to Gideon's hesitancy in Judges 6–7 illustrates that God does not rebuke weak faith but graciously increases it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "VUxY_FF000Q",
     "start_time": 1178.4199829101562,
-    "end_time": 1247.859992980957
+    "end_time": 1247.859992980957,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -954,7 +1126,9 @@
     "is_implicit": true,
     "video_id": "yiyc0K-2BUA",
     "start_time": 2178.8199768066406,
-    "end_time": 2240.6599731445312
+    "end_time": 2240.6599731445312,
+    "point_summary": "God's ability to deliver a great host into the hands of a small company—as with Gideon's 300—demonstrates that military outcome is determined by divine will, not numerical strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 694.8999938964844,
-    "end_time": 756.0599975585938
+    "end_time": 756.0599975585938,
+    "point_summary": "Judges 6–7 illustrates that God progressively prepares His people for assigned tasks, building faith incrementally before they are ready to fulfill what He has called them to do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 694.8999938964844,
-    "end_time": 756.0599975585938
+    "end_time": 756.0599975585938,
+    "point_summary": "God's preparation of Gideon across Judges 6–7 illustrates that He develops His people's faith progressively before bringing them to the task He has appointed for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 756.1799926757812,
-    "end_time": 824.0599975585938
+    "end_time": 824.0599975585938,
+    "point_summary": "The angel of the Lord's departure in Judges 6:21 is identified as the first of several faith-building encounters through which God progressively prepared an initially reluctant Gideon for the task ahead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 756.1799926757812,
-    "end_time": 824.0599975585938
+    "end_time": 824.0599975585938,
+    "point_summary": "Gideon's fleece request illustrates that God patiently builds a servant's faith through progressive confirmations before entrusting him with the task he was called to fulfill.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 756.1799926757812,
-    "end_time": 824.0599975585938
+    "end_time": 824.0599975585938,
+    "point_summary": "Gideon's fleece request in Judges 6:37 illustrates that God progressively builds a servant's faith, meeting him where he is before entrusting him with the task ahead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 824.0599975585938,
-    "end_time": 890.8599853515625
+    "end_time": 890.8599853515625,
+    "point_summary": "God's fulfillment of the fleece sign in Judges 6:38 is presented as a deliberate act of faith-building, preparing a still-reluctant Gideon for the task ahead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 824.0599975585938,
-    "end_time": 890.8599853515625
+    "end_time": 890.8599853515625,
+    "point_summary": "Even after God answered the first fleece, Gideon's faith remained so small that he asked God a second time, reversing the sign, revealing how much further God still needed to build his servant's confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 890.8599853515625,
-    "end_time": 951.2999877929688
+    "end_time": 951.2999877929688,
+    "point_summary": "God's patient accommodation of Gideon's second fleece request — reversing the sign — demonstrates that He was progressively building Gideon's faith to prepare him for the task ahead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 890.8599853515625,
-    "end_time": 951.2999877929688
+    "end_time": 951.2999877929688,
+    "point_summary": "Even after two miraculous signs with the fleece, Gideon remained fearful, so God graciously offered him a further confirmation—overhearing the enemy's dream—to strengthen his hands for battle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 890.8599853515625,
-    "end_time": 951.2999877929688
+    "end_time": 951.2999877929688,
+    "point_summary": "God's patient, multi-stage preparation of Gideon—through fleeces, a night reconnaissance, and an enemy soldier's dream—demonstrates that He builds His servants' faith progressively until they are ready to act.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1075,7 +1269,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 1656.6800231933594,
-    "end_time": 1729.1199951171875
+    "end_time": 1729.1199951171875,
+    "point_summary": "When a society abandons the authority of Scripture, moral collapse follows inevitably, as Judges 21:25 illustrates: every person becomes their own standard, doing what is right in their own eyes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 740.8000030517578,
-    "end_time": 803.2400054931641
+    "end_time": 803.2400054931641,
+    "point_summary": "When God is removed from a culture, every person becomes his own authority — the condition Judges 21:25 diagnoses as the absence of a king in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 803.2400054931641,
-    "end_time": 878.0400085449219
+    "end_time": 878.0400085449219,
+    "point_summary": "When God is systematically removed from a culture, Judges 21:25 illustrates the inevitable result: every person becomes his own authority, mirroring the pattern of Romans 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 2165.4200439453125,
-    "end_time": 2234.3400268554688
+    "end_time": 2234.3400268554688,
+    "point_summary": "The recurring wickedness throughout Judges is cited as historical evidence that sinful human behavior is fundamentally a heart problem, not merely a social or circumstantial one.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1119,7 +1321,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1985.0800323486328,
-    "end_time": 2047.300033569336
+    "end_time": 2047.300033569336,
+    "point_summary": "The failure of one generation to pass on the knowledge of God—illustrated by the generation in Judges 2:10 that knew neither the Lord nor His works—is presented as the tragic consequence the Joshua 4 memorials were designed to prevent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1130,7 +1334,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1985.0800323486328,
-    "end_time": 2047.300033569336
+    "end_time": 2047.300033569336,
+    "point_summary": "When a generation fails to pass on the knowledge of God, the next generation does not merely lack information — it abandons the Lord entirely and falls into idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1141,7 +1347,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2047.300033569336,
-    "end_time": 2128.260040283203
+    "end_time": 2128.260040283203,
+    "point_summary": "When a generation fails to inherit the memory of God's works, the tragic result—as seen just after Joshua's time—is apostasy, underscoring why the memorial stones were divinely commanded.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1152,7 +1360,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2047.300033569336,
-    "end_time": 2128.260040283203
+    "end_time": 2128.260040283203,
+    "point_summary": "When a generation fails to transmit knowledge of God and His works, the inevitable result is apostasy — exactly the tragedy memorials were designed to prevent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1163,7 +1373,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2047.300033569336,
-    "end_time": 2128.260040283203
+    "end_time": 2128.260040283203,
+    "point_summary": "When a generation fails to remember God's works, the tragic result—as seen in Judges 2:10–12—is forsaking the Lord for other gods, illustrating why memorial practices are spiritually urgent for every succeeding generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Judges",
@@ -1174,6 +1386,8 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 426.6600036621094,
-    "end_time": 489.29998779296875
+    "end_time": 489.29998779296875,
+    "point_summary": "Moral autonomy — every man doing what is right in his own eyes — is identified as the root impulse behind atheism: the refusal to be accountable to any authority beyond oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

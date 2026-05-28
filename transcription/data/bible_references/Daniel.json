@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "12L3c81JzTQ",
     "start_time": 761.5800018310547,
-    "end_time": 838.0600128173828
+    "end_time": 838.0600128173828,
+    "point_summary": "Daniel's peaceful sleep in the lions' den illustrates the same sustaining peace David describes in Psalm 3, showing that trust left with God produces rest even amid mortal danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "12L3c81JzTQ",
     "start_time": 761.5800018310547,
-    "end_time": 838.0600128173828
+    "end_time": 838.0600128173828,
+    "point_summary": "Daniel's ability to sleep peacefully in the face of the lions' den illustrates the same sustaining peace David describes in Psalm 3—both men rested because they entrusted their circumstances to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "317YMHnIXHg",
     "start_time": 958.2200012207031,
-    "end_time": 1024.4599914550781
+    "end_time": 1024.4599914550781,
+    "point_summary": "Daniel's deliverance from the lions' den illustrates the Hebrews 11 phrase \"stopped the mouths of lions,\" with Darius's sleepless night and morning question affirming that God continually delivers those who serve Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "317YMHnIXHg",
     "start_time": 958.2200012207031,
-    "end_time": 1024.4599914550781
+    "end_time": 1024.4599914550781,
+    "point_summary": "Daniel's deliverance from the lions' den illustrates the Hebrews 11 phrase \"stopped the mouths of lions,\" with Darius's anxious question to Daniel confirming that God is able to deliver those who serve Him continually.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 2200.999969482422,
-    "end_time": 2263.8999938964844
+    "end_time": 2263.8999938964844,
+    "point_summary": "The three Hebrew men's declaration that God \"is able to deliver\" affirms an unwavering confidence that divine deliverance is certain, whether it comes from, through, or in the midst of the fiery trial.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 2200.999969482422,
-    "end_time": 2263.8999938964844
+    "end_time": 2263.8999938964844,
+    "point_summary": "Even if deliverance means death, the three Hebrews' refusal to bow demonstrates an unconditional faithfulness to God that transcends the outcome of any earthly trial.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 2331.5999755859375,
-    "end_time": 2397.0999755859375
+    "end_time": 2397.0999755859375,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow—rather than accepting an easy deliverance from Nebuchadnezzar—is what made Daniel 3 the testimony it is, and preserved their confidence before God at His appearing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 2436.819980621338,
-    "end_time": 2507.279983520508
+    "end_time": 2507.279983520508,
+    "point_summary": "God's sovereign appointment of rulers — even the basest of men — proves that the Most High actively governs the kingdoms of men, and the living are meant to know this truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1797.760009765625,
-    "end_time": 1874.9199829101562
+    "end_time": 1874.9199829101562,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow in Daniel 3 illustrates that true obedience to God is a matter of prior commitment, not convenience, holding firm even under threat of death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1797.760009765625,
-    "end_time": 1874.9199829101562
+    "end_time": 1874.9199829101562,
+    "point_summary": "Daniel's example of praying despite the lion's den threat illustrates that obedience to God is a matter of prior commitment, not convenience, holding firm when compliance becomes costly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "6MLW_MPF-wo",
     "start_time": 1527.8199768066406,
-    "end_time": 1596.0999755859375
+    "end_time": 1596.0999755859375,
+    "point_summary": "Nebuchadnezzar's astonishment at a fourth figure \"like unto the Son of God\" in the furnace illustrates that God reveals Himself even to the proudest rulers, producing undeniable acknowledgment of who He is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 451.55999755859375,
-    "end_time": 511.0
+    "end_time": 511.0,
+    "point_summary": "Nebuchadnezzar's boast over Babylon in Daniel 4:30 illustrates how unchecked pride—the same flesh-driven desire seen in Uzziah—leads a man to claim glory that belongs to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 511.0,
-    "end_time": 572.4400024414062
+    "end_time": 572.4400024414062,
+    "point_summary": "Nebuchadnezzar's boast — \"I have built… by the might of my power\" — illustrates the flesh's universal desire to claim personal glory for what God has accomplished, the very pride that must be mortified to walk humbly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "8OgJllM8BSQ",
     "start_time": 638.4200057983398,
-    "end_time": 712.1000061035156
+    "end_time": 712.1000061035156,
+    "point_summary": "Nebuchadnezzar's self-glorying declaration in Daniel 4:30 illustrates the flesh's desire to claim personal credit, serving as a biblical example that pride precedes destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 712.1000061035156,
-    "end_time": 777.4000091552734
+    "end_time": 777.4000091552734,
+    "point_summary": "Nebuchadnezzar's judgment fell while his boast was still on his lips, illustrating that God moves swiftly to bring down pride and reclaim sovereign rule over human kingdoms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 712.1000061035156,
-    "end_time": 777.4000091552734
+    "end_time": 777.4000091552734,
+    "point_summary": "Nebuchadnezzar's immediate judgment—driven from men to eat grass as oxen the same hour his boast left his mouth—illustrates that pride goes before destruction and that God alone rules kingdoms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 712.1000061035156,
-    "end_time": 777.4000091552734
+    "end_time": 777.4000091552734,
+    "point_summary": "Nebuchadnezzar's immediate, same-hour judgment illustrates that pride before destruction is not a gradual process—God's discipline can fall while the boast is still on one's lips.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 712.1000061035156,
-    "end_time": 777.4000091552734
+    "end_time": 777.4000091552734,
+    "point_summary": "Nebuchadnezzar's humiliation and eventual restoration illustrate that pride brings swift divine judgment, and only after that destruction does he acknowledge God's sovereign rule.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "9du5nBV5SM8",
     "start_time": 1713.3000183105469,
-    "end_time": 1783.2000122070312
+    "end_time": 1783.2000122070312,
+    "point_summary": "Decisions that endure against temptation—like the three Hebrew children's refusal to bow—are grounded in the unchanging truth of God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "bPt92Z2dPIg",
     "start_time": 2203.3200073242188,
-    "end_time": 2260.2000122070312
+    "end_time": 2260.2000122070312,
+    "point_summary": "Nebuchadnezzar's astonishment at seeing the three men loosed and walking with a fourth like the Son of God illustrates how a surrendered life impacts even the lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "bPt92Z2dPIg",
     "start_time": 2261.3200073242188,
-    "end_time": 2317.5599975585938
+    "end_time": 2317.5599975585938,
+    "point_summary": "Absolute surrender to God—illustrated by Shadrach, Meshach, and Abednego yielding their bodies in the fiery furnace—is confirmed by the presence of a fourth figure \"like unto the Son of God.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "bPt92Z2dPIg",
     "start_time": 2261.3200073242188,
-    "end_time": 2317.5599975585938
+    "end_time": 2317.5599975585938,
+    "point_summary": "Nebuchadnezzar's own words in verse 28 identify the defining characteristic of Shadrach, Meshach, and Abednego as trust in God expressed through bodily yielding—the Old Testament picture of Romans 12:1's living sacrifice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "bPt92Z2dPIg",
     "start_time": 2261.3200073242188,
-    "end_time": 2317.5599975585938
+    "end_time": 2317.5599975585938,
+    "point_summary": "Shadrach, Meshach, and Abednego's willingness to be thrown into the furnace illustrates the meaning of \"yielded\"—surrendering one's body entirely to God regardless of outcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "BTFBBPIk4YQ",
     "start_time": 1741.3800048828125,
-    "end_time": 1801.1000366210938
+    "end_time": 1801.1000366210938,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow before Nebuchadnezzar's image illustrates that decisions which endure under pressure are grounded in obedience to the specific commands of God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "cndo5VpvDZo",
     "start_time": 2246.519989013672,
-    "end_time": 2317.47998046875
+    "end_time": 2317.47998046875,
+    "point_summary": "The presence of Christ with his people across redemptive history is illustrated by Nebuchadnezzar's own testimony that a fourth figure, like the Son of God, walked with Shadrach, Meshach, and Abednego in the furnace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 1947.6800231933594,
-    "end_time": 2008.2000274658203
+    "end_time": 2008.2000274658203,
+    "point_summary": "Daniel 9:27 is read as predicting that the Antichrist will initiate a peace treaty with Israel at the tribulation's start, then break it at the three-and-a-half-year midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 557.9000244140625,
-    "end_time": 629.0200271606445
+    "end_time": 629.0200271606445,
+    "point_summary": "Daniel 7:13 is identified as the origin of the title \"Son of Man,\" which Jesus applies to Himself throughout the Gospels, with the term carrying an emphasis on His humanity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1686.4200134277344,
-    "end_time": 1748.5399780273438
+    "end_time": 1748.5399780273438,
+    "point_summary": "Daniel 7's title \"Son of Man\" is cited as emphasizing Jesus' humanity—the human form he took specifically to redeem mankind—while Mark 10 then demonstrates that this same Son of Man holds divine authority to forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "G50UWUcArHE",
     "start_time": 1010.9400024414062,
-    "end_time": 1062.4400024414062
+    "end_time": 1062.4400024414062,
+    "point_summary": "Daniel 9:24 is cited to show that reconciliation and the end of sins were prophetically determined by God, connecting the Old Testament promise to the finished atoning work of Christ at Calvary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "G50UWUcArHE",
     "start_time": 1062.8800048828125,
-    "end_time": 1122.1199951171875
+    "end_time": 1122.1199951171875,
+    "point_summary": "Daniel 9:24's prophecy that Messiah would be \"cut off but not for himself\" grounds the sermon's claim that reconciliation for iniquity was accomplished through Christ's substitutionary death on the cross.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "G50UWUcArHE",
     "start_time": 1122.1199951171875,
-    "end_time": 1184.6400146484375
+    "end_time": 1184.6400146484375,
+    "point_summary": "Daniel 9:26's prophecy that Messiah would be \"cut off but not for himself\" is presented as Old Testament confirmation of substitutionary atonement, anticipating Paul's declaration that Christ \"died for all.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1393.3799896240234,
-    "end_time": 1453.219985961914
+    "end_time": 1453.219985961914,
+    "point_summary": "Daniel's recognition of the seventy-year captivity in Daniel 9 is grounded directly in Leviticus 26, where God prescribed that the land would rest during Israel's exile to compensate for neglected sabbath years.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 1507.9400024414062,
-    "end_time": 1561.3799743652344
+    "end_time": 1561.3799743652344,
+    "point_summary": "Daniel 9's prayer of national confession is presented as a direct parallel to Leviticus 26, illustrating that covenantal repentance and God's remembrance of His covenant are inseparably linked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1942.1000213623047,
-    "end_time": 2015.260009765625
+    "end_time": 2015.260009765625,
+    "point_summary": "Daniel 9 is cited alongside Nehemiah 1 as a biblical example of the confessional repentance—acknowledging sin and turning back to God—that Leviticus 26 prescribes as the solution to national judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "I8Vu4RmsDi8",
     "start_time": 593.1199951171875,
-    "end_time": 664.7999725341797
+    "end_time": 664.7999725341797,
+    "point_summary": "Daniel 3 is cited as proof that God does not merely declare His power in theory but demonstrates it through the trials of His people, with Nebuchadnezzar's own confession as the result.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "I8Vu4RmsDi8",
     "start_time": 593.1199951171875,
-    "end_time": 664.7999725341797
+    "end_time": 664.7999725341797,
+    "point_summary": "Trials like Daniel's den of lions are cited as proof that Scripture is a practical book, not mere theory — God demonstrating his power through adversity so that even Darius could declare him able to deliver.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 1853.9199523925781,
-    "end_time": 1920.5199508666992
+    "end_time": 1920.5199508666992,
+    "point_summary": "Daniel 9's prophecy is cited as the basis for understanding that the Rapture and the Second Coming are two distinct events separated by seven years.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "JmFMWRCQvuk",
     "start_time": 2272.6799926757812,
-    "end_time": 2346.0399780273438
+    "end_time": 2346.0399780273438,
+    "point_summary": "Hardships can be the direct consequence of faithful obedience, as Daniel's very walk with God was what led him into the lions' den.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 991.4599914550781,
-    "end_time": 1058.97998046875
+    "end_time": 1058.97998046875,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to manipulate their circumstances illustrates that self-reliant intervention limits what God is able to do, whereas faith leaves room for God to act.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 991.4599914550781,
-    "end_time": 1058.97998046875
+    "end_time": 1058.97998046875,
+    "point_summary": "Daniel's refusal to compromise in the lions' den is cited as evidence that trusting God rather than manipulating circumstances allows God to act in ways that would otherwise be forfeited.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 114.5199966430664,
-    "end_time": 177.60000610351562
+    "end_time": 177.60000610351562,
+    "point_summary": "Daniel 3 is introduced as a cross-generational model of faithfulness under pressure, with Shadrach, Meshach, and Abednego exemplifying the willingness to stand against the ideological conformity demanded by their culture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 177.60000610351562,
-    "end_time": 234.17999267578125
+    "end_time": 234.17999267578125,
+    "point_summary": "Daniel 3 is presented as a cross-generational pattern in which God's people face cultural pressure to conform, and the faithfulness of Shadrach, Meshach, and Abednego to stand regardless of consequences becomes the model and question for every subsequent generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 234.17999267578125,
-    "end_time": 298.32000732421875
+    "end_time": 298.32000732421875,
+    "point_summary": "Nebuchadnezzar's erection of a ninety-foot golden image establishes the coercive power of the state that God's people in every generation must decide whether to resist.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 298.32000732421875,
-    "end_time": 350.4800109863281
+    "end_time": 350.4800109863281,
+    "point_summary": "Daniel 3 is presented as a historical example of standing for truth under powerful opposition, with the expectation that each generation faces its own circumstances requiring the same willingness to stand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 350.4800109863281,
-    "end_time": 410.9599914550781
+    "end_time": 410.9599914550781,
+    "point_summary": "Nebuchadnezzar's erection of a ninety-foot golden image in Babylon's plain of Dura establishes the coercive, empire-backed circumstances of idol worship that each generation faces in its own form.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 350.4800109863281,
-    "end_time": 410.9599914550781
+    "end_time": 410.9599914550781,
+    "point_summary": "Nebuchadnezzar's summons of every rank of provincial official to the image's dedication illustrates the totalizing, empire-wide pressure to conform that these three Hebrew men were called to resist.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 688.9599990844727,
-    "end_time": 756.1999969482422
+    "end_time": 756.1999969482422,
+    "point_summary": "Nebuchadnezzar's decree, restated by the Chaldean accusers in verse 10, frames the deliberate defiance of Shadrach, Meshach, and Abednego as a conscious, costly stand against a known and enforced command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 688.9599990844727,
-    "end_time": 756.1999969482422
+    "end_time": 756.1999969482422,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow—despite the known decree and its deadly consequence—is presented as a deliberate, courageous stand against Nebuchadnezzar's command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 688.9599990844727,
-    "end_time": 756.1999969482422
+    "end_time": 756.1999969482422,
+    "point_summary": "Daniel 3:12 marks the moment Shadrach, Meshach, and Abednego are publicly accused of refusing to bow—identified as the stand they took against Nebuchadnezzar's decree.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 821.2799987792969,
-    "end_time": 887.0
+    "end_time": 887.0,
+    "point_summary": "Nebuchadnezzar's interrogation of the three men—dragged before the most powerful ruler on earth in his fury—frames the moment as a test of whether they will bow under the ultimate pressure of threatened death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 821.2799987792969,
-    "end_time": 887.0
+    "end_time": 887.0,
+    "point_summary": "Nebuchadnezzar's closing taunt — \"who is that God that shall deliver you out of my hands?\" — exposes the king's pride as he offers a second chance to bow, framing compromise as the path to comfort and ease.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -569,7 +671,9 @@
     "is_implicit": true,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1172.0599975585938,
-    "end_time": 1238.5800285339355
+    "end_time": 1238.5800285339355,
+    "point_summary": "Confidence in God's ability to deliver—not certainty about *how* He would act—grounded the three men's refusal to bow, rooted in faith that God was able even if the outcome remained unknown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -580,7 +684,9 @@
     "is_implicit": true,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1172.0599975585938,
-    "end_time": 1238.5800285339355
+    "end_time": 1238.5800285339355,
+    "point_summary": "Even if God chose not to deliver them from the furnace, the three men were fully resolved not to bow — their confidence rested in both what God could do and what God had commanded.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -591,7 +697,9 @@
     "is_implicit": true,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1172.0599975585938,
-    "end_time": 1238.5800285339355
+    "end_time": 1238.5800285339355,
+    "point_summary": "Even if God chose not to deliver them from the furnace, the three men were fully resolved not to bow — their confidence rested in both what God could do and what God had commanded.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1562.6600341796875,
-    "end_time": 1617.9400329589844
+    "end_time": 1617.9400329589844,
+    "point_summary": "Nebuchadnezzar's fury at the three men's refusal to bow escalated to the point of heating the furnace seven times hotter and deploying his mightiest soldiers—raising the stakes of their stand to the extreme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1562.6600341796875,
-    "end_time": 1617.9400329589844
+    "end_time": 1617.9400329589844,
+    "point_summary": "Nebuchadnezzar's rage in verse 13, though fierce, still included a second chance to bow, making his later fury in verse 19 the point of no return when the three men stood firm again.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1617.9400329589844,
-    "end_time": 1688.5000305175781
+    "end_time": 1688.5000305175781,
+    "point_summary": "The furnace was so superheated by Nebuchadnezzar's rage that the soldiers who cast the three bound men in were themselves killed by the flames, underscoring the extremity of the threat the three faced.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1617.9400329589844,
-    "end_time": 1688.5000305175781
+    "end_time": 1688.5000305175781,
+    "point_summary": "Nebuchadnezzar's astonished question — confirming three bound men were cast in — sets up the miracle's credibility through the king's own witness and his counselors' corroboration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1688.5000305175781,
-    "end_time": 1782.300048828125
+    "end_time": 1782.300048828125,
+    "point_summary": "Nebuchadnezzar's astonished question—weren't three men bound and cast in?—sets up the miracle: the men are now loose, unhurt, and walking with a fourth figure like the Son of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1688.5000305175781,
-    "end_time": 1782.300048828125
+    "end_time": 1782.300048828125,
+    "point_summary": "The miraculous presence of a fourth figure \"like the Son of God\" in the furnace illustrates that faithful obedience to God, even unto death, can produce a communion with Him beyond ordinary comprehension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 2109.6200256347656,
-    "end_time": 2182.500030517578
+    "end_time": 2182.500030517578,
+    "point_summary": "Standing firm for God may bring fiery consequences, but Daniel 3 promises divine presence in the trial and seasons of communion sweeter than any known before.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 2182.500030517578,
-    "end_time": 2243.1000366210938
+    "end_time": 2243.1000366210938,
+    "point_summary": "The miraculous preservation of Shadrach, Meshach, and Abednego—not a hair singed, no smell of smoke—was witnessed firsthand by Babylon's highest officials, making their deliverance an undeniable public testimony.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 2615.4800415039062,
-    "end_time": 2690.1600341796875
+    "end_time": 2690.1600341796875,
+    "point_summary": "Nebuchadnezzar's forced decree protecting the God of Shadrach, Meshach, and Abednego demonstrates that faithful standing results in God being glorified, not merely the courage of those who stood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 2790.8400268554688,
-    "end_time": 2861.000030517578
+    "end_time": 2861.000030517578,
+    "point_summary": "Daniel 3 challenges believers not merely to admire Shadrach, Meshach, and Abednego's resolve but to match it—standing publicly for a God the watching world considers unreal, amid contemporary pressures to conform and be silenced.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1241.7600326538086,
-    "end_time": 1308.900032043457
+    "end_time": 1308.900032043457,
+    "point_summary": "Daniel's deliberate, fearless return to his established place of prayer—even after knowing the king's decree was signed—illustrates that a structured, habitual prayer life perseveres regardless of personal cost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -723,7 +853,9 @@
     "is_implicit": true,
     "video_id": "Mxme6byM7mw",
     "start_time": 1561.5199890136719,
-    "end_time": 1623.8399963378906
+    "end_time": 1623.8399963378906,
+    "point_summary": "Daniel 3:17 is invoked as the biblical anchor for the claim that God is able to deliver his people, whether through the storm or from it, even if deliverance ultimately means death and entrance into his presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 931.3999938964844,
-    "end_time": 1001.2000122070312
+    "end_time": 1001.2000122070312,
+    "point_summary": "Daniel 9 is cited as the prophetic text that foretold not merely that Messiah would come, but the specific timing of His birth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 0.0,
-    "end_time": 71.08000183105469
+    "end_time": 71.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -756,7 +892,9 @@
     "is_implicit": true,
     "video_id": "QN66bc7XOjk",
     "start_time": 1510.0199584960938,
-    "end_time": 1586.8999633789062
+    "end_time": 1586.8999633789062,
+    "point_summary": "Nebuchadnezzar's defiant question—\"Who is that God that shall deliver you out of my hands?\"—mirrors Pharaoh's ignorance of God, both rulers soon compelled to discover His sovereign power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "QN66bc7XOjk",
     "start_time": 1510.0199584960938,
-    "end_time": 1586.8999633789062
+    "end_time": 1586.8999633789062,
+    "point_summary": "God's self-revelation to those who defy Him is illustrated by Nebuchadnezzar's encounter with the fourth figure in the furnace, paralleling Pharaoh's forced recognition of the Lord through the plagues.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "QN66bc7XOjk",
     "start_time": 1780.5399780273438,
-    "end_time": 1848.4999504089355
+    "end_time": 1848.4999504089355,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1052.1600036621094,
-    "end_time": 1110.9200134277344
+    "end_time": 1110.9200134277344,
+    "point_summary": "Daniel 9:27 is read as the Antichrist's covenant with many — a seven-year peace treaty whose inauguration explains how Israel comes to dwell in the perceived safety described in Ezekiel 38.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1110.9200134277344,
-    "end_time": 1166.52001953125
+    "end_time": 1166.52001953125,
+    "point_summary": "Daniel 9:27 is read as the prophetic basis for a peace covenant between Israel and the Antichrist that inaugurates the seven-year tribulation, with its breaking at the midpoint signaling the onset of desolation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "sj1i3zQpYXc",
     "start_time": 2137.5799865722656,
-    "end_time": 2194.260009765625
+    "end_time": 2194.260009765625,
+    "point_summary": "Belshazzar's feast in Daniel 5 is cited as a historical precedent for Babylon's sudden, unexpected judgment, paralleling the swift fall of commercial and religious Babylon in Revelation 18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "sj1i3zQpYXc",
     "start_time": 2194.260009765625,
-    "end_time": 2248.0599975585938
+    "end_time": 2248.0599975585938,
+    "point_summary": "Daniel 5:5's account of sudden divine judgment on Babylon mid-feast is invoked as a historical precedent for the swift, unexpected fall of Babylon described in Revelation 17–18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -833,7 +983,9 @@
     "is_implicit": true,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 957.8600158691406,
-    "end_time": 1023.1799926757812
+    "end_time": 1023.1799926757812,
+    "point_summary": "Even a pagan king's confidence that Daniel's God \"is able to deliver\" illustrates the broader truth that God's power to rescue His people is undeniable and far-reaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -844,7 +996,9 @@
     "is_implicit": true,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 957.8600158691406,
-    "end_time": 1023.1799926757812
+    "end_time": 1023.1799926757812,
+    "point_summary": "Daniel's deliverance from the lions' den, confirmed by Darius's own words, illustrates that God is able to deliver His people, reinforcing the conditional promise of deliverance Samuel declared to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1727.0,
-    "end_time": 1789.9600219726562
+    "end_time": 1789.9600219726562,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow to Nebuchadnezzar's image illustrates what it means to yield to God rather than to an earthly authority demanding worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1727.0,
-    "end_time": 1789.9600219726562
+    "end_time": 1789.9600219726562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1789.9600219726562,
-    "end_time": 1844.5599899291992
+    "end_time": 1844.5599899291992,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow—trusting God to deliver them yet yielding even if He did not—illustrates what it means to yield oneself wholly to God as Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1844.5599899291992,
-    "end_time": 1907.1999893188477
+    "end_time": 1907.1999893188477,
+    "point_summary": "Shadrach, Meshach, and Abednego's refusal to bow illustrates that God is able to deliver his people from any trial, yet sometimes he chooses to deliver them *through* it rather than from it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1844.5599899291992,
-    "end_time": 1907.1999893188477
+    "end_time": 1907.1999893188477,
+    "point_summary": "Even when God is able to deliver his people *from* a trial, he sometimes chooses instead to deliver them *through* it, as Shadrach, Meshach, and Abednego's unwavering refusal to bow demonstrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 2086.5599975585938,
-    "end_time": 2143.6799926757812
+    "end_time": 2143.6799926757812,
+    "point_summary": "Yielding oneself fully to God, even unto death, brings glory to God—as seen when Nebuchadnezzar declared there is no God like this God after the three men's faithfulness in Daniel 3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 913.280029296875,
-    "end_time": 976.2400207519531
+    "end_time": 976.2400207519531,
+    "point_summary": "Daniel 6:7 is cited briefly as background to the point that Daniel continued praying despite the decree, illustrating that God is able to deliver those who trust Him rather than earthly protection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 913.280029296875,
-    "end_time": 976.2400207519531
+    "end_time": 976.2400207519531,
+    "point_summary": "Daniel 6:10 is cited briefly to illustrate that Daniel prayed and sought the Lord amid opposition, reinforcing the broader point that God is able to answer those who call on Him in faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 913.280029296875,
-    "end_time": 976.2400207519531
+    "end_time": 976.2400207519531,
+    "point_summary": "Daniel 6:16's record of Darius confessing \"thy God whom thou servest continually, he will deliver thee\" is cited as the biblical grounding for the conviction that God is able—the same faith Ezra's company had to live out by seeking divine protection rather than a royal military escort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 913.280029296875,
-    "end_time": 976.2400207519531
+    "end_time": 976.2400207519531,
+    "point_summary": "Daniel's declaration that God \"is able\" — echoed in Ephesians 3:20 and Darius's words in Daniel 6 — called Ezra's company to live by faith rather than seek military escort, trusting God's proven sufficiency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 252.9600067138672,
-    "end_time": 311.44000244140625
+    "end_time": 311.44000244140625,
+    "point_summary": "Daniel's defiant, uninterrupted prayer three times daily—even after the king's decree—demonstrates that a genuine prayer life is marked by consistency and fearlessness before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 311.44000244140625,
-    "end_time": 379.760009765625
+    "end_time": 379.760009765625,
+    "point_summary": "Daniel's defiant prayer after the king's decree was not a reaction to crisis but a continuation of lifelong habit, as the phrase \"as he did aforetime\" reveals his prayer life predated and outlasted any law against it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -987,7 +1165,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 311.44000244140625,
-    "end_time": 379.760009765625
+    "end_time": 379.760009765625,
+    "point_summary": "Daniel 9 is cited as evidence that Daniel was a man of prayer, with his recorded prayer there described as powerful and marked by fasting, sackcloth, and ashes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 379.760009765625,
-    "end_time": 442.70001220703125
+    "end_time": 442.70001220703125,
+    "point_summary": "Daniel 9 is cited as evidence that Daniel was a man of consistent, fervent prayer, with his recorded prayer of fasting, sackcloth, and ashes demonstrating that he genuinely believed God hears and answers prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 379.760009765625,
-    "end_time": 442.70001220703125
+    "end_time": 442.70001220703125,
+    "point_summary": "Daniel 2 is introduced specifically to examine the prayer Daniel offered in response to Nebuchadnezzar's impossible demand, establishing Daniel as a man who believed God hears and answers prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 379.760009765625,
-    "end_time": 442.70001220703125
+    "end_time": 442.70001220703125,
+    "point_summary": "Daniel 2:7 introduces the wise men's repeated demand that Nebuchadnezzar first tell them the dream, setting up the king's accusation that they are stalling for time.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 442.70001220703125,
-    "end_time": 499.67999267578125
+    "end_time": 499.67999267578125,
+    "point_summary": "The Chaldeans' confession that no earthly man could reveal the king's matter sets up the contrast with Daniel, to whom God alone could disclose what was hidden.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 499.67999267578125,
-    "end_time": 557.02001953125
+    "end_time": 557.02001953125,
+    "point_summary": "God's secret, which no earthly wise man could reveal, was disclosed directly to Daniel through a night vision, demonstrating that divine knowledge surpasses all human wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 499.67999267578125,
-    "end_time": 557.02001953125
+    "end_time": 557.02001953125,
+    "point_summary": "God's direct revelation to Daniel in a night vision — not human wisdom — is what made the impossible possible, contrasting sharply with the Chaldeans' confession that no man on earth could reveal such a secret.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 499.67999267578125,
-    "end_time": 557.02001953125
+    "end_time": 557.02001953125,
+    "point_summary": "Nebuchadnezzar's dream in Daniel 2:1 sets the crisis in motion: his demand that the wise men reveal both the dream and its interpretation—not merely interpret a dream he told them—exposed the limits of human wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 608.4000172615051,
-    "end_time": 672.2800140380859
+    "end_time": 672.2800140380859,
+    "point_summary": "Nebuchadnezzar's rage at the wise men's failure produces an irrational death decree that sweeps in Daniel himself, though he was unaware of the crisis that triggered it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 798.8000183105469,
-    "end_time": 863.1600036621094
+    "end_time": 863.1600036621094,
+    "point_summary": "Daniel's request for time from the king, rather than immediate panic or flight, is presented as the faith-driven first step that made his subsequent prayer in verses 17–18 possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1097,7 +1295,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 798.8000183105469,
-    "end_time": 863.1600036621094
+    "end_time": 863.1600036621094,
+    "point_summary": "Daniel's response to crisis—going immediately to his companions for united prayer—illustrates that the proper first recourse when facing impossible circumstances is corporate supplication to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 798.8000183105469,
-    "end_time": 863.1600036621094
+    "end_time": 863.1600036621094,
+    "point_summary": "Faced with a crisis demanding divine knowledge, Daniel's immediate response was corporate prayer — gathering his companions to seek God's mercy for revelation they could not produce on their own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1119,7 +1321,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 1059.9200134277344,
-    "end_time": 1150.2200317382812
+    "end_time": 1150.2200317382812,
+    "point_summary": "Daniel's crisis in chapter 2 illustrates Philippians 4:6 in practice: rather than responding to mortal danger with worry, Daniel called a prayer meeting, modeling the command to bring every need to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 1150.2200317382812,
-    "end_time": 1215.9999904632568
+    "end_time": 1215.9999904632568,
+    "point_summary": "When Daniel faced a death sentence, his response was to call a prayer meeting, illustrating that prayer—not worry—is the proper recourse because God can actually act on the requests made to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1141,7 +1347,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 1622.7799987792969,
-    "end_time": 1683.0599975585938
+    "end_time": 1683.0599975585938,
+    "point_summary": "The companions' declaration in Daniel 3:18 that God is able to deliver—and their resolve to stand firm even if He does not—illustrates the believing, unconditional faith that the sermon holds up as the model for Daniel's own prayer in chapter 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 1683.0599975585938,
-    "end_time": 1742.260009765625
+    "end_time": 1742.260009765625,
+    "point_summary": "Daniel 2:2 is cited to contrast the total inability of Nebuchadnezzar's wisest human counselors with what only God could do—establishing the impossibility that makes Daniel's faith and God's revelation all the more significant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 1683.0599975585938,
-    "end_time": 1742.260009765625
+    "end_time": 1742.260009765625,
+    "point_summary": "Daniel's declaration before Nebuchadnezzar — \"there is a God in heaven that revealeth secrets\" — is cited as evidence that Daniel prayed with faith, knowing the answer could only come from God, not from human ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2013.4400024414062,
-    "end_time": 2078.4400024414062
+    "end_time": 2078.4400024414062,
+    "point_summary": "God's direct answer to Daniel's corporate prayer — revealing the dream and its interpretation in a night vision — demonstrates that he hears and responds to those who seek his mercy concerning what only he knows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2220.8800048828125,
-    "end_time": 2292.5599975585938
+    "end_time": 2292.5599975585938,
+    "point_summary": "Daniel's blessing of God's name \"forever and ever\" in verse 20 grounds his worship in God's eternal nature, omniscience, and omnipotence—attributes that moved Daniel to stop and rejoice before acting, even amid urgent, life-threatening circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "__bA4Uw99tw",
     "start_time": 2381.6000366210938,
-    "end_time": 2463.6400032043457
+    "end_time": 2463.6400032043457,
+    "point_summary": "God's sovereign control over times, seasons, and rulers—illustrated by Nebuchadnezzar's humbling—grounds Daniel's praise that God grants wisdom and knowledge to those who seek Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2553.1800079345703,
-    "end_time": 2618.0599975585938
+    "end_time": 2618.0599975585938,
+    "point_summary": "Daniel's thanksgiving in verse 23 models the discipline of pausing to credit God—not human wisdom—when prayer is answered, a pattern the sermon presents as essential but easily neglected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2553.1800079345703,
-    "end_time": 2618.0599975585938
+    "end_time": 2618.0599975585938,
+    "point_summary": "Daniel's confidence before Arioch to spare the wise men and present the interpretation flows directly from his prior acknowledgment that God, not human wisdom, had revealed the secret.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2618.0599975585938,
-    "end_time": 2688.8200073242188
+    "end_time": 2688.8200073242188,
+    "point_summary": "God's revelation of secrets to Daniel—cited from Daniel 2:28—grounds the sermon's call to prayer in the conviction that we serve the same God who reveals hidden things and is able to deliver.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 2618.0599975585938,
-    "end_time": 2688.8200073242188
+    "end_time": 2688.8200073242188,
+    "point_summary": "Daniel 6:16 is invoked as evidence that God is able to deliver His servants, with Darius's words to Daniel confirming that the God served continually will deliver — illustrating the same delivering power Daniel trusted in chapter 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 0.0,
-    "end_time": 52.18000030517578
+    "end_time": 52.18000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 103.4000015258789,
-    "end_time": 163.67999267578125
+    "end_time": 163.67999267578125,
+    "point_summary": "Daniel 9:24–27 is presented as the foundational prophecy for understanding the seven-year tribulation and its relationship to the sealed scroll of Revelation 5–6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 103.4000015258789,
-    "end_time": 163.67999267578125
+    "end_time": 163.67999267578125,
+    "point_summary": "Daniel 12 is identified as the source of the sealed book of prophecy that Daniel was commanded to shut up, which is then compared to the seven-sealed scroll of Revelation 5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1284,7 +1516,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 103.4000015258789,
-    "end_time": 163.67999267578125
+    "end_time": 163.67999267578125,
+    "point_summary": "Daniel 9:24–27 is presented as foundational prophetic context for understanding the book of Revelation, specifically identifying the 70th week as the seven-year tribulation period.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1295,7 +1529,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 231.66000366210938,
-    "end_time": 293.29998779296875
+    "end_time": 293.29998779296875,
+    "point_summary": "Understanding why the tribulation will occur must precede determining its sequential order, with Daniel 9:24 introduced as the biblical foundation for answering both questions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1306,7 +1542,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 231.66000366210938,
-    "end_time": 293.29998779296875
+    "end_time": 293.29998779296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1317,7 +1555,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 293.29998779296875,
-    "end_time": 366.2799987792969
+    "end_time": 366.2799987792969,
+    "point_summary": "Daniel's response to understanding Jeremiah's 70-year prophecy was immediate prayer, fasting, and seeking God for answers about what was taking place.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1328,7 +1568,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 293.29998779296875,
-    "end_time": 366.2799987792969
+    "end_time": 366.2799987792969,
+    "point_summary": "Daniel 9:24's six-fold purpose clause—finishing transgression, ending sins, making reconciliation, bringing everlasting righteousness, sealing vision and prophecy, and anointing the most holy—is presented as the divine \"why\" behind the seventy weeks before the sermon turns to address the \"when.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1339,7 +1581,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 293.29998779296875,
-    "end_time": 366.2799987792969
+    "end_time": 366.2799987792969,
+    "point_summary": "The seventy weeks of Daniel 9:25 are presented as a precisely sequenced prophetic timeline running from the commandment to restore Jerusalem to the arrival of Messiah the Prince.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1350,7 +1594,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 366.2799987792969,
-    "end_time": 434.1600036621094
+    "end_time": 434.1600036621094,
+    "point_summary": "Verse 25 opens the detailed breakdown of the 70-weeks prophecy, specifying that from the decree to restore Jerusalem until Messiah the Prince spans seven weeks and sixty-two weeks combined.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1361,7 +1607,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 366.2799987792969,
-    "end_time": 434.1600036621094
+    "end_time": 434.1600036621094,
+    "point_summary": "Daniel 9:26 identifies the Messiah being \"cut off\" and the subsequent destruction of the city and sanctuary as specific events filling out the detailed timeline that verse 24's general overview only introduces.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1372,7 +1620,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 366.2799987792969,
-    "end_time": 434.1600036621094
+    "end_time": 434.1600036621094,
+    "point_summary": "Verse 27's \"he\" is identified with the Prince of verse 26, a figure who confirms a covenant, then breaks it mid-week by halting sacrifice and bringing desolating abominations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1383,7 +1633,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 366.2799987792969,
-    "end_time": 434.1600036621094
+    "end_time": 434.1600036621094,
+    "point_summary": "Daniel 9:24 functions as a panoramic summary of the entire 70-weeks prophecy, with verses 25–27 supplying the sequential details and specific intervals within that overarching framework.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 513.5399780273438,
-    "end_time": 579.7999877929688
+    "end_time": 579.7999877929688,
+    "point_summary": "The \"seventy weeks\" of Daniel 9:24 refers to 490 years, not 490 days, a conclusion confirmed by fulfilled history and by the impossibility of the recorded events occurring within a 490-day span.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 513.5399780273438,
-    "end_time": 579.7999877929688
+    "end_time": 579.7999877929688,
+    "point_summary": "The \"seventy weeks\" of Daniel 9:24 are interpreted as 490 years—not days—confirmed both by Daniel's own year-oriented thinking in verse 2 and by the historical impossibility of fulfilling the recorded events within 490 days.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 579.7999877929688,
-    "end_time": 656.47998046875
+    "end_time": 656.47998046875,
+    "point_summary": "The phrase \"thy people\" and \"thy holy city\" in Daniel 9:24 identifies the 490-year prophecy as specifically concerning Israel and Jerusalem, not the church or any other nation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 579.7999877929688,
-    "end_time": 656.47998046875
+    "end_time": 656.47998046875,
+    "point_summary": "The \"seventy weeks\" of Daniel 9:24 are identified as 490 literal years specifically concerning the Jewish people and Jerusalem, establishing the prophecy's ethnic and geographic scope before its timeline is examined.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 656.47998046875,
-    "end_time": 727.47998046875
+    "end_time": 727.47998046875,
+    "point_summary": "Daniel 9:25 identifies the specific commandment to restore and build Jerusalem—not the temple—as the event that starts the 490-year prophetic clock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1449,7 +1711,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 871.47998046875,
-    "end_time": 936.47998046875
+    "end_time": 936.47998046875,
+    "point_summary": "The decree of Artaxerxes in 444 BC, referenced through Nehemiah's request before the king, establishes the precise historical starting point for Daniel 9's seventy-week prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1460,7 +1724,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 936.47998046875,
-    "end_time": 1003.47998046875
+    "end_time": 1003.47998046875,
+    "point_summary": "Artaxerxes' decree to Nehemiah to restore and build Jerusalem marks the precise starting point—\"the going forth of the commandment\"—from which Daniel's prophetic clock begins counting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1378.3799743652344,
-    "end_time": 1444.0799865722656
+    "end_time": 1444.0799865722656,
+    "point_summary": "Simeon's Spirit-prompted recognition of the infant Christ is presented as confirmation that the first 69 weeks of Daniel's prophecy were fulfilled literally, on schedule.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1505.1799926757812,
-    "end_time": 1572.6799926757812
+    "end_time": 1572.6799926757812,
+    "point_summary": "The unfulfilled scope of Daniel 9:24–27 requires a gap between the 69th and 70th weeks, since a continuous timeline would have completed the prophecy by 37 AD, which it was not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1505.1799926757812,
-    "end_time": 1572.6799926757812
+    "end_time": 1572.6799926757812,
+    "point_summary": "The unfulfilled 70th week of Daniel 9:24–27 requires a gap between the 69th and 70th weeks—a gap identified as the church age, beginning at Pentecost and ending at the rapture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1698.9999694824219,
-    "end_time": 1767.0
+    "end_time": 1767.0,
+    "point_summary": "Since the 69 weeks were fulfilled literally, the 70th week demands the same literal interpretation, including the coming prince of Daniel 9:26 being identified as Antichrist, not Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1767.0,
-    "end_time": 1826.5399856567383
+    "end_time": 1826.5399856567383,
+    "point_summary": "Consistent literal fulfillment of the 69 weeks demands that the \"prince that shall come\" in verse 26 refers to the Antichrist, not the Lord, whose people destroy the city and sanctuary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 1767.0,
-    "end_time": 1826.5399856567383
+    "end_time": 1826.5399856567383,
+    "point_summary": "Consistent literal fulfillment of the 69 weeks demands that the \"prince that shall come\" in verse 26—identified here as Antichrist, not Christ—and the 70th week be interpreted with equal literalness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1537,7 +1815,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1826.5399856567383,
-    "end_time": 1891.8199844360352
+    "end_time": 1891.8199844360352,
+    "point_summary": "Daniel 9:27 divides the seventieth week into two equal halves of three and a half years, with the Antichrist's covenant initiating the first half and its breaking marking the midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1891.8199844360352,
-    "end_time": 1953.8799896240234
+    "end_time": 1953.8799896240234,
+    "point_summary": "Daniel 9:27's phrase \"in the midst of the week\" establishes that the Antichrist's covenant—a seven-year peace agreement made at the tribulation's start—will be broken at the precise midpoint of that period.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1559,7 +1841,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 2078.4199829101562,
-    "end_time": 2129.3399963378906
+    "end_time": 2129.3399963378906,
+    "point_summary": "Daniel 9:27 identifies the Antichrist's seven-year covenant as the trigger for a future temple's construction, with its midpoint marked by the cessation of sacrifices and the abomination of desolation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 2371.739990234375,
-    "end_time": 2434.8399696350098
+    "end_time": 2434.8399696350098,
+    "point_summary": "Daniel 9's 70th week is identified as a future seven-year tribulation period whose content is mapped across Revelation's three series of judgments: the seven seals, trumpets, and bowls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 2551.699966430664,
-    "end_time": 2603.8999633789062
+    "end_time": 2603.8999633789062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "EYFIfx9U54k",
     "start_time": 137.1199951171875,
-    "end_time": 189.55999755859375
+    "end_time": 189.55999755859375,
+    "point_summary": "Daniel 2 is cited briefly as an example of a praying man alongside David, without further exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1603,7 +1893,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 66.31999969482422,
-    "end_time": 126.68000030517578
+    "end_time": 126.68000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 321.6000061035156,
-    "end_time": 388.8800048828125
+    "end_time": 388.8800048828125,
+    "point_summary": "The sealed judgments of Revelation 6 are identified as the 70th week of Daniel's prophecy, distinguishing this tribulation period from ordinary historical persecution throughout the church age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 0.0,
-    "end_time": 63.41999816894531
+    "end_time": 63.41999816894531,
+    "point_summary": "Daniel 9's prophecy of seventy weeks provides the chronological framework identifying Revelation's tribulation period as the final seven-year \"seventieth week.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 130.13999938964844,
-    "end_time": 191.6999969482422
+    "end_time": 191.6999969482422,
+    "point_summary": "The four horsemen judgments of Revelation 6 are identified as divine judgment specifically within the 70th week of Daniel's prophecy, distinct from ordinary tribulation experienced during the church age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1647,7 +1945,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 550.5399780273438,
-    "end_time": 617.6999797821045
+    "end_time": 617.6999797821045,
+    "point_summary": "Daniel 9 is cited as the prophetic passage that supplies the specific timing of Messiah's arrival, which Genesis 3:15 promises but does not date.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1658,7 +1958,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 864.2000122070312,
-    "end_time": 937.6200256347656
+    "end_time": 937.6200256347656,
+    "point_summary": "Daniel 9:24's address to \"thy people and thy holy city\" is cited to establish that the tribulation is directed toward Israel, not the church, distinguishing the two as having separate divine purposes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 1809.3400583267212,
-    "end_time": 1876.8600616455078
+    "end_time": 1876.8600616455078,
+    "point_summary": "The Antichrist's covenant in Daniel 9 is cited as the prophesied peace agreement that demonstrates humanity's desperate longing for peace—a longing so strong people will accept almost any terms to obtain it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 0.0,
-    "end_time": 64.81999969482422
+    "end_time": 64.81999969482422,
+    "point_summary": "Daniel and Revelation mutually illuminate each other, with Daniel's sealed prophecy (ch. 12) and his 70th-week timeline (ch. 9) providing the interpretive framework for understanding the seven-sealed scroll of Revelation 5–6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 0.0,
-    "end_time": 64.81999969482422
+    "end_time": 64.81999969482422,
+    "point_summary": "Daniel's 70th week—a final seven-year tribulation period outlined in Daniel 9—provides the prophetic framework that unlocks the sequential seal judgments of Revelation 6, with a specific yet-future event starting its clock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 0.0,
-    "end_time": 64.81999969482422
+    "end_time": 64.81999969482422,
+    "point_summary": "Daniel 9's prophecy of the 70th week identifies the seven-year tribulation period, and its fulfillment in Revelation is unlocked by reading both books together, with each illuminating the other.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 0.0,
-    "end_time": 64.81999969482422
+    "end_time": 64.81999969482422,
+    "point_summary": "Daniel 12's sealed prophecy is presented as the very content that Revelation's seven-sealed scroll contains, with both books mutually illuminating each other's meaning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 64.81999969482422,
-    "end_time": 139.17999267578125
+    "end_time": 139.17999267578125,
+    "point_summary": "Daniel 9:25 marks the precise starting point of the prophetic clock — the commandment to restore and build Jerusalem — which ran through the first 69 weeks until Messiah was cut off and the clock stopped.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 201.33999633789062,
-    "end_time": 268.3800048828125
+    "end_time": 268.3800048828125,
+    "point_summary": "Daniel 9's seventy-weeks prophecy establishes that the prophetic clock starts not at the moment of revelation but at the going forth of the commandment to restore Jerusalem, providing the hermeneutical model for identifying the future event—the Antichrist's covenant—that will start the seventieth week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 201.33999633789062,
-    "end_time": 268.3800048828125
+    "end_time": 268.3800048828125,
+    "point_summary": "The Antichrist's confirmation of a covenant with many for one week (seven years) marks the event that starts the clock on Daniel's 70th week, distinguishing it from the church age gap preceding it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1757,7 +2075,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1901.260025024414,
-    "end_time": 1951.8600158691406
+    "end_time": 1951.8600158691406,
+    "point_summary": "The rider on the white horse conquering through peace is linked to the signing of the covenant that initiates Daniel's 70th week, which in turn necessitates a rebuilt third temple where the abomination of desolation will occur at the Tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1951.8600158691406,
-    "end_time": 2012.4600219726562
+    "end_time": 2012.4600219726562,
+    "point_summary": "Daniel 8:23's description of a coming king whose power is \"not by his own power\" is read as a portrait of the Antichrist, complementing the bowman of Revelation 6 who conquers without arrows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1951.8600158691406,
-    "end_time": 2012.4600219726562
+    "end_time": 2012.4600219726562,
+    "point_summary": "Daniel 7 and Daniel 8 together present complementary portraits of the Antichrist, with each chapter contributing distinct aspects of his character and career.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1790,7 +2114,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 2012.4600219726562,
-    "end_time": 2086.300018310547
+    "end_time": 2086.300018310547,
+    "point_summary": "Daniel 8:23's description of a king who \"by peace shall destroy many\" is read as a dual-fulfillment prophecy—near-term in Antiochus Epiphanes, long-range in the Antichrist—explaining how the rider of Revelation 6 conquers without arrows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1801,7 +2127,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 2012.4600219726562,
-    "end_time": 2086.300018310547
+    "end_time": 2086.300018310547,
+    "point_summary": "Daniel 8:24's description of a king who destroys \"by peace\" is read as a dual-fulfillment prophecy, with Antiochus Epiphanes as the near fulfillment and the Antichrist as the long-range fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1812,7 +2140,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 2012.4600219726562,
-    "end_time": 2086.300018310547
+    "end_time": 2086.300018310547,
+    "point_summary": "Daniel 8:25's phrase \"by peace shall destroy many\" is cited as evidence that the Antichrist's bowless rider conquers through deceptive peace rather than open military force.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 2362.7400512695312,
-    "end_time": 2417.260000228882
+    "end_time": 2417.260000228882,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 383.3599853515625,
-    "end_time": 449.3999938964844
+    "end_time": 449.3999938964844,
+    "point_summary": "The scroll in Revelation 5 is identified as the sealed book of prophecy Daniel was commanded to close, with Daniel 12 cited as the cross-reference that unlocks its contents.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1845,7 +2179,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 383.3599853515625,
-    "end_time": 449.3999938964844
+    "end_time": 449.3999938964844,
+    "point_summary": "The scroll in Revelation 5 is identified as likely the book of prophecy Daniel was commanded to seal up, with Daniel 12 offered as the interpretive key that unlocks Revelation's prophetic content.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 449.3999938964844,
-    "end_time": 514.3200073242188
+    "end_time": 514.3200073242188,
+    "point_summary": "Daniel 12:1 is cited to identify \"thy people\" as Israel and the Jews, establishing that the sealed prophetic book concerns the Jewish people and their future time of trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1867,7 +2205,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 449.3999938964844,
-    "end_time": 514.3200073242188
+    "end_time": 514.3200073242188,
+    "point_summary": "Daniel 9:24's phrase \"thy people and thy holy city\" identifies Daniel's people as Israel and their city as Jerusalem, anchoring the prophecy's scope in a Jewish national context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 514.3200073242188,
-    "end_time": 580.9199829101562
+    "end_time": 580.9199829101562,
+    "point_summary": "Daniel 12:1's reference to \"thy people\" identifies the tribulation period as specifically concerning Israel and the Jews, confirming that the seven-sealed scroll of Revelation 5 is tied to Daniel's 70th week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 514.3200073242188,
-    "end_time": 580.9199829101562
+    "end_time": 580.9199829101562,
+    "point_summary": "Daniel chapters 10–12 are identified as the visionary context for the sealed book, with \"thy people\" specifying Israel and Jerusalem as the subjects of end-times prophecy culminating in the tribulation's 70th week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 514.3200073242188,
-    "end_time": 580.9199829101562
+    "end_time": 580.9199829101562,
+    "point_summary": "Daniel 12:4's command to \"shut up the words and seal the book even to the time of the end\" is presented as confirmation that the sealed scroll of Revelation 5 connects to the tribulation events of Daniel's 70th week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 514.3200073242188,
-    "end_time": 580.9199829101562
+    "end_time": 580.9199829101562,
+    "point_summary": "Daniel 12's sealed book and its explicit identification of \"thy people\" as Israel and Jerusalem provide a confirming parallel to the sealed scroll of Revelation 5, linking both to the coming tribulation as the 70th week of Daniel's prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 580.9199829101562,
-    "end_time": 649.8600120544434
+    "end_time": 649.8600120544434,
+    "point_summary": "Daniel 9:24–27 identifies the seven-year tribulation as the 70th week of Daniel's prophecy, beginning when the first seal is opened in Revelation 6 and pertaining specifically to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 580.9199829101562,
-    "end_time": 649.8600120544434
+    "end_time": 649.8600120544434,
+    "point_summary": "Daniel 9:24–27 identifies the seven-year Tribulation as the 70th week of Daniel's prophecy, beginning when the first seal is opened in Revelation 6 and pertaining specifically to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 711.6600112915039,
-    "end_time": 774.6200103759766
+    "end_time": 774.6200103759766,
+    "point_summary": "Daniel 12:1's reference to \"thy people\" is cited alongside Daniel 9:24 and 10:14 to establish that these passages address the same prophetic time period as the sealed scroll in Revelation 5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1955,7 +2309,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 711.6600112915039,
-    "end_time": 774.6200103759766
+    "end_time": 774.6200103759766,
+    "point_summary": "Daniel 9:24 is cited alongside other Daniel passages as cross-referential evidence that the sealed scroll of Revelation 5 corresponds to the scroll Daniel was commanded to seal up.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 711.6600112915039,
-    "end_time": 774.6200103759766
+    "end_time": 774.6200103759766,
+    "point_summary": "Daniel 10:14's reference to \"thy people\" is cited alongside Daniel 9:24 and Daniel 12:1 to establish that these passages address the same end-times period concerning Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 711.6600112915039,
-    "end_time": 774.6200103759766
+    "end_time": 774.6200103759766,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1988,7 +2348,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 0.0,
-    "end_time": 62.36000061035156
+    "end_time": 62.36000061035156,
+    "point_summary": "Daniel 9 is presented as an interpretive key that unlocks the book of Revelation, making it essential background for understanding end-times prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 0.0,
-    "end_time": 62.36000061035156
+    "end_time": 62.36000061035156,
+    "point_summary": "Daniel serves as an interpretive key that unlocks the book of Revelation, making it essential background for understanding end-times prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2010,7 +2374,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 124.37999725341797,
-    "end_time": 188.9600067138672
+    "end_time": 188.9600067138672,
+    "point_summary": "Daniel 9:24 is presented as a panoramic overview of the entire prophecy, with its six redemptive and eschatological purposes serving as a summary before the specific details unfold in the following verses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2021,7 +2387,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 124.37999725341797,
-    "end_time": 188.9600067138672
+    "end_time": 188.9600067138672,
+    "point_summary": "Daniel 9:25 provides the detailed prophetic timeline—from the commandment to restore Jerusalem to Messiah the Prince—that verse 24's overview of the seventy weeks only broadly introduces.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2032,7 +2400,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 188.9600067138672,
-    "end_time": 254.0
+    "end_time": 254.0,
+    "point_summary": "Daniel 9:24 is identified as a summary overview of the entire prophetic vision, with its six stated purposes encompassing all that the subsequent verses detail for Israel and Jerusalem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2043,7 +2413,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 188.9600067138672,
-    "end_time": 254.0
+    "end_time": 254.0,
+    "point_summary": "Verse 25 marks the starting point of the prophetic clock — the commandment to restore Jerusalem — and traces the first 69 weeks through the rebuilding of the city to Messiah's crucifixion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2054,7 +2426,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 254.6999969482422,
-    "end_time": 321.9599914550781
+    "end_time": 321.9599914550781,
+    "point_summary": "Daniel 9:25 marks the starting point of the 69 weeks — the commandment to restore Jerusalem found in Nehemiah — which, having been fulfilled literally, grounds the expectation that the yet-future 70th week will be fulfilled literally as well.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 321.9599914550781,
-    "end_time": 386.2799987792969
+    "end_time": 386.2799987792969,
+    "point_summary": "The 70th week's resumption is tied to the Antichrist's seven-year peace treaty, which he breaks at its midpoint, with the week concluding at Christ's return in Revelation 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 446.9200134277344,
-    "end_time": 509.70001220703125
+    "end_time": 509.70001220703125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2087,7 +2465,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 912.3599853515625,
-    "end_time": 970.8399963378906
+    "end_time": 970.8399963378906,
+    "point_summary": "Daniel 9:27's depiction of the abomination—the man of sin enthroning himself in the temple—is shown to find direct parallel and confirmation in 2 Thessalonians 2:4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2439.240001678467,
-    "end_time": 2509.4400024414062
+    "end_time": 2509.4400024414062,
+    "point_summary": "The 70th week of Daniel is God's specific work of preparing Israel to receive their Messiah, culminating in the surviving remnant's acceptance of Jesus at the end of the tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2565.9199981689453,
-    "end_time": 2640.300003051758
+    "end_time": 2640.300003051758,
+    "point_summary": "The seventy weeks of Daniel 9:24 are determined specifically upon Daniel's people (the Jews) and his holy city (Jerusalem), not the church, ruling out replacement theology.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2120,7 +2504,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2640.300003051758,
-    "end_time": 2705.4200134277344
+    "end_time": 2705.4200134277344,
+    "point_summary": "Daniel 9:24's declaration that seventy weeks are determined upon Daniel's people and his holy city establishes that the entire prophecy—including the seventieth week—concerns Israel and Jerusalem, not the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 0.0,
-    "end_time": 56.599998474121094
+    "end_time": 56.599998474121094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2142,7 +2530,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1543.5600280761719,
-    "end_time": 1604.0000305175781
+    "end_time": 1604.0000305175781,
+    "point_summary": "Daniel's continued prayer in defiance of the royal decree, and his subsequent deliverance from the lions' den, is presented as a living example of God's ability to deliver those who call upon Him in trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2153,7 +2543,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1543.5600280761719,
-    "end_time": 1604.0000305175781
+    "end_time": 1604.0000305175781,
+    "point_summary": "Daniel's continued prayer despite the king's decree, and his subsequent deliverance from the lions' den, is presented as a living illustration of God's power to deliver His people in days of trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1604.0000305175781,
-    "end_time": 1667.0400390625
+    "end_time": 1667.0400390625,
+    "point_summary": "Even a pagan king, unable to deliver Daniel despite his best efforts, confessed that the God Daniel served continually would accomplish what human power could not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1604.0000305175781,
-    "end_time": 1667.0400390625
+    "end_time": 1667.0400390625,
+    "point_summary": "Even a king who labored until sundown and was displeased with himself could not deliver Daniel, underscoring that true deliverance belonged only to the God Daniel served continually.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2186,7 +2582,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1667.0400390625,
-    "end_time": 1729.8400268554688
+    "end_time": 1729.8400268554688,
+    "point_summary": "Daniel's deliverance from the lions' den — with the King himself testifying that the God Daniel served continually was able to deliver him — illustrates that God answers His people in their day of trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2197,7 +2595,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1667.0400390625,
-    "end_time": 1729.8400268554688
+    "end_time": 1729.8400268554688,
+    "point_summary": "Daniel's answer to the king from inside the lion's den demonstrates that God delivered him in his trouble, fulfilling the very promise the king himself had spoken over him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2208,7 +2608,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1894.4200134277344,
-    "end_time": 1960.5800170898438
+    "end_time": 1960.5800170898438,
+    "point_summary": "Visible, countercultural faithfulness—illustrated by Shadrach, Meshach, and Abednego refusing to bow—is the expected evidence that genuine faith makes believers noticeably different from the world around them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Daniel",
@@ -2219,6 +2621,8 @@
     "is_implicit": true,
     "video_id": "q4iAWTrjwRk",
     "start_time": 2573.719970703125,
-    "end_time": 2643.219970703125
+    "end_time": 2643.219970703125,
+    "point_summary": "Daniel's deliverance from the lions' den illustrates that God is able to do what no earthly king—not even Darius—could do: supernaturally restrain what threatens His servant's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

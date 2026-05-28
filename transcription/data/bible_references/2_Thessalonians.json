@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 0.0,
-    "end_time": 60.040000915527344
+    "end_time": 60.040000915527344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 115.54000091552734,
-    "end_time": 186.6999969482422
+    "end_time": 186.6999969482422,
+    "point_summary": "Contrasted with the correction of disorderly members in verses 6–12, verse 13 issues a direct charge to faithful believers not to grow faint or exhausted in upright conduct.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 186.6999969482422,
-    "end_time": 250.66000366210938
+    "end_time": 250.66000366210938,
+    "point_summary": "Paul's command \"be not weary in well-doing\" is addressed specifically to those already acting uprightly, with \"weary\" meaning to become utterly spiritless or exhausted in the pursuit of right conduct.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 314.760009765625,
-    "end_time": 380.29998779296875
+    "end_time": 380.29998779296875,
+    "point_summary": "Keeping Christ — not human acknowledgment or appreciation — as the object of one's service is the antidote to growing weary in well-doing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 645.9200057983398,
-    "end_time": 711.3800048828125
+    "end_time": 711.3800048828125,
+    "point_summary": "Serving in one's own strength inevitably produces weariness, but relying on God's power—renewing the inward man daily—is the means by which believers fulfill the command not to grow weary in well doing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "0lpK3XY3NtI",
     "start_time": 906.8999938964844,
-    "end_time": 966.0
+    "end_time": 966.0,
+    "point_summary": "Avoiding weariness in well-doing requires recognizing that spiritual strength to persevere comes not from personal resolve but from reliance on Christ's power, without whom nothing can be accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 1036.9400024414062,
-    "end_time": 1101.6000061035156
+    "end_time": 1101.6000061035156,
+    "point_summary": "Avoiding weariness in well-doing requires relying entirely on God's power rather than one's own strength, since apart from Christ nothing can be accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 1101.6000061035156,
-    "end_time": 1158.760009765625
+    "end_time": 1158.760009765625,
+    "point_summary": "The command not to grow weary in well-doing (2 Thess. 3:13) is grounded in the promise of Galatians 6:9 that a harvest will come in due season to those who do not faint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 1231.3000144958496,
-    "end_time": 1297.1800155639648
+    "end_time": 1297.1800155639648,
+    "point_summary": "The promise of an eschatological harvest—\"in due season we shall reap if we faint not\"—grounds the command against weariness, with the reaping potentially extending beyond the believer's own lifetime into generational impact.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "2KK1iGdL4p0",
     "start_time": 2110.9400024414062,
-    "end_time": 2179.4199829101562
+    "end_time": 2179.4199829101562,
+    "point_summary": "Alongside the numeric growth seen in 1 Thessalonians 1, 2 Thessalonians 1 is cited as evidence that the Thessalonian church also experienced spiritual growth, which the sermon presents as equally vital and as the foundation that produces numeric growth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "2KK1iGdL4p0",
     "start_time": 2246.2999877929688,
-    "end_time": 2315.260009765625
+    "end_time": 2315.260009765625,
+    "point_summary": "Paul's commendation of the Thessalonian church highlights that true church growth is measured first by exceedingly growing faith and abounding mutual love, not by numerical increase.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "346_VFj2Pb0",
     "start_time": 1907.6800079345703,
-    "end_time": 1976.0599975585938
+    "end_time": 1976.0599975585938,
+    "point_summary": "Idleness and busybody behavior condemned in 2 Thessalonians 3:11 extend beyond any particular marital status or age, indicting all believers who walk disorderly by meddling rather than working.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 447.0199890136719,
-    "end_time": 515.3800048828125
+    "end_time": 515.3800048828125,
+    "point_summary": "The Thessalonians' exceedingly growing faith and abounding charity is presented as the direct fruit of properly receiving and understanding God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 0.0,
-    "end_time": 69.4000015258789
+    "end_time": 69.4000015258789,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "9AqAnL77RLA",
     "start_time": 0.0,
-    "end_time": 60.36000061035156
+    "end_time": 60.36000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -173,7 +203,9 @@
     "is_implicit": true,
     "video_id": "9AqAnL77RLA",
     "start_time": 848.4199981689453,
-    "end_time": 913.8600158691406
+    "end_time": 913.8600158691406,
+    "point_summary": "The recurring theme of Christ's return and the believer's gathering to Him threads through both Thessalonian letters, anchoring the comfort offered to those who sorrow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2441.5199813842773,
-    "end_time": 2529.679977416992
+    "end_time": 2529.679977416992,
+    "point_summary": "Christ's return should urgently motivate evangelism, since those who have heard and rejected the gospel face divine judgment with no further opportunity for repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 0.0,
-    "end_time": 61.279998779296875
+    "end_time": 61.279998779296875,
+    "point_summary": "Paul wrote 2 Thessalonians shortly after his first letter specifically to address believers who had been shaken or troubled by false reports about the day of Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 0.0,
-    "end_time": 61.279998779296875
+    "end_time": 61.279998779296875,
+    "point_summary": "The proximity of 2 Thessalonians to the first letter is explained by an urgent pastoral need: false teaching about the Day of Christ was already unsettling the Thessalonian believers' minds.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 61.279998779296875,
-    "end_time": 134.60000610351562
+    "end_time": 134.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 61.279998779296875,
-    "end_time": 134.60000610351562
+    "end_time": 134.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 61.279998779296875,
-    "end_time": 134.60000610351562
+    "end_time": 134.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "ApQwzzTJDiU",
     "start_time": 196.02000427246094,
-    "end_time": 257.20001220703125
+    "end_time": 257.20001220703125,
+    "point_summary": "False teaching that contradicts apostolic instruction necessitates a pastoral response of comfort, correction, and instruction — all three of which Paul's second letter to Thessalonica was written to provide.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 451.94000244140625,
-    "end_time": 514.4600219726562
+    "end_time": 514.4600219726562,
+    "point_summary": "Paul's shift from beseeching and exhorting in 1 Thessalonians to commanding in 2 Thessalonians 3:6 signals that congregational withdrawal from disorderly members carries apostolic authority, not mere suggestion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 514.4600219726562,
-    "end_time": 578.02001953125
+    "end_time": 578.02001953125,
+    "point_summary": "Paul's shift from beseeching and exhorting in 1 Thessalonians to commanding in 3:6 signals that God's instruction here carries the weight of a directive, not a suggestion, leaving no ambiguity for the believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 514.4600219726562,
-    "end_time": 578.02001953125
+    "end_time": 578.02001953125,
+    "point_summary": "Paul's own conduct among the Thessalonians — working without being a burden — is presented as the behavioral standard believers are commanded to imitate, not merely admire.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 514.4600219726562,
-    "end_time": 578.02001953125
+    "end_time": 578.02001953125,
+    "point_summary": "Paul's deliberate labor \"night and day\" among the Thessalonians is presented as a self-funded example, not mere necessity, intended to model the work ethic he now commands of them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 514.4600219726562,
-    "end_time": 578.02001953125
+    "end_time": 578.02001953125,
+    "point_summary": "Paul and his companions voluntarily forfeited their apostolic right to financial support in order to set a working example for the Thessalonian believers to imitate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 514.4600219726562,
-    "end_time": 578.02001953125
+    "end_time": 578.02001953125,
+    "point_summary": "Paul's command that the unwilling worker should not eat is presented here as a direct apostolic instruction given in person before being restated in writing, underscoring its binding authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 578.02001953125,
-    "end_time": 639.9000015258789
+    "end_time": 639.9000015258789,
+    "point_summary": "Paul's command to withdraw from every brother walking disorderly identifies a present, actual problem in the Thessalonian church—not a hypothetical future one—with failure to work named as the specific disorderly behavior in view.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 639.9000015258789,
-    "end_time": 706.5400009155273
+    "end_time": 706.5400009155273,
+    "point_summary": "The command \"if any would not work, neither should he eat\" targets those who *will not* work—not those who *cannot*—making willful idleness the specific disorderly behavior Paul addresses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 706.5400009155273,
-    "end_time": 772.7400054931641
+    "end_time": 772.7400054931641,
+    "point_summary": "The Greek word translated \"disorderly\" in 2 Thessalonians 3:6 is linguistically connected to \"unruly\" in 1 Thessalonians 5:14, revealing a deliberate thread between the two letters addressing the same persistent problem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 706.5400009155273,
-    "end_time": 772.7400054931641
+    "end_time": 772.7400054931641,
+    "point_summary": "The Greek word translated \"disorderly\" in 2 Thessalonians 3:7 derives from the same root as \"unruly\" in 1 Thessalonians 5:14, linking the two letters and showing the problem had persisted without correction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 897.760009765625,
-    "end_time": 957.9599914550781
+    "end_time": 957.9599914550781,
+    "point_summary": "False teaching that the day of Christ had already come led some Thessalonians to abandon work, illustrating how eschatological error produces practical disorder.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 1017.0400085449219,
-    "end_time": 1089.9599914550781
+    "end_time": 1089.9599914550781,
+    "point_summary": "Paul's command to \"withdraw\" from disorderly brethren is presented as a mandatory ecclesiastical step — issued in Christ's name — for believers who refuse to work in defiance of apostolic tradition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 1017.0400085449219,
-    "end_time": 1089.9599914550781
+    "end_time": 1089.9599914550781,
+    "point_summary": "Church discipline for persistent disobedience to apostolic teaching requires social separation—not as punishment treating the offender as an enemy, but as shame-inducing admonition directed toward a brother.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "ApQwzzTJDiU",
     "start_time": 1801.7799682617188,
-    "end_time": 1874.099967956543
+    "end_time": 1874.099967956543,
+    "point_summary": "The command to withdraw in 2 Thessalonians 3:6 represents a final disciplinary step taken only after repeated warnings had already been given and ignored by those walking disorderly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "aSMYJGSxXQQ",
     "start_time": 1617.3799743652344,
-    "end_time": 1682.6999816894531
+    "end_time": 1682.6999816894531,
+    "point_summary": "Paul's repeated request across multiple churches — that believers pray for the free course and glorification of the word — demonstrates this was a consistent apostolic petition, not an isolated appeal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "bADTYZtvU4s",
     "start_time": 564.5599975585938,
-    "end_time": 621.8599834442139
+    "end_time": 621.8599834442139,
+    "point_summary": "Paul's specific prayer request — that the word of the Lord would have free course and be glorified — is held up as a model for congregational intercession on behalf of missionaries and gospel advance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "bADTYZtvU4s",
     "start_time": 621.8599834442139,
-    "end_time": 685.099983215332
+    "end_time": 685.099983215332,
+    "point_summary": "Prayer for the unhindered spread of God's Word is presented as every believer's direct role in world missions, grounded in Paul's specific request that the Word have free course.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "bADTYZtvU4s",
     "start_time": 621.8599834442139,
-    "end_time": 685.099983215332
+    "end_time": 685.099983215332,
+    "point_summary": "Prayer for deliverance from those who oppose the gospel is presented as a specific, necessary missionary intercession, because not all men have faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "bk0BCi-BMI0",
     "start_time": 828.0999755859375,
-    "end_time": 902.5799865722656
+    "end_time": 902.5799865722656,
+    "point_summary": "Separation from a disobedient member is a church discipline commanded by Paul so that shame may produce repentance, illustrating the broader principle of marking and avoiding those who walk contrary to sound doctrine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 0.0,
-    "end_time": 49.79999923706055
+    "end_time": 49.79999923706055,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "CECxpbAod2A",
     "start_time": 2331.0199584960938,
-    "end_time": 2391.8599853515625
+    "end_time": 2391.8599853515625,
+    "point_summary": "Believers appointed to affliction can nonetheless endure with patience and faith, becoming fruitful witnesses even amid persecution and tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 360.3800048828125,
-    "end_time": 427.70001220703125
+    "end_time": 427.70001220703125,
+    "point_summary": "The \"mystery of iniquity\" already at work in Paul's day confirms that the spirit of Antichrist—the many false teachers John describes—was actively present long before any final Antichrist arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 1947.6800231933594,
-    "end_time": 2008.2000274658203
+    "end_time": 2008.2000274658203,
+    "point_summary": "The mystery of iniquity already at work in Paul's day is cited as biblical grounding for the claim that the Antichrist's rise follows the rapture of the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 2008.2000274658203,
-    "end_time": 2068.060028076172
+    "end_time": 2068.060028076172,
+    "point_summary": "Paul's description of \"that man of sin\" and \"son of perdition\" in 2 Thessalonians 2:3 is identified as the Antichrist whose rise, following a falling away, is yet future and post-rapture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 2068.060028076172,
-    "end_time": 2124.1000366210938
+    "end_time": 2124.1000366210938,
+    "point_summary": "Second Thessalonians 2:4 identifies the Antichrist as the one who exalts himself above all that is called God and seats himself in the temple of God, connecting to Daniel's prophecy at the tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 2812.739990234375,
-    "end_time": 2869.1199951171875
+    "end_time": 2869.1199951171875,
+    "point_summary": "The Holy Spirit, identified as the restrainer of 2 Thessalonians 2:7, currently holds back the full expression of wickedness, and His removal at the rapture will unleash unprecedented tribulation on earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "fA6v_soJiXY",
     "start_time": 58.5,
-    "end_time": 118.5
+    "end_time": 118.5,
+    "point_summary": "Paul's commendation of the Thessalonians—that the charity of every one of them toward each other abounded—is held up as the positive model of brotherly love against which the divided church at Corinth is contrasted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -558,7 +658,9 @@
     "is_implicit": true,
     "video_id": "fA6v_soJiXY",
     "start_time": 2024.2599792480469,
-    "end_time": 2097.019989013672
+    "end_time": 2097.019989013672,
+    "point_summary": "The church at Thessalonica is held up as a model where the charity of every one toward each other abounded, contrasting with Corinth's divisions and urging continual growth in love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "fA6v_soJiXY",
     "start_time": 2098.019989013672,
-    "end_time": 2160.5
+    "end_time": 2160.5,
+    "point_summary": "The phrase \"the charity of every one of you all toward each other aboundeth\" is held up as a model of love that transcends cliques and extends to every member of the congregation without exception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 0.0,
-    "end_time": 60.040000915527344
+    "end_time": 60.040000915527344,
+    "point_summary": "Paul's authority as the human author of 2 Thessalonians is grounded in his total surrender to Christ, which the sermon presents as the foundation for understanding the epistle's message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 238.05999755859375,
-    "end_time": 295.5799865722656
+    "end_time": 295.5799865722656,
+    "point_summary": "Paul's appeal in 2 Thessalonians 2:1 pairs the coming of Christ with the believers' gathering unto Him, and this sermon takes that pairing as its title and launching point for instruction and encouragement to the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 295.5799865722656,
-    "end_time": 363.5799865722656
+    "end_time": 363.5799865722656,
+    "point_summary": "Paul's appeal in 2 Thessalonians 2:1 anchors the Thessalonians' instruction in two realities—the coming of Christ and the believers' gathering together unto Him—as the doctrinal foundation for what follows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 295.5799865722656,
-    "end_time": 363.5799865722656
+    "end_time": 363.5799865722656,
+    "point_summary": "Paul's corrective in verse 2 targets a specific deception circulating among the Thessalonians — false communications, including a forged letter claiming apostolic authority, asserting that the Day of Christ had already come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 295.5799865722656,
-    "end_time": 363.5799865722656
+    "end_time": 363.5799865722656,
+    "point_summary": "Before the Day of Christ arrives, Paul insists two events must precede it — a falling away and the revelation of the man of sin — correcting those who were falsely claiming that day had already come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 424.3399963378906,
-    "end_time": 494.20001220703125
+    "end_time": 494.20001220703125,
+    "point_summary": "The Greek word translated \"gathering together\" in 2 Thessalonians 2:1 appears only twice in the New Testament, linking this future eschatological event to its one other occurrence in Hebrews 10:25.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 890.9600219726562,
-    "end_time": 954.9600219726562
+    "end_time": 954.9600219726562,
+    "point_summary": "The \"gathering together unto him\" in 2 Thessalonians 2:1 is identified with Christ's promised return to receive believers unto himself, as stated in John 14, distinguishing that future gathering from the present assembling of saints.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 1294.2400207519531,
-    "end_time": 1363.1200256347656
+    "end_time": 1363.1200256347656,
+    "point_summary": "The phrase \"our gathering together unto Him\" in 2 Thessalonians 2:1 frames the present corporate assembly of believers as preparation for the ultimate eschatological gathering at Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 1363.2000274658203,
-    "end_time": 1431.6000213623047
+    "end_time": 1431.6000213623047,
+    "point_summary": "Paul's phrase \"our gathering together unto him\" in 2:1 is read as the definitive future event toward which every present assembly of believers is oriented and preparation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "frq7AqJtgGY",
     "start_time": 1621.0400085449219,
-    "end_time": 1687.8800354003906
+    "end_time": 1687.8800354003906,
+    "point_summary": "Paul's phrase \"our gathering together unto him\" in 2 Thessalonians 2:1 anchors the Rapture's supreme significance in permanent union with Christ himself, not merely the event's mechanics.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "g08Zns8_rJI",
     "start_time": 1185.0,
-    "end_time": 1256.780029296875
+    "end_time": 1256.780029296875,
+    "point_summary": "Paul's specific prayer request in 2 Thessalonians 3:1 — that the word of the Lord have free course and be glorified — is illuminated by 1 Thessalonians 2:13, where the Thessalonians had already received that word as God's own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "g08Zns8_rJI",
     "start_time": 1331.780029296875,
-    "end_time": 1410.780029296875
+    "end_time": 1410.780029296875,
+    "point_summary": "Paul's prayer request that the word of the Lord \"have free course and be glorified\" is grounded in the Thessalonians' own transformed lives as living proof that the gospel still works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "g08Zns8_rJI",
     "start_time": 1331.780029296875,
-    "end_time": 1410.780029296875
+    "end_time": 1410.780029296875,
+    "point_summary": "Paul's request for prayer to be delivered from \"unreasonable and wicked men\" reflects his firsthand experience of intense, persistent opposition that even followed him out of Thessalonica.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -723,7 +853,9 @@
     "is_implicit": true,
     "video_id": "g08Zns8_rJI",
     "start_time": 1410.780029296875,
-    "end_time": 1477.780029296875
+    "end_time": 1477.780029296875,
+    "point_summary": "Paul's request for prayer to be delivered from \"unreasonable and wicked men\" reflects his lived experience of fierce, persistent opposition to the gospel at every turn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 3166.9200439453125,
-    "end_time": 3237.5400390625
+    "end_time": 3237.5400390625,
+    "point_summary": "The mystery of iniquity already at work in the world confirms that there is a real power of darkness from which believers must be delivered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "I6K0V0ASzDE",
     "start_time": 676.1800155639648,
-    "end_time": 749.8600158691406
+    "end_time": 749.8600158691406,
+    "point_summary": "Across Ephesians, Colossians, and 2 Thessalonians, Scripture's repeated command \"let no man deceive you\" establishes deception through crafted speech as a consistent, serious biblical warning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 749.8600158691406,
-    "end_time": 818.5800170898438
+    "end_time": 818.5800170898438,
+    "point_summary": "Paul's repeated warning \"let no man deceive you by any means\" in 2 Thessalonians 2:3 escalates beyond \"vain words\" or \"enticing words\" to encompass every possible method of deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "ih2lvcJJaCE",
     "start_time": 2663.179962158203,
-    "end_time": 2728.739959716797
+    "end_time": 2728.739959716797,
+    "point_summary": "Those who have heard the gospel and rejected it will, at the rapture, be given over to believe a lie, sealing their condemnation at the Great White Throne Judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "iLbP529uYUM",
     "start_time": 255.52000427246094,
-    "end_time": 324.32000732421875
+    "end_time": 324.32000732421875,
+    "point_summary": "Paul's return commendation of the Thessalonian church in 2 Thessalonians 1:3 demonstrates that their love had not merely continued but had \"super-abounded,\" fulfilling his earlier challenge to increase more and more.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "IM7A6QqEAIQ",
     "start_time": 2589.8199615478516,
-    "end_time": 2657.8599548339844
+    "end_time": 2657.8599548339844,
+    "point_summary": "Those who hear the gospel now and reject it will, according to 2 Thessalonians 2, be given over to believe a lie after the rapture and will not be saved—making present rejection eternally irreversible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "IM7A6QqEAIQ",
     "start_time": 2657.8599548339844,
-    "end_time": 2732.5799560546875
+    "end_time": 2732.5799560546875,
+    "point_summary": "Those who hear the gospel and reject it face divine judicial hardening—God sending strong delusion so they believe a lie and cannot be saved—making present proclamation urgently irreversible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "IM7A6QqEAIQ",
     "start_time": 2657.8599548339844,
-    "end_time": 2732.5799560546875
+    "end_time": 2732.5799560546875,
+    "point_summary": "Those who hear the gospel and reject it will, according to 2 Thessalonians 2:11, be given over to strong delusion and believe a lie, making present proclamation urgently irreversible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "IM7A6QqEAIQ",
     "start_time": 2657.8599548339844,
-    "end_time": 2732.5799560546875
+    "end_time": 2732.5799560546875,
+    "point_summary": "Those who hear the gospel and reject it will, according to 2 Thessalonians 2:12, be given over to strong delusion and believe a lie, making present proclamation urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "L3vRRtbMBBw",
     "start_time": 1191.280029296875,
-    "end_time": 1255.9999923706055
+    "end_time": 1255.9999923706055,
+    "point_summary": "Growth in mutual love among believers is cited as visible, commendable evidence of genuine Christian progress, as Paul's acknowledgment that the Thessalonians' love \"aboundeth\" illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -844,7 +996,9 @@
     "is_implicit": true,
     "video_id": "LtegeF3nWJo",
     "start_time": 802.3999938964844,
-    "end_time": 860.9400024414062
+    "end_time": 860.9400024414062,
+    "point_summary": "Paul's warning in 2 Thessalonians about a forged letter circulating under his name illustrates that textual corruption and false teaching were documented practices from the earliest days of the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 0.0,
-    "end_time": 49.79999923706055
+    "end_time": 49.79999923706055,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "najkOZaBPgU",
     "start_time": 1499.6400146484375,
-    "end_time": 1571.3600158691406
+    "end_time": 1571.3600158691406,
+    "point_summary": "Faith that grows \"exceedingly\" — as commended in the Thessalonian church — comes through consistent engagement with Scripture, since faith increases as believers learn the character and works of God from the Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1866.4800033569336,
-    "end_time": 1935.0599975585938
+    "end_time": 1935.0599975585938,
+    "point_summary": "Scripture's own testimony that the mystery of iniquity was already at work confirms God's foreknowledge of future evil, offered here as one of several prophetic passages showing God has revealed coming events to His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "Ph0OqWhwvWk",
     "start_time": 2125.9000244140625,
-    "end_time": 2193.780029296875
+    "end_time": 2193.780029296875,
+    "point_summary": "Paul's own practice of soliciting prayer—specifically that the word of the Lord would have free course—demonstrates that he not only taught prayer but personally depended on the intercession of others for his ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 2179.8799438476562,
-    "end_time": 2263.3599243164062
+    "end_time": 2263.3599243164062,
+    "point_summary": "Paired with Galatians 6:9, this apostolic command against weariness defines the exhaustion warned against as being utterly spiritless, urging God's people to persevere in spiritual work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "R16x_G3i864",
     "start_time": 0.0,
-    "end_time": 64.37999725341797
+    "end_time": 64.37999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 0.0,
-    "end_time": 61.5
+    "end_time": 61.5,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 251.27999877929688,
-    "end_time": 330.760009765625
+    "end_time": 330.760009765625,
+    "point_summary": "Disobedience to apostolic instruction demands that the church take deliberate notice of the offending member, marking him out as one who has refused to obey the word delivered by epistle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 330.760009765625,
-    "end_time": 409.0400085449219
+    "end_time": 409.0400085449219,
+    "point_summary": "Verse 14's command to \"note\" and withdraw company from the disobedient establishes the basis for church discipline, but the sermon frames this as a restorative measure, never an end in itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 330.760009765625,
-    "end_time": 409.0400085449219
+    "end_time": 409.0400085449219,
+    "point_summary": "Verse 15's contrast with verse 14 establishes that church discipline's ultimate aim is restoration, not excommunication, with the offender's response determining whether that restoration is achieved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 409.0400085449219,
-    "end_time": 473.0
+    "end_time": 473.0,
+    "point_summary": "Even as Paul addresses disorderly members, he charges the faithful not to grow weary in well-doing, calling the obedient to persevere rather than falter amid others' failures.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 597.0599975585938,
-    "end_time": 671.0999908447266
+    "end_time": 671.0999908447266,
+    "point_summary": "Verse 6's command to \"withdraw\" from the disorderly brother establishes the biblical basis for the separation later reinforced in verses 14–15, showing the instruction is not extreme but apostolic.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 1785.3599853515625,
-    "end_time": 1858.8799896240234
+    "end_time": 1858.8799896240234,
+    "point_summary": "Church discipline in 2 Thessalonians 3:14—marking the disorderly and withdrawing fellowship—is purposefully restorative, not excommunicatory, reflecting God's own heart as a restorer of souls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "R9LB-ChokfQ",
     "start_time": 1785.3599853515625,
-    "end_time": 1858.8799896240234
+    "end_time": 1858.8799896240234,
+    "point_summary": "Church discipline in 2 Thessalonians 3:14–15 is not excommunication but restoration, its purpose being shame that changes behavior and returns the wayward believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1166.52001953125,
-    "end_time": 1231.8000164031982
+    "end_time": 1231.8000164031982,
+    "point_summary": "The breaking of the Antichrist's peace treaty at the tribulation's midpoint is identified with the abomination of desolation described in 2 Thessalonians 2, marking his self-exaltation as God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "sj1i3zQpYXc",
     "start_time": 1420.9000091552734,
-    "end_time": 1477.2000122070312
+    "end_time": 1477.2000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "sj1i3zQpYXc",
     "start_time": 1478.52001953125,
-    "end_time": 1535.760009765625
+    "end_time": 1535.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "sj1i3zQpYXc",
     "start_time": 1478.52001953125,
-    "end_time": 1535.760009765625
+    "end_time": 1535.760009765625,
+    "point_summary": "The Holy Spirit's restraining presence through the church currently holds back the mystery of iniquity, which is already at work but cannot fully manifest until that restraint is removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "uGo1HL4c1vk",
     "start_time": 422.1000061035156,
-    "end_time": 484.05999755859375
+    "end_time": 484.05999755859375,
+    "point_summary": "Paul's practice of personally signing each letter in his own hand served as an authentication mark against forgeries, explaining why the same gesture in Colossians 4:18 carried deliberate, verifiable weight for its recipients.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "uGo1HL4c1vk",
     "start_time": 484.05999755859375,
-    "end_time": 558.3599853515625
+    "end_time": 558.3599853515625,
+    "point_summary": "Paul's practice of writing his own salutation served as an authenticating \"token\" — a distinguishing mark proving a letter's genuineness against fraudulent correspondence circulating in his name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1075,7 +1269,9 @@
     "is_implicit": true,
     "video_id": "UNpT0Mg8wG8",
     "start_time": 0.0,
-    "end_time": 62.18000030517578
+    "end_time": 62.18000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "x8DoFdgJ9qA",
     "start_time": 0.0,
-    "end_time": 58.220001220703125
+    "end_time": 58.220001220703125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2399.8599853515625,
-    "end_time": 2459.3199882507324
+    "end_time": 2459.3199882507324,
+    "point_summary": "Paul's warning in 2 Thessalonians 2:3–12 about the mystery of iniquity and the tribulation applies specifically, in this sermon, to those who have heard and rejected the gospel before Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2399.8599853515625,
-    "end_time": 2459.3199882507324
+    "end_time": 2459.3199882507324,
+    "point_summary": "The apostasy and rise of the man of sin described in 2 Thessalonians 2:3 are placed at the midpoint of the tribulation, a period the sermon connects to those who heard but rejected the gospel message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2399.8599853515625,
-    "end_time": 2459.3199882507324
+    "end_time": 2459.3199882507324,
+    "point_summary": "The mystery of iniquity already at work in 2 Thessalonians 2:7 is presented as visible in present society, yet evidence not that things are falling apart but that God remains sovereignly in control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2459.3199882507324,
-    "end_time": 2515.4799880981445
+    "end_time": 2515.4799880981445,
+    "point_summary": "Those who hear the gospel and reject it face divine judgment in the tribulation — not a second chance — because they \"received not the love of the truth, that they might be saved.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2459.3199882507324,
-    "end_time": 2515.4799880981445
+    "end_time": 2515.4799880981445,
+    "point_summary": "Those who hear and reject the gospel before the Rapture face divine judgment in the Tribulation: God will send them strong delusion so they believe a lie and are damned.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 566.8800048828125,
-    "end_time": 626.1400165557861
+    "end_time": 626.1400165557861,
+    "point_summary": "In 2 Thessalonians 3, Paul's prayer request expands beyond the brief appeal of 1 Thessalonians 5:25, supplying additional details about the specific content of that intercession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 626.1400165557861,
-    "end_time": 688.6800155639648
+    "end_time": 688.6800155639648,
+    "point_summary": "Paul's expanded prayer request in 2 Thessalonians 3:1 adds specific content to the brief appeal of 1 Thessalonians 5:25, asking that the word of the Lord would have free course and be glorified.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 750.8200225830078,
-    "end_time": 812.6600189208984
+    "end_time": 812.6600189208984,
+    "point_summary": "Paul's request that the Thessalonians pray for the word's free course is grounded in their own experience of receiving that word not as human speech but as the very word of God that works effectually in believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 1053.3600158691406,
-    "end_time": 1116.1600341796875
+    "end_time": 1116.1600341796875,
+    "point_summary": "Paul's prayer request that the word of the Lord have free course and be glorified is paired with an appeal for deliverance from opposition, showing that gospel advance and spiritual warfare are inseparable realities.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 1053.3600158691406,
-    "end_time": 1116.1600341796875
+    "end_time": 1116.1600341796875,
+    "point_summary": "Paul's request for prayer against \"unreasonable and wicked men\" reflects his clear-eyed awareness that gospel ministry will face human opposition, making intercession a practical necessity for those doing the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 1116.1600341796875,
-    "end_time": 1187.2999877929688
+    "end_time": 1187.2999877929688,
+    "point_summary": "God's faithfulness to establish and protect believers amid opposition is the bedrock assurance underlying Paul's call for prayer, not a substitute for it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "yyDjL7t8hRw",
     "start_time": 1187.2999877929688,
-    "end_time": 1251.3400268554688
+    "end_time": 1251.3400268554688,
+    "point_summary": "Paul's confidence that the Thessalonians would follow through on his prayer request illustrates that knowing faithful intercessors are praying brings genuine encouragement to those doing gospel work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 415.17999267578125,
-    "end_time": 473.05999755859375
+    "end_time": 473.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 530.3400268554688,
-    "end_time": 591.0399780273438
+    "end_time": 591.0399780273438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1251,7 +1477,9 @@
     "is_implicit": true,
     "video_id": "ZadXdqo8T-A",
     "start_time": 770.47998046875,
-    "end_time": 828.1599884033203
+    "end_time": 828.1599884033203,
+    "point_summary": "The two letters to Thessalonica, written within months of each other, are placed side by side to show the congregation's measurable spiritual growth across that brief interval.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 828.1599884033203,
-    "end_time": 890.9599914550781
+    "end_time": 890.9599914550781,
+    "point_summary": "Comparing 2 Thessalonians 1:3 with 1 Thessalonians 1:3 across a span of mere months, the Thessalonians' faith had not merely continued but was now growing exceedingly—demonstrating measurable spiritual growth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 1454.3199920654297,
-    "end_time": 1524.5
+    "end_time": 1524.5,
+    "point_summary": "The Thessalonian church's patient endurance through persecutions and tribulations became a cause for Paul's boasting about them among other churches of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 1524.5,
-    "end_time": 1585.3599853515625
+    "end_time": 1585.3599853515625,
+    "point_summary": "Enduring persecution without quitting is cited as the mark of the Thessalonian church's faithfulness, with Paul's boasting about their patience and faith under tribulation serving as evidence they were a model church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "ZadXdqo8T-A",
     "start_time": 1711.4400024414062,
-    "end_time": 1776.1199951171875
+    "end_time": 1776.1199951171875,
+    "point_summary": "Paul's commendation that the Thessalonians' charity toward one another abounded is cited to show that even a model church is called to continual growth in love, never having fully arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "zo6IdkJY-nY",
     "start_time": 637.7199821472168,
-    "end_time": 702.2799835205078
+    "end_time": 702.2799835205078,
+    "point_summary": "Paul's consistent declaration \"we pray always for you\" to the Thessalonians is cited as one of several scriptural examples establishing his unceasing pattern of intercessory prayer for specific congregations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "zo6IdkJY-nY",
     "start_time": 1257.1400032043457,
-    "end_time": 1323.8400039672852
+    "end_time": 1323.8400039672852,
+    "point_summary": "Paul's repeated appeal \"pray for us\" across his epistles is cited as a biblical pattern demonstrating that intercessory prayer was a mutual, reciprocal practice among believers, not a one-directional duty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "ZqunktIJ8Vc",
     "start_time": 180.22000122070312,
-    "end_time": 247.97999572753906
+    "end_time": 247.97999572753906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1339,7 +1581,9 @@
     "is_implicit": true,
     "video_id": "ZujHgHWwrXE",
     "start_time": 0.0,
-    "end_time": 58.040000915527344
+    "end_time": 58.040000915527344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "ZujHgHWwrXE",
     "start_time": 1870.2400131225586,
-    "end_time": 1927.0000076293945
+    "end_time": 1927.0000076293945,
+    "point_summary": "False teaching about the day of the Lord—including a counterfeit letter attributed to Paul—had led some Thessalonian believers astray, requiring Paul's correction in 2 Thessalonians 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "_3aYAqg0rb4",
     "start_time": 0.0,
-    "end_time": 61.400001525878906
+    "end_time": 61.400001525878906,
+    "point_summary": "Commendation of the Thessalonian church's exceedingly growing faith serves as the positive backdrop against which the sermon's warning about false teaching and internal disorder is set.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "_3aYAqg0rb4",
     "start_time": 126.86000061035156,
-    "end_time": 181.55999755859375
+    "end_time": 181.55999755859375,
+    "point_summary": "Idleness rooted in false eschatological teaching—the belief that the Day of the Lord had already come—produced the disorderly, busybody behavior Paul addresses in verse 11.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "_3aYAqg0rb4",
     "start_time": 126.86000061035156,
-    "end_time": 181.55999755859375
+    "end_time": 181.55999755859375,
+    "point_summary": "Paul's command in verse 12 pairs the correction of idleness with a positive mandate: those who are disorderly must work quietly and provide their own sustenance, addressing both the behavior and its remedy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "_3aYAqg0rb4",
     "start_time": 376.760009765625,
-    "end_time": 452.55999755859375
+    "end_time": 452.55999755859375,
+    "point_summary": "Receiving Paul's rebuke about busybodies as a member of the Thessalonian church would have created a sharp, uncomfortable contrast with the earlier praise of their faith and love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1405,7 +1659,9 @@
     "is_implicit": true,
     "video_id": "14-YoafCO5U",
     "start_time": 1921.8999633789062,
-    "end_time": 1977.8999633789062
+    "end_time": 1977.8999633789062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1416,7 +1672,9 @@
     "is_implicit": true,
     "video_id": "14-YoafCO5U",
     "start_time": 1921.8999633789062,
-    "end_time": 1977.8999633789062
+    "end_time": 1977.8999633789062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 2129.3399963378906,
-    "end_time": 2182.019989013672
+    "end_time": 2182.019989013672,
+    "point_summary": "Paul's warning in 2 Thessalonians 2 is introduced as the New Testament counterpart to Daniel 9:27, confirming that the man of sin will seat himself in a literal future temple at the tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 2129.3399963378906,
-    "end_time": 2182.019989013672
+    "end_time": 2182.019989013672,
+    "point_summary": "Paul's description of the man of sin sitting in the temple of God is read as New Testament confirmation that a literal, rebuilt temple must exist during the tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1449,7 +1711,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 2182.019989013672,
-    "end_time": 2252.3599853515625
+    "end_time": 2252.3599853515625,
+    "point_summary": "Paul's appeal to the Thessalonians concerning \"the coming of our Lord Jesus Christ and our gathering unto him\" is read as a direct parallel to Daniel's seventieth week, with the man of sin's self-enthronement in the temple marking the tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1460,7 +1724,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 2182.019989013672,
-    "end_time": 2252.3599853515625
+    "end_time": 2252.3599853515625,
+    "point_summary": "The Day of the Lord cannot come until the man of sin is first revealed — identified here as the one who seats himself in the temple of God at the tribulation's midpoint.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1471,7 +1737,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 2182.019989013672,
-    "end_time": 2252.3599853515625
+    "end_time": 2252.3599853515625,
+    "point_summary": "Paul's description of the man of sin enthroning himself in the temple of God is identified as the midpoint of the tribulation, when the covenant of Daniel 9:27 is broken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1482,7 +1750,9 @@
     "is_implicit": true,
     "video_id": "EYFIfx9U54k",
     "start_time": 1417.5999908447266,
-    "end_time": 1477.5999755859375
+    "end_time": 1477.5999755859375,
+    "point_summary": "Paul's consistent intercession for the Thessalonians across two letters illustrates that persistent, ongoing prayer for others is a defining mark of apostolic ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 254.86000061035156,
-    "end_time": 319.05999755859375
+    "end_time": 319.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 461.44000244140625,
-    "end_time": 522.0800170898438
+    "end_time": 522.0800170898438,
+    "point_summary": "The Holy Spirit's present restraining of iniquity will be removed at the Rapture, after which the mystery of lawlessness will be unleashed during the Tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1515,7 +1789,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 522.0800170898438,
-    "end_time": 590.7999877929688
+    "end_time": 590.7999877929688,
+    "point_summary": "Those who reject the love of the truth during the tribulation will be given over to strong delusion by God himself, resulting in damnation — a consequence tied directly to the removal of the Holy Spirit's restraining work at the rapture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2212.9200439453125,
-    "end_time": 2281.340057373047
+    "end_time": 2281.340057373047,
+    "point_summary": "God's sending of strong delusion upon those who reject the gospel means that loved ones who have already heard and refused the message may have no further opportunity for salvation during the Tribulation, making present evangelism and intercession urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1263.0000228881836,
-    "end_time": 1320.0000228881836
+    "end_time": 1320.0000228881836,
+    "point_summary": "Paul's letter to the Thessalonians is presented as a corrective to false teaching—including forged letters bearing Paul's name—that had shaken the church's understanding of end-time events, including the Antichrist's revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1320.0000228881836,
-    "end_time": 1382.1000213623047
+    "end_time": 1382.1000213623047,
+    "point_summary": "Paul's practice of personally signing his letters (3:17) is cited as the authenticating mark that exposed forged correspondence falsely attributed to him, which had shaken the Thessalonian church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1320.0000228881836,
-    "end_time": 1382.1000213623047
+    "end_time": 1382.1000213623047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1570,7 +1854,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1382.1000213623047,
-    "end_time": 1452.9000244140625
+    "end_time": 1452.9000244140625,
+    "point_summary": "Paul's appeal in 2 Thessalonians 2:1 addresses a congregation shaken by forged letters claiming his authority, urging them not to be troubled concerning the coming of Christ and the gathering together unto Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1452.9000244140625,
-    "end_time": 1520.8200073242188
+    "end_time": 1520.8200073242188,
+    "point_summary": "The Day of Christ cannot arrive until the Antichrist — the man of sin — is first revealed, an event the sermon ties to his covenant-signing in Daniel 9:27.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1452.9000244140625,
-    "end_time": 1520.8200073242188
+    "end_time": 1520.8200073242188,
+    "point_summary": "False teaching is not new, but Paul's warning in this verse against being shaken or troubled by spurious letters grounds the sermon's point that deception precedes the Day of Christ and the Antichrist's revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1603,7 +1893,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1520.8200073242188,
-    "end_time": 1578.9400329589844
+    "end_time": 1578.9400329589844,
+    "point_summary": "The Day of Christ cannot arrive until the Antichrist—the man of sin—is first revealed, an event identified here with his signing of the covenant described in Daniel 9:27.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1642.3000183105469,
-    "end_time": 1709.780029296875
+    "end_time": 1709.780029296875,
+    "point_summary": "The restraining presence described in 2 Thessalonians 2:6 is identified as the Holy Spirit, whose removal allows the Antichrist to be revealed in his time.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1625,7 +1919,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 793.8600006103516,
-    "end_time": 847.5200042724609
+    "end_time": 847.5200042724609,
+    "point_summary": "Paul's phrase \"our gathering together unto him\" in 2 Thessalonians 2:1 is cited as a direct reference to Christ coming *for* his saints, distinguished from his later coming *with* his saints.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1636,7 +1932,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 847.5200042724609,
-    "end_time": 912.3599853515625
+    "end_time": 912.3599853515625,
+    "point_summary": "Paul's phrase \"our gathering together unto him\" in 2 Thessalonians 2:1 is used to distinguish the rapture—Christ coming *for* his saints—from his later return *with* his saints at Armageddon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1647,7 +1945,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 912.3599853515625,
-    "end_time": 970.8399963378906
+    "end_time": 970.8399963378906,
+    "point_summary": "Paul's appeal to \"our gathering together unto him\" in 2 Thessalonians 2:1 is used to establish a distinction between Christ coming *for* His saints and coming *with* His saints at a later point.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1658,7 +1958,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 912.3599853515625,
-    "end_time": 970.8399963378906
+    "end_time": 970.8399963378906,
+    "point_summary": "Paul's identification of \"the falling away\" and the revelation of \"the man of sin\" in 2 Thessalonians 2:3 is connected directly to the midpoint of Daniel's 70th week, when the Antichrist exalts himself in the temple.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1669,7 +1971,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 912.3599853515625,
-    "end_time": 970.8399963378906
+    "end_time": 970.8399963378906,
+    "point_summary": "Paul's identification of the man of sin enthroning himself in the temple and claiming to be God directly corresponds to the abomination described in Daniel 9:27, confirming the midpoint desecration of the tribulation period.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 970.8399963378906,
-    "end_time": 1034.8399963378906
+    "end_time": 1034.8399963378906,
+    "point_summary": "Paul's reminder in 2 Thessalonians 2:5 — \"I told you these things\" — establishes that his teaching on the man of sin and the tribulation was not new but previously delivered doctrine the Thessalonians had forgotten.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 970.8399963378906,
-    "end_time": 1034.8399963378906
+    "end_time": 1034.8399963378906,
+    "point_summary": "Paul's statement that \"ye know what withholdeth\" presupposes prior teaching, connecting the restraining of the man of sin's revelation to the timing of Daniel's 70th week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 970.8399963378906,
-    "end_time": 1034.8399963378906
+    "end_time": 1034.8399963378906,
+    "point_summary": "The restraining work of the Holy Spirit—\"he who now letteth\"—is identified as the divine force currently holding back the full revelation of the man of sin until God's appointed time.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1713,7 +2023,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 1091.0,
-    "end_time": 1155.780029296875
+    "end_time": 1155.780029296875,
+    "point_summary": "The Holy Spirit, identified as the restrainer of 2 Thessalonians 2:7, indwells believers today, and His removal at the Rapture is what permits the Antichrist to operate freely during Daniel's 70th week.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 55.099998474121094,
-    "end_time": 114.81999969482422
+    "end_time": 114.81999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 114.81999969482422,
-    "end_time": 178.3800048828125
+    "end_time": 178.3800048828125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1746,7 +2062,9 @@
     "is_implicit": true,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 124.23999786376953,
-    "end_time": 181.8000030517578
+    "end_time": 181.8000030517578,
+    "point_summary": "Those who heard the gospel before the Rapture but rejected it will, according to 2 Thessalonians 3, be given over to deception and believe a lie during the Tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Thessalonians",
@@ -1757,6 +2075,8 @@
     "is_implicit": false,
     "video_id": "y7y3emoIFdk",
     "start_time": 2936.1599731445312,
-    "end_time": 3003.559990167618
+    "end_time": 3003.559990167618,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

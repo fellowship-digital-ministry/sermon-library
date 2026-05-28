@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "TljookEyMZU",
     "start_time": 2248.6799926757812,
-    "end_time": 2312.6399841308594
+    "end_time": 2312.6399841308594,
+    "point_summary": "Boaz's acknowledgment of a nearer kinsman in Ruth 3:12 typologically identifies the law as the closer redeemer who ultimately cannot redeem, pointing forward to Christ as the true kinsman-redeemer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "TljookEyMZU",
     "start_time": 2312.6399841308594,
-    "end_time": 2382.739990234375
+    "end_time": 2382.739990234375,
+    "point_summary": "Boaz's insistence on following the prescribed legal process before redeeming Ruth typifies Christ, who fulfilled the law completely, while the nearer kinsman who refused represents the law itself, which condemns but cannot redeem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 262.9200134277344,
-    "end_time": 323.6000061035156
+    "end_time": 323.6000061035156,
+    "point_summary": "Of the three times the phrase \"virtuous woman\" appears in Scripture, only once does God directly apply it to a named individual, making Ruth's designation uniquely significant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 749.0399780273438,
-    "end_time": 828.0399780273438
+    "end_time": 828.0399780273438,
+    "point_summary": "Boaz's declaration in Ruth 3:11 illustrates that a woman's recognized virtue moves others to act sacrificially on her behalf, making her, as Proverbs 31 says, worth far more than rubies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 890.0399780273438,
-    "end_time": 949.0399780273438
+    "end_time": 949.0399780273438,
+    "point_summary": "Ruth 1:6 is cited to establish context: Naomi returns to her homeland because she heard — not yet experienced — that God had visited His people and provided bread amid famine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 890.0399780273438,
-    "end_time": 949.0399780273438
+    "end_time": 949.0399780273438,
+    "point_summary": "Naomi's plea for her daughters-in-law to return home sets the stage for Ruth's defining act of loyalty, which the sermon uses to establish that a virtuous woman is identifiable by her choices.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 949.0399780273438,
-    "end_time": 1014.0399780273438
+    "end_time": 1014.0399780273438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 949.0399780273438,
-    "end_time": 1014.0399780273438
+    "end_time": 1014.0399780273438,
+    "point_summary": "Ruth's clinging to Naomi at the moment of Orpah's departure marks the decisive contrast between the two daughters-in-law, establishing Ruth's loyalty as the defining characteristic the sermon traces forward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 949.0399780273438,
-    "end_time": 1014.0399780273438
+    "end_time": 1014.0399780273438,
+    "point_summary": "Naomi's urging Ruth to return to her people and their false gods sets the stage for Ruth's decisive refusal, revealing her extraordinary loyalty and commitment to Naomi's God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Ruth's declaration in 1:16 is presented as the defining moment of her steadfast loyalty to Naomi, choosing Naomi's people and God over returning to her own people and their false gods as Orpah had done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Ruth's oath in verse 17 — \"where thou diest, will I die\" — is cited as evidence of her steadfast, covenant-level commitment to Naomi, distinguishing her loyalty from Orpah's departure back to her people and false gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Ruth's steadfast resolve — seen in her clinging to Naomi even after Naomi urged her to return to her people and their false gods — marks her as a woman of unwavering loyalty and genuine faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Ruth's arrival in Bethlehem with Naomi stirred the whole city, marking the moment her loyal commitment to follow Naomi—and Naomi's God—became publicly visible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Naomi's bitter self-renaming to \"Mara\" upon returning to Bethlehem frames her arrival as one marked by divine affliction and personal emptiness, setting the backdrop against which Ruth's loyalty is displayed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
-    "end_time": 1081.0399780273438
+    "end_time": 1081.0399780273438,
+    "point_summary": "Naomi's self-description as one who \"went out full\" but was \"brought home again empty\" frames her bitter providence as the backdrop against which Ruth's loyal faithfulness stands in sharp contrast.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1276.5399780273438,
-    "end_time": 1347.8399810791016
+    "end_time": 1347.8399810791016,
+    "point_summary": "Boaz's declaration that \"all the city\" knew Ruth as virtuous demonstrates that a godly character, built over mere weeks of observable obedience, produces an undeniable public testimony.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1276.5399780273438,
-    "end_time": 1347.8399810791016
+    "end_time": 1347.8399810791016,
+    "point_summary": "Ruth 1:19's account of Naomi's return to Bethlehem establishes the public context in which Ruth's character would be observed and evaluated by the whole city over the following weeks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1578.0199890136719,
-    "end_time": 1653.8199768066406
+    "end_time": 1653.8199768066406,
+    "point_summary": "Boaz's public recognition of Ruth as a virtuous woman illustrates that a godly testimony is observable by others, calling believers to guard their conduct so Christ—not themselves—is seen as the source of any good in their lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1718.0799560546875,
-    "end_time": 1786.4400024414062
+    "end_time": 1786.4400024414062,
+    "point_summary": "Boaz's public declaration before witnesses in Ruth 4:9 illustrates that Ruth's patient waiting on God and trusting His prescribed process ultimately resulted in her redemption and marriage — a fruit of her virtuous influence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1786.4400024414062,
-    "end_time": 1861.3800048828125
+    "end_time": 1861.3800048828125,
+    "point_summary": "Ruth's marriage to Boaz and the Lord's gift of conception illustrate that virtuous character—demonstrated through singleness and waiting—carries forward into every new phase of life God opens.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "2-7TNtHtf_0",
     "start_time": 1999.3800048828125,
-    "end_time": 2079.3800048828125
+    "end_time": 2079.3800048828125,
+    "point_summary": "Naomi's role nursing Obed illustrates the generational, grandmotherly influence that virtuous women carry, an influence the sermon traces forward through Obed to Jesse to David.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2493.9600372314453,
-    "end_time": 2570.4200439453125
+    "end_time": 2570.4200439453125,
+    "point_summary": "Rahab's faith produced a historical reward traceable through Ruth 4:13, placing her in the messianic lineage that runs from Boaz and Ruth through David to Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth's faithful union with Boaz, the kinsman-redeemer, produced Obed, linking her directly to the Davidic line and ultimately to Jesus Christ as a historical reward for her faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -261,7 +307,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth's faithfulness as a Gentile woman is shown to carry lasting historical reward, tracing a direct genealogical line through Obed and Jesse to David and ultimately to Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth's faithful love for Naomi is shown to carry generational consequence, placing her directly in the ancestral line that runs from Boaz through Obed, Jesse, and David to Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth's act of faith produced a lineage—through Obed, Jesse, and David—that culminated historically in Jesus Christ, illustrating the far-reaching generational reward of trusting God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth's faithful obedience is shown to carry generational consequence, placing her directly in the ancestral line that runs from Boaz through Obed, Jesse, and David to Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ruth",
@@ -305,6 +359,8 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
-    "end_time": 2636.4200439453125
+    "end_time": 2636.4200439453125,
+    "point_summary": "Ruth 4:18's genealogy is read as historical evidence that Rahab's faith produced a lineage culminating in David and ultimately Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

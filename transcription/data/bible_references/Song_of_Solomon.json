@@ -8,6 +8,8 @@
     "is_implicit": false,
     "video_id": "wb3Da9z0nOk",
     "start_time": 1003.7000122070312,
-    "end_time": 1098.1000061035156
+    "end_time": 1098.1000061035156,
+    "point_summary": "Love's jealous flame in Song of Solomon 8:6 is connected to Deuteronomy 4:24's consuming fire, illustrating that God's jealousy over His people is the consuming reality behind the burnt offering's smoke.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

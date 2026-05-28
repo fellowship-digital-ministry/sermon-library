@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "cZ76dCVG9Gg",
     "start_time": 506.0,
-    "end_time": 571.5599975585938
+    "end_time": 571.5599975585938,
+    "point_summary": "Zechariah 8:16 is cited as Old Testament confirmation that truthful speech to one's neighbor is a divine command, illustrating the \"T\" (truthful) step in the THINK acronym.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 2194.5400390625,
-    "end_time": 2259.500030517578
+    "end_time": 2259.500030517578,
+    "point_summary": "Doing God's will requires not human strength but divine enabling through His Spirit, as Zechariah 4:6 is invoked to underscore that God's work must be accomplished by His power, not our own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "iOuNydlRGNs",
     "start_time": 1960.3400268554688,
-    "end_time": 2013.7400360107422
+    "end_time": 2013.7400360107422,
+    "point_summary": "Zechariah 12:10 is read as the Old Testament source behind Revelation 1:7's declaration that \"every eye shall see him,\" identifying the mourning of those who pierced Christ as fulfilled at his literal return to earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "iOuNydlRGNs",
     "start_time": 2013.7400360107422,
-    "end_time": 2063.760040283203
+    "end_time": 2063.760040283203,
+    "point_summary": "Zechariah 14:4's prophecy that Christ's feet will literally stand on the Mount of Olives is presented as the Old Testament foundation for the Second Coming event described in Revelation 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "iOuNydlRGNs",
     "start_time": 2063.760040283203,
-    "end_time": 2117.320037841797
+    "end_time": 2117.320037841797,
+    "point_summary": "Zechariah 14:4 is read as literal prophecy: Christ's return in Revelation 19 will physically split the Mount of Olives, confirmed by the preacher's own visit to that site.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "14-YoafCO5U",
     "start_time": 2157.8999633789062,
-    "end_time": 2230.8999633789062
+    "end_time": 2230.8999633789062,
+    "point_summary": "Zechariah's prophecy that Christ's feet will stand on the Mount of Olives at his return is cited to distinguish the rapture—meeting Christ in the air—from his final coming to earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 2312.0599975585938,
-    "end_time": 2371.739990234375
+    "end_time": 2371.739990234375,
+    "point_summary": "Zechariah 14 is cited as the scriptural basis for Christ's physical return to the Mount of Olives at the close of the tribulation, distinguishing that coming-with-saints event from the rapture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "FB5EieJXeVQ",
     "start_time": 1050.9200134277344,
-    "end_time": 1122.5999755859375
+    "end_time": 1122.5999755859375,
+    "point_summary": "Zechariah 14 is cited to fix the time frame of Revelation 19's white-horse rider as Christ's literal return to earth, specifically his foot touching the Mount of Olives at the end of the tribulation and the battle of Armageddon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Zechariah",
@@ -96,6 +112,8 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 1738.06005859375,
-    "end_time": 1808.1400146484375
+    "end_time": 1808.1400146484375,
+    "point_summary": "Endurance in ministry comes not by human strength but by the Spirit's power, as Zechariah 4:6 is cited to ground Paul's phrase \"by the Holy Ghost\" in 2 Corinthians 6:6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

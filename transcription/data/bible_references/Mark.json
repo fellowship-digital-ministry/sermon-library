@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 68.16000366210938,
-    "end_time": 134.44000244140625
+    "end_time": 134.44000244140625,
+    "point_summary": "Christ's compassionate walk is illustrated through the leper of Mark 1:40, whose desperate, kneeling approach to Jesus serves as the opening scene for examining what it means to walk with compassion as Christ did.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 134.44000244140625,
-    "end_time": 202.36000061035156
+    "end_time": 202.36000061035156,
+    "point_summary": "The leper's approach to Christ—beseeching, kneeling, and saying \"if thou wilt\"—illustrates both faith in Christ's power to heal and submission to his sovereign will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 276.7200012207031,
-    "end_time": 347.1199951171875
+    "end_time": 347.1199951171875,
+    "point_summary": "Christ's compassion toward the leper is defined as a painful sympathy compounded of love and sorrow, moved by physical need and expressed through willing touch and immediate healing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "0bvsCvT1aho",
     "start_time": 413.6400146484375,
-    "end_time": 484.20001220703125
+    "end_time": 484.20001220703125,
+    "point_summary": "Mark 1 is read alongside Matthew 9:36–38 to establish that Jesus's compassion was moved by human need, and that this compassion—not mere duty—drove his purposeful engagement with the harvest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "0bvsCvT1aho",
     "start_time": 484.20001220703125,
-    "end_time": 554.6400146484375
+    "end_time": 554.6400146484375,
+    "point_summary": "In Mark 1, Jesus is moved with compassion over a physical need, contrasted with Matthew 9 where his compassion responds to a spiritual need—people scattered as sheep without a shepherd.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "317YMHnIXHg",
     "start_time": 3177.0999755859375,
-    "end_time": 3242.8999786376953
+    "end_time": 3242.8999786376953,
+    "point_summary": "While the timing of Christ's return remains unknown, believers have been given clear marching orders—including the command of Mark 16:15 to preach the gospel to every creature—to occupy faithfully until he comes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1920.7000045776367,
-    "end_time": 1985.9800109863281
+    "end_time": 1985.9800109863281,
+    "point_summary": "The universal scope of the Great Commission — preaching to every creature — is presented as the biblical answer to partiality, countering ideologies that divide humanity by race or ethnicity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "5gWVxtcarvc",
     "start_time": 969.8200073242188,
-    "end_time": 1038.6200256347656
+    "end_time": 1038.6200256347656,
+    "point_summary": "God's evaluation of the widow's two mites illustrates that He measures giving not by visible amount but by the heart's motive behind the gift.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1025.7599792480469,
-    "end_time": 1106.6199951171875
+    "end_time": 1106.6199951171875,
+    "point_summary": "Creation, demons, wind, and waves all obey Christ because he holds all authority and power—making Saul's willful disobedience all the more inexcusable by contrast.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -107,7 +125,9 @@
     "is_implicit": true,
     "video_id": "7MaW7QDG15s",
     "start_time": 934.4199829101562,
-    "end_time": 998.4199829101562
+    "end_time": 998.4199829101562,
+    "point_summary": "Genuine discipleship, distinguished from self-serving seeking, requires willingness to bear the cross—a cost that separates true followers from those who pursue Jesus for lesser reasons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "7MaW7QDG15s",
     "start_time": 998.4199829101562,
-    "end_time": 1056.4199829101562
+    "end_time": 1056.4199829101562,
+    "point_summary": "Following Jesus and living for Jesus are synonymous, and genuine discipleship requires self-denial as the necessary first step before one can truly take up the cross and follow Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "7MaW7QDG15s",
     "start_time": 1056.4199829101562,
-    "end_time": 1117.4199829101562
+    "end_time": 1117.4199829101562,
+    "point_summary": "Losing one's life for Christ and the gospel is the paradoxical condition of true discipleship, contrasted with the self-serving conflict that arises when a believer refuses to deny himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "7MaW7QDG15s",
     "start_time": 1056.4199829101562,
-    "end_time": 1117.4199829101562
+    "end_time": 1117.4199829101562,
+    "point_summary": "Gaining the whole world at the cost of one's soul exposes the ultimate futility of following Jesus outwardly while refusing to deny self and bear the cross.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "7MaW7QDG15s",
     "start_time": 1056.4199829101562,
-    "end_time": 1117.4199829101562
+    "end_time": 1117.4199829101562,
+    "point_summary": "Gaining the whole world while forfeiting one's soul exposes the ultimate worthlessness of any life not surrendered to Christ, framing self-denial as the only rational exchange.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2586.3599853515625,
-    "end_time": 2659.739990234375
+    "end_time": 2659.739990234375,
+    "point_summary": "Christ's authority over creation—illustrated by his calming the storm—is contrasted with human powerlessness to control circumstances, underscoring why only God can make and keep absolute promises.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "987NUYE7IME",
     "start_time": 2971.239990234375,
-    "end_time": 3038.0399894714355
+    "end_time": 3038.0399894714355,
+    "point_summary": "The paralyzed man's four bearers illustrate that gospel work often requires collaborative effort, with no single laborer able to bring someone to Jesus alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 555.3400268554688,
-    "end_time": 624.0999870300293
+    "end_time": 624.0999870300293,
+    "point_summary": "Christ's call to deny self, take up one's cross, and follow Him defines the \"crucified life\" as the scriptural pattern for living unto Jesus rather than oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 624.0999870300293,
-    "end_time": 677.739990234375
+    "end_time": 677.739990234375,
+    "point_summary": "The \"crucified life\" of following Christ requires self-denial and cross-bearing, framed here as the pattern Jesus calls all people to, with eternal soul-loss as the ultimate cost of living for worldly gain instead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 624.0999870300293,
-    "end_time": 677.739990234375
+    "end_time": 677.739990234375,
+    "point_summary": "Losing one's life for Christ's sake is the only path to saving it, contrasted against gaining the whole world while forfeiting one's soul for eternity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 624.0999870300293,
-    "end_time": 677.739990234375
+    "end_time": 677.739990234375,
+    "point_summary": "Gaining the entire world holds no ultimate profit if a person forfeits his soul, exposing the bankruptcy of living for worldly gain rather than for God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 624.0999870300293,
-    "end_time": 677.739990234375
+    "end_time": 677.739990234375,
+    "point_summary": "No earthly acquisition—wealth, status, or worldly success—holds any ultimate value if a person forfeits their soul for eternity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 624.0999870300293,
-    "end_time": 677.739990234375
+    "end_time": 677.739990234375,
+    "point_summary": "Shame before Christ at His coming awaits those who, though living for worldly gain, are ashamed of Him and His words in this sinful generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 733.6199951171875,
-    "end_time": 791.47998046875
+    "end_time": 791.47998046875,
+    "point_summary": "Genuine discipleship in following Jesus is not merely a children's song but a lifelong adult commitment, set against the warning that earthly gain without living for Christ leaves a believer empty-handed at the judgment seat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "9aMxxX-X0kc",
     "start_time": 791.47998046875,
-    "end_time": 859.1599731445312
+    "end_time": 859.1599731445312,
+    "point_summary": "Genuine discipleship follows a prescribed sequence in Mark 8:34—self-denial must precede cross-bearing and following Jesus, because attempting to follow Christ without first dying to self produces ongoing internal division.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "9aMxxX-X0kc",
     "start_time": 2240.720001220703,
-    "end_time": 2314.8400268554688
+    "end_time": 2314.8400268554688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1439.0799560546875,
-    "end_time": 1499.199951171875
+    "end_time": 1499.199951171875,
+    "point_summary": "In Mark 2, Jesus' declaration of forgiveness to the paralytic demonstrates divine authority, since forgiving sins is a prerogative belonging to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1553.8399658203125,
-    "end_time": 1607.8399658203125
+    "end_time": 1607.8399658203125,
+    "point_summary": "Jesus's act of forgiving the paralyzed man's sins—claimed by the scribes as God's prerogative alone—serves as evidence that the Son of Man is God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1553.8399658203125,
-    "end_time": 1607.8399658203125
+    "end_time": 1607.8399658203125,
+    "point_summary": "By healing the paralytic and forgiving his sins, Jesus implicitly claimed divine identity—since, as even the scribes acknowledged, only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1553.8399658203125,
-    "end_time": 1607.8399658203125
+    "end_time": 1607.8399658203125,
+    "point_summary": "Jesus's claim in Mark 2:10 to forgive sins—a prerogative the scribes correctly identified as belonging to God alone—is presented as direct evidence of His deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1553.8399658203125,
-    "end_time": 1607.8399658203125
+    "end_time": 1607.8399658203125,
+    "point_summary": "By healing the paralytic after forgiving his sins, Jesus directly answered the scribes' own standard—only God forgives sins—proving His deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "aCE3YCr6zy8",
     "start_time": 1981.7599792480469,
-    "end_time": 2066.719970703125
+    "end_time": 2066.719970703125,
+    "point_summary": "The Great Commission, recorded in Mark 16:15 as a single verse, gives the church its universal mandate to preach the gospel to every creature—a command the sermon frames as God's still-binding final charge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "bADTYZtvU4s",
     "start_time": 0.0,
-    "end_time": 51.36000061035156
+    "end_time": 51.36000061035156,
+    "point_summary": "The Great Commission of Mark 16:15, repeated across all four Gospels and Acts, is not an optional consideration but a binding command that every believer is responsible to obey.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "bADTYZtvU4s",
     "start_time": 1135.6199951171875,
-    "end_time": 1197.0599975585938
+    "end_time": 1197.0599975585938,
+    "point_summary": "The Great Commission of Mark 16 encompasses local witness first, as illustrated by Acts 1:8's progression beginning in Jerusalem, making the congregation itself the missionary presence to its own community.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -371,7 +437,9 @@
     "is_implicit": true,
     "video_id": "BB7NHySh5dQ",
     "start_time": 230.32000732421875,
-    "end_time": 293.44000244140625
+    "end_time": 293.44000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -382,7 +450,9 @@
     "is_implicit": true,
     "video_id": "BER64GTDRQY",
     "start_time": 1583.2999877929688,
-    "end_time": 1651.8199768066406
+    "end_time": 1651.8199768066406,
+    "point_summary": "The universal scope of the Great Commission — preaching the gospel to every creature — is confirmed across Matthew 28, Mark 16:15, and Acts 1, establishing that the gospel is for all people without exception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "BER64GTDRQY",
     "start_time": 2527.4399795532227,
-    "end_time": 2605.3999786376953
+    "end_time": 2605.3999786376953,
+    "point_summary": "The disciples' upward gazing is rebuked by the angels precisely because Christ had already issued his marching orders—go, preach, witness—leaving no warrant for standing still.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 198.82000732421875,
-    "end_time": 262.9800109863281
+    "end_time": 262.9800109863281,
+    "point_summary": "Even in seeking seclusion, Jesus \"could not be hid,\" a detail the sermon flags as a powerful truth about his person, though it reserves fuller treatment for another occasion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 198.82000732421875,
-    "end_time": 262.9800109863281
+    "end_time": 262.9800109863281,
+    "point_summary": "A Gentile woman's act of falling at Jesus' feet in desperate faith introduces the parallel Markan account of the same encounter recorded in Matthew, noting details unique to Mark's telling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 198.82000732421875,
-    "end_time": 262.9800109863281
+    "end_time": 262.9800109863281,
+    "point_summary": "Mark's identification of the woman as \"a Greek, a Syrophoenician by nation\" establishes her as a Gentile outsider whose persistent faith nonetheless moved Christ to heal her daughter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 387.1400146484375,
-    "end_time": 447.4200134277344
+    "end_time": 447.4200134277344,
+    "point_summary": "A desperate Gentile mother's faith began with hearing—Mark records she \"heard of him\" without explaining how, underscoring that the manner of hearing matters less than the fact of it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "BTHY_qWho6M",
     "start_time": 951.47998046875,
-    "end_time": 1009.7999877929688
+    "end_time": 1009.7999877929688,
+    "point_summary": "The Syrophoenician woman's act of falling at Jesus' feet in Mark 7:25 is presented as genuine worship, evidence that Jesus is God, since he—unlike angels—accepts rather than refuses such adoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 1150.3199462890625,
-    "end_time": 1223.6599464416504
+    "end_time": 1223.6599464416504,
+    "point_summary": "This Syrophoenician woman's desperate request to cast the devil from her daughter flows directly from her prior recognition of Christ's identity, worthiness of worship, and all-encompassing power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 1150.3199462890625,
-    "end_time": 1223.6599464416504
+    "end_time": 1223.6599464416504,
+    "point_summary": "The Syrophoenician woman's desperate request for her daughter's deliverance was grounded in her prior recognition of Christ's identity, worthiness of worship, and sovereign power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 1846.8799629211426,
-    "end_time": 1930.3799667358398
+    "end_time": 1930.3799667358398,
+    "point_summary": "Genuine heart transformation—not mere outward compliance—is the exclusive work of Jesus, illustrated here by His sovereign word alone expelling the demon from the Syrophoenician woman's daughter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 767.8999938964844,
-    "end_time": 834.9400024414062
+    "end_time": 834.9400024414062,
+    "point_summary": "Every child of God bears a general call to follow Jesus, illustrated here by Christ's words in Mark 8:34 addressed not only to the disciples but to the people gathered with them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 834.9400024414062,
-    "end_time": 900.3399963378906
+    "end_time": 900.3399963378906,
+    "point_summary": "The universal call to follow Christ—addressed not only to the apostles but to all people—demands self-denial and cross-bearing, marking discipleship as a serious, costly commitment for every child of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 834.9400024414062,
-    "end_time": 900.3399963378906
+    "end_time": 900.3399963378906,
+    "point_summary": "Following Christ is a serious, universal call requiring self-denial and cross-bearing, as Jesus' \"whosoever\" in Mark 8:34–35 addresses not only disciples but all people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 834.9400024414062,
-    "end_time": 900.3399963378906
+    "end_time": 900.3399963378906,
+    "point_summary": "Gaining the whole world at the cost of one's soul is the ultimate proof that following Christ demands self-denial, because nothing a person can acquire equals the worth of the soul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 834.9400024414062,
-    "end_time": 900.3399963378906
+    "end_time": 900.3399963378906,
+    "point_summary": "No soul can afford the cost of following self over Christ, for what a man might gain in the whole world cannot compensate for the loss of his own soul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 900.3399963378906,
-    "end_time": 961.9800109863281
+    "end_time": 961.9800109863281,
+    "point_summary": "Shame before Christ at His coming awaits those who are ashamed of Him in this life, framing self-denial and cross-bearing in Mark 8:34 as the necessary pattern for genuine discipleship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 900.3399963378906,
-    "end_time": 961.9800109863281
+    "end_time": 961.9800109863281,
+    "point_summary": "Genuine discipleship, Jesus declares to the crowd and disciples alike, requires self-denial and cross-bearing as the necessary preconditions before one can truly follow Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "c02Czidq-Fk",
     "start_time": 2431.239995956421,
-    "end_time": 2508.699996948242
+    "end_time": 2508.699996948242,
+    "point_summary": "Christ's declaration that he came to call sinners, not the righteous, grounds the sermon's call to love what Jesus loves and pursue the lost with the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "C4vnJdsfZok",
     "start_time": 2182.939971923828,
-    "end_time": 2258.2999572753906
+    "end_time": 2258.2999572753906,
+    "point_summary": "The disciples' security amid the storm illustrates that God sovereignly permits difficulties in believers' lives, knowing the outcome, because trials reveal Christ's power in ways no other setting can.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "C4vnJdsfZok",
     "start_time": 2182.939971923828,
-    "end_time": 2258.2999572753906
+    "end_time": 2258.2999572753906,
+    "point_summary": "The disciples' encounter with the storm—and Christ's command \"Peace, be still\"—illustrates that God sovereignly permits difficulties in believers' lives, using them to reveal his power and teach lessons learned in no other setting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "ChkDm1CVUKY",
     "start_time": 1231.0600032806396,
-    "end_time": 1303.9599990844727
+    "end_time": 1303.9599990844727,
+    "point_summary": "God's promise to those who answer the Great Commission includes not only His presence but His protection, as the signs following believers in Mark 16 are here framed as divine assurance for those sent into the world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "ChkDm1CVUKY",
     "start_time": 1231.0600032806396,
-    "end_time": 1303.9599990844727
+    "end_time": 1303.9599990844727,
+    "point_summary": "God's promise of protection accompanies the missionary call, with Mark 16:16–18's signs understood as authenticating apostolic authority in the New Testament era rather than a normative missionary guarantee.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "ChkDm1CVUKY",
     "start_time": 1231.0600032806396,
-    "end_time": 1303.9599990844727
+    "end_time": 1303.9599990844727,
+    "point_summary": "God's promise of protection accompanies the missionary call, with Mark 16:17's signs understood within a dispensational framework as authenticating apostolic authority rather than as ongoing normative gifts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "ChkDm1CVUKY",
     "start_time": 1231.0600032806396,
-    "end_time": 1303.9599990844727
+    "end_time": 1303.9599990844727,
+    "point_summary": "God's promise to those who answer the missionary call includes not only His presence but His protection, illustrated here through the sign gifts accompanying the apostles' proclamation in the early church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "DHlr6H0yH5I",
     "start_time": 438.44000244140625,
-    "end_time": 501.5199890136719
+    "end_time": 501.5199890136719,
+    "point_summary": "Jesus marveled at unbelief (Mark 6:5–6), while here the religious leaders marvel in the opposite direction—at the unexpected boldness of Spirit-filled, unlearned men.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 183.27999877929688,
-    "end_time": 242.05999755859375
+    "end_time": 242.05999755859375,
+    "point_summary": "Mark 2's account of bringing a paralyzed man to Jesus in Capernaum is introduced as a source of \"valuable lessons\" about bringing people to Christ, framed within a missions-conference series on spiritual preparation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 242.05999755859375,
-    "end_time": 305.1600036621094
+    "end_time": 305.1600036621094,
+    "point_summary": "Christ's return to Capernaum drew such crowds that the house overflowed, setting the scene for God's plan to reach people through the gathered presence of Jesus and his word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 242.05999755859375,
-    "end_time": 305.1600036621094
+    "end_time": 305.1600036621094,
+    "point_summary": "When crowds filled the house leaving no room even at the door, Christ preached the word to them — a detail that frames the entire passage around the priority of proclamation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 242.05999755859375,
-    "end_time": 305.1600036621094
+    "end_time": 305.1600036621094,
+    "point_summary": "Four men's act of physically carrying and bringing a paralyzed man to Jesus illustrates the sermon's central theme that God uses his people to bring others to Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 369.6600036621094,
-    "end_time": 437.2200012207031
+    "end_time": 437.2200012207031,
+    "point_summary": "Jesus poses the question of which is easier—forgiving sins or commanding physical healing—to demonstrate that His authority to do both establishes His identity as the Son of Man with power on earth to forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 369.6600036621094,
-    "end_time": 437.2200012207031
+    "end_time": 437.2200012207031,
+    "point_summary": "Jesus's claim to forgive sins is presented as proof of his divine identity, directly answering the scribes' own logic that only God can forgive sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 369.6600036621094,
-    "end_time": 437.2200012207031
+    "end_time": 437.2200012207031,
+    "point_summary": "Jesus's command to the paralyzed man to rise and walk served as public proof of His authority to forgive sins, validating His divine identity against the scribes' unspoken charge of blasphemy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 369.6600036621094,
-    "end_time": 437.2200012207031
+    "end_time": 437.2200012207031,
+    "point_summary": "The immediate, public healing in Mark 2:12 — witnessed by all and met with amazement and glorifying of God — serves as visible confirmation of Christ's authority to forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "DoWaLkMdeTk",
     "start_time": 574.280029296875,
-    "end_time": 649.6199798583984
+    "end_time": 649.6199798583984,
+    "point_summary": "The paralyzed man's complete dependence on four friends to bring him to Jesus illustrates that sinners are spiritually helpless and require others, moved by genuine concern, to act on their behalf.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 860.47998046875,
-    "end_time": 922.9199829101562
+    "end_time": 922.9199829101562,
+    "point_summary": "The crowd so packed the house that there was no room even at the door, establishing the physical obstacle the four friends had to overcome to reach Jesus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 860.47998046875,
-    "end_time": 922.9199829101562
+    "end_time": 922.9199829101562,
+    "point_summary": "Undeterred by an impassable crowd, the four men's willingness to tear open a roof to reach Jesus demonstrates their unshakeable confidence that he could heal their friend.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 2005.5799865722656,
-    "end_time": 2074.2999877929688
+    "end_time": 2074.2999877929688,
+    "point_summary": "Jesus uses the question in verse 9 to expose that forgiving sins—not merely healing the body—is the deeper and more significant need of humanity, a power belonging to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 2005.5799865722656,
-    "end_time": 2074.2999877929688
+    "end_time": 2074.2999877929688,
+    "point_summary": "Jesus's healing of the paralytic in verse 11 serves as visible proof of the claim in verse 10—that the Son of Man possesses authority on earth to forgive sins, a power belonging to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "DoWaLkMdeTk",
     "start_time": 2005.5799865722656,
-    "end_time": 2074.2999877929688
+    "end_time": 2074.2999877929688,
+    "point_summary": "Jesus's command to the paralyzed man to rise and walk served as visible proof of his claimed authority to forgive sins, demonstrating that only God can do both.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1628.1799926757812,
-    "end_time": 1686.4200134277344
+    "end_time": 1686.4200134277344,
+    "point_summary": "Jesus's declaration \"thy sins be forgiven thee\" in Mark 2:5 is cited as evidence that he exercises a divine prerogative—since the scribes correctly recognized that only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1628.1799926757812,
-    "end_time": 1686.4200134277344
+    "end_time": 1686.4200134277344,
+    "point_summary": "The scribes' silent accusation of blasphemy—\"Who can forgive sins but God only?\"—is treated as an unwitting confession that Jesus, in forgiving sin, was doing what only God can do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1628.1799926757812,
-    "end_time": 1686.4200134277344
+    "end_time": 1686.4200134277344,
+    "point_summary": "Only God can forgive sins—a truth the scribes themselves affirmed when they charged Jesus with blasphemy for pronouncing forgiveness, thereby unwittingly testifying to His divine identity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1686.4200134277344,
-    "end_time": 1748.5399780273438
+    "end_time": 1748.5399780273438,
+    "point_summary": "Jesus's perception of the scribes' unspoken reasoning demonstrates a divine omniscience that corroborates his authority to forgive sins—an authority the scribes themselves acknowledged belongs to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1686.4200134277344,
-    "end_time": 1748.5399780273438
+    "end_time": 1748.5399780273438,
+    "point_summary": "Jesus' authority to forgive sins—claimed in Mark 2:9's healing challenge—is presented as evidence of his deity, since the scribes rightly acknowledged that only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1686.4200134277344,
-    "end_time": 1748.5399780273438
+    "end_time": 1748.5399780273438,
+    "point_summary": "Jesus' claim in Mark 2:10 — that the Son of Man has power on earth to forgive sins — is presented as direct proof of his deity, since the scribes themselves acknowledged that only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -877,7 +1035,9 @@
     "is_implicit": true,
     "video_id": "e8NqM-KyHng",
     "start_time": 1748.5399780273438,
-    "end_time": 1813.0399751663208
+    "end_time": 1813.0399751663208,
+    "point_summary": "Jesus' healing of the paralytic is presented as a deliberate, public demonstration to the scribes that the Son of Man possesses divine authority to forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -888,7 +1048,9 @@
     "is_implicit": true,
     "video_id": "e8NqM-KyHng",
     "start_time": 1748.5399780273438,
-    "end_time": 1813.0399751663208
+    "end_time": 1813.0399751663208,
+    "point_summary": "Jesus heals the paralyzed man as a deliberate, visible proof to the scribes that his authority to forgive sins—rightly understood as belonging to God alone—confirms his identity as Messiah and God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -899,7 +1061,9 @@
     "is_implicit": true,
     "video_id": "e8NqM-KyHng",
     "start_time": 1748.5399780273438,
-    "end_time": 1813.0399751663208
+    "end_time": 1813.0399751663208,
+    "point_summary": "The healing of the paralytic is presented as a deliberate, public proof that Jesus possesses divine authority to forgive sins, confirming His identity as Messiah and God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 2640.5999755859375,
-    "end_time": 2723.0799865722656
+    "end_time": 2723.0799865722656,
+    "point_summary": "When Jesus answered the high priest's direct question \"Art thou the Christ?\" with \"I am,\" the claim was understood as blasphemy—confirming that His divine self-identification was the explicit ground for His condemnation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 2640.5999755859375,
-    "end_time": 2723.0799865722656
+    "end_time": 2723.0799865722656,
+    "point_summary": "When asked directly if he is the Christ, Jesus answers \"I am,\" a claim the high priest immediately condemns as blasphemy—confirming that Jesus was understood to be asserting full divine identity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 2723.0799865722656,
-    "end_time": 2796.0799865722656
+    "end_time": 2796.0799865722656,
+    "point_summary": "Jesus's omniscience as God is underscored by the claim that He knew the exact names of every person who struck Him during His trial before Caiaphas.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -943,7 +1113,9 @@
     "is_implicit": true,
     "video_id": "e8NqM-KyHng",
     "start_time": 2723.0799865722656,
-    "end_time": 2796.0799865722656
+    "end_time": 2796.0799865722656,
+    "point_summary": "When the high priest asked Jesus directly whether He was the Christ, the Son of the Blessed, Jesus answered \"I am\"—a claim the high priest immediately condemned as blasphemy, confirming Jesus was understood to be claiming deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "eg1F6EDQyos",
     "start_time": 1500.6799621582031,
-    "end_time": 1564.1199645996094
+    "end_time": 1564.1199645996094,
+    "point_summary": "The Sadducees' error in Mark 12, despite their scriptural familiarity, illustrates that true knowledge of Scripture is not mere mental aptitude but applied truth — ignorance of which leads to grave error.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "eg1F6EDQyos",
     "start_time": 1564.1199645996094,
-    "end_time": 1628.9599609375
+    "end_time": 1628.9599609375,
+    "point_summary": "The Sadducees' denial of the resurrection is presented as the consequence of hearing Scripture without applying it — knowing the text mentally but not being doers of its truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "Fa2tycL8Slk",
     "start_time": 318.32000732421875,
-    "end_time": 394.67999267578125
+    "end_time": 394.67999267578125,
+    "point_summary": "Following Christ carries the cost of self-denial and cross-bearing, as Jesus himself warned his would-be followers that obedience to him would not be easy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 1477.4800415039062,
-    "end_time": 1543.8400573730469
+    "end_time": 1543.8400573730469,
+    "point_summary": "Obedience to God's generally revealed will—such as the command to preach the gospel to every creature—is the prerequisite condition under which He grants specific divine direction, as Paul's Macedonian vision illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 0.0,
-    "end_time": 71.19999694824219
+    "end_time": 71.19999694824219,
+    "point_summary": "Christ's opening command in Mark 13:5 — \"Take heed, lest any man deceive you\" — frames deception as a straying from the right way, with the Greek word carrying the sense of being led astray or aside.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 0.0,
-    "end_time": 71.19999694824219
+    "end_time": 71.19999694824219,
+    "point_summary": "Christ's own warning in Mark 13:6 frames the entire series: many will come claiming His name and identity, making deception not a peripheral danger but the very threat He commands His followers to guard against.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 0.0,
-    "end_time": 53.599998474121094
+    "end_time": 53.599998474121094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 53.63999938964844,
-    "end_time": 117.18000030517578
+    "end_time": 117.18000030517578,
+    "point_summary": "Jesus' saying that a prophet is without honor among his own people introduces a study on what caused Christ to marvel — specifically, the unbelief he encountered in his own country.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 53.63999938964844,
-    "end_time": 117.18000030517578
+    "end_time": 117.18000030517578,
+    "point_summary": "Unbelief so constrained Jesus at Nazareth that even He marveled at it — a response the sermon treats as the launching point for a study of faith and unbelief in Christ's interactions throughout the Gospels.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 53.63999938964844,
-    "end_time": 117.18000030517578
+    "end_time": 117.18000030517578,
+    "point_summary": "Jesus's marveling at unbelief in Nazareth introduces a topical study contrasting the faith responses of various individuals Jesus encountered throughout his public ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1064,7 +1256,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 117.62000274658203,
-    "end_time": 175.25999450683594
+    "end_time": 175.25999450683594,
+    "point_summary": "Christ's marveling at unbelief in Nazareth (Mark 6:6) is set in deliberate contrast with his marveling at the centurion's great faith (Matthew 8:10), using the same word to frame two opposite responses that provoked his wonder.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1075,7 +1269,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 235.5,
-    "end_time": 313.739990234375
+    "end_time": 313.739990234375,
+    "point_summary": "Mark 4's account of the storm is cited to show that where Matthew records Jesus rebuking \"little faith,\" Mark intensifies the charge to \"no faith\" — illustrating a spectrum from no faith to great faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 805.3399963378906,
-    "end_time": 867.1399841308594
+    "end_time": 867.1399841308594,
+    "point_summary": "Unbelief, likened to a weed that chokes out faith, is presented as something that must be recognized before it can be confessed and dealt with, as illustrated by Christ marveling at it in Mark 6:6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 805.3399963378906,
-    "end_time": 867.1399841308594
+    "end_time": 867.1399841308594,
+    "point_summary": "Jesus marveling at unbelief rather than faith serves as a sobering warning that unbelief, like a weed, must first be recognized before it can be confessed and dealt with.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 867.1399841308594,
-    "end_time": 931.4199829101562
+    "end_time": 931.4199829101562,
+    "point_summary": "Recognizing unbelief begins with honest self-examination, illustrated by the father in Mark 9 who simultaneously confessed faith and acknowledged his own unbelief to Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 991.4599914550781,
-    "end_time": 1058.97998046875
+    "end_time": 1058.97998046875,
+    "point_summary": "Unbelief in one's own community produces a tangible result: the people of Nazareth missed out on witnessing God's mighty works because their lack of faith limited what Christ did among them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1059.0999755859375,
-    "end_time": 1125.5399780273438
+    "end_time": 1125.5399780273438,
+    "point_summary": "Unbelief forfeits the fuller display of God's power, as both Mark and Matthew show that Nazareth missed mighty works they could have witnessed had they believed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1141,7 +1347,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1642.1399841308594,
-    "end_time": 1716.2999877929688
+    "end_time": 1716.2999877929688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1152,7 +1360,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1894.619972229004,
-    "end_time": 1974.699966430664
+    "end_time": 1974.699966430664,
+    "point_summary": "Unbelief is presented as a universal struggle among God's people, with Mark 6:6's image of Jesus marveling at unbelief serving as a searching question about whether Christ would find faith or unbelief in the congregation today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1163,7 +1373,9 @@
     "is_implicit": true,
     "video_id": "KksZiwr6dhM",
     "start_time": 1792.0799560546875,
-    "end_time": 1856.6399383544922
+    "end_time": 1856.6399383544922,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "lIjfy9mcNI0",
     "start_time": 1835.6199798583984,
-    "end_time": 1906.6399765014648
+    "end_time": 1906.6399765014648,
+    "point_summary": "A believer's identity as a child of God surpasses all earthly titles and achievements, making that position in Christ the only gain that ultimately matters.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "lmbflZLlrso",
     "start_time": 543.5599975585938,
-    "end_time": 611.4200267791748
+    "end_time": 611.4200267791748,
+    "point_summary": "Knowing the Great Commission by memory is not the same as actively fulfilling it; Mark 16:15's command to preach the gospel to every creature demands personal, ongoing obedience, beginning with one's immediate neighbors.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "Mg6Jl4Z1Y9c",
     "start_time": 2270.2000122070312,
-    "end_time": 2350.1600341796875
+    "end_time": 2350.1600341796875,
+    "point_summary": "The Great Commission's mandate to preach the Gospel to every creature carries divine authority, grounding present Christian conduct in the obligation to share the Gospel with urgency and enthusiasm.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1207,7 +1425,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 2026.1800079345703,
-    "end_time": 2094.1200256347656
+    "end_time": 2094.1200256347656,
+    "point_summary": "Every person stands accountable before God for the gospel command to go into all the world and preach to every creature, regardless of whether they have heard it preached.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "nCFMKjd4qOQ",
     "start_time": 983.0600280761719,
-    "end_time": 1056.3600158691406
+    "end_time": 1056.3600158691406,
+    "point_summary": "The demon-possessed man's transformation in Mark 5 is cited as an illustration that genuine salvation produces a desire to be with Jesus and a changed life of obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1229,7 +1451,9 @@
     "is_implicit": true,
     "video_id": "NDFKzTPUOA0",
     "start_time": 1402.3599548339844,
-    "end_time": 1470.5199584960938
+    "end_time": 1470.5199584960938,
+    "point_summary": "The universal mandate to preach the Gospel to every creature (Mark 16:15) is confirmed by Colossians 1:6's declaration that the Gospel has gone into all the world and bears fruit wherever it is proclaimed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1240,7 +1464,9 @@
     "is_implicit": true,
     "video_id": "NDFKzTPUOA0",
     "start_time": 1543.2399597167969,
-    "end_time": 1612.6399536132812
+    "end_time": 1612.6399536132812,
+    "point_summary": "The Gospel's proven fruitfulness in the believer's own life grounds the confidence and obligation to preach it to every creature, trusting God's method to produce fruit in others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "NGIJFkrbrSQ",
     "start_time": 453.9200134277344,
-    "end_time": 513.6599731445312
+    "end_time": 513.6599731445312,
+    "point_summary": "Popular confusion about Jesus's identity extended even to Herod, who wrongly concluded Jesus was John the Baptist risen from the dead, illustrating that widespread awareness of Jesus did not produce correct understanding of who he was.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "NGIJFkrbrSQ",
     "start_time": 513.6599731445312,
-    "end_time": 583.02001953125
+    "end_time": 583.02001953125,
+    "point_summary": "The parallel account in Mark 8:27–29 confirms that Jesus' question \"Whom do men say that I am?\" and the disciples' confused answers are not unique to Matthew but are corroborated across the Gospels.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "NGIJFkrbrSQ",
     "start_time": 583.02001953125,
-    "end_time": 643.9799880981445
+    "end_time": 643.9799880981445,
+    "point_summary": "Mark 8:27 is cited as the Synoptic parallel to Matthew 16:13, confirming that Jesus' question about his identity at Caesarea Philippi is recorded across Matthew, Mark, and Luke as a singular, significant moment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "NGIJFkrbrSQ",
     "start_time": 583.02001953125,
-    "end_time": 643.9799880981445
+    "end_time": 643.9799880981445,
+    "point_summary": "Mark 8:29's parallel phrasing of Jesus' direct question to the disciples — \"but whom say ye that I am?\" — confirms that Matthew, Mark, and Luke all record this pivotal moment as one of supreme significance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "o5mEG3RptRs",
     "start_time": 1994.8599853515625,
-    "end_time": 2067.779998779297
+    "end_time": 2067.779998779297,
+    "point_summary": "God the Father's declaration of love for the Son at Jesus's baptism—the first use of \"love\" in Matthew, Mark, and Luke—parallels the language of Genesis 22:2, where God calls Isaac Abraham's beloved son.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 620.8400192260742,
-    "end_time": 681.8600158691406
+    "end_time": 681.8600158691406,
+    "point_summary": "Cited as evidence of Christ's genuine humanity, Jesus sleeping in the stern of the ship demonstrates that he experienced physical weariness as a true man, while his subsequent calming of the storm reveals his concurrent deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 620.8400192260742,
-    "end_time": 681.8600158691406
+    "end_time": 681.8600158691406,
+    "point_summary": "Cited as evidence of Christ's true humanity, the fact that Jesus slept in the ship demonstrates he experienced genuine physical weariness, while his subsequent calming of the storm confirms his simultaneous deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 620.8400192260742,
-    "end_time": 681.8600158691406
+    "end_time": 681.8600158691406,
+    "point_summary": "Cited as evidence of Christ's genuine humanity, Jesus sleeping in the stern of the ship demonstrates that he experienced physical weariness as a true man, even while possessing divine power over wind and waves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 681.8600158691406,
-    "end_time": 745.4000244140625
+    "end_time": 745.4000244140625,
+    "point_summary": "Jesus's declaration \"thy sins be forgiven thee\" in Mark 2:5 demonstrates His deity, since the scribes' own objection—\"who can forgive sins but God only?\"—confirms that forgiving sin is an exclusively divine prerogative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 681.8600158691406,
-    "end_time": 745.4000244140625
+    "end_time": 745.4000244140625,
+    "point_summary": "The scribes' own words — \"Who can forgive sins but God only?\" — are used to establish that Jesus' act of forgiving sin is direct evidence of His deity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 745.4000244140625,
-    "end_time": 798.5400238037109
+    "end_time": 798.5400238037109,
+    "point_summary": "Jesus's response to the scribes' unspoken accusation in verse 8 is presented as evidence of His deity, since only God can perceive hidden thoughts and only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 745.4000244140625,
-    "end_time": 798.5400238037109
+    "end_time": 798.5400238037109,
+    "point_summary": "Jesus's declaration in Mark 2:10 that the Son of Man has power on earth to forgive sins is presented as direct evidence of his deity, since the scribes themselves acknowledged that only God can forgive sins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 745.4000244140625,
-    "end_time": 798.5400238037109
+    "end_time": 798.5400238037109,
+    "point_summary": "The healing of the paralytic in Mark 2:12 is cited as evidence of Christ's deity, since the scribes' own objection—\"who can forgive sins but God only?\"—confirms that Jesus' authority to forgive and heal belongs to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1359.9400024414062,
-    "end_time": 1423.0399932861328
+    "end_time": 1423.0399932861328,
+    "point_summary": "Christ's power over nature is demonstrated in his calming the storm with a word, rebuking the wind and sea to immediate stillness as evidence of his divine authority over the created order.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1423.0399932861328,
-    "end_time": 1490.1000061035156
+    "end_time": 1490.1000061035156,
+    "point_summary": "Christ's authority over nature is demonstrated in his commanding the storm to cease, proving to the terrified disciples—and to us—that he is God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1423.0399932861328,
-    "end_time": 1490.1000061035156
+    "end_time": 1490.1000061035156,
+    "point_summary": "Christ's authority over nature is demonstrated in his commanding the storm to cease, prompting the disciples' awe-struck question about what manner of man could make wind and sea obey him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1423.0399932861328,
-    "end_time": 1490.1000061035156
+    "end_time": 1490.1000061035156,
+    "point_summary": "Christ's authority over the natural world is demonstrated in His single spoken command that instantly silenced the storm, prompting the disciples' awe-filled question about what manner of man He is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1423.0399932861328,
-    "end_time": 1490.1000061035156
+    "end_time": 1490.1000061035156,
+    "point_summary": "Christ's authority over nature is demonstrated in his rebuke of the storm, which silenced wind and sea instantly, prompting the disciples' awe-struck question about what manner of man he is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "otLjEpBz9Rk",
     "start_time": 1423.0399932861328,
-    "end_time": 1490.1000061035156
+    "end_time": 1490.1000061035156,
+    "point_summary": "The disciples' awestruck question — \"What manner of man is this?\" — is answered directly: Jesus's command over wind and sea demonstrates that He is God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 1595.0000305175781,
-    "end_time": 1659.5000305175781
+    "end_time": 1659.5000305175781,
+    "point_summary": "God's confirming work alongside the early disciples—working with them and validating the word through signs—grounds the Acts 4 prayer for boldness as an appeal to that same divine partnership in proclamation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 0.0,
-    "end_time": 69.81999969482422
+    "end_time": 69.81999969482422,
+    "point_summary": "Jesus's command to the delivered man — \"Go home to thy friends and tell them\" — grounds the sermon's call to personal witness in the compassionate acts the Lord has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1482,7 +1750,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 250.89999389648438,
-    "end_time": 323.4800109863281
+    "end_time": 323.4800109863281,
+    "point_summary": "Christ's omnipotence is demonstrated, not merely declared, as his command \"Peace, be still\" over wind and sea in Mark 4:39 serves as one of several witnessed proofs of his power over nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 250.89999389648438,
-    "end_time": 323.4800109863281
+    "end_time": 323.4800109863281,
+    "point_summary": "Faith's absence amid Christ's demonstrated power over nature is highlighted as the disciples' failure to trust the one whose authority the wind and sea obeyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 250.89999389648438,
-    "end_time": 323.4800109863281
+    "end_time": 323.4800109863281,
+    "point_summary": "Christ's omnipotence is not merely declared but demonstrated, as the disciples' awestruck question in Mark 4:41 shows the wind and sea obeying him, establishing his authority before the Gadarene encounter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 458.8800048828125,
-    "end_time": 532.0800170898438
+    "end_time": 532.0800170898438,
+    "point_summary": "Even demons recognize and confess the identity of Jesus as the Son of the Most High God, demonstrating that supernatural beings understand who he is even when men do not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 458.8800048828125,
-    "end_time": 532.0800170898438
+    "end_time": 532.0800170898438,
+    "point_summary": "Even the demons possessing the Gadarene man recognized and confessed Jesus as Son of the Most High God, demonstrating that demonic beings know precisely who Jesus is and fear His authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Jesus as the Son of the Most High God and understand their own coming judgment, demonstrating that spiritual knowledge of Christ's identity does not equal saving faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Jesus as the Son of the Most High God and understand their own coming judgment, demonstrating that spiritual knowledge of Christ does not equal saving faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Christ's divine identity and understand their ultimate doom, knowing they face eternal torment—a recognition that surpasses the unbelief of many humans.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Jesus as the Son of the Most High God and understand their ultimate doom, demonstrating that even Satan's forces possess knowledge of Christ's identity and authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Jesus as the Son of the Most High God and understand their ultimate doom, demonstrating that even Satan's forces possess knowledge of Christ's identity and authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons, knowing Christ's identity and fearing their destined torment, willingly submitted to Jesus' authority—entering swine and perishing—demonstrating that even unclean spirits cannot resist His command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 533.9199829101562,
-    "end_time": 592.3200073242188
+    "end_time": 592.3200073242188,
+    "point_summary": "Demons recognize Christ's identity and understand the certainty of their own judgment, knowing their time is short and their ultimate torment in the lake of fire is assured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 796.2599945068359,
-    "end_time": 870.0199890136719
+    "end_time": 870.0199890136719,
+    "point_summary": "The dramatic contrast between the demoniac's former tormented state (vv. 3–5) and his appearance now sitting, clothed, and in his right mind testifies to the totality of the change Christ had worked in him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 870.0199890136719,
-    "end_time": 944.1600036621094
+    "end_time": 944.1600036621094,
+    "point_summary": "The dramatic contrast between the demoniac's former wildness (vv. 3–5) and his present state—sitting, clothed, and in his right mind—visibly demonstrates the transforming power of Christ's work in an individual life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 870.0199890136719,
-    "end_time": 944.1600036621094
+    "end_time": 944.1600036621094,
+    "point_summary": "The dramatic transformation of the demoniac in verse 15—sitting, clothed, and in his right mind—is set in deliberate contrast to the uncontrollable, tomb-dwelling condition described in verses 3–5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 870.0199890136719,
-    "end_time": 944.1600036621094
+    "end_time": 944.1600036621094,
+    "point_summary": "The dramatic transformation of the demoniac—from uncontrollable and unbound to sitting clothed and in his right mind—is presented as a deliberate contrast with the man's former condition described in verses 3–5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 870.0199890136719,
-    "end_time": 944.1600036621094
+    "end_time": 944.1600036621094,
+    "point_summary": "The dramatic contrast between the demoniac's former tormented state in verses 3–5 and his transformed condition in verse 15—sitting, clothed, and in his right mind—is presented as evidence of the great change Christ had wrought in him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1669,7 +1971,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 1265.4800109863281,
-    "end_time": 1333.9200134277344
+    "end_time": 1333.9200134277344,
+    "point_summary": "Commissioned to testify of God's great works and compassion, the healed man's calling illustrates that personal experience of redemption carries a responsibility to declare what the Lord has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 1856.819980621338,
-    "end_time": 1931.1799774169922
+    "end_time": 1931.1799774169922,
+    "point_summary": "Sharing personal testimony of what Christ has done—illustrated by the healed man's witness in Mark 5—carries powerful evangelistic impact, even before the cross, resurrection, and ascension had occurred.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 1931.1799774169922,
-    "end_time": 2003.2599792480469
+    "end_time": 2003.2599792480469,
+    "point_summary": "Conversion itself becomes the great thing God has done, making every believer—like the delivered demoniac—a commissioned representative sent to declare what Christ has accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 2407.06000995636,
-    "end_time": 2487.440010070801
+    "end_time": 2487.440010070801,
+    "point_summary": "Urgency to witness is grounded in the present life being the only opportunity to obey Christ's command to \"go home and tell thy friends,\" since no lost people exist in heaven to evangelize.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 2563.8400115966797,
-    "end_time": 2658.1800079345703
+    "end_time": 2658.1800079345703,
+    "point_summary": "Mark 5's account of the delivered man being commissioned to \"go and tell\" is applied as the pattern for every believer's purpose: to declare publicly the great things God has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 3030.55997467041,
-    "end_time": 3099.859977722168
+    "end_time": 3099.859977722168,
+    "point_summary": "The church's mandate to go forward is grounded in the command to preach the gospel to every creature, presented here as the marching orders that make retreat or stagnation disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "Q6ieKE6HJbM",
     "start_time": 1433.219985961914,
-    "end_time": 1488.4599914550781
+    "end_time": 1488.4599914550781,
+    "point_summary": "God's miraculous provision at the feeding of the five thousand — blessing, multiplying, and filling all — is cited as a faith-building memorial the disciples should have remembered when facing new need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1746,7 +2062,9 @@
     "is_implicit": true,
     "video_id": "qBNqkK_OxzA",
     "start_time": 170.24000549316406,
-    "end_time": 233.0800018310547
+    "end_time": 233.0800018310547,
+    "point_summary": "The crowds that filled the house in Mark 2 illustrate the magnetic authority of Christ's spoken word, reinforcing why neglecting to hear Him carries such serious danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "Qlkc9s-IZMU",
     "start_time": 2016.9000396728516,
-    "end_time": 2089.9800415039062
+    "end_time": 2089.9800415039062,
+    "point_summary": "Gaining the whole world while losing one's soul yields no profit, contrasting the emptiness of material ambition with the eternal life found in Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "qwt_XuUQD9E",
     "start_time": 2437.3399543762207,
-    "end_time": 2496.719955444336
+    "end_time": 2496.719955444336,
+    "point_summary": "The disciples' storm in Mark 4 illustrates that trials can come precisely through obedience to God's direction, and that enduring them positions believers to witness divine power they would never otherwise see.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1779,7 +2101,9 @@
     "is_implicit": true,
     "video_id": "qwt_XuUQD9E",
     "start_time": 2437.3399543762207,
-    "end_time": 2496.719955444336
+    "end_time": 2496.719955444336,
+    "point_summary": "The disciples' storm, sent by Jesus' own command, illustrates that trials can come through obedience rather than sin, and that enduring them reveals God's power in ways that would otherwise remain unseen.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "qXJTL7gNqeA",
     "start_time": 2392.9199829101562,
-    "end_time": 2459.919994354248
+    "end_time": 2459.919994354248,
+    "point_summary": "Honest, partial faith—\"I believe, help thou mine unbelief\"—is presented as a valid and recognizable posture before God, who actively works to build and increase that faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2654.439971923828,
-    "end_time": 2722.439971923828
+    "end_time": 2722.439971923828,
+    "point_summary": "Christ's command to the healed demoniac—go tell your friends what great things He has done—establishes that believers are left on earth to make Him known, not merely to observe prophetic fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1812,7 +2140,9 @@
     "is_implicit": true,
     "video_id": "s8x5TtvlC7M",
     "start_time": 3154.3200073242188,
-    "end_time": 3225.3600006103516
+    "end_time": 3225.3600006103516,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "s8x5TtvlC7M",
     "start_time": 3154.3200073242188,
-    "end_time": 3225.3600006103516
+    "end_time": 3225.3600006103516,
+    "point_summary": "Christ's sovereign word over the storm — \"Peace, be still\" — is cited as evidence that God is greater than any problem, calling believers away from fear-driven focus on circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1834,7 +2166,9 @@
     "is_implicit": true,
     "video_id": "s8x5TtvlC7M",
     "start_time": 3154.3200073242188,
-    "end_time": 3225.3600006103516
+    "end_time": 3225.3600006103516,
+    "point_summary": "The disciples' awestruck question \"What manner of man is this?\" is cited as the natural response to witnessing God's power over the storm, illustrating that God alone is greater than any problem or crisis we face.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1845,7 +2179,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 0.0,
-    "end_time": 60.08000183105469
+    "end_time": 60.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 0.0,
-    "end_time": 60.08000183105469
+    "end_time": 60.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1867,7 +2205,9 @@
     "is_implicit": true,
     "video_id": "sJAMffvnci8",
     "start_time": 918.47998046875,
-    "end_time": 976.47998046875
+    "end_time": 976.47998046875,
+    "point_summary": "The feeding of the five thousand, cited as backdrop, frames Jesus as Creator and Lord over nature, whose willingness to be received—never forced—meets human need on its own terms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 1032.56005859375,
-    "end_time": 1097.3599853515625
+    "end_time": 1097.3599853515625,
+    "point_summary": "When the disciples saw Jesus walking on the sea, they supposed him to be a spirit and cried out in terror—a fear Jesus immediately addressed with the reassurance \"It is I, be not afraid.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 1032.56005859375,
-    "end_time": 1097.3599853515625
+    "end_time": 1097.3599853515625,
+    "point_summary": "Christ's words \"Be of good cheer; it is I; be not afraid\" directly address the disciples' terror, identified in the text as literal fright at seeing him walk on the sea.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 1168.4000244140625,
-    "end_time": 1232.8800048828125
+    "end_time": 1232.8800048828125,
+    "point_summary": "Christ's entry into the ship in verse 51 is presented as the decisive moment when the storm ceased, illustrating his sovereign power over nature and his personal intervention for those who willingly receive him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "sJAMffvnci8",
     "start_time": 1373.0400390625,
-    "end_time": 1445.5999755859375
+    "end_time": 1445.5999755859375,
+    "point_summary": "Christ's omniscient awareness of the disciples' storm in Mark 6 grounds the assurance that He sees every believer's individual trial, knows their precise need, and has the power to meet it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 2264.5599975585938,
-    "end_time": 2358.7200317382812
+    "end_time": 2358.7200317382812,
+    "point_summary": "God has ordained that saved people—not stars, rocks, or angels—are the appointed messengers to carry the gospel to every creature, making personal witness an inescapable obligation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1933,7 +2283,9 @@
     "is_implicit": true,
     "video_id": "T5xHSdrZyYk",
     "start_time": 2671.8199768066406,
-    "end_time": 2737.0199584960938
+    "end_time": 2737.0199584960938,
+    "point_summary": "Receiving the gospel creates a responsibility to actively proclaim it to every creature, since the new covenant's blessings are not truths to be held privately but sent outward to a lost world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "uGo1HL4c1vk",
     "start_time": 685.8399810791016,
-    "end_time": 755.3599853515625
+    "end_time": 755.3599853515625,
+    "point_summary": "The angel's singling out of Peter by name in Mark 16:7 illuminates Paul's deliberate, personal charge to Archippus—both are direct, individual calls to a discouraged servant who needed specific address.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1955,7 +2309,9 @@
     "is_implicit": true,
     "video_id": "V5wHGLUSkdE",
     "start_time": 504.44000244140625,
-    "end_time": 562.239990234375
+    "end_time": 562.239990234375,
+    "point_summary": "The crowd that blocked Zacchaeus parallels the crowd in Mark 2 that prevented the paralytic's friends from reaching Jesus, illustrating that pressing multitudes repeatedly hindered access to Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1966,7 +2322,9 @@
     "is_implicit": true,
     "video_id": "VAwhGyZS5VU",
     "start_time": 1323.140022277832,
-    "end_time": 1386.9400177001953
+    "end_time": 1386.9400177001953,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "VK1ZADVO-rE",
     "start_time": 1959.6400299072266,
-    "end_time": 2022.1800231933594
+    "end_time": 2022.1800231933594,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "VK1ZADVO-rE",
     "start_time": 2078.5800170898438,
-    "end_time": 2132.9000244140625
+    "end_time": 2132.9000244140625,
+    "point_summary": "The Gadarene demoniac's transformation—from demon-possessed to clothed, in his right mind, and sitting at Jesus' feet—illustrates that salvation is the greatest experience a person can have, compelling witness to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "VK1ZADVO-rE",
     "start_time": 2132.9000244140625,
-    "end_time": 2195.2200317382812
+    "end_time": 2195.2200317382812,
+    "point_summary": "The transformed demoniac—now clothed, in his right mind, and sitting at Jesus' feet—is presented as a picture of salvation's power to make a person a new creature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "VK1ZADVO-rE",
     "start_time": 2257.5800170898438,
-    "end_time": 2335.9200439453125
+    "end_time": 2335.9200439453125,
+    "point_summary": "Rather than allowing the healed demoniac to follow Him, Jesus redirected his gratitude into witness, commanding him to go home and tell others what God had done—illustrating that salvation issues in a personal, immediate call to go and tell.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "VK1ZADVO-rE",
     "start_time": 2257.5800170898438,
-    "end_time": 2335.9200439453125
+    "end_time": 2335.9200439453125,
+    "point_summary": "Obedience to Christ's command to \"go and tell\" is illustrated in the formerly demon-possessed man who, rather than following Jesus, departed and proclaimed throughout Decapolis what great things Jesus had done for him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2032,7 +2400,9 @@
     "is_implicit": true,
     "video_id": "VK1ZADVO-rE",
     "start_time": 2335.9200439453125,
-    "end_time": 2403.5000047683716
+    "end_time": 2403.5000047683716,
+    "point_summary": "The healed demoniac's commission in Mark 5—\"go home to thy friends and tell them\"—is held up as the missions conference theme, grounding the church's evangelistic responsibility in Christ's own direct command to go and tell.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 1273.6800155639648,
-    "end_time": 1333.760009765625
+    "end_time": 1333.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "W8g6GlJtjpg",
     "start_time": 592.0800170898438,
-    "end_time": 653.8000106811523
+    "end_time": 653.8000106811523,
+    "point_summary": "Christ's deliberate movement to the Sea of Galilee illustrates that he walked with divine purpose, knowing exactly where he was going and whom he would call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "W8g6GlJtjpg",
     "start_time": 1281.2599868774414,
-    "end_time": 1352.1399841308594
+    "end_time": 1352.1399841308594,
+    "point_summary": "The Great Commission's command to preach the gospel to every creature defines the believer's overarching purpose, expressed not only in formal ministry but wherever God places them in daily life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2076,7 +2452,9 @@
     "is_implicit": true,
     "video_id": "W8g6GlJtjpg",
     "start_time": 1650.1399841308594,
-    "end_time": 1706.6999816894531
+    "end_time": 1706.6999816894531,
+    "point_summary": "Christ's deliberate walk along the sea to call Peter and Andrew illustrates that bearing \"much fruit\" as his disciples means purposefully pursuing the lost as fishers of men.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1242.6999969482422,
-    "end_time": 1309.8199996948242
+    "end_time": 1309.8199996948242,
+    "point_summary": "Amid the disciples' dispute over positions of honor, Christ's response to James and John's request serves as evidence that Jesus walked humbly, modeling the humility believers are called to imitate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1309.8199996948242,
-    "end_time": 1366.9400024414062
+    "end_time": 1366.9400024414062,
+    "point_summary": "Mark 10:35 introduces the request of James and John, used as context for the sermon's point that Jesus responded to self-seeking ambition by teaching servant-greatness, illustrating his humility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1309.8199996948242,
-    "end_time": 1366.9400024414062
+    "end_time": 1366.9400024414062,
+    "point_summary": "Mark 10:36 is cited within a passage used to illustrate Christ's humility, contrasting the disciples' ambition for positions of glory with Jesus's teaching that greatness means servanthood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1309.8199996948242,
-    "end_time": 1366.9400024414062
+    "end_time": 1366.9400024414062,
+    "point_summary": "James and John's request for seats of honor (v. 37) sets up Jesus' counter-teaching in vv. 42–44, used here as evidence that Christ walked humbly by defining greatness as servanthood rather than position.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1309.8199996948242,
-    "end_time": 1366.9400024414062
+    "end_time": 1366.9400024414062,
+    "point_summary": "Mark 10:41–45 is introduced as evidence that Jesus walked humbly, with the disciples' dispute over greatness serving as the occasion for Christ's teaching that true greatness means serving rather than exercising lordship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1309.8199996948242,
-    "end_time": 1366.9400024414062
+    "end_time": 1366.9400024414062,
+    "point_summary": "Mark 10:42 is cited to demonstrate Christ's humility, contrasting worldly lordship and authority-seeking with his teaching that greatness among his followers means serving as a minister.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1423.4199981689453,
-    "end_time": 1489.9800109863281
+    "end_time": 1489.9800109863281,
+    "point_summary": "Greatness in Christ's kingdom is defined not by status or recognition but by servanthood, as Jesus himself modeled by coming not to be served but to minister and give his life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "The specific mention of Peter by name in the resurrection announcement signals his restoration after denial, distinguishing him from the other scattered disciples.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 946.1800231933594,
-    "end_time": 1016.5400085449219
+    "end_time": 1016.5400085449219,
+    "point_summary": "The disciples' fear and trembling at the empty tomb, recorded in Mark 16:8, illustrates the emotional devastation of the saddened followers before resurrection hope broke through.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 1016.5400085449219,
-    "end_time": 1088.8200073242188
+    "end_time": 1088.8200073242188,
+    "point_summary": "The angelic command to tell \"his disciples and Peter\" serves as the backdrop for establishing that the disciples were scattered, saddened, and mourning—setting up the emotional state into which the resurrection news would come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "WywZJVACwn4",
     "start_time": 1016.5400085449219,
-    "end_time": 1088.8200073242188
+    "end_time": 1088.8200073242188,
+    "point_summary": "Mark 16:9's notation that the risen Christ appeared first to Mary Magdalene while the disciples mourned and wept establishes the emotional state of grief among those who had witnessed the crucifixion before resurrection news reached them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "XmrMnXINE5Q",
     "start_time": 710.2000122070312,
-    "end_time": 774.2000122070312
+    "end_time": 774.2000122070312,
+    "point_summary": "Signs confirmed the apostolic word during the foundational era of the church, when hearers lacked a completed Scripture to verify the message being preached.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2285,7 +2699,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 321.5,
-    "end_time": 391.5
+    "end_time": 391.5,
+    "point_summary": "Jesus' courageous walk is illustrated by his continued, unhesitating presence in the temple before hostile religious leaders who were actively seeking to kill him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 321.5,
-    "end_time": 391.5
+    "end_time": 391.5,
+    "point_summary": "Jesus' willingness to walk openly in the temple—confronted by hostile religious leaders seeking to kill him—is presented as the defining example of courageous walking that believers are called to emulate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2307,7 +2725,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 391.5,
-    "end_time": 448.5
+    "end_time": 448.5,
+    "point_summary": "Near the end of his earthly ministry, Jesus walked openly in the temple among leaders actively seeking to kill him, demonstrating that obedience to God's purpose requires courageous walking even under hostile interrogation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 448.5,
-    "end_time": 508.5
+    "end_time": 508.5,
+    "point_summary": "Facing hostile religious authorities who demanded to know his credentials, Jesus responded not with deference but with a counter-question, demonstrating the courage and wisdom with which he walked among his enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 448.5,
-    "end_time": 508.5
+    "end_time": 508.5,
+    "point_summary": "Jesus' counter-question about John's baptism—demanding they answer him first—illustrates his wisdom and courage in refusing to be cornered by hostile authorities who wielded power over others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 570.5,
-    "end_time": 642.5400009155273
+    "end_time": 642.5400009155273,
+    "point_summary": "Jesus's opponents refused to answer his question about John's baptism because either answer would publicly expose them—leaving them trapped by their own political calculation and fear of the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 570.5,
-    "end_time": 642.5400009155273
+    "end_time": 642.5400009155273,
+    "point_summary": "Jesus's refusal to answer the religious leaders—mirroring their refusal to answer him—is presented as a display of divine courage before earthly authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2362,7 +2790,9 @@
     "is_implicit": true,
     "video_id": "Y0rICXkoJFs",
     "start_time": 61.18000030517578,
-    "end_time": 121.69999694824219
+    "end_time": 121.69999694824219,
+    "point_summary": "The Great Commission's mandate to go into all the world and preach the gospel to every creature is presented as the foundational missionary charge Christ gave before His ascension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2373,7 +2803,9 @@
     "is_implicit": false,
     "video_id": "YAT9vFKbcNs",
     "start_time": 677.7999801635742,
-    "end_time": 737.1799774169922
+    "end_time": 737.1799774169922,
+    "point_summary": "The women's journey to the tomb was driven by an unfinished burial rite—anointing the body—which Mark 16:1 identifies as their explicit purpose, explaining why they carried spices and made the trip at all.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "YAT9vFKbcNs",
     "start_time": 677.7999801635742,
-    "end_time": 737.1799774169922
+    "end_time": 737.1799774169922,
+    "point_summary": "The women's question—\"Who shall roll us away the stone?\"—reveals that their minds were fixed on practical obstacles, with no expectation of resurrection, even as they carried spices to anoint a body they believed remained in the tomb.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "YAT9vFKbcNs",
     "start_time": 737.1799774169922,
-    "end_time": 804.7799835205078
+    "end_time": 804.7799835205078,
+    "point_summary": "The women's question — \"Who shall roll us away the stone?\" — reveals they approached the tomb with genuine purpose but no solution to the obstacle standing between them and the body of Jesus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 0.0,
-    "end_time": 58.02000045776367
+    "end_time": 58.02000045776367,
+    "point_summary": "Mark 9's account of the Transfiguration is presented as a foundational event of overwhelming divine impact, one Peter himself later invoked to authenticate the sure word of prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 183.02000427246094,
-    "end_time": 238.27999877929688
+    "end_time": 238.27999877929688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 297.739990234375,
-    "end_time": 359.20001220703125
+    "end_time": 359.20001220703125,
+    "point_summary": "The disciples' inability to cast out the dumb spirit in Mark 9 is set in sharp contrast to the authority over unclean spirits they had previously been given and exercised in Mark 6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 297.739990234375,
-    "end_time": 359.20001220703125
+    "end_time": 359.20001220703125,
+    "point_summary": "The disciples' inability in Mark 9 stands in sharp contrast to the authority over unclean spirits Jesus had explicitly granted them in Mark 6:7, raising the question of what changed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 297.739990234375,
-    "end_time": 359.20001220703125
+    "end_time": 359.20001220703125,
+    "point_summary": "Mark 6:8 is cited as background evidence that the disciples had previously been granted power over unclean spirits and sent out successfully, making their later failure in Mark 9 all the more striking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 359.20001220703125,
-    "end_time": 419.9599914550781
+    "end_time": 419.9599914550781,
+    "point_summary": "Jesus's rebuke of \"faithless generation\" in Mark 9:19 is directed at the disciples, not the suffering father, exposing how prior success in ministry can breed self-reliance that replaces dependence on God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 419.9599914550781,
-    "end_time": 486.5199890136719
+    "end_time": 486.5199890136719,
+    "point_summary": "The disciples' earlier success in Mark 6 casting out demons carried a danger: that they would begin to trust in their own ability rather than continuing to depend on God's power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 554.52001953125,
-    "end_time": 614.6199779510498
+    "end_time": 614.6199779510498,
+    "point_summary": "Jesus's rebuke — \"O faithless generation\" — is read as disappointment directed at the disciples specifically, who had repeatedly witnessed His power yet still failed to trust Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 819.0399780273438,
-    "end_time": 902.1999816894531
+    "end_time": 902.1999816894531,
+    "point_summary": "Jesus's redirection of the father's conditional \"if thou canst\" back onto the man as \"if thou canst believe\" establishes that God's ability is unlimited, and the only variable is the believer's faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 819.0399780273438,
-    "end_time": 902.1999816894531
+    "end_time": 902.1999816894531,
+    "point_summary": "The desperate father's tearful cry — affirming belief while pleading for help with his unbelief — illustrates that faith can coexist with doubt, and that honest prayer for greater faith is itself an act of trust in God's ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 974.239990234375,
-    "end_time": 1051.239990234375
+    "end_time": 1051.239990234375,
+    "point_summary": "Faith in God's omnipotence is the condition Jesus sets for the impossible becoming possible, as the father's appeal meets the promise that all things are possible to him that believeth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 1051.239990234375,
-    "end_time": 1116.8599853515625
+    "end_time": 1116.8599853515625,
+    "point_summary": "Christ's direct command over the unclean spirit in Mark 9:25 demonstrates that God holds absolute authority and power over Satan and all evil spirits.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 1051.239990234375,
-    "end_time": 1116.8599853515625
+    "end_time": 1116.8599853515625,
+    "point_summary": "Mark 9:26's violent exit of the demon and Jesus's restoring touch demonstrate that God holds sovereign authority and power over Satan and all evil spirits.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 1051.239990234375,
-    "end_time": 1116.8599853515625
+    "end_time": 1116.8599853515625,
+    "point_summary": "Mark 9:27 illustrates that God holds absolute authority over Satan and all evil spirits, demonstrated in Christ physically lifting the delivered boy to life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 1662.5199890136719,
-    "end_time": 1730.3599853515625
+    "end_time": 1730.3599853515625,
+    "point_summary": "Spiritual self-sufficiency undermines prayer, and Jesus' words in Mark 9:29 expose this by tying the disciples' failure directly to their neglect of prayer and fasting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 1804.799970626831,
-    "end_time": 1881.1799697875977
+    "end_time": 1881.1799697875977,
+    "point_summary": "Specific prayer, modeled by the disciples' inquiry in Mark 9, is presented as the means by which faith grows as believers witness God's direct and particular answers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "yKUQA_1zUE4",
     "start_time": 765.2400207519531,
-    "end_time": 833.8000183105469
+    "end_time": 833.8000183105469,
+    "point_summary": "Christ's rebuke of the Sadducees in Mark 12:24 is presented as a declaration of the truth of preservation, set within a confrontation where his opponents did not believe in the resurrection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2593,7 +3063,9 @@
     "is_implicit": true,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 2119.0599670410156,
-    "end_time": 2193.699981689453
+    "end_time": 2193.699981689453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2604,7 +3076,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 3205.9200439453125,
-    "end_time": 3274.1800537109375
+    "end_time": 3274.1800537109375,
+    "point_summary": "The Great Commission's command to preach the gospel to every creature carries both a unique privilege and an inescapable personal responsibility, because the gospel is confrontational and the only cure for humanity's heart problem is Jesus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 0.0,
-    "end_time": 66.66000366210938
+    "end_time": 66.66000366210938,
+    "point_summary": "Mark 12:18 introduces the Sadducees as religious leaders who approached Jesus not in genuine inquiry but with a calculated question designed to corner him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 0.0,
-    "end_time": 66.66000366210938
+    "end_time": 66.66000366210938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2637,7 +3115,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 191.33999633789062,
-    "end_time": 249.82000732421875
+    "end_time": 249.82000732421875,
+    "point_summary": "Ignorance of Scripture and of God's power are identified as the twin roots of serious error, with the Greek word for \"err\" in verse 24 being the same word elsewhere translated \"deceive.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2648,7 +3128,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 191.33999633789062,
-    "end_time": 249.82000732421875
+    "end_time": 249.82000732421875,
+    "point_summary": "The word translated \"err\" in Mark 12:27 is the same Greek word rendered \"deceive\" or \"deceived\" elsewhere, revealing that the Sadducees' error about resurrection was a form of self-deception rooted in ignorance of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "The Sadducees' denial of resurrection, stated plainly in verse 18, sets the stage for examining what led them into the deception Jesus directly charges them with.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2681,7 +3167,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2692,7 +3180,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2714,7 +3206,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 316.4800109863281,
-    "end_time": 385.5199890136719
+    "end_time": 385.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2725,7 +3219,9 @@
     "is_implicit": true,
     "video_id": "_bNqgIZk0oA",
     "start_time": 968.2799987792969,
-    "end_time": 1052.9599914550781
+    "end_time": 1052.9599914550781,
+    "point_summary": "Jesus's rebuke in Mark 12:24 identifies two inseparable errors—ignorance of Scripture and ignorance of God's power—with the sermon pressing that no circumstance lies beyond the reach of the God who creates, plagues Egypt, and raises the dead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2736,7 +3232,9 @@
     "is_implicit": true,
     "video_id": "_bNqgIZk0oA",
     "start_time": 1262.1599960327148,
-    "end_time": 1344.0800018310547
+    "end_time": 1344.0800018310547,
+    "point_summary": "Jesus's appeal to Exodus 3—where God identifies himself as the God of Abraham, Isaac, and Jacob long after their physical deaths—demonstrates that the patriarchs must still be living, proving resurrection from Scripture the Sadducees claimed to accept.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2747,7 +3245,9 @@
     "is_implicit": true,
     "video_id": "vVjqEYUgWc4",
     "start_time": 2193.3600158691406,
-    "end_time": 2264.0800170898438
+    "end_time": 2264.0800170898438,
+    "point_summary": "Cited to contrast worldly gain with the soul's eternal worth, underscoring why Christ's atoning transaction—not earthly profit—is the only sufficient remedy for sin's consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2758,7 +3258,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1227.0799560546875,
-    "end_time": 1290.0799560546875
+    "end_time": 1290.0799560546875,
+    "point_summary": "The Great Commission's explicit inclusion of Samaria in Acts 1:8 demonstrates that God's command to preach the gospel is all-inclusive, leaving no people group—even despised ones—conveniently skipped.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2769,7 +3271,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2353.8200073242188,
-    "end_time": 2412.9600534439087
+    "end_time": 2412.9600534439087,
+    "point_summary": "The Great Commission mandate to preach the gospel to every creature is presented as the church's living memorial, replacing the stone monuments of Joshua 4 with a continuing witness to Christ's death, burial, and resurrection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2780,7 +3284,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 2295.0599670410156,
-    "end_time": 2344.8599853515625
+    "end_time": 2344.8599853515625,
+    "point_summary": "The urgency of Christ's return motivates faithful obedience to the Great Commission mandate to preach the gospel to every creature before it is too late.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2791,7 +3297,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 192.86000061035156,
-    "end_time": 255.3800048828125
+    "end_time": 255.3800048828125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2802,7 +3310,9 @@
     "is_implicit": true,
     "video_id": "LokYFQxn-PE",
     "start_time": 424.1199951171875,
-    "end_time": 494.4599914550781
+    "end_time": 494.4599914550781,
+    "point_summary": "Prayer is indispensable to the church's mission, cited here as the command Christ gave—go and preach to every creature—which the early believers upheld through united, persistent prayer even under persecution.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2813,7 +3323,9 @@
     "is_implicit": false,
     "video_id": "LokYFQxn-PE",
     "start_time": 2282.6199951171875,
-    "end_time": 2371.4199829101562
+    "end_time": 2371.4199829101562,
+    "point_summary": "Prayer can coexist with weak faith, as the gathered believers who had been interceding for Peter dismissed Rhoda's report as madness rather than believing God had answered them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "LokYFQxn-PE",
     "start_time": 2282.6199951171875,
-    "end_time": 2371.4199829101562
+    "end_time": 2371.4199829101562,
+    "point_summary": "Faith and doubt can coexist in the same praying community, as illustrated by believers who prayed for Peter yet called Rhoda \"mad\" when their prayer was answered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2835,7 +3349,9 @@
     "is_implicit": true,
     "video_id": "LokYFQxn-PE",
     "start_time": 2282.6199951171875,
-    "end_time": 2371.4199829101562
+    "end_time": 2371.4199829101562,
+    "point_summary": "Faith and doubt can coexist in the same praying community, as illustrated by believers who prayed for Peter yet struggled to believe the answer had arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2846,7 +3362,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2667.9400329589844,
-    "end_time": 2726.260040283203
+    "end_time": 2726.260040283203,
+    "point_summary": "The Great Commission's daunting global scope is met by Christ's emphatic \"lo\"—a word designed to arrest attention—assuring believers that His presence accompanies them in fulfilling it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "Y0jwhAYMarc",
     "start_time": 471.20001220703125,
-    "end_time": 532.5599975585938
+    "end_time": 532.5599975585938,
+    "point_summary": "Miracles in the apostolic era served as confirming signs that drew crowds and opened ears to the gospel, not as ends in themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2868,7 +3388,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 1889.2800521850586,
-    "end_time": 1952.6400604248047
+    "end_time": 1952.6400604248047,
+    "point_summary": "The universal scope of Christ's redemption — purchasing people from every kindred, tongue, and nation — demands a corresponding universal mission, grounded in the command to preach the gospel to every creature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2879,7 +3401,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 2280.2000427246094,
-    "end_time": 2342.5200805664062
+    "end_time": 2342.5200805664062,
+    "point_summary": "The present-day responsibility of the redeemed, while awaiting heavenly worship, is to obey Christ's command to preach the gospel to every creature without keeping it to themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2890,7 +3414,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2808.980010986328,
-    "end_time": 2843.0599975585938
+    "end_time": 2843.0599975585938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2901,7 +3427,9 @@
     "is_implicit": true,
     "video_id": "B7qA98qbh00",
     "start_time": 1560.5000305175781,
-    "end_time": 1618.2200317382812
+    "end_time": 1618.2200317382812,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2912,7 +3440,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 2487.4399795532227,
-    "end_time": 2548.439987182617
+    "end_time": 2548.439987182617,
+    "point_summary": "Gaining the whole world holds no ultimate profit if a person loses their soul, since every individual—rich or poor—will one day stand before God and be judged on eternal, not financial, standing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2923,7 +3453,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 2083.239990234375,
-    "end_time": 2148.8799743652344
+    "end_time": 2148.8799743652344,
+    "point_summary": "Every believer bears responsibility to proclaim the gospel, since Romans 10's chain of logic—calling, believing, hearing, preaching, being sent—shows that reaching the lost requires Christians to go into all the world as ambassadors.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2934,7 +3466,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 1033.9400024414062,
-    "end_time": 1117.0800170898438
+    "end_time": 1117.0800170898438,
+    "point_summary": "The demoniac of Gadara, once delivered, is pictured sitting clothed and in his right mind at Jesus' feet—held up as a model of the posture of hearing that Mary exemplified.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2945,7 +3479,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 1033.9400024414062,
-    "end_time": 1117.0800170898438
+    "end_time": 1117.0800170898438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2956,7 +3492,9 @@
     "is_implicit": true,
     "video_id": "faPvPJvS9rU",
     "start_time": 1498.6199951171875,
-    "end_time": 1572.3999938964844
+    "end_time": 1572.3999938964844,
+    "point_summary": "Every believer is called to preach the gospel (Mark 16:15), but that universal obligation does not require holding the office of pastor.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "Sv5lMw8-UoQ",
     "start_time": 1142.8400268554688,
-    "end_time": 1200.1600341796875
+    "end_time": 1200.1600341796875,
+    "point_summary": "Divine providence over natural forces is illustrated through the disciples' contrary wind in Mark 6:48, showing that God can redirect circumstances that resist human effort and striving.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2978,7 +3518,9 @@
     "is_implicit": true,
     "video_id": "Sv5lMw8-UoQ",
     "start_time": 1142.8400268554688,
-    "end_time": 1200.1600341796875
+    "end_time": 1200.1600341796875,
+    "point_summary": "Divine sovereignty over wind and direction illustrates that true prayer surrenders to God's leading rather than seeking his approval on a self-chosen path, as the disciples' contrary wind in Mark 6:48 pictures.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -2989,7 +3531,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 2573.5000610351562,
-    "end_time": 2642.2200622558594
+    "end_time": 2642.2200622558594,
+    "point_summary": "The woman with the issue of blood, having exhausted every human remedy over twelve years, illustrates that true deliverance comes only when trouble drives us to call upon God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Mark",
@@ -3000,6 +3544,8 @@
     "is_implicit": true,
     "video_id": "LE1qkzND4b0",
     "start_time": 1057.8399963378906,
-    "end_time": 1131.8800048828125
+    "end_time": 1131.8800048828125,
+    "point_summary": "Trials are not designed to destroy but to develop, as seen when Christ allowed the storm the disciples faced in order to reveal his power to calm it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

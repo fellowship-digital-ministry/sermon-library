@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "317YMHnIXHg",
     "start_time": 557.6199951171875,
-    "end_time": 627.4200019836426
+    "end_time": 627.4200019836426,
+    "point_summary": "True success, by God's measure, is defined by faith—taking God at His word—a principle the sermon traces from Habakkuk 2:4 (\"the just shall live by faith\") through Joshua and Hebrews 11:6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 2466.5800170898438,
-    "end_time": 2537.500015258789
+    "end_time": 2537.500015258789,
+    "point_summary": "Faith's call in Habakkuk 2:4 — \"the just shall live by faith\" — is invoked as the governing principle that believers are to simply take God at His word rather than demanding to understand how outcomes will unfold.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1894.619972229004,
-    "end_time": 1974.699966430664
+    "end_time": 1974.699966430664,
+    "point_summary": "Habakkuk 2:4's declaration that \"the just shall live by faith\" frames the entire call to combat unbelief by immersing in Scripture, since faith grows through hearing God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 1111.2799682617188,
-    "end_time": 1173.239990234375
+    "end_time": 1173.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "pFAgp4Aw-l4",
     "start_time": 2328.699951171875,
-    "end_time": 2407.06000995636
+    "end_time": 2407.06000995636,
+    "point_summary": "This present earthly life is the only opportunity believers have to live by faith, since sight replaces faith in heaven.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 1430.0199737548828,
-    "end_time": 1495.8999633789062
+    "end_time": 1495.8999633789062,
+    "point_summary": "Living by faith—not human strategy or scheming—is the basis on which believers obey God's command to go forward, trusting him alone to accomplish what only he can do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "qwt_XuUQD9E",
     "start_time": 237.0800018310547,
-    "end_time": 305.94000244140625
+    "end_time": 305.94000244140625,
+    "point_summary": "Habakkuk's declaration — \"yet I will rejoice in the Lord\" — is held up as a model of choosing rejoicing even when every visible circumstance, from failed harvests to empty stalls, paints a dim picture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "qwt_XuUQD9E",
     "start_time": 305.94000244140625,
-    "end_time": 380.1000061035156
+    "end_time": 380.1000061035156,
+    "point_summary": "Even when every material circumstance is stripped away — no harvest, no flock, no provision — Habakkuk's deliberate, purposed declaration \"yet I will rejoice in the Lord\" models a joy rooted in God's character, not in conditions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "qwt_XuUQD9E",
     "start_time": 305.94000244140625,
-    "end_time": 380.1000061035156
+    "end_time": 380.1000061035156,
+    "point_summary": "Even amid total agricultural and economic devastation catalogued in verse 17, Habakkuk's \"yet I will rejoice in the Lord\" is presented as a purposed, intentional determination to rejoice independent of circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "qwt_XuUQD9E",
     "start_time": 305.94000244140625,
-    "end_time": 380.1000061035156
+    "end_time": 380.1000061035156,
+    "point_summary": "Even amid total agricultural and economic devastation catalogued in verse 17, Habakkuk's declaration in verse 19 models the intentional, purposed resolve to rejoice in God independent of circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "qwt_XuUQD9E",
     "start_time": 380.1000061035156,
-    "end_time": 441.29998779296875
+    "end_time": 441.29998779296875,
+    "point_summary": "Habakkuk's \"yet I will rejoice\" in verse 18 is held up as a model of deliberate, resolved rejoicing chosen in spite of adverse circumstances, not conditioned on them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "TeWW6mhl9W8",
     "start_time": 58.79999923706055,
-    "end_time": 123.9000015258789
+    "end_time": 123.9000015258789,
+    "point_summary": "Habakkuk 2:4's declaration that \"the just shall live by faith\" is cited as the foundational challenge underlying Hebrews 11, which then supplies Old Testament exemplars who embodied that very principle across every era of human history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -140,7 +164,9 @@
     "is_implicit": true,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 2402.0999755859375,
-    "end_time": 2472.3800048828125
+    "end_time": 2472.3800048828125,
+    "point_summary": "The Old Testament principle from Habakkuk 2:3–4 — \"the just shall live by faith\" — is cited as the foundation underlying Hebrews 10:38–39, and later taken up distinctly by Paul in Romans and Galatians.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 2402.0999755859375,
-    "end_time": 2472.3800048828125
+    "end_time": 2472.3800048828125,
+    "point_summary": "The Old Testament principle \"the just shall live by faith\" from Habakkuk 2:4 is shown to carry distinct emphases across Romans (justification), Galatians (faith itself), and Hebrews (persevering endurance).",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "VUxY_FF000Q",
     "start_time": 916.8199768066406,
-    "end_time": 990.8199768066406
+    "end_time": 990.8199768066406,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -173,7 +203,9 @@
     "is_implicit": true,
     "video_id": "Y0rICXkoJFs",
     "start_time": 590.5999755859375,
-    "end_time": 655.3999786376953
+    "end_time": 655.3999786376953,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Habakkuk",
@@ -184,6 +216,8 @@
     "is_implicit": true,
     "video_id": "6dYI_cEbDbI",
     "start_time": 337.5199890136719,
-    "end_time": 404.1600036621094
+    "end_time": 404.1600036621094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

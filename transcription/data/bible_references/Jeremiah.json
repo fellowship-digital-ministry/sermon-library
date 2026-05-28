@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "0c9STAI-vWI",
     "start_time": 1298.3400192260742,
-    "end_time": 1357.9400177001953
+    "end_time": 1357.9400177001953,
+    "point_summary": "God's love toward His people is everlasting and the very means by which He draws them to Himself, as Jeremiah 31:3 declares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0c9STAI-vWI",
     "start_time": 1357.9400177001953,
-    "end_time": 1431.6600189208984
+    "end_time": 1431.6600189208984,
+    "point_summary": "God's love for humanity is everlasting and rooted in lovingkindness, distinguishing biblical Christianity from false religions whose deities demand appeasement rather than freely offering love to sinners.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1816.3199653625488,
-    "end_time": 1884.359962463379
+    "end_time": 1884.359962463379,
+    "point_summary": "God's answers to prayer surpass human expectation, as Jeremiah 33:3 is cited to affirm that when we call on God, He answers and reveals things beyond what we could devise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1108.719970703125,
-    "end_time": 1173.1199951171875
+    "end_time": 1173.1199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 2716.719970703125,
-    "end_time": 2779.8399658203125
+    "end_time": 2779.8399658203125,
+    "point_summary": "Blessed is the man who trusts in the Lord — cited to insist that Christian hope rests solely in God, not in electoral outcomes, political offices, or any earthly institution.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "3XoFc6vc9t0",
     "start_time": 1308.140007019043,
-    "end_time": 1374.6200103759766
+    "end_time": 1374.6200103759766,
+    "point_summary": "God's omnipotence—that nothing is too hard for Him—is affirmed by citing Jeremiah's prayer declaring the Lord made heaven and earth by great power, as one of several converging Scripture witnesses to divine ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "4jMDiZ3Rc6E",
     "start_time": 2134.2999877929688,
-    "end_time": 2206.4199829101562
+    "end_time": 2206.4199829101562,
+    "point_summary": "Jeremiah 31's \"new covenant\" is identified as the scriptural backdrop for Paul's contrast between the law's condemning ministry and the gospel's converting, surpassing glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "4jMDiZ3Rc6E",
     "start_time": 2487.2799758911133,
-    "end_time": 2542.439971923828
+    "end_time": 2542.439971923828,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 0.0,
-    "end_time": 66.08000183105469
+    "end_time": 66.08000183105469,
+    "point_summary": "Jeremiah 10:6 serves as the structural outline for this series, with its declaration that God's name is great in might anchoring the study of His attributes and names.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 1639.4600219726562,
-    "end_time": 1715.6199951171875
+    "end_time": 1715.6199951171875,
+    "point_summary": "Jeremiah 10:6 is cited as the study's anchor text, affirming that God is utterly incomparable—none like Him—and that His name is great in might beyond finite comprehension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1935.8799896240234,
-    "end_time": 1994.8999938964844
+    "end_time": 1994.8999938964844,
+    "point_summary": "God's mercy and justice exist in perfect harmony, demonstrated by his declaration to his own covenant people, Judah, that their persistent idolatry would bring inescapable judgment even their cries could not avert.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1935.8799896240234,
-    "end_time": 1994.8999938964844
+    "end_time": 1994.8999938964844,
+    "point_summary": "When Judah abandons God for idols, God declares He will not hear their cries in judgment, demonstrating that His mercy and justice operate in perfect harmony even toward His own covenant people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1994.8999938964844,
-    "end_time": 2054.279983520508
+    "end_time": 2054.279983520508,
+    "point_summary": "Jeremiah 11:13 is cited to demonstrate that God's mercy and justice are perfectly harmonious attributes, evidenced by his declared judgment against his own covenant people, Judah, for their idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1994.8999938964844,
-    "end_time": 2054.279983520508
+    "end_time": 2054.279983520508,
+    "point_summary": "Zedekiah's plea for God's miraculous intervention on Judah's behalf is met instead with divine judgment, demonstrating that God's righteousness and justice stand in perfect harmony with His mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2054.279983520508,
-    "end_time": 2111.199981689453
+    "end_time": 2111.199981689453,
+    "point_summary": "God's answer to Zedekiah's plea for miraculous deliverance was the opposite of rescue: because Judah had forsaken Him for idols, He would Himself fight against Jerusalem in anger, fury, and great wrath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2054.279983520508,
-    "end_time": 2111.199981689453
+    "end_time": 2111.199981689453,
+    "point_summary": "God's judgment against Jerusalem—turning back their weapons and fighting against them with outstretched hand in anger and wrath—is presented as the direct consequence of Israel's unrepentant idolatry and rejection of prophetic warning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2054.279983520508,
-    "end_time": 2111.199981689453
+    "end_time": 2111.199981689453,
+    "point_summary": "God's judgment on Jerusalem—striking both man and beast with pestilence—is cited as the consequence of persistent idolatry and rejection of prophetic warning, with no repentance forthcoming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "9JjoBDbN7Ms",
     "start_time": 178.36000061035156,
-    "end_time": 245.60000610351562
+    "end_time": 245.60000610351562,
+    "point_summary": "Prayer is a divine invitation extended to God's people, with Jeremiah 33:3's \"call unto me\" paired with God's promise to answer and reveal great and mighty things.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 203.44000244140625,
-    "end_time": 274.67999267578125
+    "end_time": 274.67999267578125,
+    "point_summary": "God's promise to Jeremiah in 1:8—\"Be not afraid of their faces, for I am with thee\"—is placed in a line of divine presence pledges to Moses, Joshua, and ultimately all believers through Hebrews 13.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 203.44000244140625,
-    "end_time": 274.67999267578125
+    "end_time": 274.67999267578125,
+    "point_summary": "Jeremiah's continued presence in the prison court until Jerusalem's fall illustrates his faithfulness to his calling even as the very prophecies he proclaimed came to fulfillment around him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 274.67999267578125,
-    "end_time": 340.32000732421875
+    "end_time": 340.32000732421875,
+    "point_summary": "Jeremiah 38:28 supplies the sermon's title—\"Jerusalem Was Taken\"—marking the moment Jeremiah witnessed in person the very judgment he had faithfully prophesied.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 340.32000732421875,
-    "end_time": 409.32000732421875
+    "end_time": 409.32000732421875,
+    "point_summary": "Jeremiah 37:6 is introduced as the opening of a divine word addressed to King Zedekiah, establishing the context of coming judgment during a period of widespread disobedience to God's commands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 409.32000732421875,
-    "end_time": 475.32000732421875
+    "end_time": 475.32000732421875,
+    "point_summary": "Jeremiah 37:1 establishes Zedekiah as the reigning king whose wholesale rejection of God's word—from king to servants to people—sets the stage for the coming judgment Jeremiah prophesies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 409.32000732421875,
-    "end_time": 475.32000732421875
+    "end_time": 475.32000732421875,
+    "point_summary": "Jeremiah 37:2 establishes that from king to servants to common people, none hearkened to God's word through Jeremiah—the universal rejection that frames the coming judgment Jeremiah prophesied into.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 409.32000732421875,
-    "end_time": 475.32000732421875
+    "end_time": 475.32000732421875,
+    "point_summary": "Despite refusing to hearken to God's word, Zedekiah still sent to Jeremiah asking for prayer, revealing the contradiction of seeking God's help while rejecting His revealed message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 409.32000732421875,
-    "end_time": 475.32000732421875
+    "end_time": 475.32000732421875,
+    "point_summary": "Jeremiah 37:6 introduces God's word to a king who refused to obey prior revelation yet still sought divine counsel, establishing the context of coming judgment on unheeding leadership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 475.32000732421875,
-    "end_time": 539.3200073242188
+    "end_time": 539.3200073242188,
+    "point_summary": "God's word to Zedekiah through Jeremiah remains unchanged judgment despite the king's request for intercession, exposing the contradiction of seeking God's word while refusing to obey what He had already spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 475.32000732421875,
-    "end_time": 539.3200073242188
+    "end_time": 539.3200073242188,
+    "point_summary": "God's word of judgment stands unchanged regardless of whether the recipient has been listening or obeying, and Zedekiah's failure to hearken did not alter the message Jeremiah was sent to deliver.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 475.32000732421875,
-    "end_time": 539.3200073242188
+    "end_time": 539.3200073242188,
+    "point_summary": "Self-deception about deliverance is rebuked in God's word to Zedekiah: even a crippled Chaldean army would rise and burn Jerusalem, because the judgment God announced would not be turned aside.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 475.32000732421875,
-    "end_time": 539.3200073242188
+    "end_time": 539.3200073242188,
+    "point_summary": "Even if the entire Chaldean army were reduced to wounded men, God declares they would still rise and burn Jerusalem—judgment is so certain that no military reversal can avert it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 726.3200073242188,
-    "end_time": 782.3200073242188
+    "end_time": 782.3200073242188,
+    "point_summary": "Jeremiah 39:1 marks the precise historical moment when Jeremiah's long-announced prophecy of Babylonian judgment against Jerusalem passed from warning into terrible fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 726.3200073242188,
-    "end_time": 782.3200073242188
+    "end_time": 782.3200073242188,
+    "point_summary": "Jeremiah 39:2 marks the precise fulfillment of Jeremiah's prophesied judgment, as the siege's exact timeline demonstrates that God's announced word against Jerusalem came to pass exactly as foretold.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 726.3200073242188,
-    "end_time": 782.3200073242188
+    "end_time": 782.3200073242188,
+    "point_summary": "Zedekiah's flight from Jerusalem, contrary to Jeremiah's counsel, illustrates how rejecting God's word does not avert announced judgment but ensures its full and terrible execution.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 726.3200073242188,
-    "end_time": 782.3200073242188
+    "end_time": 782.3200073242188,
+    "point_summary": "Zedekiah's flight from Jerusalem, his capture on the plains of Jericho, and his subsequent judgment illustrate the inevitable fulfillment of Jeremiah's announced prophecy upon those who refused to surrender to Babylon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 844.3200073242188,
-    "end_time": 906.8200073242188
+    "end_time": 906.8200073242188,
+    "point_summary": "Jeremiah 37:4 marks the moment before Jeremiah's imprisonment, establishing the baseline of his freedom against which his subsequent suffering for faithful proclamation is measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 844.3200073242188,
-    "end_time": 906.8200073242188
+    "end_time": 906.8200073242188,
+    "point_summary": "Jeremiah's faithful proclamation of God's word of judgment resulted in his imprisonment by princes who rejected the message, illustrating that obedience to God's call can bring severe personal suffering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 906.8200073242188,
-    "end_time": 969.2200012207031
+    "end_time": 969.2200012207031,
+    "point_summary": "Faithful proclamation of God's word of judgment brought Jeremiah immediate suffering—the princes, enraged at his message, struck him and imprisoned him, marking the beginning of his escalating persecution.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 906.8200073242188,
-    "end_time": 969.2200012207031
+    "end_time": 969.2200012207031,
+    "point_summary": "Jeremiah's faithful proclamation of God's words of judgment, though it led to escalating persecution—from freedom to prison to the dungeon—demonstrates the costly obedience demanded of the prophet.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 906.8200073242188,
-    "end_time": 969.2200012207031
+    "end_time": 969.2200012207031,
+    "point_summary": "Faithful proclamation of God's word of judgment brought Jeremiah escalating opposition—from imprisonment to a death sentence and the dungeon—because the princes accused him of weakening the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 906.8200073242188,
-    "end_time": 969.2200012207031
+    "end_time": 969.2200012207031,
+    "point_summary": "King Zedekiah's capitulation to the princes — handing Jeremiah over with \"he is in your hand\" — illustrates the escalating cost of faithful proclamation, moving Jeremiah from prison to dungeon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 906.8200073242188,
-    "end_time": 969.2200012207031
+    "end_time": 969.2200012207031,
+    "point_summary": "Jeremiah's faithful proclamation of God's word of judgment escalated his suffering from imprisonment to being cast into a miry dungeon, illustrating the cost of obedience to the Lord's message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 969.2200012207031,
-    "end_time": 1027.9200134277344
+    "end_time": 1027.9200134277344,
+    "point_summary": "Jeremiah's descent from prison into a waterless, mire-filled dungeon illustrates the escalating severity of the dire circumstances he endured for faithfully proclaiming God's word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 969.2200012207031,
-    "end_time": 1027.9200134277344
+    "end_time": 1027.9200134277344,
+    "point_summary": "Jeremiah 38:13 marks a partial deliverance—pulled from the dungeon back to the prison court—yet Jeremiah remains confined, illustrating the ongoing severity of his circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 969.2200012207031,
-    "end_time": 1027.9200134277344
+    "end_time": 1027.9200134277344,
+    "point_summary": "Jeremiah 38:28 marks the endpoint of Jeremiah's imprisonment—remaining in the court of the prison until Jerusalem's fall—establishing the dire, sustained circumstances he endured for faithfully proclaiming God's word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1028.2200012207031,
-    "end_time": 1089.9200134277344
+    "end_time": 1089.9200134277344,
+    "point_summary": "Jeremiah's plea to Zedekiah — \"lest I die there\" — reveals the life-threatening severity of his imprisonment and establishes the dire circumstances framing the entire passage.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1028.2200012207031,
-    "end_time": 1089.9200134277344
+    "end_time": 1089.9200134277344,
+    "point_summary": "Jeremiah 37:15 identifies the house of Jonathan the scribe as the location of Jeremiah's imprisonment, establishing the dire, life-threatening circumstances he faced there.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1089.9200134277344,
-    "end_time": 1151.4199829101562
+    "end_time": 1151.4199829101562,
+    "point_summary": "Jeremiah 38:4 is cited as evidence that Jeremiah's adversaries sought his death specifically because they rejected his message of coming divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1089.9200134277344,
-    "end_time": 1151.4199829101562
+    "end_time": 1151.4199829101562,
+    "point_summary": "Jeremiah 38:10 is cited to establish the life-threatening severity of Jeremiah's imprisonment, with the phrase \"before he die\" underscoring the dire urgency that prompted Ebed-Melech's rescue mission.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1089.9200134277344,
-    "end_time": 1151.4199829101562
+    "end_time": 1151.4199829101562,
+    "point_summary": "Jeremiah's transfer back to the court of the prison in verse 13 marks a step away from the life-threatening dungeon, setting the stage for Zedekiah's secret oath not to kill him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1089.9200134277344,
-    "end_time": 1151.4199829101562
+    "end_time": 1151.4199829101562,
+    "point_summary": "Zedekiah's secret oath to spare Jeremiah's life underscores the mortal danger Jeremiah faced solely because his message of coming divine judgment was unwelcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1151.4199829101562,
-    "end_time": 1217.879981994629
+    "end_time": 1217.879981994629,
+    "point_summary": "Jeremiah 40:3 confirms that the judgment Jeremiah had proclaimed came to pass precisely because Israel sinned against the Lord and refused to obey His voice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1355.719985961914,
-    "end_time": 1420.239990234375
+    "end_time": 1420.239990234375,
+    "point_summary": "Jeremiah's imprisonment in the mire-filled dungeon, with no water and no bread, sets the stage for seeing God's compassion displayed through his subsequent deliverance by Ebed-Melech.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1355.719985961914,
-    "end_time": 1420.239990234375
+    "end_time": 1420.239990234375,
+    "point_summary": "Ebed-Melech's intervention on Jeremiah's behalf illustrates God's compassion toward his prophet, working through an unlikely figure to deliver him from the dungeon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1355.719985961914,
-    "end_time": 1420.239990234375
+    "end_time": 1420.239990234375,
+    "point_summary": "Ebed-Melech's plea in verse 9 illustrates God's compassion toward Jeremiah by moving an unlikely advocate to intervene before the prophet dies of hunger in the dungeon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1420.239990234375,
-    "end_time": 1487.1999816894531
+    "end_time": 1487.1999816894531,
+    "point_summary": "Ebed-Melech's bold intercession before the king—declaring that Jeremiah was left to die of hunger in the dungeon—is presented as an instrument of God's compassion delivering His prophet from certain death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1420.239990234375,
-    "end_time": 1487.1999816894531
+    "end_time": 1487.1999816894531,
+    "point_summary": "God's compassion toward Jeremiah is displayed through the king's command in verse 10, authorizing Ebed-Melech to rescue the prophet from the dungeon before he died.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1420.239990234375,
-    "end_time": 1487.1999816894531
+    "end_time": 1487.1999816894531,
+    "point_summary": "Ebed-Melech's careful provision of rags to cushion the cords illustrates that God's compassion toward Jeremiah in the dungeon extended to the practical, tender details of his deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1420.239990234375,
-    "end_time": 1487.1999816894531
+    "end_time": 1487.1999816894531,
+    "point_summary": "Ebed-Melech's tender instruction to cushion the cords illustrates God's compassion toward Jeremiah, providing not merely rescue but careful, dignified deliverance from the dungeon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1552.8799743652344,
-    "end_time": 1623.7999877929688
+    "end_time": 1623.7999877929688,
+    "point_summary": "God's sovereign awareness of Jeremiah's imprisonment is demonstrated through Ebed-Melech's intervention, showing that God works on behalf of His servant and rewards those who trust Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1552.8799743652344,
-    "end_time": 1623.7999877929688
+    "end_time": 1623.7999877929688,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech amid coming judgment on Jerusalem is grounded explicitly in his trust in the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1552.8799743652344,
-    "end_time": 1623.7999877929688
+    "end_time": 1623.7999877929688,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech amid coming judgment is grounded explicitly in his trust in the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1552.8799743652344,
-    "end_time": 1623.7999877929688
+    "end_time": 1623.7999877929688,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech is grounded explicitly in his trust in the Lord, presented here as the basis and reason for the reward he receives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1623.7999877929688,
-    "end_time": 1691.9999694824219
+    "end_time": 1691.9999694824219,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech, grounded in the authority of \"the Lord of hosts, the God of Israel,\" is shown to rest entirely on the single condition that he put his trust in God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1623.7999877929688,
-    "end_time": 1691.9999694824219
+    "end_time": 1691.9999694824219,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech in verse 17 is grounded explicitly in his trust in the Lord, presented as the direct basis for divine protection amid coming judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1623.7999877929688,
-    "end_time": 1691.9999694824219
+    "end_time": 1691.9999694824219,
+    "point_summary": "God's promise of personal deliverance to Ebed-Melech in Jeremiah 39:18 is grounded explicitly in one condition: \"thou hast put thy trust in Me, saith the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1828.0199584960938,
-    "end_time": 1900.9599609375
+    "end_time": 1900.9599609375,
+    "point_summary": "Jeremiah's purchase of a field while Babylon besieged Jerusalem illustrates radical, obedient trust in God's word even when every visible circumstance contradicts it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1828.0199584960938,
-    "end_time": 1900.9599609375
+    "end_time": 1900.9599609375,
+    "point_summary": "Ebed-Melech's actions in Jeremiah 38, rewarded in chapter 39, illustrate that trust in God—even amid overwhelming circumstances—is never misplaced and will not go unrewarded.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1900.9599609375,
-    "end_time": 1969.2599639892578
+    "end_time": 1969.2599639892578,
+    "point_summary": "Jeremiah 39:2 marks the fulfillment of God's word as Babylon breaks into Jerusalem, confirming that trusting God—even when circumstances seem impossible—is never misplaced.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "9Lj9S26ifeI",
     "start_time": 1969.2599639892578,
-    "end_time": 2038.4599609375
+    "end_time": 2038.4599609375,
+    "point_summary": "Amid the chaos of Babylon's brutal conquest of Jerusalem, God's compassion for Jeremiah is seen in Nebuchadnezzar's singular, remarkable command to his captain of the guard concerning one person.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2296.1599731445312,
-    "end_time": 2353.2599487304688
+    "end_time": 2353.2599487304688,
+    "point_summary": "God's sovereign protection of Jeremiah is displayed through a pagan king's command securing the prophet's safety while his own people had sought his death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2296.1599731445312,
-    "end_time": 2353.2599487304688
+    "end_time": 2353.2599487304688,
+    "point_summary": "God's providential protection of Jeremiah is underscored by the irony that a pagan Babylonian captain freed and honored the prophet whom his own people had bound in chains.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2296.1599731445312,
-    "end_time": 2353.2599487304688
+    "end_time": 2353.2599487304688,
+    "point_summary": "God's sovereignty over Jeremiah's captivity is underscored by a pagan Babylonian officer acknowledging that the LORD had brought judgment upon Jerusalem exactly as He had spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -800,7 +944,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2296.1599731445312,
-    "end_time": 2353.2599487304688
+    "end_time": 2353.2599487304688,
+    "point_summary": "A pagan Babylonian captain unwittingly articulates the theology of divine judgment—that Judah's calamity came because they sinned against the Lord and did not obey His voice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -811,7 +957,9 @@
     "is_implicit": true,
     "video_id": "9Lj9S26ifeI",
     "start_time": 2296.1599731445312,
-    "end_time": 2353.2599487304688
+    "end_time": 2353.2599487304688,
+    "point_summary": "God's providential protection of Jeremiah is underscored by the irony that a pagan Babylonian captain, not his own people, loosed his chains and granted him freedom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Backsliding is characterized by half-heartedness toward God, as Judah's feigned return illustrates the failure to turn to Him with the whole heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Jeremiah 29:11–13 is cited as God's promise that the cure for spiritual half-heartedness is seeking Him with the whole heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Jeremiah 29:12–13 is cited as the cure for spiritual half-heartedness: God promises to be found by those who seek Him with their whole heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Jeremiah 29:13 is presented as the cure for spiritual half-heartedness: God promises to be found by those who seek Him with their whole heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2127.179962158203,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "God's promise of peace and a future in Jeremiah 29:11–13 is presented as the cure for half-heartedness, with the condition of seeking Him with the whole heart as the remedy for backsliding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2127.179962158203,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "God's promise in Jeremiah 29:12–13 is presented as the direct cure for half-heartedness: restoration comes through seeking Him with the whole heart, not faintly or partially.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2127.179962158203,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "Jeremiah 29:13 is presented as the direct cure for half-heartedness: God promises to be found by the backslidden only when they seek Him with their whole heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "aCE3YCr6zy8",
     "start_time": 924.6800231933594,
-    "end_time": 988.9800109863281
+    "end_time": 988.9800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1302.500015258789,
-    "end_time": 1373.5800170898438
+    "end_time": 1373.5800170898438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1373.5800170898438,
-    "end_time": 1450.0600128173828
+    "end_time": 1450.0600128173828,
+    "point_summary": "No amount of ritual cleansing—niter or soap—can remove the iniquity that stands marked before God, establishing the need for a greater cleansing than human effort can provide.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1450.0600128173828,
-    "end_time": 1524.260009765625
+    "end_time": 1524.260009765625,
+    "point_summary": "Jeremiah 2:22 grounds the indictment that no human cleansing agent—however powerful—can remove iniquity marked before God; only the blood suffices.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "aSMYJGSxXQQ",
     "start_time": 611.6799898147583,
-    "end_time": 686.5999908447266
+    "end_time": 686.5999908447266,
+    "point_summary": "God's promise in Jeremiah 33:3 — that he will answer and show great and mighty things — is cited among Scripture's prayer promises to underscore the privilege and expectation with which believers should approach prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "bdcBSlwEZJw",
     "start_time": 1508.9400329589844,
-    "end_time": 1579.5800170898438
+    "end_time": 1579.5800170898438,
+    "point_summary": "Jeremiah 32:33 is cited as God's indictment against Judah for rejecting received instruction, illustrating that the failure lies not in instruction being withheld but in its being despised.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "bdcBSlwEZJw",
     "start_time": 1579.5800170898438,
-    "end_time": 1654.5000305175781
+    "end_time": 1654.5000305175781,
+    "point_summary": "Jeremiah 32:33 is cited as a divine indictment illustrating the tragedy of instruction given but rejected — God faithfully taught Judah, yet they turned their backs and refused to receive it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "BrRJsjtlhBg",
     "start_time": 2561.959976196289,
-    "end_time": 2638.47998046875
+    "end_time": 2638.47998046875,
+    "point_summary": "Jeremiah 33:3 is cited as the biblical ground for expectant prayer—God's own invitation to \"call unto me\" guarantees that he hears and answers, making prayer more than religious routine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "BTHY_qWho6M",
     "start_time": 2401.719970703125,
-    "end_time": 2486.5599365234375
+    "end_time": 2486.5599365234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "God's promise in Jeremiah 33:3 — that He will answer and show great and mighty things — is cited as evidence that God delights to demonstrate His power in response to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1009,7 +1191,9 @@
     "is_implicit": true,
     "video_id": "cCksVIX-UWU",
     "start_time": 1732.5800170898438,
-    "end_time": 1800.719970703125
+    "end_time": 1800.719970703125,
+    "point_summary": "Because the heart is deceitful, only God—who tries the heart—can accurately judge motive, making Him the only audience whose approval ultimately matters.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 61.08000183105469,
-    "end_time": 127.91999816894531
+    "end_time": 127.91999816894531,
+    "point_summary": "Jeremiah 10:6 serves as the structural outline for the series, with its declaration that God's name is great in might anchoring the evening's focus on the names of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 944.52001953125,
-    "end_time": 1002.6600341796875
+    "end_time": 1002.6600341796875,
+    "point_summary": "False teachers use dramatic, crowd-pleasing gestures—illustrated by Hananiah's theatrical breaking of Jeremiah's yoke—to project authority while speaking lies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 944.52001953125,
-    "end_time": 1002.6600341796875
+    "end_time": 1002.6600341796875,
+    "point_summary": "Jeremiah 28:9 supplies the biblical test for a true prophet—fulfillment of the word—against which Hananiah's dramatic but false prophecy is measured and exposed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 1062.7600402832031,
-    "end_time": 1117.2400512695312
+    "end_time": 1117.2400512695312,
+    "point_summary": "God's swift judgment on Hananiah—who falsely claimed divine authority and promised deliverance within two years—illustrates that false prophets who teach rebellion against the Lord face severe, even fatal, consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1064,7 +1256,9 @@
     "is_implicit": true,
     "video_id": "d-1B6rYpHbw",
     "start_time": 2124.1000366210938,
-    "end_time": 2187.540008544922
+    "end_time": 2187.540008544922,
+    "point_summary": "Jeremiah's phrase \"the day of Jacob's trouble\" is cited to identify the tribulation period as a time of judgment distinct from the church age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 1127.4600219726562,
-    "end_time": 1205.320004940033
+    "end_time": 1205.320004940033,
+    "point_summary": "God's word is contrasted with worthless chaff to declare that Scripture alone is nourishing and profitable, unlike the empty dreams of false prophets.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 1205.320004940033,
-    "end_time": 1279.9200057983398
+    "end_time": 1279.9200057983398,
+    "point_summary": "God's Word is not merely informative but inherently powerful—like fire and a hammer shattering rock—distinguishing it as wheat from the worthless chaff of merely human words.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 240.89999389648438,
-    "end_time": 305.29998779296875
+    "end_time": 305.29998779296875,
+    "point_summary": "Jeremiah's confession that God made heaven and earth by great power leads directly to the conclusion that nothing is too hard for Him — the foundation for the sermon's emphasis on God's omnipotence in creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "E6nXFQtcsVE",
     "start_time": 503.1199951171875,
-    "end_time": 571.9199829101562
+    "end_time": 571.9199829101562,
+    "point_summary": "God's promise in Jeremiah 33:3 is cited as direct evidence that prayer moves the hand of God, with Jeremiah's own answered cry in Lamentations offered as its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "E6nXFQtcsVE",
     "start_time": 571.9199829101562,
-    "end_time": 642.5200157165527
+    "end_time": 642.5200157165527,
+    "point_summary": "God's promise in Jeremiah 33:3 — \"call unto me and I will answer\" — is presented as a direct invitation fulfilled in Jeremiah's own experience in Lamentations, illustrating the open, unlimited access believers have to bring petitions before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 541.0800170898438,
-    "end_time": 613.2799825668335
+    "end_time": 613.2799825668335,
+    "point_summary": "The heart's innate deceitfulness—confirmed by Jeremiah's declaration that it is deceitful above all things and desperately wicked—explains why God's people in every age require the warning not to let their hearts be deceived into idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 541.0800170898438,
-    "end_time": 613.2799825668335
+    "end_time": 613.2799825668335,
+    "point_summary": "God alone fully knows the human heart, searching and trying it — a truth that gives weight to the Deuteronomy 11 warning that the heart can be deceived into idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 613.2799825668335,
-    "end_time": 686.8999862670898
+    "end_time": 686.8999862670898,
+    "point_summary": "Only God can fully know and judge the heart, answering Jeremiah 17:9's unanswerable question by declaring that He alone searches the heart and renders just recompense.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 613.2799825668335,
-    "end_time": 686.8999862670898
+    "end_time": 686.8999862670898,
+    "point_summary": "Jeremiah 17:9's declaration that the heart is deceitful above all things grounds the Deuteronomy 11 warning, showing that the very organ God cautions His people to guard is inherently untrustworthy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1174,7 +1386,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Jeremiah 44 is introduced as a passage of dialogue illustrating the same warning against heart-deception already established from Jeremiah 17, grounding the sermon's call to let God's word guard the heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 894.2599792480469,
-    "end_time": 962.739990234375
+    "end_time": 962.739990234375,
+    "point_summary": "Idolatry's root is a deceived heart that, despite God's patient sending of prophets, persists in serving gods it never knew, provoking His anger until judgment falls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 894.2599792480469,
-    "end_time": 962.739990234375
+    "end_time": 962.739990234375,
+    "point_summary": "Jeremiah 17's declaration that the heart is deceitful above all things grounds the sermon's warning that Scripture must hold a prominent place in life to guard against self-deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1207,7 +1425,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1308.0199508666992,
-    "end_time": 1361.8599548339844
+    "end_time": 1361.8599548339844,
+    "point_summary": "Because the heart is deceitful, the sermon urges that trusting one's own heart marks a fool, making vigilant, faithful guarding of the heart the necessary response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1218,7 +1438,9 @@
     "is_implicit": true,
     "video_id": "eKXXb-CvsCo",
     "start_time": 1246.3799514770508,
-    "end_time": 1311.5199508666992
+    "end_time": 1311.5199508666992,
+    "point_summary": "The deceitfulness and wickedness of the human heart, cited from Jeremiah 17:9, grounds the sermon's insistence that genuine self-examination is both difficult and indispensable for every believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2198.5599365234375,
-    "end_time": 2261.6199340820312
+    "end_time": 2261.6199340820312,
+    "point_summary": "Fallow ground and uncircumcised hearts picture a people whose outward religious observance has outpaced inward consecration, leaving the heart unprepared to truly love God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2198.5599365234375,
-    "end_time": 2261.6199340820312
+    "end_time": 2261.6199340820312,
+    "point_summary": "Circumcision of the heart, not merely external ritual, is what God demands—the foreskin of the heart must be removed or divine judgment follows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2261.699951171875,
-    "end_time": 2340.8599243164062
+    "end_time": 2340.8599243164062,
+    "point_summary": "Circumcision of the heart, commanded in Jeremiah 4:4, illustrates God's demand for inward devotion rather than outward religion, contrasting with lips that honor Him while the heart remains removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2261.699951171875,
-    "end_time": 2340.8599243164062
+    "end_time": 2340.8599243164062,
+    "point_summary": "Jeremiah 29:13 is cited as God's own standard that wholehearted seeking—not divided or half-hearted devotion—is the condition under which He is truly found.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 0.0,
-    "end_time": 62.040000915527344
+    "end_time": 62.040000915527344,
+    "point_summary": "Jeremiah 10:6 is used as a structural template for a multi-part study on theology, with its declaration that God is great and mighty in name providing the outline for examining the greatness of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "eoPrxxfMgiw",
     "start_time": 1846.5600128173828,
-    "end_time": 1932.6400146484375
+    "end_time": 1932.6400146484375,
+    "point_summary": "Jeremiah 6:13 is cited as a sobering Old Testament warning that pervasive covetousness and falsehood—from least to greatest—brought certain judgment on Israel, illustrating the danger of unashamed sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "eoPrxxfMgiw",
     "start_time": 1932.6400146484375,
-    "end_time": 2010.4800109863281
+    "end_time": 2010.4800109863281,
+    "point_summary": "Jeremiah 6:15 is cited as a warning against moral desensitization—the danger of reaching a point where sin no longer produces shame or causes one to blush.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "eoPrxxfMgiw",
     "start_time": 2010.4800109863281,
-    "end_time": 2076.480010986328
+    "end_time": 2076.480010986328,
+    "point_summary": "Jeremiah 6:15's warning that Israel had lost all capacity for shame over sin serves as a negative example of the spiritual desensitization believers must guard against in light of Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1317,7 +1555,9 @@
     "is_implicit": true,
     "video_id": "EP8XrnmtXFY",
     "start_time": 977.8600158691406,
-    "end_time": 1051.3400268554688
+    "end_time": 1051.3400268554688,
+    "point_summary": "God's omnipotence—that nothing is too hard or too difficult for Him—is affirmed through Jeremiah's declaration as foundational truth the next generation must be taught.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1328,7 +1568,9 @@
     "is_implicit": true,
     "video_id": "F4JChKWGeUg",
     "start_time": 1323.4799499511719,
-    "end_time": 1390.9999542236328
+    "end_time": 1390.9999542236328,
+    "point_summary": "Hezekiah's confidence to spread his crisis before God in prayer rests on the same assurance God gave Jeremiah: that calling upon Him brings answers to things otherwise unknowable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 3077.839988708496,
-    "end_time": 3139.239990234375
+    "end_time": 3139.239990234375,
+    "point_summary": "Seizing opportunities to serve God positions believers to witness His \"great and mighty things,\" as promised in Jeremiah 33:3, which is cited as the divine basis for that expectation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 1401.4000396728516,
-    "end_time": 1465.9000244140625
+    "end_time": 1465.9000244140625,
+    "point_summary": "Jeremiah 33:3 is cited as one of several biblical prayer promises confirming that God hears and answers prayer, illustrating the instruction the servant receives from Elisha's bold, effective prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1574.8599853515625,
-    "end_time": 1639.5
+    "end_time": 1639.5,
+    "point_summary": "God's promise in Jeremiah 33:3 — that He hears and answers specifically — is invoked to confirm that divine responses to intercessory prayer may exceed or differ from what petitioners requested.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1372,7 +1620,9 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 1393.3799896240234,
-    "end_time": 1453.219985961914
+    "end_time": 1453.219985961914,
+    "point_summary": "Jeremiah's prophecy of seventy years of captivity is grounded in Leviticus 26, fulfilling God's threatened judgment for Israel's failure to observe the land's sabbaths.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "GWHY7Tnt1EI",
     "start_time": 1617.4999694824219,
-    "end_time": 1693.5799865722656
+    "end_time": 1693.5799865722656,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "hcLp0UiW6yU",
     "start_time": 438.8399963378906,
-    "end_time": 513.4000244140625
+    "end_time": 513.4000244140625,
+    "point_summary": "God's promise in Jeremiah 33:3 — that He will answer and show great and mighty things — grounds the confidence that fathers should bring to prayer for their children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "HkgfNx0SoXk",
     "start_time": 1363.8599853515625,
-    "end_time": 1431.3599853515625
+    "end_time": 1431.3599853515625,
+    "point_summary": "Human hearts are deceitful and self-concealing, but God tries the heart and therefore knows whether a believer's motives in gospel ministry are pure or merely self-serving.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "HkgfNx0SoXk",
     "start_time": 1363.8599853515625,
-    "end_time": 1431.3599853515625
+    "end_time": 1431.3599853515625,
+    "point_summary": "God alone searches and knows the true motives of the heart, so no outward profession of pure intent can substitute for the inward reality He examines.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 1542.1999816894531,
-    "end_time": 1617.5199890136719
+    "end_time": 1617.5199890136719,
+    "point_summary": "God's promise of presence—\"I am with thee to deliver thee\"—is cited as the divine basis enabling Jeremiah to stand courageously against a stiff-necked, rebellious people amid severe opposition and imprisonment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 2359.179931640625,
-    "end_time": 2422.6399726867676
+    "end_time": 2422.6399726867676,
+    "point_summary": "Jeremiah 30:7's designation of the tribulation as \"the time of Jacob's trouble\" identifies that period as God's renewed dealing with Israel, distinct from the church age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 1853.3599739074707,
-    "end_time": 1915.5999755859375
+    "end_time": 1915.5999755859375,
+    "point_summary": "God's Word is itself the fire that will try the work and motive of every believer at the judgment seat, consuming what is worthless as fire burns chaff and shatters rock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 1853.3599739074707,
-    "end_time": 1915.5999755859375
+    "end_time": 1915.5999755859375,
+    "point_summary": "At the judgment seat, works and motives will be tried by the fire of God's Word, which Jeremiah 23:28–29 portrays as a consuming fire that separates chaff from wheat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 1915.5999755859375,
-    "end_time": 1991.8399658203125
+    "end_time": 1991.8399658203125,
+    "point_summary": "God's Word is identified as the fire that will try every man's work at the Judgment Seat of Christ, based on Jeremiah 23:29's declaration that God's word is \"like a fire\" and \"a hammer that breaketh the rocks in pieces.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "iQq15jU_zqs",
     "start_time": 321.44000244140625,
-    "end_time": 393.8800048828125
+    "end_time": 393.8800048828125,
+    "point_summary": "Because the human heart is deceitful above all things and unknowable to itself, only God can truly search and expose it — making personal, God-directed self-examination essential to genuine revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "iQq15jU_zqs",
     "start_time": 321.44000244140625,
-    "end_time": 393.8800048828125
+    "end_time": 393.8800048828125,
+    "point_summary": "God alone can search and know the deceitful human heart, answering the rhetorical question of Jeremiah 17:9 by asserting His unique capacity to examine what even self-deceived people cannot see in themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "iQq15jU_zqs",
     "start_time": 393.8800048828125,
-    "end_time": 461.9200134277344
+    "end_time": 461.9200134277344,
+    "point_summary": "Because the human heart is deceitful and unknowable to itself, only God can truly search and expose it—answering Jeremiah's own question, \"Who can know it?\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1515,7 +1789,9 @@
     "is_implicit": true,
     "video_id": "iQq15jU_zqs",
     "start_time": 393.8800048828125,
-    "end_time": 461.9200134277344
+    "end_time": 461.9200134277344,
+    "point_summary": "Because the human heart is deceitful and cannot know itself, only God can truly search and judge it—answering the rhetorical question of Jeremiah 17:9 with divine authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 0.0,
-    "end_time": 58.36000061035156
+    "end_time": 58.36000061035156,
+    "point_summary": "Jeremiah 10:1–18 is introduced as the scriptural foundation for the study of theology, establishing that all answers about who God is must come from Scripture rather than sources void of it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 58.36000061035156,
-    "end_time": 122.55999755859375
+    "end_time": 122.55999755859375,
+    "point_summary": "Jeremiah 10:6 is used as a two-part structural outline for a study of theology, with the phrase \"thou art great\" anchoring an examination of God's natural attributes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 1261.659984588623,
-    "end_time": 1328.5799865722656
+    "end_time": 1328.5799865722656,
+    "point_summary": "God's rhetorical question in Jeremiah 23:21–24 — \"Am I a God at hand and not a God afar off?\" — is cited to establish divine omnipresence as a warning against false prophets who acted as though God could not see them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 1261.659984588623,
-    "end_time": 1328.5799865722656
+    "end_time": 1328.5799865722656,
+    "point_summary": "God's omnipresence means no one can hide from Him in secret, a truth that brings both comfort and conviction to believers who know He sees all things everywhere.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 1929.4599533081055,
-    "end_time": 2010.0399627685547
+    "end_time": 2010.0399627685547,
+    "point_summary": "Jeremiah 10:6's declaration that none is like God and that he is great serves as the doxological capstone summarizing five divine attributes—omniscience, omnipotence, omnipresence, immutability, and eternality—surveyed in the sermon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "JmFMWRCQvuk",
     "start_time": 1279.140007019043,
-    "end_time": 1358.5800018310547
+    "end_time": 1358.5800018310547,
+    "point_summary": "God's declaration of His power in Scripture is confirmed by His demonstration of that power in history, as Jeremiah 33:3 is cited alongside Ephesians 3:20 to establish divine omnipotence as the sermon's governing theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "k6oXir_mJ3I",
     "start_time": 857.5599975585938,
-    "end_time": 917.5599975585938
+    "end_time": 917.5599975585938,
+    "point_summary": "The heart's deceitfulness, as plainly stated in Jeremiah 17, is why assurance cannot rest on feelings but must rest on something more objective.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "k6oXir_mJ3I",
     "start_time": 1197.5599975585938,
-    "end_time": 1259.479995727539
+    "end_time": 1259.479995727539,
+    "point_summary": "God's invitation in Jeremiah 33:3 — \"call unto me and I will answer thee\" — grounds the believer's confidence in answered prayer, illustrated by Jeremiah's own experience of calling out and receiving God's response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "KllS1nVQlNQ",
     "start_time": 306.3999938964844,
-    "end_time": 366.6000061035156
+    "end_time": 366.6000061035156,
+    "point_summary": "Human depravity renders the human heart unknowable to itself, but God's omniscience—affirmed in the very next verse—means He alone can search and know it, which grounds the disciples' prayer for divine direction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "KllS1nVQlNQ",
     "start_time": 306.3999938964844,
-    "end_time": 366.6000061035156
+    "end_time": 366.6000061035156,
+    "point_summary": "God's omniscience—his searching of human hearts—is the ground on which the early church appealed to him for divine direction rather than trusting their own judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1946.780029296875,
-    "end_time": 2023.9400329589844
+    "end_time": 2023.9400329589844,
+    "point_summary": "God's promise \"I am with you to save you and to deliver you\" is cited as the divine basis for fearlessness before earthly powers, paralleling the communion Shadrach, Meshach, and Abednego experienced in the furnace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "kzv3wDfEoZY",
     "start_time": 1589.1399841308594,
-    "end_time": 1659.2599792480469
+    "end_time": 1659.2599792480469,
+    "point_summary": "God's love is identified as everlasting because only an eternal God can possess and declare a love that by its very nature never ends.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "L2VPresPC4c",
     "start_time": 2409.3600170612335,
-    "end_time": 2482.9800186157227
+    "end_time": 2482.9800186157227,
+    "point_summary": "Even as Babylonian captivity looms, God commands Jeremiah to buy a field, signaling that divine sovereignty over the land and its future remains unshaken by present circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "L2VPresPC4c",
     "start_time": 2482.9800186157227,
-    "end_time": 2539.300018310547
+    "end_time": 2539.300018310547,
+    "point_summary": "Jeremiah's prayer in 32:16, offered amid Babylonian siege and imminent captivity, grounds confidence in God's creative power as the basis for affirming that nothing is too hard for Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "ldE7ASGe8fY",
     "start_time": 117.27999877929688,
-    "end_time": 177.72000122070312
+    "end_time": 177.72000122070312,
+    "point_summary": "Israel's neglect of memorial observances like the Passover led to the condition Jeremiah describes: a people who had forgotten God \"days without number.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "LLnyglzRVoI",
     "start_time": 45.720001220703125,
-    "end_time": 103.5199966430664
+    "end_time": 103.5199966430664,
+    "point_summary": "God's role as giver and sustainer of life, cited on Sanctity of Life Sunday, grounds the conviction that life has value only within the framework of biblical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "LOzX3Aa4VcI",
     "start_time": 912.8000183105469,
-    "end_time": 965.0000305175781
+    "end_time": 965.0000305175781,
+    "point_summary": "Jeremiah 33:3 is cited as a promise undergirding prayer for leaders, illustrating that God is sovereign, hears prayer, and answers with things beyond human knowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "God's promise in Jeremiah 33:3 to answer and show great things is cited as the standing invitation that grounds the congregation's weekly call to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "m0i_-MjkrIo",
     "start_time": 57.65999984741211,
-    "end_time": 120.04000091552734
+    "end_time": 120.04000091552734,
+    "point_summary": "God's invitation in Jeremiah — \"call unto me\" — is a genuine, open summons to prayer, not a polite gesture, underscoring the privilege believers have of direct access to His presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 245.47999572753906,
-    "end_time": 313.1600036621094
+    "end_time": 313.1600036621094,
+    "point_summary": "Praying specifically, rather than generally, positions believers to see and recognize God's answers, building faith as He fulfills His promise to answer and reveal great and mighty things.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 1257.5599937438965,
-    "end_time": 1326.4399948120117
+    "end_time": 1326.4399948120117,
+    "point_summary": "Human hearts are deceitfully wicked and unknowable to man, yet God searches and tries them perfectly, as Christ's claim to search \"the reins and hearts\" in Revelation 2:23 confirms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 1257.5599937438965,
-    "end_time": 1326.4399948120117
+    "end_time": 1326.4399948120117,
+    "point_summary": "God's searching of the reins and hearts in Revelation 2:23 is grounded in Jeremiah 17:10, where the Lord declares He tries the hearts—affirming Christ's omniscient judgment of every person's works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1306.5399475097656,
-    "end_time": 1383.179946899414
+    "end_time": 1383.179946899414,
+    "point_summary": "Judah's forgetting God \"days without number\" is applied as a biblical parallel to America's departure from God, warning that nations which forget Him face divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1502.6599426269531,
-    "end_time": 1577.3999633789062
+    "end_time": 1577.3999633789062,
+    "point_summary": "Israel's suffering was self-procured — the direct consequence of forsaking God — illustrating that sin brings its own reproach upon those who abandon the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1577.3999633789062,
-    "end_time": 1650.2999572753906
+    "end_time": 1650.2999572753906,
+    "point_summary": "Jeremiah 2:17 is read as God's indictment that Israel's suffering was self-procured — the direct consequence of forsaking Him, illustrating the inescapable sowing-and-reaping principle of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1650.2999572753906,
-    "end_time": 1744.4999389648438
+    "end_time": 1744.4999389648438,
+    "point_summary": "Jeremiah 6:15 is read as evidence that shamelessness before God's judgment—committing abomination without blush or remorse—characterizes the present age, and that divine visitation and falling are its certain consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1650.2999572753906,
-    "end_time": 1744.4999389648438
+    "end_time": 1744.4999389648438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "oGfQDeDvcH0",
     "start_time": 917.5000305175781,
-    "end_time": 972.9800415039062
+    "end_time": 972.9800415039062,
+    "point_summary": "Knowing God's promise in Jeremiah 33:3—that he will answer and reveal great things—compels believers to run to him for help rather than toil in their own strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 639.0200271606445,
-    "end_time": 709.3800277709961
+    "end_time": 709.3800277709961,
+    "point_summary": "God's invitation to \"call, and I will answer\" (Jer. 33:3) grounds the sermon's insistence that prayer is the believer's first response to adversity, not a last resort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "PE0mOy8YRqw",
     "start_time": 354.79998779296875,
-    "end_time": 414.32000732421875
+    "end_time": 414.32000732421875,
+    "point_summary": "God's promise in Jeremiah 33:3 — \"call unto me and I will answer thee\" — is cited as evidence that prayer moves the hand of God, establishing the motivation for pursuing effectual prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 2483.2000732421875,
-    "end_time": 2547.0000762939453
+    "end_time": 2547.0000762939453,
+    "point_summary": "God's invitation in Jeremiah 33:3 to \"call unto me\" grounds the sermon's call to pray specifically for things only God can answer, so that he alone receives the glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "Ph0OqWhwvWk",
     "start_time": 127.9800033569336,
-    "end_time": 190.5399932861328
+    "end_time": 190.5399932861328,
+    "point_summary": "Jeremiah 33:3 is cited as one of several memorized prayer promises illustrating that believers know the privilege of prayer, yet still fail to make it their first response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1878,7 +2218,9 @@
     "is_implicit": true,
     "video_id": "pYLTkv5zKls",
     "start_time": 0.0,
-    "end_time": 61.20000076293945
+    "end_time": 61.20000076293945,
+    "point_summary": "Jeremiah's prophecy of a seventy-year Babylonian captivity is cited as the backdrop that frames Nehemiah's post-exilic setting and Daniel's recognition of its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1549.52001953125,
-    "end_time": 1610.5800170898438
+    "end_time": 1610.5800170898438,
+    "point_summary": "Jeremiah 42:2 illustrates the danger of approaching God with an apparently sincere request for guidance while having already predetermined to disobey whatever answer He gives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1712.3400268554688,
-    "end_time": 1772.5599975585938
+    "end_time": 1772.5599975585938,
+    "point_summary": "Jeremiah 42:19 exposes the people's concealed motives—they asked God what to do while already resolved to disobey, illustrating that outward commitment to hear God's word can mask inward refusal to obey it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1712.3400268554688,
-    "end_time": 1772.5599975585938
+    "end_time": 1772.5599975585938,
+    "point_summary": "Jeremiah 42:20 illustrates that the people concealed their true motives—\"dissembled in their hearts\"—by pledging obedience to God's word while never intending to follow it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1712.3400268554688,
-    "end_time": 1772.5599975585938
+    "end_time": 1772.5599975585938,
+    "point_summary": "Jeremiah 42:21 illustrates that the people had already concealed their true motives when they sought God's word, pledging obedience they never intended to give, and then refused to obey when the message was faithfully delivered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1712.3400268554688,
-    "end_time": 1772.5599975585938
+    "end_time": 1772.5599975585938,
+    "point_summary": "Jeremiah 42:22 illustrates that the people's vow to obey God's word was hollow—they had concealed their true motives from the start and refused to obey when the message was faithfully delivered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1712.3400268554688,
-    "end_time": 1772.5599975585938
+    "end_time": 1772.5599975585938,
+    "point_summary": "Despite the people's solemn vow to obey whatever God commanded, Jeremiah 43:1 marks the moment immediately after his faithful delivery of God's word when their promised obedience collapses into disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1834.9600219726562,
-    "end_time": 1900.9600219726562
+    "end_time": 1900.9600219726562,
+    "point_summary": "Jeremiah 43 illustrates the danger of approaching God's word with a predetermined outcome, seeking divine confirmation rather than genuine submission to what God actually says.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1966,7 +2322,9 @@
     "is_implicit": true,
     "video_id": "qmma5NLlSAk",
     "start_time": 649.5800018310547,
-    "end_time": 717.4000015258789
+    "end_time": 717.4000015258789,
+    "point_summary": "God's promise to Jeremiah—\"call unto me and I will answer thee\"—is cited as biblical confirmation that God hears prayer, reinforcing the sermon's reading of Psalm 34:4 and 34:6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1977,7 +2335,9 @@
     "is_implicit": true,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 391.20001220703125,
-    "end_time": 452.9200134277344
+    "end_time": 452.9200134277344,
+    "point_summary": "Jeremiah's indictment of Judah is cited as a biblical example of Israel forgetting God, which led directly to idolatry and forsaking the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "qxIieTPfZl0",
     "start_time": 1070.9199829101562,
-    "end_time": 1132.1599731445312
+    "end_time": 1132.1599731445312,
+    "point_summary": "God's open invitation to pray in Jeremiah 33:3 is cited as an unchangeable reason to rejoice—no circumstance, even imprisonment or illness, can prevent the believer from calling on God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "RC_zjgDAiHo",
     "start_time": 2295.0399780273438,
-    "end_time": 2372.47998046875
+    "end_time": 2372.47998046875,
+    "point_summary": "God's omnipotence is confirmed through Jeremiah's prayer in Jeremiah 32:17, where Jeremiah—amid Babylonian siege and a seemingly absurd command to buy land—declares that nothing is too hard for God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "RC_zjgDAiHo",
     "start_time": 2372.47998046875,
-    "end_time": 2452.439998626709
+    "end_time": 2452.439998626709,
+    "point_summary": "Jeremiah's confession that God made heaven and earth by great power and that nothing is too hard for Him grounds the sermon's central claim that divine omnipotence overrides every humanly impossible circumstance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2021,7 +2387,9 @@
     "is_implicit": true,
     "video_id": "RFprzdBEilQ",
     "start_time": 1903.6799850463867,
-    "end_time": 1972.1799926757812
+    "end_time": 1972.1799926757812,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2032,7 +2400,9 @@
     "is_implicit": true,
     "video_id": "StOoWZioV1U",
     "start_time": 847.3000183105469,
-    "end_time": 930.7400207519531
+    "end_time": 930.7400207519531,
+    "point_summary": "Jeremiah 33:3 is cited as God's direct promise that prayer addressed to an able God will be answered with revelation of great and mighty things beyond human knowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2043,7 +2413,9 @@
     "is_implicit": true,
     "video_id": "t3763lfMrgQ",
     "start_time": 635.8800048828125,
-    "end_time": 694.5999755859375
+    "end_time": 694.5999755859375,
+    "point_summary": "Israel's idolatrous reasoning in Jeremiah 44:17—that prosperity under queen-of-heaven worship proved God's approval—illustrates the skewed worldview that equates abundance with divine favor and lack with divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "t3763lfMrgQ",
     "start_time": 1264.9599609375,
-    "end_time": 1329.8399658203125
+    "end_time": 1329.8399658203125,
+    "point_summary": "Jeremiah 6:13 is cited as a sobering biblical warning that covetousness—the enemy of contentment—is a universal human condition, spanning every level of society.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "t3763lfMrgQ",
     "start_time": 1329.8399658203125,
-    "end_time": 1408.800048828125
+    "end_time": 1408.800048828125,
+    "point_summary": "Covetousness—named in Jeremiah 6:13 as a universal corruption from least to greatest in Israel—is identified as the direct enemy of the contentment Paul describes in Philippians 4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2076,7 +2452,9 @@
     "is_implicit": true,
     "video_id": "T5xHSdrZyYk",
     "start_time": 897.4800109863281,
-    "end_time": 956.3399963378906
+    "end_time": 956.3399963378906,
+    "point_summary": "God's eternal nature is the ground of his ability to prophesy and fulfill the new covenant promise of Jeremiah 31:31, spoken when both Israel and Judah faced imminent captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1009.5599975585938,
-    "end_time": 1059.6399841308594
+    "end_time": 1059.6399841308594,
+    "point_summary": "Jeremiah 31:31–34 is read as a prophecy given specifically to the nation of Israel, not the church, rejecting the interpretive move that equates the church with spiritual Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1059.6399841308594,
-    "end_time": 1118.5599975585938
+    "end_time": 1118.5599975585938,
+    "point_summary": "Jeremiah 31:31's promise of a new covenant was originally addressed to the house of Israel and Judah, given before the church existed and understood by its first hearers as a national prophecy to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1059.6399841308594,
-    "end_time": 1118.5599975585938
+    "end_time": 1118.5599975585938,
+    "point_summary": "The new covenant prophesied in Jeremiah 31 was originally addressed to the house of Israel and Judah, given before the church existed and understood by its original hearers as a national promise to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1059.6399841308594,
-    "end_time": 1118.5599975585938
+    "end_time": 1118.5599975585938,
+    "point_summary": "The new covenant promised in Jeremiah 31:33 was originally addressed to the house of Israel and Judah, with its fulfillment designated for \"after those days\" — a temporal marker the sermon flags for further examination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1059.6399841308594,
-    "end_time": 1118.5599975585938
+    "end_time": 1118.5599975585938,
+    "point_summary": "Jeremiah 31:31–34 is read in its original context to establish that the new covenant was prophesied specifically for the house of Israel and Judah, before examining how Hebrews 8 applies it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1118.5599975585938,
-    "end_time": 1179.8200073242188
+    "end_time": 1179.8200073242188,
+    "point_summary": "The new covenant's promise in Jeremiah 31:33—God's law written on hearts—finds its fullest fulfillment for national Israel after the tribulation, during the millennial reign of Christ, as signaled by the phrase \"after those days.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1118.5599975585938,
-    "end_time": 1179.8200073242188
+    "end_time": 1179.8200073242188,
+    "point_summary": "The full blessings of the new covenant promised in Jeremiah 31:31–34, including universal knowledge of God and forgiveness of sin, await their complete fulfillment for national Israel during the millennial reign of Christ, after the tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1179.8200073242188,
-    "end_time": 1247.9399909973145
+    "end_time": 1247.9399909973145,
+    "point_summary": "Jeremiah 30:7's phrase \"the time of Jacob's trouble\" identifies the seven-year tribulation as the period preceding the millennial reign, when Israel will fully experience the new covenant blessings of Jeremiah 31.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1179.8200073242188,
-    "end_time": 1247.9399909973145
+    "end_time": 1247.9399909973145,
+    "point_summary": "The fullness of the new covenant blessings promised in Jeremiah 31 will be experienced by national Israel specifically during the millennial reign of Christ, following the tribulation period of Jacob's trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1806.739990234375,
-    "end_time": 1868.7199935913086
+    "end_time": 1868.7199935913086,
+    "point_summary": "Jeremiah 30:7's phrase \"the time of Jacob's trouble\" is identified as the seven-year tribulation period during which God turns his redemptive focus back to Israel as a nation after the church's removal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2197,7 +2595,9 @@
     "is_implicit": true,
     "video_id": "T5xHSdrZyYk",
     "start_time": 1868.7199935913086,
-    "end_time": 1927.0399932861328
+    "end_time": 1927.0399932861328,
+    "point_summary": "Under the new covenant, God's law written on the heart by the Spirit replaces the external stone tablets of the old covenant — a fulfillment awaiting its fullness in the millennial reign.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "T5xHSdrZyYk",
     "start_time": 2226.9199829101562,
-    "end_time": 2300.759979248047
+    "end_time": 2300.759979248047,
+    "point_summary": "Jeremiah 31's new covenant prophecy, given to Israel and Judah, finds its ultimate fulfillment in the millennial reign, yet individual believers today are partakers of its blessings by being grafted in through Calvary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2219,7 +2621,9 @@
     "is_implicit": true,
     "video_id": "TOJWIvB7SDM",
     "start_time": 124.87999725341797,
-    "end_time": 191.74000549316406
+    "end_time": 191.74000549316406,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2230,7 +2634,9 @@
     "is_implicit": true,
     "video_id": "V298kr7O9NY",
     "start_time": 1463.5800170898438,
-    "end_time": 1533.5800170898438
+    "end_time": 1533.5800170898438,
+    "point_summary": "Because the heart is deceitful and self-justifying, God alone—as the one who searches hearts (v. 10)—is the infallible judge of why we serve, making human self-assessment insufficient and repentance necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2241,7 +2647,9 @@
     "is_implicit": true,
     "video_id": "V298kr7O9NY",
     "start_time": 1463.5800170898438,
-    "end_time": 1533.5800170898438
+    "end_time": 1533.5800170898438,
+    "point_summary": "God's searching of the human heart (Jer. 17:10) is cited to establish that Christ's charge against Ephesus—leaving their first love—cannot be disputed, since God alone knows the true motives behind all service and worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2265.3800048828125,
-    "end_time": 2330.739990234375
+    "end_time": 2330.739990234375,
+    "point_summary": "Jeremiah 49:7 is cited as one of several prophetic judgments against Edom, introduced by \"thus saith the Lord of hosts,\" pointing to divine condemnation fulfilled in Edom's desolation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2265.3800048828125,
-    "end_time": 2330.739990234375
+    "end_time": 2330.739990234375,
+    "point_summary": "Jeremiah 49:17 is cited as prophetic confirmation that God decreed Edom's complete desolation, making it an object of astonishment and judgment among the nations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2274,7 +2686,9 @@
     "is_implicit": true,
     "video_id": "wmBpYb5deRo",
     "start_time": 265.6000061035156,
-    "end_time": 338.79998779296875
+    "end_time": 338.79998779296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2285,7 +2699,9 @@
     "is_implicit": false,
     "video_id": "WTvsGmnExXA",
     "start_time": 1442.9800415039062,
-    "end_time": 1516.7000427246094
+    "end_time": 1516.7000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1156.1600341796875,
-    "end_time": 1222.1800441741943
+    "end_time": 1222.1800441741943,
+    "point_summary": "Ritual offerings made without a right heart are rejected by God, as Jeremiah 6:20 confirms the same indictment Isaiah leveled: outward conformity without genuine devotion is unacceptable worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2307,7 +2725,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1222.1800441741943,
-    "end_time": 1285.3000411987305
+    "end_time": 1285.3000411987305,
+    "point_summary": "Ritual offerings and religious observances are rejected by God when the heart is not genuinely devoted to Him, rendering outward conformity worthless in His sight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2318,7 +2738,9 @@
     "is_implicit": true,
     "video_id": "XXBT17UK3Ck",
     "start_time": 2035.9600677490234,
-    "end_time": 2097.9600830078125
+    "end_time": 2097.9600830078125,
+    "point_summary": "The new covenant promise of Jeremiah 31:33—God's law written on hearts and minds—is cited as the scriptural foundation establishing that Christ's one sufficient sacrifice brings complete remission, requiring no further offering for sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1756.9400024414062,
-    "end_time": 1818.180030822754
+    "end_time": 1818.180030822754,
+    "point_summary": "Israel's failure to heed God's word through the prophets—repeated across generations from the Assyrian to the Babylonian captivity—illustrates the deadly consequence of refusing to hear what God has plainly spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1818.180030822754,
-    "end_time": 1882.280029296875
+    "end_time": 1882.280029296875,
+    "point_summary": "Jeremiah 29:19 is cited to show that Judah's impending Babylonian captivity, like Israel's Assyrian exile, resulted not from ignorance of God's word but from willful refusal to hear and obey it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1818.180030822754,
-    "end_time": 1882.280029296875
+    "end_time": 1882.280029296875,
+    "point_summary": "Even amid the consequences of disobedience—on the eve of Babylonian captivity—God still calls his people to hear his word, showing that his purpose in speaking is always instruction leading to obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "YfpmsbD24pg",
     "start_time": 902.1999816894531,
-    "end_time": 974.239990234375
+    "end_time": 974.239990234375,
+    "point_summary": "Jeremiah 32:17 is cited as one of several scriptural declarations that nothing is too difficult for God, establishing the omnipotence of God as the sermon's second lesson.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2373,7 +2803,9 @@
     "is_implicit": true,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1602.8199768066406,
-    "end_time": 1677.47998046875
+    "end_time": 1677.47998046875,
+    "point_summary": "Jeremiah's prophecy of a 70-year captivity was fulfilled precisely because Israel's 490 years of Sabbath-year violations demanded exactly that many years of enforced rest for the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 441.1600036621094,
-    "end_time": 505.3599853515625
+    "end_time": 505.3599853515625,
+    "point_summary": "Israel's forgetting of God—illustrated by Jeremiah's rhetorical question about a bride forgetting her attire—is identified as the root failure that led to forsaking the Lord and pursuing idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 441.1600036621094,
-    "end_time": 505.3599853515625
+    "end_time": 505.3599853515625,
+    "point_summary": "God's call to backsliding Israel to return in Jeremiah 3:12 is grounded in His mercy, which does not retain anger forever, making divine restoration possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 1519.5799865722656,
-    "end_time": 1581.3800048828125
+    "end_time": 1581.3800048828125,
+    "point_summary": "God's promise in Jeremiah 33:3 — \"call unto me, and I will answer thee\" — is cited as encouragement to spend extended, specific time in prayer, particularly in preparation for personal and corporate revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "zAAeXH-9tS0",
     "start_time": 202.0800018310547,
-    "end_time": 248.63999938964844
+    "end_time": 248.63999938964844,
+    "point_summary": "Jeremiah 33:3's command \"Call unto me\" is presented as the foundational revival imperative—the single most important truth to establish before any other message in the meeting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "zAAeXH-9tS0",
     "start_time": 248.63999938964844,
-    "end_time": 309.1199951171875
+    "end_time": 309.1199951171875,
+    "point_summary": "God's invitation to \"call\" in Jeremiah 33:3 is framed as a revival imperative, with the Hebrew *qara* meaning to cry out, plead, or utter a loud sound for help.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "zAAeXH-9tS0",
     "start_time": 248.63999938964844,
-    "end_time": 309.1199951171875
+    "end_time": 309.1199951171875,
+    "point_summary": "Divine invitation to prayer carries a guarantee of response — yes, no, or wait — and the Hebrew word *qara* (\"call\") intensifies the urgency to cry out, plead, and seek God as a revival imperative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "zAAeXH-9tS0",
     "start_time": 309.1199951171875,
-    "end_time": 367.5199890136719
+    "end_time": 367.5199890136719,
+    "point_summary": "God's command to \"call\" (Hebrew *qara*) carries the force of urgent, distinct pleading, with His promise to \"answer\" encompassing yes, no, or wait, and His pledge to show \"mighty\" — that is, supernatural — things conditioned only by the believer's faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2461,7 +2907,9 @@
     "is_implicit": true,
     "video_id": "ZJOWWMF4BZE",
     "start_time": 866.7999877929688,
-    "end_time": 947.0
+    "end_time": 947.0,
+    "point_summary": "Praying \"hallowed be thy name\" shapes submission in prayer, because recognizing God as the omnipotent Lord who can deliver from anything reorients the believer from self-will toward God's will being accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 130.9600067138672,
-    "end_time": 188.02000427246094
+    "end_time": 188.02000427246094,
+    "point_summary": "Amid satanic attack on the home, God is still searching for faithful men—as Jeremiah 5:1 and Ezekiel 22:30 together frame the sermon's central call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 372.9200134277344,
-    "end_time": 441.05999755859375
+    "end_time": 441.05999755859375,
+    "point_summary": "God's willingness to spare Jerusalem from judgment rested entirely on finding even one man who executed justice and sought truth, underscoring the city's total moral collapse on the eve of Babylonian captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 441.05999755859375,
-    "end_time": 502.82000732421875
+    "end_time": 502.82000732421875,
+    "point_summary": "Jeremiah's origin in Anathoth (1:1) establishes that he was an outsider sent into Jerusalem, underscoring the divine commission behind his search for a righteous man in the city's streets.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2505,7 +2959,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 632.1800193786621,
-    "end_time": 691.4600219726562
+    "end_time": 691.4600219726562,
+    "point_summary": "God's indictment against Judah in Jeremiah 5, that they forsook Him, is traced to a prior failure: they forgot who God is, setting aside knowledge they already possessed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2516,7 +2972,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 1203.9200098514557,
-    "end_time": 1273.4600067138672
+    "end_time": 1273.4600067138672,
+    "point_summary": "God's search for even one man in Jerusalem who executes judgment frames the sermon's call to stand in the gap as requiring not only intercession but righteous action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 1341.2200164794922,
-    "end_time": 1406.500015258789
+    "end_time": 1406.500015258789,
+    "point_summary": "God's search in Jeremiah 5:1 for a man who \"executeth judgment\" is interpreted as a call for one who simply does right—living according to Scripture rather than being, like Judah, wise to do evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 1850.6599960327148,
-    "end_time": 1919.2799987792969
+    "end_time": 1919.2799987792969,
+    "point_summary": "God's search for even one person who \"executeth judgment\" and \"seeketh the truth\" in Jeremiah 5:1 frames the sermon's call for individuals who live and judge by the Word amid national moral decline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1543.280029296875,
-    "end_time": 1594.8000183105469
+    "end_time": 1594.8000183105469,
+    "point_summary": "Israel's exchange of God's glory for profitless idols illustrates the evil heart Jeremiah repeatedly indicts — a heart-level unfaithfulness that no outward washing can cleanse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1594.8000183105469,
-    "end_time": 1658.8400268554688
+    "end_time": 1658.8400268554688,
+    "point_summary": "Israel's double sin at Jeremiah 2:13—forsaking God as the fountain of living waters and substituting broken cisterns—is connected to the broader indictment that no outward washing could remedy their inward, heart-level corruption.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1594.8000183105469,
-    "end_time": 1658.8400268554688
+    "end_time": 1658.8400268554688,
+    "point_summary": "Israel's self-inflicted ruin through forsaking God is the indictment of Jeremiah 2:17, used here to establish that the nation's problem was a heart condition no outward washing could remedy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1594.8000183105469,
-    "end_time": 1658.8400268554688
+    "end_time": 1658.8400268554688,
+    "point_summary": "Backsliding and forsaking God are self-punishing: Israel's own wickedness becomes her correction, exposing the bitter fruit of a heart that has abandoned the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1594.8000183105469,
-    "end_time": 1658.8400268554688
+    "end_time": 1658.8400268554688,
+    "point_summary": "No external washing can cleanse iniquity that is \"marked before God,\" because Israel's problem—like that of the religious leaders in Matthew 15—was a heart issue no outward remedy could fix.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "__bA4Uw99tw",
     "start_time": 117.5199966430664,
-    "end_time": 189.0399932861328
+    "end_time": 189.0399932861328,
+    "point_summary": "God's greatness should be reflected in a prayer life that asks Him for things only He can do, citing Jeremiah 33:3 as evidence that He answers and reveals what we cannot know ourselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "GOhUNz1pDM0",
     "start_time": 310.9599914550781,
-    "end_time": 375.44000244140625
+    "end_time": 375.44000244140625,
+    "point_summary": "Before reaching the famous promise of Jeremiah 33:3, the text first issues an invitation—\"Call unto me\"—which itself represents the extraordinary privilege of access to the Almighty God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "GOhUNz1pDM0",
     "start_time": 1050.719970703125,
-    "end_time": 1124.0
+    "end_time": 1124.0,
+    "point_summary": "God's invitation to call upon Him carries an attached promise — that He will answer and reveal great and mighty things otherwise unknown to the one who asks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2637,7 +3115,9 @@
     "is_implicit": true,
     "video_id": "vVjqEYUgWc4",
     "start_time": 870.1400146484375,
-    "end_time": 937.1000061035156
+    "end_time": 937.1000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2648,7 +3128,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 231.66000366210938,
-    "end_time": 293.29998779296875
+    "end_time": 293.29998779296875,
+    "point_summary": "Daniel's reading of Jeremiah's prophecy of a 70-year Babylonian captivity is what prompts him to pray and seek God, setting the context for the angelic revelation of the 70 weeks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2659,7 +3141,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 2182.019989013672,
-    "end_time": 2252.3599853515625
+    "end_time": 2252.3599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2670,7 +3154,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1290.0799560546875,
-    "end_time": 1367.0799560546875
+    "end_time": 1367.0799560546875,
+    "point_summary": "Human hearts are deceitful by nature, making external social movements insufficient to end partiality—only God's word applied rightly can address what originates within.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2681,7 +3167,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 3114.1599502563477,
-    "end_time": 3193.159957885742
+    "end_time": 3193.159957885742,
+    "point_summary": "Human hearts are acknowledged as deceitful and desperately wicked, grounding the call for God to search and expose any hidden partiality within the congregation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "EYFIfx9U54k",
     "start_time": 480.2799987792969,
-    "end_time": 536.5999755859375
+    "end_time": 536.5999755859375,
+    "point_summary": "Prayer moves the hand of God, as Jeremiah 33:3 declares — God's own promise to answer and reveal great things — making prayer not optional but something believers must be committed to.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "EYFIfx9U54k",
     "start_time": 645.7999877929688,
-    "end_time": 700.7999877929688
+    "end_time": 700.7999877929688,
+    "point_summary": "Jeremiah 33:3 is cited as a standing prayer promise—\"call unto me, and I will answer\"—illustrating that the Old Testament supplies not only recorded prayers but divine guarantees that motivate continued prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2714,7 +3206,9 @@
     "is_implicit": true,
     "video_id": "EYFIfx9U54k",
     "start_time": 700.7999877929688,
-    "end_time": 755.7999877929688
+    "end_time": 755.7999877929688,
+    "point_summary": "Jeremiah 33:3 is presented as an Old Testament prayer promise—God's direct invitation to call upon Him with the assurance of answered prayer and revealed wonders—displayed weekly to keep the congregation reminded of this commitment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 815.3999633789062,
-    "end_time": 880.3599853515625
+    "end_time": 880.3599853515625,
+    "point_summary": "Famine in Scripture signals divine judgment, as Jeremiah 11:22 confirms—God's punishment falling on a rebellious people through sword and famine alike.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2736,7 +3232,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 969.780029296875,
-    "end_time": 1042.260009765625
+    "end_time": 1042.260009765625,
+    "point_summary": "God's invitation to Jeremiah—\"call unto me\"—is cited as a parallel to James's open invitation for believers to ask God for wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2747,7 +3245,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1042.260009765625,
-    "end_time": 1105.4200134277344
+    "end_time": 1105.4200134277344,
+    "point_summary": "God's invitation in Jeremiah 33:3 — \"call unto me and I will answer\" — is presented as a parallel to James's invitation to ask for wisdom, underscoring that God is never troubled by those who seek him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2758,7 +3258,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1924.6800689697266,
-    "end_time": 1983.840072631836
+    "end_time": 1983.840072631836,
+    "point_summary": "Jeremiah 1:1 is introduced as a third historical marker in Israel's story, situating Jeremiah's ministry on the eve of Babylonian captivity, after national rebellion and idolatry had brought the people to a point of crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2769,7 +3271,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2052.040069580078,
-    "end_time": 2106.4600524902344
+    "end_time": 2106.4600524902344,
+    "point_summary": "God's foreknowledge and sovereign appointment of Jeremiah before birth—underscoring both the sanctity of life and the divine commissioning that equipped him for an extraordinarily difficult ministry—is the point drawn from this verse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2780,7 +3284,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2106.4600524902344,
-    "end_time": 2180.2400512695312
+    "end_time": 2180.2400512695312,
+    "point_summary": "Jeremiah's protest that he is unqualified (\"I cannot speak, for I am a child\") is met with God's refusal to accept the excuse, grounding Jeremiah's calling not in personal ability but in divine commission and presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2791,7 +3297,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2106.4600524902344,
-    "end_time": 2180.2400512695312
+    "end_time": 2180.2400512695312,
+    "point_summary": "God's promise \"I am with thee\" to a fearful, reluctant Jeremiah illustrates the same divine presence that sustains believers through daunting, even dangerous, obedience—the sermon's central theme from Psalm 23:4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2802,7 +3310,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2181.1600646972656,
-    "end_time": 2242.6200561523438
+    "end_time": 2242.6200561523438,
+    "point_summary": "God's promise \"I am with thee to deliver thee\" in Jeremiah 1:8 is presented as the divine answer to human inadequacy, assuring Jeremiah of an accompanying presence that holds constant across every circumstance—home, palace, dungeon, and pit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2813,7 +3323,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 2242.6200561523438,
-    "end_time": 2306.340057373047
+    "end_time": 2306.340057373047,
+    "point_summary": "God's commissioning word to Jeremiah — placing His words in his mouth and setting him over nations — is cited as the divine empowerment behind the promise \"I am with thee\" that sustained Jeremiah through imprisonment, the pit, and opposition from false prophets.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 1221.6199779510498,
-    "end_time": 1281.3199768066406
+    "end_time": 1281.3199768066406,
+    "point_summary": "The 70th week of Daniel is identified as \"the time of Jacob's trouble\" from Jeremiah 30:7, establishing it as a distinct period of divine wrath and judgment upon rebellious man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2835,7 +3349,9 @@
     "is_implicit": true,
     "video_id": "B7qA98qbh00",
     "start_time": 1272.7200164794922,
-    "end_time": 1335.000015258789
+    "end_time": 1335.000015258789,
+    "point_summary": "Human heart deceitfulness (Jer. 17:9) is invoked to warn against \"following your heart\" in trials, contrasting unreliable feelings with the objective facts of God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2846,7 +3362,9 @@
     "is_implicit": true,
     "video_id": "B7qA98qbh00",
     "start_time": 1880.259994506836,
-    "end_time": 1953.5199890136719
+    "end_time": 1953.5199890136719,
+    "point_summary": "Expectant faith in trials is grounded in God's own invitation to call on Him for answers and revelation beyond human knowledge, as He promised Jeremiah amid impossible circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "4drpBDG7hOw",
     "start_time": 955.739990234375,
-    "end_time": 1022.9400024414062
+    "end_time": 1022.9400024414062,
+    "point_summary": "Human hearts are deceitfully prone to pride, and God alone can know and try them — which is why even genuine visions risk inflating the one who receives them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1543.5600280761719,
-    "end_time": 1604.0000305175781
+    "end_time": 1604.0000305175781,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 489.3399963378906,
-    "end_time": 559.8800048828125
+    "end_time": 559.8800048828125,
+    "point_summary": "Jeremiah 10:6 serves as the structural outline for a three-part study on theology, anchoring the sermon's case that God is incomparably great against those who deny His existence altogether.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2890,7 +3414,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 489.3399963378906,
-    "end_time": 559.8800048828125
+    "end_time": 559.8800048828125,
+    "point_summary": "Jeremiah 10:6 serves as the structural outline for a three-part study on theology, anchoring the sermon's argument that God is incomparably great and knowable against those who deny His existence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2901,7 +3427,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 489.3399963378906,
-    "end_time": 559.8800048828125
+    "end_time": 559.8800048828125,
+    "point_summary": "Jeremiah 10:10's declaration that the Lord is \"the true God\" anchors a three-part study on theology by contrasting biblical theism with atheism and pantheism, which reject accountability to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2912,7 +3440,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 622.7999820709229,
-    "end_time": 690.1199798583984
+    "end_time": 690.1199798583984,
+    "point_summary": "Jeremiah's text is introduced as a witness against idolatry and polytheism, contrasted with the monotheistic confession of Deuteronomy 6 that the Lord alone is God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2923,7 +3453,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 690.1199798583984,
-    "end_time": 757.3999786376953
+    "end_time": 757.3999786376953,
+    "point_summary": "Idolatry is exposed in Jeremiah 10:8 as a \"doctrine of vanities\"—empty, brutish teaching that stands in stark contrast to the sound doctrine grounded in the one true God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2934,7 +3466,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 690.1199798583984,
-    "end_time": 757.3999786376953
+    "end_time": 757.3999786376953,
+    "point_summary": "Jeremiah 10:8 is used to contrast the emptiness of polytheistic idol-doctrine (\"a doctrine of vanities\") with the sound doctrine rooted in the one true God, Jehovah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 757.3999786376953,
-    "end_time": 828.0399780273438
+    "end_time": 828.0399780273438,
+    "point_summary": "Jeremiah 10:1's command to Israel to hear the Lord's word introduces a contrast between sound doctrine rooted in Scripture and the empty \"doctrine of vanities\" produced by idolatrous, heathen customs.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2956,7 +3492,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 828.0399780273438,
-    "end_time": 893.6799926757812
+    "end_time": 893.6799926757812,
+    "point_summary": "Jeremiah 10:2's command to \"learn not the ways of the heathen\" means theology—who God is and how He is approached—must be drawn from Scripture alone, not from culture, media, or academia.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 828.0399780273438,
-    "end_time": 893.6799926757812
+    "end_time": 893.6799926757812,
+    "point_summary": "Jeremiah 10:2's command to \"learn not the ways of the heathen\" means theology—who God is and how He is approached—must be drawn from Scripture alone, not from culture, media, or academia.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2978,7 +3518,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1094.0399780273438,
-    "end_time": 1166.47998046875
+    "end_time": 1166.47998046875,
+    "point_summary": "Against the vain customs and heathen thinking that surround God's people, Jeremiah 10:2 calls believers to measure every explanation of God against Scripture rather than popular opinion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -2989,7 +3531,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1094.0399780273438,
-    "end_time": 1166.47998046875
+    "end_time": 1166.47998046875,
+    "point_summary": "God's absolute incomparability — \"none like unto thee, O Lord\" — anchors the sermon's three-part outline, establishing that no idol, cult, or human explanation of God can withstand comparison with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3000,7 +3544,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1231.7999649047852,
-    "end_time": 1301.6799621582031
+    "end_time": 1301.6799621582031,
+    "point_summary": "In contrast to the vanity of idols, Jeremiah 10:10 is read as the definitive declaration that the Lord alone is the true, living, and everlasting God—incomparable and sovereign over all nations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3011,7 +3557,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1231.7999649047852,
-    "end_time": 1301.6799621582031
+    "end_time": 1301.6799621582031,
+    "point_summary": "Jeremiah 10:11's declaration that false gods shall perish stands in deliberate contrast to the surrounding verses affirming the Lord as the true, living, incomparable God who created the heavens and earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3022,7 +3570,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1231.7999649047852,
-    "end_time": 1301.6799621582031
+    "end_time": 1301.6799621582031,
+    "point_summary": "God's creative power, demonstrated in making the earth by His power, is set in contrast to the vanity of idols as evidence that the Lord alone is the true and living God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3033,7 +3583,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1301.6799621582031,
-    "end_time": 1376.479965209961
+    "end_time": 1376.479965209961,
+    "point_summary": "God's creation of the earth by His power and establishment of the world by His wisdom demonstrate that He is both omnipotent and omniscient—He knows what to do and has the power to do it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3044,7 +3596,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1301.6799621582031,
-    "end_time": 1376.479965209961
+    "end_time": 1376.479965209961,
+    "point_summary": "God's creation of the earth by power, establishment of the world by wisdom, and stretching of the heavens by discretion demonstrate His omnipotence and omniscience together—He knows what to do and has the power to do it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3055,7 +3609,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1301.6799621582031,
-    "end_time": 1376.479965209961
+    "end_time": 1376.479965209961,
+    "point_summary": "God's creation of the earth by His power and establishment of the world by His wisdom demonstrate that He is both omnipotent and omniscient—He knows what to do and has the power to do it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3066,7 +3622,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1301.6799621582031,
-    "end_time": 1376.479965209961
+    "end_time": 1376.479965209961,
+    "point_summary": "God's omnipotence and omniscience are displayed together in creation — He made the earth by His power and established it by His wisdom, knowing what to do and having the power to do it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3077,7 +3635,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "God's omnipotence and omniscience together mean He knows what must be done and possesses the power to do it — a dual truth drawn from Jeremiah 10:12's parallel language of power and wisdom establishing the world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3088,7 +3648,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "Idols are exposed as breathless falsehoods and destined to perish, contrasting sharply with the omnipotent, omniscient God who formed all things and whose name is the Lord of hosts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3099,7 +3661,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "God's omnipotence and omniscience together mean He knows what must be done and possesses the power to do it — a pairing drawn from the contrast between the living God and the breathless, perishing idols of Jeremiah 10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3110,7 +3674,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "Idols are exposed as falsehood and vanity that will perish, contrasted with the Lord of hosts who, as Creator of all things, is incomparable in power and wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3121,7 +3687,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "God's omnipotence and omniscience together mean He knows what must be done and possesses all power to accomplish it — a dual truth that calls forth rejoicing in His incomparable greatness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3132,7 +3700,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "Jeremiah 10:17's call to gather wares from the land is read as part of a broader Jeremiah 10 passage contrasting the powerless idols of the nations with the omnipotent, omniscient God of Jacob.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3143,7 +3713,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1376.479965209961,
-    "end_time": 1440.5599670410156
+    "end_time": 1440.5599670410156,
+    "point_summary": "God's omnipotence and omniscience together mean He knows what must be done and possesses the power to do it — a dual truth the sermon calls cause for rejoicing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jeremiah",
@@ -3154,6 +3726,8 @@
     "is_implicit": true,
     "video_id": "E31QXOicGRA",
     "start_time": 1864.7999801635742,
-    "end_time": 1931.0399780273438
+    "end_time": 1931.0399780273438,
+    "point_summary": "Because the human heart is wicked, deceitful, and divided by people, possessions, power, and position, the psalmist's plea to \"unite my heart\" is shown to be an urgent and necessary prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

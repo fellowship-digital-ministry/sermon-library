@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "42h9U6tWfAA",
     "start_time": 688.7599868774414,
-    "end_time": 744.9999847412109
+    "end_time": 744.9999847412109,
+    "point_summary": "John's greatest joy was not the absence of false teachers but that his children walked in truth, a joy realized when believers receive instruction and heed warning rather than surrendering to error.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "iLbP529uYUM",
     "start_time": 1756.6199951171875,
-    "end_time": 1827.0999736785889
+    "end_time": 1827.0999736785889,
+    "point_summary": "Gaius is held up as a concrete example of love toward all believers—including strangers—whose charity was publicly witnessed before the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 256.3999938964844,
-    "end_time": 319.6000061035156
+    "end_time": 319.6000061035156,
+    "point_summary": "Passing faith to one's children and grandchildren is framed as the Christian's highest joy, drawn directly from John's declaration that he has no greater joy than to know his children walk in truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 0.0,
-    "end_time": 62.91999816894531
+    "end_time": 62.91999816894531,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 62.91999816894531,
-    "end_time": 123.41999816894531
+    "end_time": 123.41999816894531,
+    "point_summary": "Third John preserves a brief but instructive portrait of an otherwise obscure believer, illustrating that God's recorded interactions with lesser-known figures still carry formative testimony for the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "John's address to Gaius as \"well-beloved\" and \"whom I love in the truth\" provides the sermon's title and introduces a man whose spiritual thriving stands in contrast to his apparent physical suffering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "John's wish that Gaius prosper physically \"even as thy soul prospereth\" implies Gaius's spiritual health was flourishing even while his body apparently suffered illness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "Gaius's spiritual vitality—evidenced by brethren testifying of the truth in him and his walk in truth—demonstrates that one can thrive spiritually even amid physical weakness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "No greater joy exists for a spiritual father than hearing that his children walk in truth, framing faithful obedience as the highest source of pastoral rejoicing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "Faithful service to fellow believers and strangers alike, as commended in verse 5, marks Gaius as one who was thriving spiritually even amid apparent physical weakness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "Gaius's faithful service to traveling brethren, testified before the church, is presented as evidence of a spiritually thriving life even amid possible physical weakness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 258.3800048828125,
-    "end_time": 330.6000061035156
+    "end_time": 330.6000061035156,
+    "point_summary": "Supporting traveling ministers who take nothing from unbelievers creates a partnership in gospel truth, making such hospitality a shared labor for the sake of Christ's name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 520.0599975585938,
-    "end_time": 584.780029296875
+    "end_time": 584.780029296875,
+    "point_summary": "Verse 4's declaration of \"no greater joy\" applies most naturally to the spiritual mentoring relationship between John and Gaius, not biological parenthood, though its principle extends meaningfully to parenting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "U9hDqApAXB0",
     "start_time": 584.780029296875,
-    "end_time": 649.6200141906738
+    "end_time": 649.6200141906738,
+    "point_summary": "Though 3 John 4 is commonly applied to parenting, the sermon argues its primary meaning is spiritual: John's greatest joy was hearing that those he had discipled, like Gaius, were walking in truth and obedience to God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 924.8600158691406,
-    "end_time": 996.1400146484375
+    "end_time": 996.1400146484375,
+    "point_summary": "Gaius's faithful service to both brethren and strangers, summarized in verse 5, is presented as the defining mark of a servant whose obedience to God's word flowed from genuine love for God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "U9hDqApAXB0",
     "start_time": 1746.219970703125,
-    "end_time": 1806.23996591568
+    "end_time": 1806.23996591568,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 1806.23996591568,
-    "end_time": 1865.0399627685547
+    "end_time": 1865.0399627685547,
+    "point_summary": "Gaius's \"walking in truth\" (v. 3) is presented as evidence of personal involvement in God's work, confirmed by his faithful service to both brethren and strangers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "U9hDqApAXB0",
     "start_time": 1806.23996591568,
-    "end_time": 1865.0399627685547
+    "end_time": 1865.0399627685547,
+    "point_summary": "Gaius's faithful service to both brethren and strangers (v. 5) is presented as evidence of personal, active involvement in the work of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "3 John",
@@ -217,6 +255,8 @@
     "is_implicit": false,
     "video_id": "WWASD9CXEro",
     "start_time": 1423.4199981689453,
-    "end_time": 1489.9800109863281
+    "end_time": 1489.9800109863281,
+    "point_summary": "Diotrephes, who loved to have the preeminence, is cited as a biblical illustration of the pride-driven ambition Jesus directly contrasts with servant greatness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

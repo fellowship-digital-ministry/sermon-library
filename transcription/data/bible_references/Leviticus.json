@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1517.9199829101562,
-    "end_time": 1586.3999938964844
+    "end_time": 1586.3999938964844,
+    "point_summary": "Justice, as a biblical mandate rooted in Leviticus 19:15, demands impartiality toward both poor and powerful, a standard the sermon frames as a governing principle for evaluating candidates at the ballot box.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "4j6miDNAqs4",
     "start_time": 1898.1999816894531,
-    "end_time": 1948.239974975586
+    "end_time": 1948.239974975586,
+    "point_summary": "Leviticus 12 establishes the purification law that required Mary and Joseph to bring Jesus to Jerusalem forty days after his birth, which the sermon identifies as the legal context fulfilled in Luke 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "5cqwtLBS4OE",
     "start_time": 808.0000152587891,
-    "end_time": 879.3200073242188
+    "end_time": 879.3200073242188,
+    "point_summary": "God's call to holiness in Leviticus—\"be holy, for I am holy\"—is cited as the scriptural foundation for the New Testament summons to walk not in uncleanness but in holiness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1106.6199951171875,
-    "end_time": 1170.5999755859375
+    "end_time": 1170.5999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "9KxM021cU1c",
     "start_time": 2023.4599609375,
-    "end_time": 2088.4599609375
+    "end_time": 2088.4599609375,
+    "point_summary": "Holiness as a divine standard—\"be holy, for I am holy\"—grounds the church's responsibility to maintain purity and not tolerate evil within its membership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 746.239990234375,
-    "end_time": 818.5599822998047
+    "end_time": 818.5599822998047,
+    "point_summary": "Micah 6:7's rhetorical question about sacrificing one's firstborn gains sharp historical weight when read against Leviticus 18:21's explicit prohibition, since King Ahaz literally violated that command by offering his son to Molech.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 636.659984588623,
-    "end_time": 700.9399871826172
+    "end_time": 700.9399871826172,
+    "point_summary": "Leviticus 16's Day of Atonement required the high priest to enter twice and repeat annually, contrasting with Christ's single, sufficient entry as the sinless substitute who needed no offering for His own sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -85,7 +99,9 @@
     "is_implicit": true,
     "video_id": "b-5M--iyp5U",
     "start_time": 1433.259994506836,
-    "end_time": 1505.739990234375
+    "end_time": 1505.739990234375,
+    "point_summary": "Ahaz's burning of his children in the fire is connected to the biblical warning against offering children to Molech, illustrating how idolatrous influence leads to the very abominations God condemned among the Canaanites.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "B2bISRh1PFo",
     "start_time": 452.3800048828125,
-    "end_time": 526.780029296875
+    "end_time": 526.780029296875,
+    "point_summary": "God's call to holiness in Leviticus 11:44 — \"be holy, for I am holy\" — is cited as the scriptural foundation for the sermon's theme of self-examination in preparation for revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -107,7 +125,9 @@
     "is_implicit": true,
     "video_id": "cRs01nZR7xE",
     "start_time": 1183.719970703125,
-    "end_time": 1248.059959411621
+    "end_time": 1248.059959411621,
+    "point_summary": "God's holiness, declared thrice by the seraphim in Isaiah 6, grounds the Levitical command that His people likewise be holy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "EOBB4xsyduY",
     "start_time": 358.239990234375,
-    "end_time": 420.8800048828125
+    "end_time": 420.8800048828125,
+    "point_summary": "God's holiness is His most prominent moral attribute—perfectly pure and complete in moral character—and it is the very basis for His call that His people likewise be holy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "fHale4gghi4",
     "start_time": 613.2400217056274,
-    "end_time": 675.1800231933594
+    "end_time": 675.1800231933594,
+    "point_summary": "The commandment to love one's neighbor, rooted in Leviticus 19:18, is identified as the \"old commandment\" John references—a truth already known from the Pentateuch—against which the newness of Christ's standard in John 13:34 is contrasted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "fHale4gghi4",
     "start_time": 613.2400217056274,
-    "end_time": 675.1800231933594
+    "end_time": 675.1800231933594,
+    "point_summary": "Leviticus 19:34 is cited alongside 19:18 to establish that the command to love—extending even to strangers—was already present in the Pentateuch, grounding John's \"old commandment\" in Israel's ancient Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 709.5400009155273,
-    "end_time": 777.3600006103516
+    "end_time": 777.3600006103516,
+    "point_summary": "Leviticus 26 is read in full to establish that the agricultural devastation Joel describes is the direct covenantal consequence of Israel's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 777.3600006103516,
-    "end_time": 851.3600006103516
+    "end_time": 851.3600006103516,
+    "point_summary": "Leviticus 26's conditional \"if-then\" structure establishes that Israel's covenant obedience would bring blessing, providing the biblical framework for understanding Joel's agricultural devastation as the direct result of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 777.3600006103516,
-    "end_time": 851.3600006103516
+    "end_time": 851.3600006103516,
+    "point_summary": "Leviticus 26's conditional \"if-then\" structure establishes that the agricultural devastation described in Joel is the direct result of Israel's failure to walk in God's statutes and keep His commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 777.3600006103516,
-    "end_time": 851.3600006103516
+    "end_time": 851.3600006103516,
+    "point_summary": "Leviticus 26:3's conditional \"if\" introduces a classic if-then covenant structure: obedience to God's statutes brings promised blessing, framing Joel's agricultural devastation as the consequence of broken covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -195,7 +229,9 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 777.3600006103516,
-    "end_time": 851.3600006103516
+    "end_time": 851.3600006103516,
+    "point_summary": "The agricultural abundance promised in Leviticus 26:4 is presented as the \"then\" half of a classic biblical if-then covenant: obedience to God's statutes yields rain and harvest, making its absence in Joel a direct consequence of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26:3's opening \"if\" and verse 4's answering \"then\" establish a conditional covenant structure whose promised agricultural blessings—rain, harvest, fruitfulness—were visibly absent in Joel 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26:4's \"then\" answers the conditional \"if\" of verse 3, forming a classic covenant promise in which God pledges rain and agricultural abundance contingent on Israel's obedience—blessings conspicuously absent in Joel 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26:5's promise of unbroken agricultural abundance—threshing reaching vintage, vintage reaching sowing—stands as the covenant blessing Israel forfeited by the time of Joel 1's devastation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26:6's promise of peace, safety, and fruitfulness forms the conditional \"if-then\" backdrop against which Joel 1's withered harvests and broken land expose Israel's covenant disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "The blessings of Leviticus 26's classic if-then covenant structure—rain, fruitful harvests, peace, and military victory—stand as the obedience-conditioned promises conspicuously absent in Joel 1's devastated land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26's classic if-then structure shows that God's promised blessings of fruitful harvests and military victory were conditional on Israel's obedience—blessings conspicuously absent in Joel 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 851.3600006103516,
-    "end_time": 916.3999938964844
+    "end_time": 916.3999938964844,
+    "point_summary": "Leviticus 26's classic if-then structure establishes that God's covenant blessings—fruitful harvests, peace, and multiplied increase—were conditioned on Israel's obedience, blessings conspicuously absent in Joel 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 916.3999938964844,
-    "end_time": 986.1199951171875
+    "end_time": 986.1199951171875,
+    "point_summary": "The blessings of Leviticus 26—rain, fruitfulness, peace, and God walking among His people—are structured as an if-then covenant promise whose absence in Joel 1 signals Israel's disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 916.3999938964844,
-    "end_time": 986.1199951171875
+    "end_time": 986.1199951171875,
+    "point_summary": "The blessings of Leviticus 26—rain, fruitfulness, peace, and God walking among His people—are framed as an if-then covenant promise whose fulfillment depends entirely on Israel's obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 916.3999938964844,
-    "end_time": 986.1199951171875
+    "end_time": 986.1199951171875,
+    "point_summary": "The blessings of Leviticus 26 are structured as an if-then covenant promise, making God's favor—rain, fruitfulness, peace, and His presence—entirely dependent on Israel's obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1074.1199951171875,
-    "end_time": 1148.719970703125
+    "end_time": 1148.719970703125,
+    "point_summary": "The blessings promised in Leviticus 26:4 are matched in equal magnitude by the curses of verses 16 and following, showing that God's covenant faithfulness operates symmetrically in both reward and chastening.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1074.1199951171875,
-    "end_time": 1148.719970703125
+    "end_time": 1148.719970703125,
+    "point_summary": "God's covenant curses in Leviticus 26:16—terror, consumption, fruitless labor—carry the same covenantal weight as the blessings, and are given not for destruction but to drive His people back to Himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1148.719970703125,
-    "end_time": 1209.3799877166748
+    "end_time": 1209.3799877166748,
+    "point_summary": "Divine chastening in Leviticus 26 is shown to escalate in severity—seven times more—precisely because its purpose is repentance and return, not mere punishment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1148.719970703125,
-    "end_time": 1209.3799877166748
+    "end_time": 1209.3799877166748,
+    "point_summary": "God's escalating covenant curses in Leviticus 26—breaking the pride of power, making heaven iron and earth brass—demonstrate that agricultural failure is divine chastening designed to drive His people back to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1148.719970703125,
-    "end_time": 1209.3799877166748
+    "end_time": 1209.3799877166748,
+    "point_summary": "God's covenant curses in Leviticus 26 escalate in sevenfold waves precisely to drive His people back to Him, illustrating that divine chastening is purposeful, not merely punitive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1148.719970703125,
-    "end_time": 1209.3799877166748
+    "end_time": 1209.3799877166748,
+    "point_summary": "Divine chastening in Leviticus 26 is shown to escalate in severity—seven times more—precisely because its purpose is repentance and return, not mere punishment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1148.719970703125,
-    "end_time": 1209.3799877166748
+    "end_time": 1209.3799877166748,
+    "point_summary": "God's escalating covenant curses in Leviticus 26—including wild beasts, crop failure, and desolation—are presented as purposeful chastening designed to drive His people back to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating covenant judgments in Leviticus 26—wild beasts, desolation, and multiplied plagues—are disciplinary in intent, designed to drive His people back to Himself rather than to express mere wrath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating covenant discipline—punishing \"seven times more\"—is not the action of a mean, angry God but a persistent call for His people to return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating discipline—punishing \"seven times more\"—is not the action of a mean, angry God but a persistent call for His people to return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating covenant judgments — sword, pestilence, and enemy defeat — are not expressions of divine cruelty but measured disciplines designed to drive His people back to Himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating covenant judgments in Leviticus 26—including broken bread-staff and unsatisfied eating—are framed as intensifying divine discipline designed to drive His people back to Him, not expressions of arbitrary wrath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating discipline — punishing \"seven times more\" at each stage of continued rebellion — is covenant chastisement designed not for destruction but to drive His people back to Himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1209.3799877166748,
-    "end_time": 1275.6999893188477
+    "end_time": 1275.6999893188477,
+    "point_summary": "God's escalating discipline — punishing \"seven times more\" at each stage of continued rebellion — is covenant chastisement designed to drive His people back to Him, not evidence of divine cruelty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "Escalating covenant curses in Leviticus 26—including the horror of cannibalism fulfilled in 2 Kings—are presented as God intensifying judgment to drive His people back to Himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "God's threatened judgment in Leviticus 26:30—destroying high places, desolating cities, scattering Israel—was literally fulfilled in the Babylonian captivity because the people did not return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "God's threatened judgment of making cities waste and sanctuaries desolate was literally fulfilled in the Babylonian captivity because Israel did not return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "God's covenant warnings of escalating judgment — including desolation of the land and scattering among the nations — were literally fulfilled in the Babylonian captivity because Israel persistently refused to return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "God's threatened judgment of scattering Israel among the nations (Lev. 26:33) was literally fulfilled in the Babylonian captivity, cited here as evidence that covenant warnings carry real historical consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1393.3799896240234,
-    "end_time": 1453.219985961914
+    "end_time": 1453.219985961914,
+    "point_summary": "The land's enforced sabbath rest during Judah's seventy-year Babylonian captivity fulfilled Leviticus 26:34 precisely, explaining both Jeremiah's prophecy and Daniel's understanding in Daniel 9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1393.3799896240234,
-    "end_time": 1453.219985961914
+    "end_time": 1453.219985961914,
+    "point_summary": "The land's forced sabbath rest during Babylon's 70-year captivity was God's direct fulfillment of Leviticus 26, compensating for the sabbaths Israel had neglected while dwelling in it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "God's covenant curse of sending faintness into the hearts of disobedient Israel, so that a shaken leaf would chase them, is read as fulfilled covenant judgment connected to the Babylonian captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "Leviticus 26:38's warning that Israel would \"perish among the heathen\" was fulfilled historically in the Babylonian captivity, directly tying the 70-year exile to covenant disobedience outlined in this chapter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "Those who pine away in exile in their enemies' lands do so in their own iniquity and their fathers', yet confession and humbled hearts open the door to God's covenant remembrance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "Leviticus 26:40's call to confess iniquity directly parallels Daniel's prayer in Daniel 9, showing the covenantal pathway from judgment to restoration through humble acknowledgment of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1453.219985961914,
-    "end_time": 1507.9400024414062
+    "end_time": 1507.9400024414062,
+    "point_summary": "Leviticus 26:41's condition of humbled, uncircumcised hearts accepting punishment mirrors Daniel's prayer in Daniel 9, showing the covenantal pathway from exile back to divine remembrance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1507.9400024414062,
-    "end_time": 1561.3799743652344
+    "end_time": 1561.3799743652344,
+    "point_summary": "God's covenant faithfulness to remember Abraham, Isaac, and Jacob even amid judgment—conditional on Israel's confession and humbled hearts—grounds the sermon's claim that God's unchanging character applies beyond Israel's specific context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1507.9400024414062,
-    "end_time": 1561.3799743652344
+    "end_time": 1561.3799743652344,
+    "point_summary": "Leviticus 26:43 is read as the covenantal backdrop to Joel's locust judgment, showing that land desolation and national punishment were always the prescribed consequence for despising God's statutes—while God's covenant faithfulness remains intact.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1507.9400024414062,
-    "end_time": 1561.3799743652344
+    "end_time": 1561.3799743652344,
+    "point_summary": "Even in covenant judgment and exile, God's unchanging character guarantees He will not utterly cast away or destroy His people, a principle the sermon applies beyond Israel to any nation under a holy God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1507.9400024414062,
-    "end_time": 1561.3799743652344
+    "end_time": 1561.3799743652344,
+    "point_summary": "Even as covenant curses fall on Israel, God's unchanging character—not casting away or utterly destroying his people—grounds the sermon's warning that the same holy God holds all nations accountable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1942.1000213623047,
-    "end_time": 2015.260009765625
+    "end_time": 2015.260009765625,
+    "point_summary": "Leviticus 26's closing provision—that repentance, confession, and acknowledgment of sin opens the way back to God's blessing—is presented as the scriptural solution mirrored in Joel 1:13–14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2298.560028076172,
-    "end_time": 2391.02001953125
+    "end_time": 2391.02001953125,
+    "point_summary": "Leviticus 26 is cited as background reading for the evening, establishing the covenantal framework of sin and consequence that parallels both David's loss of joy and Joel's national devastation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2619.0800018310547,
-    "end_time": 2703.3999938964844
+    "end_time": 2703.3999938964844,
+    "point_summary": "Leviticus 26 is invoked as a reminder that God is holy and that His people—and nations—stand under His judgment when they depart from Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -690,7 +814,9 @@
     "is_implicit": true,
     "video_id": "I5J2NuNIO5w",
     "start_time": 2360.5400390625,
-    "end_time": 2420.5200729370117
+    "end_time": 2420.5200729370117,
+    "point_summary": "God's repeated declaration of His own holiness throughout Leviticus underlies the New Testament call to holiness, with Leviticus functioning as the instruction manual for approaching a holy God after exodus from the world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -701,7 +827,9 @@
     "is_implicit": true,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2528.8800048828125,
-    "end_time": 2605.759994506836
+    "end_time": 2605.759994506836,
+    "point_summary": "Leviticus's law on adultery condemned both parties equally, a textual detail invoked to expose the accusers' selective application of the law against the woman alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -734,7 +866,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -756,7 +892,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 57.91999816894531,
-    "end_time": 121.87999725341797
+    "end_time": 121.87999725341797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 319.239990234375,
-    "end_time": 386.1600036621094
+    "end_time": 386.1600036621094,
+    "point_summary": "The Sabbath-year legislation of Leviticus 25 is framed as a test of faith and obedience whose underlying principles remain applicable beyond its original Israelite context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 445.239990234375,
-    "end_time": 520.760009765625
+    "end_time": 520.760009765625,
+    "point_summary": "The six years of sowing, pruning, and harvesting in verse 3 establish the pattern of faithful labor that frames the seventh-year Sabbath rest as an act of trust in God's provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 445.239990234375,
-    "end_time": 520.760009765625
+    "end_time": 520.760009765625,
+    "point_summary": "The seventh year's complete cessation of sowing, pruning, and reaping constituted a Sabbath belonging to the Lord, marking the land itself as subject to divine rest and ownership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1465.3400268554688,
-    "end_time": 1536.9400329589844
+    "end_time": 1536.9400329589844,
+    "point_summary": "God's omniscience—He knows what His people need before they ask—grounds the call to trust and obey the Sabbath-year command in Leviticus 25, and Israel's failure to do so meant missing the visible provision God had promised.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1538.1800231933594,
-    "end_time": 1605.4600219726562
+    "end_time": 1605.4600219726562,
+    "point_summary": "Israel's disobedience regarding the sabbath year brought the covenant judgment of scattering among the nations, the very consequence God warned would follow failure to keep His statutes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1538.1800231933594,
-    "end_time": 1605.4600219726562
+    "end_time": 1605.4600219726562,
+    "point_summary": "Israel's failure to observe the sabbatical year brought the judgment of exile, so that the land finally received by force the sabbaths it had been denied through disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1605.4600219726562,
-    "end_time": 1672.4200134277344
+    "end_time": 1672.4200134277344,
+    "point_summary": "Disobedience to the Sabbath-year law carried a covenant consequence: the land would receive its forfeited Sabbaths through Israel's exile, fulfilled literally in the seventy-year Babylonian captivity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -877,7 +1035,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1605.4600219726562,
-    "end_time": 1672.4200134277344
+    "end_time": 1672.4200134277344,
+    "point_summary": "Disobedience to the Sabbath-year law of Leviticus 25 carried real consequences—Israel's seventy-year Babylonian captivity was God's land receiving the Sabbaths they had withheld through generations of unfaithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -888,7 +1048,9 @@
     "is_implicit": true,
     "video_id": "jYY9hVx5xPY",
     "start_time": 1860.2199478149414,
-    "end_time": 1925.0599517822266
+    "end_time": 1925.0599517822266,
+    "point_summary": "Holiness as God's own character — \"be holy, for I am holy\" — grounds the call to upright behavior and good conscience that believers are to maintain in all manner of life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "KVAB3-ajXLM",
     "start_time": 1238.5800285339355,
-    "end_time": 1300.0600280761719
+    "end_time": 1300.0600280761719,
+    "point_summary": "The three Hebrews' refusal to bow was grounded not in emotion but in the explicit biblical command against idolatry, giving their stand the unchanging stability of divine principle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 771.5599822998047,
-    "end_time": 826.1999816894531
+    "end_time": 826.1999816894531,
+    "point_summary": "Leviticus 13–14's priestly regulations for diagnosing leprosy illuminate why Gehazi, described as \"white as snow,\" may paradoxically have been considered ceremonially clean under Mosaic law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 771.5599822998047,
-    "end_time": 826.1999816894531
+    "end_time": 826.1999816894531,
+    "point_summary": "Leviticus 13–14's priestly regulations for diagnosing leprosy illuminate why Gehazi, struck \"white as snow,\" may paradoxically have been considered ceremonially clean yet still under judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 826.1999816894531,
-    "end_time": 889.719970703125
+    "end_time": 889.719970703125,
+    "point_summary": "Leviticus 13:13's provision that a leper covered entirely in white is pronounced clean illuminates how Gehazi, though cursed with Naaman's leprosy, could still appear before the king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -943,7 +1113,9 @@
     "is_implicit": true,
     "video_id": "qnKUhM15Ycs",
     "start_time": 180.8800048828125,
-    "end_time": 243.67999267578125
+    "end_time": 243.67999267578125,
+    "point_summary": "Leviticus is introduced as the biblical locus where God addresses holy living and conduct pleasing to Him, set within a broader call to separation from surrounding wickedness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 442.55999755859375,
-    "end_time": 512.0800170898438
+    "end_time": 512.0800170898438,
+    "point_summary": "God's declaration \"I am the Lord your God\" in Leviticus 18:1 establishes divine authority as the foundational basis for the moral commands that follow, set against a backdrop of legislated wickedness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1109.9000244140625,
-    "end_time": 1184.1799926757812
+    "end_time": 1184.1799926757812,
+    "point_summary": "God's commands in Leviticus 18:4 carry binding authority because the one issuing them is the Creator of all things, whose position as Lord establishes his right to set the moral standard.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1109.9000244140625,
-    "end_time": 1184.1799926757812
+    "end_time": 1184.1799926757812,
+    "point_summary": "God's authority as Creator grounds his right to establish moral standards, with the repeated declaration \"I am the Lord your God\" in verse 5 reinforcing that his commands carry divine weight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1383.1400451660156,
-    "end_time": 1454.9000396728516
+    "end_time": 1454.9000396728516,
+    "point_summary": "Obeying God's commandments is presented as life-giving and advantageous, with \"he shall live in them\" grounding the call to delight in and meditate upon God's Word for our own good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1610.6200561523438,
-    "end_time": 1682.8600463867188
+    "end_time": 1682.8600463867188,
+    "point_summary": "Leviticus 18:3's contrast between \"their ordinances\" and God's ordinances (v. 4) grounds the call for God's people to resist cultural conformity in every generation, because God's Word is eternally relevant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1610.6200561523438,
-    "end_time": 1682.8600463867188
+    "end_time": 1682.8600463867188,
+    "point_summary": "God's ordinances in verse 4 stand in deliberate contrast to the pagan ordinances of verse 3, establishing that obedience belongs exclusively to what God commands, not to surrounding cultural norms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1020,7 +1204,9 @@
     "is_implicit": true,
     "video_id": "TljookEyMZU",
     "start_time": 889.8799743652344,
-    "end_time": 945.5399780273438
+    "end_time": 945.5399780273438,
+    "point_summary": "On the Day of Atonement the high priest exchanged his glorious garments for plain linen, a detail the sermon draws as a parallel to Christ setting aside his eternal glory in the incarnation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1031,7 +1217,9 @@
     "is_implicit": true,
     "video_id": "TljookEyMZU",
     "start_time": 889.8799743652344,
-    "end_time": 945.5399780273438
+    "end_time": 945.5399780273438,
+    "point_summary": "On the annual Day of Atonement, the high priest alone entered the holy of holies once a year with blood offered for himself and the people, a pattern Hebrews 9 connects to Christ's once-for-all atoning work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1042,7 +1230,9 @@
     "is_implicit": true,
     "video_id": "TljookEyMZU",
     "start_time": 889.8799743652344,
-    "end_time": 945.5399780273438
+    "end_time": 945.5399780273438,
+    "point_summary": "On the annual Day of Atonement, the high priest alone entered the Holy of Holies once a year with blood, a restriction that prefigures Christ's singular, atoning entrance into the true presence of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 1049.3800048828125,
-    "end_time": 1115.3800048828125
+    "end_time": 1115.3800048828125,
+    "point_summary": "Leviticus 25 is cited as the legal backdrop prohibiting Israelites from enslaving fellow Israelites, making the intended captivity of Judah a clear violation of God's own law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 915.3600158691406,
-    "end_time": 968.8000183105469
+    "end_time": 968.8000183105469,
+    "point_summary": "Leviticus 20:10 is cited as evidence that certain Mosaic offenses—adultery among them—carried a mandatory death penalty with no atoning sacrifice available, illustrating the severity invoked in Hebrews 10:28.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 968.8000183105469,
-    "end_time": 1027.4000244140625
+    "end_time": 1027.4000244140625,
+    "point_summary": "Leviticus 20:10 is cited to establish that adultery was a capital offense under Mosaic law—an offense for which no atoning sacrifice existed—providing the legal backdrop for John 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "U_xKQPutdso",
     "start_time": 2183.9199829101562,
-    "end_time": 2255.719970703125
+    "end_time": 2255.719970703125,
+    "point_summary": "The holiness of Scripture derives from its source — a holy God — as confirmed by the divine self-declaration \"I am holy\" found in Leviticus and echoed in 1 Peter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1097,7 +1295,9 @@
     "is_implicit": true,
     "video_id": "w5QN23P65Eg",
     "start_time": 1461.780029296875,
-    "end_time": 1528.1400451660156
+    "end_time": 1528.1400451660156,
+    "point_summary": "Nadab and Abihu's death for offering strange fire illustrates that God is holy and determines how he is to be worshiped — worship not offered on his terms is unacceptable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "XXBT17UK3Ck",
     "start_time": 625.400016784668,
-    "end_time": 686.2800140380859
+    "end_time": 686.2800140380859,
+    "point_summary": "The Day of Atonement ritual in Leviticus 16 is cited as the backdrop to Hebrews 10, demonstrating that the entire sacrificial system was inadequate—unable to remove sin, only to remember it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 0.0,
-    "end_time": 68.31999969482422
+    "end_time": 68.31999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 188.24000549316406,
-    "end_time": 243.55999755859375
+    "end_time": 243.55999755859375,
+    "point_summary": "The divine origin of the Sabbath-year command is underscored by its explicit attribution to God speaking at Sinai, distinguishing it as God's instruction rather than merely human leadership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 243.55999755859375,
-    "end_time": 316.6199951171875
+    "end_time": 316.6199951171875,
+    "point_summary": "God's word to Moses at Sinai concerning the Sabbath year is presented as divine instruction—not human leadership—establishing that the commands governing the land belong to God alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1273,7 +1503,9 @@
     "is_implicit": true,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 243.55999755859375,
-    "end_time": 316.6199951171875
+    "end_time": 316.6199951171875,
+    "point_summary": "Leviticus 25:1–7 establishes God's plan for the seventh-year Sabbath of the land, framing the entire passage as divine instruction—not human leadership—given to Israel upon entering Canaan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 243.55999755859375,
-    "end_time": 316.6199951171875
+    "end_time": 316.6199951171875,
+    "point_summary": "God's promise in the Sabbath-year legislation — \"I will command My blessing upon you\" — frames the entire message as a study of divine provision contingent on Israel's obedience and faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 316.6199951171875,
-    "end_time": 377.4200134277344
+    "end_time": 377.4200134277344,
+    "point_summary": "God's certainty in the phrase \"when ye come into the land\" — not \"if\" — is treated as a declaration of divine promise that Israel's entry was guaranteed, not conditional.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 452.6199951171875,
-    "end_time": 512.4199829101562
+    "end_time": 512.4199829101562,
+    "point_summary": "The six-year cycle of sowing, pruning, and gathering in Leviticus 25:3 establishes the normal pattern of agricultural labor that the seventh-year Sabbath rest then deliberately interrupts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 452.6199951171875,
-    "end_time": 512.4199829101562
+    "end_time": 512.4199829101562,
+    "point_summary": "The seventh year's Sabbath rest for the land extends the creation and weekly Sabbath pattern into an agricultural cycle, requiring Israel to cease sowing, pruning, and reaping as an act of covenant obedience to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 512.4199829101562,
-    "end_time": 580.219970703125
+    "end_time": 580.219970703125,
+    "point_summary": "The seventh year's Sabbath rest for the land mirrors the creation pattern and the weekly Sabbath, extending God's established rhythm of work and rest into Israel's agricultural calendar.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 512.4199829101562,
-    "end_time": 580.219970703125
+    "end_time": 580.219970703125,
+    "point_summary": "In the sabbatical year, even self-grown harvest was to go ungathered, extending the land's complete rest to every category of produce without exception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 512.4199829101562,
-    "end_time": 580.219970703125
+    "end_time": 580.219970703125,
+    "point_summary": "During the Sabbath year, whatever the land produces on its own is not wasted but designated as provision for all—servant, hired worker, stranger, and cattle alike.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 951.2999877929688,
-    "end_time": 1018.7799987792969
+    "end_time": 1018.7799987792969,
+    "point_summary": "Leviticus 25's land-use instructions, given during the wilderness years, illustrate that God was actively preparing Israel for future obedience before they ever entered the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1073.8999938964844,
-    "end_time": 1145.6199951171875
+    "end_time": 1145.6199951171875,
+    "point_summary": "God's preparation of Israel through the wilderness wanderings equipped them for the obedience required in the Sabbath-year instructions of Leviticus 25, illustrating how consistent daily time in God's Word prepares believers for future trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1073.8999938964844,
-    "end_time": 1145.6199951171875
+    "end_time": 1145.6199951171875,
+    "point_summary": "God's provision of manna during the wilderness wanderings prepared Israel to trust him in the obedience of the seventh-year sabbath rest commanded in Leviticus 25:1–7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1215.659990310669,
-    "end_time": 1295.3799896240234
+    "end_time": 1295.3799896240234,
+    "point_summary": "Obedience to God's statutes and judgments in the sabbath-year law carries the explicit promise of safety and provision, framing Leviticus 25:18 as the foundation for embracing God's covenant blessing over human anxiety about need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1405,7 +1659,9 @@
     "is_implicit": true,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1459.2599792480469,
-    "end_time": 1524.7799987792969
+    "end_time": 1524.7799987792969,
+    "point_summary": "God's promise to multiply the sixth-year harvest for three years demanded active faith that He would do exactly what He said, mirroring the same trust required with the manna.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1459.2599792480469,
-    "end_time": 1524.7799987792969
+    "end_time": 1524.7799987792969,
+    "point_summary": "Leviticus 25:22 illustrates that obeying God's sabbath-year command required active faith that His promised sixth-year blessing would sustain the people through years seven and eight until the eighth-year harvest came in.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1427,7 +1685,9 @@
     "is_implicit": true,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1459.2599792480469,
-    "end_time": 1524.7799987792969
+    "end_time": 1524.7799987792969,
+    "point_summary": "Observing the seventh-year sabbath of the land demanded active faith that God's commanded blessing in year six would supernaturally sustain Israel through years seven and eight without sowing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1602.8199768066406,
-    "end_time": 1677.47998046875
+    "end_time": 1677.47998046875,
+    "point_summary": "Israel's 70-year Babylonian exile is presented as the land's enforced collection of 490 years' worth of neglected Sabbath rests, demonstrating that God always fulfills His word when His people fail to trust and obey His plan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 1677.47998046875,
-    "end_time": 1752.3599853515625
+    "end_time": 1752.3599853515625,
+    "point_summary": "Israel's 490-year failure to observe the Sabbath year reveals that Leviticus 25 establishes a principle—not an agricultural mandate for today—that trusting and obeying God's plan brings His promised blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1460,7 +1724,9 @@
     "is_implicit": true,
     "video_id": "ZJOWWMF4BZE",
     "start_time": 310.239990234375,
-    "end_time": 371.8800048828125
+    "end_time": 371.8800048828125,
+    "point_summary": "God's holiness, repeatedly declared in Leviticus with the command \"be ye holy as I am holy,\" grounds the attitude of reverence that the word \"hallowed\" calls believers to bring into prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1471,7 +1737,9 @@
     "is_implicit": true,
     "video_id": "ZJOWWMF4BZE",
     "start_time": 371.8800048828125,
-    "end_time": 436.0
+    "end_time": 436.0,
+    "point_summary": "Leviticus's repeated command \"be ye holy as I am holy\" is cited as scriptural grounding for the holiness of God, establishing that prayer must be approached with reverence toward a holy Father.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1482,7 +1750,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1587.0799560546875,
-    "end_time": 1656.0799560546875
+    "end_time": 1656.0799560546875,
+    "point_summary": "Loving one's neighbor as oneself, cited as \"the royal law\" from Scripture, is presented as the divine standard that expels partiality and defines love as truth-giving rather than mere accommodation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1935.699951171875,
-    "end_time": 2000.3399505615234
+    "end_time": 2000.3399505615234,
+    "point_summary": "God's call to holiness in Leviticus 19:2 grounds the prohibition against partiality in verse 15, since a holy God who is no respecter of persons demands the same impartiality from His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1935.699951171875,
-    "end_time": 2000.3399505615234
+    "end_time": 2000.3399505615234,
+    "point_summary": "Leviticus 19:15 is cited as an Old Testament principle establishing that God's people must judge without partiality toward poor or powerful alike, grounding the command in God's own holy character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 515.0399780273438,
-    "end_time": 573.2000122070312
+    "end_time": 573.2000122070312,
+    "point_summary": "Leviticus 26 is cited to establish that famine as divine judgment is a biblical pattern predating Revelation, with God explicitly linking land's failed yield to covenantal disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 573.2000122070312,
-    "end_time": 648.8799705505371
+    "end_time": 648.8799705505371,
+    "point_summary": "Leviticus 26:20 is cited to establish that famine throughout Scripture signals divine judgment, with God sovereignly withholding harvest as a consequence of disobedience to his commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 573.2000122070312,
-    "end_time": 648.8799705505371
+    "end_time": 648.8799705505371,
+    "point_summary": "Leviticus 26:14 is cited as the conditional warning introducing God's covenant curses, establishing that famine is a direct consequence of disobedience and therefore an instrument of divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 648.8799705505371,
-    "end_time": 710.6799697875977
+    "end_time": 710.6799697875977,
+    "point_summary": "Leviticus 26:20 is read as God's covenant warning that withheld harvests are not agricultural failure but divine judgment on disobedience, establishing that famine reveals God's sovereign control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1559,7 +1841,9 @@
     "is_implicit": true,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 505.2200012207031,
-    "end_time": 580.4400024414062
+    "end_time": 580.4400024414062,
+    "point_summary": "The repeated Levitical command to pour the sacrificial blood at the base of the altar grounds the imagery of Revelation 6:9, where martyred souls appear \"under the altar\" — their shed blood locating them there.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1570,7 +1854,9 @@
     "is_implicit": true,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 505.2200012207031,
-    "end_time": 580.4400024414062
+    "end_time": 580.4400024414062,
+    "point_summary": "The repeated Old Testament command to pour blood at the altar's base (Lev. 4:7, 18, 25, 30) grounds the imagery of martyred souls appearing \"under the altar\" in Revelation 6:9, linking their shed blood to sacrificial offering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 505.2200012207031,
-    "end_time": 580.4400024414062
+    "end_time": 580.4400024414062,
+    "point_summary": "The repeated Old Testament prescription to pour blood at the base of the altar (Lev. 4:7, 18, 25, 30) grounds the imagery of martyred souls appearing \"under the altar\" in Revelation 6:9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "gJS2k2SH2Ko",
     "start_time": 505.2200012207031,
-    "end_time": 580.4400024414062
+    "end_time": 580.4400024414062,
+    "point_summary": "The repeated Levitical command to pour blood at the base of the altar grounds the imagery of martyred souls appearing \"under the altar\" in Revelation 6:9, connecting Old Testament sacrificial blood-placement to the location of the slain saints.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "CXZQVH0uWS0",
     "start_time": 705.7200012207031,
-    "end_time": 772.8800048828125
+    "end_time": 772.8800048828125,
+    "point_summary": "God's repeated command in Leviticus — \"Be holy, because I am holy\" — establishes the foundational character of God as holy, which James draws on to frame why God cannot be the source of sinful temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Leviticus",
@@ -1614,6 +1906,8 @@
     "is_implicit": true,
     "video_id": "CXZQVH0uWS0",
     "start_time": 772.8800048828125,
-    "end_time": 842.6399993896484
+    "end_time": 842.6399993896484,
+    "point_summary": "God's holiness—repeatedly declared in Leviticus as the basis for his command \"be holy\"—is the character trait James invokes to rule out any notion that God could be the source of evil temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 2224.1799926757812,
-    "end_time": 2281.3399963378906
+    "end_time": 2281.3399963378906,
+    "point_summary": "Mordecai's rebuke to Esther illustrates that divine deliverance is certain regardless of human cooperation, since God will accomplish His purposes through another means if necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 2281.3399963378906,
-    "end_time": 2337.02001953125
+    "end_time": 2337.02001953125,
+    "point_summary": "Mordecai's rebuke to Esther — that her palace position offered no exemption from danger and that God would raise up deliverance through another if she refused — frames the call to embrace one's God-appointed place and moment with purposeful confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 2281.3399963378906,
-    "end_time": 2337.02001953125
+    "end_time": 2337.02001953125,
+    "point_summary": "Mordecai's confidence that God would raise up deliverance from another place if Esther refused illustrates the sovereign providence underlying the call to embrace one's appointed moment and place.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1595.3199768066406,
-    "end_time": 1673.3599853515625
+    "end_time": 1673.3599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1739.3599853515625,
-    "end_time": 1807.8399629592896
+    "end_time": 1807.8399629592896,
+    "point_summary": "The king's discovery that Mordecai's loyalty went unrewarded sets in motion a divine reversal that ultimately exposes and destroys Haman, illustrating God's providential timing over those who threaten His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1739.3599853515625,
-    "end_time": 1807.8399629592896
+    "end_time": 1807.8399629592896,
+    "point_summary": "Haman's self-serving assumption that the king's honor was meant for him illustrates how pride blinds a man to his own impending judgment, with God's providence working unseen against him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -74,7 +86,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1739.3599853515625,
-    "end_time": 1807.8399629592896
+    "end_time": 1807.8399629592896,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -85,7 +99,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1867.8399658203125,
-    "end_time": 1937.5999603271484
+    "end_time": 1937.5999603271484,
+    "point_summary": "Esther's intercession before the king—weeping and pleading for her people facing a death decree—illustrates the burden believers should carry for those who will face coming tribulation judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1867.8399658203125,
-    "end_time": 1937.5999603271484
+    "end_time": 1937.5999603271484,
+    "point_summary": "Esther's tearful intercession before the king—driven by her inability to endure seeing her people destroyed—is held up as a model of the compassionate urgency believers should feel toward those who will face coming tribulation judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -107,7 +125,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1938.5999603271484,
-    "end_time": 2025.3399658203125
+    "end_time": 2025.3399658203125,
+    "point_summary": "Esther's tearful intercession — \"How can I endure to see the evil that shall come unto my people?\" — is held up as a model of grief-driven urgency for the unsaved, paralleling the stakes of coming prophetic judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 2086.6399536132812,
-    "end_time": 2166.419952392578
+    "end_time": 2166.419952392578,
+    "point_summary": "Esther's tearful intercession before the king illustrates the soul-burdened urgency believers should feel toward the lost who face coming tribulation judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 191.6999969482422,
-    "end_time": 254.86000061035156
+    "end_time": 254.86000061035156,
+    "point_summary": "Esther's tearful intercession before Ahasuerus — unable to endure seeing destruction come upon her people — is held up as a model of the urgency and compassion believers should feel toward the lost as tribulation judgment approaches.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 191.6999969482422,
-    "end_time": 254.86000061035156
+    "end_time": 254.86000061035156,
+    "point_summary": "Esther's tearful intercession before Ahasuerus — \"how can I endure to see the destruction of my kindred?\" — is cited as a model of the urgent compassion believers should feel toward the lost as tribulation judgment intensifies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 191.6999969482422,
-    "end_time": 254.86000061035156
+    "end_time": 254.86000061035156,
+    "point_summary": "Esther's tearful intercession before Ahasuerus — \"How can I endure to see the destruction of my kindred?\" — is cited to stir urgency and compassion for the lost in light of coming tribulation judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 254.86000061035156,
-    "end_time": 319.05999755859375
+    "end_time": 319.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 254.86000061035156,
-    "end_time": 319.05999755859375
+    "end_time": 319.05999755859375,
+    "point_summary": "Esther's cry—\"how can I endure to see the destruction of my kindred?\"—is used to call believers to compassionate urgency for the lost before the tribulation's judgments fall.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 254.86000061035156,
-    "end_time": 319.05999755859375
+    "end_time": 319.05999755859375,
+    "point_summary": "Esther 8:9's sweeping geographic reach—from India to Ethiopia, 127 provinces, every language—illustrates the urgency of getting a life-saving message out to every people without delay.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 319.05999755859375,
-    "end_time": 386.29998779296875
+    "end_time": 386.29998779296875,
+    "point_summary": "Esther 3:12 establishes the timeline of Haman's decree—issued the 13th day of the first month, with destruction set for the 13th of the twelfth—creating the urgent window within which the counter-decree of Esther 8 had to operate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 319.05999755859375,
-    "end_time": 386.29998779296875
+    "end_time": 386.29998779296875,
+    "point_summary": "Esther 3:12 marks the date of Haman's decree—the 13th day of the first month—establishing the timeline against which the urgency of the counter-decree in chapter 8 is measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 386.29998779296875,
-    "end_time": 455.9599914550781
+    "end_time": 455.9599914550781,
+    "point_summary": "Esther 3:13 establishes the date of the Jews' decreed destruction—the 13th day of the 12th month—creating the urgent eight-and-a-half-month window within which the counter-decree of Esther 8 had to reach all 127 provinces.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -228,7 +268,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 386.29998779296875,
-    "end_time": 455.9599914550781
+    "end_time": 455.9599914550781,
+    "point_summary": "The counter-decree of Esther 8, written on the 23rd day of the third month, left only roughly eight and a half months to reach 127 provinces spanning India to Ethiopia, demanding urgent action before the first decree's destruction date.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 455.9599914550781,
-    "end_time": 528.3400268554688
+    "end_time": 528.3400268554688,
+    "point_summary": "The counter-decree of Esther 8:13 illustrates the urgency required to warn all people across a vast empire before a fixed deadline of destruction arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 455.9599914550781,
-    "end_time": 528.3400268554688
+    "end_time": 528.3400268554688,
+    "point_summary": "The urgency embedded in Esther 8:14 — riders on mules and camels going out \"hastened and pressed\" — illustrates that the vast geographic scope of the Persian empire demanded immediate, relentless action to outrun a fixed deadline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -261,7 +307,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 455.9599914550781,
-    "end_time": 528.3400268554688
+    "end_time": 528.3400268554688,
+    "point_summary": "The urgency embedded in Esther 8:14 — riders on mules and camels going out \"hastened and pressed\" — illustrates that the vast geographic scope of the Persian empire demanded immediate, relentless action to outrun a fixed deadline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 591.3800048828125,
-    "end_time": 655.8999977111816
+    "end_time": 655.8999977111816,
+    "point_summary": "In contrast to the Esther narrative where a known calendar date drove urgent action, believers today face the doctrine of imminence—no fixed date—making gospel urgency all the more pressing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 2007.1399841308594,
-    "end_time": 2086.019989013672
+    "end_time": 2086.019989013672,
+    "point_summary": "The urgency of Esther's counter-decree—dispatched with haste against a fixed date of destruction—illustrates that knowledge of coming judgment must compel immediate action, not procrastination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 2007.1399841308594,
-    "end_time": 2086.019989013672
+    "end_time": 2086.019989013672,
+    "point_summary": "The decree of annihilation in Esther, with its fixed calendar date, illustrates the urgency that knowledge of coming judgment demands — leaving no room for procrastination in gospel witness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -305,7 +359,9 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 2007.1399841308594,
-    "end_time": 2086.019989013672
+    "end_time": 2086.019989013672,
+    "point_summary": "The 127 provinces under Haman's death decree illustrate the urgency that knowledge of a fixed, coming judgment demands — leaving no room for procrastination in response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 2086.019989013672,
-    "end_time": 2183.6599731445312
+    "end_time": 2183.6599731445312,
+    "point_summary": "Haman's decree against the Jews, with its fixed calendar date, illustrates the urgency that should mark believers who know prophetic judgment is coming and cannot afford to procrastinate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 997.3200378417969,
-    "end_time": 1060.5600280761719
+    "end_time": 1060.5600280761719,
+    "point_summary": "The urgency of delivering the counter-decree in Esther 8 to all 127 provinces before a fixed day of destruction illustrates the ambassador's urgency to publish the message of reconciliation before people enter eternity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 1060.5600280761719,
-    "end_time": 1128.2400512695312
+    "end_time": 1128.2400512695312,
+    "point_summary": "The urgency with which Mordecai's counter-decree was published and dispatched to 127 provinces illustrates the haste with which gospel ambassadors must carry the message of salvation to a lost world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Esther",
@@ -349,6 +411,8 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 1060.5600280761719,
-    "end_time": 1128.2400512695312
+    "end_time": 1128.2400512695312,
+    "point_summary": "The urgent, haste-driven delivery of the counter-decree to 127 provinces illustrates the urgency ambassadors of the gospel must have in publishing the message of reconciliation to a lost world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

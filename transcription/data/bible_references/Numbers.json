@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 172.27999877929688,
-    "end_time": 242.0399932861328
+    "end_time": 242.0399932861328,
+    "point_summary": "Israel's complaining displeased and angered God, and the sermon draws this as a warning that a fault-finding, discontented spirit is a universal human tendency, not merely an ancient Israelite failure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 172.27999877929688,
-    "end_time": 242.0399932861328
+    "end_time": 242.0399932861328,
+    "point_summary": "God's mercy is seen in Moses's intercessory prayer, which quenched the fire of divine judgment against the complaining Israelites, prompting gratitude that God is gracious and compassionate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 786.9999847412109,
-    "end_time": 843.2399749755859
+    "end_time": 843.2399749755859,
+    "point_summary": "Complaining is identified as a deeply ingrained human tendency, illustrated by Israel's repeated pattern of murmuring even after witnessing God's miraculous provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1095.9599914550781,
-    "end_time": 1165.0
+    "end_time": 1165.0,
+    "point_summary": "The Israelites' complaint in Numbers 21:4 exposes the self-contradicting irrationality of a complaining spirit: they claimed there was no bread, then in the same breath confessed they despised the miraculous manna God had already provided.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1165.0,
-    "end_time": 1232.1600036621094
+    "end_time": 1232.1600036621094,
+    "point_summary": "Complaining against God's provision is not merely ingratitude but a direct offense to God, as Numbers 11:1 explicitly states that the people's complaining displeased the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1232.1600036621094,
-    "end_time": 1297.2600021362305
+    "end_time": 1297.2600021362305,
+    "point_summary": "Complaining is identified as the specific cause of God's displeasure in Numbers 11:1, a tragedy confirmed by Paul's parallel warning against murmuring in 1 Corinthians 10:10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1297.2600021362305,
-    "end_time": 1361.1000061035156
+    "end_time": 1361.1000061035156,
+    "point_summary": "Complaining displeased the Lord and was heard by Him, making it a tragedy precisely because God perceives even what seems private or unspoken among His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1361.1000061035156,
-    "end_time": 1428.1399993896484
+    "end_time": 1428.1399993896484,
+    "point_summary": "Complaining displeases God and is never hidden from Him, for Numbers 11:1 declares both that it displeased the Lord and that the Lord heard it—making complaint a serious offense inviting divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1428.1399993896484,
-    "end_time": 1481.8999938964844
+    "end_time": 1481.8999938964844,
+    "point_summary": "Complaining among God's people is not a minor fault but a sin that historically provoked divine judgment—fire, plague, leprosy, and serpents—demonstrating that God hears and is angered by His people's complaints.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1428.1399993896484,
-    "end_time": 1481.8999938964844
+    "end_time": 1481.8999938964844,
+    "point_summary": "Complaining among Israel's wilderness generation repeatedly drew severe divine judgment, illustrated here by the earth swallowing the complainers in Numbers 16.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1428.1399993896484,
-    "end_time": 1481.8999938964844
+    "end_time": 1481.8999938964844,
+    "point_summary": "Numbers 12 is cited as one of several Old Testament examples demonstrating that complaining against God's appointed leadership brings severe divine judgment, here specifically Miriam's leprosy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1428.1399993896484,
-    "end_time": 1481.8999938964844
+    "end_time": 1481.8999938964844,
+    "point_summary": "Numbers 16 is cited as one of several Old Testament examples demonstrating that Israel's complaining provoked severe divine judgment—specifically, the earth opening and swallowing the complainers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1428.1399993896484,
-    "end_time": 1481.8999938964844
+    "end_time": 1481.8999938964844,
+    "point_summary": "Numbers 21 is cited as one of several Old Testament examples demonstrating that Israel's complaining provoked God's severe judgment—here, fiery serpents sent among the people, resulting in widespread death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1481.8999938964844,
-    "end_time": 1536.0400085449219
+    "end_time": 1536.0400085449219,
+    "point_summary": "God's judgment on Israel's complaining in Numbers 21 — fiery serpents that killed many — is cited as one of several severe Old Testament consequences meant to warn against a complaining spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "-sLfVr4caDI",
     "start_time": 1481.8999938964844,
-    "end_time": 1536.0400085449219
+    "end_time": 1536.0400085449219,
+    "point_summary": "The brazen serpent in Numbers 21:9 — where those bitten looked and lived — is cited as the resolution to divine judgment brought on by Israel's complaining, illustrating the mercy available even within severe consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 532.5800170898438,
-    "end_time": 599.3400268554688
+    "end_time": 599.3400268554688,
+    "point_summary": "The tribe of Reuben's only notable rise to leadership in Scripture is the catastrophic rebellion of Korah, fulfilling Jacob's prophecy that Reuben would be \"unstable as water\" and would not excel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "09KQDExB3yQ",
     "start_time": 599.3400268554688,
-    "end_time": 669.6199951171875
+    "end_time": 669.6199951171875,
+    "point_summary": "The sole notable leadership role of Reubenites in Scripture is the rebellion of Korah and his associates against Moses in Numbers 16—a catastrophic act of instability that cost thousands their lives and illustrates Jacob's prophecy that Reuben would not excel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 599.3400268554688,
-    "end_time": 669.6199951171875
+    "end_time": 669.6199951171875,
+    "point_summary": "The tribe of Reuben's choice to settle east of the Jordan, cited from Numbers 32, illustrates their pattern of settling for convenience rather than the inheritance God intended.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 931.2200012207031,
-    "end_time": 993.5799865722656
+    "end_time": 993.5799865722656,
+    "point_summary": "By the time of the second census in Numbers 26:14, the tribe of Simeon had dramatically declined from 59,300 to 22,200—a decrease of over 37,000—fulfilling Jacob's prophetic word that Simeon would be scattered in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "1tNRCH4gQSE",
     "start_time": 1559.1000366210938,
-    "end_time": 1623.0200500488281
+    "end_time": 1623.0200500488281,
+    "point_summary": "Numbers 20 is cited as background evidence of the longstanding hostility between Edomites and Israelites, illustrating the ancient enmity prophesied at the birth of Jacob and Esau.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "4j6miDNAqs4",
     "start_time": 167.16000366210938,
-    "end_time": 237.9600067138672
+    "end_time": 237.9600067138672,
+    "point_summary": "The star prophecy in Numbers 24 is acknowledged as background to the Magi's recognition of Christ's star, connected to their exposure to Hebrew Scripture through the Babylonian captivity, but left without exposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "7rseeVx8SA0",
     "start_time": 1031.6000061035156,
-    "end_time": 1090.1199951171875
+    "end_time": 1090.1199951171875,
+    "point_summary": "God's absolute faithfulness to fulfill every promise is grounded in the truth that He is not a man who lies, as confirmed by the resurrection's own testimony: \"as he said.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "7rseeVx8SA0",
     "start_time": 2187.0399780273438,
-    "end_time": 2255.5599975585938
+    "end_time": 2255.5599975585938,
+    "point_summary": "God's faithfulness to His word is absolute—because He is not a man who lies or repents, whatever He has spoken He will without fail make good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "8klBXE7J4Mg",
     "start_time": 628.5999774932861,
-    "end_time": 697.2399749755859
+    "end_time": 697.2399749755859,
+    "point_summary": "Israel's unbelief at Kadesh-barnea, illustrated by the ten spies' evil report in Numbers 14, is presented as the human limitation that delayed—but could not ultimately nullify—God's promise to bring his people into the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "9AqAnL77RLA",
     "start_time": 667.1600036621094,
-    "end_time": 729.4799957275391
+    "end_time": 729.4799957275391,
+    "point_summary": "The account of the twelve spies in Numbers 13–14 illustrates that people respond differently to adversity: ten were crushed by what they saw and lacked faith, while two trusted God's promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "9AqAnL77RLA",
     "start_time": 667.1600036621094,
-    "end_time": 729.4799957275391
+    "end_time": 729.4799957275391,
+    "point_summary": "The account of the twelve spies in Numbers 13–14 illustrates that people respond differently to adversity: ten were overcome by discouragement while two, Joshua and Caleb, trusted God's promise despite the same circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "9cUH_kdAYSs",
     "start_time": 1173.8599853515625,
-    "end_time": 1233.3400039672852
+    "end_time": 1233.3400039672852,
+    "point_summary": "Complaining—even about God's miraculous provision, as Israel did with the manna—displeases the Lord, making murmuring a sin no believer can claim exemption from.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 2603.9400177001953,
-    "end_time": 2668.3800048828125
+    "end_time": 2668.3800048828125,
+    "point_summary": "The presumptuous attempt by Israelites to enter Canaan after God withdrew His command—against Moses' warning—illustrates that acting without divine authorization is not faith but self-will, resulting in failure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1336.7200164794922,
-    "end_time": 1402.5600128173828
+    "end_time": 1402.5600128173828,
+    "point_summary": "The census count of Ephraim's tribe at 40,500 confirms that Jacob's deliberate crossing of hands to bless the younger over the older was genuine prophecy, not error.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1402.5600128173828,
-    "end_time": 1463.4800109863281
+    "end_time": 1463.4800109863281,
+    "point_summary": "The census count of Ephraim at 40,500—surpassing Manasseh's 32,200—confirms that Jacob's deliberate crossing of his hands to bless the younger was prophetically fulfilled in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1402.5600128173828,
-    "end_time": 1463.4800109863281
+    "end_time": 1463.4800109863281,
+    "point_summary": "Jacob's prophecy that Ephraim would surpass Manasseh is confirmed by the census numbers in Numbers 1, where Ephraim's tribe numbered 40,500 against Manasseh's 32,200.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1402.5600128173828,
-    "end_time": 1463.4800109863281
+    "end_time": 1463.4800109863281,
+    "point_summary": "Ephraim's census count of 40,500—surpassing Manasseh's 32,200 by 8,300—confirms that Jacob's crossed-hands blessing of the younger over the elder was genuine prophecy fulfilled in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 1402.5600128173828,
-    "end_time": 1463.4800109863281
+    "end_time": 1463.4800109863281,
+    "point_summary": "Numbers 2:18's census and camp arrangement confirm Jacob's prophetic blessing of Ephraim over Manasseh, with Ephraim's larger tribe (40,500 vs. 32,200) and leading position vindicating Jacob's deliberate crossing of hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "DFRdmeWDOAQ",
     "start_time": 1660.47998046875,
-    "end_time": 1734.3599853515625
+    "end_time": 1734.3599853515625,
+    "point_summary": "God's absolute faithfulness to every promise He has ever made is grounded in His nature as one who cannot lie, repent, or fail to accomplish what He has spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 220.66000366210938,
-    "end_time": 279.7799987792969
+    "end_time": 279.7799987792969,
+    "point_summary": "God's faithfulness as the ground of his promises is established by citing Numbers 23:19—that God cannot lie—making his character the very basis for the \"exceeding great and precious promises\" of 2 Peter 1:4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "eY8FG8i08DM",
     "start_time": 1896.7999954223633,
-    "end_time": 1982.479995727539
+    "end_time": 1982.479995727539,
+    "point_summary": "The wilderness test of Numbers 14—where Israel's unbelief drew God's lament, \"How long will it be ere they believe Me?\"—is presented as a mirror for examining whether believers today live by faith and obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "F4JChKWGeUg",
     "start_time": 711.2399749755859,
-    "end_time": 769.3199768066406
+    "end_time": 769.3199768066406,
+    "point_summary": "God's truthfulness—that He does not lie or deceive—is grounded in Numbers 23:19, invoked to counter the Assyrian letter's charge that Hezekiah's God would deceive him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 0.0,
-    "end_time": 53.29999923706055
+    "end_time": 53.29999923706055,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 116.27999877929688,
-    "end_time": 173.60000610351562
+    "end_time": 173.60000610351562,
+    "point_summary": "Numbers 21:1 frames the chapter's opening victory over King Arad as context for the striking contrast between Israel's triumphs and their subsequent failure and judgment in verses 4–9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 116.27999877929688,
-    "end_time": 173.60000610351562
+    "end_time": 173.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 116.27999877929688,
-    "end_time": 173.60000610351562
+    "end_time": 173.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 116.27999877929688,
-    "end_time": 173.60000610351562
+    "end_time": 173.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 116.27999877929688,
-    "end_time": 173.60000610351562
+    "end_time": 173.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 293.1600036621094,
-    "end_time": 353.4200134277344
+    "end_time": 353.4200134277344,
+    "point_summary": "Israel's discouragement arose not from the journey itself but from their resistance to the direction and path God was providing them, which the sermon identifies as the root cause of the problem that followed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 847.9399871826172,
-    "end_time": 909.8599853515625
+    "end_time": 909.8599853515625,
+    "point_summary": "God's provision in judgment — commanding Moses to raise a bronze serpent so that every bitten Israelite who looked upon it would live — reveals His grace and mercy operating even within His discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -503,7 +593,9 @@
     "is_implicit": true,
     "video_id": "Gq4udFRRS14",
     "start_time": 966.1599731445312,
-    "end_time": 1026.5799865722656
+    "end_time": 1026.5799865722656,
+    "point_summary": "The bronze serpent lifted on a pole in Numbers 21 is presented as a typological picture of Christ's substitutionary death, directly linked to Jesus' own words to Nicodemus in John 3:14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1026.5799865722656,
-    "end_time": 1090.3999938964844
+    "end_time": 1090.3999938964844,
+    "point_summary": "The bronze serpent lifted up in Numbers 21 is presented as a typological picture of Christ's substitutionary death on the cross, as Jesus himself draws the parallel in John 3:14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1155.1799926757812,
-    "end_time": 1222.3599853515625
+    "end_time": 1222.3599853515625,
+    "point_summary": "Israel's complaint in Numbers 21:5 was directed not only against God but against Moses personally, the faithful leader God had placed over them, illustrating the burden borne by those in God-appointed positions of authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1574.8599853515625,
-    "end_time": 1639.5
+    "end_time": 1639.5,
+    "point_summary": "God's answer to Moses' intercession in Numbers 21:8 was specific but not what the people requested—rather than removing the serpents, God provided a means of healing through looking upon the bronze serpent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1639.5,
-    "end_time": 1704.1999816894531
+    "end_time": 1704.1999816894531,
+    "point_summary": "God answered Moses's prayer not by removing the serpents as the people requested, but by giving specific, unexpected direction—a fiery serpent on a pole—demonstrating that He answers prayer on His own terms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1907.1600036621094,
-    "end_time": 1981.4800109863281
+    "end_time": 1981.4800109863281,
+    "point_summary": "Moses is commended by God himself as faithful \"in all mine house,\" a divine testimony the sermon holds up as the foundation for understanding Moses's immediate obedience and intercession throughout Numbers 21.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 1981.4800109863281,
-    "end_time": 2048.1200103759766
+    "end_time": 2048.1200103759766,
+    "point_summary": "God's designation of Moses as \"faithful in all mine house\" (Num. 12:7) is brought forward to identify faithfulness as the character quality underlying Moses's prompt obedience and his communication of God's message to the people in Numbers 21.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 2048.1200103759766,
-    "end_time": 2113.8399963378906
+    "end_time": 2113.8399963378906,
+    "point_summary": "Moses' faithfulness is demonstrated in his implied communication of God's command—that the bitten must look upon the bronze serpent to live—without which the people could not have known to look and been saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 2048.1200103759766,
-    "end_time": 2113.8399963378906
+    "end_time": 2113.8399963378906,
+    "point_summary": "Moses' obedience in making and lifting the brass serpent is presented as evidence of his faithfulness, since the people could only have known to look upon it because he communicated God's instruction to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -602,7 +710,9 @@
     "is_implicit": true,
     "video_id": "Gq4udFRRS14",
     "start_time": 2418.219995498657,
-    "end_time": 2498.2199935913086
+    "end_time": 2498.2199935913086,
+    "point_summary": "Moses' intercession and obedience in Numbers 21 are presented as the defining marks of faithfulness, illustrated through three Proverbs passages affirming that a faithful man is rare, refreshing, and abundantly blessed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -613,7 +723,9 @@
     "is_implicit": true,
     "video_id": "Gq4udFRRS14",
     "start_time": 2498.2199935913086,
-    "end_time": 2584.8399963378906
+    "end_time": 2584.8399963378906,
+    "point_summary": "Moses' intercession and obedience in Numbers 21 are presented as the pattern of faithfulness required of every believer—not unique to Moses, but universally expected in prayer, obedience, and stewardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "Gq4udFRRS14",
     "start_time": 2584.8399963378906,
-    "end_time": 2652.199981689453
+    "end_time": 2652.199981689453,
+    "point_summary": "Numbers 21 is presented as a universal pattern: Moses' intercession, obedience, and faithfulness are not unique to his calling but are three responses available to every believer regardless of their particular role.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "hFDkabxW6cU",
     "start_time": 1193.0599975585938,
-    "end_time": 1271.1800155639648
+    "end_time": 1271.1800155639648,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "hwLKY1FAuwU",
     "start_time": 2035.4199829101562,
-    "end_time": 2106.4199829101562
+    "end_time": 2106.4199829101562,
+    "point_summary": "Hidden sin is never truly concealed from God, as Numbers 32:23's warning — \"be sure your sin will find you out\" — is invoked alongside the examples of Rachel and Achan to underscore that God's omniscience exposes what men attempt to hide.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 508.05999755859375,
-    "end_time": 571.0399780273438
+    "end_time": 571.0399780273438,
+    "point_summary": "Choosing to believe the majority over God's word—illustrated by Israel's ten spies and their evil report—is framed as a recurring human failure that God never desired.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 508.05999755859375,
-    "end_time": 571.0399780273438
+    "end_time": 571.0399780273438,
+    "point_summary": "Faced with conflicting reports from the twelve spies, Israel chose to believe the majority's evil report rather than God, establishing the same pattern of misplaced trust the centurion repeats in Acts 27.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 778.5600280761719,
-    "end_time": 851.6000213623047
+    "end_time": 851.6000213623047,
+    "point_summary": "Despite witnessing repeated miraculous provision, Israel responded to the spies' evil report in Numbers 13 by rejecting God's demonstrated faithfulness and threatening to stone those who urged trust in Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 778.5600280761719,
-    "end_time": 851.6000213623047
+    "end_time": 851.6000213623047,
+    "point_summary": "Caleb and Joshua's appeal in Numbers 14:7–9 frames the promised land as attainable not by Israel's strength but by the Lord's delight and presence, making the people's rebellion a failure of belief rather than circumstance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2498.4800415039062,
-    "end_time": 2590.4800415039062
+    "end_time": 2590.4800415039062,
+    "point_summary": "God's patience with unbelief is pressed into urgent personal application through Numbers 14:11's question — \"How long will it be ere my people believe me?\" — as a warning against 2021 Christians failing to trust a God who has repeatedly proven Himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "J-kYeBGCnXc",
     "start_time": 1014.719970703125,
-    "end_time": 1076.8799743652344
+    "end_time": 1076.8799743652344,
+    "point_summary": "Numbers 3–4 establishes that the Levitical priesthood was divinely restricted by tribe and lineage, so that no one could assume the priestly office apart from God's specific appointment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "J-kYeBGCnXc",
     "start_time": 1014.719970703125,
-    "end_time": 1076.8799743652344
+    "end_time": 1076.8799743652344,
+    "point_summary": "Numbers 3–4 establishes that priestly lineage was divinely fixed to the tribe of Levi, so that even Levites outside the Aaronic line were excluded from the priesthood—a pattern underscoring that no man takes this honor to himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "J-kYeBGCnXc",
     "start_time": 1076.8799743652344,
-    "end_time": 1142.6199951171875
+    "end_time": 1142.6199951171875,
+    "point_summary": "Numbers 16 is cited as a negative example demonstrating that the priestly office required divine appointment, not self-selection — Korah's rebellion and its judgment by God illustrating the consequence of assuming a role one was not ordained to fill.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 184.16000366210938,
-    "end_time": 247.1199951171875
+    "end_time": 247.1199951171875,
+    "point_summary": "God's repeated, sign-accompanied faithfulness to Israel still failed to produce belief, illustrating that a lack of faith is not merely a practical failure but an affront to God that He directly questions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 510.8599853515625,
-    "end_time": 575.4000244140625
+    "end_time": 575.4000244140625,
+    "point_summary": "Balaam's counsel in Numbers 31:16, by which Israel was led into self-corruption rather than direct cursing, illustrates how the enemy escalates deception when outright opposition fails to stop God's work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "jRZn5p4HETY",
     "start_time": 744.5000152587891,
-    "end_time": 812.9000244140625
+    "end_time": 812.9000244140625,
+    "point_summary": "Numbers 22–25 is introduced as the background narrative where Balaam, hired to curse Israel, instead blesses them—establishing the context for understanding the \"doctrine of Balaam\" condemned in Revelation 2:14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 744.5000152587891,
-    "end_time": 812.9000244140625
+    "end_time": 812.9000244140625,
+    "point_summary": "The \"doctrine of Balaam\" condemned in Revelation 2:14 is traced to Numbers 25, where the strategy Balaam taught Balak—leading Israel into idolatry and fornication—is shown in its actual historical outworking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 812.9000244140625,
-    "end_time": 884.1200256347656
+    "end_time": 884.1200256347656,
+    "point_summary": "Numbers 25:1 is read as the historical record of Israel's sexual immorality and idolatry with Moab—the outcome the sermon identifies as what the \"doctrine of Balaam\" actually produced in practice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 812.9000244140625,
-    "end_time": 884.1200256347656
+    "end_time": 884.1200256347656,
+    "point_summary": "Numbers 25:2 is read as the historical record of Israel's sin — sexual immorality and idolatrous worship with Moabite women — which the sermon identifies as the outworking of Balaam's counsel before that counsel is explicitly named in Numbers 31.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 812.9000244140625,
-    "end_time": 884.1200256347656
+    "end_time": 884.1200256347656,
+    "point_summary": "Israel's joining to Baal-Peor through sexual immorality and idolatry (Num. 25:1–3) is presented as the historical content of the \"doctrine of Balaam\" condemned in the letter to Pergamos.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 884.1200256347656,
-    "end_time": 957.6400146484375
+    "end_time": 957.6400146484375,
+    "point_summary": "Balak's fury at Balaam in Numbers 24:10 sets the narrative tension that makes Israel's sudden fall into idolatry and whoredom in chapter 25 so jarring, pointing the reader toward Balaam's hidden counsel as the explanation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 884.1200256347656,
-    "end_time": 957.6400146484375
+    "end_time": 957.6400146484375,
+    "point_summary": "Numbers 31:15–16 reveals that Balaam, unable to curse Israel directly, instead counseled Balak to use Moabite women to seduce Israel into idolatry and sexual sin, explaining the otherwise puzzling events of Numbers 25.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 958.5400085449219,
-    "end_time": 1034.3800048828125
+    "end_time": 1034.3800048828125,
+    "point_summary": "Numbers 31:16 is cited to establish that Balaam's strategy was not direct cursing but corrupting counsel—leading Israel into compromise so that the resulting judgment functioned as the curse he could not pronounce directly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "jRZn5p4HETY",
     "start_time": 958.5400085449219,
-    "end_time": 1034.3800048828125
+    "end_time": 1034.3800048828125,
+    "point_summary": "Numbers 25:1 anchors the argument that Israel's fall into whoredom and idolatry was not the result of a direct curse but of Balaam's counsel to corrupt the people through compromise, which then brought the curse upon them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 1036.5800170898438,
-    "end_time": 1109.2400207519531
+    "end_time": 1109.2400207519531,
+    "point_summary": "Because God's blessing on his people cannot be overturned by a curse, the enemy's strategy—illustrated by Balaam's counsel in Numbers 25—is to corrupt them into sin, which forfeits that blessing and invites divine judgment instead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 314.4599914550781,
-    "end_time": 372.260009765625
+    "end_time": 372.260009765625,
+    "point_summary": "Israel's faithlessness at Kadesh-barnea, contrasted with Caleb and Joshua's confident trust in God's promise, illustrates the spectrum between great faith and no faith that the sermon traces across Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 314.4599914550781,
-    "end_time": 372.260009765625
+    "end_time": 372.260009765625,
+    "point_summary": "Faith's presence or absence is illustrated by contrasting the believing reports of Caleb and Joshua with the fearful majority in Numbers 13, as a backdrop to God's rebuke in Numbers 14:11 about Israel's unbelief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 372.260009765625,
-    "end_time": 441.1400146484375
+    "end_time": 441.1400146484375,
+    "point_summary": "God's repeated signs among Israel make their unbelief a personal affront to him, illustrating that persistent doubt provokes the Lord who has already proven himself trustworthy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1204.259978055954,
-    "end_time": 1282.3799743652344
+    "end_time": 1282.3799743652344,
+    "point_summary": "Unbelief carries severe consequences, as Numbers 14 shows Israel forfeiting the promised land through faithlessness, while Joshua and Caleb alone were spared—yet still delayed forty years by the nation's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1204.259978055954,
-    "end_time": 1282.3799743652344
+    "end_time": 1282.3799743652344,
+    "point_summary": "Unbelief carries severe consequences: those who provoked God at Kadesh were barred from the Promised Land entirely, dying in the wilderness rather than inheriting what God had sworn to their fathers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -932,7 +1100,9 @@
     "is_implicit": true,
     "video_id": "KNJW7jy8zDg",
     "start_time": 441.44000244140625,
-    "end_time": 504.67999267578125
+    "end_time": 504.67999267578125,
+    "point_summary": "Israel's failure at Kadesh-Barnea (Numbers 13–14), where ten spies returned an evil report rooted in unbelief, illustrates the Hebrews warning that hearing God's word without faith renders it unprofitable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -943,7 +1113,9 @@
     "is_implicit": true,
     "video_id": "KNJW7jy8zDg",
     "start_time": 441.44000244140625,
-    "end_time": 504.67999267578125
+    "end_time": 504.67999267578125,
+    "point_summary": "Israel's failure at Kadesh-Barnea (Numbers 13–14), cited in Hebrews 3–4, illustrates the danger of hearing God's word without mixing it with faith, serving as the backdrop for the second major warning passage.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 0.0,
-    "end_time": 73.80000305175781
+    "end_time": 73.80000305175781,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -965,7 +1139,9 @@
     "is_implicit": true,
     "video_id": "LgYZtFLVeXk",
     "start_time": 1954.0800170898438,
-    "end_time": 2019.52001953125
+    "end_time": 2019.52001953125,
+    "point_summary": "Murmuring against God's provision — illustrated by Israel's complaint about manna in Numbers 21:5 — is presented as sin that displeased God and provoked divine judgment, warning believers that God hears complaints as surely as He hears praise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "LgYZtFLVeXk",
     "start_time": 1954.0800170898438,
-    "end_time": 2019.52001953125
+    "end_time": 2019.52001953125,
+    "point_summary": "Murmuring and complaining displeased God and provoked His judgment against Israel, serving as a warning that God hears complaints just as He hears praise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1899.3600158691406,
-    "end_time": 1960.9200134277344
+    "end_time": 1960.9200134277344,
+    "point_summary": "Moses interceding for Israel after the rebellion against Joshua and Caleb is cited as a biblical model of praying on behalf of others rather than oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -998,7 +1178,9 @@
     "is_implicit": true,
     "video_id": "MyCOoL7O768",
     "start_time": 519.02001953125,
-    "end_time": 583.7000122070312
+    "end_time": 583.7000122070312,
+    "point_summary": "Numbers 25:1 is brought forward as the Old Testament backdrop to the \"doctrine of Balaam,\" showing that the sins of fornication and idolatry condemned in Thyatira had a precise historical precedent in Israel's corruption at Shittim.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 583.7000122070312,
-    "end_time": 655.1799812316895
+    "end_time": 655.1799812316895,
+    "point_summary": "Numbers 25:1 illustrates the doctrine of Balaam: though Israel could not be cursed directly, Balaam's counsel led them to corrupt themselves through fornication and idolatry, bringing God's judgment upon them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 720.1799850463867,
-    "end_time": 782.8599853515625
+    "end_time": 782.8599853515625,
+    "point_summary": "Phinehas's violent intervention against brazen covenant-breaking in Numbers 25:6 illustrates that God's judgment on unrepentant sin, though sometimes delayed, is both certain and severe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 720.1799850463867,
-    "end_time": 782.8599853515625
+    "end_time": 782.8599853515625,
+    "point_summary": "Phinehas's zealous act of judgment against Israel's sexual and idolatrous sin at Baal-peor illustrates that God's judgment on unrepentant corruption is both certain and severe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 720.1799850463867,
-    "end_time": 782.8599853515625
+    "end_time": 782.8599853515625,
+    "point_summary": "Phinehas's act of zealous judgment that stopped the plague—resulting in twenty-four thousand dead—illustrates that God's judgment on unrepentant sin is both certain and severe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 720.1799850463867,
-    "end_time": 782.8599853515625
+    "end_time": 782.8599853515625,
+    "point_summary": "The death toll of twenty-four thousand in the plague at Baal-peor illustrates that God's judgment on sexual immorality and idolatry is both certain and severe, a pattern the sermon applies directly to the church at Thyatira.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Moses quotes God's own self-description of long-suffering and great mercy alongside justice as the theological ground on which the intercessory plea of verse 19 is built.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Moses's intercessory plea in Numbers 14:19 grounds the appeal for pardon not in Israel's merit but explicitly in the greatness of God's mercy, a phrase the sermon takes as its governing title and year-long theological theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 0.0,
-    "end_time": 60.20000076293945
+    "end_time": 60.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 127.63999938964844,
-    "end_time": 190.32000732421875
+    "end_time": 190.32000732421875,
+    "point_summary": "Moses's intercession in Numbers 14 appeals specifically to the greatness of God's mercy as the ground for pardoning Israel's unbelief after the ten spies brought an evil report from Canaan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 127.63999938964844,
-    "end_time": 190.32000732421875
+    "end_time": 190.32000732421875,
+    "point_summary": "In Numbers 13, the twelve spies were commissioned not to assess whether Israel could conquer Canaan but simply to bring back a report, yet ten returned with an evil report of walled cities and formidable defenses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "N3xsGpOdIxU",
     "start_time": 190.32000732421875,
-    "end_time": 260.9599914550781
+    "end_time": 260.9599914550781,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 326.6400146484375,
-    "end_time": 399.8399963378906
+    "end_time": 399.8399963378906,
+    "point_summary": "Israel's rejection of Caleb and Joshua's faithful report—culminating in the threat to stone them—provokes God's direct rebuke that his people refused to believe him despite all the signs he had shown them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 326.6400146484375,
-    "end_time": 399.8399963378906
+    "end_time": 399.8399963378906,
+    "point_summary": "Despite all the signs God had shown Israel — from Egypt through the Red Sea — their refusal to trust his promise provoked him, exposing unbelief as the root of their rebellion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 978.6200256347656,
-    "end_time": 1054.7400207519531
+    "end_time": 1054.7400207519531,
+    "point_summary": "In Numbers 14, Moses' intercession is grounded in deliberate recollection of God's previously revealed character—specifically the self-proclamation of Exodus 34—as the basis for appealing to divine mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 1182.7000122070312,
-    "end_time": 1244.0400390625
+    "end_time": 1244.0400390625,
+    "point_summary": "In Numbers 14, Moses' intercession succeeds because he recalls what God had previously revealed—demonstrating that effective prayer depends on being a student of Scripture, since one cannot recall what one does not know.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 1774.0400390625,
-    "end_time": 1854.7800407409668
+    "end_time": 1854.7800407409668,
+    "point_summary": "God's response to Moses' intercession in Numbers 14:20 is presented as the direct, gracious answer to a bold, undeserved request for pardon grounded solely in divine mercy, not human merit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1262,7 +1490,9 @@
     "is_implicit": true,
     "video_id": "N3xsGpOdIxU",
     "start_time": 2401.9400634765625,
-    "end_time": 2496.5600662231445
+    "end_time": 2496.5600662231445,
+    "point_summary": "In Numbers 14, Moses stands as an intercessor between a rebellious people and God, illustrating that divine mercy withholds deserved judgment — a pattern the sermon connects to God's saving grace in the New Testament.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 865.3999938964844,
-    "end_time": 931.3999938964844
+    "end_time": 931.3999938964844,
+    "point_summary": "Numbers 24 is cited briefly as the Old Testament source behind the star that the wise men followed, without further exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1284,7 +1516,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 2080.199981689453,
-    "end_time": 2160.7999877929688
+    "end_time": 2160.7999877929688,
+    "point_summary": "Doubt is identified as a primary hindrance to forward obedience, grounded in God's own question to Moses in Numbers 14 — \"How long will it be, are my people believe me?\" — as evidence that God desires faith, not doubt, from His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1295,7 +1529,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 2230.679962158203,
-    "end_time": 2288.679962158203
+    "end_time": 2288.679962158203,
+    "point_summary": "Israel's failure at Kadesh-barnea illustrates how unbelief and the influence of a fearful majority report can prevent God's people from going forward in obedience to His direct command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1306,7 +1542,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 2230.679962158203,
-    "end_time": 2288.679962158203
+    "end_time": 2288.679962158203,
+    "point_summary": "When God commands forward movement, the influence of fearful voices — like the ten spies' evil report — must yield to the obedient faith of those who trust the command regardless of visible obstacles.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1317,7 +1555,9 @@
     "is_implicit": true,
     "video_id": "PgcjaAnGexU",
     "start_time": 2230.679962158203,
-    "end_time": 2288.679962158203
+    "end_time": 2288.679962158203,
+    "point_summary": "Israel's failure to go forward into Canaan illustrates how the influence of fearful, doubting voices can override God's direct command to advance in obedience and faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "PVuTDINYjgU",
     "start_time": 573.0999755859375,
-    "end_time": 635.2000122070312
+    "end_time": 635.2000122070312,
+    "point_summary": "Israel's catastrophic fall into fornication at Shittim (Numbers 25), costing 23,000 lives in a single day, is cited as a historical warning against sexual sin that believers must heed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1339,7 +1581,9 @@
     "is_implicit": true,
     "video_id": "PVuTDINYjgU",
     "start_time": 694.3200073242188,
-    "end_time": 754.47998046875
+    "end_time": 754.47998046875,
+    "point_summary": "Israel's murmuring against God's provision in Numbers 21—resulting in destruction by fiery serpents—is identified as tempting Christ, meaning they put God's character and power to proof by challenging His gracious provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "PVuTDINYjgU",
     "start_time": 754.47998046875,
-    "end_time": 818.47998046875
+    "end_time": 818.47998046875,
+    "point_summary": "Israel's murmuring against Moses and God in Numbers 21 — complaining about the manna and questioning the exodus — is identified as tempting Christ by putting God's character and power to proof.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1361,7 +1607,9 @@
     "is_implicit": true,
     "video_id": "PVuTDINYjgU",
     "start_time": 818.47998046875,
-    "end_time": 877.6400146484375
+    "end_time": 877.6400146484375,
+    "point_summary": "Numbers 16 is identified as the likely background for the warning against murmuring in 1 Corinthians 10:10, illustrating that Israel's chronic complaining challenged the very goodness and character of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 845.0200042724609,
-    "end_time": 917.1399841308594
+    "end_time": 917.1399841308594,
+    "point_summary": "The irony that Jericho's pagan inhabitants trembled at God's mighty acts while Israel's own people refused to believe—prompting God's rebuke in Numbers 14—sharpens the call for believers to respond to God's works with faith rather than fear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1383,7 +1633,9 @@
     "is_implicit": true,
     "video_id": "qXJTL7gNqeA",
     "start_time": 800.8399810791016,
-    "end_time": 863.7999877929688
+    "end_time": 863.7999877929688,
+    "point_summary": "God's promises are only as trustworthy as the one who makes them, and because God is not a man that He should lie, His promises can be fully trusted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1716.2000122070312,
-    "end_time": 1785.0399780273438
+    "end_time": 1785.0399780273438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1785.0399780273438,
-    "end_time": 1847.4399871826172
+    "end_time": 1847.4399871826172,
+    "point_summary": "Numbers 35:9–14 is cited to show that God's foundational principle against murder in Genesis 9 was later refined through the cities of refuge, which distinguished accidental killing from intentional murder pending judgment before the congregation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1847.4399871826172,
-    "end_time": 1908.1399841308594
+    "end_time": 1908.1399841308594,
+    "point_summary": "Numbers 35:14 establishes the geographic distribution of the six cities of refuge—three on each side of the Jordan—available to Israelites, strangers, and sojourners who kill someone unawares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1908.1399841308594,
-    "end_time": 1968.2999877929688
+    "end_time": 1968.2999877929688,
+    "point_summary": "Intentional use of a deadly weapon — even a thrown stone — constitutes murder under Mosaic law, grounding the death penalty in the Genesis 9 mandate given to Noah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1908.1399841308594,
-    "end_time": 1968.2999877929688
+    "end_time": 1968.2999877929688,
+    "point_summary": "Striking with a hand weapon of wood that results in death constitutes murder under Mosaic law, grounded in the capital-punishment mandate God established with Noah in Genesis 9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1272.8200225830078,
-    "end_time": 1348.3200225830078
+    "end_time": 1348.3200225830078,
+    "point_summary": "God's question to Moses in Numbers 14:11 — \"How long will it be ere My people believe Me?\" — is cited to show that despite overwhelming evidence of His faithfulness, Israel still doubted, underscoring the call to trust God at all times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1143.0400390625,
-    "end_time": 1200.239990234375
+    "end_time": 1200.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1143.0400390625,
-    "end_time": 1200.239990234375
+    "end_time": 1200.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1482,7 +1750,9 @@
     "is_implicit": true,
     "video_id": "v93DvI0bY10",
     "start_time": 1395.0400085449219,
-    "end_time": 1457.6000061035156
+    "end_time": 1457.6000061035156,
+    "point_summary": "God's immutability and inability to lie—anchored in Numbers 23:19's declaration that God is not a man who should lie—are presented as the twin foundations confirming the surety of his covenant promises.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 1873.400016784668,
-    "end_time": 1930.8400115966797
+    "end_time": 1930.8400115966797,
+    "point_summary": "Numbers 20 is cited as the first in a series of historical disputes between Israel and Edom, tracing the ancient sibling rivalry—rooted in the womb struggle of Jacob and Esau—into the wilderness period, where Israel's reasonable request for passage was refused.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 1873.400016784668,
-    "end_time": 1930.8400115966797
+    "end_time": 1930.8400115966797,
+    "point_summary": "Numbers 14 is referenced only as background context establishing Israel's prior disobedience before the Numbers 20 dispute with Edom, without further exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 1873.400016784668,
-    "end_time": 1930.8400115966797
+    "end_time": 1930.8400115966797,
+    "point_summary": "Numbers 20:14 introduces the first of several historical disputes between Israel and Edom, illustrating how the ancient struggle between Jacob and Esau continued through their descendants as nations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1526,7 +1802,9 @@
     "is_implicit": true,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 1930.8400115966797,
-    "end_time": 1981.2200164794922
+    "end_time": 1981.2200164794922,
+    "point_summary": "Numbers 20:14–18 is read to show that Israel's humble, non-intrusive request for passage through Edom was met with a hostile refusal, illustrating the deep-seated animosity the descendants of Esau bore toward the descendants of Jacob.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1537,7 +1815,9 @@
     "is_implicit": true,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 1930.8400115966797,
-    "end_time": 1981.2200164794922
+    "end_time": 1981.2200164794922,
+    "point_summary": "Israel's modest, non-intrusive request to pass through Edom's territory along the king's highway was met with a hostile refusal, revealing the deep ancestral animosity between Esau's descendants and Jacob's.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2201.9400024414062,
-    "end_time": 2265.3800048828125
+    "end_time": 2265.3800048828125,
+    "point_summary": "Obadiah's indictment against Edom traces directly back to the Numbers 20 incident, where Edom refused Israel passage, establishing the foundational offense underlying all subsequent prophetic judgment against Esau's descendants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1559,7 +1841,9 @@
     "is_implicit": true,
     "video_id": "XvhHqfgy1Xg",
     "start_time": 945.8400268554688,
-    "end_time": 1032.8400268554688
+    "end_time": 1032.8400268554688,
+    "point_summary": "Israel's complaint against the manna in Numbers 11 is cited as a warning that God does not hold innocent those who despise his faithful, daily provision even amid hardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1550.7200317382812,
-    "end_time": 1612.6000366210938
+    "end_time": 1612.6000366210938,
+    "point_summary": "Israel's failure at Kadesh-barnea illustrates that the problem was not the absence of God's word or faithful preaching, but the hearers' refusal to receive what was plainly declared to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "yKUQA_1zUE4",
     "start_time": 2284.8400268554688,
-    "end_time": 2367.6000366210938
+    "end_time": 2367.6000366210938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "5A_N3nhEQeU",
     "start_time": 529.0,
-    "end_time": 596.0
+    "end_time": 596.0,
+    "point_summary": "Moses's intercession in Numbers 14 is cited as evidence that God's mercy endures forever, even when His people doubt and refuse to advance, nearly provoking His judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "5A_N3nhEQeU",
     "start_time": 529.0,
-    "end_time": 596.0
+    "end_time": 596.0,
+    "point_summary": "God's enduring mercy is the very attribute Moses appealed to when interceding for Israel after their unbelief at the border of Canaan, demonstrating that this mercy is not abstract but proven in history's darkest moments of failure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "5A_N3nhEQeU",
     "start_time": 596.0,
-    "end_time": 673.3199996948242
+    "end_time": 673.3199996948242,
+    "point_summary": "Moses's intercessory prayer in Numbers 14:17, pleading that God's power be shown through His long-suffering and great mercy, illustrates the enduring mercy that grounds the psalmist's praise in Psalm 118.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1625,7 +1919,9 @@
     "is_implicit": true,
     "video_id": "5A_N3nhEQeU",
     "start_time": 596.0,
-    "end_time": 673.3199996948242
+    "end_time": 673.3199996948242,
+    "point_summary": "Moses's intercessory plea in Numbers 14:17—begging God to act according to His own declared character as long-suffering and of great mercy—illustrates why God's mercy endures forever and why His people have perpetual cause for praise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 61.279998779296875,
-    "end_time": 121.26000213623047
+    "end_time": 121.26000213623047,
+    "point_summary": "God's displeasure when his people complain, as recorded in Numbers 11:1, is set against the biblical call to thankfulness, with the text cited to show that complaining is sin, not merely weakness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1791.080078125,
-    "end_time": 1862.5600662231445
+    "end_time": 1862.5600662231445,
+    "point_summary": "Joshua's courage in Numbers 13, when he refused to deny the giants and walled cities yet declared \"our God is able,\" is presented as the same faith now sustained by God's renewed promise of presence at the opening of his leadership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1791.080078125,
-    "end_time": 1862.5600662231445
+    "end_time": 1862.5600662231445,
+    "point_summary": "Joshua and Caleb's minority report in Numbers 13–14 is held up as the model of faith that acknowledges real dangers—walled cities, giants, sons of Anak—while maintaining that God's presence makes him able to overcome them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 1376.0800170898438,
-    "end_time": 1436.7200164794922
+    "end_time": 1436.7200164794922,
+    "point_summary": "Old Testament priests served the Lord in the tabernacle and temple, and the Levitical model in Numbers 18 is introduced to illuminate what it means for believers, as a royal priesthood, to serve the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 1569.1600036621094,
-    "end_time": 1638.0400085449219
+    "end_time": 1638.0400085449219,
+    "point_summary": "Priestly service in the tabernacle was restricted by birth into the tribe of Levi, illustrating that only those born into God's family—as New Testament believers are through regeneration—can truly serve Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Only those born into the priesthood could lawfully serve at the sanctuary; the Levitical warning that \"a stranger shall not come nigh\" illustrates that true service requires the right standing before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Priestly service in the Old Testament was restricted to those set apart by God, illustrating that true service to the Lord requires being born into the right standing before Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1713,7 +2023,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Priestly service in the tabernacle was a gift given exclusively to Aaron's line, and any unauthorized person—however powerful—who drew near was subject to death, illustrating that true service to God requires proper standing before Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Priestly service belongs only to those divinely appointed to it, as the Levites were given as a gift to God for tabernacle service, and no unauthorized person—however prominent—may approach without consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1638.0400085449219,
-    "end_time": 1706.4800109863281
+    "end_time": 1706.4800109863281,
+    "point_summary": "Priestly service belongs exclusively to those appointed by God, and the unauthorized—however powerful or well-intentioned—have no right to approach what God has reserved for his ordained ministers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 1706.4800109863281,
-    "end_time": 1774.1600341796875
+    "end_time": 1774.1600341796875,
+    "point_summary": "Numbers 18's strict boundaries on priestly office — illustrated by Uzziah's leprosy for unauthorized altar service — point forward to Christ as the true High Priest after the order of Melchizedek, not Aaron.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "Sv5lMw8-UoQ",
     "start_time": 775.6400146484375,
-    "end_time": 844.6000213623047
+    "end_time": 844.6000213623047,
+    "point_summary": "Numbers 14's account of Israel's unbelief is invoked as a negative counterpart to Eleazar's faith-filled prayer, illustrating that prayerless unbelief forfeits God's mighty works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Numbers",
@@ -1768,6 +2088,8 @@
     "is_implicit": false,
     "video_id": "E31QXOicGRA",
     "start_time": 1931.0399780273438,
-    "end_time": 1993.9199829101562
+    "end_time": 1993.9199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1204.5999755859375,
-    "end_time": 1259.720012664795
+    "end_time": 1259.720012664795,
+    "point_summary": "God's direct word and call to Jonah (\"the Word of the Lord came unto him\") establishes him as a genuine prophet who was commissioned as a missionary to Nineveh yet chose disobedient flight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1324.4400100708008,
-    "end_time": 1382.4800109863281
+    "end_time": 1382.4800109863281,
+    "point_summary": "God's sovereign call to Jonah to preach against Nineveh's wickedness sets up the central tension: Jonah's hatred of the Ninevites versus God's love and desire to extend mercy to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1324.4400100708008,
-    "end_time": 1382.4800109863281
+    "end_time": 1382.4800109863281,
+    "point_summary": "God's command to preach against Nineveh's wickedness highlights the tension between Jonah's hatred for his enemies and God's love and desire to extend mercy even to the most vile.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1324.4400100708008,
-    "end_time": 1382.4800109863281
+    "end_time": 1382.4800109863281,
+    "point_summary": "Jonah's flight to Tarshish illustrates the tension between human hatred for the wicked and God's love for them, as God commissioned Jonah precisely to bring mercy to a people Jonah despised.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1557.6000061035156,
-    "end_time": 1620.2799987792969
+    "end_time": 1620.2799987792969,
+    "point_summary": "Jonah's deliberate flight \"from the presence of the Lord\" illustrates that disobedience to God's call forfeits the blessing and risks God raising up someone else to fulfill the mission.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1992.3199920654297,
-    "end_time": 2054.8199920654297
+    "end_time": 2054.8199920654297,
+    "point_summary": "Jonah's disobedience unwittingly became a witness: the terrified sailors abandoned their false gods and cried out to the Lord, leading the preacher to conclude they were genuinely converted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 1992.3199920654297,
-    "end_time": 2054.8199920654297
+    "end_time": 2054.8199920654297,
+    "point_summary": "The sailors' sacrifice and vows in verse 16 are read as evidence of genuine conversion—these pagan men placing faith in Jonah's God despite Jonah's disobedience, pointing to Christ's blood as the only sacrifice that saves from sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2055.7999877929688,
-    "end_time": 2109.3800048828125
+    "end_time": 2109.3800048828125,
+    "point_summary": "Jonah's three days and three nights in the fish's belly is identified as a messianic type, fulfilled in Matthew 12:40 by Christ's burial and resurrection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2109.3800048828125,
-    "end_time": 2165.5799865722656
+    "end_time": 2165.5799865722656,
+    "point_summary": "Even in the depths of divine discipline, Jonah's prayer from the fish's belly demonstrates that God hears the cry of the afflicted and preserves life from corruption.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2109.3800048828125,
-    "end_time": 2165.5799865722656
+    "end_time": 2165.5799865722656,
+    "point_summary": "Even in the depths of divine discipline, Jonah's cry reached God—demonstrating that prayer from the pit of affliction is heard and answered by the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2109.3800048828125,
-    "end_time": 2165.5799865722656
+    "end_time": 2165.5799865722656,
+    "point_summary": "Jonah's description of being cast into the deep, overwhelmed by waves, and brought up from corruption illustrates God's sovereign preservation of him despite his own disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2109.3800048828125,
-    "end_time": 2165.5799865722656
+    "end_time": 2165.5799865722656,
+    "point_summary": "Even in the depths of despair and divine discipline, Jonah's declaration \"yet I will look again toward the holy temple\" expresses a defiant, persevering faith that refuses to abandon hope in God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2109.3800048828125,
-    "end_time": 2165.5799865722656
+    "end_time": 2165.5799865722656,
+    "point_summary": "Jonah's vivid description of drowning—waters engulfing his soul, depths closing around him, seaweed at his head—illustrates the desperate extremity from which God sovereignly rescued him despite his own disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "Even submerged to the soul and entangled in seaweed at the ocean's depths, Jonah survived three days in the fish solely because God's hand preserved him in spite of his own rebellion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "Even at the bottom of the mountains, with earth's bars closing around him forever, God still brought Jonah's life up from corruption—rescued by divine preservation despite his own disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "When the soul faints in extremity and remembers the Lord, prayer reaches God even from the depths—Jonah's cry from Sheol illustrating that divine rescue comes to the disobedient through hardship rather than willing obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "Those who cling to lying vanities—self-reliance or rebellion—forfeit the mercy God stands ready to give, as Jonah's hard path through the fish's belly illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "Jonah's survival in the fish's belly—despite biological impossibility—demonstrated that God's preserving hand was upon him even in the midst of his disobedience, bringing him to the place of surrender expressed in 2:9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2166.019989013672,
-    "end_time": 2228.0599975585938
+    "end_time": 2228.0599975585938,
+    "point_summary": "God's sovereign preservation of Jonah inside the fish for three days—a biological impossibility—demonstrates that divine purpose overrides natural limits even when the prophet arrived there through disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2228.97998046875,
-    "end_time": 2285.739990234375
+    "end_time": 2285.739990234375,
+    "point_summary": "God's recommissioning of Jonah with the same call he had fled illustrates that disobedience only delays the mission and brings unnecessary hardship when simple obedience would have sufficed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2228.97998046875,
-    "end_time": 2285.739990234375
+    "end_time": 2285.739990234375,
+    "point_summary": "God's recommissioning of Jonah with the same command illustrates that obedience from the start would have spared the prophet the hard way, since the message and mission never changed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2228.97998046875,
-    "end_time": 2285.739990234375
+    "end_time": 2285.739990234375,
+    "point_summary": "Jonah's obedience in 3:3 came only after severe discipline, illustrating that God's servants can reach the right destination by the hard way rather than simply walking in willing obedience from the start.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2228.97998046875,
-    "end_time": 2285.739990234375
+    "end_time": 2285.739990234375,
+    "point_summary": "Jonah's eight-word message to Nineveh illustrates that obedience to God's call—however brief or reluctant—is far better than the costly detour of fleeing His will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Jonah's eight-word message of judgment, however reluctantly delivered, was exactly what God commissioned him to say, and simple obedience to that call would have spared him every hardship along the way.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Nineveh's city-wide repentance—from the least to the king himself—demonstrates that God accomplished His redemptive purpose through an unwilling messenger who simply delivered the word he was given.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Jonah's costly disobedience is contrasted with what could have been willing, joyful obedience, illustrating that God accomplishes His purposes even through unwilling servants who resist His call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Jonah's disobedience made his path to Nineveh needlessly harrowing, whereas simple obedience from the start would have brought him to witness the same extraordinary, city-wide repentance without the suffering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Nineveh's city-wide repentance—from king to commoner, covering themselves in sackcloth and crying out to God—is presented as the sovereign fruit of God accomplishing His purposes through an unwilling servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "Nineveh's king voiced uncertain but genuine hope that God might relent, and that corporate repentance—from throne to livestock—moved God to withhold the judgment He had declared.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2340.5399780273438,
-    "end_time": 2398.0800170898438
+    "end_time": 2398.0800170898438,
+    "point_summary": "God's willingness to work through an unwilling servant—bringing Jonah to Nineveh despite his disobedience—resulted in citywide repentance that moved God to withhold the threatened judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2460.1199836730957,
-    "end_time": 2514.779983520508
+    "end_time": 2514.779983520508,
+    "point_summary": "Jonah's anger at Nineveh's repentance exposes a prophet who knew God's merciful character yet resented its extension to those he deemed unworthy of grace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2460.1199836730957,
-    "end_time": 2514.779983520508
+    "end_time": 2514.779983520508,
+    "point_summary": "Jonah's own confession in 4:2 reveals that his flight from God's call was rooted not in ignorance but in his certain knowledge that God would show mercy to Nineveh—making his disobedience a refusal of divine compassion, not a failure of faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "54WCk41oLBM",
     "start_time": 2460.1199836730957,
-    "end_time": 2514.779983520508
+    "end_time": 2514.779983520508,
+    "point_summary": "Jonah's death wish in 4:3 exposes the depth of his merciless anger—he would rather die than witness God extend grace to a repentant Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -371,7 +437,9 @@
     "is_implicit": true,
     "video_id": "54WCk41oLBM",
     "start_time": 2921.9599609375,
-    "end_time": 2999.719970703125
+    "end_time": 2999.719970703125,
+    "point_summary": "Jonah 1:1 serves as the implicit backdrop for contrasting Isaiah's willing surrender to God's call with the pattern of avoidance and excuse-making that marks a \"Jonah\" who refuses to heed God's summons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 964.3799743652344,
-    "end_time": 1025.7599792480469
+    "end_time": 1025.7599792480469,
+    "point_summary": "God's preparation of the great fish to swallow Jonah—and the fish's subsequent obedience to spew him out—illustrates that inanimate creation obeys its Creator, implicitly rebuking Jonah's own disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 964.3799743652344,
-    "end_time": 1025.7599792480469
+    "end_time": 1025.7599792480469,
+    "point_summary": "Even a great fish obeyed God's command instantly, making the point that inanimate creation submits to its Creator while Jonah—and by implication, God's people—so often do not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 0.0,
-    "end_time": 57.52000045776367
+    "end_time": 57.52000045776367,
+    "point_summary": "Jonah's anger and flight to Tarshish are revealed to stem not from ignorance of God's character but from full knowledge that God would show grace to Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 0.0,
-    "end_time": 57.52000045776367
+    "end_time": 57.52000045776367,
+    "point_summary": "Jonah's own confession in 4:2 reveals that his flight to Tarshish was driven not by ignorance of God's character but by foreknowledge of His grace toward Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 57.52000045776367,
-    "end_time": 122.37999725341797
+    "end_time": 122.37999725341797,
+    "point_summary": "Jonah's anger at Nineveh's repentance, paired with his own confession of God's grace and mercy, introduces the sermon's central question of whether the God of the Old Testament is truly the same loving God revealed in the New.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 57.52000045776367,
-    "end_time": 122.37999725341797
+    "end_time": 122.37999725341797,
+    "point_summary": "Jonah's own confession in 4:2 — that God is gracious, merciful, slow to anger, and of great kindness — serves as the sermon's launching point for answering whether the God of the Old Testament is the same loving God revealed in the New.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "6ujPxedm1ss",
     "start_time": 371.6400146484375,
-    "end_time": 434.4800109863281
+    "end_time": 434.4800109863281,
+    "point_summary": "Jonah's own confession in Jonah 4 that God is gracious serves as the sermon's governing conclusion: even when divine judgment falls on people groups, the character of God remains merciful.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 434.4800109863281,
-    "end_time": 497.760009765625
+    "end_time": 497.760009765625,
+    "point_summary": "Jonah's own confession in Jonah 4:2 that God is gracious serves as the sermon's governing conclusion, against which multiple Old Testament examples of divine judgment are measured to show that mercy and justice are not contradictory in God's character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1329.9199905395508,
-    "end_time": 1392.2799835205078
+    "end_time": 1392.2799835205078,
+    "point_summary": "Jonah's stark, unqualified proclamation of destruction in forty days establishes that Nineveh's judgment was certain and would have included even its most vulnerable inhabitants, had the city not repented.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1329.9199905395508,
-    "end_time": 1392.2799835205078
+    "end_time": 1392.2799835205078,
+    "point_summary": "God's stated reason for sparing Nineveh—over 120,000 persons unable to discern right from left—establishes the scale of innocent life that would have perished under judgment had Nineveh not repented.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1392.5599975585938,
-    "end_time": 1446.5199890136719
+    "end_time": 1446.5199890136719,
+    "point_summary": "Jonah's forty-day warning of Nineveh's overthrow was a genuine divine threat that would have destroyed the entire city, including its 120,000 children, apart from the people's repentant response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1392.5599975585938,
-    "end_time": 1446.5199890136719
+    "end_time": 1446.5199890136719,
+    "point_summary": "Nineveh's collective repentance—believing God, fasting, and wearing sackcloth from greatest to least—stayed the divine judgment that would otherwise have destroyed the entire city, including its 120,000 children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1392.5599975585938,
-    "end_time": 1446.5199890136719
+    "end_time": 1446.5199890136719,
+    "point_summary": "Nineveh's repentance — belief, fasting, and turning from evil — stayed God's declared judgment, demonstrating that the people's response directly determined whether divine destruction fell.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2863.2799682617188,
-    "end_time": 2931.6599731445312
+    "end_time": 2931.6599731445312,
+    "point_summary": "God's mercy toward Nineveh, which Jonah resented, is set against the backdrop of His unchanging character as both gracious and a consuming fire whose justice spans both Testaments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2931.6599731445312,
-    "end_time": 3003.0399780273438
+    "end_time": 3003.0399780273438,
+    "point_summary": "Jonah's anger at Nineveh's sparing reveals that his flight to Tarshish was never about fear of failure but about knowing God's gracious character would override the judgment Jonah believed the wicked city deserved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2931.6599731445312,
-    "end_time": 3003.0399780273438
+    "end_time": 3003.0399780273438,
+    "point_summary": "Jonah's own confession in fleeing to Tarshish reveals that he knew God's character—gracious, merciful, slow to anger—and feared that knowledge would lead to Nineveh's sparing rather than its judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1408.9000244140625,
-    "end_time": 1487.9400329589844
+    "end_time": 1487.9400329589844,
+    "point_summary": "God's awareness of Nineveh's wickedness—\"their wickedness is come up before me\"—parallels how divine knowledge of a city's sin precedes and motivates the prophetic call to speak against it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1555.9400329589844,
-    "end_time": 1631.3800048828125
+    "end_time": 1631.3800048828125,
+    "point_summary": "God's declared judgment on Nineveh — \"Yet forty days, and Nineveh shall be overthrown\" — was conditional, and the city's repentance stayed that destruction, demonstrating that divine warnings carry an implicit call to repent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1555.9400329589844,
-    "end_time": 1631.3800048828125
+    "end_time": 1631.3800048828125,
+    "point_summary": "Jonah's extreme displeasure at Nineveh's repentance reveals that he had fled his assignment precisely because he feared God would show mercy to Israel's hated enemies rather than destroy them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1631.3800048828125,
-    "end_time": 1707.3000183105469
+    "end_time": 1707.3000183105469,
+    "point_summary": "Nineveh's city-wide repentance in response to Jonah's preaching demonstrates that divine judgment can be stayed when a people turn to God, confirming the conditional nature of the threatened destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1631.3800048828125,
-    "end_time": 1707.3000183105469
+    "end_time": 1707.3000183105469,
+    "point_summary": "Nineveh's repentance staying God's announced judgment illustrates that divine warnings of destruction are conditional, grounded in God's character as gracious, merciful, and slow to anger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1631.3800048828125,
-    "end_time": 1707.3000183105469
+    "end_time": 1707.3000183105469,
+    "point_summary": "Jonah's own confession reveals that he fled precisely because he knew God's character—gracious, merciful, slow to anger—qualities that believers celebrate but that Jonah resented being extended to Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1631.3800048828125,
-    "end_time": 1707.3000183105469
+    "end_time": 1707.3000183105469,
+    "point_summary": "Jonah's death wish in 4:3 illustrates that the very divine mercy believers treasure—grace, slowness to anger, readiness to pardon—was precisely what embittered him toward Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1770.0599975585938,
-    "end_time": 1835.0600357055664
+    "end_time": 1835.0600357055664,
+    "point_summary": "The gourd God prepared for Jonah serves as a foil to expose Jonah's misplaced pity—caring more for a plant than for the children and souls of Nineveh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1770.0599975585938,
-    "end_time": 1835.0600357055664
+    "end_time": 1835.0600357055664,
+    "point_summary": "God's rebuke of Jonah contrasts the prophet's pity for a perishing gourd with God's compassion for 120,000 children in Nineveh, exposing the selfishness of withholding mercy from others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1770.0599975585938,
-    "end_time": 1835.0600357055664
+    "end_time": 1835.0600357055664,
+    "point_summary": "God's rebuke of Jonah's selective compassion — pitying a gourd but resenting mercy shown to 120,000 children and cattle — exposes the wrong response to divine grace extended toward others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2015.260009765625,
-    "end_time": 2091.980010986328
+    "end_time": 2091.980010986328,
+    "point_summary": "Sackcloth in Nineveh illustrates that a simple prophetic warning of imminent destruction, received with genuine repentance, produces revival—the same solution Joel calls Israel toward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 989.3200073242188,
-    "end_time": 1066.1200256347656
+    "end_time": 1066.1200256347656,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1993.6799621582031,
-    "end_time": 2067.3199462890625
+    "end_time": 2067.3199462890625,
+    "point_summary": "Jonah 3 is introduced as the biblical model for the sermon's third point — that repentance is the required response when a nation stands under the announcement of divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "God's unchanged commission to Jonah — delivered a second time after his repentance — illustrates that divine calls to preach judgment against wicked nations are not rescinded, only delayed until the messenger obeys.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "Jonah 1:2 establishes God's original command to confront Nineveh's wickedness—a command that remained unchanged even after Jonah's rebellion and restoration, underscoring that divine judgment on sin demands a prophetic response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "God's unchanged command to Jonah—\"preach unto it the preaching that I bid thee\"—illustrates that divine calls to proclaim judgment do not shift, even when the messenger has resisted and required correction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -734,7 +866,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "Jonah's initial flight from God's call in chapter one serves as backdrop to his transformed obedience in chapter three, illustrating that repentance restores a servant to his God-given mission.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "Jonah's urgent, single-day entry into a three-day city illustrates that once he obeyed God's unchanged call, he moved with maximum speed toward the task of preaching coming judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "Jonah's urgent, single-day entry into a three-day city illustrates that once a prophet is right with God, obedience to the divine commission becomes swift and wholehearted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2067.3199462890625,
-    "end_time": 2120.939971923828
+    "end_time": 2120.939971923828,
+    "point_summary": "Jonah's urgent, one-sentence proclamation—\"Yet forty days and Nineveh shall be overthrown\"—illustrates that God's judgment message is simple, direct, and demands immediate response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 2249.719970703125,
-    "end_time": 2320.5599365234375
+    "end_time": 2320.5599365234375,
+    "point_summary": "Nineveh's repentance began with believing God—trusting that His announced judgment was true—and expressed itself in fasting and sackcloth from the greatest to the least.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "R9LB-ChokfQ",
     "start_time": 1716.9400024414062,
-    "end_time": 1785.3599853515625
+    "end_time": 1785.3599853515625,
+    "point_summary": "Jonah's story illustrates that God is a God of second chances, contrasting His persistent, restorative heart with the human tendency toward \"one and done\" judgment of offenders.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -800,7 +944,9 @@
     "is_implicit": true,
     "video_id": "RC_zjgDAiHo",
     "start_time": 2372.47998046875,
-    "end_time": 2452.439998626709
+    "end_time": 2452.439998626709,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jonah",
@@ -811,6 +957,8 @@
     "is_implicit": true,
     "video_id": "gEWKQ2I0a2I",
     "start_time": 1338.499984741211,
-    "end_time": 1408.6999816894531
+    "end_time": 1408.6999816894531,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

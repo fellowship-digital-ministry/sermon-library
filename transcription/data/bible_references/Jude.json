@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "0bvsCvT1aho",
     "start_time": 1180.2200317382812,
-    "end_time": 1250.8000106811523
+    "end_time": 1250.8000106811523,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1250.8000106811523,
-    "end_time": 1314.760009765625
+    "end_time": 1314.760009765625,
+    "point_summary": "Jude wrote to exhort believers to earnestly contend for the faith once delivered to the saints because false teachers had crept in unawares, corrupting grace and denying Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1250.8000106811523,
-    "end_time": 1314.760009765625
+    "end_time": 1314.760009765625,
+    "point_summary": "Jude wrote to urge believers to contend for the faith precisely because ungodly men had crept in unawares, turning grace into lasciviousness and denying Christ—the very threat requiring the epistle's warning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1510.3200073242188,
-    "end_time": 1580.4600219726562
+    "end_time": 1580.4600219726562,
+    "point_summary": "Keeping oneself in the love of God is presented not as passive security but as an active, ongoing discipline maintained in the face of false teaching and moral opposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1510.3200073242188,
-    "end_time": 1580.4600219726562
+    "end_time": 1580.4600219726562,
+    "point_summary": "Jude 1:22 grounds the call to have compassion on those who doubt, while recognizing that the approach to sharing the gospel must vary with each individual, though the message itself never changes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1510.3200073242188,
-    "end_time": 1580.4600219726562
+    "end_time": 1580.4600219726562,
+    "point_summary": "Jude 1:23 is cited to show that rescuing the lost requires urgency and fear, and that the method of gospel engagement must vary with the individual even as the message remains unchanged.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "0bvsCvT1aho",
     "start_time": 1580.4600219726562,
-    "end_time": 1648.6800231933594
+    "end_time": 1648.6800231933594,
+    "point_summary": "Jude 1:22 calls believers to have compassion on the lost, recognizing that gospel outreach requires adapting one's approach—not the message—to the individual, rather than viewing unbelievers as enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "1G-uKA-Shpo",
     "start_time": 2422.1599674224854,
-    "end_time": 2480.1199645996094
+    "end_time": 2480.1199645996094,
+    "point_summary": "The urgency to \"earnestly contend for the faith once delivered to the saints\" is grounded in the ongoing reality that false teachers continue infiltrating the church across every generation, just as in the first century.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "53lojYZz2_0",
     "start_time": 1554.5800170898438,
-    "end_time": 1618.1800231933594
+    "end_time": 1618.1800231933594,
+    "point_summary": "Believers bear a God-given responsibility to earnestly contend for the faith once delivered, honoring those who sacrificed to preserve it and guarding against false teaching in the present.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "9KxM021cU1c",
     "start_time": 617.9599895477295,
-    "end_time": 674.8199920654297
+    "end_time": 674.8199920654297,
+    "point_summary": "Certain men who creep in unawares, according to Jude, represent the external danger to the church by perverting grace into lasciviousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "bk0BCi-BMI0",
     "start_time": 566.52001953125,
-    "end_time": 631.7399787902832
+    "end_time": 631.7399787902832,
+    "point_summary": "Jude's phrase \"the faith once delivered to the saints\" is cited as evidence that the body of Christian doctrine is a fixed, unified deposit worth earnestly contending for.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "cpLrMtVrJ9o",
     "start_time": 2646.8199920654297,
-    "end_time": 2715.220001220703
+    "end_time": 2715.220001220703,
+    "point_summary": "Even the archangel Michael, when confronting Satan over Moses' body, deferred judgment to the Lord rather than railing—illustrating that withholding forgiveness gives the devil an opening that believers must refuse to leave.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "eO6wOHtfoHo",
     "start_time": 3324.3800048828125,
-    "end_time": 3388.8599853515625
+    "end_time": 3388.8599853515625,
+    "point_summary": "False teaching's primary danger to the saved is not loss of salvation but loss of gospel effectiveness, making Jude's urgent warning against those who crept in unawares directly relevant to continued fruitfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "eO6wOHtfoHo",
     "start_time": 3324.3800048828125,
-    "end_time": 3388.8599853515625
+    "end_time": 3388.8599853515625,
+    "point_summary": "False teachers who \"crept in unawares\" and turned grace into lasciviousness (Jude 3–4) threaten not a believer's eternal security but their doctrinal stability and gospel effectiveness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "FoatIgA4SQs",
     "start_time": 1931.760009765625,
-    "end_time": 1990.1600189208984
+    "end_time": 1990.1600189208984,
+    "point_summary": "Keeping oneself in the love of God (Jude 1:21) is cited as the believer's responsive duty, grounded in the prior reality that God's agape love—demonstrated at the cross—cannot be separated from his own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "HyiDXKZbWS8",
     "start_time": 1443.5599822998047,
-    "end_time": 1519.1199951171875
+    "end_time": 1519.1199951171875,
+    "point_summary": "Jude's warning that false teachers turn the grace of God into lasciviousness—unbridled lust—is cited as the biblical term defining the gross immorality characteristic of perilous times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "IgF7S1e9tQM",
     "start_time": 546.47998046875,
-    "end_time": 608.7600221633911
+    "end_time": 608.7600221633911,
+    "point_summary": "Earnest contention for the faith once delivered to the saints is the standard by which false teachers—present in every era—are exposed and measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2672.6799926757812,
-    "end_time": 2749.519989013672
+    "end_time": 2749.519989013672,
+    "point_summary": "Jude's opening address to those \"sanctified, preserved, and called\" frames the letter's context of shared salvation before its urgent warning against false teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2749.519989013672,
-    "end_time": 2811.040008544922
+    "end_time": 2811.040008544922,
+    "point_summary": "Jude's divine redirection to write about contending for the faith illustrates that sound doctrine is not optional but urgently necessary, delivered once and worth defending.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2811.040008544922,
-    "end_time": 2867.3599853515625
+    "end_time": 2867.3599853515625,
+    "point_summary": "Jude's divine redirection—from writing about common salvation to urgently exhorting believers to contend for the once-delivered faith—illustrates that sound doctrine must be defended against false teachers who infiltrate undetected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 2811.040008544922,
-    "end_time": 2867.3599853515625
+    "end_time": 2867.3599853515625,
+    "point_summary": "False teachers infiltrate undetected by adopting orthodox vocabulary while redefining its meaning, making vigilant contention for the once-delivered faith urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "iwVXkDtclDU",
     "start_time": 252.94000244140625,
-    "end_time": 319.4200134277344
+    "end_time": 319.4200134277344,
+    "point_summary": "Jude's call to contend for the faith once delivered is applied as a generational mandate: each generation bears responsibility to pass the body of received doctrine to the next.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "jGOucUG9qOI",
     "start_time": 1676.43994140625,
-    "end_time": 1747.3999633789062
+    "end_time": 1747.3999633789062,
+    "point_summary": "Jude's warning about false teachers who \"crept in unawares\" illustrates the enemy's strategy of infiltrating the church through deceptive, insider-seeming means.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 744.5000152587891,
-    "end_time": 812.9000244140625
+    "end_time": 812.9000244140625,
+    "point_summary": "Jude 1:11's phrase \"the error of Balaam\" is one of three biblical designations—alongside \"the way of Balaam\" (2 Pet. 2:15) and \"the doctrine of Balaam\" (Rev. 2:14)—identifying the same corrupting teaching condemned in Pergamos.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "jYY9hVx5xPY",
     "start_time": 1860.2199478149414,
-    "end_time": 1925.0599517822266
+    "end_time": 1925.0599517822266,
+    "point_summary": "Jude's call to contend for the faith is linked here to his warning that false teachers had twisted grace into a license for unbridled lust, illustrating the danger of antinomianism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "KnZFjfOQSr4",
     "start_time": 1758.4600219726562,
-    "end_time": 1826.6399879455566
+    "end_time": 1826.6399879455566,
+    "point_summary": "Jude 1:3's call to earnestly contend for the faith once delivered to the saints grounds the charge to hold fast to received truth rather than seeking new revelation or cultural relevance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 1175.0,
-    "end_time": 1237.9999961853027
+    "end_time": 1237.9999961853027,
+    "point_summary": "Even Michael the archangel, in direct conflict with the devil, did not rely on his own authority but deferred to God's power, illustrating the danger of self-confidence in spiritual warfare.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 1237.9999961853027,
-    "end_time": 1306.9599990844727
+    "end_time": 1306.9599990844727,
+    "point_summary": "Even Michael the archangel, when disputing with the devil, refused to rely on his own authority and instead deferred to God—illustrating that no creature, however exalted, can battle Satan in self-reliance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "LgRl3wwGxNo",
     "start_time": 1989.3400268554688,
-    "end_time": 2057.480010986328
+    "end_time": 2057.480010986328,
+    "point_summary": "Jude 1:4's warning about those who \"crept in unawares\" illustrates that false professors can mimic outward obedience, but lack the consistent pattern that marks genuine possession of saving faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "lhZ-3s-pM4Q",
     "start_time": 2038.1199951171875,
-    "end_time": 2118.279998779297
+    "end_time": 2118.279998779297,
+    "point_summary": "Jude's charge to earnestly contend for the faith once delivered underscores that the church receives, proves, and holds fast an already-complete truth—not seeking something new.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "N9mMZtwmED4",
     "start_time": 379.29998779296875,
-    "end_time": 454.1400146484375
+    "end_time": 454.1400146484375,
+    "point_summary": "Satan's twisting of grace into license (lasciviousness) is identified as a distortion of a genuine biblical truth that hinders the effectiveness of God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "N9mMZtwmED4",
     "start_time": 520.4000244140625,
-    "end_time": 594.239990234375
+    "end_time": 594.239990234375,
+    "point_summary": "Jude 1:4 is cited to identify the specific distortion false teachers introduce—twisting God's grace into license for unbridled lust rather than a call to righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "najkOZaBPgU",
     "start_time": 764.7799987792969,
-    "end_time": 824.9800109863281
+    "end_time": 824.9800109863281,
+    "point_summary": "Turning grace into lasciviousness, as condemned in Jude, stands in direct contradiction to Titus 2's teaching that grace instructs believers to live godly, not to sin freely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 552.9600219726562,
-    "end_time": 626.0399780273438
+    "end_time": 626.0399780273438,
+    "point_summary": "The enemy's strategy of stealth—creeping in unawares—is drawn from Jude 1:3 to illustrate why earnest contention for the faith is necessary against deceptive opposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "Sodom and Gomorrah's destruction is cited as a divinely intended example, confirming that God's judgment on ungodliness is not merely historical but a standing warning to all subsequent generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 749.2599792480469,
-    "end_time": 809.3799743652344
+    "end_time": 809.3799743652344,
+    "point_summary": "Sodom and Gomorrah's destruction is presented in Jude 1:7 as a standing example of divine judgment on ungodly living that people ignore at their peril.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Sodom and Gomorrah's destruction, referenced in Jude as a standing example of divine judgment, is invoked here to underscore that unrepentant national sin invites the same overthrow God brought on those cities.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1744.4999389648438,
-    "end_time": 1807.299961090088
+    "end_time": 1807.299961090088,
+    "point_summary": "Sodom and Gomorrah, cited in Jude 7, serves as a warning example of divine judgment against the shameless, celebrated wickedness the preacher sees mirrored in contemporary society.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1744.4999389648438,
-    "end_time": 1807.299961090088
+    "end_time": 1807.299961090088,
+    "point_summary": "Enoch's ancient prophecy, cited in Jude 14, declares that Christ will return with ten thousands of his saints—a second coming ignored by a society that flaunts wickedness without shame.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1744.4999389648438,
-    "end_time": 1807.299961090088
+    "end_time": 1807.299961090088,
+    "point_summary": "Enoch's ancient prophecy, cited in Jude 15, declares that Christ's return in judgment with ten thousands of his saints stands as a truth largely unknown in contemporary society.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1807.299961090088,
-    "end_time": 1870.3999633789062
+    "end_time": 1870.3999633789062,
+    "point_summary": "Enoch's ancient prophecy, cited in Jude 14–15, is presented as foretelling the second coming of Christ, when He returns with His saints to execute judgment on the ungodly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1807.299961090088,
-    "end_time": 1870.3999633789062
+    "end_time": 1870.3999633789062,
+    "point_summary": "Enoch's ancient prophecy, cited in Jude 1:15, declares that Christ's second coming will be an act of judgment executed upon all ungodly deeds and speeches against him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -470,7 +554,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1935.0599975585938,
-    "end_time": 2004.4199981689453
+    "end_time": 2004.4199981689453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 795.6000213623047,
-    "end_time": 856.8400268554688
+    "end_time": 856.8400268554688,
+    "point_summary": "Faith is not merely described as unfeigned but must be actively delivered to the next generation, as Jude's phrase \"once delivered unto the saints\" frames the intentional passing of faith across generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1823.3000221252441,
-    "end_time": 1898.2800216674805
+    "end_time": 1898.2800216674805,
+    "point_summary": "Faithfully contending for the faith once delivered to the saints, as Jude commands, means actively fighting against the evil influences that threaten to capture the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 0.0,
-    "end_time": 74.0199966430664
+    "end_time": 74.0199966430664,
+    "point_summary": "Jude's call to \"have compassion, making a difference\" frames the entire sermon's burden: that believers must actively engage the lost with gospel urgency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 0.0,
-    "end_time": 74.0199966430664
+    "end_time": 74.0199966430664,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 577.8599853515625,
-    "end_time": 636.1799774169922
+    "end_time": 636.1799774169922,
+    "point_summary": "Jude's call to \"have compassion, making a difference\" is grounded in Christ's own pattern of being moved with compassion toward the multitudes, which then issued in redemptive action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 706.5999755859375,
-    "end_time": 776.5999755859375
+    "end_time": 776.5999755859375,
+    "point_summary": "Jude 1:23's call to \"save with fear, pulling them out of the fire\" frames urgent evangelism as a rescue operation demanding both compassion and bold action toward those perishing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "Qlkc9s-IZMU",
     "start_time": 1223.3200073242188,
-    "end_time": 1294.3200073242188
+    "end_time": 1294.3200073242188,
+    "point_summary": "Jude's phrase \"once delivered unto the saints\" is cited to underscore that the biblical record is a completed, reliable deposit entrusted to believers, for which gratitude is owed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 0.0,
-    "end_time": 63.119998931884766
+    "end_time": 63.119998931884766,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "qxIieTPfZl0",
     "start_time": 2275.980010986328,
-    "end_time": 2343.9400024414062
+    "end_time": 2343.9400024414062,
+    "point_summary": "False teachers, Jude warns, were perverting God's grace into unbridled lust, making right understanding of grace urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -580,7 +684,9 @@
     "is_implicit": true,
     "video_id": "rAbk_dVtRjc",
     "start_time": 1377.2799530029297,
-    "end_time": 1436.2599487304688
+    "end_time": 1436.2599487304688,
+    "point_summary": "Jude's call to earnestly contend for the faith once delivered to the saints is cited as scriptural grounding for the sermon's insistence that sound doctrine matters and must be held fast.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "TFJvlz_mzCo",
     "start_time": 1523.3200073242188,
-    "end_time": 1584.739990234375
+    "end_time": 1584.739990234375,
+    "point_summary": "Jude's urgent call to \"earnestly contend for the faith once delivered to the saints\" is presented as the necessary response to an ongoing battle for truth that has raged since Genesis 3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "TFJvlz_mzCo",
     "start_time": 1523.3200073242188,
-    "end_time": 1584.739990234375
+    "end_time": 1584.739990234375,
+    "point_summary": "Jude 1:4 is cited to explain why believers must earnestly contend for the faith: false teachers have secretly infiltrated the church, making the battle for truth an urgent, unavoidable necessity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "TFJvlz_mzCo",
     "start_time": 1523.3200073242188,
-    "end_time": 1584.739990234375
+    "end_time": 1584.739990234375,
+    "point_summary": "Jude's urgent call to \"earnestly contend for the faith once delivered to the saints\" is presented as the necessary response to an ongoing battle for truth that has raged since Genesis 3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "TFJvlz_mzCo",
     "start_time": 1584.739990234375,
-    "end_time": 1651.1799926757812
+    "end_time": 1651.1799926757812,
+    "point_summary": "Jude's interrupted intention to write about common salvation became instead an urgent call to earnestly contend for the faith, because false teachers had already crept in to corrupt it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "TFJvlz_mzCo",
     "start_time": 1584.739990234375,
-    "end_time": 1651.1799926757812
+    "end_time": 1651.1799926757812,
+    "point_summary": "Jude 1:4 is cited as the reason earnest contention for the faith is necessary: false teachers had crept in, perverting grace into a license for unbridled lust and denying Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 2416.499997138977,
-    "end_time": 2508.979995727539
+    "end_time": 2508.979995727539,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 2508.979995727539,
-    "end_time": 2598.1799926757812
+    "end_time": 2598.1799926757812,
+    "point_summary": "Jude 1:22 is cited as biblical warrant that God can use any individual—like Oded—to make a difference through compassion and courage in the lives of others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 2508.979995727539,
-    "end_time": 2598.1799926757812
+    "end_time": 2598.1799926757812,
+    "point_summary": "Jude 1:23's call to \"save with fear, pulling them out of the fire\" grounds the sermon's appeal that God can use any individual, like Oded, to make a courageous, life-changing difference for others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "u8q4Sw4sIWQ",
     "start_time": 1776.3999633789062,
-    "end_time": 1838.6399688720703
+    "end_time": 1838.6399688720703,
+    "point_summary": "Sodom and Gomorrah's destruction is presented in Jude as a standing historical example of divine judgment against sexual immorality and the pursuit of unnatural flesh, warning of eternal vengeance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -690,7 +814,9 @@
     "is_implicit": true,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1372.4399871826172,
-    "end_time": 1427.999984741211
+    "end_time": 1427.999984741211,
+    "point_summary": "Rejecting the known truth of Christ's atoning work is gravely dangerous, as Jude's warning about false teachers who distort grace and deny Christ illustrates the peril of turning away from what has been clearly received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -701,7 +827,9 @@
     "is_implicit": true,
     "video_id": "We8921d40Z4",
     "start_time": 285.760009765625,
-    "end_time": 348.55999755859375
+    "end_time": 348.55999755859375,
+    "point_summary": "False teachers, as warned in Jude, pervert grace into a license for unbridled lust—the very antithesis of what grace teaches, which is denial of ungodliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2548.6199798583984,
-    "end_time": 2618.0399780273438
+    "end_time": 2618.0399780273438,
+    "point_summary": "False teachers pervert God's grace into a license for unbridled lust, in direct contrast to grace's true purpose of teaching holy, self-denying living.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -723,7 +853,9 @@
     "is_implicit": true,
     "video_id": "BkxDIqE9JxI",
     "start_time": 1354.2799987792969,
-    "end_time": 1414.1399993896484
+    "end_time": 1414.1399993896484,
+    "point_summary": "Believers are called to mirror Christ's compassion by showing love toward the unsaved, so that those in bondage to sin might recognize both their condition and the freedom available to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -734,7 +866,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2548.9800567626953,
-    "end_time": 2620.6400604248047
+    "end_time": 2620.6400604248047,
+    "point_summary": "The faith once delivered to the saints (Jude 1:3) obligates the present generation to earnestly contend for it by instructing those who follow in the body of Christian truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -745,7 +879,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 66.31999969482422,
-    "end_time": 126.68000030517578
+    "end_time": 126.68000030517578,
+    "point_summary": "False teachers distort grace into a license for unbridled lust, whereas the grace of God actually teaches believers to live soberly, righteously, and godly in this present world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "npp6nsROFsk",
     "start_time": 181.0,
-    "end_time": 244.6999969482422
+    "end_time": 244.6999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 2061.4200439453125,
-    "end_time": 2127.080047607422
+    "end_time": 2127.080047607422,
+    "point_summary": "Jude 1:22's call to \"have compassion, making a difference\" is applied as a summons to seize intentional opportunities for influence in others' lives, as Jehosheba risked hers to save Joash.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "E31QXOicGRA",
     "start_time": 2185.9199829101562,
-    "end_time": 2245.0399780273438
+    "end_time": 2245.0399780273438,
+    "point_summary": "The book of Jude is cited to show that even believers must approach evangelism and the rescue of the perishing with a reverent fear of God, not casual indifference.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "E31QXOicGRA",
     "start_time": 2185.9199829101562,
-    "end_time": 2245.0399780273438
+    "end_time": 2245.0399780273438,
+    "point_summary": "Jude 1:22 is cited as a bridge to verse 23, where fear-motivated urgency—\"pulling them out of the fire\"—frames evangelism as a compassionate but sobering rescue from judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Jude",
@@ -800,6 +944,8 @@
     "is_implicit": true,
     "video_id": "E31QXOicGRA",
     "start_time": 2245.0399780273438,
-    "end_time": 2316.8399658203125
+    "end_time": 2316.8399658203125,
+    "point_summary": "Saving the lost requires not only compassion but also a fear-driven urgency—pulling them from the fire—because a healthy fear of God motivates genuine gospel witness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

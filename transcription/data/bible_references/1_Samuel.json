@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "1AnI1m5Yp2c",
     "start_time": 1010.3200073242188,
-    "end_time": 1075.9599914550781
+    "end_time": 1075.9599914550781,
+    "point_summary": "God's sovereign selection of David—overlooked and uncalled by his own family, yet chosen by divine appointment to shepherd Israel—illustrates that God's purposes for a person's life are not determined by human estimation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "1tNRCH4gQSE",
     "start_time": 1168.6600341796875,
-    "end_time": 1238.3000373840332
+    "end_time": 1238.3000373840332,
+    "point_summary": "God answers those who seek Him, as Rebekah's inquiry of the Lord parallels Samuel's posture of listening — a reminder that divine revelation comes to those who ask.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "5cqwtLBS4OE",
     "start_time": 2205.759979248047,
-    "end_time": 2262.8399963378906
+    "end_time": 2262.8399963378906,
+    "point_summary": "David's words in 1 Samuel 20:3 — \"there is but a step between me and death\" — are applied to underscore that death's nearness is universal, not merely a circumstance of David's flight from Saul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 0.0,
-    "end_time": 64.72000122070312
+    "end_time": 64.72000122070312,
+    "point_summary": "Obedience to God's voice surpasses religious ritual, as Samuel's declaration to Saul establishes that straightforward divine instruction leaves no room for substituting sacrifice in place of compliance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 64.72000122070312,
-    "end_time": 124.63999938964844
+    "end_time": 124.63999938964844,
+    "point_summary": "Chapter and context introduction; the sermon notes that Samuel's opening words in verse 1 make unmistakably clear that Saul's instructions came from God Almighty, not from Samuel's own authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 254.32000732421875,
-    "end_time": 320.9599914550781
+    "end_time": 320.9599914550781,
+    "point_summary": "Saul's mustering of 200,000 footmen and 10,000 men of Judah demonstrates he received God's command clearly and had the resources to obey it fully, making his subsequent disobedience without excuse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 254.32000732421875,
-    "end_time": 320.9599914550781
+    "end_time": 320.9599914550781,
+    "point_summary": "Saul's arrival at the city of Amalek in verse 5 marks the point where God's clear, concise command was received but ultimately not fully obeyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 254.32000732421875,
-    "end_time": 320.9599914550781
+    "end_time": 320.9599914550781,
+    "point_summary": "Despite receiving clear and concise divine instruction to destroy Amalek utterly, Saul selectively obeyed—sparing Agag and the best livestock—revealing that partial obedience is disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 320.9599914550781,
-    "end_time": 386.79998779296875
+    "end_time": 386.79998779296875,
+    "point_summary": "Saul's partial obedience — sparing Agag and the best livestock while destroying only what was worthless — constituted a failure to perform God's commandments, not a fulfillment of them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 320.9599914550781,
-    "end_time": 386.79998779296875
+    "end_time": 386.79998779296875,
+    "point_summary": "Saul's partial obedience—sparing Agag and the best livestock while destroying only what was worthless—exposes that selective compliance with God's command is still disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 320.9599914550781,
-    "end_time": 386.79998779296875
+    "end_time": 386.79998779296875,
+    "point_summary": "God's direct declaration — \"it repenteth me that I have set up Saul to be king\" — reveals that Saul's failure to perform God's commandments carried immediate divine consequence, even before Samuel arrived on the scene.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 320.9599914550781,
-    "end_time": 386.79998779296875
+    "end_time": 386.79998779296875,
+    "point_summary": "Saul's disobedience grieved Samuel so deeply that he cried to God all night, revealing how seriously a faithful spiritual leader takes his God-given responsibility to those he is called to serve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 463.20001220703125,
-    "end_time": 528.6400146484375
+    "end_time": 528.6400146484375,
+    "point_summary": "Saul's confident claim to have obeyed while the sheep still bleat exposes the self-deception at the heart of partial obedience, which the sermon treats as disobedience in full.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 528.6400146484375,
-    "end_time": 579.760009765625
+    "end_time": 579.760009765625,
+    "point_summary": "Samuel's confrontation of Saul—\"stay, and I will tell thee what the Lord hath said\"—frames the exchange as a divine verdict on Saul's self-deception, exposing partial obedience as disobedience and evil in God's sight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "5hWrSVuaxyg",
     "start_time": 579.760009765625,
-    "end_time": 653.5599822998047
+    "end_time": 653.5599822998047,
+    "point_summary": "Saul's self-deceived claim of full obedience, followed by blame-shifting to the people, illustrates that partial obedience is disobedience and can manifest as self-justification before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -173,7 +203,9 @@
     "is_implicit": true,
     "video_id": "5hWrSVuaxyg",
     "start_time": 579.760009765625,
-    "end_time": 653.5599822998047
+    "end_time": 653.5599822998047,
+    "point_summary": "Saul's self-justifying claim in verse 21 — blaming the people for sparing the spoil — illustrates how disobedience is compounded by a shift of blame rather than honest confession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "5hWrSVuaxyg",
     "start_time": 579.760009765625,
-    "end_time": 653.5599822998047
+    "end_time": 653.5599822998047,
+    "point_summary": "Partial obedience is disobedience — Saul's self-justification, blame-shifting, and selective compliance with God's command illustrate why Samuel's rebuke in verse 22 stands as an enduring principle for God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 732.9199829101562,
-    "end_time": 806.97998046875
+    "end_time": 806.97998046875,
+    "point_summary": "God's own institution of sacrificial worship makes Saul's defense—sparing animals to sacrifice them—all the more inexcusable, since God declares obedience to His voice a greater delight than the offerings He Himself ordained.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1025.7599792480469,
-    "end_time": 1106.6199951171875
+    "end_time": 1106.6199951171875,
+    "point_summary": "Creation, demons, wind, and waves all obey God instinctively, making Saul's willful disobedience in 1 Samuel 15 all the more inexcusable and obedience all the more critical.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -217,7 +255,9 @@
     "is_implicit": true,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1106.6199951171875,
-    "end_time": 1170.5999755859375
+    "end_time": 1170.5999755859375,
+    "point_summary": "Samuel's rebuke of Saul establishes that obedience to God is not optional but critical, because God is trustworthy and consistently blesses those who walk in obedience to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1470.1199951171875,
-    "end_time": 1533.1600036621094
+    "end_time": 1533.1600036621094,
+    "point_summary": "Saul's disobedience in 1 Samuel 15 is framed as a deliberate choice, not a failure of clarity—he understood God's command but substituted his own reasoning and the people's preferences for it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 2586.3199768066406,
-    "end_time": 2660.8599853515625
+    "end_time": 2660.8599853515625,
+    "point_summary": "Saul's example in 1 Samuel 15 warns against excusing or partially obeying God's clear commands, since God's word remains authoritative and unchanged regardless of shifting circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "6as6Bz2amJY",
     "start_time": 2005.0599975585938,
-    "end_time": 2068.3800048828125
+    "end_time": 2068.3800048828125,
+    "point_summary": "The unnamed servant's description of David in 1 Samuel 16 illustrates that God's presence with a believer should be visibly evident to outside observers, even those who do not know the person's name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 2190.979949951172,
-    "end_time": 2266.479949951172
+    "end_time": 2266.479949951172,
+    "point_summary": "Saul's downfall is traced to the moment he ceased to be \"little in his own sight,\" replacing humble dependence on God's explicit command with self-sufficient judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "6eUsQrWOpqo",
     "start_time": 2190.979949951172,
-    "end_time": 2266.479949951172
+    "end_time": 2266.479949951172,
+    "point_summary": "Saul's failure is traced to pride displacing humility: when he ceased to be \"little in his own sight,\" he disobeyed God's clear commandment delivered through Samuel in that chapter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "6eUsQrWOpqo",
     "start_time": 2190.979949951172,
-    "end_time": 2266.479949951172
+    "end_time": 2266.479949951172,
+    "point_summary": "Saul's failure to obey God's clear command in 1 Samuel 15:1–2 is cited as evidence that pride had displaced the humility—being \"little in his own sight\"—that once marked his obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1092.3200073242188,
-    "end_time": 1154.9400024414062
+    "end_time": 1154.9400024414062,
+    "point_summary": "God's command to destroy Amalek in 1 Samuel 15:1–3 is grounded in divine memory of Amalek's prior aggression against Israel, and cannot be rightly understood apart from that historical context in Exodus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -305,7 +359,9 @@
     "is_implicit": true,
     "video_id": "6ujPxedm1ss",
     "start_time": 1268.239990234375,
-    "end_time": 1329.3999938964844
+    "end_time": 1329.3999938964844,
+    "point_summary": "1 Samuel 15 must be read alongside Exodus 17 and Deuteronomy 25 to understand God's commanded destruction of Amalek as the fulfillment of a long-established divine judgment, not arbitrary cruelty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "7rseeVx8SA0",
     "start_time": 1479.1199645996094,
-    "end_time": 1538.5999755859375
+    "end_time": 1538.5999755859375,
+    "point_summary": "Partial obedience, illustrated by Saul's failure to fully destroy the Amalekites, is treated as disobedience, because God places a premium on complete obedience to His prescribed commands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2014.1599731445312,
-    "end_time": 2071.5199584960938
+    "end_time": 2071.5199584960938,
+    "point_summary": "Fearing and serving God wholeheartedly is grounded in remembrance of what He has done, cited here as one of a chain of Scripture passages calling for whole-hearted devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1474.5000305175781,
-    "end_time": 1539.4200439453125
+    "end_time": 1539.4200439453125,
+    "point_summary": "Recognizing God's providence enables restraint over the flesh's impulse to retaliate, and David's life in 1 Samuel 24 illustrates the spiritual maturity of trusting God rather than taking matters into one's own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1474.5000305175781,
-    "end_time": 1539.4200439453125
+    "end_time": 1539.4200439453125,
+    "point_summary": "Recognizing God's providence enables restraint; David's anointing in 1 Samuel 16—while faithfully tending sheep, uninvited, yet chosen—illustrates that spiritual maturity trusts God's control rather than forcing outcomes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1539.4200439453125,
-    "end_time": 1613.2600402832031
+    "end_time": 1613.2600402832031,
+    "point_summary": "David's anointing as king in 1 Samuel 16 illustrates that God sovereignly chooses and positions His servants without their seeking it, calling believers to trust His control rather than take matters into their own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1539.4200439453125,
-    "end_time": 1613.2600402832031
+    "end_time": 1613.2600402832031,
+    "point_summary": "David's defeat of Goliath in 1 Samuel 17 is cited as evidence that he acted in obedience to his father's errand, not personal ambition, trusting God rather than taking matters into his own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1681.2600402832031,
-    "end_time": 1744.3800659179688
+    "end_time": 1744.3800659179688,
+    "point_summary": "Even when his own men urged him to seize the moment as God-given, David refused to harm Saul because he recognized Saul as the Lord's anointed, and his conscience smote him for even cutting his robe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1681.2600402832031,
-    "end_time": 1744.3800659179688
+    "end_time": 1744.3800659179688,
+    "point_summary": "Saul's pursuit of David with 3,000 chosen men establishes the life-threatening pressure under which David refused to take vengeance into his own hands against God's anointed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Even when God's providence places an enemy within reach and companions urge action, restraint toward the Lord's anointed—not retaliation—is the right response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Even when provoked by his own men to act, David's conscience smote him for the smallest offense against God's anointed, refusing to stretch forth his hand against Saul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Restraint toward God's anointed—not retaliation—marks David's response when his own men urge him to seize the moment and kill Saul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Resisting the counsel of others who urge retaliation, David refused to strike Saul because he recognized him as the Lord's anointed and would not take matters into his own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Even when others urge retaliation and opportunity presents itself, David refused to strike God's anointed, demonstrating that restraint—not revenge—marks the man who trusts God's timing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1744.3800659179688,
-    "end_time": 1800.02001953125
+    "end_time": 1800.02001953125,
+    "point_summary": "Even when others urge retaliation, David's refusal to harm Saul despite having opportunity demonstrates that godly restraint resists the pressure of those who provoke us to take matters into our own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1872.8200225830078,
-    "end_time": 1932.780014038086
+    "end_time": 1932.780014038086,
+    "point_summary": "1 Samuel 26:1 sets the scene of Saul's renewed pursuit of David in the wilderness of Ziph, framing the second opportunity David had to take vengeance into his own hands but chose restraint instead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1872.8200225830078,
-    "end_time": 1932.780014038086
+    "end_time": 1932.780014038086,
+    "point_summary": "The wilderness setting of 1 Samuel 26:3 establishes the moment when David, surrounded and pursued by Saul's three thousand men, chose restraint over retaliation despite having every circumstantial opportunity to act otherwise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1872.8200225830078,
-    "end_time": 1932.780014038086
+    "end_time": 1932.780014038086,
+    "point_summary": "Even when circumstances and companions present a seemingly God-given opportunity for vengeance, restraint is required because acting against the Lord's anointed brings guilt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1932.780014038086,
-    "end_time": 2003.6600189208984
+    "end_time": 2003.6600189208984,
+    "point_summary": "Vengeance against God's anointed belongs to God alone, and David refuses to let even a willing surrogate act in his place against Saul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1932.780014038086,
-    "end_time": 2003.6600189208984
+    "end_time": 2003.6600189208984,
+    "point_summary": "David's refusal to let Abishai strike Saul rests on his conviction that God is alive and in control, and that vengeance against the Lord's anointed belongs to the Lord alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 1932.780014038086,
-    "end_time": 2003.6600189208984
+    "end_time": 2003.6600189208984,
+    "point_summary": "David's refusal to let Abishai strike Saul illustrates that trusting God as the living Lord means leaving vengeance in His hands rather than acting through a willing proxy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2003.6600189208984,
-    "end_time": 2075.7000122070312
+    "end_time": 2075.7000122070312,
+    "point_summary": "God's providential sleep falling on Saul's camp confirms David's conviction that the living Lord—not human hands—would deal with His anointed in His own time.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2003.6600189208984,
-    "end_time": 2075.7000122070312
+    "end_time": 2075.7000122070312,
+    "point_summary": "David's refusal to let Abishai strike Saul rests on the conviction that the living God will deal with His anointed in His own time, making human vengeance both unnecessary and guilty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2003.6600189208984,
-    "end_time": 2075.7000122070312
+    "end_time": 2075.7000122070312,
+    "point_summary": "Positioned between two accounts of David resisting vengeance against Saul, 1 Samuel 25 is identified as a key passage illustrating the principle of not taking matters into one's own hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2076.060028076172,
-    "end_time": 2135.7200317382812
+    "end_time": 2135.7200317382812,
+    "point_summary": "When God provides an opportunity for revenge, trusting Him means refusing to act—as David twice declined to strike Saul, choosing instead to let the Lord deal with His anointed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2076.060028076172,
-    "end_time": 2135.7200317382812
+    "end_time": 2135.7200317382812,
+    "point_summary": "When God provides a second opportunity for David to kill Saul, David again refuses, restraining even Abishai, trusting that the Lord himself will deal with the anointed king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2076.060028076172,
-    "end_time": 2135.7200317382812
+    "end_time": 2135.7200317382812,
+    "point_summary": "Positioned between two episodes of David refusing to harm Saul, 1 Samuel 25 illustrates the temptation to take matters into one's own hands against an adversary who is not the Lord's anointed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2135.7200317382812,
-    "end_time": 2213.1800231933594
+    "end_time": 2213.1800231933594,
+    "point_summary": "When good deeds are repaid with evil, the temptation to take violent revenge into one's own hands—as David vowed against Nabal—mirrors the same failure seen in Dinah's brothers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2135.7200317382812,
-    "end_time": 2213.1800231933594
+    "end_time": 2213.1800231933594,
+    "point_summary": "When wronged by Nabal's ingratitude, David resolved to take lethal vengeance into his own hands—illustrating that even godly men can fall into the same error as Jacob's sons when they act on wrath rather than waiting on God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2495.020004272461,
-    "end_time": 2571.8200073242188
+    "end_time": 2571.8200073242188,
+    "point_summary": "When God intervenes to judge the wicked, the one who waited rather than acting in vengeance is kept from evil and bears no reproach on his testimony.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "aG_nBkVcOeE",
     "start_time": 2571.8200073242188,
-    "end_time": 2640.040008544922
+    "end_time": 2640.040008544922,
+    "point_summary": "Sandwiched between two episodes involving Saul, David's near-vengeance against Nabal illustrates how taking matters into one's own hands reflects a failure to trust that God will plead one's cause and avenge wrongs himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "aqe1f-L2aGE",
     "start_time": 2531.220016479492,
-    "end_time": 2602.7000122070312
+    "end_time": 2602.7000122070312,
+    "point_summary": "When churches drift leftward with the culture and abandon biblical standards, they become like Ichabod — the glory of the Lord has departed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "B2bISRh1PFo",
     "start_time": 2502.559959411621,
-    "end_time": 2560.199951171875
+    "end_time": 2560.199951171875,
+    "point_summary": "Ceasing to pray for others is itself a sin against God, as Samuel's own confession frames prayerlessness not merely as neglect but as moral failure before the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 66.36000061035156,
-    "end_time": 130.47999572753906
+    "end_time": 130.47999572753906,
+    "point_summary": "David's inquiry of the Lord and subsequent deliverance of Keilah from the Philistines serves as the opening context for the chapter's broader lesson, introduced here as background before the sermon's focus on verses 16–18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 130.52000427246094,
-    "end_time": 192.9600067138672
+    "end_time": 192.9600067138672,
+    "point_summary": "Saul misreads David's presence in the walled city of Keilah as a divine trap, declaring \"God hath delivered him into mine hand,\" revealing how victory can immediately give way to new danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 130.52000427246094,
-    "end_time": 192.9600067138672
+    "end_time": 192.9600067138672,
+    "point_summary": "Saul's summoning of his forces to besiege Keilah contrasts sharply with David's prior deliverance of that same city, exposing Saul's pursuit of David as self-serving rather than protective of God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 435.20001220703125,
-    "end_time": 494.760009765625
+    "end_time": 494.760009765625,
+    "point_summary": "Jonathan's awareness of Saul's secret murderous agenda toward David—evident from 1 Samuel 18's account of Saul's schemes—forms the backdrop for understanding why his encouragement of David was so deliberate and costly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 495.4800109863281,
-    "end_time": 556.1599731445312
+    "end_time": 556.1599731445312,
+    "point_summary": "Jonathan's deep covenant love for David—soul knit to soul and sealed by the giving of his robe, sword, and bow—established the friendship that made him both aware of and positioned to counter Saul's secret agenda against David.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 495.4800109863281,
-    "end_time": 556.1599731445312
+    "end_time": 556.1599731445312,
+    "point_summary": "The covenant Jonathan made with David — rooted in a love as deep as his own soul — established the friendship that made Jonathan aware of and responsive to Saul's murderous agenda against David.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 495.4800109863281,
-    "end_time": 556.1599731445312
+    "end_time": 556.1599731445312,
+    "point_summary": "Jonathan's covenant with David in 1 Samuel 18:1–4, marked by the giving of his robe and weapons, established the deep friendship that made Jonathan fully aware of — and opposed to — his father's secret agenda to destroy David.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 556.1599731445312,
-    "end_time": 618.0400218963623
+    "end_time": 618.0400218963623,
+    "point_summary": "Saul's previously secret agenda to kill David becomes an open command in 19:1, marking the moment Jonathan is forced to choose between loyalty to his father and his covenant friendship with David.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 556.1599731445312,
-    "end_time": 618.0400218963623
+    "end_time": 618.0400218963623,
+    "point_summary": "Jonathan's appeal to Saul against killing David rests on David's innocent blood and God-given deliverance of Israel, framing the proposed murder as sin without cause.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 925.9800109863281,
-    "end_time": 996.9000244140625
+    "end_time": 996.9000244140625,
+    "point_summary": "In contrast to 1 Samuel 30, where David had no Jonathan and encouraged himself in the Lord alone, here in chapter 23 God sent Jonathan to physically strengthen David's hand in God during his wilderness flight from Saul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 925.9800109863281,
-    "end_time": 996.9000244140625
+    "end_time": 996.9000244140625,
+    "point_summary": "In 1 Samuel 23, Jonathan's deliberate journey to find David in the wilderness illustrates how God uses faithful friends to strengthen and encourage his people in their most desperate moments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "blAWZntFW5E",
     "start_time": 925.9800109863281,
-    "end_time": 996.9000244140625
+    "end_time": 996.9000244140625,
+    "point_summary": "The covenant friendship between Jonathan and David, traced from 1 Samuel 18 through 20, provides the relational foundation that makes Jonathan's arrival to strengthen David in the wilderness so meaningful.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -800,7 +944,9 @@
     "is_implicit": true,
     "video_id": "blAWZntFW5E",
     "start_time": 925.9800109863281,
-    "end_time": 996.9000244140625
+    "end_time": 996.9000244140625,
+    "point_summary": "Jonathan's willingness to leave safety and go to David in the wilderness illustrates how God uses covenant friendship to strengthen and encourage his people in their most desperate moments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 1206.120029449463,
-    "end_time": 1271.9600296020508
+    "end_time": 1271.9600296020508,
+    "point_summary": "God's rebuke of Samuel's prolonged grief over Saul — \"How long wilt thou mourn?\" — frames the divine appointment of David as king, showing that God's sovereign plan moves forward even when his servants linger in sorrow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 1271.9600296020508,
-    "end_time": 1340.3600311279297
+    "end_time": 1340.3600311279297,
+    "point_summary": "David's confession that \"there is but a step between me and death\" illustrates the extreme danger he faced as a fugitive, providing the desperate context into which Jonathan spoke God's promises of protection and future kingship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "blAWZntFW5E",
     "start_time": 1688.52001953125,
-    "end_time": 1751.9200439453125
+    "end_time": 1751.9200439453125,
+    "point_summary": "Jonathan's timely visit to strengthen David's hand in God (1 Sam. 23) illustrates that God uses willing, sensitive believers to encourage others in the midst of trials, even as He works miraculously to deliver them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "bLIlrTCCUAY",
     "start_time": 2174.739990234375,
-    "end_time": 2247.1799926757812
+    "end_time": 2247.1799926757812,
+    "point_summary": "David's words in 1 Samuel 20:3—\"there is but a step between me and death\"—are applied beyond their original context of Saul's pursuit to underscore the universal nearness of death for every person.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 1823.0399837493896,
-    "end_time": 1886.6199798583984
+    "end_time": 1886.6199798583984,
+    "point_summary": "David's testimony before Saul in 1 Samuel 17 is cited as his own acknowledgment that God—not his personal strength—gave him victory over the bear and lion that threatened his flock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 367.8800048828125,
-    "end_time": 424.94000244140625
+    "end_time": 424.94000244140625,
+    "point_summary": "Referenced as background context establishing that David had been anointed king in chapter 16, setting the narrative foundation before the sermon's focus on David's wise behavior in chapter 18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 367.8800048828125,
-    "end_time": 424.94000244140625
+    "end_time": 424.94000244140625,
+    "point_summary": "David's wise behavior—highlighted across 1 Samuel 17–18 as the backdrop to his conduct before Saul and Israel—illustrates what it means practically to \"walk in wisdom\" as commanded in Colossians 4:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 367.8800048828125,
-    "end_time": 424.94000244140625
+    "end_time": 424.94000244140625,
+    "point_summary": "David's wise behavior in 1 Samuel 18—accepted by the people and accompanied by God's presence—illustrates the call to \"walk in wisdom\" as a pattern of conduct that shapes one's testimony before others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 424.94000244140625,
-    "end_time": 493.1000061035156
+    "end_time": 493.1000061035156,
+    "point_summary": "David's consistent wise behavior—wherever Saul sent him—is presented as a key factor explaining why the Lord was with him, illustrating the connection between walking wisely and God's blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 424.94000244140625,
-    "end_time": 493.1000061035156
+    "end_time": 493.1000061035156,
+    "point_summary": "David's consistent wise behavior in all his ways is presented as a key factor explaining why the Lord was with him — a pattern the sermon connects to the call for New Testament believers to walk wisely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 493.1000061035156,
-    "end_time": 556.9400024414062
+    "end_time": 556.9400024414062,
+    "point_summary": "Wise behavior, demonstrated consistently even under pressure, results in a name held in high regard — illustrating the Colossians 4:5 call to walk in wisdom toward outsiders.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 620.2799854278564,
-    "end_time": 679.7999877929688
+    "end_time": 679.7999877929688,
+    "point_summary": "David's unnamed observer in 1 Samuel 16:18 illustrates that people are watching believers and forming assessments of their character, prompting the question of what others would say about you.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "DD1J83Jop74",
     "start_time": 679.7999877929688,
-    "end_time": 745.1599884033203
+    "end_time": 745.1599884033203,
+    "point_summary": "An unnamed servant's unsolicited commendation of David illustrates that others are constantly observing our lives and forming conclusions about our character, even without our awareness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "DSAVnV2bHaY",
     "start_time": 355.9800109863281,
-    "end_time": 427.5400085449219
+    "end_time": 427.5400085449219,
+    "point_summary": "God's direct speech to Samuel in 1 Samuel 3:10 is cited as a biblical example of pre-canon revelation, illustrating that God communicated future events to his people through dreams and visions before Scripture was completed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -965,7 +1139,9 @@
     "is_implicit": true,
     "video_id": "EQ65fAikytg",
     "start_time": 2485.4599990844727,
-    "end_time": 2552.479995727539
+    "end_time": 2552.479995727539,
+    "point_summary": "Approaching God's Word with the posture of \"Speak, Lord, for thy servant heareth\" is presented as the daily disposition that cultivates readiness for God to move in revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "EYMGpQZnswg",
     "start_time": 1570.2200317382812,
-    "end_time": 1646.3000183105469
+    "end_time": 1646.3000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2061.739959716797,
-    "end_time": 2128.179962158203
+    "end_time": 2128.179962158203,
+    "point_summary": "David's prayer before fighting Goliath was not for personal fame but that God alone would be exalted—paralleling Hezekiah's petition that all nations would know the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "gAWTJ24fm_g",
     "start_time": 933.4200134277344,
-    "end_time": 1005.780029296875
+    "end_time": 1005.780029296875,
+    "point_summary": "David's confidence against Goliath is cited as evidence that experiential knowledge of God's past faithfulness produces active faith in His present ability to act.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1009,7 +1191,9 @@
     "is_implicit": true,
     "video_id": "hwLKY1FAuwU",
     "start_time": 356.70001220703125,
-    "end_time": 421.3399963378906
+    "end_time": 421.3399963378906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 2749.5199584960938,
-    "end_time": 2814.5199584960938
+    "end_time": 2814.5199584960938,
+    "point_summary": "Those who criticize others for stepping out in faith—like David's brothers attacking him before Goliath—are themselves doing nothing, and will answer to God for it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 2814.5199584960938,
-    "end_time": 2881.5199584960938
+    "end_time": 2881.5199584960938,
+    "point_summary": "In 1 Samuel 17, David alone acts for God while those who do nothing—Saul, Eliab, and the others—are the very ones casting judgment on him, illustrating that critics should first examine their own hearts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "jcFu5W9Vr5Y",
     "start_time": 2202.8200073242188,
-    "end_time": 2285.02001953125
+    "end_time": 2285.02001953125,
+    "point_summary": "Death's nearness — \"there is but a step between me and death\" (1 Sam. 20:3) — grounds the call for believers to examine their pilgrimage and live with eternity in view.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1053,7 +1243,9 @@
     "is_implicit": true,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1984.800048828125,
-    "end_time": 2054.9200592041016
+    "end_time": 2054.9200592041016,
+    "point_summary": "Whereas God once spoke audibly to his servants, Scripture itself is now his voice, and believers should approach Bible reading and worship with Samuel's posture of expectant, attentive listening.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "JzHG21T_weU",
     "start_time": 2478.56005859375,
-    "end_time": 2551.4400634765625
+    "end_time": 2551.4400634765625,
+    "point_summary": "David's life was so consistently godly that a servant who may have been unknown to him could give a thorough, credible testimony of his character, skill, and walk with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "K59Hg_UGQAM",
     "start_time": 1049.0400085449219,
-    "end_time": 1112.8400268554688
+    "end_time": 1112.8400268554688,
+    "point_summary": "David's refusal of Saul's armor when facing Goliath illustrates that he trusted God alone as deliverer, not his own strength or resources.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "KnZFjfOQSr4",
     "start_time": 1678.7000122070312,
-    "end_time": 1758.4600219726562
+    "end_time": 1758.4600219726562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1097,7 +1295,9 @@
     "is_implicit": true,
     "video_id": "l6dkHfTMar4",
     "start_time": 907.7000122070312,
-    "end_time": 973.1800231933594
+    "end_time": 973.1800231933594,
+    "point_summary": "Bringing a prepared, receptive heart before God's word is illustrated by Samuel's posture—\"Speak, Lord, for thy servant heareth\"—held up as the model disposition for daily Bible reading and corporate worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "LgRl3wwGxNo",
     "start_time": 669.8000106811523,
-    "end_time": 735.760009765625
+    "end_time": 735.760009765625,
+    "point_summary": "God's unseen internal work in the believer is grounded in the truth that, as in Samuel's evaluation of David, man sees only the outward while God sees the inward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "LgRl3wwGxNo",
     "start_time": 798.9200134277344,
-    "end_time": 864.8399963378906
+    "end_time": 864.8399963378906,
+    "point_summary": "God's primary concern is the heart's inward condition, not outward appearance — a truth invoked here to frame the internal work of God's love that will eventually produce visible, external evidence in the believer's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "LgRl3wwGxNo",
     "start_time": 864.8399963378906,
-    "end_time": 932.1199951171875
+    "end_time": 932.1199951171875,
+    "point_summary": "David's inward character, seen by God alone (v. 7), was nonetheless visibly confirmed to an unnamed servant through the external evidence of a godly life described in verse 18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "LgRl3wwGxNo",
     "start_time": 2809.6399841308594,
-    "end_time": 2890.959991455078
+    "end_time": 2890.959991455078,
+    "point_summary": "David's example in 1 Samuel 16 illustrates that God knows the heart internally, while outward life serves as observable evidence of that inward reality.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "M95WZQin3TU",
     "start_time": 993.1599731445312,
-    "end_time": 1056.1599731445312
+    "end_time": 1056.1599731445312,
+    "point_summary": "David's courage against Goliath in 1 Samuel 17 is invoked to show that his later posture of waiting on God rather than acting independently represents genuine spiritual growth, not weakness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "NdxnTfKxPaI",
     "start_time": 933.1799926757812,
-    "end_time": 1004.3800048828125
+    "end_time": 1004.3800048828125,
+    "point_summary": "When discouragement bows the head, God is the one who lifts it — as David demonstrated by encouraging himself in the Lord even when his own people threatened to stone him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 0.0,
-    "end_time": 53.0
+    "end_time": 53.0,
+    "point_summary": "The birth of Samuel, the subject of 1 Samuel 3, is rooted in Hannah's earnest, plainly stated petition to God, illustrating that specific, sincere asking precedes divine answer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 0.0,
-    "end_time": 53.0
+    "end_time": 53.0,
+    "point_summary": "Hannah's barrenness and earnest, plainly stated petition for a son illustrate the biblical principle that God responds to direct, sincere prayer, with Samuel's birth as the concrete result.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 53.0,
-    "end_time": 121.0999984741211
+    "end_time": 121.0999984741211,
+    "point_summary": "Hannah's naming of Samuel — meaning \"asked of the Lord\" — is cited to establish that Samuel's very existence was the direct answer to earnest, plainly stated prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 121.0999984741211,
-    "end_time": 186.8000030517578
+    "end_time": 186.8000030517578,
+    "point_summary": "The scarcity of God's word and the absence of open vision in Samuel's day establishes the extraordinary significance of the divine communication about to occur.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 186.8000030517578,
-    "end_time": 246.86000061035156
+    "end_time": 246.86000061035156,
+    "point_summary": "Eli's failing eyesight in verse 2 is presented as part of a broader scene of spiritual decline, alongside the scarcity of God's word and the extinguished temple lamp, setting the context for Samuel's call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 186.8000030517578,
-    "end_time": 246.86000061035156
+    "end_time": 246.86000061035156,
+    "point_summary": "The extinguished lamp in the temple — a priestly duty left undone — frames the spiritual neglect of Eli's era and sets the scene for God's direct word to Samuel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 186.8000030517578,
-    "end_time": 246.86000061035156
+    "end_time": 246.86000061035156,
+    "point_summary": "The scarcity of God's word in Samuel's day — described as \"precious\" and accompanied by no open vision — sets the spiritual darkness against which God's call to Samuel becomes significant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 246.86000061035156,
-    "end_time": 316.8399963378906
+    "end_time": 316.8399963378906,
+    "point_summary": "The extinguished lamp in the temple — a priestly duty left undone — frames the spiritual negligence of Eli's era and sets the scene for God's sovereign initiative in calling Samuel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 246.86000061035156,
-    "end_time": 316.8399963378906
+    "end_time": 316.8399963378906,
+    "point_summary": "Eli's instruction to Samuel — \"Speak, Lord; for thy servant heareth\" — frames the sermon's central call: God persistently desires to speak to His children, and still does so today through His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1273,7 +1503,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 246.86000061035156,
-    "end_time": 316.8399963378906
+    "end_time": 316.8399963378906,
+    "point_summary": "God's persistent calling of Samuel in verses 4–8 establishes that the Lord desires to speak to His servants, a pattern the sermon presents as continuing for believers today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1284,7 +1516,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 246.86000061035156,
-    "end_time": 316.8399963378906
+    "end_time": 316.8399963378906,
+    "point_summary": "God's persistence in calling Samuel three times before Eli recognized the divine voice illustrates that the Lord desires to speak to His children and will not easily be turned away.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 316.8399963378906,
-    "end_time": 381.6000061035156
+    "end_time": 381.6000061035156,
+    "point_summary": "God's persistent desire to speak to His servants is illustrated in His repeated calling of Samuel by name, with Samuel's immediate response — \"Here am I\" — showing the natural readiness of a servant who is listening.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 653.0400085449219,
-    "end_time": 718.4400100708008
+    "end_time": 718.4400100708008,
+    "point_summary": "God's persistence in calling Samuel, even through a season of spiritual dryness, mirrors His ongoing desire to speak to believers today through His Word and the prompting of the Holy Spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 653.0400085449219,
-    "end_time": 718.4400100708008
+    "end_time": 718.4400100708008,
+    "point_summary": "Eli's perception in verse 8 — recognizing after the third call that God was speaking to Samuel — illustrates the vital role a spiritual mentor plays in helping others discern the voice of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 786.9200134277344,
-    "end_time": 866.9200134277344
+    "end_time": 866.9200134277344,
+    "point_summary": "Eli's counsel in verse 9 marks a turning point: once he perceived the divine source of the call, his instruction to Samuel shifted from mere rest to active, receptive response before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 786.9200134277344,
-    "end_time": 866.9200134277344
+    "end_time": 866.9200134277344,
+    "point_summary": "In verse 5, Eli's repeated instruction to \"lie down again\" is shown to be incomplete counsel—unchanged until Eli perceived the divine source of the call and redirected Samuel toward God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 786.9200134277344,
-    "end_time": 866.9200134277344
+    "end_time": 866.9200134277344,
+    "point_summary": "Eli's repeated instruction to \"lie down again\" in verse 6 represents counsel that had not yet accounted for the divine source of the call, contrasting with the transformed guidance he gives once he perceives it is the Lord speaking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 866.9200134277344,
-    "end_time": 941.2400207519531
+    "end_time": 941.2400207519531,
+    "point_summary": "Samuel's response of \"Speak, for thy servant heareth\" illustrates the proper posture of God's servant: one who heeds godly counsel and acknowledges the Lord-servant relationship in humble availability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1372,7 +1620,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1088.3200073242188,
-    "end_time": 1168.3800048828125
+    "end_time": 1168.3800048828125,
+    "point_summary": "Samuel's response \"Speak, Lord, for thy servant heareth\" models a posture of hearing God's Word with the deliberate purpose of obedience, not passive reception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1168.3800048828125,
-    "end_time": 1248.320011138916
+    "end_time": 1248.320011138916,
+    "point_summary": "Hearing God's Word with a posture of obedience — expressed in Samuel's \"Speak, Lord, for thy servant heareth\" — is immediately answered by the Lord speaking, showing that such readiness invites divine response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1168.3800048828125,
-    "end_time": 1248.320011138916
+    "end_time": 1248.320011138916,
+    "point_summary": "God's response — \"And the Lord said\" — is presented as the direct, gracious consequence of Samuel's posture of attentive obedience expressed in verse 10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1333.4400177001953,
-    "end_time": 1394.6000061035156
+    "end_time": 1394.6000061035156,
+    "point_summary": "God's word to Samuel in verse 11 marks the first of a recurring pattern of divine speech throughout Samuel's life, establishing him as a man who consistently heard from God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1333.4400177001953,
-    "end_time": 1394.6000061035156
+    "end_time": 1394.6000061035156,
+    "point_summary": "Samuel's lifelong pattern of hearing from God began in chapter 3, with verse 19 confirming that God's continued presence and faithfulness to Samuel's words marked him as one who truly listened.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1333.4400177001953,
-    "end_time": 1394.6000061035156
+    "end_time": 1394.6000061035156,
+    "point_summary": "God's repeated self-revelation to Samuel at Shiloh by His Word is presented as the first of many divine communications, establishing a pattern of God speaking to those who are listening.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1333.4400177001953,
-    "end_time": 1394.6000061035156
+    "end_time": 1394.6000061035156,
+    "point_summary": "God's ongoing communication with Samuel—seen here in His direct word correcting Israel's demand for a king—illustrates that Samuel remained a man who heard and received divine revelation throughout his life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1394.6000061035156,
-    "end_time": 1458.4000244140625
+    "end_time": 1458.4000244140625,
+    "point_summary": "Cited as one instance in a survey of God's ongoing communication with Samuel, showing that even in Israel's rejection of divine kingship, God continued to speak directly to Samuel, keeping him informed of what was truly at stake.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1394.6000061035156,
-    "end_time": 1458.4000244140625
+    "end_time": 1458.4000244140625,
+    "point_summary": "God's ongoing communication with Samuel is illustrated by His whispering Saul's arrival and anointing into Samuel's ear a full day before it occurred.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1394.6000061035156,
-    "end_time": 1458.4000244140625
+    "end_time": 1458.4000244140625,
+    "point_summary": "God's ongoing communication with Samuel is illustrated by His whispering Saul's arrival and anointing into Samuel's ear a full day before the event, demonstrating the intimacy and specificity of divine revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1394.6000061035156,
-    "end_time": 1458.4000244140625
+    "end_time": 1458.4000244140625,
+    "point_summary": "God's direct word to Samuel the day before Saul's arrival—identifying the man and his mission—illustrates the pattern of divine speech to Samuel that the sermon traces across 1 Samuel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1458.4000244140625,
-    "end_time": 1523.760009765625
+    "end_time": 1523.760009765625,
+    "point_summary": "God's word coming to Samuel in 1 Samuel 15:10 marks the moment He communicates truth about Saul's rejection as king, illustrating the pattern of divine speech to Samuel throughout his ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1458.4000244140625,
-    "end_time": 1523.760009765625
+    "end_time": 1523.760009765625,
+    "point_summary": "God's direct command to Samuel in 1 Samuel 16:1 — overcoming Samuel's mourning for Saul — illustrates the pattern of divine speech guiding Samuel at each critical turning point in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1458.4000244140625,
-    "end_time": 1523.760009765625
+    "end_time": 1523.760009765625,
+    "point_summary": "When Samuel misjudges Eliab by outward appearance, God's corrective word to him illustrates why divine communication was essential: without it, even the prophet would have anointed the wrong man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1526,7 +1802,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1458.4000244140625,
-    "end_time": 1523.760009765625
+    "end_time": 1523.760009765625,
+    "point_summary": "God's corrective word to Samuel at Jesse's house illustrates that divine speech redirects human judgment, since man sees outward appearance while God looks on the heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1523.760009765625,
-    "end_time": 1590.52001953125
+    "end_time": 1590.52001953125,
+    "point_summary": "God's corrective word to Samuel at the moment of near-mistaken anointing illustrates that divine speech guards against human judgment, which evaluates outward appearance rather than the heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1523.760009765625,
-    "end_time": 1590.52001953125
+    "end_time": 1590.52001953125,
+    "point_summary": "Samuel's lifelong posture of attentiveness to God's voice—learned in 1 Samuel 3:9—is shown bearing fruit in his ability to receive divine correction and guidance throughout his later ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1523.760009765625,
-    "end_time": 1590.52001953125
+    "end_time": 1590.52001953125,
+    "point_summary": "God's ongoing speech to Samuel throughout 1 Samuel 16 — correcting his assumption about Eliab and guiding him past each son to the overlooked shepherd boy — illustrates the fruit of a life trained to hear and heed God's voice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1592.6400146484375,
-    "end_time": 1659.4000244140625
+    "end_time": 1659.4000244140625,
+    "point_summary": "God's command \"arise, anoint him, for this is he\" at David's appearance illustrates Samuel's lifelong pattern of hearing God's voice and obeying it without hesitation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1592.6400146484375,
-    "end_time": 1659.4000244140625
+    "end_time": 1659.4000244140625,
+    "point_summary": "Samuel's obedience to God's command \"arise, anoint him\" in 1 Samuel 16:13 illustrates the lifelong pattern of hearing God with a view to obeying that Samuel established in chapter three.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1592.6400146484375,
-    "end_time": 1659.4000244140625
+    "end_time": 1659.4000244140625,
+    "point_summary": "Hearing God with a view to obeying—illustrated by Samuel's consistent response throughout his life—is what made his posture in 1 Samuel 3:9 formative for every subsequent act of obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1659.4000244140625,
-    "end_time": 1736.5599975585938
+    "end_time": 1736.5599975585938,
+    "point_summary": "God's message to Samuel in 1 Samuel 3:11 is characterized as a revelation of future judgment—something not yet done, graciously disclosed to His servant before it occurred.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1614,7 +1906,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2004.4199981689453,
-    "end_time": 2074.0
+    "end_time": 2074.0,
+    "point_summary": "Samuel's posture of readiness to hear God — \"Speak, for thy servant heareth\" — is presented as the model disposition through which God reveals future events that come to pass exactly as spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2136.1199951171875,
-    "end_time": 2197.239990234375
+    "end_time": 2197.239990234375,
+    "point_summary": "God's call to hear with a view to obedience, voiced by Samuel in 1 Samuel 3 and echoed seven times in Revelation 2–3, establishes hearing as inseparable from willing submission to what God reveals.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1636,7 +1932,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2197.239990234375,
-    "end_time": 2270.8800048828125
+    "end_time": 2270.8800048828125,
+    "point_summary": "Samuel's posture of attentive obedience—\"Speak, for thy servant heareth\"—is presented as the model for the hearing that Revelation repeatedly calls the churches to: understanding with a view to obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2544.1599884033203,
-    "end_time": 2617.199981689453
+    "end_time": 2617.199981689453,
+    "point_summary": "Samuel's posture of attentive obedience — \"Speak, Lord, for thy servant heareth\" — is applied as the model response to Christ's knocking in Revelation 3:20, where hearing and opening the door leads to fellowship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2617.199981689453,
-    "end_time": 2687.239990234375
+    "end_time": 2687.239990234375,
+    "point_summary": "Samuel's obedient response — \"Speak, for thy servant heareth\" — is presented as a model posture for believers who open Scripture and invite God to address every area of their lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2687.519989013672,
-    "end_time": 2771.2799682617188
+    "end_time": 2771.2799682617188,
+    "point_summary": "Hearing God's voice through Scripture requires a posture of deliberate, receptive prayer—mirroring Samuel's response—so that divine instruction shapes every dimension of daily life and obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 3119.4799575805664,
-    "end_time": 3218.919967651367
+    "end_time": 3218.919967651367,
+    "point_summary": "Receptivity to God's Word requires an active, personal posture of surrender, expressed in Samuel's words \"Speak, Lord; for thy servant heareth,\" not merely the mechanical habit of Bible-reading.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "o9-gWdlQUaY",
     "start_time": 3218.919967651367,
-    "end_time": 3286.0399475097656
+    "end_time": 3286.0399475097656,
+    "point_summary": "Samuel's posture of availability — \"Speak, Lord; for thy servant heareth\" — is held up as the model response believers are called to imitate in their own commitment to hear God through His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 126.44000244140625,
-    "end_time": 195.25999450683594
+    "end_time": 195.25999450683594,
+    "point_summary": "Isaac's confession \"I know not the day of my death\" is universalized through David's words in 1 Samuel 20:3—\"there is but a step between me and death\"—as a truth binding every person regardless of age or circumstance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1713,7 +2023,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 1705.8599853515625,
-    "end_time": 1767.7999877929688
+    "end_time": 1767.7999877929688,
+    "point_summary": "David's designation as \"a man after God's own heart\" is invoked as the standard against which Solomon's divided, wife-turned heart is measured and found wanting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 926.6800231933594,
-    "end_time": 1005.4600219726562
+    "end_time": 1005.4600219726562,
+    "point_summary": "Samuel's prayer \"Speak, Lord, for thy servant heareth\" is cited as a daily personal petition the preacher prays before reading Scripture, expressing his desire to hear from God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "qmma5NLlSAk",
     "start_time": 2164.0599975585938,
-    "end_time": 2223.459991455078
+    "end_time": 2223.459991455078,
+    "point_summary": "1 Samuel 23 is cited as one concrete example from David's life of God delivering him in a way he could not orchestrate himself, illustrating that God does what we cannot do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "qmma5NLlSAk",
     "start_time": 2223.459991455078,
-    "end_time": 2281.97998046875
+    "end_time": 2281.97998046875,
+    "point_summary": "David's miraculous deliverance in 1 Samuel 23—where even the people he rescued were prepared to betray him to Saul—illustrates that God intervenes in ways no human strategy or manipulation could achieve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "qmma5NLlSAk",
     "start_time": 2281.97998046875,
-    "end_time": 2344.239990234375
+    "end_time": 2344.239990234375,
+    "point_summary": "Saul's relentless pursuit of David in the wilderness of Ziph—surrounding him on every side—provides the historical backdrop against which David's fear and desperate cry to God in Psalm 34 are understood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "qmma5NLlSAk",
     "start_time": 2281.97998046875,
-    "end_time": 2344.239990234375
+    "end_time": 2344.239990234375,
+    "point_summary": "Saul's relentless pursuit of David in the wilderness of Ziph — surrounding him on the mountain with no escape — establishes the desperate, fear-filled context from which Psalm 34's cry for deliverance likely arose.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "qmma5NLlSAk",
     "start_time": 2281.97998046875,
-    "end_time": 2344.239990234375
+    "end_time": 2344.239990234375,
+    "point_summary": "David's fear and encirclement by Saul's forces in 1 Samuel 23:26 illustrates the desperate, surrounded condition from which Psalm 34's testimony of divine deliverance from \"all his fears\" arose.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1628.6400146484375,
-    "end_time": 1697.760009765625
+    "end_time": 1697.760009765625,
+    "point_summary": "God's disclosure to Samuel in 1 Samuel 3 is cited as a pattern for how He grants believers insight into future events, not to discourage them but to keep them steadfast in their calling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 0.0,
-    "end_time": 56.720001220703125
+    "end_time": 56.720001220703125,
+    "point_summary": "The departure of God's Spirit from Saul and the resulting evil spirit establish the crisis that drives the servants to seek a man whose harp-playing might bring relief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 981.0799865722656,
-    "end_time": 1043.4399719238281
+    "end_time": 1043.4399719238281,
+    "point_summary": "David's return to shepherding his father's flock at Bethlehem establishes the back-and-forth movement between his service to Saul and his humble duties at home, setting the stage for his encounter with Goliath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1823,7 +2153,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1043.4399719238281,
-    "end_time": 1106.3599853515625
+    "end_time": 1106.3599853515625,
+    "point_summary": "David's willingness to pursue a lion and bear to recover a single lamb illustrates the personal courage that likely earned him the earlier description as a mighty, valiant man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1178.9199829101562,
-    "end_time": 1255.9399948120117
+    "end_time": 1255.9399948120117,
+    "point_summary": "David's past victories over the lion and bear become his stated proof that God would likewise deliver him from Goliath, grounding his courage in demonstrated divine faithfulness rather than self-confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1326.5399932861328,
-    "end_time": 1386.6999969482422
+    "end_time": 1386.6999969482422,
+    "point_summary": "David's bold declaration to Goliath in verse 46 is presented not as pride but as God-grounded courage, spoken in confidence that the Lord would give the victory so that all the earth would know there is a God in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1386.6999969482422,
-    "end_time": 1452.3399963378906
+    "end_time": 1452.3399963378906,
+    "point_summary": "David's declaration that the battle belongs to the Lord — not to sword or spear — shows that his courage was rooted in God's ownership of the victory, not in his own strength or desire for personal glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1386.6999969482422,
-    "end_time": 1452.3399963378906
+    "end_time": 1452.3399963378906,
+    "point_summary": "David's hasting and running toward Goliath is presented as the defining act of courage that flows from confidence in God's promised presence and victory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1386.6999969482422,
-    "end_time": 1452.3399963378906
+    "end_time": 1452.3399963378906,
+    "point_summary": "The women's song crediting David with ten thousands is cited not to celebrate David's fame but to show that his courage was directed toward magnifying God, not personal glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1889,7 +2231,9 @@
     "is_implicit": true,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1513.8200073242188,
-    "end_time": 1574.239990234375
+    "end_time": 1574.239990234375,
+    "point_summary": "David's repeated victories over the Philistines in 1 Samuel 18, summarized by the recurring phrase \"he behaved himself wisely,\" are cited as evidence of his God-given courage displayed throughout his military career.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1513.8200073242188,
-    "end_time": 1574.239990234375
+    "end_time": 1574.239990234375,
+    "point_summary": "David's courage is illustrated in 1 Samuel 23 by his willingness to deliver the besieged city of Keilah from Philistine invasion, pressing forward even when his own men were gripped by fear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 0.0,
-    "end_time": 68.4800033569336
+    "end_time": 68.4800033569336,
+    "point_summary": "The David and Goliath account in 1 Samuel 17 is so culturally embedded that even secular sports commentary once assumed its audience understood the biblical reference.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 181.83999633789062,
-    "end_time": 236.5
+    "end_time": 236.5,
+    "point_summary": "Familiar passages like 1 Samuel 17 risk being read on autopilot; examining David's specific statements reveals his character and heart before he ever became king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 300.5,
-    "end_time": 364.0199890136719
+    "end_time": 364.0199890136719,
+    "point_summary": "David's early rising, provision for the sheep, and prompt obedience to Jesse in verse 20 are presented as immediate textual evidence of his punctuality, responsibility, and obedience before the confrontation with Goliath begins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 364.0199890136719,
-    "end_time": 417.70001220703125
+    "end_time": 417.70001220703125,
+    "point_summary": "David's early rising, responsible stewardship of the sheep, and obedience to his father's command together reveal his punctual, responsible, and obedient character before his confrontation with Goliath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 364.0199890136719,
-    "end_time": 417.70001220703125
+    "end_time": 417.70001220703125,
+    "point_summary": "David's defiant declaration to Goliath — \"I come to thee in the name of the Lord of hosts\" — frames the sermon's central theme that true spiritual warfare is waged not with carnal weapons but in the name and power of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 417.70001220703125,
-    "end_time": 479.1600036621094
+    "end_time": 479.1600036621094,
+    "point_summary": "David's declaration — \"I come to thee in the name of the Lord of hosts\" — supplies the sermon's title and establishes that true spiritual warfare is waged not by carnal weapons but by the name and power of the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 479.1600036621094,
-    "end_time": 539.719970703125
+    "end_time": 539.719970703125,
+    "point_summary": "David's arrival at the battle line, described in verse 22, sets the scene for the moment he hears Goliath's defiance—the inciting encounter that drives the entire confrontation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 479.1600036621094,
-    "end_time": 539.719970703125
+    "end_time": 539.719970703125,
+    "point_summary": "The arrival of Goliath's challenge in verse 23 is treated as the defining problem Israel faced — a defiance of God's armies that David alone, coming in the name of the Lord, would answer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 479.1600036621094,
-    "end_time": 539.719970703125
+    "end_time": 539.719970703125,
+    "point_summary": "Goliath's challenge in verse 8 frames the central problem the Israelites faced: a defiant enemy demanding a champion, setting the stage for David's contrasting declaration to come in the name of the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 539.719970703125,
-    "end_time": 604.7200169563293
+    "end_time": 604.7200169563293,
+    "point_summary": "Goliath's challenge in verse 8 is the specific taunt David overheard upon arriving at the battlefield, framing the confrontation as a defiance directed against the armies of Israel's God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 539.719970703125,
-    "end_time": 604.7200169563293
+    "end_time": 604.7200169563293,
+    "point_summary": "Goliath's challenge in verse 9 frames the entire confrontation as a representative duel whose outcome would enslave the losing side, and it is precisely these terms that David hears and must reckon with.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 539.719970703125,
-    "end_time": 604.7200169563293
+    "end_time": 604.7200169563293,
+    "point_summary": "Goliath's defiant challenge — \"I defy the armies of Israel this day\" — is precisely what David heard upon arriving, making that moment of hearing the pivot point of the narrative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 981.1800231933594,
-    "end_time": 1037.4000244140625
+    "end_time": 1037.4000244140625,
+    "point_summary": "Israel's men, focused entirely on Goliath's threat and the king's reward, exemplify the danger of fixing one's perspective on the problem rather than on God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1168.1199951171875,
-    "end_time": 1230.7600021362305
+    "end_time": 1230.7600021362305,
+    "point_summary": "David's question — \"who is this uncircumcised Philistine that he should defy the armies of the living God?\" — reveals a perspective of faith fundamentally different from the army's fear-focused view of Goliath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1168.1199951171875,
-    "end_time": 1230.7600021362305
+    "end_time": 1230.7600021362305,
+    "point_summary": "The people's response to David's two questions—answering only the reward question and ignoring his challenge about who the Philistine is to defy the living God—reveals that Israel's army remained fixated on the threat rather than sharing David's God-centered perspective.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1617.7200012207031,
-    "end_time": 1714.0
+    "end_time": 1714.0,
+    "point_summary": "David's past deliverances from the lion and bear become the theological ground for his confidence that the same living God will defeat Goliath, framing verse 36 as faith built on remembered divine faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1617.7200012207031,
-    "end_time": 1714.0
+    "end_time": 1714.0,
+    "point_summary": "David's rehearsal of past deliverances from the lion and bear becomes the explicit ground for his confidence that God will likewise deliver him from Goliath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1919.8599853515625,
-    "end_time": 1984.7799835205078
+    "end_time": 1984.7799835205078,
+    "point_summary": "David's apparent foolishness in approaching Goliath without armor reflected not recklessness but a faith grounded in the proven record of God's mighty acts in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1919.8599853515625,
-    "end_time": 1984.7799835205078
+    "end_time": 1984.7799835205078,
+    "point_summary": "David's approach to Goliath without armor signals that his confidence rested not in human equipment but in the God whose mighty acts—creation, the Red Sea, the Jordan, Jericho—he already knew.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1919.8599853515625,
-    "end_time": 1984.7799835205078
+    "end_time": 1984.7799835205078,
+    "point_summary": "Goliath's contempt for David's youth and appearance underscores that human assessment of strength is irrelevant when the combatant's confidence rests entirely on God rather than armor or experience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1919.8599853515625,
-    "end_time": 1984.7799835205078
+    "end_time": 1984.7799835205078,
+    "point_summary": "Goliath's contemptuous taunt of David (\"Am I a dog?\") is presented as humanly reasonable given his undefeated record, yet David's confidence rested not on armor but on what God had already done in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1919.8599853515625,
-    "end_time": 1984.7799835205078
+    "end_time": 1984.7799835205078,
+    "point_summary": "Goliath's boast to destroy David was humanly credible given his proven record as a champion warrior, yet David's confidence rested not on matching arms but on what God had already done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 1984.7799835205078,
-    "end_time": 2054.699981689453
+    "end_time": 2054.699981689453,
+    "point_summary": "David's confidence against Goliath rested not on matching weapons but on coming in the name of the Lord of hosts, contrasting the Philistine's sword and spear with divine authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2265.0,
-    "end_time": 2326.1599731445312
+    "end_time": 2326.1599731445312,
+    "point_summary": "David's confident charge and the stone's fatal accuracy confirm his declaration that the battle belongs to the Lord, won without sword—vindicating his faith before the entire assembly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2265.0,
-    "end_time": 2326.1599731445312
+    "end_time": 2326.1599731445312,
+    "point_summary": "David's victory over Goliath with a sling and no sword confirms his prior declaration that the battle belonged to God, not to conventional weapons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2265.0,
-    "end_time": 2326.1599731445312
+    "end_time": 2326.1599731445312,
+    "point_summary": "David's victory over Goliath is completed not with his own weapon but with the giant's own sword, underscoring that the battle belonged to God, not to David's personal armament.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2788.0399780273438,
-    "end_time": 2856.5999755859375
+    "end_time": 2856.5999755859375,
+    "point_summary": "David's perspective in 1 Samuel 17 is held up as a model: he speaks not about the enemy's size but about what his God will do to the enemy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2208,7 +2608,9 @@
     "is_implicit": true,
     "video_id": "s8x5TtvlC7M",
     "start_time": 2932.719970703125,
-    "end_time": 3021.6000080108643
+    "end_time": 3021.6000080108643,
+    "point_summary": "David's declaration that \"all the earth\" would know there is a God in Israel frames the motive for wanting God to act as His exaltation and glory, not personal comfort or a return to normalcy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 3154.3200073242188,
-    "end_time": 3225.3600006103516
+    "end_time": 3225.3600006103516,
+    "point_summary": "David's statements in 1 Samuel 17 reveal his upward perspective and genuine walk with God, showing that courage to face overwhelming problems flows from proven, experiential knowledge of God's greatness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 3294.240020751953,
-    "end_time": 3371.3600158691406
+    "end_time": 3371.3600158691406,
+    "point_summary": "David's refusal of Saul's untested armor in 1 Samuel 17 becomes a launching point for urging believers to face their \"Goliaths\" in the proven spiritual armor of Ephesians 6, trusting God's power rather than their own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1583.280029296875,
-    "end_time": 1674.760009765625
+    "end_time": 1674.760009765625,
+    "point_summary": "Hannah's bitter, weeping prayer illustrates that pouring out the heart before God—not before other people—is the only recourse that can truly meet the depth of human need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1583.280029296875,
-    "end_time": 1674.760009765625
+    "end_time": 1674.760009765625,
+    "point_summary": "Hannah's anguished vow in bitter, weeping prayer is presented as a model of pouring out the heart before God, who alone can help in ways no human companion can.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1761.5599975585938,
-    "end_time": 1833.6800422668457
+    "end_time": 1833.6800422668457,
+    "point_summary": "Hannah's answered prayer — conceiving and bearing Samuel — is presented as a concrete biblical example that God not only can answer prayer but actually does.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1761.5599975585938,
-    "end_time": 1833.6800422668457
+    "end_time": 1833.6800422668457,
+    "point_summary": "God's visitation of Hannah with further children after she poured out her heart before Him illustrates that He not only can answer prayer but does.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2285,7 +2699,9 @@
     "is_implicit": true,
     "video_id": "U9hDqApAXB0",
     "start_time": 1424.4399871826172,
-    "end_time": 1486.7599792480469
+    "end_time": 1486.7599792480469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 0.0,
-    "end_time": 57.279998779296875
+    "end_time": 57.279998779296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2307,7 +2725,9 @@
     "is_implicit": true,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 226.25999450683594,
-    "end_time": 283.239990234375
+    "end_time": 283.239990234375,
+    "point_summary": "Samuel's naming of the stone \"Ebenezer\" — meaning \"the Lord helped us\" — is presented as a physical memorial designed to preserve the memory of God's deliverance, paralleling the commemorative ordinances of the New Testament church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 340.5799865722656,
-    "end_time": 400.5
+    "end_time": 400.5,
+    "point_summary": "Samuel's naming of the Ebenezer stone is presented as a deliberate memorial so that God's people would be continually reminded of His past help and mighty intercession on their behalf.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 400.5,
-    "end_time": 458.0199890136719
+    "end_time": 458.0199890136719,
+    "point_summary": "Samuel's conditional promise in verse 3 — that God would deliver Israel from the Philistines only if they returned wholeheartedly and put away their idols — is set against a backdrop of rebellion, idolatry, and oppression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2340,7 +2764,9 @@
     "is_implicit": true,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 580.1599731445312,
-    "end_time": 640.7400054931641
+    "end_time": 640.7400054931641,
+    "point_summary": "Returning to the Lord requires the concrete act of putting away idols, because God will not share His glory with another, and Israel's Philistine oppression was the direct consequence of their idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 897.2200012207031,
-    "end_time": 957.8600158691406
+    "end_time": 957.8600158691406,
+    "point_summary": "Returning to the Lord with all one's heart—a wholehearted repentance from idolatry—is the stated condition upon which God's promised deliverance from the Philistines rests.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1258.1400260925293,
-    "end_time": 1328.1800231933594
+    "end_time": 1328.1800231933594,
+    "point_summary": "Faced with Philistine threat, Israel's urgent, specific plea — \"cease not to cry unto the Lord our God for us\" — demonstrates that prayer was their first and deliberate response to danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2373,7 +2803,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1258.1400260925293,
-    "end_time": 1328.1800231933594
+    "end_time": 1328.1800231933594,
+    "point_summary": "Hannah's silent, anguished prayer in 1 Samuel 1 is invoked as the model behind Samuel's own commitment to intercession, showing that his life of prayer was shaped by his mother's example.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1258.1400260925293,
-    "end_time": 1328.1800231933594
+    "end_time": 1328.1800231933594,
+    "point_summary": "When Israel faces Philistine attack during their gathering at Mizpah, the nation's response is not military preparation but an urgent, specific request that Samuel not cease crying to God for their deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1608.9400329589844,
-    "end_time": 1675.7200317382812
+    "end_time": 1675.7200317382812,
+    "point_summary": "Fervent, specific prayer offered in dependence on God is met with divine response — \"the Lord heard him\" — confirming that God hears and answers those who cry out to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1814.2200536727905,
-    "end_time": 1881.1800537109375
+    "end_time": 1881.1800537109375,
+    "point_summary": "God's direct intervention through thunder at the precise moment of Samuel's prayer demonstrates that divine deliverance is sovereignly timed, arriving neither late nor early but exactly when God ordains.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1814.2200536727905,
-    "end_time": 1881.1800537109375
+    "end_time": 1881.1800537109375,
+    "point_summary": "Divine intervention through answered prayer enabled Israel's pursuit and victory over the Philistines, demonstrating that God's deliverance follows His people's repentance and intercession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1814.2200536727905,
-    "end_time": 1881.1800537109375
+    "end_time": 1881.1800537109375,
+    "point_summary": "Samuel's call in verse 3 for Israel to repent of idolatry and serve God alone is presented as the condition God honored before delivering them from Philistine oppression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 2522.7200469970703,
-    "end_time": 2597.2400512695312
+    "end_time": 2597.2400512695312,
+    "point_summary": "Samuel's deliberate act of naming the Ebenezer stone served as a memorial calling God's people to ongoing dependence on God, especially in moments of victory when self-sufficiency becomes most dangerous.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 103.66000366210938,
-    "end_time": 160.5399932861328
+    "end_time": 160.5399932861328,
+    "point_summary": "First Samuel 23 is introduced as the historical setting and background for Psalm 54, establishing the circumstances under which David composed the psalm.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 160.5399932861328,
-    "end_time": 221.25999450683594
+    "end_time": 221.25999450683594,
+    "point_summary": "First Samuel 23 is identified as the historical setting for Psalm 54, where God directed and enabled David to deliver Keilah from the Philistines before Saul sought to trap him there.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 160.5399932861328,
-    "end_time": 221.25999450683594
+    "end_time": 221.25999450683594,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 282.3800048828125,
-    "end_time": 348.1400146484375
+    "end_time": 348.1400146484375,
+    "point_summary": "Despite Saul's relentless daily pursuit, God's sovereign protection held—He did not deliver David into Saul's hand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 282.3800048828125,
-    "end_time": 348.1400146484375
+    "end_time": 348.1400146484375,
+    "point_summary": "Saul's boast in verse 23 that he would search David out \"throughout all the thousands of Judah\" prompts the observation that his relentless pursuit of David stood in stark contrast to his failure to seek God with that same intensity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 540.4400024414062,
-    "end_time": 602.5200097560883
+    "end_time": 602.5200097560883,
+    "point_summary": "The providential timing of a Philistine invasion—arriving precisely when David was completely surrounded by Saul—serves as the historical backdrop establishing why Psalm 54's urgent cry, \"Save me, O God,\" was written under genuine mortal threat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 666.2200088500977,
-    "end_time": 729.7800140380859
+    "end_time": 729.7800140380859,
+    "point_summary": "David's betrayal by the Ziphites and the people of Keilah—whom he had just delivered—provides the historical backdrop for his cry that \"strangers\" and \"oppressors\" seek his soul in Psalm 54:3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 1061.5599975585938,
-    "end_time": 1121.760009765625
+    "end_time": 1121.760009765625,
+    "point_summary": "David's experience in 1 Samuel 23—surrounded by enemies yet delivered by God—is cited as an encouraging example of God actively working on behalf of his servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 1462.9200439453125,
-    "end_time": 1537.8000183105469
+    "end_time": 1537.8000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "uOKjEHy0rYc",
     "start_time": 2140.4400024414062,
-    "end_time": 2210.0800170898438
+    "end_time": 2210.0800170898438,
+    "point_summary": "David's experience in 1 Samuel 23 is cited as a biblical example of purposeful, circumstance-defying praise, parallel to Paul's imprisonment and Matthew Henry's robbery.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2560,7 +3024,9 @@
     "is_implicit": true,
     "video_id": "w1BfKif_BvI",
     "start_time": 968.4600219726562,
-    "end_time": 1031.6200256347656
+    "end_time": 1031.6200256347656,
+    "point_summary": "Human brevity is underscored by David's own words in a life-threatening context: with Saul relentlessly pursuing him, David acknowledged that only a step separated him from death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 0.0,
-    "end_time": 57.439998626708984
+    "end_time": 57.439998626708984,
+    "point_summary": "Jonathan's bold venture in 1 Samuel 14 illustrates the recurring human recognition that desperate circumstances demand divine intervention, echoing the psalmist's cry, \"It is time for thee, Lord, to work.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 58.400001525878906,
-    "end_time": 123.5999984741211
+    "end_time": 123.5999984741211,
+    "point_summary": "Jonathan's bold venture in 1 Samuel 14 illustrates the timeless cry of Psalm 119:126—that even when God's working is not immediately visible, His people can rest in the certainty that He is always at work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 188.8000030517578,
-    "end_time": 250.32000732421875
+    "end_time": 250.32000732421875,
+    "point_summary": "Jonathan's confession that God faces no limitation in saving \"by many or by few\" grounds the sermon's call to expect divine action even when circumstances offer no human guarantee of success.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 250.32000732421875,
-    "end_time": 307.0400085449219
+    "end_time": 307.0400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 307.0400085449219,
-    "end_time": 364.4800109863281
+    "end_time": 364.4800109863281,
+    "point_summary": "Verse 14:2 functions as part of a parenthetical backdrop (vv. 2–5) that God uses to set the scene, contrasting Saul's stationary passivity under a pomegranate tree with Jonathan's bold initiative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 307.0400085449219,
-    "end_time": 364.4800109863281
+    "end_time": 364.4800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2637,7 +3115,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 307.0400085449219,
-    "end_time": 364.4800109863281
+    "end_time": 364.4800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2648,7 +3128,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 918.8200378417969,
-    "end_time": 976.8000183105469
+    "end_time": 976.8000183105469,
+    "point_summary": "Jonathan and his armor-bearer's bold self-disclosure to the Philistine garrison stands in deliberate contrast to the fearful hiding that characterized Israel's soldiers throughout this period.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 918.8200378417969,
-    "end_time": 976.8000183105469
+    "end_time": 976.8000183105469,
+    "point_summary": "The Israelites' hiding from Goliath's challenge in 1 Samuel 17 is invoked to explain why the soldiers in chapter 14 similarly concealed themselves from the Philistines.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 977.4600219726562,
-    "end_time": 1032.6400146484375
+    "end_time": 1032.6400146484375,
+    "point_summary": "Israel's army, like Saul's men before David's arrival, responded to Philistine intimidation by hiding, illustrating the fear that faithful boldness—seen in Jonathan here and David later—stands in direct contrast to.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2681,7 +3167,9 @@
     "is_implicit": true,
     "video_id": "wG9tDeVyFl8",
     "start_time": 977.4600219726562,
-    "end_time": 1032.6400146484375
+    "end_time": 1032.6400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "wG9tDeVyFl8",
     "start_time": 977.4600219726562,
-    "end_time": 1032.6400146484375
+    "end_time": 1032.6400146484375,
+    "point_summary": "When Jonathan and his armor-bearer exposed themselves to the Philistine garrison, their enemies' taunt—\"come up to us\"—became the very sign Jonathan had sought as confirmation that God would give them victory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 1604.1400451660156,
-    "end_time": 1652.1400451660156
+    "end_time": 1652.1400451660156,
+    "point_summary": "God's sovereign intervention at Michmash is seen in the chaos of verse 20, where He turned the Philistines' swords against one another—a pattern the sermon identifies recurring throughout the Old Testament.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2714,7 +3206,9 @@
     "is_implicit": true,
     "video_id": "wG9tDeVyFl8",
     "start_time": 2072.7600708007812,
-    "end_time": 2149.0000610351562
+    "end_time": 2149.0000610351562,
+    "point_summary": "God alone receives the credit for Israel's deliverance, as the text pointedly names the Lord—not Jonathan, not the armor-bearer, not Saul—as the one who saved Israel that day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "wG9tDeVyFl8",
     "start_time": 2150.360076904297,
-    "end_time": 2206.6800537109375
+    "end_time": 2206.6800537109375,
+    "point_summary": "Though God is fully capable of working without human instruments, 1 Samuel 14 illustrates His chosen pattern of working *through* people—as He did with Jonathan—to bring deliverance to His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2736,7 +3232,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2034.780014038086,
-    "end_time": 2090.02001953125
+    "end_time": 2090.02001953125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2747,7 +3245,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 62.68000030517578,
-    "end_time": 129.0
+    "end_time": 129.0,
+    "point_summary": "The famous victory of David over Goliath in 1 Samuel 17 illustrates that celebrated triumphs are preceded by unseen preparation, a pattern the sermon applies to Ezra's readiness before his great work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2758,7 +3258,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 129.0,
-    "end_time": 202.36000061035156
+    "end_time": 202.36000061035156,
+    "point_summary": "David's celebrated victory over Goliath in 1 Samuel 17 is used as an illustration that visible triumphs are preceded by unseen preparation, setting up the same pattern in Ezra's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2769,7 +3271,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 680.5199813842773,
-    "end_time": 753.5799865722656
+    "end_time": 753.5799865722656,
+    "point_summary": "Saul's partial obedience to God's clear command through Samuel illustrates that incomplete compliance is functionally equivalent to disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2780,7 +3284,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 753.5799865722656,
-    "end_time": 824.3999786376953
+    "end_time": 824.3999786376953,
+    "point_summary": "Saul's attempt to cover disobedience with sacrifice illustrates that partial obedience is disobedience, and no religious offering justifies failing to obey God's clear command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2791,7 +3297,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 824.7999877929688,
-    "end_time": 898.1999816894531
+    "end_time": 898.1999816894531,
+    "point_summary": "Saul's attempt to excuse disobedience through sacrifice illustrates that obedience to God is not negotiable, and no offering—however religious—can justify it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2802,7 +3310,9 @@
     "is_implicit": false,
     "video_id": "X0_tae_rdlg",
     "start_time": 808.5599975585938,
-    "end_time": 869.260009765625
+    "end_time": 869.260009765625,
+    "point_summary": "The brevity of life — \"there is but a step between me and death\" — is invoked to underscore the urgency of continuing faithfully in the Christian life while God grants breath.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2813,7 +3323,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1097.97998046875,
-    "end_time": 1166.3800048828125
+    "end_time": 1166.3800048828125,
+    "point_summary": "Elijah's immediate obedience to God's command parallels Israel's prompt response to Samuel's message in 1 Samuel 7, both illustrating that God's clear direction requires no delay in compliance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "XzbN4ONOJUs",
     "start_time": 1112.4400024414062,
-    "end_time": 1173.4199829101562
+    "end_time": 1173.4199829101562,
+    "point_summary": "God's rebuke of Samuel's focus on Eliab's outward appearance — \"look not at the outward appearance, for God looks on the heart\" — is invoked to establish that true adornment is inward, paralleling 1 Peter 3:3–4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2835,7 +3349,9 @@
     "is_implicit": false,
     "video_id": "XzbN4ONOJUs",
     "start_time": 1173.4199829101562,
-    "end_time": 1250.880012512207
+    "end_time": 1250.880012512207,
+    "point_summary": "1 Samuel 16's declaration that God looks on the heart while man sees the outward is commonly misapplied to dismiss biblical modesty standards, when in fact both truths stand: a right heart will manifest itself in outward conduct.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2846,7 +3362,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 1209.9599924087524,
-    "end_time": 1278.4399948120117
+    "end_time": 1278.4399948120117,
+    "point_summary": "The account of David and Goliath exists only because David stepped out and acted on what he believed, illustrating that faith must move from proclamation to practice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2857,7 +3375,9 @@
     "is_implicit": true,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2086.740020751953,
-    "end_time": 2146.4200134277344
+    "end_time": 2146.4200134277344,
+    "point_summary": "David's words \"there is but a step between me and death\" are invoked to underscore the brevity and uncertainty of life, grounding the reality that believers may die before Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "zo6IdkJY-nY",
     "start_time": 2050.259979248047,
-    "end_time": 2118.8199768066406
+    "end_time": 2118.8199768066406,
+    "point_summary": "Intercessory prayer is shown to be a moral obligation, not an option, as Samuel's declaration in 1 Samuel 12:23 reveals his heart: to cease praying for Israel would itself be sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "zo6IdkJY-nY",
     "start_time": 2118.8199768066406,
-    "end_time": 2207.8999938964844
+    "end_time": 2207.8999938964844,
+    "point_summary": "Failing to intercede in prayer is framed as sin against God, with Samuel's declaration — \"God forbid that I should sin against the LORD in ceasing to pray for you\" — establishing intercessory prayer as a solemn obligation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2890,7 +3414,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1594.8000183105469,
-    "end_time": 1658.8400268554688
+    "end_time": 1658.8400268554688,
+    "point_summary": "God's consistent concern is with the heart, not outward appearance — illustrated by His rejection of Eliab despite Samuel's confidence, showing no external washing or presentation can substitute for inward reality.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2901,7 +3427,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1658.8400268554688,
-    "end_time": 1734.8400268554688
+    "end_time": 1734.8400268554688,
+    "point_summary": "God sees past outward appearance to the heart, as demonstrated when He rejected the impressive Eliab and chose David, contrasting with Israel's inability to cleanse their inward wickedness through external means.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2912,7 +3440,9 @@
     "is_implicit": false,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1734.8400268554688,
-    "end_time": 1796.4000244140625
+    "end_time": 1796.4000244140625,
+    "point_summary": "Because only God sees the heart while man sees only the outward appearance, Samuel's mistaken confidence in Eliab illustrates why human judgment cannot substitute for divine discernment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2923,7 +3453,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 468.1600036621094,
-    "end_time": 529.5999755859375
+    "end_time": 529.5999755859375,
+    "point_summary": "While God sees the heart and man sees only the outward, both truths matter: the outward appearance is itself a reflection of the heart, making visible behavior spiritually significant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2934,7 +3466,9 @@
     "is_implicit": false,
     "video_id": "EYFIfx9U54k",
     "start_time": 700.7999877929688,
-    "end_time": 755.7999877929688
+    "end_time": 755.7999877929688,
+    "point_summary": "Hannah's prayer for a son in 1 Samuel 1 is cited as a biblical example of answered prayer, illustrating that God's recorded responses to his people's petitions should motivate a committed prayer life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "xI5uCsuW9eg",
     "start_time": 402.9800109863281,
-    "end_time": 459.5400085449219
+    "end_time": 459.5400085449219,
+    "point_summary": "Jesus's appeal to David's actions in 1 Samuel serves as a rebuke of the Pharisees' superficial scriptural knowledge—men who wore Scripture yet missed its meaning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2956,7 +3492,9 @@
     "is_implicit": false,
     "video_id": "mbmoiMlUtYA",
     "start_time": 1818.4200248718262,
-    "end_time": 1891.5200271606445
+    "end_time": 1891.5200271606445,
+    "point_summary": "Saul's failure was not ignorance of God's commandments but refusal to perform them — illustrating James's distinction between hearing the word and doing it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "mbmoiMlUtYA",
     "start_time": 1818.4200248718262,
-    "end_time": 1891.5200271606445
+    "end_time": 1891.5200271606445,
+    "point_summary": "Saul's failure in 1 Samuel 15:11 illustrates the sermon's distinction between not knowing God's commandments and knowing them yet failing to perform them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2978,7 +3518,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 58.20000076293945,
-    "end_time": 117.5999984741211
+    "end_time": 117.5999984741211,
+    "point_summary": "Serving the Lord is presented as the natural response of those who are saved, grounding the sermon's theme in the biblical truth that believers are created unto good works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -2989,7 +3531,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 117.5999984741211,
-    "end_time": 176.0
+    "end_time": 176.0,
+    "point_summary": "Samuel's life, rooted in Hannah's fervent and specific prayer, is presented as a model worth studying because Scripture records it not merely as history but as truth to be applied in the believer's walk with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3000,7 +3544,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 176.0,
-    "end_time": 234.9199981689453
+    "end_time": 234.9199981689453,
+    "point_summary": "Samuel's life, rooted in Hannah's fervent and specific prayer and her fulfilled vow, is presented as a model of consecrated service that Scripture records not merely as history but as a challenge to the believer's own walk with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3011,7 +3557,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 234.9199981689453,
-    "end_time": 294.1400146484375
+    "end_time": 294.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3022,7 +3570,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 234.9199981689453,
-    "end_time": 294.1400146484375
+    "end_time": 294.1400146484375,
+    "point_summary": "Samuel's farewell address in chapter 12 opens with his public accountability before Israel, recalling his faithful ministry as a backdrop to the people's dangerous rejection of God's kingship in favor of a human king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3033,7 +3583,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 234.9199981689453,
-    "end_time": 294.1400146484375
+    "end_time": 294.1400146484375,
+    "point_summary": "Samuel's public recounting of his blameless ministry before all Israel illustrates the importance of a servant of God being able to stand before the people with an unimpeachable record of faithful service.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3044,7 +3596,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 234.9199981689453,
-    "end_time": 294.1400146484375
+    "end_time": 294.1400146484375,
+    "point_summary": "Samuel's public declaration in verse 1 — that he hearkened to Israel's voice and made them a king — opens his farewell address by recalling his own ministry before the people he served.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3055,7 +3609,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 294.1400146484375,
-    "end_time": 352.260009765625
+    "end_time": 352.260009765625,
+    "point_summary": "In 1 Samuel 12:1, Samuel's declaration that he hearkened to Israel's voice and made them a king marks the opening of his farewell address, in which he begins recalling his own faithful ministry before the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3066,7 +3622,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 294.1400146484375,
-    "end_time": 352.260009765625
+    "end_time": 352.260009765625,
+    "point_summary": "Samuel's closing declaration in verse 2 — that he had walked before Israel from childhood to old age — is presented as a sweeping summary of a lifetime of faithful, God-used ministry condensed into a single statement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3077,7 +3635,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 352.260009765625,
-    "end_time": 412.3599853515625
+    "end_time": 412.3599853515625,
+    "point_summary": "Samuel's closing declaration — that he had walked before Israel from childhood to that day — is presented as a summary statement encompassing a lifetime of faithful ministry and divine use.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3088,7 +3648,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 352.260009765625,
-    "end_time": 412.3599853515625
+    "end_time": 412.3599853515625,
+    "point_summary": "In rehearsing Israel's history, Samuel anchors the nation's deliverance not in Moses and Aaron's skill or wisdom, but in the Lord alone who advanced them and brought Israel out of Egypt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3099,7 +3661,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 412.3599853515625,
-    "end_time": 475.44000244140625
+    "end_time": 475.44000244140625,
+    "point_summary": "Samuel's call to \"stand still\" before the Lord frames his rehearsal of God's righteous acts as the foundation for the people's obligation to serve Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3110,7 +3674,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 412.3599853515625,
-    "end_time": 475.44000244140625
+    "end_time": 475.44000244140625,
+    "point_summary": "Samuel's closing declaration — that he had walked before Israel from childhood to that day — is presented as a sweeping summary of a lifetime of faithful ministry, establishing his credibility to call the people to serve the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3121,7 +3687,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 592.7000122070312,
-    "end_time": 671.4400024414062
+    "end_time": 671.4400024414062,
+    "point_summary": "Samuel's conditional charge in 1 Samuel 12:14 — to fear, serve, obey, and not rebel — is presented as the standard for Israel and their king to continue following the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3132,7 +3700,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 592.7000122070312,
-    "end_time": 671.4400024414062
+    "end_time": 671.4400024414062,
+    "point_summary": "Despite Israel's wickedness, Samuel calls them not to abandon God but to serve Him wholeheartedly—contrasting their half-hearted failure with Christ's complete, unreserved sacrifice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3143,7 +3713,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 671.4400024414062,
-    "end_time": 736.8000030517578
+    "end_time": 736.8000030517578,
+    "point_summary": "Wholehearted service to God is grounded in remembrance of His great acts, as Samuel calls the people to fear and serve the Lord by considering what He has done for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3154,7 +3726,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 671.4400024414062,
-    "end_time": 736.8000030517578
+    "end_time": 736.8000030517578,
+    "point_summary": "Ceasing to pray for the people is framed as sin against God, making intercession not merely a pastoral courtesy but a moral obligation Samuel binds himself to fulfill.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3165,7 +3739,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 671.4400024414062,
-    "end_time": 736.8000030517578
+    "end_time": 736.8000030517578,
+    "point_summary": "Wholehearted service to God is grounded in remembrance of His great acts, as Samuel calls the people to fear and serve the Lord by considering what He has done for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3176,7 +3752,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 736.8000030517578,
-    "end_time": 802.8600006103516
+    "end_time": 802.8600006103516,
+    "point_summary": "Samuel's declaration in v. 7 that he would rehearse God's righteous acts serves as the foundation for his call to serve, grounding obedience in gratitude for what God has already done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3187,7 +3765,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 736.8000030517578,
-    "end_time": 802.8600006103516
+    "end_time": 802.8600006103516,
+    "point_summary": "Fearing and serving God wholeheartedly is grounded in deliberate remembrance of His righteous acts, climaxing in salvation, which Samuel models by rehearsing God's works before issuing the call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3198,7 +3778,9 @@
     "is_implicit": false,
     "video_id": "MODJ0wQftRk",
     "start_time": 3021.780035018921,
-    "end_time": 3086.7200317382812
+    "end_time": 3086.7200317382812,
+    "point_summary": "Salvation transforms service from impossibility to joyful obligation, and Samuel's twice-repeated call in 1 Samuel 12 to serve God with all one's heart frames that service as both privilege and responsibility for the redeemed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3209,7 +3791,9 @@
     "is_implicit": true,
     "video_id": "rXhiTENJuQQ",
     "start_time": 1505.7200012207031,
-    "end_time": 1573.3000183105469
+    "end_time": 1573.3000183105469,
+    "point_summary": "The Ichabod narrative illustrates that while God never abandons his people eternally, unconfessed sin can sever the sweet fellowship of his manifest presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3220,7 +3804,9 @@
     "is_implicit": false,
     "video_id": "CckF-My3-to",
     "start_time": 109.76000213623047,
-    "end_time": 169.36000061035156
+    "end_time": 169.36000061035156,
+    "point_summary": "David's confession in 1 Samuel 20 — \"there is but a step between me and death\" — is applied universally to show that no one knows where their personal finish line falls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3231,7 +3817,9 @@
     "is_implicit": false,
     "video_id": "CckF-My3-to",
     "start_time": 658.3199768066406,
-    "end_time": 717.7999801635742
+    "end_time": 717.7999801635742,
+    "point_summary": "David's confession that \"there is but a step between me and death\" illustrates that even he did not know when his end would come, underscoring the urgency of committing to keep God's statutes unto the end.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3242,7 +3830,9 @@
     "is_implicit": true,
     "video_id": "E31QXOicGRA",
     "start_time": 1666.8999633789062,
-    "end_time": 1739.9599609375
+    "end_time": 1739.9599609375,
+    "point_summary": "Hearing God's word, as illustrated by Samuel's posture before Eli, means receiving instruction with the intent to obey, not merely perceiving audible sound.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Samuel",
@@ -3253,6 +3843,8 @@
     "is_implicit": true,
     "video_id": "E31QXOicGRA",
     "start_time": 1993.9199829101562,
-    "end_time": 2065.1599731445312
+    "end_time": 2065.1599731445312,
+    "point_summary": "The popular acclaim David received before becoming king—\"Saul has slain his thousands, but David his ten thousands\"—illustrates how positions of power and praise can erode the fear of God if one is not vigilant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

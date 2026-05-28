@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 0.0,
-    "end_time": 67.27999877929688
+    "end_time": 67.27999877929688,
+    "point_summary": "2 Kings 6 establishes the backdrop of Syrian siege, leaving Samaria's inhabitants utterly hopeless and helpless, setting the stage for the miraculous provision prophesied in chapter 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 0.0,
-    "end_time": 67.27999877929688
+    "end_time": 67.27999877929688,
+    "point_summary": "In 2 Kings 7, the desperate siege of Samaria—leaving its inhabitants hopeless and helpless—sets the stage for Elisha's prophecy of divine provision and the four lepers' fateful decision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 129.4600067138672,
-    "end_time": 193.9199981689453
+    "end_time": 193.9199981689453,
+    "point_summary": "God's word through Elisha proved exactly true when the starving people of Samaria plundered the abandoned Syrian camp, fulfilling the promised abundance down to the precise measure and price.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 684.4999694824219,
-    "end_time": 754.4799652099609
+    "end_time": 754.4799652099609,
+    "point_summary": "The precise fulfillment of Elisha's detailed prophecy—exact commodities, exact prices, exact timing—demonstrates that God, transcending time, can speak with specificity about future provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 684.4999694824219,
-    "end_time": 754.4799652099609
+    "end_time": 754.4799652099609,
+    "point_summary": "The exact fulfillment of Elisha's detailed prophecy—specific commodities, specific prices—demonstrates that God, who transcends time and knows the end from the beginning, always keeps His word of provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 1060.8199768066406,
-    "end_time": 1131.3599853515625
+    "end_time": 1131.3599853515625,
+    "point_summary": "The fulfillment of Elisha's judgment on the scoffing servant — trampled in the gate, seeing the provision but not eating it — confirms that God's word of both promise and warning comes to pass exactly as spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 1060.8199768066406,
-    "end_time": 1131.3599853515625
+    "end_time": 1131.3599853515625,
+    "point_summary": "Unbelief that mocks God's declared word brings judgment: the scoffing servant saw the fulfilled prophecy with his eyes but died before he could partake of it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 1262.8199920654297,
-    "end_time": 1336.2999877929688
+    "end_time": 1336.2999877929688,
+    "point_summary": "The king's despairing cry in v. 33 — \"What should I wait for the Lord any longer?\" — sets the backdrop against which God's fulfillment of Elisha's prophecy the very next day demonstrates that God does exactly what He says He will do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 0.0,
-    "end_time": 63.79999923706055
+    "end_time": 63.79999923706055,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 0.0,
-    "end_time": 63.79999923706055
+    "end_time": 63.79999923706055,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 63.79999923706055,
-    "end_time": 129.60000610351562
+    "end_time": 129.60000610351562,
+    "point_summary": "The narrative of 2 Kings 6:1–7 is introduced as a building-project account involving the sons of the prophets, continuing a sustained study of Elisha's ministry that has traced this prophetic community across multiple preceding chapters.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "3XoFc6vc9t0",
     "start_time": 63.79999923706055,
-    "end_time": 129.60000610351562
+    "end_time": 129.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -140,7 +164,9 @@
     "is_implicit": true,
     "video_id": "3XoFc6vc9t0",
     "start_time": 63.79999923706055,
-    "end_time": 129.60000610351562
+    "end_time": 129.60000610351562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "The sons of the prophets, a recurring community in the Elisha narratives, here initiate a building project that sets the stage for a miracle, grounding the supernatural event in an ordinary communal need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "The sons of the prophets' request that Elisha accompany them to Jordan frames his presence among them not as a superior but as a fellow servant willing to go with his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "Elisha's personal presence with the sons of the prophets at Jordan—going with them rather than merely sending them—frames the miracle that follows as occurring within a context of shared labor and pastoral accompaniment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "The loss of a borrowed axe head into the Jordan River sets the crisis that occasions Elisha's miracle, with the borrower's distress underscoring both the real economic stakes and the supernatural intervention that follows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 129.60000610351562,
-    "end_time": 201.8000030517578
+    "end_time": 201.8000030517578,
+    "point_summary": "Elisha's act of casting a stick into the water to make the iron axe head float illustrates that God works through simple, ordinary means to accomplish what is naturally impossible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 201.8000030517578,
-    "end_time": 262.20001220703125
+    "end_time": 262.20001220703125,
+    "point_summary": "Elisha's casting of a stick into the water to make iron float is presented as a genuine, awe-inspiring miracle that demands fresh attention rather than casual familiarity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 201.8000030517578,
-    "end_time": 262.20001220703125
+    "end_time": 262.20001220703125,
+    "point_summary": "The sons of the prophets' recognition that their dwelling place was too small and their initiative in bringing that need to Elisha illustrates what the sermon calls \"an honorable work\" rooted in genuine necessity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "3XoFc6vc9t0",
     "start_time": 445.3999938964844,
-    "end_time": 514.0
+    "end_time": 514.0,
+    "point_summary": "Elisha's joining the sons of the prophets at Jordan illustrates that the work was honorable—pursued with proper permission, communal effort, and godly leadership present among them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "54WCk41oLBM",
     "start_time": 1154.6400146484375,
-    "end_time": 1204.5999755859375
+    "end_time": 1204.5999755859375,
+    "point_summary": "2 Kings 14:25 establishes Jonah's prophetic credentials before the book of Jonah begins, confirming he was a genuine servant of God who nonetheless became disobedient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -261,7 +307,9 @@
     "is_implicit": true,
     "video_id": "6ujPxedm1ss",
     "start_time": 1704.5599975585938,
-    "end_time": 1766.5
+    "end_time": 1766.5,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1767.219970703125,
-    "end_time": 1826.9399871826172
+    "end_time": 1826.9399871826172,
+    "point_summary": "The Assyrian captivity of Israel's ten northern tribes stands as the biblical record of a nation that sinned against God, feared other gods, hardened their necks, and was therefore brought under divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "6ujPxedm1ss",
     "start_time": 2111.199981689453,
-    "end_time": 2181.4199829101562
+    "end_time": 2181.4199829101562,
+    "point_summary": "The Assyrian captivity of Israel, referenced in 2 Kings 17, is cited as evidence that God's judgment falls on his own covenant people, not only on pagan nations, when they forsake him for idols.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 0.0,
-    "end_time": 57.97999954223633
+    "end_time": 57.97999954223633,
+    "point_summary": "Four desperate lepers, sitting at the gate of a besieged and starving Samaria, become the unlikely instruments through whom God's prophecy of provision begins to unfold.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 0.0,
-    "end_time": 57.97999954223633
+    "end_time": 57.97999954223633,
+    "point_summary": "The lepers' report in verse 10 arrives as the fulfillment of Elisha's prophecy of provision, confirming that God had acted exactly as His word declared amid Samaria's desperate siege.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 0.0,
-    "end_time": 57.97999954223633
+    "end_time": 57.97999954223633,
+    "point_summary": "Elisha's declaration in 2 Kings 7:1 is framed as a prophecy of divine provision spoken with courage into a context of siege, starvation, and hopelessness in Samaria.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 0.0,
-    "end_time": 57.97999954223633
+    "end_time": 57.97999954223633,
+    "point_summary": "Elisha's bold prophetic declaration in a context of siege, starvation, and royal hostility frames his word as a courageous announcement of divine provision against all visible evidence of hopelessness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -338,7 +398,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 57.97999954223633,
-    "end_time": 120.04000091552734
+    "end_time": 120.04000091552734,
+    "point_summary": "Second Kings 6 provides the crisis backdrop — Syrian siege, famine, and cannibalism in Samaria — against which Elisha's prophecy of provision in chapter 7 is set.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -349,7 +411,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 57.97999954223633,
-    "end_time": 120.04000091552734
+    "end_time": 120.04000091552734,
+    "point_summary": "Elisha's prophecy of provision in a besieged, starving Samaria calls hearers to trust the *who* of God's promise rather than fixating on the *how* of its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 57.97999954223633,
-    "end_time": 120.04000091552734
+    "end_time": 120.04000091552734,
+    "point_summary": "When God promises provision, the proper response is trust in who He is rather than fixation on how He will accomplish it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 120.04000091552734,
-    "end_time": 186.4199981689453
+    "end_time": 186.4199981689453,
+    "point_summary": "Four leprous men, excluded from the city and facing certain death either way, model a desperate but decisive reasoning that moves them to act rather than remain paralyzed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 186.4199981689453,
-    "end_time": 246.13999938964844
+    "end_time": 246.13999938964844,
+    "point_summary": "Four leprous men, facing certain death from both famine and their condition, reach the decisive conclusion that remaining idle offers no hope and that action—even toward the enemy camp—is the only alternative to waiting to die.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 186.4199981689453,
-    "end_time": 246.13999938964844
+    "end_time": 246.13999938964844,
+    "point_summary": "Facing certain death with no good options, the four lepers reasoned that inaction guaranteed death, making the desperate risk of approaching the Syrian camp the only rational choice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 588.8400268554688,
-    "end_time": 651.6399765014648
+    "end_time": 651.6399765014648,
+    "point_summary": "Elisha's prophecy in 2 Kings 7:1 is shown to be precisely fulfilled—specific in timing, location, and detail—through God's sovereign, unseen intervention in the Syrian camp.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 588.8400268554688,
-    "end_time": 651.6399765014648
+    "end_time": 651.6399765014648,
+    "point_summary": "God's sovereign intervention is shown in His causing the Syrian army to hear phantom sounds of chariots and horses, fulfilling Elisha's specific prophecy through means entirely hidden from human view.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -426,7 +502,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 854.1599731445312,
-    "end_time": 924.1199645996094
+    "end_time": 924.1199645996094,
+    "point_summary": "Elisha's prophecy that flour and barley would sell cheaply \"tomorrow about this time\" was already being fulfilled through God's prior, unseen work routing the Syrian army before the lepers even arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -437,7 +515,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 854.1599731445312,
-    "end_time": 924.1199645996094
+    "end_time": 924.1199645996094,
+    "point_summary": "The extreme famine prices of the siege — eighty pieces of silver for a donkey's head — establish the desperate baseline against which God's sudden, total provision becomes miraculous.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "9jvqkwGu6J0",
     "start_time": 854.1599731445312,
-    "end_time": 924.1199645996094
+    "end_time": 924.1199645996094,
+    "point_summary": "When the four lepers entered the abandoned Syrian camp tent by tent, they discovered abundant provision—food, drink, silver, gold, and clothing—fulfilling God's sovereign work before they even arrived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "9jvqkwGu6J0",
     "start_time": 1678.6399536132812,
-    "end_time": 1750.3599853515625
+    "end_time": 1750.3599853515625,
+    "point_summary": "The four leprous men's joyful, credible declaration of what they found models how a genuinely transformed life lends believability and urgency to the proclamation of glad tidings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 0.0,
-    "end_time": 70.16000366210938
+    "end_time": 70.16000366210938,
+    "point_summary": "2 Kings 13 records Elisha's death, prompting reflection—anchored in Hebrews 9:27 and Psalm 90—on mortality, the numbering of days, and applying the heart to wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 136.4600067138672,
-    "end_time": 201.16000366210938
+    "end_time": 201.16000366210938,
+    "point_summary": "Elijah's translation in 2 Kings 2 serves as a backdrop contrasting Elisha's ordinary death, highlighting the different ways God brings his servants' earthly ministries to a close.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 136.4600067138672,
-    "end_time": 201.16000366210938
+    "end_time": 201.16000366210938,
+    "point_summary": "Elisha's deathbed scene in 2 Kings 13:14 opens a study of a prophet's final days as a model of what God-honoring men leave behind for the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 136.4600067138672,
-    "end_time": 201.16000366210938
+    "end_time": 201.16000366210938,
+    "point_summary": "Even in the death notice of Elisha — \"and Elisha died, and they buried him\" — Scripture records the closing chapter of a prophet's life as worthy of careful study alongside other great patriarchal endings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 266.29998779296875,
-    "end_time": 329.6199951171875
+    "end_time": 329.6199951171875,
+    "point_summary": "Joash's characterization as one who \"did evil in the sight of the Lord\" and \"departed not from all the sins of Jeroboam\" establishes him as a wicked king, consistent with every northern king of Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 329.6199951171875,
-    "end_time": 394.70001220703125
+    "end_time": 394.70001220703125,
+    "point_summary": "Joash's dying-bed cry — \"my father, my father, the chariot of Israel\" — echoes Elisha's own words at Elijah's translation, revealing the profound influence Elisha wielded even over a wicked king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 329.6199951171875,
-    "end_time": 394.70001220703125
+    "end_time": 394.70001220703125,
+    "point_summary": "Elisha's cry at Elijah's translation — \"my father, my father, the chariot of Israel, and the horsemen thereof\" — is the same phrase Joash later uses at Elisha's deathbed, revealing the profound influence Elisha held even over a wicked king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 394.70001220703125,
-    "end_time": 462.79998779296875
+    "end_time": 462.79998779296875,
+    "point_summary": "Joash's dying-bed cry—\"My father, my father, the chariot of Israel\"—echoes Elisha's own words at Elijah's translation, revealing that Joash recognized both Elisha's prophetic office and the divine power evidenced through his ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 394.70001220703125,
-    "end_time": 462.79998779296875
+    "end_time": 462.79998779296875,
+    "point_summary": "Joash's dying-bed cry over Elisha—\"my father, my father, the chariot of Israel\"—echoes Elisha's own words at Elijah's translation, revealing that Joash recognized both Elisha's prophetic office and the divine power evidenced through his ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 647.359977722168,
-    "end_time": 706.3199768066406
+    "end_time": 706.3199768066406,
+    "point_summary": "Elisha's declaration of \"the arrow of the Lord's deliverance\" over Joash's shot illustrates that God's prophetic promises are specific because He is omniscient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 647.359977722168,
-    "end_time": 706.3199768066406
+    "end_time": 706.3199768066406,
+    "point_summary": "God's anger against Israel resulted in Syrian oppression under Hazael and Ben-Hadad, providing the backdrop of national crisis into which Elisha's arrow-of-deliverance prophecy speaks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 647.359977722168,
-    "end_time": 706.3199768066406
+    "end_time": 706.3199768066406,
+    "point_summary": "Syria's crushing reduction of Israel's military to dust (v. 7) establishes the desperate context that makes Elisha's arrow-of-deliverance prophecy to Joash both urgent and specific.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 1287.8799591064453,
-    "end_time": 1352.1599578857422
+    "end_time": 1352.1599578857422,
+    "point_summary": "Elisha's life and ministry, concluding in 2 Kings 13, is held up as a model of courageous, surrendered faithfulness in times of great wickedness, challenging believers to be channels through whom God works today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 65.27999877929688,
-    "end_time": 124.16000366210938
+    "end_time": 124.16000366210938,
+    "point_summary": "2 Kings 15–20 is cited as the historical backdrop for Micah's prophetic ministry, covering the reigns of Jotham, Ahaz, and Hezekiah during which Micah prophesied.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 746.239990234375,
-    "end_time": 818.5599822998047
+    "end_time": 818.5599822998047,
+    "point_summary": "The reign of Ahaz provides the historical backdrop for Micah's ministry, with his child sacrifice to Molech illustrating the depth of covenant apostasy Micah was sent to confront.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 1777.7999877929688,
-    "end_time": 1851.0799942016602
+    "end_time": 1851.0799942016602,
+    "point_summary": "Ahaz's sin of sacrificing his firstborn to Molech, recorded in 2 Kings 16, illustrates the deep wickedness in Judah that stands in contrast to the humble obedience God requires in Micah 6:8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 0.0,
-    "end_time": 66.76000213623047
+    "end_time": 66.76000213623047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 0.0,
-    "end_time": 66.76000213623047
+    "end_time": 66.76000213623047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 744.6199798583984,
-    "end_time": 807.7399749755859
+    "end_time": 807.7399749755859,
+    "point_summary": "Jehoram's own confession in 2 Kings 5:7 — \"Am I God to kill and to make alive?\" — illustrates his repeated helplessness, contrasting the king's inability with the Lord as the only true source of help.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 744.6199798583984,
-    "end_time": 807.7399749755859
+    "end_time": 807.7399749755859,
+    "point_summary": "When the king confesses he has nothing left in barn or winepress, it underscores that human rulers are utterly exhausted of resources, making divine help the only remaining possibility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 807.7399749755859,
-    "end_time": 875.8599853515625
+    "end_time": 875.8599853515625,
+    "point_summary": "The famine's devastation during the Syrian siege of Samaria had reached such an extreme that mothers entered agreements to cannibalize their own children, illustrating the total hopelessness of a city with no resources and no relief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1154.0599975585938,
-    "end_time": 1223.8399562835693
+    "end_time": 1223.8399562835693,
+    "point_summary": "Elisha's calm, seated posture amid the king's murderous threat, and his foreknowledge of the approaching messenger, underscore God's continued protection and prophetic revelation granted to His servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1154.0599975585938,
-    "end_time": 1223.8399562835693
+    "end_time": 1223.8399562835693,
+    "point_summary": "Jehoram's oath to kill Elisha deliberately echoes his mother Jezebel's identical vow against Elijah, marking him as his parents' spiritual heir in murderous hostility toward God's prophets.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1154.0599975585938,
-    "end_time": 1223.8399562835693
+    "end_time": 1223.8399562835693,
+    "point_summary": "Elisha's calm, seated posture amid the king's murderous threat, and his foreknowledge of the approaching messenger, display the same prophetic awareness God had granted him throughout the Syrian conflict.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1412.6799621582031,
-    "end_time": 1477.6399536132812
+    "end_time": 1477.6399536132812,
+    "point_summary": "Israel's king Jehoram is cited to establish the character of wickedness defining this era, contrasting with Judah's good kings and explaining the divine judgment behind the Syrian siege.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1477.6399536132812,
-    "end_time": 1537.4799499511719
+    "end_time": 1537.4799499511719,
+    "point_summary": "Jehoram's partial reform — removing Baal's image — did not constitute true repentance, since he retained Jeroboam's idolatrous sins and still \"wrought evil in the sight of the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1477.6399536132812,
-    "end_time": 1537.4799499511719
+    "end_time": 1537.4799499511719,
+    "point_summary": "Despite removing Baal worship, Jehoram never departed from Jeroboam's foundational sins of idolatry, illustrating the persistent spiritual corruption defining this era of Israel's northern kingdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1603.7999572753906,
-    "end_time": 1662.8399658203125
+    "end_time": 1662.8399658203125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 56.7599983215332,
-    "end_time": 120.55999755859375
+    "end_time": 120.55999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 188.27999877929688,
-    "end_time": 252.9600067138672
+    "end_time": 252.9600067138672,
+    "point_summary": "Naaman's introduction as an Assyrian who did not know Jehovah illustrates that God sovereignly works through circumstances to make himself known even to those outside the covenant community.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 252.9600067138672,
-    "end_time": 323.79998779296875
+    "end_time": 323.79998779296875,
+    "point_summary": "Despite Naaman's impressive military standing and honorable reputation, his greatness was incomplete—he did not know the Lord, and God sovereignly moved to make Himself known to this man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 658.840015411377,
-    "end_time": 715.2200164794922
+    "end_time": 715.2200164794922,
+    "point_summary": "The king of Syria's letter demanding Naaman's healing exposes the king of Israel's helplessness, underscoring that only God—not any earthly king—can cure leprosy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 658.840015411377,
-    "end_time": 715.2200164794922
+    "end_time": 715.2200164794922,
+    "point_summary": "The king of Israel's despairing cry — \"Am I God to kill and to make alive?\" — exposes that healing from leprosy belongs to God alone, not to any earthly ruler.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 973.3600158691406,
-    "end_time": 1044.3200073242188
+    "end_time": 1044.3200073242188,
+    "point_summary": "Elisha's instructions to Naaman—go, wash in Jordan seven times, and be clean—are presented as deliberately simple, specific, and uncomplicated, requiring only straightforward obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 1509.6999816894531,
-    "end_time": 1584.5199890136719
+    "end_time": 1584.5199890136719,
+    "point_summary": "Naaman's healing came only when he humbled himself and obeyed the man of God's word exactly, illustrating that there is one prescribed way of cleansing—no more, no less.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "eXtodevZP38",
     "start_time": 2105.0799560546875,
-    "end_time": 2185.199981689453
+    "end_time": 2185.199981689453,
+    "point_summary": "Naaman's request for Israelite soil to carry back to Syria demonstrates the totality of his conversion — he intends to worship Yahweh alone, renouncing all former offerings to foreign gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -866,7 +1022,9 @@
     "is_implicit": true,
     "video_id": "F4JChKWGeUg",
     "start_time": 1253.019947052002,
-    "end_time": 1322.3199462890625
+    "end_time": 1322.3199462890625,
+    "point_summary": "Hezekiah's act of spreading the threatening letter before the Lord—though God already knew its contents—models total dependence on God as the only sufficient helper in overwhelming adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -877,7 +1035,9 @@
     "is_implicit": true,
     "video_id": "F4JChKWGeUg",
     "start_time": 1323.4799499511719,
-    "end_time": 1390.9999542236328
+    "end_time": 1390.9999542236328,
+    "point_summary": "Hezekiah's act of spreading the letter before the Lord and falling in prayer models total dependence on God as the creator who hears and answers in times of great adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 1989.0599670410156,
-    "end_time": 2061.739959716797
+    "end_time": 2061.739959716797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2284.5599670410156,
-    "end_time": 2352.239990234375
+    "end_time": 2352.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2284.5599670410156,
-    "end_time": 2352.239990234375
+    "end_time": 2352.239990234375,
+    "point_summary": "God's specific promise to Hezekiah—that Assyria would not enter Jerusalem, shoot an arrow, or cast a siege bank—illustrates the precision and certainty with which God answers the prayers of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2284.5599670410156,
-    "end_time": 2352.239990234375
+    "end_time": 2352.239990234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -932,7 +1100,9 @@
     "is_implicit": true,
     "video_id": "fHale4gghi4",
     "start_time": 2075.840057373047,
-    "end_time": 2139.840057373047
+    "end_time": 2139.840057373047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -943,7 +1113,9 @@
     "is_implicit": true,
     "video_id": "fHale4gghi4",
     "start_time": 2075.840057373047,
-    "end_time": 2139.840057373047
+    "end_time": 2139.840057373047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -954,7 +1126,9 @@
     "is_implicit": true,
     "video_id": "fHale4gghi4",
     "start_time": 2075.840057373047,
-    "end_time": 2139.840057373047
+    "end_time": 2139.840057373047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1278.7600173950195,
-    "end_time": 1348.5600128173828
+    "end_time": 1348.5600128173828,
+    "point_summary": "Elisha's response to divine foreknowledge of Hazael's future atrocities is introduced as a parallel to Abraham's intercession—illustrating how believers respond when God reveals impending judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1348.5600128173828,
-    "end_time": 1408.9000244140625
+    "end_time": 1408.9000244140625,
+    "point_summary": "Elisha's weeping over the coming atrocities Hazael would inflict on Israel illustrates how a righteous man, forewarned of impending judgment, responds with grief rather than indifference.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1348.5600128173828,
-    "end_time": 1408.9000244140625
+    "end_time": 1408.9000244140625,
+    "point_summary": "Elisha's weeping over the coming atrocities Hazael would inflict on Israel illustrates how a righteous man grieves at impending judgment rather than remaining unmoved by it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "Frg4i29kHnM",
     "start_time": 1408.9000244140625,
-    "end_time": 1487.9400329589844
+    "end_time": 1487.9400329589844,
+    "point_summary": "Elisha's weeping at the revelation of Hazael's future atrocities illustrates that divine foreknowledge of coming judgment can move God's servants to profound grief over the suffering of their people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 133.83999633789062,
-    "end_time": 191.8000030517578
+    "end_time": 191.8000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 319.8399963378906,
-    "end_time": 379.8399963378906
+    "end_time": 379.8399963378906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 319.8399963378906,
-    "end_time": 379.8399963378906
+    "end_time": 379.8399963378906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 319.8399963378906,
-    "end_time": 379.8399963378906
+    "end_time": 379.8399963378906,
+    "point_summary": "The child's sudden cry of head pain in verse 19 introduces the crisis that drives the entire narrative, with the father's instinctive response—carry him to his mother—framing the sermon's central theme of maternal compassion and care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 632.1199970245361,
-    "end_time": 689.879997253418
+    "end_time": 689.879997253418,
+    "point_summary": "The Shunammite woman's repeated, constrained hospitality toward Elisha illustrates that true generosity is not a single act but a sustained, habitual practice of opening one's resources to God's servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 1588.9199829101562,
-    "end_time": 1655.5399780273438
+    "end_time": 1655.5399780273438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 1655.5399780273438,
-    "end_time": 1731.5800170898438
+    "end_time": 1731.5800170898438,
+    "point_summary": "Elisha's declaration that the barren Shunammite woman would embrace a son illustrates God's sovereign power to give life and underscores the sanctity and preciousness of children as divine blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 1655.5399780273438,
-    "end_time": 1731.5800170898438
+    "end_time": 1731.5800170898438,
+    "point_summary": "God's fulfillment of Elisha's word to the barren Shunammite woman — she conceived exactly as promised — grounds an affirmation of the sanctity and preciousness of human life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2100.0800170898438,
-    "end_time": 2164.6400146484375
+    "end_time": 2164.6400146484375,
+    "point_summary": "A season of blessing can give way to sudden, devastating loss, as the child's collapse in the field marks the turn from joy to brokenness in the Shunammite's story.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2100.0800170898438,
-    "end_time": 2164.6400146484375
+    "end_time": 2164.6400146484375,
+    "point_summary": "The child's sudden cry of head pain and swift death marks the turn from blessing to brokenness, illustrating that seasons of grief and overwhelming sorrow are a real part of the believer's experience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2813.800018310547,
-    "end_time": 2880.9200134277344
+    "end_time": 2880.9200134277344,
+    "point_summary": "Gehazi's staff produced no result, illustrating that there is no power in a mere object or proxy — the crisis required Elisha himself to come and pray directly to the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2880.9200134277344,
-    "end_time": 2941.7000122070312
+    "end_time": 2941.7000122070312,
+    "point_summary": "When Elisha arrives to find the child dead, his first response is to shut the door and pray, presenting private, deliberate prayer as the proper first response to crisis rather than reliance on any human instrument or method.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2880.9200134277344,
-    "end_time": 2941.7000122070312
+    "end_time": 2941.7000122070312,
+    "point_summary": "Private, shut-door prayer is presented as Elisha's first and instinctive response to the dead child, modeling prayer as the believer's immediate recourse in crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2880.9200134277344,
-    "end_time": 2941.7000122070312
+    "end_time": 2941.7000122070312,
+    "point_summary": "Elisha's intimate, full-body posture over the dead child—mouth to mouth, eyes to eyes, hands to hands—is presented as the physical means through which God's resurrection power was channeled, restoring warmth and life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "FZYKQS7fq1w",
     "start_time": 2880.9200134277344,
-    "end_time": 2941.7000122070312
+    "end_time": 2941.7000122070312,
+    "point_summary": "Brokenness and unanswered intermediate measures (Gehazi's staff) give way to God's miracle-working power, seen when the child's eyes open after Elisha's prayer and physical intercession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 0.0,
-    "end_time": 60.84000015258789
+    "end_time": 60.84000015258789,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 0.0,
-    "end_time": 60.84000015258789
+    "end_time": 60.84000015258789,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 0.0,
-    "end_time": 60.84000015258789
+    "end_time": 60.84000015258789,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 126.5,
-    "end_time": 197.32000732421875
+    "end_time": 197.32000732421875,
+    "point_summary": "Elisha's reassurance to his fearful servant—\"they that be with us are more than they that be with them\"—anchors the sermon's central claim that God's unseen forces outnumber any earthly threat arrayed against His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 999.5800170898438,
-    "end_time": 1063.3800048828125
+    "end_time": 1063.3800048828125,
+    "point_summary": "Elisha's calm declaration \"fear not; they that be with us are more than they that be with them\" is grounded in a spiritual vision the servant lacked, contrasting unseen divine resources against the visible Syrian host.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 1063.3800048828125,
-    "end_time": 1133.8600463867188
+    "end_time": 1133.8600463867188,
+    "point_summary": "Elisha's prayer in verse 17 illustrates that spiritual sight—seeing God's surrounding angelic host—is a divine gift that transforms fear into confidence by aligning the servant's perspective with what Elisha already knew.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "gDoMZMw9sRM",
     "start_time": 1661.4000244140625,
-    "end_time": 1729.9000244140625
+    "end_time": 1729.9000244140625,
+    "point_summary": "Elisha's reassurance \"there are more with us than with them\" teaches that spiritual sight—awareness of God's presence and power—is the instruction believers still need when overwhelmed by visible threats.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1251,7 +1477,9 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 1333.0999908447266,
-    "end_time": 1393.3799896240234
+    "end_time": 1393.3799896240234,
+    "point_summary": "The cannibalism described in 2 Kings 6:28 is cited as historical fulfillment of the covenant curses God warned Israel would come if they refused to return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2144.300048828125,
-    "end_time": 2213.8600463867188
+    "end_time": 2213.8600463867188,
+    "point_summary": "Hezekiah's stand against Assyrian intimidation parallels Paul's bold public declaration of God's word, illustrating that genuine faith in God's promise is proclaimed openly, not hedged privately.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2343.3400268554688,
-    "end_time": 2407.4800415039062
+    "end_time": 2407.4800415039062,
+    "point_summary": "God's defense of Jerusalem—declared for His own sake and David's—is cited as a historical demonstration of what the true God is able to do when His people choose to believe Him over opposing voices.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2343.3400268554688,
-    "end_time": 2407.4800415039062
+    "end_time": 2407.4800415039062,
+    "point_summary": "God's dramatic deliverance of Jerusalem—one angel slaying 185,000 Assyrians overnight—is cited as a concrete biblical example of what God is able to do when His people trust Him over opposing voices.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2343.3400268554688,
-    "end_time": 2407.4800415039062
+    "end_time": 2407.4800415039062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 67.0,
-    "end_time": 133.0
+    "end_time": 133.0,
+    "point_summary": "The 41-year reign of Jeroboam II, recorded in 2 Kings 14:23–29, establishes the historical backdrop for Hosea's prophetic ministry to the northern tribes of Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 133.0,
-    "end_time": 202.0
+    "end_time": 202.0,
+    "point_summary": "2 Kings 14:23 is cited to establish the historical backdrop of Hosea's ministry, identifying Jeroboam II's 41-year reign in Samaria and his characterization as a king who did evil in the Lord's sight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 133.0,
-    "end_time": 202.0
+    "end_time": 202.0,
+    "point_summary": "Jeroboam II's reign exemplifies a pattern true of every northern king without exception: all did evil in the sight of the Lord, leaving Israel with no godly ruler after the divided kingdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 419.0,
-    "end_time": 483.0
+    "end_time": 483.0,
+    "point_summary": "Jeroboam II's military recovery of Damascus and Hamath provided Israel a false sense of national security that made the prophetic warnings of coming judgment seem implausible to the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 0.0,
-    "end_time": 57.0
+    "end_time": 57.0,
+    "point_summary": "In 2 Kings 8, the narrative returns to the Shunammite woman introduced in chapter 4, continuing a multi-week expository study of Elisha's ministry across successive Wednesday services.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 0.0,
-    "end_time": 57.0
+    "end_time": 57.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 0.0,
-    "end_time": 57.0
+    "end_time": 57.0,
+    "point_summary": "The Shunammite woman's hospitality in 2 Kings 4—building a chamber for Elisha—is revisited as background context for the ongoing narrative encounter with her in 2 Kings 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 57.0,
-    "end_time": 119.68000030517578
+    "end_time": 119.68000030517578,
+    "point_summary": "Second Kings 4 is recalled as the narrative backdrop establishing the Shunammite woman's identity — the one who built a prophet's chamber for Elisha and whose dead son he raised to life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 182.0399932861328,
-    "end_time": 248.27999877929688
+    "end_time": 248.27999877929688,
+    "point_summary": "Famine in Scripture most often signals divine judgment, and the Lord's sovereign calling of a seven-year famine here is read as exactly that — God's judicial response to the wickedness of Israel's king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1405,7 +1659,9 @@
     "is_implicit": true,
     "video_id": "kWms8xmaBZ4",
     "start_time": 248.27999877929688,
-    "end_time": 310.1600036621094
+    "end_time": 310.1600036621094,
+    "point_summary": "Famine in Scripture most often signals divine judgment, and here the Lord's calling for a seven-year famine upon Israel is traced directly to the wickedness of Jehoram's reign.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1416,7 +1672,9 @@
     "is_implicit": true,
     "video_id": "kWms8xmaBZ4",
     "start_time": 371.1199951171875,
-    "end_time": 437.3599853515625
+    "end_time": 437.3599853515625,
+    "point_summary": "Elisha's declaration that \"the Lord hath called for a famine\" demonstrates God's sovereign, intimate involvement in human affairs, actively directing even judgment rather than standing apart from his creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 771.5599822998047,
-    "end_time": 826.1999816894531
+    "end_time": 826.1999816894531,
+    "point_summary": "Gehazi's leprosy, pronounced permanent and hereditary in verse 27, is cited to argue against the view that he was later healed, maintaining the chronological integrity of Elisha's narrative through 2 Kings 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 826.1999816894531,
-    "end_time": 889.719970703125
+    "end_time": 889.719970703125,
+    "point_summary": "The curse pronounced on Gehazi — that Naaman's leprosy would cleave to him and his seed forever — is read alongside Leviticus 13 to argue that his being \"white as snow\" rendered him ceremonially clean, not healed, explaining his continued presence in public life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1090.0799865722656,
-    "end_time": 1152.4400024414062
+    "end_time": 1152.4400024414062,
+    "point_summary": "When the Shunammite woman's account is confirmed before the king, the sermon draws out how her earlier declaration of \"it is well\" — spoken in faith before the miracle — now stands vindicated by the very evidence before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "The Shunammite's confident \"it shall be well\" in the face of her son's death illustrates a faith that presses toward God rather than yielding to circumstances, as the sermon recounts the full miracle now confirmed before the king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "The miraculous resurrection of the Shunammite's son, recorded in 2 Kings 4, is presented as verified historical truth—not legend—when the woman herself confirms the account before the king in 2 Kings 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "Elisha's prayer over the dead child, recalled here as part of a confirmed historical account, underscores that the miracles recorded in Scripture are verifiable truth, not invented stories.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "The resurrection of the Shunammite's son, recalled in 2 Kings 8, is presented as confirmed historical truth—not legend—because the living witness and the living child both validate Gehazi's account.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "The miraculous resurrection of the Shunammite's son, recounted in 2 Kings 4, is shown to be confirmed as historical truth when the woman herself appears before the king at the very moment Gehazi is recounting it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "kWms8xmaBZ4",
     "start_time": 1152.4400024414062,
-    "end_time": 1221.739984512329
+    "end_time": 1221.739984512329,
+    "point_summary": "The convergence of the Shunammite woman's arrival at the very moment Gehazi recounts her story to the king confirms that the miraculous account was not legend but verified, historical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "L2VPresPC4c",
     "start_time": 2335.800048828125,
-    "end_time": 2409.3600170612335
+    "end_time": 2409.3600170612335,
+    "point_summary": "Facing national crisis, Hezekiah's prayer grounds his appeal to God in the foundational confession that the Lord alone made heaven and earth and rules all kingdoms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "L2VPresPC4c",
     "start_time": 2991.9400024414062,
-    "end_time": 3066.62003326416
+    "end_time": 3066.62003326416,
+    "point_summary": "Hezekiah's prayer in 2 Kings 19 is cited as evidence that confessing God as Creator directly fueled bold, confident intercession against an overwhelming military threat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "Mg6Jl4Z1Y9c",
     "start_time": 2885.760009765625,
-    "end_time": 2945.0800170898438
+    "end_time": 2945.0800170898438,
+    "point_summary": "Unbelief that doubts God's power to provide abundantly is judged: the officer who questioned whether God could open heaven's windows saw the miraculous provision fulfilled but was trampled and never tasted it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "Mg6Jl4Z1Y9c",
     "start_time": 2885.760009765625,
-    "end_time": 2945.0800170898438
+    "end_time": 2945.0800170898438,
+    "point_summary": "God's sudden reversal of famine in 2 Kings 7:16—abundance replacing starvation according to the prophetic word—is invoked as a biblical precedent for the Lord's power to open the windows of heaven in blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1117.4400024414062,
-    "end_time": 1180.8800048828125
+    "end_time": 1180.8800048828125,
+    "point_summary": "Famine in 2 Kings 6 is cited as a biblical example that Christians globally already endure severe suffering and deprivation, countering any assumption that believers are exempt from extreme hardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1117.4400024414062,
-    "end_time": 1180.8800048828125
+    "end_time": 1180.8800048828125,
+    "point_summary": "The desperate famine conditions of 2 Kings 6–7, including cannibalism and starvation prices, illustrate that genuine suffering—even among God's people—is a biblical reality, not a foreign concept.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1180.8800048828125,
-    "end_time": 1251.3599853515625
+    "end_time": 1251.3599853515625,
+    "point_summary": "Severe famine in Israel drove people to unimaginable desperation, illustrating that God's people worldwide are not exempt from catastrophic suffering and judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1180.8800048828125,
-    "end_time": 1251.3599853515625
+    "end_time": 1251.3599853515625,
+    "point_summary": "When famine is the result of divine judgment, even a king has nothing to offer the suffering — only God can help.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1180.8800048828125,
-    "end_time": 1251.3599853515625
+    "end_time": 1251.3599853515625,
+    "point_summary": "Famine so severe that donkey's head sold for eighty pieces of silver illustrates how desperate conditions drive people to unimaginable extremes, a reality the sermon presents as biblical precedent for suffering among God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1180.8800048828125,
-    "end_time": 1251.3599853515625
+    "end_time": 1251.3599853515625,
+    "point_summary": "Severe famine in Israel drove people to unimaginable acts of desperation, illustrating that extreme suffering—including among God's people—is a biblical reality, not a foreign concept.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1180.8800048828125,
-    "end_time": 1251.3599853515625
+    "end_time": 1251.3599853515625,
+    "point_summary": "Famine-driven desperation in Samaria drove mothers to cannibalize their own children, illustrating that extreme scarcity produces unimaginable human depravity—a reality foreign to American experience but documented in Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1326.3599853515625,
-    "end_time": 1382.3599853515625
+    "end_time": 1382.3599853515625,
+    "point_summary": "Famine-driven desperation in Israel, like that in Egypt and in Revelation 13, illustrates that people will surrender anything—including moral and spiritual integrity—when hunger becomes extreme enough.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 0.0,
-    "end_time": 70.76000213623047
+    "end_time": 70.76000213623047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 133.8000030517578,
-    "end_time": 203.52000427246094
+    "end_time": 203.52000427246094,
+    "point_summary": "Gehazi's covetous resolve — \"as the Lord liveth, I will run after him\" — marks the moment a servant of God's prophet chose personal gain over his master's deliberate refusal of Naaman's gifts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 133.8000030517578,
-    "end_time": 203.52000427246094
+    "end_time": 203.52000427246094,
+    "point_summary": "Naaman's descent from his chariot to meet Gehazi sets the scene for the deception Gehazi exploits, using Naaman's grateful, trusting response as the opportunity to extract silver and garments through a lie.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 133.8000030517578,
-    "end_time": 203.52000427246094
+    "end_time": 203.52000427246094,
+    "point_summary": "Gehazi's lie to Naaman—fabricating a message from Elisha and inventing a fictitious need—is presented as the specific act of deception by which he exploited Naaman's healing to gain silver and garments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 133.8000030517578,
-    "end_time": 203.52000427246094
+    "end_time": 203.52000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 203.52000427246094,
-    "end_time": 274.1199951171875
+    "end_time": 274.1199951171875,
+    "point_summary": "Gehazi's lie to Naaman—fabricating a message from Elisha to obtain silver and garments—is the deceptive act that sets in motion his judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 203.52000427246094,
-    "end_time": 274.1199951171875
+    "end_time": 274.1199951171875,
+    "point_summary": "Gehazi's secret concealment of Naaman's goods \"in the house\" (v. 24) sets the stage for the tragic contrast between his hidden sin and Elisha's divinely granted knowledge of it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 203.52000427246094,
-    "end_time": 274.1199951171875
+    "end_time": 274.1199951171875,
+    "point_summary": "Gehazi's lie to Elisha — \"thy servant went no whither\" — stands exposed by Elisha's prophetic knowledge, underscoring that secret sin cannot be hidden from God's servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 203.52000427246094,
-    "end_time": 274.1199951171875
+    "end_time": 274.1199951171875,
+    "point_summary": "Elisha's prophetic knowledge of Gehazi's secret sin — \"went not mine heart with thee?\" — establishes that hidden covetousness and deceit are fully visible to God's servant and carry inescapable, generational consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 203.52000427246094,
-    "end_time": 274.1199951171875
+    "end_time": 274.1199951171875,
+    "point_summary": "Gehazi's leprosy passing to him and his descendants forever stands as the divine verdict on covetousness and deceit committed in the shadow of a prophet's ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 1052.3600158691406,
-    "end_time": 1135.0
+    "end_time": 1135.0,
+    "point_summary": "Gehazi's leprosy — the sad, irreversible consequence recorded in verse 27 — is inseparable from the deceptive conduct of verses 20–25 that caused it, making the two passages mutually interpreting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1779,7 +2101,9 @@
     "is_implicit": true,
     "video_id": "nh_yOTAqen4",
     "start_time": 1200.5999755859375,
-    "end_time": 1269.3799743652344
+    "end_time": 1269.3799743652344,
+    "point_summary": "Gehazi's sin began with an entertained thought, illustrating that unchecked desires lead to sinful actions and must be brought into captivity to the obedience of Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1191.5799560546875,
-    "end_time": 1248.8599967956543
+    "end_time": 1248.8599967956543,
+    "point_summary": "The account of 2 Kings 7 is introduced as a scriptural anchor for the sermon's theme of personal responsibility to bring the gospel to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1248.8599967956543,
-    "end_time": 1309.139991760254
+    "end_time": 1309.139991760254,
+    "point_summary": "The desperate logic of the four lepers — \"why sit we here until we die?\" — is used to press the personal responsibility of believers to carry the gospel rather than remain passive while others perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1309.139991760254,
-    "end_time": 1362.979995727539
+    "end_time": 1362.979995727539,
+    "point_summary": "God's unseen intervention — causing the Syrians to hear phantom armies and flee — created abundance that the four leprous men discovered, illustrating how divine providence works invisibly ahead of human action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1689.97998046875,
-    "end_time": 1760.8200073242188
+    "end_time": 1760.8200073242188,
+    "point_summary": "The four lepers' refusal to hold their peace after finding abundance serves as a spiritual pattern for believers who possess the gospel: they must go and tell, not procrastinate or make excuses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1834,7 +2166,9 @@
     "is_implicit": true,
     "video_id": "ovhq5P2teKg",
     "start_time": 1388.9400329589844,
-    "end_time": 1452.4600219726562
+    "end_time": 1452.4600219726562,
+    "point_summary": "James and John's appeal to Elijah's fire in 2 Kings 1 serves as the backdrop for Christ's rebuke, contrasting a spirit of destruction with His mission to save lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1845,7 +2179,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 1729.3399658203125,
-    "end_time": 1789.699951171875
+    "end_time": 1789.699951171875,
+    "point_summary": "The fulfillment of Isaac's blessing to Esau—that Edom would one day break free from Judah's dominion—is shown to have been literally realized during the reign of Jehoram, when Edom revolted and established its own king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 1729.3399658203125,
-    "end_time": 1789.699951171875
+    "end_time": 1789.699951171875,
+    "point_summary": "The revolt of Edom from under Judah's hand in the days of Jehoram is presented as the historical fulfillment of Isaac's blessing to Esau that he would one day break Jacob's yoke from his neck.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 1789.699951171875,
-    "end_time": 1846.859977722168
+    "end_time": 1846.859977722168,
+    "point_summary": "Edom's revolt from Judah's dominion during Jehoram's reign is presented as the historical fulfillment of Isaac's blessing that Esau would one day break Jacob's yoke from his neck.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 1789.699951171875,
-    "end_time": 1846.859977722168
+    "end_time": 1846.859977722168,
+    "point_summary": "2 Kings 8:21 is cited as historical fulfillment of Isaac's blessing that Edom would one day break Jacob's yoke, with Edom's revolt under Jehoram confirming the prophetic word of Genesis 27:40.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "PcWAoGx4sog",
     "start_time": 1789.699951171875,
-    "end_time": 1846.859977722168
+    "end_time": 1846.859977722168,
+    "point_summary": "2 Kings 8:22 is cited as historical fulfillment of Isaac's blessing that Edom would one day break Jacob's yoke, with the phrase \"unto this day\" marking the revolt as realized by the time of the writing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 0.0,
-    "end_time": 64.95999908447266
+    "end_time": 64.95999908447266,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 0.0,
-    "end_time": 64.95999908447266
+    "end_time": 64.95999908447266,
+    "point_summary": "Naaman's greatness, honor, and military valor are all overshadowed by the single disqualifying word \"leper,\" establishing that human achievement cannot remedy his deepest need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 0.0,
-    "end_time": 64.95999908447266
+    "end_time": 64.95999908447266,
+    "point_summary": "A captive Israelite servant girl's witness—pointing Naaman to the prophet in Samaria—is presented as the pivotal moment that set his journey toward healing in motion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 64.95999908447266,
-    "end_time": 131.24000549316406
+    "end_time": 131.24000549316406,
+    "point_summary": "Jehoram's anguished cry — \"Am I God, to kill and to make alive?\" — exposes his helplessness, contrasted immediately with Elisha's confidence as God's appointed representative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 131.24000549316406,
-    "end_time": 201.39999389648438
+    "end_time": 201.39999389648438,
+    "point_summary": "Naaman's arrival at Elisha's door with horses and chariot sets a scene charged with expectation, as a powerful man stands waiting at the threshold of God's appointed prophet.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 268.67999267578125,
-    "end_time": 338.0
+    "end_time": 338.0,
+    "point_summary": "Elisha's deliberate absence and the simplicity of his instruction—wash in Jordan seven times—set up Naaman's unfulfilled expectations as the central tension of the passage.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1966,7 +2322,9 @@
     "is_implicit": true,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 268.67999267578125,
-    "end_time": 338.0
+    "end_time": 338.0,
+    "point_summary": "Elisha's pattern of giving simple, seemingly ordinary instructions in response to desperate need—seen also in 2 Kings 4:1 with the widow—frames Naaman's command to wash in the Jordan as consistent with that same divine method.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1977,7 +2335,9 @@
     "is_implicit": true,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 474.67999267578125,
-    "end_time": 537.5599975585938
+    "end_time": 537.5599975585938,
+    "point_summary": "Elisha's promise of cleansing in 2 Kings 5:10 is conditional, resting on specific obedience—the right place, Jordan, and the exact number, seven times—illustrating that God's promises throughout Scripture require obedience to receive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 955.9599914550781,
-    "end_time": 1020.7999877929688
+    "end_time": 1020.7999877929688,
+    "point_summary": "Naaman's servants appeal to simple logic—if he would have obeyed a great command, how much more should he obey an easy one—and their reasonable counsel turns him back from rage toward obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 1087.47998046875,
-    "end_time": 1159.7599487304688
+    "end_time": 1159.7599487304688,
+    "point_summary": "Naaman's identity as a great, honorable, and valorous captain of Syria establishes the pride he had to lay down before healing could come through humble obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 1087.47998046875,
-    "end_time": 1159.7599487304688
+    "end_time": 1159.7599487304688,
+    "point_summary": "Elisha's command to wash seven times in the Jordan required Naaman to set aside his pride and exercise exact, humble obedience before he could receive cleansing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 1087.47998046875,
-    "end_time": 1159.7599487304688
+    "end_time": 1159.7599487304688,
+    "point_summary": "Naaman's sevenfold dipping in the Jordan illustrates that healing came only through the convergence of humility, exact obedience, and faith in the word delivered by the man of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 1610.3799743652344,
-    "end_time": 1679.8199768066406
+    "end_time": 1679.8199768066406,
+    "point_summary": "Elisha's refusal of Naaman's gift illustrates that the grace of God cannot be purchased or repaid, as salvation is freely given and already paid in full.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 0.0,
-    "end_time": 53.13999938964844
+    "end_time": 53.13999938964844,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 368.760009765625,
-    "end_time": 436.739990234375
+    "end_time": 436.739990234375,
+    "point_summary": "A widow's compounding crisis — her husband dead, a debt unpaid, and her sons threatened with bondage — establishes the desperate human problem that God's provision will answer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 813.0000152587891,
-    "end_time": 871.6800231933594
+    "end_time": 871.6800231933594,
+    "point_summary": "God's provision plan often requires obedient action that appears pointless to human reasoning before its purpose becomes clear, as Elisha's command to gather empty vessels made no immediate sense to the widow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1497.2400207519531,
-    "end_time": 1560.0800170898438
+    "end_time": 1560.0800170898438,
+    "point_summary": "God's miraculous provision for the widow—her problem in verse 1 fully resolved by verse 7—illustrates the principle that believers must seek God's plan first, running to Him with their troubles as she ran to Elisha.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1759.5599975585938,
-    "end_time": 1820.1200103759766
+    "end_time": 1820.1200103759766,
+    "point_summary": "Obedience to God's revealed plan is essential — the widow's miracle in 2 Kings 4 depended entirely on her actually doing what the man of God instructed, not merely hearing it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1820.1200103759766,
-    "end_time": 1886.9000091552734
+    "end_time": 1886.9000091552734,
+    "point_summary": "The widow's crisis in 2 Kings 4:1—debt, death, and threatened bondage—serves as the entry point for examining whether believers who receive God's plan will actually obey it rather than seek their own alternative.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2109,7 +2491,9 @@
     "is_implicit": true,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1820.1200103759766,
-    "end_time": 1886.9000091552734
+    "end_time": 1886.9000091552734,
+    "point_summary": "Obedience to God's revealed plan is the indispensable condition for His provision — without the widow's immediate compliance in verse 5, there is no miracle in verse 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2120,7 +2504,9 @@
     "is_implicit": true,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1820.1200103759766,
-    "end_time": 1886.9000091552734
+    "end_time": 1886.9000091552734,
+    "point_summary": "Reaching verse 7's provision depended entirely on the widow's obedience in verses 5–6; without acting on God's plan, the miracle of supply would never have come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 2130.6199951171875,
-    "end_time": 2198.9400024414062
+    "end_time": 2198.9400024414062,
+    "point_summary": "God works His provision through obedient trust in His word, and the 2 Kings 4 account illustrates that doing things God's way—not pragmatism—remains the unchanging pattern for His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 129.25999450683594,
-    "end_time": 194.5
+    "end_time": 194.5,
+    "point_summary": "Elisha's arrival in Damascus—enemy territory—occasions a royal inquiry about healing, setting the scene for the weeping that follows and linking prophetic ministry to tears throughout Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 194.5,
-    "end_time": 258.3399963378906
+    "end_time": 258.3399963378906,
+    "point_summary": "The forty-camel burden of gifts from Ben-Hadad sets the scene of Hazael's embassy to Elisha, establishing the gravity of the inquiry before Elisha's sobering prophetic response in verse 10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 194.5,
-    "end_time": 258.3399963378906
+    "end_time": 258.3399963378906,
+    "point_summary": "Elisha's message in verse 10 distinguishes between Ben-Hadad's recoverable illness and his certain death—not from disease, but because Hazael would kill him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 194.5,
-    "end_time": 258.3399963378906
+    "end_time": 258.3399963378906,
+    "point_summary": "Hazael's murder of Ben-Hadad—smothering him with a wet cloth and seizing the throne—fulfills exactly what Elisha had foreseen, underscoring that the king's death came not from his illness but from human treachery.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 542.3400268554688,
-    "end_time": 608.3199949264526
+    "end_time": 608.3199949264526,
+    "point_summary": "God's word through Elisha concerning Hazael's destructive reign proved literally true, as 2 Kings 10:32 records Hazael smiting Israel throughout its coasts—confirming that God always fulfills what He says.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 608.3199949264526,
-    "end_time": 674.2999954223633
+    "end_time": 674.2999954223633,
+    "point_summary": "2 Kings 10:32 is cited as the fulfillment of Elisha's grief in chapter 8, confirming that Hazael's judgment on Israel came to pass exactly as God's word declared it would.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 608.3199949264526,
-    "end_time": 674.2999954223633
+    "end_time": 674.2999954223633,
+    "point_summary": "Hazael's campaign against Jerusalem, bought off only temporarily by Jehoash's tribute of temple treasures, illustrates the relentless fulfillment of God's judgment on Israel through the very man Elisha wept over.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 674.2999954223633,
-    "end_time": 737.1799926757812
+    "end_time": 737.1799926757812,
+    "point_summary": "Israel's persistent idolatry under Jeroboam's sins left the nation defenseless, confirming that Hazael's devastating military destruction of Israel was the fulfillment of what Elisha had foreseen and wept over.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 737.1799926757812,
-    "end_time": 807.0599975585938
+    "end_time": 807.0599975585938,
+    "point_summary": "Elisha's weeping in 2 Kings 8:11 is presented as a profound, sustained grief—not mere emotion—over the brutal destruction he foresaw coming upon Israel at Hazael's hand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1072.260009765625,
-    "end_time": 1145.1400146484375
+    "end_time": 1145.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1072.260009765625,
-    "end_time": 1145.1400146484375
+    "end_time": 1145.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1072.260009765625,
-    "end_time": 1145.1400146484375
+    "end_time": 1145.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1072.260009765625,
-    "end_time": 1145.1400146484375
+    "end_time": 1145.1400146484375,
+    "point_summary": "God's revelation to Isaiah that Babylon would carry away Hezekiah's treasures and sons parallels Elisha's foreknowledge of Hazael's coming brutality against Israel — both prophets receiving devastating divine disclosure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2285,7 +2699,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1072.260009765625,
-    "end_time": 1145.1400146484375
+    "end_time": 1145.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1145.2999877929688,
-    "end_time": 1214.8600044250488
+    "end_time": 1214.8600044250488,
+    "point_summary": "Elisha's weeping over the coming destruction in 2 Kings 8 is set in contrast to Hezekiah's indifferent response to Isaiah's prophecy, highlighting how grief over others' suffering marks a godly heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2307,7 +2725,9 @@
     "is_implicit": true,
     "video_id": "rwlS36WfLm8",
     "start_time": 1145.2999877929688,
-    "end_time": 1214.8600044250488
+    "end_time": 1214.8600044250488,
+    "point_summary": "Hezekiah's self-centered response to Isaiah's devastating prophecy—accepting coming judgment with relief that it would not fall in his own lifetime—stands in stark contrast to Elisha's weeping over future suffering he would never personally endure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 0.0,
-    "end_time": 60.540000915527344
+    "end_time": 60.540000915527344,
+    "point_summary": "Against the backdrop of Samaria's siege—its inhabitants hopeless, helpless, and reduced to cannibalism—2 Kings 7:1 is introduced as God's word of promised reversal into an utterly desperate human situation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 0.0,
-    "end_time": 60.540000915527344
+    "end_time": 60.540000915527344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 0.0,
-    "end_time": 60.540000915527344
+    "end_time": 60.540000915527344,
+    "point_summary": "The siege of Samaria described at the close of 2 Kings 6 left its inhabitants both hopeless and helpless, with the king himself unable to provide any relief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 60.540000915527344,
-    "end_time": 126.69999694824219
+    "end_time": 126.69999694824219,
+    "point_summary": "The end of 2 Kings 6 sets the desperate backdrop—Samaria besieged, famine-stricken, and its king both helpless and murderously hostile toward Elisha—against which God's word of provision in chapter 7 arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 126.69999694824219,
-    "end_time": 207.17999267578125
+    "end_time": 207.17999267578125,
+    "point_summary": "Against the backdrop of Samaria's catastrophic famine and the king's helplessness, Elisha's word in 2 Kings 7:1 introduces a divine prophecy of imminent, specific provision where human resources had utterly failed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2373,7 +2803,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 126.69999694824219,
-    "end_time": 207.17999267578125
+    "end_time": 207.17999267578125,
+    "point_summary": "Unbelief in God's promised provision is rebuked when the lord's skeptical question — \"might this thing be?\" — is met with the prophecy that he will see the abundance but not share in it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 126.69999694824219,
-    "end_time": 207.17999267578125
+    "end_time": 207.17999267578125,
+    "point_summary": "Extreme famine conditions in Samaria—where an unclean animal's head sold for eighty pieces of silver—establish the desperate, provision-less backdrop against which Elisha's prophecy of divine provision in chapter 7 is proclaimed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 659.6799812316895,
-    "end_time": 733.8999786376953
+    "end_time": 733.8999786376953,
+    "point_summary": "Unbelief in God's prophesied provision reveals itself as mockery—the servant's scoffing question exposes that he was judging God's word by visible circumstances rather than divine capability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 733.8999786376953,
-    "end_time": 800.3799896240234
+    "end_time": 800.3799896240234,
+    "point_summary": "The officer's mocking question — \"if the Lord would make windows in heaven\" — illustrates the danger of being consumed with *how* God will act rather than trusting *who* God is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 800.3799896240234,
-    "end_time": 874.4199829101562
+    "end_time": 874.4199829101562,
+    "point_summary": "Elisha's prophecy in 2 Kings 7:1 illustrates that trust in God's word centers on knowing *who* will act, not *how* the impossible will be accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 800.3799896240234,
-    "end_time": 874.4199829101562
+    "end_time": 874.4199829101562,
+    "point_summary": "When the king confesses there is nothing left in barn or winepress, it frames the impossibility that shifts the question from how God will provide to who God is as the one who provides.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2439,7 +2881,9 @@
     "is_implicit": true,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 992.3799743652344,
-    "end_time": 1055.4999694824219
+    "end_time": 1055.4999694824219,
+    "point_summary": "In the desperate siege context of 2 Kings 7, the prophecy of provision illustrates that God's people need not understand *how* He will act, only *who* He is—a God who has never failed and is able to fulfill His word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 1262.4599990844727,
-    "end_time": 1337.7200012207031
+    "end_time": 1337.7200012207031,
+    "point_summary": "Doubting God's word does not nullify it — the officer's scoffing neither altered Elisha's prophecy nor prevented its precise fulfillment, only his own participation in it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 1497.4800109863281,
-    "end_time": 1564.5599975585938
+    "end_time": 1564.5599975585938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 0.0,
-    "end_time": 64.95999908447266
+    "end_time": 64.95999908447266,
+    "point_summary": "The desperate circumstances of besieged Samaria in 2 Kings 7 are introduced as the dark backdrop against which God's deliverance—and the obligation to proclaim it—will be understood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2483,7 +2933,9 @@
     "is_implicit": true,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 0.0,
-    "end_time": 64.95999908447266
+    "end_time": 64.95999908447266,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 64.95999908447266,
-    "end_time": 132.6999969482422
+    "end_time": 132.6999969482422,
+    "point_summary": "The Syrian siege of Samaria recorded in 2 Kings 6:24 establishes the desperate backdrop of famine and military encirclement against which the miraculous deliverance of chapter seven unfolds.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 64.95999908447266,
-    "end_time": 132.6999969482422
+    "end_time": 132.6999969482422,
+    "point_summary": "Siege-induced famine had reduced Samaria to such desperate scarcity that even an ass's head and dove's dung were sold at exorbitant prices, establishing the dire circumstances into which God would soon intervene.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 132.6999969482422,
-    "end_time": 195.8000030517578
+    "end_time": 195.8000030517578,
+    "point_summary": "The siege of Samaria produced a famine so severe that inflated prices for worthless food scraps illustrate the desperate, life-threatening conditions into which God's people had fallen.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 132.6999969482422,
-    "end_time": 195.8000030517578
+    "end_time": 195.8000030517578,
+    "point_summary": "Even the king of Israel, when cried to for help, confesses he has nothing to give — exposing the total destitution of Samaria under Syrian siege.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 132.6999969482422,
-    "end_time": 195.8000030517578
+    "end_time": 195.8000030517578,
+    "point_summary": "Cannibalism within besieged Samaria illustrates the extreme, almost unimaginable depths of human desperation produced by the Syrian siege and famine surrounding the events of 2 Kings 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 195.82000732421875,
-    "end_time": 259.1600036621094
+    "end_time": 259.1600036621094,
+    "point_summary": "The depths of the siege's famine in Samaria had driven Israel to cannibalism, establishing the desperate, hopeless context against which Elisha's proclamation of sudden abundance in 7:1 becomes staggering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 195.82000732421875,
-    "end_time": 259.1600036621094
+    "end_time": 259.1600036621094,
+    "point_summary": "Against the backdrop of extreme famine and cannibalism in Samaria, Elisha's proclamation in verse 1 is presented as a powerful, faith-demanding word from God promising miraculous provision by the very next day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 259.1600036621094,
-    "end_time": 321.05999755859375
+    "end_time": 321.05999755859375,
+    "point_summary": "Against the backdrop of Israel's most desperate hour — famine, siege, and unthinkable suffering — Elisha's proclamation in verse 1 stands as a sovereign word from God promising sudden, specific, and complete reversal of circumstances by the next day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 259.1600036621094,
-    "end_time": 321.05999755859375
+    "end_time": 321.05999755859375,
+    "point_summary": "Faced with Elisha's impossible-sounding prophecy, the lord's mocking skepticism—\"if the Lord would make windows in heaven\"—draws the divine judgment that he would see the fulfillment but never benefit from it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 321.82000732421875,
-    "end_time": 388.6400146484375
+    "end_time": 388.6400146484375,
+    "point_summary": "God's word through Elisha promised miraculous abundance in Samaria by the next day—a proclamation so contrary to the city's desperate circumstances that even a royal official found it impossible to believe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 321.82000732421875,
-    "end_time": 388.6400146484375
+    "end_time": 388.6400146484375,
+    "point_summary": "Four leprous men, introduced in verse 3, become the sermon's central figures through whom the spiritual application about sharing good news is drawn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 388.6400146484375,
-    "end_time": 453.44000244140625
+    "end_time": 453.44000244140625,
+    "point_summary": "Withholding good news when others are perishing is presented as a moral failure, framing the lepers' self-conviction — \"we do not well\" — as the sermon's central evangelistic challenge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 388.6400146484375,
-    "end_time": 453.44000244140625
+    "end_time": 453.44000244140625,
+    "point_summary": "Four lepers positioned at the city gate, waiting to die, are introduced as the sermon's central figures through whom God will work amid Israel's desperate siege conditions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2637,7 +3115,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 688.4800186157227,
-    "end_time": 753.02001953125
+    "end_time": 753.02001953125,
+    "point_summary": "God's miraculous intervention—causing the Syrians to flee and leaving their camp full of provision—fulfilled Elisha's prophecy in verse 1 that abundance would come to Samaria within a single day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2648,7 +3128,9 @@
     "is_implicit": true,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 688.4800186157227,
-    "end_time": 753.02001953125
+    "end_time": 753.02001953125,
+    "point_summary": "The stark contrast between 2 Kings 6:25 and 2 Kings 7:1 illustrates the miraculous speed of God's provision, transforming a famine-stricken siege into abundance within a single day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 688.4800186157227,
-    "end_time": 753.02001953125
+    "end_time": 753.02001953125,
+    "point_summary": "When the lepers entered the abandoned Syrian camp, they received both sustenance and material substance—eating, drinking, and hiding silver, gold, and raiment—yet kept the blessing entirely to themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1200.9200170636177,
-    "end_time": 1265.1600189208984
+    "end_time": 1265.1600189208984,
+    "point_summary": "The fulfillment of Elisha's prophecy in verse 16 confirms that God always does what He says He will do, as the exact prices He foretold came to pass.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2681,7 +3167,9 @@
     "is_implicit": true,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1200.9200170636177,
-    "end_time": 1265.1600189208984
+    "end_time": 1265.1600189208984,
+    "point_summary": "God's word through Elisha in verse 1 is shown to be exactly fulfilled in verse 16, confirming that God always accomplishes what He declares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1265.1600189208984,
-    "end_time": 1331.1400146484375
+    "end_time": 1331.1400146484375,
+    "point_summary": "Elisha's precise prophecy against the doubting lord—that he would see the abundance but not eat of it—was fulfilled exactly, confirming that God always does what He says He will do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1265.1600189208984,
-    "end_time": 1331.1400146484375
+    "end_time": 1331.1400146484375,
+    "point_summary": "The fulfillment of Elisha's specific judgment on the doubting lord—that he would see the abundance but not eat of it—confirms that God's word through his prophet comes to pass exactly as spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2714,7 +3206,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1331.1400146484375,
-    "end_time": 1385.6400146484375
+    "end_time": 1385.6400146484375,
+    "point_summary": "Elisha's prophecy to the doubting officer in verse 2 — that he would see the abundance with his own eyes but not eat of it — was precisely and literally fulfilled when the man was trampled to death at the gate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1331.1400146484375,
-    "end_time": 1385.6400146484375
+    "end_time": 1385.6400146484375,
+    "point_summary": "The fulfillment of Elisha's precise prophecy in verse 17—that the doubting officer would see the abundance but not eat of it—confirms that the proclamation of verse 1 was authenticated by exact divine fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2736,7 +3232,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1331.1400146484375,
-    "end_time": 1385.6400146484375
+    "end_time": 1385.6400146484375,
+    "point_summary": "Elisha's prophecy in verse 1 finds its complete fulfillment by chapter's end, framing the entire chapter—including the lepers' account—as a unified record of divine faithfulness to his spoken word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2747,7 +3245,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1725.3400268554688,
-    "end_time": 1795.760009765625
+    "end_time": 1795.760009765625,
+    "point_summary": "Recognizing good news and hoarding its benefits before going to tell others mirrors the believer's temptation to privatize the gospel rather than proclaim it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2758,7 +3258,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1975.5,
-    "end_time": 2054.6600036621094
+    "end_time": 2054.6600036621094,
+    "point_summary": "The four lepers' self-conviction — \"we do not well\" — is applied as a mirror to New Testament believers, who unlike the lepers have been explicitly commissioned by their King to go and tell the gospel they possess.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2769,7 +3271,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 0.0,
-    "end_time": 63.81999969482422
+    "end_time": 63.81999969482422,
+    "point_summary": "Elisha's arrival in Damascus, the Syrian capital some 130 miles northeast of Jerusalem, marks a geographical extension of his prophetic ministry beyond Israel into enemy territory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2780,7 +3284,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 125.08000183105469,
-    "end_time": 185.47999572753906
+    "end_time": 185.47999572753906,
+    "point_summary": "Elisha's weeping in verse 11 anchors the sermon's title and central theme, pointing to the emotional and prophetic weight the man of God carried upon arriving in Damascus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2791,7 +3297,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 510.3999938964844,
-    "end_time": 584.719970703125
+    "end_time": 584.719970703125,
+    "point_summary": "Ben-Hadad's deathbed instruction to seek \"the man of God\" and \"inquire of the Lord by him\" reveals that Elisha's ministry had left an undeniable witness even on a hostile foreign king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2802,7 +3310,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 510.3999938964844,
-    "end_time": 584.719970703125
+    "end_time": 584.719970703125,
+    "point_summary": "Ben-Hadad's deathbed appeal to \"the man of God\" reflects how Elisha's earlier ministry—including the healing of Naaman in 2 Kings 5—had established his reputation even among Israel's enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2813,7 +3323,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1104.6199645996094,
-    "end_time": 1184.1399536132812
+    "end_time": 1184.1399536132812,
+    "point_summary": "Hazael's dismissive self-deprecation — \"What is thy servant? A dog?\" — is answered by divine appointment, as Elisha declares that God had already revealed Hazael would be king over Syria.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2824,7 +3336,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1251.0199966430664,
-    "end_time": 1321.6999969482422
+    "end_time": 1321.6999969482422,
+    "point_summary": "Hazael's selective report to Ben-Hadad — telling him only that he would recover while withholding Elisha's fuller revelation — highlights the incompleteness and deception embedded in his answer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2835,7 +3349,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1670.5599975585938,
-    "end_time": 1736.2799682617188
+    "end_time": 1736.2799682617188,
+    "point_summary": "Elisha's prophecy of Hazael's cruelty was precisely fulfilled when God used Hazael to cut Israel short, stripping the eastern tribal territories of Reuben, Gad, and Manasseh from their God-given inheritance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2846,7 +3362,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1736.2799682617188,
-    "end_time": 1793.5599975585938
+    "end_time": 1793.5599975585938,
+    "point_summary": "Jehoahaz's evil reign and his departure not from Jeroboam's sins directly provoked God's anger, delivering Israel into Syrian oppression under Hazael as covenant consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1736.2799682617188,
-    "end_time": 1793.5599975585938
+    "end_time": 1793.5599975585938,
+    "point_summary": "Jehoahaz's evil following Jeroboam's sins directly provoked God's anger, resulting in Israel's devastating military reduction under Syrian oppression as divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1736.2799682617188,
-    "end_time": 1793.5599975585938
+    "end_time": 1793.5599975585938,
+    "point_summary": "God's anger against Israel's persistent sin under Jehoahaz resulted in their military devastation at the hands of Hazael, reducing their forces to a remnant of fifty horsemen and ten chariots.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1736.2799682617188,
-    "end_time": 1793.5599975585938
+    "end_time": 1793.5599975585938,
+    "point_summary": "Even when Israel's king was wicked, God responded to his cry for help because He saw the oppression His people were suffering under Syria.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2890,7 +3414,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1736.2799682617188,
-    "end_time": 1793.5599975585938
+    "end_time": 1793.5599975585938,
+    "point_summary": "Even amid Israel's persistent sin, God responded to their cry under oppression by granting them a deliverer, so that they were freed from Syrian domination and restored to their land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2901,7 +3427,9 @@
     "is_implicit": false,
     "video_id": "WBrQ2Fdoczo",
     "start_time": 1384.1000518798828,
-    "end_time": 1443.1400451660156
+    "end_time": 1443.1400451660156,
+    "point_summary": "The Edomites' breaking of Israel's yoke, foretold in Isaac's blessing to Esau, did not occur until the reign of Jehoram, as referenced in 2 Kings 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2912,7 +3440,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1612.6000366210938,
-    "end_time": 1681.9000244140625
+    "end_time": 1681.9000244140625,
+    "point_summary": "Israel's repeated failure to heed God's warnings, delivered through the prophets in sundry times and divers manners, illustrates the pattern of hearing yet rebelling that Hebrews 1–2 addresses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2923,7 +3453,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1681.9000244140625,
-    "end_time": 1756.9400024414062
+    "end_time": 1756.9400024414062,
+    "point_summary": "God's persistent testimony through the prophets to Israel and Judah—calling them to repentance—was met with hardened necks and outright rejection of His statutes and covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2934,7 +3466,9 @@
     "is_implicit": true,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1756.9400024414062,
-    "end_time": 1818.180030822754
+    "end_time": 1818.180030822754,
+    "point_summary": "Israel's rejection of God's statutes and covenant—resulting in the Assyrian captivity—illustrates that the people's destruction came not from ignorance of God's word but from willful refusal to obey it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2945,7 +3479,9 @@
     "is_implicit": true,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1756.9400024414062,
-    "end_time": 1818.180030822754
+    "end_time": 1818.180030822754,
+    "point_summary": "Israel's abandonment of all the Lord's commandments (v. 16) is cited as the willful disobedience that led directly to the Assyrian captivity, illustrating that judgment followed not ignorance of God's word but deliberate refusal to hear it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2956,7 +3492,9 @@
     "is_implicit": true,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1756.9400024414062,
-    "end_time": 1818.180030822754
+    "end_time": 1818.180030822754,
+    "point_summary": "God's fierce anger and Israel's subsequent Assyrian captivity are cited as the historical consequence of persistently refusing to hear and obey the prophetic word he faithfully sent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1756.9400024414062,
-    "end_time": 1818.180030822754
+    "end_time": 1818.180030822754,
+    "point_summary": "Israel's Assyrian captivity is cited as the historical consequence of a people who heard God's message through the prophets but hardened their necks and chose not to obey it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2978,7 +3518,9 @@
     "is_implicit": true,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1268.4999618530273,
-    "end_time": 1329.7799682617188
+    "end_time": 1329.7799682617188,
+    "point_summary": "Hezekiah's self-focused relief that coming judgment would not fall in his own lifetime set the stage for his son Manasseh's catastrophic idolatry, illustrating how a parent's indifference to future generations shapes the next generation's spiritual trajectory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -2989,7 +3531,9 @@
     "is_implicit": true,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1268.4999618530273,
-    "end_time": 1329.7799682617188
+    "end_time": 1329.7799682617188,
+    "point_summary": "Manasseh, born during Hezekiah's extra 15 years and only 12 when he began to reign, became a king who did evil—demonstrating that a father's indifference to his legacy shaped a son's catastrophic idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3000,7 +3544,9 @@
     "is_implicit": false,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1268.4999618530273,
-    "end_time": 1329.7799682617188
+    "end_time": 1329.7799682617188,
+    "point_summary": "Manasseh, born during Hezekiah's extra fifteen years and only twelve when he began to reign, did evil before the Lord—reversing his father's reforms and even erecting pagan altars inside the temple itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3011,7 +3557,9 @@
     "is_implicit": true,
     "video_id": "ZLWDnQEtLm4",
     "start_time": 1268.4999618530273,
-    "end_time": 1329.7799682617188
+    "end_time": 1329.7799682617188,
+    "point_summary": "Manasseh's desecration of the temple by rebuilding the high places Hezekiah had torn down illustrates how a father's godly influence can be entirely undone in the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3022,7 +3570,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 2725.2999877929688,
-    "end_time": 2800.499969482422
+    "end_time": 2800.499969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3033,7 +3583,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1672.3600158691406,
-    "end_time": 1732.4800415039062
+    "end_time": 1732.4800415039062,
+    "point_summary": "Naaman's contempt for the muddy Jordan—and his eventual healing only when he obeyed—illustrates that God works through ordinary, even unimpressive means precisely because the power belongs to Him, not the instrument.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3044,7 +3596,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1732.4800415039062,
-    "end_time": 1782.5599975585938
+    "end_time": 1782.5599975585938,
+    "point_summary": "Naaman's command to wash in the muddy Jordan seven times illustrates that God works through unlikely, even unappealing means—the river's murkiness does not diminish His power to cleanse and restore.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3055,7 +3609,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1732.4800415039062,
-    "end_time": 1782.5599975585938
+    "end_time": 1782.5599975585938,
+    "point_summary": "Naaman's contempt for the muddy Jordan River illustrates that God's power operates through unlikely, even unimpressive means—not through human expectation of dramatic spectacle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3066,7 +3622,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1732.4800415039062,
-    "end_time": 1782.5599975585938
+    "end_time": 1782.5599975585938,
+    "point_summary": "Naaman's contempt for the muddy Jordan River illustrates that God's power works through unlikely, unremarkable means—not through human expectation of dramatic spectacle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3077,7 +3635,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1782.5599975585938,
-    "end_time": 1849.2800331115723
+    "end_time": 1849.2800331115723,
+    "point_summary": "Naaman's contempt for the muddy Jordan illustrates that the river's power lay not in its natural quality but in divine command, underscoring that God, not the water, accomplishes the miracle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3088,7 +3648,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1212.099980354309,
-    "end_time": 1300.1999816894531
+    "end_time": 1300.1999816894531,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3099,7 +3661,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1212.099980354309,
-    "end_time": 1300.1999816894531
+    "end_time": 1300.1999816894531,
+    "point_summary": "Famine-driven desperation—illustrated from Genesis 47—leads into 2 Kings 6–7, where Elisha's prophecy of barley prices connects directly to the third seal's famine imagery.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3110,7 +3674,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1300.1999816894531,
-    "end_time": 1376.1799774169922
+    "end_time": 1376.1799774169922,
+    "point_summary": "Severe famine drives populations to such desperation that inedible, worthless items command exorbitant prices, illustrating the economic and human collapse famine produces.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3121,7 +3687,9 @@
     "is_implicit": false,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1300.1999816894531,
-    "end_time": 1376.1799774169922
+    "end_time": 1376.1799774169922,
+    "point_summary": "Famine-driven desperation is illustrated here by a starving woman crying out to the king of Israel for help, with no relief available even from royal authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3132,7 +3700,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1377.5599822998047,
-    "end_time": 1453.6599731445312
+    "end_time": 1453.6599731445312,
+    "point_summary": "Extreme famine, as seen in the siege of Samaria, produces a level of human desperation so severe that even the preacher confesses he cannot comprehend it, yet accepts it as God's recorded truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3143,7 +3713,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1377.5599822998047,
-    "end_time": 1453.6599731445312
+    "end_time": 1453.6599731445312,
+    "point_summary": "Famine-driven desperation, illustrated by mothers bargaining to cannibalize their own children during the siege of Samaria, shows the extreme human degradation that scarcity and starvation can produce.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3154,7 +3726,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1377.5599822998047,
-    "end_time": 1453.6599731445312
+    "end_time": 1453.6599731445312,
+    "point_summary": "Famine-driven desperation, illustrated by the cannibalism recorded in the siege of Samaria, is cited as historical precedent for the extreme human suffering unleashed by the third seal's scarcity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3165,7 +3739,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 1528.8399658203125,
-    "end_time": 1593.3999938964844
+    "end_time": 1593.3999938964844,
+    "point_summary": "The famine described in 2 Kings 6 is cited as a historical precedent illustrating that severe food scarcity produces extreme human desperation, foreshadowing the far worse conditions of the coming tribulation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3176,7 +3752,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 594.4600219726562,
-    "end_time": 658.5800170898438
+    "end_time": 658.5800170898438,
+    "point_summary": "The discovery of the book of the law in 2 Kings 22 illustrates that Scripture's power is released not by possessing or preserving it, but by reading and applying it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3187,7 +3765,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 594.4600219726562,
-    "end_time": 658.5800170898438
+    "end_time": 658.5800170898438,
+    "point_summary": "When the book of the law was found and read aloud, Josiah's broken, responsive heart illustrates that Scripture must be read and applied, not merely preserved or displayed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3198,7 +3778,9 @@
     "is_implicit": false,
     "video_id": "G4Un3pWAQf0",
     "start_time": 1649.1599731445312,
-    "end_time": 1713.6399536132812
+    "end_time": 1713.6399536132812,
+    "point_summary": "Josiah's covenant-leading in 2 Kings 23 illustrates that a leader can call people to obedience but cannot compel it — each individual must choose God's favor for themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3209,7 +3791,9 @@
     "is_implicit": true,
     "video_id": "G4Un3pWAQf0",
     "start_time": 1973.1199645996094,
-    "end_time": 2038.6199645996094
+    "end_time": 2038.6199645996094,
+    "point_summary": "Josiah's grinding of graven images to powder illustrates the radical, physical elimination of sin's instruments that believers must sometimes undertake to walk in victory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3220,7 +3804,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 2025.9599914550781,
-    "end_time": 2090.3599853515625
+    "end_time": 2090.3599853515625,
+    "point_summary": "Naaman's demand for a dramatic healing display before he would trust Elisha's word illustrates the same resistant unbelief Thomas voiced when he refused to accept the resurrection without physical proof.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3231,7 +3817,9 @@
     "is_implicit": false,
     "video_id": "lReYV18RAeg",
     "start_time": 919.52001953125,
-    "end_time": 986.8800354003906
+    "end_time": 986.8800354003906,
+    "point_summary": "Material poverty and debt so severe that creditors threatened to seize a widow's sons as bondmen illustrates the crushing, real-world weight of financial lack that the sermon sets alongside its broader theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3242,7 +3830,9 @@
     "is_implicit": true,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 0.0,
-    "end_time": 56.599998474121094
+    "end_time": 56.599998474121094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3253,7 +3843,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 120.23999786376953,
-    "end_time": 172.52000427246094
+    "end_time": 172.52000427246094,
+    "point_summary": "Athaliah's murderous seizure of power by destroying all the royal seed sets the crisis that Jehosheba's courage must answer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3264,7 +3856,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 172.52000427246094,
-    "end_time": 232.17999267578125
+    "end_time": 232.17999267578125,
+    "point_summary": "Athaliah's murderous seizure of power sets the dark backdrop against which Jehosheba's courage becomes visible, establishing the tragic context the sermon draws its central theme from.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3275,7 +3869,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 420.260009765625,
-    "end_time": 492.1199951171875
+    "end_time": 492.1199951171875,
+    "point_summary": "Athaliah's murder of her own grandchildren to seize the throne establishes the extreme wickedness and political vacuum into which Jehosheba's courageous initiative was required.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3286,7 +3882,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 420.260009765625,
-    "end_time": 492.1199951171875
+    "end_time": 492.1199951171875,
+    "point_summary": "Athaliah's murder of her own grandchildren to seize the throne establishes the extreme wickedness and political vacuum into which Jehosheba's courageous initiative was required.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3297,7 +3895,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 617.4600105285645,
-    "end_time": 682.3000106811523
+    "end_time": 682.3000106811523,
+    "point_summary": "Jehosheba's deliberate rescue of the infant Joash from among the slaughtered royal sons illustrates that godly initiative must be paired with intentional, purposeful action to make a lasting difference.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3308,7 +3908,9 @@
     "is_implicit": true,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 1015.8399963378906,
-    "end_time": 1087.8800048828125
+    "end_time": 1087.8800048828125,
+    "point_summary": "Hidden for six years in the house of the Lord while Athaliah reigned, Joash's survival demanded from Jehosheba sustained, intentional, day-by-day faithfulness—a model the sermon applies directly to consistent, purposeful parenting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3319,7 +3921,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 1275.360008239746,
-    "end_time": 1345.9600067138672
+    "end_time": 1345.9600067138672,
+    "point_summary": "Joash's age at coronation—seven years old—underscores that Jehosheba's six years of intentional, daily influence shaped the king he became.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3330,7 +3934,9 @@
     "is_implicit": true,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 1345.9600067138672,
-    "end_time": 1410.8000030517578
+    "end_time": 1410.8000030517578,
+    "point_summary": "Joash's righteous reign is traced directly to the formative influence of Jehosheba and Jehoiada during his hidden years, demonstrating that early, intentional instruction shapes a life's trajectory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3341,7 +3947,9 @@
     "is_implicit": true,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 1345.9600067138672,
-    "end_time": 1410.8000030517578
+    "end_time": 1410.8000030517578,
+    "point_summary": "Joash's righteous reign is traced directly to the formative instruction of Jehoiada, demonstrating that faithful mentorship in a child's early years shapes the trajectory of an entire life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3352,7 +3960,9 @@
     "is_implicit": false,
     "video_id": "ZWX3NCZ1bvc",
     "start_time": 1823.7200336456299,
-    "end_time": 1880.4600372314453
+    "end_time": 1880.4600372314453,
+    "point_summary": "Jehosheba's split-second decision to hide the infant Joash amid Athaliah's massacre illustrates that lasting spiritual influence over the young requires intentional initiative, not passive circumstance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Kings",
@@ -3363,6 +3973,8 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 814.8400115966797,
-    "end_time": 883.0400085449219
+    "end_time": 883.0400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

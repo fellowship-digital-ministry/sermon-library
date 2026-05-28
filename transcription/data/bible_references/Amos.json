@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "49fsypgdmQU",
     "start_time": 1430.3200225830078,
-    "end_time": 1498.9600219726562
+    "end_time": 1498.9600219726562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1247.9799919128418,
-    "end_time": 1324.0399932861328
+    "end_time": 1324.0399932861328,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1324.0399932861328,
-    "end_time": 1385.6999969482422
+    "end_time": 1385.6999969482422,
+    "point_summary": "A famine of God's word is a divine judgment, invoked here as a warning against the spiritual dullness rebuked in Hebrews 5, where neglect of Scripture leads to stunted growth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "bk0BCi-BMI0",
     "start_time": 0.0,
-    "end_time": 65.5999984741211
+    "end_time": 65.5999984741211,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "bk0BCi-BMI0",
     "start_time": 320.2200012207031,
-    "end_time": 379.5
+    "end_time": 379.5,
+    "point_summary": "Genuine unity is impossible apart from agreement with God and His Word, making Amos 3:3's question the governing principle for evaluating ecumenical affiliation and separation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1862.1000137329102,
-    "end_time": 1942.1000213623047
+    "end_time": 1942.1000213623047,
+    "point_summary": "In Amos 4, God sends successive judgments—famine, drought, blight, pestilence, destruction—each met with continued impenitence, culminating in the solemn warning \"prepare to meet thy God.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1862.1000137329102,
-    "end_time": 1942.1000213623047
+    "end_time": 1942.1000213623047,
+    "point_summary": "After repeated judgments failed to produce repentance, Amos 4:12 issues the solemn divine ultimatum—\"prepare to meet thy God\"—signaling that unrepentant nations face direct, fearful encounter with God himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 809.3799743652344,
-    "end_time": 876.219970703125
+    "end_time": 876.219970703125,
+    "point_summary": "Amos 1:1 is used to establish the historical setting of Amos's prophecy—the reigns of Uzziah and Jeroboam—noting that Uzziah's pride and priestly presumption led to his leprosy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 876.219970703125,
-    "end_time": 934.1799621582031
+    "end_time": 934.1799621582031,
+    "point_summary": "Amos 1:1 establishes the historical setting of Amos's prophecy—the reigns of Uzziah and Jeroboam—situating his words against both a morally compromised Judean king and a wholly wicked Israelite king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 876.219970703125,
-    "end_time": 934.1799621582031
+    "end_time": 934.1799621582031,
+    "point_summary": "God's roaring voice from Zion in Amos 1:2 establishes that the judgments pronounced throughout the following oracles carry divine authority, each introduced by the repeated phrase \"Thus saith the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 934.1799621582031,
-    "end_time": 988.8199768066406
+    "end_time": 988.8199768066406,
+    "point_summary": "The repeated phrase \"Thus saith the Lord\" in Amos 1:3 establishes that God Himself is the speaker of coming judgment, demanding that hearers give heed to His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1119.97998046875,
-    "end_time": 1181.3799438476562
+    "end_time": 1181.3799438476562,
+    "point_summary": "Judah's inclusion among the nations facing divine judgment establishes that God's people are not exempt from punishment when they despise His law and abandon His commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1181.3799438476562,
-    "end_time": 1243.4399528503418
+    "end_time": 1243.4399528503418,
+    "point_summary": "Judah's inclusion among the nations facing divine judgment — specifically for despising God's law and failing to keep his commandments — demonstrates that proximity to God's covenant brings no exemption from his righteous punishment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1181.3799438476562,
-    "end_time": 1243.4399528503418
+    "end_time": 1243.4399528503418,
+    "point_summary": "Israel's inclusion among the nations facing divine judgment—after Damascus, Gaza, Tyre, Edom, Ammon, Moab, and Judah—demonstrates that God's people are not exempt from punishment when sin brings reproach.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1383.179946899414,
-    "end_time": 1447.2599487304688
+    "end_time": 1447.2599487304688,
+    "point_summary": "God's repeated judgments on Israel — famine, drought, blight, and pestilence — each concluded with the indictment that the people still had not returned to Him, illustrating the hardness of unrepentant sin under divine discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1383.179946899414,
-    "end_time": 1447.2599487304688
+    "end_time": 1447.2599487304688,
+    "point_summary": "Amos 4:5's closing phrase — \"this liketh you, O children of Israel\" — introduces a pattern of divine judgments (famine, drought, blight, pestilence) that Israel repeatedly refused to heed, each punctuated by \"yet have ye not returned unto me.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1383.179946899414,
-    "end_time": 1447.2599487304688
+    "end_time": 1447.2599487304688,
+    "point_summary": "God's repeated judgments on Israel through famine, drought, blight, and pestilence each went unheeded, illustrating that divine chastisement does not automatically produce repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Drought sent as divine discipline failed to produce repentance in Israel, illustrating the pattern Amos repeats five times: escalating judgments that nonetheless leave the people unturned toward God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Crop blight in Amos 4:9 is one in a series of divine judgments—famine, drought, blight, pestilence, overthrow—each met with Israel's unrepentant refusal to return to the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Amos 4:10's pestilence is one in a series of divine judgments God sent upon Israel, each met with the same refrain of unrepentance: \"yet have ye not returned unto me, saith the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Even the catastrophic judgment of Sodom-and-Gomorrah-scale overthrow, cited as the climax of Amos's escalating divine chastisements, failed to move Israel to repentance—illustrating that sin hardens a nation against returning to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1928.9199676513672,
-    "end_time": 1993.6799621582031
+    "end_time": 1993.6799621582031,
+    "point_summary": "The nations catalogued in Amos 1–2:8 serve as historical evidence that God executes righteous judgment on wicked peoples before the final return of Christ, making present-day America's moral condition a live occasion for that same judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1928.9199676513672,
-    "end_time": 1993.6799621582031
+    "end_time": 1993.6799621582031,
+    "point_summary": "The nations catalogued in Amos 1–2:1–8 each received divine judgment in history before any final eschatological reckoning, illustrating that God executes righteous judgment on sinful peoples prior to Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1222.1800441741943,
-    "end_time": 1285.3000411987305
+    "end_time": 1285.3000411987305,
+    "point_summary": "Outward religious performance without a surrendered heart renders worship unacceptable to God, as Israel's offerings, feasts, and songs were rejected because their hearts were not right with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "God's rejection of Israel's feast days and sacrificial offerings in Amos 5:21 is cited as Old Testament evidence that the sacrificial system was inadequate apart from genuine obedience and right worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "Amos 5:22, read within its surrounding context, illustrates that God rejected Israel's sacrifices and offerings because the worship was hollow, underscoring the Old Testament sacrificial system's inadequacy apart from genuine obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "God's rejection of Israel's worship — sacrifices, feasts, and songs — is cited alongside Jeremiah 6 to establish that the Old Testament sacrificial system was inadequate apart from genuine obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "God's rejection of Israel's ritual worship — sacrifices, feasts, and songs — because of concurrent idolatry illustrates the Old Testament sacrificial system's inadequacy apart from true devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "Israel's wilderness sacrifices are cited as evidence that the Old Testament sacrificial system was ultimately inadequate, with idolatry compounding the failure of mere ritual observance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "Amos 5:26 is cited as evidence of Israel's persistent idolatry, illustrating the broader Old Testament pattern of corrupt worship that rendered the sacrificial system inadequate before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1285.3000411987305,
-    "end_time": 1347.1800384521484
+    "end_time": 1347.1800384521484,
+    "point_summary": "Amos 5:27's pronouncement of captivity beyond Damascus is cited as evidence of Israel's idolatry and the inadequacy of their sacrificial worship, which God rejected because it was corrupted by false gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1233.1800270080566,
-    "end_time": 1301.5000305175781
+    "end_time": 1301.5000305175781,
+    "point_summary": "Amos 8:11 is invoked to distinguish a spiritual famine—the withdrawal of God's word—from physical famine, warning that neglecting Scripture and preaching risks exactly this divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1301.5000305175781,
-    "end_time": 1366.7000274658203
+    "end_time": 1366.7000274658203,
+    "point_summary": "A famine of hearing the words of the Lord—not physical deprivation—is God's judgment on Israel, foreshadowing the 400 silent years when divine revelation ceased and the people perished without prophetic word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -371,7 +437,9 @@
     "is_implicit": true,
     "video_id": "YtBFmhBhoH8",
     "start_time": 698.4799957275391,
-    "end_time": 757.5599975585938
+    "end_time": 757.5599975585938,
+    "point_summary": "Amos 4 is cited as a catalogue of divine chastisements—famine, drought, blight, pestilence, and destruction—after each of which God declares that Israel still did not return to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "ZWhiVzLFfxc",
     "start_time": 0.0,
-    "end_time": 66.16000366210938
+    "end_time": 66.16000366210938,
+    "point_summary": "A coming famine not of bread but of God's word is cited as prophetic backdrop to the sermon's claim that we are living in an age of deception where hearing the Lord's words grows scarce.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "ZWhiVzLFfxc",
     "start_time": 66.16000366210938,
-    "end_time": 137.25999450683594
+    "end_time": 137.25999450683594,
+    "point_summary": "Amos 8:11 is read as prophetic warning that a coming famine of hearing God's Word—not physical bread—parallels the New Testament picture of people turning from sound doctrine in the last days.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "ZWhiVzLFfxc",
     "start_time": 261.3399963378906,
-    "end_time": 333.17999267578125
+    "end_time": 333.17999267578125,
+    "point_summary": "When Amos 8 is paired with 2 Timothy 4, the combined warning is that rejecting truth leads to disaster and leaves a society vulnerable to widespread deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Amos",
@@ -415,6 +489,8 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1895.560043334961,
-    "end_time": 1961.0800476074219
+    "end_time": 1961.0800476074219,
+    "point_summary": "Amos 3:3 is invoked to ground the principle that those serving together in the church must share doctrinal agreement, not merely skill or availability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

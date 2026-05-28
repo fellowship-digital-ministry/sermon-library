@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 1482.5599975585938,
-    "end_time": 1547.8000183105469
+    "end_time": 1547.8000183105469,
+    "point_summary": "Ezra's preparation of heart to seek the law of the Lord, followed by doing it and teaching it, illustrates both purposes for learning: personal application and the dissemination of truth to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 1547.8000183105469,
-    "end_time": 1622.0400085449219
+    "end_time": 1622.0400085449219,
+    "point_summary": "Ezra's preparation of heart to seek the law of the Lord illustrates both purposes for learning—to do it (application) and to teach it (dissemination)—as the structural backbone of the sermon's thesis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 1775.4000244140625,
-    "end_time": 1846.7199821472168
+    "end_time": 1846.7199821472168,
+    "point_summary": "Ezra's threefold pattern—preparing the heart, doing the law, and teaching it to others—is presented as the model and memory verse for the sermon's two purposes of learning: personal application and outward dissemination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "4L7zninfmhA",
     "start_time": 63.08000183105469,
-    "end_time": 124.9800033569336
+    "end_time": 124.9800033569336,
+    "point_summary": "Ezra's threefold commitment—to seek the law, to do it, and to teach it—illustrates that learning Scripture carries the dual purpose of personal application and the dissemination of truth to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 661.1199951171875,
-    "end_time": 736.3199920654297
+    "end_time": 736.3199920654297,
+    "point_summary": "Ezra 8:21 is introduced as an Old Testament illustration of God's ability to answer prayer, with the returning exiles' journey to Jerusalem framing that theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 813.3999938964844,
-    "end_time": 888.1000061035156
+    "end_time": 888.1000061035156,
+    "point_summary": "Ezra's shame in asking the king for military escort arose from his prior testimony that God protects all who seek Him, making prayer and fasting the only consistent response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 813.3999938964844,
-    "end_time": 888.1000061035156
+    "end_time": 888.1000061035156,
+    "point_summary": "Ezra's public declaration that God protects those who seek Him made it a matter of integrity to fast and pray rather than seek military escort, and God answered that prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -85,7 +99,9 @@
     "is_implicit": true,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "Ezra 8 illustrates that when God's people refuse available human resources and instead fast and pray in a dangerous situation, God personally delivers them and provides every protection needed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "d8tHudo0_3I",
     "start_time": 1387.780029296875,
-    "end_time": 1463.6600341796875
+    "end_time": 1463.6600341796875,
+    "point_summary": "Ezra's prior preparation—seeking, doing, then teaching the law—is held up as the model for how believers must ready themselves before gospel opportunities arise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 448.9599914550781,
-    "end_time": 499.6000061035156
+    "end_time": 499.6000061035156,
+    "point_summary": "Ezra 4:1 is cited as background context showing that when adversaries opposed the returned exiles, Israel abandoned temple construction for fourteen years—a failure of perseverance that God did not approve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 499.6000061035156,
-    "end_time": 555.3200073242188
+    "end_time": 555.3200073242188,
+    "point_summary": "Ezra 4:24 provides the backstory for Haggai's rebuke: fourteen years of dormant temple-building, which God was not pleased with, set the stage for the call to resume the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -129,7 +151,9 @@
     "is_implicit": true,
     "video_id": "I5J2NuNIO5w",
     "start_time": 3112.480094909668,
-    "end_time": 3182.080093383789
+    "end_time": 3182.080093383789,
+    "point_summary": "Ezra's confidence in declaring God's greatness to the king was tested when he faced a dangerous journey to Jerusalem, illustrating that living as salt and light requires trusting that God's hand is upon his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "KksZiwr6dhM",
     "start_time": 522.280029296875,
-    "end_time": 579.4199829101562
+    "end_time": 579.4199829101562,
+    "point_summary": "Ezra's deliberate preparation of heart to seek, do, and teach illustrates that readiness is necessary, but must be subordinated to dependence on the Holy Spirit rather than trusted as sufficient in itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "KYsTdROcsTY",
     "start_time": 428.8800048828125,
-    "end_time": 498.1600036621094
+    "end_time": 498.1600036621094,
+    "point_summary": "Ezra is called a \"ready scribe\" in 7:6 because, as verse 10 explains, he had prepared his heart to seek, do, and teach God's law — making his readiness a matter of inward preparation before outward service.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "KYsTdROcsTY",
     "start_time": 428.8800048828125,
-    "end_time": 498.1600036621094
+    "end_time": 498.1600036621094,
+    "point_summary": "Ezra is called a \"ready scribe\" because he had prepared his heart to seek, do, and teach God's law — a preparation God himself recognized and rewarded with unique opportunity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "LOzX3Aa4VcI",
     "start_time": 1222.2800369262695,
-    "end_time": 1293.3600387573242
+    "end_time": 1293.3600387573242,
+    "point_summary": "God's sovereign ability to move the hearts of pagan kings toward His purposes is celebrated in Ezra 7:27, countering the objection that He cannot work through ungodly leaders.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 661.1199951171875,
-    "end_time": 736.3199920654297
+    "end_time": 736.3199920654297,
+    "point_summary": "Ezra 8:21 is introduced as an Old Testament illustration of God's ability to answer prayer, with the returning exiles' journey to Jerusalem framing that point.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 813.3999938964844,
-    "end_time": 888.1199951171875
+    "end_time": 888.1199951171875,
+    "point_summary": "Ezra's shame at requesting a military escort arose from his prior testimony to the king that God protects all who seek Him, making prayer and fasting the only consistent response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 813.3999938964844,
-    "end_time": 888.1199951171875
+    "end_time": 888.1199951171875,
+    "point_summary": "Ezra's company fasted and prayed rather than requesting military escort because their prior testimony to the king—that God protects those who seek Him—made trusting God the only consistent response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "Ezra 8 illustrates that when God's people refuse available human resources and instead fast and pray in a dangerous situation, God personally delivers them and provides traveling mercies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2448.3199348449707,
-    "end_time": 2515.6799392700195
+    "end_time": 2515.6799392700195,
+    "point_summary": "Ezra 9:1 introduces a revival passage in which Israel's failure to separate from surrounding nations — even among its leaders — provokes Ezra's grief-stricken response as the necessary prelude to national repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2515.6799392700195,
-    "end_time": 2577.8399353027344
+    "end_time": 2577.8399353027344,
+    "point_summary": "Israel's failure to remain separate from surrounding peoples — with rulers leading the transgression — is presented as the corporate sin requiring the kind of broken, shame-filled repentance Ezra models.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2515.6799392700195,
-    "end_time": 2577.8399353027344
+    "end_time": 2577.8399353027344,
+    "point_summary": "Ezra's tearing of his garments and sitting astonished models the grief-stricken, repentant response the sermon calls Americans to adopt in the face of national sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2515.6799392700195,
-    "end_time": 2577.8399353027344
+    "end_time": 2577.8399353027344,
+    "point_summary": "Those who tremble at God's word assemble in corporate grief over national sin, modeling the repentance the sermon calls America to embrace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2515.6799392700195,
-    "end_time": 2577.8399353027344
+    "end_time": 2577.8399353027344,
+    "point_summary": "Ezra's posture of prostrate, spread-handed prayer accompanied by shame and confession models the kind of corporate repentance the sermon calls America to embrace in the face of divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2515.6799392700195,
-    "end_time": 2577.8399353027344
+    "end_time": 2577.8399353027344,
+    "point_summary": "Ezra's confession of overwhelming national sin—shame so deep he could not lift his face to God—is held up as the model of broken-hearted intercession that genuine revival and averted judgment require.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 2643.199935913086,
-    "end_time": 2705.139923095703
+    "end_time": 2705.139923095703,
+    "point_summary": "Ezra's posture of broken intercession—confessing national iniquity with heaviness rather than hoping for judgment—is held up as the model response to awareness of a nation's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2643.199935913086,
-    "end_time": 2705.139923095703
+    "end_time": 2705.139923095703,
+    "point_summary": "Ezra's confession that accumulated national iniquity brings divine judgment serves as a model for how believers today should respond to their own nation's sin—with brokenness rather than indifference.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -316,7 +372,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 2643.199935913086,
-    "end_time": 2705.139923095703
+    "end_time": 2705.139923095703,
+    "point_summary": "God's grace in preserving a remnant amid national sin—pictured in Ezra's broken, intercessory response—is held up as the model for how believers should respond to their own nation's moral decline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 2705.139923095703,
-    "end_time": 2774.2599487304688
+    "end_time": 2774.2599487304688,
+    "point_summary": "Ezra's posture of broken intercession over national sin—lifting his face to God in confession that \"our iniquities are increased over our head\"—is held up as the model response for believers witnessing a nation ripe for judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 202.36000061035156,
-    "end_time": 265.6000061035156
+    "end_time": 265.6000061035156,
+    "point_summary": "Before Ezra ever stood to teach the people in Nehemiah 8, the opening of Ezra 7 establishes the prior preparation—genealogical, historical, and personal—that made him a ready scribe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 202.36000061035156,
-    "end_time": 265.6000061035156
+    "end_time": 265.6000061035156,
+    "point_summary": "Ezra's description as a \"ready scribe\" in verse 6 is presented as the fruit of prior preparation, setting up the sermon's focus on what God does in a man before public ministry begins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 202.36000061035156,
-    "end_time": 265.6000061035156
+    "end_time": 265.6000061035156,
+    "point_summary": "Ezra 7:7 is read as part of the narrative context establishing the journey to Jerusalem, setting the stage for the sermon's focus on Ezra's prior preparation before his public ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 265.6000061035156,
-    "end_time": 338.79998779296875
+    "end_time": 338.79998779296875,
+    "point_summary": "Ezra 7:6–9 frames the circumstances of Ezra's ministry, establishing that his journey from Babylon to Jerusalem was accomplished under the good hand of God as part of the promised remnant return foretold by Jeremiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 265.6000061035156,
-    "end_time": 338.79998779296875
+    "end_time": 338.79998779296875,
+    "point_summary": "Ezra 7:10 presents a three-part sequence—seeking, doing, and teaching the law—as the defining preparation of Ezra's heart that explains his readiness and effectiveness as a scribe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "wmBpYb5deRo",
     "start_time": 265.6000061035156,
-    "end_time": 338.79998779296875
+    "end_time": 338.79998779296875,
+    "point_summary": "Ezra's genealogy in 7:1–5, traced back to Aaron the chief priest, establishes his priestly credentials as the foundation for understanding his authority and role in the promised return of the remnant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "wmBpYb5deRo",
     "start_time": 265.6000061035156,
-    "end_time": 338.79998779296875
+    "end_time": 338.79998779296875,
+    "point_summary": "Ezra's success in obtaining the king's full favor is attributed directly to the hand of the Lord his God upon him, not to his own merit or political standing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 338.79998779296875,
-    "end_time": 403.94000244140625
+    "end_time": 403.94000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 338.79998779296875,
-    "end_time": 403.94000244140625
+    "end_time": 403.94000244140625,
+    "point_summary": "The repeated notice that \"the good hand of his God was upon him\" (vv. 6, 9) frames Ezra's return to Jerusalem as operating under evident divine favor, setting the stage for the exposition of his prepared heart in verse 10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 338.79998779296875,
-    "end_time": 403.94000244140625
+    "end_time": 403.94000244140625,
+    "point_summary": "Ezra 7:9's repeated phrase \"the good hand of his God upon him\" frames the surrounding context of Ezra's arrival in Jerusalem as evidence of divine favor before the sermon pivots to the heart preparation of verse 10.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 338.79998779296875,
-    "end_time": 403.94000244140625
+    "end_time": 403.94000244140625,
+    "point_summary": "Ezra 7:10 is broken down phrase by phrase to show that Ezra's effectiveness began with a prepared heart oriented toward seeking, doing, and teaching God's law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 547.3200073242188,
-    "end_time": 620.920015335083
+    "end_time": 620.920015335083,
+    "point_summary": "Ezra 7:10 is shown to demand not merely study of God's Word but active obedience—preparing the heart to seek the law is inseparable from doing it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 894.5600280761719,
-    "end_time": 963.4800109863281
+    "end_time": 963.4800109863281,
+    "point_summary": "Ezra's preparation to seek, do, and teach the law reveals that Scripture's truth is not merely personal but carries an obligation to pass it on to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 963.4800109863281,
-    "end_time": 1032.4800109863281
+    "end_time": 1032.4800109863281,
+    "point_summary": "Ezra's preparation to seek, do, and teach God's law preceded any opportunity to teach, demonstrating that faithful instruction of others flows from prior personal readiness in Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 963.4800109863281,
-    "end_time": 1032.4800109863281
+    "end_time": 1032.4800109863281,
+    "point_summary": "Ezra's prior preparation to seek, do, and teach God's law made him ready when the divine commission came to appoint judges and instruct those who did not yet know God's laws.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1094.760009765625,
-    "end_time": 1163.9600219726562
+    "end_time": 1163.9600219726562,
+    "point_summary": "Ezra's readiness as a scribe in the law of Moses (7:6) directly equipped him to fulfill the teaching commission of Nehemiah 8, where the people called on him to bring the book of the law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1359.9600219726562,
-    "end_time": 1424.9200134277344
+    "end_time": 1424.9200134277344,
+    "point_summary": "Nehemiah 8's model of reading Scripture distinctly, giving the sense, and causing understanding is traced back to the character and preparation of Ezra established in Ezra 7.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1359.9600219726562,
-    "end_time": 1424.9200134277344
+    "end_time": 1424.9200134277344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 0.0,
-    "end_time": 60.15999984741211
+    "end_time": 60.15999984741211,
+    "point_summary": "Ezra's life followed a deliberate three-part pattern: he prepared his heart to seek God's law, purposed to obey it, and then planned to teach it to others in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 60.15999984741211,
-    "end_time": 121.9800033569336
+    "end_time": 121.9800033569336,
+    "point_summary": "God's protective hand upon Ezra's company during their journey to Jerusalem serves as the sermon's governing theme, drawn directly from the phrase \"the hand of our God was upon us\" in verse 31.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 501.67999267578125,
-    "end_time": 560.9199829101562
+    "end_time": 560.9199829101562,
+    "point_summary": "Ezra's shame over requesting a military escort is grounded in his prior testimony to the king that God's hand protects all who trust Him, making such a request a contradiction of his own declared faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 501.67999267578125,
-    "end_time": 560.9199829101562
+    "end_time": 560.9199829101562,
+    "point_summary": "Ezra's shame over requesting a military escort is grounded in his prior testimony to the king that God's hand protects all who trust Him, making such a request a contradiction of his own declared faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 501.67999267578125,
-    "end_time": 560.9199829101562
+    "end_time": 560.9199829101562,
+    "point_summary": "Ezra's shame in requesting a military escort arose directly from his prior testimony to the king that God's hand protects all who seek Him—making such a request a contradiction of his own declared faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 703.4400253295898,
-    "end_time": 782.5600280761719
+    "end_time": 782.5600280761719,
+    "point_summary": "Fasting and prayer, not military escort, was Ezra's chosen means of seeking God's protection, demonstrating that proclaimed trust in God must be lived out in practice, not merely declared.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 703.4400253295898,
-    "end_time": 782.5600280761719
+    "end_time": 782.5600280761719,
+    "point_summary": "Fasting and prayer—not military escort—was the means by which Ezra's company sought God's protection, demonstrating that proclaimed trust in God must be lived out, not merely declared.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 1402.5999908447266,
-    "end_time": 1490.6000061035156
+    "end_time": 1490.6000061035156,
+    "point_summary": "Ezra's willingness to forgo a military escort, trusting God's protection on the journey, demonstrates that genuine belief in God's provision must be confirmed by corresponding behavior.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "YCUS9wAR_oA",
     "start_time": 1549.6599731445312,
-    "end_time": 1610.8599853515625
+    "end_time": 1610.8599853515625,
+    "point_summary": "Ezra's refusal to request a military escort—because he had already declared God's greatness to the king—illustrates that publicly professing God's sufficiency obligates believers to trust Him visibly in crisis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezra",
@@ -635,6 +749,8 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 972.7799987792969,
-    "end_time": 1040.1400146484375
+    "end_time": 1040.1400146484375,
+    "point_summary": "Ezra 7:10 is cited as a parallel to Moses's obedience, illustrating the scriptural pattern of preparing one's heart to seek, do, and teach God's law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

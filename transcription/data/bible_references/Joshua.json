@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 931.2200012207031,
-    "end_time": 993.5799865722656
+    "end_time": 993.5799865722656,
+    "point_summary": "Simeon's tribal allotment, absorbed within Judah's boundaries rather than holding independent territory, fulfills Jacob's prophecy that Simeon would be scattered and divided in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "1G-uKA-Shpo",
     "start_time": 1483.6400146484375,
-    "end_time": 1550.9600219726562
+    "end_time": 1550.9600219726562,
+    "point_summary": "Every sermon and lesson aims to bring people to a point of decision, illustrated by Joshua's declaration that while he chose to serve the Lord, he could not make that choice for anyone else.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "317YMHnIXHg",
     "start_time": 498.739990234375,
-    "end_time": 557.6199951171875
+    "end_time": 557.6199951171875,
+    "point_summary": "God's definition of success, unlike the world's measure of possessions and position, is rooted in believing, meditating on, and obeying the Word of God as Joshua 1:8 declares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1370.0,
-    "end_time": 1432.8399963378906
+    "end_time": 1432.8399963378906,
+    "point_summary": "Joshua 16:10 is cited as historical evidence that Israel failed to drive out the Canaanites entirely, showing Noah's curse on Canaan finding partial fulfillment as Canaanites remained as servants among the Ephraimites.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1432.8399963378906,
-    "end_time": 1504.3200073242188
+    "end_time": 1504.3200073242188,
+    "point_summary": "Joshua 16:10's phrase \"serve under tribute\" is cited as direct fulfillment of Noah's curse that Canaan would be \"a servant of servants,\" showing the Canaanites subjugated but not destroyed by Ephraim.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1432.8399963378906,
-    "end_time": 1504.3200073242188
+    "end_time": 1504.3200073242188,
+    "point_summary": "Joshua 17:12's account of Manasseh failing to drive out the Canaanites but reducing them to tribute is cited as direct fulfillment of Noah's prophecy that Canaan would be \"a servant of servants.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "5gWVxtcarvc",
     "start_time": 1655.1800537109375,
-    "end_time": 1715.2600708007812
+    "end_time": 1715.2600708007812,
+    "point_summary": "Joshua 7:1 is cited to illustrate that God exposes hidden sin among His people and expects a response, just as He revealed Israel's trespass to Joshua before demanding repentance and action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "5gWVxtcarvc",
     "start_time": 1715.2600708007812,
-    "end_time": 1777.820068359375
+    "end_time": 1777.820068359375,
+    "point_summary": "Joshua's anguished cry over Israel's defeat before their enemies sets the stage for God's direct response exposing hidden sin as the cause of the congregation's failure and loss of divine presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "5gWVxtcarvc",
     "start_time": 1777.820068359375,
-    "end_time": 1854.0200691223145
+    "end_time": 1854.0200691223145,
+    "point_summary": "Concealed sin in the camp brought God's withdrawal of presence and military defeat, establishing the pattern that unaddressed corporate sin forfeits divine blessing — a pattern the sermon applies directly to the church at Sardis.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1604.7200012207031,
-    "end_time": 1667.7999877929688
+    "end_time": 1667.7999877929688,
+    "point_summary": "Obedience requires commitment, illustrated by Joshua's decisive, personal declaration that regardless of others' choices, he and his house would serve the Lord—a model of settled, unconditional resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1667.7999877929688,
-    "end_time": 1729.3599853515625
+    "end_time": 1729.3599853515625,
+    "point_summary": "Joshua 24:15 is cited as the model of decisive, personal commitment to obedience—Joshua's declaration that he and his house will serve the Lord sets the pattern for the congregation to draw their own line and choose God, period.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1667.7999877929688,
-    "end_time": 1729.3599853515625
+    "end_time": 1729.3599853515625,
+    "point_summary": "The people's declaration \"nay, but we will serve the Lord\" illustrates that genuine obedience begins with a decisive, verbal commitment—a line drawn against all competing pressures.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1667.7999877929688,
-    "end_time": 1729.3599853515625
+    "end_time": 1729.3599853515625,
+    "point_summary": "Declaring obedience to God requires a decisive, self-witnessed commitment—as Israel's own words at Shechem made them witnesses against themselves—that must be made regardless of surrounding pressures to disobey.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1667.7999877929688,
-    "end_time": 1729.3599853515625
+    "end_time": 1729.3599853515625,
+    "point_summary": "Genuine obedience begins with a decisive, public commitment—illustrated by Israel's declaration before Joshua that they would serve the Lord and obey His voice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1667.7999877929688,
-    "end_time": 1729.3599853515625
+    "end_time": 1729.3599853515625,
+    "point_summary": "Sustained obedience requires a decisive, spoken commitment—as Israel's declaration \"his voice will we obey\" illustrates—because cultural and social pressures will inevitably test any resolve to follow God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "5Yhl2Rqat2w",
     "start_time": 1563.5800476074219,
-    "end_time": 1624.0600280761719
+    "end_time": 1624.0600280761719,
+    "point_summary": "Joshua's gathering of Israel at Shechem is cited to confirm that the patriarchs' ancestors, including Terah, practiced idolatry in Ur—corroborating the Genesis narrative being defended against critical attacks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "5Yhl2Rqat2w",
     "start_time": 1624.0600280761719,
-    "end_time": 1684.780029296875
+    "end_time": 1684.780029296875,
+    "point_summary": "Joshua 24:2 is read alongside Joshua 24:1 to establish that the ancestors of Israel, including Abraham's own family in Ur of the Chaldees, were idolaters who worshiped other gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "5Yhl2Rqat2w",
     "start_time": 1624.0600280761719,
-    "end_time": 1684.780029296875
+    "end_time": 1684.780029296875,
+    "point_summary": "Abraham's ancestors, including Terah, were idolaters dwelling in Ur, a city archaeologically confirmed as a center of moon-god worship, establishing the pagan background from which God called Abraham.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "6eUsQrWOpqo",
     "start_time": 1813.3199605941772,
-    "end_time": 1881.0399627685547
+    "end_time": 1881.0399627685547,
+    "point_summary": "Passing the faith between generations is the sermon's concern here: Joshua's charge to his people to serve the Lord stands as the positive example against which the failure of the next generation in Judges — who knew not God — is measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1032.8800048828125,
-    "end_time": 1109.3599853515625
+    "end_time": 1109.3599853515625,
+    "point_summary": "Hidden sin is known to God before it is known to any human authority, just as the reader of Joshua 7:1 learns of Achan's trespass before Joshua himself does.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1109.3599853515625,
-    "end_time": 1169.7999877929688
+    "end_time": 1169.7999877929688,
+    "point_summary": "Hidden sin in the camp — Achan's secret trespass — brought collective defeat and divine anger upon Israel before Joshua even knew what had taken place.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1109.3599853515625,
-    "end_time": 1169.7999877929688
+    "end_time": 1169.7999877929688,
+    "point_summary": "Joshua's grief-stricken prostration before God after the defeat at Ai illustrates the devastating communal consequences that follow when hidden sin is concealed within the camp.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1169.7999877929688,
-    "end_time": 1240.359977722168
+    "end_time": 1240.359977722168,
+    "point_summary": "Joshua's anguished cry of despair after Israel's defeat at Ai illustrates how hidden sin in the camp—Achan's secret trespass—brought collective vulnerability and divine withdrawal from the whole nation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1169.7999877929688,
-    "end_time": 1240.359977722168
+    "end_time": 1240.359977722168,
+    "point_summary": "Hidden sin in the camp brought collective military defeat and divine withdrawal, with God declaring \"Israel hath sinned\" and refusing to fight for his people until the accursed thing was removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1169.7999877929688,
-    "end_time": 1240.359977722168
+    "end_time": 1240.359977722168,
+    "point_summary": "Joshua 7:9 frames the stakes of Achan's hidden sin: enemy nations would hear of Israel's defeat, surround them, and erase their name—showing that one man's secret trespass endangered the entire nation's survival and testimony.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1169.7999877929688,
-    "end_time": 1240.359977722168
+    "end_time": 1240.359977722168,
+    "point_summary": "God's command to Joshua — \"Get thee up\" — reframes the moment: the crisis is not unanswered prayer but unconfessed sin, as the very next words declare, \"Israel hath sinned.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "6q394CAnPD0",
     "start_time": 1169.7999877929688,
-    "end_time": 1240.359977722168
+    "end_time": 1240.359977722168,
+    "point_summary": "Hidden sin within the camp is framed as corporate guilt — \"Israel hath sinned\" — bringing collective defeat and the withdrawal of God's presence until the accursed thing is removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -305,7 +359,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1387.0599822998047,
-    "end_time": 1460.3399658203125
+    "end_time": 1460.3399658203125,
+    "point_summary": "The lot-casting process in Joshua 7 is read as a deliberate, step-by-step divine narrowing—tribe to family to household to man—that made Achan's concealment increasingly inescapable, paralleling Rachel's hidden idols in the tent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -316,7 +372,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1387.0599822998047,
-    "end_time": 1460.3399658203125
+    "end_time": 1460.3399658203125,
+    "point_summary": "Hidden sin inevitably narrows to exposure—the lot-casting process in Joshua 7 illustrates that concealment in one's tent cannot ultimately escape divine detection.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1387.0599822998047,
-    "end_time": 1460.3399658203125
+    "end_time": 1460.3399658203125,
+    "point_summary": "Hidden sin follows the same pattern as Rachel's stolen idols — seen, coveted, taken, and concealed in a tent — demonstrating that secret transgression cannot ultimately escape divine exposure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -338,7 +398,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1697.739990234375,
-    "end_time": 1795.6199951171875
+    "end_time": 1795.6199951171875,
+    "point_summary": "Hidden sin cannot remain concealed from God, who commands the exposed leader to rise and deal with the offense before divine presence is restored to the community.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -349,7 +411,9 @@
     "is_implicit": true,
     "video_id": "6q394CAnPD0",
     "start_time": 1697.739990234375,
-    "end_time": 1795.6199951171875
+    "end_time": 1795.6199951171875,
+    "point_summary": "Hidden sin cannot remain concealed from God, as illustrated by Achan's attempt to hide stolen goods and God's declaration to Joshua that Israel had sinned and must deal with it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 876.52001953125,
-    "end_time": 929.8800048828125
+    "end_time": 929.8800048828125,
+    "point_summary": "Despite hearing the same reports of God's power that led Rahab to faith, the Amorite kings responded only with melted hearts and paralyzed spirits, choosing fear over repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 929.8800048828125,
-    "end_time": 983.0400085449219
+    "end_time": 983.0400085449219,
+    "point_summary": "Rahab's confession in Joshua 2:9 illustrates that the surrounding nations had heard of God's mighty acts and feared, yet only Rahab responded in faith, receiving mercy while others hardened themselves to judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1037.0800170898438,
-    "end_time": 1092.3200073242188
+    "end_time": 1092.3200073242188,
+    "point_summary": "The Gibeonites' deep deception in Joshua 9 is offered as a parallel illustration of the depravity and cunning characteristic of false teachers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1037.0800170898438,
-    "end_time": 1092.3200073242188
+    "end_time": 1092.3200073242188,
+    "point_summary": "The five Amorite kings of Joshua 10:5 are contrasted with Rahab as examples of those who heard of God's power yet responded with military coalition rather than faith, and were consequently destroyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 2493.7799758911133,
-    "end_time": 2546.239974975586
+    "end_time": 2546.239974975586,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "7-Svueb0C4s",
     "start_time": 480.1600036621094,
-    "end_time": 542.7999877929688
+    "end_time": 542.7999877929688,
+    "point_summary": "The cessation of manna at Canaan's border illustrates that God's provision adapts to his people's circumstances—he stopped one form of supply and replaced it with another, but never stopped providing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "9KxM021cU1c",
     "start_time": 2150.4599609375,
-    "end_time": 2209.4599609375
+    "end_time": 2209.4599609375,
+    "point_summary": "Hidden sin within a covenant community—illustrated by Achan's secret taking of forbidden spoils—brought corporate defeat at Ai, showing that unaddressed evil corrupts and weakens the whole body.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "9KxM021cU1c",
     "start_time": 2209.4599609375,
-    "end_time": 2280.4599609375
+    "end_time": 2280.4599609375,
+    "point_summary": "Hidden, unaddressed sin in the camp brought military defeat and divine withdrawal at Ai, illustrating that God will not remain with a community that tolerates unconfronted sin among its members.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "9KxM021cU1c",
     "start_time": 2209.4599609375,
-    "end_time": 2280.4599609375
+    "end_time": 2280.4599609375,
+    "point_summary": "Hidden sin within a community brings collective defeat, and God's warning in Joshua 7 — deal with the sin or forfeit my presence — illustrates why the church at Ephesus was commended for not tolerating evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 1959.9199676513672,
-    "end_time": 2014.1199798583984
+    "end_time": 2014.1199798583984,
+    "point_summary": "Cited alongside a chain of whole-heart devotion texts, Joshua 22:5 calls believers to diligent, all-encompassing obedience—loving God, walking in His ways, and serving Him with all heart and soul, not halfway.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -470,7 +554,9 @@
     "is_implicit": true,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2249.5799865722656,
-    "end_time": 2312.5
+    "end_time": 2312.5,
+    "point_summary": "God's gift of Scripture—first called \"the book of the law\" in Joshua 1:8—carries a divine command to meditate on it continually, with promised prosperity and success tied to obedience to its written word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -481,7 +567,9 @@
     "is_implicit": true,
     "video_id": "cndo5VpvDZo",
     "start_time": 2246.519989013672,
-    "end_time": 2317.47998046875
+    "end_time": 2317.47998046875,
+    "point_summary": "The appearance of the captain of the Lord's host to Joshua at Jericho (Josh. 5:13–14) illustrates the sermon's running theme that God himself was personally present with his servants throughout redemptive history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -492,7 +580,9 @@
     "is_implicit": true,
     "video_id": "cndo5VpvDZo",
     "start_time": 2246.519989013672,
-    "end_time": 2317.47998046875
+    "end_time": 2317.47998046875,
+    "point_summary": "The appearance of the captain of the Lord's host to Joshua at Jericho (Josh. 5:14) is cited as evidence that God himself was personally present with his people in the land of promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 795.1199951171875,
-    "end_time": 853.9599914550781
+    "end_time": 853.9599914550781,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 795.1199951171875,
-    "end_time": 853.9599914550781
+    "end_time": 853.9599914550781,
+    "point_summary": "The death of Moses, the human penman of the Pentateuch's first five books, sets the historical context for God's continued speaking—underscoring that Scripture's authority rests in God, not its human instrument.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 853.9599914550781,
-    "end_time": 917.760009765625
+    "end_time": 917.760009765625,
+    "point_summary": "Joshua 1:1 is cited to establish that Moses, the human penman of the Pentateuch, left behind not only a godly example but a written book—underscoring the enduring, profitable nature of God's word beyond any individual life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 853.9599914550781,
-    "end_time": 917.760009765625
+    "end_time": 917.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 853.9599914550781,
-    "end_time": 917.760009765625
+    "end_time": 917.760009765625,
+    "point_summary": "God's promise to Joshua in verse 5 is set within the context of Moses having left behind both a faithful example and, crucially, a written book—establishing that the law was a tangible inheritance alongside the divine promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 917.760009765625,
-    "end_time": 984.5599975585938
+    "end_time": 984.5599975585938,
+    "point_summary": "God's promise of victory and inheritance to Joshua in verse 6 is inseparably tied to the law Moses left behind, establishing obedience to that written word as the condition for possessing the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 917.760009765625,
-    "end_time": 984.5599975585938
+    "end_time": 984.5599975585938,
+    "point_summary": "God's command to Joshua in verse 7 to observe all the law Moses left behind frames obedience to Scripture as the direct condition for the promised prosperity and victory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 917.760009765625,
-    "end_time": 984.5599975585938
+    "end_time": 984.5599975585938,
+    "point_summary": "God's command to Joshua that the book of the law never depart from his mouth but be meditated on day and night is grounded in Moses' faithful transmission of what God commanded him to write.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "DtcTsCiwnIM",
     "start_time": 984.5599975585938,
-    "end_time": 1062.1199951171875
+    "end_time": 1062.1199951171875,
+    "point_summary": "God's promised prosperity and success in Joshua 1:8 are conditional \"then\" statements—sequentially dependent on meditating in the law day and night and doing all that is written therein.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "eg1F6EDQyos",
     "start_time": 206.36000061035156,
-    "end_time": 277.9200134277344
+    "end_time": 277.9200134277344,
+    "point_summary": "Blessing and success, as promised to Joshua, come not from hearing the word alone but from meditating on it and obeying it—prosperity follows obedience, not mere exposure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -613,7 +723,9 @@
     "is_implicit": true,
     "video_id": "eg1F6EDQyos",
     "start_time": 278.7200012207031,
-    "end_time": 344.4800109863281
+    "end_time": 344.4800109863281,
+    "point_summary": "God's promise of prosperity and success to Joshua was conditioned on continual meditation upon and obedience to the law, paralleling James 1's warning that blessing comes only to the doer, not the forgetful hearer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2257.7799377441406,
-    "end_time": 2321.159912109375
+    "end_time": 2321.159912109375,
+    "point_summary": "Israel's defeat at Ai in Joshua 7 is cited as evidence that the book of Joshua pictures the victorious Christian life—not heaven—because sin is present within it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2385.8599243164062,
-    "end_time": 2452.259925842285
+    "end_time": 2452.259925842285,
+    "point_summary": "Alongside sin in the camp as the primary cause of Israel's defeat at Ai, self-dependence—assuming past victories qualified them to handle the battle without full reliance on God—stands as a secondary reason for failure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "giwhcbMIrNo",
     "start_time": 2452.259925842285,
-    "end_time": 2530.4799194335938
+    "end_time": 2530.4799194335938,
+    "point_summary": "Alongside sin in the camp, Joshua 7:3 illustrates a secondary cause of Israel's defeat at Ai: self-dependence born from prior victory, when confidence shifted from God as the source to human capability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 1472.6199951171875,
-    "end_time": 1542.1999816894531
+    "end_time": 1542.1999816894531,
+    "point_summary": "God's command to Joshua to arise and cross the Jordan is grounded in the same promise of divine presence given to Jacob—\"as I was with Moses, so I will be with thee\"—which becomes the basis for courage.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 1472.6199951171875,
-    "end_time": 1542.1999816894531
+    "end_time": 1542.1999816894531,
+    "point_summary": "God's promise to Joshua — \"every place that the sole of your foot shall tread upon, that have I given unto you\" — is cited as a parallel to Jacob's testimony that God was with him, illustrating that the same divine presence promised to Jacob was renewed with Joshua.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 1472.6199951171875,
-    "end_time": 1542.1999816894531
+    "end_time": 1542.1999816894531,
+    "point_summary": "God's promise to Joshua — \"as I was with Moses, so I will be with thee; I will not fail thee, nor forsake thee\" — is cited as the same pattern of divine presence that sustained Jacob, grounding courage in that assurance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -690,7 +814,9 @@
     "is_implicit": true,
     "video_id": "hMIOkmwPfzg",
     "start_time": 1542.1999816894531,
-    "end_time": 1617.5199890136719
+    "end_time": 1617.5199890136719,
+    "point_summary": "God's promise to Joshua — \"as I was with Moses, so I will be with thee; I will not fail thee, nor forsake thee\" — is presented as the divine assurance that grounds the command to be strong and courageous.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "iLWpm-rQ98E",
     "start_time": 1479.9199829101562,
-    "end_time": 1534.0
+    "end_time": 1534.0,
+    "point_summary": "Joshua 1:8's reference to \"this book of the law\" is used to underscore that God's Word is not hidden but made available to His people, a blessing warranting gratitude.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1289.9000244140625,
-    "end_time": 1346.4600219726562
+    "end_time": 1346.4600219726562,
+    "point_summary": "The cessation of manna upon Israel's entry into Canaan demonstrates that God faithfully provided supernaturally throughout the wilderness precisely because normal cultivation was impossible during their wandering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "jIT6eZVTo_c",
     "start_time": 1346.4600219726562,
-    "end_time": 1401.02001953125
+    "end_time": 1401.02001953125,
+    "point_summary": "Israel's arrival in Canaan marked the precise moment God ceased providing manna, demonstrating that His provision is perfectly calibrated to the need of each season.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 510.8599853515625,
-    "end_time": 575.4000244140625
+    "end_time": 575.4000244140625,
+    "point_summary": "The Gibeonites' deception in Joshua 9 is cited as a biblical parallel illustrating how the enemy consistently escalates deception to hinder the work of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "KnZFjfOQSr4",
     "start_time": 2052.8799896240234,
-    "end_time": 2107.8399963378906
+    "end_time": 2107.8399963378906,
+    "point_summary": "The sin of one man, Achan, caused God to withdraw His blessing from the entire camp, illustrating that corporate favor depends on individual holiness within the body.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 1128.6799926757812,
-    "end_time": 1196.3200073242188
+    "end_time": 1196.3200073242188,
+    "point_summary": "The valley of Achor is identified as the site where Achan's sin brought defeat, death, and divine withdrawal from Israel, making it a byword for trouble and disturbance in Israelite memory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 1258.820026397705,
-    "end_time": 1317.0200271606445
+    "end_time": 1317.0200271606445,
+    "point_summary": "Achan's confession — \"I have sinned against the Lord God of Israel\" — illustrates that hidden sin is inevitably exposed as God narrows judgment down to the individual, because He will not bless a people who harbor the accursed thing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "kSiYJ1lbpPo",
     "start_time": 1258.820026397705,
-    "end_time": 1317.0200271606445
+    "end_time": 1317.0200271606445,
+    "point_summary": "Achan's execution and the naming of the Valley of Achor establish it as a place of divine judgment on sin, providing the historical backdrop that makes Hosea's redemptive reuse of the name theologically striking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "najkOZaBPgU",
     "start_time": 1101.1799926757812,
-    "end_time": 1166.1400146484375
+    "end_time": 1166.1400146484375,
+    "point_summary": "Joshua's declaration \"as for me and my house we will serve the Lord\" is presented not as a decorative motto but as a deliberate, costly choice of allegiance made in the face of competing gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -800,7 +944,9 @@
     "is_implicit": true,
     "video_id": "nh_yOTAqen4",
     "start_time": 823.1399993896484,
-    "end_time": 901.6799926757812
+    "end_time": 901.6799926757812,
+    "point_summary": "Gehazi's concealment of stolen goods evokes Achan's sin of hiding forbidden plunder in his tent, illustrating a recurring pattern of secret covetousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "nh_yOTAqen4",
     "start_time": 1922.739974975586,
-    "end_time": 2002.5799713134766
+    "end_time": 2002.5799713134766,
+    "point_summary": "The account of Achan in Joshua 7 is cited as one of several biblical precedents demonstrating that hidden sin is always exposed and judged by God, a warning Gehazi had available to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "NtYYNz8sJhU",
     "start_time": 1774.6799926757812,
-    "end_time": 1861.2800178527832
+    "end_time": 1861.2800178527832,
+    "point_summary": "Meditating on God's Word day and night is presented as the indispensable process that precedes the promised results of prosperity and success — the result cannot be separated from the discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -833,7 +983,9 @@
     "is_implicit": true,
     "video_id": "PcWAoGx4sog",
     "start_time": 1789.699951171875,
-    "end_time": 1846.859977722168
+    "end_time": 1846.859977722168,
+    "point_summary": "The phrase \"unto this day\" in Joshua's memorial accounts is cited as a standard biblical marker indicating the time of writing, used here to anchor the historical fulfillment of Isaac's blessing on Esau in 2 Kings 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -844,7 +996,9 @@
     "is_implicit": true,
     "video_id": "Ph0OqWhwvWk",
     "start_time": 615.7400150299072,
-    "end_time": 681.9400177001953
+    "end_time": 681.9400177001953,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 63.119998931884766,
-    "end_time": 121.5199966430664
+    "end_time": 121.5199966430664,
+    "point_summary": "Rahab is presented as an unexpected herald of God's greatness, illustrating that declaring His greatness is not limited to the familiar biblical figures one would readily name.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 312.5199890136719,
-    "end_time": 380.0
+    "end_time": 380.0,
+    "point_summary": "Rahab's concealment of the spies under flax stalks on her rooftop is noted as the act that kept them secure while the king's search party sought them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 312.5199890136719,
-    "end_time": 380.0
+    "end_time": 380.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 312.5199890136719,
-    "end_time": 380.0
+    "end_time": 380.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 312.5199890136719,
-    "end_time": 380.0
+    "end_time": 380.0,
+    "point_summary": "Rahab's nighttime approach to the spies on the roof introduces the pivotal conversation—her \"proclamation\"—that forms the entire focus of the sermon's exposition of verses 8–21.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 380.0,
-    "end_time": 436.9200134277344
+    "end_time": 436.9200134277344,
+    "point_summary": "Rahab's confession in verse 9 — \"I know that the Lord hath given you the land\" — introduces her proclamation, which the sermon frames as the central focus of the passage.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 380.0,
-    "end_time": 436.9200134277344
+    "end_time": 436.9200134277344,
+    "point_summary": "Rahab's words \"we have heard\" indicate that the report of God's mighty acts — the Red Sea crossing and the defeat of Sihon and Og — had spread beyond Israel and was known throughout Jericho.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 380.0,
-    "end_time": 436.9200134277344
+    "end_time": 436.9200134277344,
+    "point_summary": "Rahab's confession — \"the Lord your God, he is God in heaven above and in earth beneath\" — is identified as the central proclamation of the passage, anchoring the sermon's focus on what her words reveal about God's sovereignty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 1041.5400085449219,
-    "end_time": 1106.7799987792969
+    "end_time": 1106.7799987792969,
+    "point_summary": "Rahab's declaration — \"the LORD your God, he is God in heaven above and in earth beneath\" — is presented as a confession distinguishing the true God from the false idols of Canaan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 1907.2599716186523,
-    "end_time": 1973.5399780273438
+    "end_time": 1973.5399780273438,
+    "point_summary": "The scarlet thread bound in Rahab's window, traced by early interpreters back to the first century as a type of Christ's blood, marks the one place of safety and visibly expresses her faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 1907.2599716186523,
-    "end_time": 1973.5399780273438
+    "end_time": 1973.5399780273438,
+    "point_summary": "Safety from judgment was found only within the house marked by the scarlet thread, pointing beyond physical deliverance to the singular refuge secured by Christ's blood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2513.1999588012695,
-    "end_time": 2561.179962158203
+    "end_time": 2561.179962158203,
+    "point_summary": "Jericho's total lockdown—\"none went out, none came in\"—sets the stage for God's sovereign orchestration of Rahab's deliverance amid the city's impending judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2513.1999588012695,
-    "end_time": 2561.179962158203
+    "end_time": 2561.179962158203,
+    "point_summary": "Rahab's exemption from Jericho's destruction—explicitly grounded in her having hidden the spies—confirms that God honored the oath sworn to her and preserved all who were with her in the house.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2513.1999588012695,
-    "end_time": 2561.179962158203
+    "end_time": 2561.179962158203,
+    "point_summary": "The fall of Jericho's walls in Joshua 6:20 serves as the narrative conclusion confirming that God honored the oath sworn to Rahab, sparing all who were with her in the house.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2561.179962158203,
-    "end_time": 2618.719955444336
+    "end_time": 2618.719955444336,
+    "point_summary": "God's faithfulness to His promise is confirmed in Joshua 6:22, where the spies return to bring Rahab and her household out safely, fulfilling the oath sworn in chapter 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2561.179962158203,
-    "end_time": 2618.719955444336
+    "end_time": 2618.719955444336,
+    "point_summary": "God's faithfulness to keep the oath sworn to Rahab is confirmed in Joshua 6:23, where the spies personally retrieve her and all her household from the doomed city of Jericho.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "Qw84YBHvTq4",
     "start_time": 2561.179962158203,
-    "end_time": 2618.719955444336
+    "end_time": 2618.719955444336,
+    "point_summary": "Rahab's deliverance from Jericho's destruction—preserved alive with her entire household because she hid the spies—is confirmed as the fulfilled conclusion to the covenant sworn in Joshua 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "qXJTL7gNqeA",
     "start_time": 3116.919990539551,
-    "end_time": 3181.6399993896484
+    "end_time": 3181.6399993896484,
+    "point_summary": "Joshua 24:32 is cited as historical confirmation that God kept his promise to Joseph — his bones were indeed carried out of Egypt and buried in Canaan, exactly as he had believed by faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "Q_1QzEYkQvA",
     "start_time": 911.5799865722656,
-    "end_time": 969.1799926757812
+    "end_time": 969.1799926757812,
+    "point_summary": "God's promise to be present with Joshua as he conquered the land is cited as a parallel to the divine assurance \"I am with thee\" given to Jacob at Bethel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "RqUUXQZpy28",
     "start_time": 1785.0399780273438,
-    "end_time": 1847.4399871826172
+    "end_time": 1847.4399871826172,
+    "point_summary": "Joshua 20:1–9 is cited as the historical fulfillment of the Numbers 35 command, where the cities of refuge were formally established after Israel conquered and divided the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1075,7 +1269,9 @@
     "is_implicit": true,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 383.32000732421875,
-    "end_time": 444.760009765625
+    "end_time": 444.760009765625,
+    "point_summary": "God's repeated command to Joshua — \"be strong and of a good courage\" — grounds the sermon's definition of courage as the quality enabling men to face danger and difficulty with firmness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 444.82000732421875,
-    "end_time": 506.9800109863281
+    "end_time": 506.9800109863281,
+    "point_summary": "God's repeated command to Joshua to \"be strong and of a good courage\" establishes that courage is not a natural temperament but a divine imperative given to those who will face real dangers and difficulties.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 444.82000732421875,
-    "end_time": 506.9800109863281
+    "end_time": 506.9800109863281,
+    "point_summary": "Courage to face dangers and difficulties with firmness is grounded in God's repeated command to Joshua — \"be strong and of a good courage\" — with the assurance that God's presence makes such courage possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 444.82000732421875,
-    "end_time": 506.9800109863281
+    "end_time": 506.9800109863281,
+    "point_summary": "Courage to face danger and difficulty is grounded in God's commanding presence, as the repeated divine charge to Joshua—\"be strong and of a good courage\"—shows that true valor flows from the Lord being with His servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 444.82000732421875,
-    "end_time": 506.9800109863281
+    "end_time": 506.9800109863281,
+    "point_summary": "God's repeated command to Joshua — \"Be strong and of a good courage\" — grounds courage not in human resolve but in the divine presence: \"the Lord thy God is with thee whithersoever thou goest.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1130,7 +1334,9 @@
     "is_implicit": true,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 506.9800109863281,
-    "end_time": 579.47998046875
+    "end_time": 579.47998046875,
+    "point_summary": "God's repeated command to Joshua — \"be strong and of a good courage\" — establishes that courage in the face of real dangers and difficulties is divinely commanded, not merely admired, grounding the sermon's portrait of David as a courageous man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 793.6799774169922,
-    "end_time": 857.2599792480469
+    "end_time": 857.2599792480469,
+    "point_summary": "Courage to face danger and difficulty comes from God through His Word, as seen in Joshua 1 where God's command to be strong is inseparably linked to meditating on Scripture in verse 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "s3ZqPxXQpm0",
     "start_time": 1326.5399932861328,
-    "end_time": 1386.6999969482422
+    "end_time": 1386.6999969482422,
+    "point_summary": "Courage against overwhelming danger flows from the divine promise \"I will be with thee,\" which gave David the confidence to face Goliath knowing God, not personal boldness, would secure the victory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "s8x5TtvlC7M",
     "start_time": 871.2400207519531,
-    "end_time": 925.2400207519531
+    "end_time": 925.2400207519531,
+    "point_summary": "In Joshua 17, when the sons of Joseph complained that the land was insufficient and the Canaanites with iron chariots were too formidable, Joshua acknowledged the opposition as real while directing them to trust in a greater God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "skWoTJ4W0Bc",
     "start_time": 207.17999267578125,
-    "end_time": 269.1400146484375
+    "end_time": 269.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1185,7 +1399,9 @@
     "is_implicit": true,
     "video_id": "twNPvrDg87E",
     "start_time": 1254.1000061035156,
-    "end_time": 1323.5600051879883
+    "end_time": 1323.5600051879883,
+    "point_summary": "Courage, as illustrated by God's repeated command to Joshua in Joshua 1, means doing what is right regardless of fear — not the absence of fear itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 114.77999877929688,
-    "end_time": 171.02000427246094
+    "end_time": 171.02000427246094,
+    "point_summary": "God's command in Joshua 4 to erect memorial stones at the Jordan—so that children asking \"What mean ye these stones?\" would receive instruction in God's mighty works—establishes the divine purpose behind memorials: preserving and transmitting the memory of what God has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2437.759998321533,
-    "end_time": 2519.1399993896484
+    "end_time": 2519.1399993896484,
+    "point_summary": "Scripture's own testimony in Joshua 1:8 grounds the call to continual meditation: because the book is God's Word, obedience to it is the direct path to prosperity and good success.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2594.800003051758,
-    "end_time": 2667.8200073242188
+    "end_time": 2667.8200073242188,
+    "point_summary": "Joshua 1:8 is cited as the believer's proper response to inspired Scripture — shaping how one approaches, lives by, and obeys a book recognized as God's own speech.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1844.039966583252,
-    "end_time": 1899.199966430664
+    "end_time": 1899.199966430664,
+    "point_summary": "The transition from Joshua's conquest to Judges' spiritual amnesia illustrates the generational consequence of failing to transmit God's truth to the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "VAwhGyZS5VU",
     "start_time": 1647.9400329589844,
-    "end_time": 1714.9600219726562
+    "end_time": 1714.9600219726562,
+    "point_summary": "God's command to Joshua to meditate on \"this book of the law\" (Josh. 1:8) is cited to show that Scripture's authority and sufficiency did not die with Moses but carried forward as the objective standard for God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "VAwhGyZS5VU",
     "start_time": 1714.9600219726562,
-    "end_time": 1781.0400390625
+    "end_time": 1781.0400390625,
+    "point_summary": "God's command to Joshua that the law not depart from his mouth but be meditated on day and night establishes that Scripture is learned through personal devotion and must move from love to living obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "VAwhGyZS5VU",
     "start_time": 1869.6400299072266,
-    "end_time": 1941.280029296875
+    "end_time": 1941.280029296875,
+    "point_summary": "Prosperity and good success, as promised in Joshua 1:8, are conditional outcomes dependent on meditating on Scripture, loving it, and obeying all that is written therein—not on the size of one's bank account.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1291.8400039672852,
-    "end_time": 1358.2000122070312
+    "end_time": 1358.2000122070312,
+    "point_summary": "Joshua 24:15 illustrates that yielding to God is a personal, freely chosen decision that no one else can make for another, though leaders can and should lay out compelling reasons to choose rightly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 686.8400115966797,
-    "end_time": 756.1200103759766
+    "end_time": 756.1200103759766,
+    "point_summary": "Meditation on God's Word in Joshua 1:8 is inseparable from obedience—the purpose of meditating day and night is explicitly \"to observe to do,\" linking Scripture's prosperity promise to active compliance, not mere knowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 756.1200103759766,
-    "end_time": 826.1600189208984
+    "end_time": 826.1600189208984,
+    "point_summary": "Meditation on and obedience to the law—not knowledge alone—produces the promised prosperity and success, connecting Joshua 1:8's \"observe to do\" directly to Ezra's own commitment to do the law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 2182.199981689453,
-    "end_time": 2243.5599670410156
+    "end_time": 2243.5599670410156,
+    "point_summary": "Joshua 24 marks the fulfillment of Joseph's dying oath—his bones, carried through the Exodus and wilderness wanderings, were finally brought into the promised land centuries after he spoke those words in faith.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 2243.5599670410156,
-    "end_time": 2305.6399536132812
+    "end_time": 2305.6399536132812,
+    "point_summary": "Joshua's death at 110 years old—mirroring Joseph's lifespan—frames the entire conquest narrative as the long-delayed fulfillment of Joseph's dying oath that his bones would leave Egypt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 2243.5599670410156,
-    "end_time": 2305.6399536132812
+    "end_time": 2305.6399536132812,
+    "point_summary": "Joseph's dying request that his bones be carried to Canaan was not fulfilled until Joshua 24:32—spanning centuries of bondage, wilderness wandering, and conquest—marking a life of faith whose testimony outlasted his generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "WSQz1cqL0PE",
     "start_time": 2305.6399536132812,
-    "end_time": 2383.1599731445312
+    "end_time": 2383.1599731445312,
+    "point_summary": "Joseph's bones, carried out of Egypt and buried centuries later at Shechem, confirm that his dying command in Genesis 50 was ultimately fulfilled when Israel finally possessed the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 1259.7800178527832,
-    "end_time": 1321.620018005371
+    "end_time": 1321.620018005371,
+    "point_summary": "Joshua 1:1–9 is presented as a pattern of divine encouragement for courageous service, with God repeatedly calling his servant to boldness for the task set before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 1321.620018005371,
-    "end_time": 1379.3800201416016
+    "end_time": 1379.3800201416016,
+    "point_summary": "God's repeated command to Joshua to \"be strong and of a good courage\" serves as a pattern for believers today, who are likewise called to live courageously in carrying out what Christ has entrusted to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 1321.620018005371,
-    "end_time": 1379.3800201416016
+    "end_time": 1379.3800201416016,
+    "point_summary": "Courage for God's people is not optional but commanded, as Joshua 1:7's repeated divine charge to \"be strong and very courageous\" demonstrates God actively encouraging his servant for the task set before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 1379.3800201416016,
-    "end_time": 1443.8800201416016
+    "end_time": 1443.8800201416016,
+    "point_summary": "Continual meditation on and obedience to God's Word is the divinely prescribed condition for prosperity and success, illustrated here through God's charge to Joshua before entering the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "Xx99YvltqXQ",
     "start_time": 1379.3800201416016,
-    "end_time": 1443.8800201416016
+    "end_time": 1443.8800201416016,
+    "point_summary": "God's command to Joshua — \"be strong and of a good courage\" because \"the Lord thy God is with thee\" — grounds the call to courageous, obedient living that believers share through Christ's parallel promise of his abiding presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 68.31999969482422,
-    "end_time": 123.0
+    "end_time": 123.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 68.31999969482422,
-    "end_time": 123.0
+    "end_time": 123.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "YMmzfd_u-UQ",
     "start_time": 68.31999969482422,
-    "end_time": 123.0
+    "end_time": 123.0,
+    "point_summary": "When Israel entered the land and could eat its produce, the manna ceased — God's miraculous provision continuing precisely until it was no longer needed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 0.0,
-    "end_time": 68.91999816894531
+    "end_time": 68.91999816894531,
+    "point_summary": "Joshua 24 is introduced as a text that exemplifies preaching's true purpose: not mere information transfer, but bringing God's people to decision and life-alignment with His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 186.5,
-    "end_time": 249.74000549316406
+    "end_time": 249.74000549316406,
+    "point_summary": "Joshua 22 records Joshua's address to the two and a half tribes who fulfilled their obligation to fight alongside their brethren before returning to their inheritance east of the Jordan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 249.74000549316406,
-    "end_time": 310.7799987792969
+    "end_time": 310.7799987792969,
+    "point_summary": "Joshua 23 is identified as Joshua's address specifically to the leaders of the tribes of Israel, distinguishing it from the broader assembly of all the people gathered in Joshua 24.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 249.74000549316406,
-    "end_time": 310.7799987792969
+    "end_time": 310.7799987792969,
+    "point_summary": "Joshua 24:1 marks a shift from Joshua's address to tribal leaders in chapter 23 to a gathering of all Israel at Shechem, where Joshua speaks not his own opinion but delivers direct divine revelation: \"Thus saith the Lord God of Israel.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 310.7799987792969,
-    "end_time": 378.2200012207031
+    "end_time": 378.2200012207031,
+    "point_summary": "Joshua's command in verse 14 to \"fear the Lord and serve him in sincerity and in truth\" comes as a direct response to the historical record of God's faithfulness rehearsed in verses 2–13, grounding the call to exclusive worship in what God has already done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 310.7799987792969,
-    "end_time": 378.2200012207031
+    "end_time": 378.2200012207031,
+    "point_summary": "Embedded within Joshua's covenant address to all Israel, verse 15 presents serving the Lord as a deliberate, day-by-day choice between the gods of their fathers and the God who had redeemed them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 378.2200012207031,
-    "end_time": 435.9200134277344
+    "end_time": 435.9200134277344,
+    "point_summary": "Joshua's command to \"choose you this day whom you will serve\" frames the entire sermon around the principle that every encounter with God's Word demands a personal decision in response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 489.5400085449219,
-    "end_time": 555.5800170898438
+    "end_time": 555.5800170898438,
+    "point_summary": "Serving the Lord in sincerity and truth, as Joshua commands in verse 14, demands an individual response—every person bears personal responsibility to choose whom they will serve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 489.5400085449219,
-    "end_time": 555.5800170898438
+    "end_time": 555.5800170898438,
+    "point_summary": "Serving God is presented as an individual decision that every person bears personal responsibility to make, not a collective or inherited obligation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 672.379997253418,
-    "end_time": 730.8800048828125
+    "end_time": 730.8800048828125,
+    "point_summary": "Achan's individual choice to take the accursed thing at Jericho brought sin into the camp, cost 36 men their lives, and demonstrates that personal decisions carry consequences far beyond the one who makes them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 730.8800048828125,
-    "end_time": 797.4199981689453
+    "end_time": 797.4199981689453,
+    "point_summary": "Joshua's call to covenant renewal in chapter 24 is framed against the backdrop of Achan's sin at Ai, illustrating that individual choices carry communal consequences and that idolatry's influence demands a decisive, corporate response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 797.4199981689453,
-    "end_time": 860.3800048828125
+    "end_time": 860.3800048828125,
+    "point_summary": "Joshua's repeated warnings against idolatry culminate in verse 23 with a direct command to remove foreign gods already present among the people, revealing that some in the congregation were secretly harboring idols.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 992.5,
-    "end_time": 1066.1000061035156
+    "end_time": 1066.1000061035156,
+    "point_summary": "Choosing whom to serve is not abstract—Joshua's challenge exposes that anything claiming first place over God, whether ancient carved figures or modern pursuits like career or sports, functions as an idol.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1066.1000061035156,
-    "end_time": 1133.5
+    "end_time": 1133.5,
+    "point_summary": "Joshua's resolve in verse 15 is presented as exemplary leadership: he publicly declared his own commitment to serve the Lord before calling others to make the same choice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1481.97998046875,
-    "end_time": 1540.6399841308594
+    "end_time": 1540.6399841308594,
+    "point_summary": "Joshua's public declaration—\"as for me and my house, we will serve the Lord\"—is presented as a resolve made independently of others' responses, illustrating that personal commitment to God must not be contingent on collective agreement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1729.6400146484375,
-    "end_time": 1794.739990234375
+    "end_time": 1794.739990234375,
+    "point_summary": "Israel's declaration that God drove out the Amorites before them grounds their pledge to serve the Lord in his proven faithfulness to his own promises.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1729.6400146484375,
-    "end_time": 1794.739990234375
+    "end_time": 1794.739990234375,
+    "point_summary": "Serving God demands total allegiance because He is holy and jealous, unwilling to share His glory with any other, and will not overlook the transgressions of those who turn to strange gods.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1853.9599685668945,
-    "end_time": 1920.3599700927734
+    "end_time": 1920.3599700927734,
+    "point_summary": "Forsaking the Lord for strange gods carries real consequences — Joshua warns that the same God who brought Israel into the land and did them good will turn and bring judgment upon them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1985.199966430664,
-    "end_time": 2041.719970703125
+    "end_time": 2041.719970703125,
+    "point_summary": "The people's declaration in verse 21 — \"Nay, but we will serve the Lord\" — is presented as a moment of genuine resolve, illustrating the gravity and personal weight of the covenant choice Joshua set before them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1985.199966430664,
-    "end_time": 2041.719970703125
+    "end_time": 2041.719970703125,
+    "point_summary": "Choosing to serve the Lord makes the people self-witnesses against themselves, binding them by their own declaration to the covenant they have publicly affirmed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1985.199966430664,
-    "end_time": 2041.719970703125
+    "end_time": 2041.719970703125,
+    "point_summary": "Verbal commitment to serve the Lord must be matched by concrete action—putting away the idols still present among the people—because Joshua's command in verse 23 implies some had not yet done so.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 1985.199966430664,
-    "end_time": 2041.719970703125
+    "end_time": 2041.719970703125,
+    "point_summary": "Verse 24:24 is read as the congregation's own covenant declaration — \"the Lord our God will we serve, and his voice will we obey\" — presented as the right and weighty choice that mirrors Joshua's personal resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2041.719970703125,
-    "end_time": 2108.239959716797
+    "end_time": 2108.239959716797,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2230.47998046875,
-    "end_time": 2289.5999755859375
+    "end_time": 2289.5999755859375,
+    "point_summary": "Joshua 24's call to choose whom Israel will serve is shown to stand in a long biblical pattern—from Moses at Sinai to Elijah at Carmel to Moses in Deuteronomy—where God's people are repeatedly confronted with an unavoidable, personal choice, and silence itself counts as a decision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2788.519989013672,
-    "end_time": 2852.679962158203
+    "end_time": 2852.679962158203,
+    "point_summary": "Joshua 24 is presented as the culminating moment where, like Moses before him, Joshua brings the people to a point of individual decision — a choice with consequences extending to their descendants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 575.6599731445312,
-    "end_time": 632.1800193786621
+    "end_time": 632.1800193786621,
+    "point_summary": "God's command to Joshua that the Word hold priority in Israel's life stands as the standard against which the nation's subsequent neglect and idolatry is measured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 0.0,
-    "end_time": 57.040000915527344
+    "end_time": 57.040000915527344,
+    "point_summary": "Memorial Day's call to remember the fallen frames Joshua 4's memorial stones as a parallel summons to remember a greater deliverance—freedom from sin's bondage through Christ, which no circumstance or power can revoke.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 57.040000915527344,
-    "end_time": 123.80000305175781
+    "end_time": 123.80000305175781,
+    "point_summary": "The crossing of the Jordan River marked the end of one era and the start of another, with God displaying his power miraculously, distinct from yet comparable to the crossing of the Red Sea.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1746,7 +2062,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 123.80000305175781,
-    "end_time": 191.9199981689453
+    "end_time": 191.9199981689453,
+    "point_summary": "Joshua 3 provides the full account of the Jordan crossing—its instructions and miraculous execution—while chapter 4 functions entirely as a memorial to that event.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1757,7 +2075,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 123.80000305175781,
-    "end_time": 191.9199981689453
+    "end_time": 191.9199981689453,
+    "point_summary": "The Jordan crossing marked the end of one era and the start of another, with Joshua 4 devoted entirely as a memorial to commemorate what God miraculously accomplished in chapter three.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 123.80000305175781,
-    "end_time": 191.9199981689453
+    "end_time": 191.9199981689453,
+    "point_summary": "The Jordan crossing marked the end of one era and the start of another, with Joshua 4 serving entirely as a God-ordained memorial of that miraculous event recorded in chapter three.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 191.9199981689453,
-    "end_time": 252.72000122070312
+    "end_time": 252.72000122070312,
+    "point_summary": "God's command to take twelve stones—one per tribe—from the Jordan's midst was designed to create a lasting, tribal memorial so future generations could be told what God had done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1790,7 +2114,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 191.9199981689453,
-    "end_time": 252.72000122070312
+    "end_time": 252.72000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1801,7 +2127,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 191.9199981689453,
-    "end_time": 252.72000122070312
+    "end_time": 252.72000122070312,
+    "point_summary": "Each of the twelve men was commanded to carry a stone on his shoulder—one per tribe—so that the memorial would be a corporate, tribal witness to what God had done at the Jordan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1812,7 +2140,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 191.9199981689453,
-    "end_time": 252.72000122070312
+    "end_time": 252.72000122070312,
+    "point_summary": "The twelve memorial stones were to serve as a conversation-starter across generations, prompting children to ask about their meaning so that God's miraculous cutting off of the Jordan could be declared and remembered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 252.75999450683594,
-    "end_time": 323.3399963378906
+    "end_time": 323.3399963378906,
+    "point_summary": "The twelve stones carried from the Jordan on each man's shoulder were appointed as a generational sign, so that future children asking their meaning would receive testimony of God's miraculous intervention.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1834,7 +2166,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 252.75999450683594,
-    "end_time": 323.3399963378906
+    "end_time": 323.3399963378906,
+    "point_summary": "The twelve stones taken from the Jordan were appointed as a sign to provoke the question from future children—\"What mean ye by these stones?\"—so that God's miraculous intervention would be declared to succeeding generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 252.75999450683594,
-    "end_time": 323.3399963378906
+    "end_time": 323.3399963378906,
+    "point_summary": "The twelve stones taken from the Jordan were to serve as a permanent memorial so that future generations could be told how God cut off the river before the ark of the covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1856,7 +2192,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 392.6000061035156,
-    "end_time": 452.1600036621094
+    "end_time": 452.1600036621094,
+    "point_summary": "The memorial stones of Joshua 4 are framed as God's means of preserving national memory for future generations, paralleling how monuments like the WWII Memorial commemorate sacrifice to instruct those who come after.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1867,7 +2205,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 452.1600036621094,
-    "end_time": 514.0399780273438
+    "end_time": 514.0399780273438,
+    "point_summary": "Memorial stones in Joshua 4 are approached through a hermeneutical distinction: God dealt with Israel as a nation with land and law, whereas the church operates under a different New Testament mandate, yet the passage still yields applicable lessons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1878,7 +2218,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 514.0399780273438,
-    "end_time": 578.1199951171875
+    "end_time": 578.1199951171875,
+    "point_summary": "The twelve stones were to be carried to and left at the specific lodging place of Gilgal, establishing that the memorial's location—the first campsite in the promised land—was divinely appointed, not incidental.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1889,7 +2231,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 514.0399780273438,
-    "end_time": 578.1199951171875
+    "end_time": 578.1199951171875,
+    "point_summary": "Joshua's command to carry twelve stones to Gilgal is shown to flow directly from God's prior instruction, with Joshua faithfully transmitting to the people exactly what God had given him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1900,7 +2244,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 578.1199951171875,
-    "end_time": 638.4400177001953
+    "end_time": 638.4400177001953,
+    "point_summary": "Gilgal, identified as roughly a mile and a quarter from the Jordan crossing, is established as the specific lodging place where Israel's twelve-stone memorial was set down on the tenth day of the first month.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1911,7 +2257,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 578.1199951171875,
-    "end_time": 638.4400177001953
+    "end_time": 638.4400177001953,
+    "point_summary": "The twelve stones carried from the Jordan were set up at Gilgal, approximately a mile and a quarter from the crossing, establishing that specific geographic location as the designated site of Israel's memorial.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 638.4400177001953,
-    "end_time": 699.2800140380859
+    "end_time": 699.2800140380859,
+    "point_summary": "The phrase \"unto this day\" in Joshua 4:9 refers not to the present moment but to the time of the book's writing, when the twelve stones set in the Jordan's midst were still standing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1933,7 +2283,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 754.4000244140625,
-    "end_time": 814.1600189208984
+    "end_time": 814.1600189208984,
+    "point_summary": "The Jordan's flood-stage conditions noted in Joshua 3 explain why the stones placed in the riverbed had to be large enough to withstand the returning current's initial force.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1944,7 +2296,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 874.0400085449219,
-    "end_time": 938.5600280761719
+    "end_time": 938.5600280761719,
+    "point_summary": "God ordained the Jordan memorial stones as a perpetual sign designed to prompt children's questions across generations, ensuring Israel's future would rehearse His mighty acts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1955,7 +2309,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 874.0400085449219,
-    "end_time": 938.5600280761719
+    "end_time": 938.5600280761719,
+    "point_summary": "The memorial stones were given a clear divine purpose: to serve as a perpetual sign prompting future generations of children to ask about God's mighty works, ensuring remembrance forever.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1966,7 +2322,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 874.0400085449219,
-    "end_time": 938.5600280761719
+    "end_time": 938.5600280761719,
+    "point_summary": "The memorial stones were purposefully designed to prompt children's questions across generations, with God foreknowing and anticipating those future conversations as the Alpha and Omega.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1977,7 +2335,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1004.1200256347656,
-    "end_time": 1068.9200134277344
+    "end_time": 1068.9200134277344,
+    "point_summary": "The phrase \"in time to come\" in verse 6 reveals that God, who knows the end from the beginning, ordained the memorial stones with a future generation's questions already in view.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1068.9200134277344,
-    "end_time": 1140.2000122070312
+    "end_time": 1140.2000122070312,
+    "point_summary": "God's command to erect memorial stones was purposeful obedience with intergenerational consequence—disobedience would have erased the teaching opportunity for future generations to ask about the Jordan crossing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -1999,7 +2361,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1204.0800170898438,
-    "end_time": 1252.400016784668
+    "end_time": 1252.400016784668,
+    "point_summary": "The memorial stones served as a deliberate teaching instrument, designed to prompt future generations to ask questions so that those who witnessed the crossing could declare what God had done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1252.400016784668,
-    "end_time": 1305.4400177001953
+    "end_time": 1305.4400177001953,
+    "point_summary": "God's public magnification of Joshua — fulfilling the promise of Joshua 3:7 — demonstrated to Israel that their new leader walked with God just as Moses had.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1252.400016784668,
-    "end_time": 1305.4400177001953
+    "end_time": 1305.4400177001953,
+    "point_summary": "God's precise timing in holding the Jordan's waters until the last priest's foot left the riverbed is presented as an unmistakable, deliberate display of divine power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1305.4400177001953,
-    "end_time": 1367.2400207519531
+    "end_time": 1367.2400207519531,
+    "point_summary": "The people's arrival at Gilgal on the tenth day of the first month marks the moment the twelve memorial stones were set up, anchoring the miracle of the Jordan crossing to a specific place and time.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1305.4400177001953,
-    "end_time": 1367.2400207519531
+    "end_time": 1367.2400207519531,
+    "point_summary": "The memorial stones at Gilgal were to prompt children's questions so that each generation would be told Israel crossed Jordan on dry land—emphasizing God's direct, miraculous intervention, not human effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2054,7 +2426,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1367.2400207519531,
-    "end_time": 1427.2000122070312
+    "end_time": 1427.2000122070312,
+    "point_summary": "The stones at Gilgal were to prompt children's questions so parents could declare that Israel crossed Jordan on dry land — a specific detail testifying to God's direct, miraculous power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2065,7 +2439,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1367.2400207519531,
-    "end_time": 1427.2000122070312
+    "end_time": 1427.2000122070312,
+    "point_summary": "The memorial stones at Gilgal were designed to prompt children's questions, turning \"What mean these stones?\" into a teaching opportunity for parents to declare that Israel crossed Jordan on dry land by God's power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1492.280029296875,
-    "end_time": 1550.8000183105469
+    "end_time": 1550.8000183105469,
+    "point_summary": "The memorial stones were commanded precisely at the moment all Israel had fully crossed—marking the completion of the miracle as the divinely chosen occasion for the instruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1550.8000183105469,
-    "end_time": 1616.1600036621094
+    "end_time": 1616.1600036621094,
+    "point_summary": "The Jordan's waters returning only after the priests stepped out confirms that the miracle was sustained by divine command throughout the crossing, not by natural forces.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1550.8000183105469,
-    "end_time": 1616.1600036621094
+    "end_time": 1616.1600036621094,
+    "point_summary": "The Jordan crossing on dry land is presented as a genuine miracle that defies naturalistic explanation, just as the Red Sea crossing was, countering those who attempt to explain away God's direct intervention.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1550.8000183105469,
-    "end_time": 1616.1600036621094
+    "end_time": 1616.1600036621094,
+    "point_summary": "The Jordan's drying on dry land is presented as a genuine miracle of God, not a natural phenomenon, resisting rationalistic attempts to explain it away as an earthquake or geological event.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2120,7 +2504,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1616.52001953125,
-    "end_time": 1672.3600158691406
+    "end_time": 1672.3600158691406,
+    "point_summary": "The falling of Jericho's walls, like the Jordan crossing, is cited as a genuine miracle of God that rationalistic explanations—such as an earthquake—fail to account for.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2131,7 +2517,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1616.52001953125,
-    "end_time": 1672.3600158691406
+    "end_time": 1672.3600158691406,
+    "point_summary": "Against rationalistic attempts to explain away the Jordan crossing as a natural event, the verse is cited to affirm that God himself—not earthquake, dam, or coincidence—dried up the waters.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2142,7 +2530,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1782.5599975585938,
-    "end_time": 1849.2800331115723
+    "end_time": 1849.2800331115723,
+    "point_summary": "The Jordan crossing memorial, like the Red Sea before it, points not to a relic but to God himself as the one who dried up the waters—expanding each retelling into a broader witness to his power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2153,7 +2543,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1782.5599975585938,
-    "end_time": 1849.2800331115723
+    "end_time": 1849.2800331115723,
+    "point_summary": "The two sets of memorial stones — one at Gilgal, one in the Jordan — together expanded the teaching opportunity, allowing each generation to recount not only the Jordan crossing but also the earlier Red Sea deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1849.2800331115723,
-    "end_time": 1920.420036315918
+    "end_time": 1920.420036315918,
+    "point_summary": "The dual purpose of the Jordan memorial—that all peoples would know God's mighty hand and that Israel would fear him forever—grounds the sermon's call to generational, worship-directed remembrance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1920.420036315918,
-    "end_time": 1983.5800323486328
+    "end_time": 1983.5800323486328,
+    "point_summary": "The memorial stones in Joshua 4:6 were given so that future generations would know God's works, set their hope in Him, and keep His commandments — a deliberate divine strategy for generational faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2186,7 +2582,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1920.420036315918,
-    "end_time": 1983.5800323486328
+    "end_time": 1983.5800323486328,
+    "point_summary": "The memorial stones in Joshua 4:7 were given by God with a deliberate generational purpose: that future children would know His works, set their hope in Him, and keep His commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2047.300033569336,
-    "end_time": 2128.260040283203
+    "end_time": 2128.260040283203,
+    "point_summary": "God's command to memorialize the Jordan crossing carried a deliberate intergenerational purpose: to ensure future generations would know the Lord, lest they forsake Him as Judges 2:10 records.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2208,7 +2608,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2273.060028076172,
-    "end_time": 2353.8200073242188
+    "end_time": 2353.8200073242188,
+    "point_summary": "The twelve stones set up at Gilgal serve as the Old Testament pattern for how God's people are given visible, physical memorials so that all the earth might know Him—a purpose the church now fulfills through gospel proclamation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2219,7 +2621,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2273.060028076172,
-    "end_time": 2353.8200073242188
+    "end_time": 2353.8200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2230,7 +2634,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 2353.8200073242188,
-    "end_time": 2412.9600534439087
+    "end_time": 2412.9600534439087,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "j_nhiIFLglw",
     "start_time": 907.5400085449219,
-    "end_time": 972.7799987792969
+    "end_time": 972.7799987792969,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "xI5uCsuW9eg",
     "start_time": 1825.9400463104248,
-    "end_time": 1903.1000442504883
+    "end_time": 1903.1000442504883,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "In biblical warfare, enemies sometimes turned on one another in chaotic self-destruction, a pattern seen in Joshua that foreshadows the self-inflicted killing described under the second seal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1199.7400512695312,
-    "end_time": 1260.4600524902344
+    "end_time": 1260.4600524902344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2285,7 +2699,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1466.5400390625,
-    "end_time": 1527.06005859375
+    "end_time": 1527.06005859375,
+    "point_summary": "Just as God assured Jacob of His accompanying presence in Egypt, Joshua's commissioning at the threshold of Canaan continues that same pattern of divine presence enabling courage for an overwhelming responsibility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2296,7 +2712,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1527.06005859375,
-    "end_time": 1589.3400573730469
+    "end_time": 1589.3400573730469,
+    "point_summary": "At the transition of leadership from Moses to Joshua, God's reassuring promise of his presence anchors the weighty responsibility newly assigned to Joshua.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2307,7 +2725,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1589.3400573730469,
-    "end_time": 1657.2600402832031
+    "end_time": 1657.2600402832031,
+    "point_summary": "God's reassurance to Joshua at the outset of his daunting commission—\"as I was with Moses, so I will be with thee\"—establishes that divine presence, not human succession, is the foundation of victorious living.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2318,7 +2738,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1589.3400573730469,
-    "end_time": 1657.2600402832031
+    "end_time": 1657.2600402832031,
+    "point_summary": "God's command to Joshua in 1:2 launches a narrative the sermon reads as a picture of victorious Christian living, with God reassuring Joshua of His presence as he assumes the weighty task Moses could not complete.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2329,7 +2751,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1589.3400573730469,
-    "end_time": 1657.2600402832031
+    "end_time": 1657.2600402832031,
+    "point_summary": "God's promise to Joshua in verse 3 — that every place his foot treads is already given — grounds the broader assurance of divine presence accompanying Joshua into a task previously held by Moses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2340,7 +2764,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1589.3400573730469,
-    "end_time": 1657.2600402832031
+    "end_time": 1657.2600402832031,
+    "point_summary": "God's promise to Joshua in verse 4 establishes the full extent of the land as the backdrop for the assurance of divine presence that follows in verse 5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2351,7 +2777,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1589.3400573730469,
-    "end_time": 1657.2600402832031
+    "end_time": 1657.2600402832031,
+    "point_summary": "God's promise to Joshua — \"as I was with Moses, so I will be with thee\" — reassures him of divine presence for an overwhelming task, grounding the assurance in what Joshua had already witnessed firsthand of God's faithfulness to Moses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2362,7 +2790,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1657.2600402832031,
-    "end_time": 1718.9400634765625
+    "end_time": 1718.9400634765625,
+    "point_summary": "God's presence with Joshua, assured by the same promise given to Moses, is the source of the courage commanded in verse 6—\"be strong and of a good courage.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2373,7 +2803,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1657.2600402832031,
-    "end_time": 1718.9400634765625
+    "end_time": 1718.9400634765625,
+    "point_summary": "God's presence with Joshua, as it had been with Moses, is the ground for the repeated command to \"be strong and of a good courage,\" showing that divine accompaniment produces courage, not merely comfort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1718.9400634765625,
-    "end_time": 1791.080078125
+    "end_time": 1791.080078125,
+    "point_summary": "Meditating on God's law day and night is presented as the divinely commanded means by which Joshua would prosper and have good success as he led Israel into the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "RNHeQGD_erM",
     "start_time": 1718.9400634765625,
-    "end_time": 1791.080078125
+    "end_time": 1791.080078125,
+    "point_summary": "God's presence with Joshua, promised in the same terms as his presence with Moses, is the basis for the repeated command to be strong and courageous rather than afraid or dismayed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2406,7 +2842,9 @@
     "is_implicit": true,
     "video_id": "mbmoiMlUtYA",
     "start_time": 2177.4000244140625,
-    "end_time": 2253.9200134277344
+    "end_time": 2253.9200134277344,
+    "point_summary": "Continual meditation on Scripture leading to obedience of *all* that is written—not selective compliance—is the prerequisite condition for the \"then\" of promised blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2417,7 +2855,9 @@
     "is_implicit": true,
     "video_id": "mbmoiMlUtYA",
     "start_time": 2253.9200134277344,
-    "end_time": 2318.9000244140625
+    "end_time": 2318.9000244140625,
+    "point_summary": "Meditating on Scripture day and night is not selective but total, and its stated purpose—observing to do *all* that is written—is the prerequisite condition for the promised prosperity and success.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "G4Un3pWAQf0",
     "start_time": 725.7600021362305,
-    "end_time": 796.0
+    "end_time": 796.0,
+    "point_summary": "God's withdrawal of His presence and fighting power from Israel at Ai illustrates that unaddressed sin in the camp causes God to withhold His help until that sin is destroyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "G4Un3pWAQf0",
     "start_time": 725.7600021362305,
-    "end_time": 796.0
+    "end_time": 796.0,
+    "point_summary": "God's withdrawal of His presence and fighting power from Israel at Ai illustrates that unaddressed sin in the camp causes God to withhold His help until the accursed thing is destroyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "G4Un3pWAQf0",
     "start_time": 725.7600021362305,
-    "end_time": 796.0
+    "end_time": 796.0,
+    "point_summary": "God's withdrawal of His presence and fighting power from Israel at Ai illustrates that unaddressed sin in the camp causes God to withhold His help until the accursed thing is destroyed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2461,7 +2907,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 533.8800048828125,
-    "end_time": 592.7000122070312
+    "end_time": 592.7000122070312,
+    "point_summary": "Serving the Lord faithfully before being called to leadership—as Joshua's life illustrates—is presented as the pattern God honors when raising up the next human leader of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2472,7 +2920,9 @@
     "is_implicit": true,
     "video_id": "CXZQVH0uWS0",
     "start_time": 2300.320037841797,
-    "end_time": 2386.2200317382812
+    "end_time": 2386.2200317382812,
+    "point_summary": "Achan's hidden sin in Joshua 7 illustrates that private sin cannot stay concealed — it ultimately becomes known to the entire community, not just to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 419.20001220703125,
-    "end_time": 487.739990234375
+    "end_time": 487.739990234375,
+    "point_summary": "Rahab's story in Joshua is cited as a second illustration, alongside Abraham, to demonstrate to a Jewish audience that genuine faith is evidenced by observable actions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 626.3600120544434,
-    "end_time": 691.0000152587891
+    "end_time": 691.0000152587891,
+    "point_summary": "Rahab's act of receiving and hiding the Israelite spies in Joshua 2:1 is presented as the concrete, visible evidence that her faith was genuine — works demonstrating righteousness rather than merely declaring it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2505,7 +2959,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab's reception of the Israelite spies in Jericho—hiding them at personal risk—is presented as the concrete, visible evidence that her faith was genuine, not her lying.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2516,7 +2972,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab's act of hiding the Israelite spies—not her deception—is the work that evidences her faith and for which she is commended in James 2:25.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2527,7 +2985,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab's act of hiding the spies—not her deception—is what Scripture commends, distinguishing her faith-evidencing work from any attempt to justify situational ethics.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2538,7 +2998,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab's commendation in James 2 rests on her act of hiding the spies as evidence of faith, not on her lie, which the sermon explicitly distinguishes as separate and indefensible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2549,7 +3011,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab is commended in Scripture for hiding the spies, not for lying, with the sermon explicitly rejecting any use of her deception to justify situational ethics.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2560,7 +3024,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Rahab's commendation in James 2 rests on her act of hiding the spies—evidenced in Joshua 2:6—not on her lie, which the sermon explicitly distinguishes as separate from the faith-works being praised.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2571,7 +3037,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 691.0000152587891,
-    "end_time": 746.4000091552734
+    "end_time": 746.4000091552734,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 746.4000091552734,
-    "end_time": 814.8400115966797
+    "end_time": 814.8400115966797,
+    "point_summary": "Rahab is commended in James 2 for hiding the spies, not for lying—her deception is not the basis of her commendation, and God could have protected the spies without it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2593,7 +3063,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 814.8400115966797,
-    "end_time": 883.0400085449219
+    "end_time": 883.0400085449219,
+    "point_summary": "Rahab's confession in Joshua 2:9—acknowledging Jehovah by his covenant name as the one who had given Israel the land—demonstrates that her faith rested on what she had heard God do, not merely on the spies themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2604,7 +3076,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 883.0400085449219,
-    "end_time": 952.5599975585938
+    "end_time": 952.5599975585938,
+    "point_summary": "Rahab's faith was grounded in received testimony—she had heard that Jehovah miraculously dried up the Red Sea, recognizing it as God's act, not human ingenuity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2615,7 +3089,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 952.6800231933594,
-    "end_time": 1020.3200073242188
+    "end_time": 1020.3200073242188,
+    "point_summary": "Rahab's confession in Joshua 2:10 rests on received testimony—she heard that the Lord, not Israel's ingenuity, dried the Red Sea, and that report melted the courage of Jericho's inhabitants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2626,7 +3102,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1020.3200073242188,
-    "end_time": 1089.4000244140625
+    "end_time": 1089.4000244140625,
+    "point_summary": "Rahab's confession that \"the LORD your God, he is God in heaven above and in earth beneath\" demonstrates that the testimony she received about Israel's victories was sufficient to produce genuine faith, even without full revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2637,7 +3115,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1089.4000244140625,
-    "end_time": 1160.4800415039062
+    "end_time": 1160.4800415039062,
+    "point_summary": "Rahab's confession in Joshua 2:9 demonstrates that the testimony she received about God—though limited—was sufficient to produce genuine faith, just as it was for Abraham.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2648,7 +3128,9 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1089.4000244140625,
-    "end_time": 1160.4800415039062
+    "end_time": 1160.4800415039062,
+    "point_summary": "Unlike Rahab, who responded to the terror of God with genuine faith, the Gibeonites heard the same reports of God's works yet responded with deception rather than honest submission.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2659,7 +3141,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1220.9200115203857,
-    "end_time": 1299.4400100708008
+    "end_time": 1299.4400100708008,
+    "point_summary": "Rahab's declaration in Joshua 2:9 — \"I know that the Lord hath given you the land\" — illustrates that genuine faith moves beyond merely hearing a report to personally owning and responding to what has been received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2670,7 +3154,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1220.9200115203857,
-    "end_time": 1299.4400100708008
+    "end_time": 1299.4400100708008,
+    "point_summary": "Rahab's confession in Joshua 2:11 — that the LORD is \"God in heaven above and in earth beneath\" — is presented as the decisive difference between merely hearing a report and personally knowing and declaring the truth of what God has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2681,7 +3167,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1299.4400100708008,
-    "end_time": 1368.280014038086
+    "end_time": 1368.280014038086,
+    "point_summary": "Rahab's reception of the spies in Joshua 2:1 is presented as the outward act confirming a faith she already possessed before they arrived, rooted in what she had previously heard about God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1441.6000061035156,
-    "end_time": 1509.1400146484375
+    "end_time": 1509.1400146484375,
+    "point_summary": "Rahab's acceptance of God's declared plan for Jericho—rather than resistance to it—is presented as the defining act of faith that brought her benefit while others in the city perished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2703,7 +3193,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1509.1400146484375,
-    "end_time": 1584.7400207519531
+    "end_time": 1584.7400207519531,
+    "point_summary": "Rahab's immediate plea for her family's safety in Joshua 2:12 illustrates that genuine faith produces concern for others, particularly one's own household.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2714,7 +3206,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1645.5400085449219,
-    "end_time": 1706.8800048828125
+    "end_time": 1706.8800048828125,
+    "point_summary": "Rahab's faith expressed itself not in self-preservation alone but in urgent intercession for her entire family, mirroring the burden believers should carry for unsaved loved ones.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2725,7 +3219,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1645.5400085449219,
-    "end_time": 1706.8800048828125
+    "end_time": 1706.8800048828125,
+    "point_summary": "Rahab's faith expressed itself not in self-preservation alone but in urgent intercession for her entire family, mirroring the burden believers should carry for unsaved loved ones.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2736,7 +3232,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1645.5400085449219,
-    "end_time": 1706.8800048828125
+    "end_time": 1706.8800048828125,
+    "point_summary": "Rahab's faith expressed itself not in self-preservation alone but in urgent intercession for her entire family, mirroring the burden believers should carry for unsaved loved ones.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2747,7 +3245,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1645.5400085449219,
-    "end_time": 1706.8800048828125
+    "end_time": 1706.8800048828125,
+    "point_summary": "Rahab's act of lowering the spies through her window by a cord was the practical expression of a faith already committed to protecting others, particularly her family, whom she sought to bring under the same covering of safety.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2758,7 +3258,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1645.5400085449219,
-    "end_time": 1706.8800048828125
+    "end_time": 1706.8800048828125,
+    "point_summary": "Rahab's faith extended beyond herself to encompass her entire family, mirroring a burden of heart that true belief in coming judgment naturally produces for those we love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2769,7 +3271,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1706.8800048828125,
-    "end_time": 1768.9000244140625
+    "end_time": 1768.9000244140625,
+    "point_summary": "Rahab's immediate binding of the scarlet thread in the window, before the spies even returned, served as a visible testimony of her active, trusting faith in what she had been told.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2780,7 +3284,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1706.8800048828125,
-    "end_time": 1768.9000244140625
+    "end_time": 1768.9000244140625,
+    "point_summary": "The scarlet thread bound in Rahab's window (v. 18) is presented as a visible testimony of her faith, signifying her acceptance of and trust in the spies' word of deliverance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2791,7 +3297,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 1706.8800048828125,
-    "end_time": 1768.9000244140625
+    "end_time": 1768.9000244140625,
+    "point_summary": "Rahab's immediate binding of the scarlet cord in the window, even before the spies returned, is presented as a visible testimony of her active, trusting faith in what she had been told.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2802,7 +3310,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2100.6600036621094,
-    "end_time": 2174.1400146484375
+    "end_time": 2174.1400146484375,
+    "point_summary": "Rahab's immediate reward is located in Joshua 6, where her household's preservation during the fall of Jericho illustrates that genuine faith, evidenced by works, is visibly and promptly rewarded by God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2813,7 +3323,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2174.1400146484375,
-    "end_time": 2227.5800170898438
+    "end_time": 2227.5800170898438,
+    "point_summary": "Rahab's immediate reward — her household spared alive while Jericho was utterly destroyed — is presented as God's faithful fulfillment of the oath sworn to her by the spies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2174.1400146484375,
-    "end_time": 2227.5800170898438
+    "end_time": 2227.5800170898438,
+    "point_summary": "The walls of Jericho falling flat is presented as the immediate, concrete reward God gave Rahab for her faith-and-works obedience, demonstrating that God rewards those who trust and act on His word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2835,7 +3349,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "Rahab's immediate deliverance when the walls fell flat demonstrates that her faith, expressed in hiding the spies, was vindicated at the very moment Israel obeyed God's unconventional military command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2846,7 +3362,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "Rahab's immediate deliverance from the destruction of Jericho—her entire household spared while the city burned—is presented as the first and direct reward for her faith-driven act of hiding the spies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2857,7 +3375,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "Rahab's immediate reward is demonstrated by Joshua's command to the spies to personally retrieve her and her entire household before Jericho's destruction, fulfilling the oath sworn to her.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2868,7 +3388,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "Rahab's immediate reward is demonstrated by the rescue of her entire household at the fall of Jericho, fulfilling the spies' oath and showing her faith's effect on her family.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2879,7 +3401,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "While Jericho burned and its inhabitants perished, Rahab and her entire household were spared alive—demonstrating that her faith-driven act of hiding the spies brought immediate, tangible reward at the very moment of judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2890,7 +3414,9 @@
     "is_implicit": true,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2227.5800170898438,
-    "end_time": 2282.1000061035156
+    "end_time": 2282.1000061035156,
+    "point_summary": "Rahab's immediate deliverance—her entire household spared while Jericho burned—is presented as the direct fulfillment of the spies' oath, confirming that her faith produced tangible, real-time reward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2901,7 +3427,9 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2282.1000061035156,
-    "end_time": 2349.3800048828125
+    "end_time": 2349.3800048828125,
+    "point_summary": "Rahab's obedience to God brought salvation not only to herself but to her entire household, illustrating that faith acted upon yields deliverance for those under one's influence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joshua",
@@ -2912,6 +3440,8 @@
     "is_implicit": false,
     "video_id": "vc7GUAlgbGA",
     "start_time": 2282.1000061035156,
-    "end_time": 2349.3800048828125
+    "end_time": 2349.3800048828125,
+    "point_summary": "Rahab's obedient faith secured not only her own deliverance but her entire household's, illustrating that genuine faith influences family and that safety exists only within the place of God's provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

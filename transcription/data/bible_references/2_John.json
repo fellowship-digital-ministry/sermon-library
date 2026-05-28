@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "0c9STAI-vWI",
     "start_time": 2106.019989013672,
-    "end_time": 2164.1799926757812
+    "end_time": 2164.1799926757812,
+    "point_summary": "Walking in obedience to God's commandments is repeatedly affirmed throughout Scripture as the very definition of love, not its opposite.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 John",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "d-1B6rYpHbw",
     "start_time": 753.8800354003906,
-    "end_time": 815.0400238037109
+    "end_time": 815.0400238037109,
+    "point_summary": "Denying that Jesus Christ came in the flesh is the defining mark of a deceiver and antichrist, confirming the sermon's point that false teachers are many and united in rejecting the incarnation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 John",
@@ -30,6 +34,8 @@
     "is_implicit": false,
     "video_id": "iMFOWiAni18",
     "start_time": 2814.5199584960938,
-    "end_time": 2881.5199584960938
+    "end_time": 2881.5199584960938,
+    "point_summary": "2 John 1:8 is cited as scriptural warrant for the reality of rewards at the judgment seat, with the phrase \"full reward\" grounding the sermon's broader discussion of crowns to be received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

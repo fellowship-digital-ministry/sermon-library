@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 116.76000213623047,
-    "end_time": 182.36000061035156
+    "end_time": 182.36000061035156,
+    "point_summary": "Joel 1 is introduced as a text where, amid Israel's history of great rejoicing and revival, joy is conspicuously absent—illustrated by the direct quotation of verse 12's phrase \"joy is withered away from the sons of men.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 182.67999267578125,
-    "end_time": 251.63999938964844
+    "end_time": 251.63999938964844,
+    "point_summary": "Joel 1:12's phrase \"joy is withered away from the sons of men\" frames the entire sermon's central question: what causes joy to wither, and can it be restored?",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 182.67999267578125,
-    "end_time": 251.63999938964844
+    "end_time": 251.63999938964844,
+    "point_summary": "Joel 1:16 is cited alongside verse 12 to establish that joy and gladness had visibly withered from God's house, framing the sermon's central question of what causes joy to wither and whether it can be restored.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 313.1199951171875,
-    "end_time": 374.3999938964844
+    "end_time": 374.3999938964844,
+    "point_summary": "The withering of joy in Joel 1:12 serves as the sermon's title text, framing the entire message around identifying why joy departs and whether it can be restored, particularly for the backslidden believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 709.5400009155273,
-    "end_time": 777.3600006103516
+    "end_time": 777.3600006103516,
+    "point_summary": "The total agricultural collapse described in Joel 1—crops, vines, and trees all withered—is presented as the direct result of sin, with Leviticus 26 brought in to establish that covenant disobedience produces exactly this kind of devastation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 1629.6599731445312,
-    "end_time": 1709.8999938964844
+    "end_time": 1709.8999938964844,
+    "point_summary": "Joel 1's locust devastation is read as a paradigm of divine judgment on sin, grounded in the principle that God's moral governance—righteousness exalting and sin reproaching any nation—transcends Israel's particular covenant context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1942.1000213623047,
-    "end_time": 2015.260009765625
+    "end_time": 2015.260009765625,
+    "point_summary": "Amid utter destruction, Joel 1:13 presents the solution: priests are called to lament and lie in sackcloth, signifying the repentance and return to God that judgment demands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1942.1000213623047,
-    "end_time": 2015.260009765625
+    "end_time": 2015.260009765625,
+    "point_summary": "Joel 1:14's call to priestly lamentation in sackcloth is presented as the God-given solution to national devastation — repentance, confession, and returning to God amid utter destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2015.260009765625,
-    "end_time": 2091.980010986328
+    "end_time": 2091.980010986328,
+    "point_summary": "In response to national devastation, Joel 1:14 prescribes corporate repentance—fasting, solemn assembly, and crying out to God—as the solution that must begin at the house of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2170.1600036621094,
-    "end_time": 2230.040008544922
+    "end_time": 2230.040008544922,
+    "point_summary": "The absence of joy and gladness in Joel 1:16 is set against Psalm 51:8's plea to \"hear joy and gladness,\" framing both texts as calls for repentance to restore what sin has taken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2298.560028076172,
-    "end_time": 2391.02001953125
+    "end_time": 2391.02001953125,
+    "point_summary": "Sin is identified as the reason both David in Psalm 51 and the nation in Joel 1 lost their joy, with Joel 1 serving as a parallel case of joy withheld because of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 2532.3199920654297,
-    "end_time": 2619.0800018310547
+    "end_time": 2619.0800018310547,
+    "point_summary": "Joel 2:25's promise that God will restore the years the locusts have eaten is applied personally to the believer who has lost joy, grounding that restoration in the character of God as a restoring God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Joel",
@@ -140,6 +164,8 @@
     "is_implicit": true,
     "video_id": "Gtm8IYhepio",
     "start_time": 2532.3199920654297,
-    "end_time": 2619.0800018310547
+    "end_time": 2619.0800018310547,
+    "point_summary": "The four waves of destruction named in Joel 1:4 are the very losses God promises in Joel 2:25 to restore, establishing that the same God who sent the devastation is the God who restores.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

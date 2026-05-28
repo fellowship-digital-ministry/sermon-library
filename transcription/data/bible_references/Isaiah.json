@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "-MUvGf11b5U",
     "start_time": 743.1799926757812,
-    "end_time": 807.2200012207031
+    "end_time": 807.2200012207031,
+    "point_summary": "Isaiah 6:1 introduces the throne-room vision used to frame Isaiah's \"here am I\" response as a parallel to Joseph's willing submission, illustrating wholehearted obedience when called and sent by a father.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "-MUvGf11b5U",
     "start_time": 743.1799926757812,
-    "end_time": 807.2200012207031
+    "end_time": 807.2200012207031,
+    "point_summary": "God's call to Isaiah — met with immediate, wholehearted submission in the words \"Here am I, send me\" — is set alongside Joseph's response to Jacob to illustrate what complete, willing obedience to a father's mission looks like.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "-MUvGf11b5U",
     "start_time": 743.1799926757812,
-    "end_time": 807.2200012207031
+    "end_time": 807.2200012207031,
+    "point_summary": "Isaiah 6:8 is cited to illuminate Joseph's \"here am I\" in Genesis 37:13, drawing a parallel between Isaiah's wholehearted submission to God's call and Joseph's complete submission to his father's mission.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1826.7200164794922,
-    "end_time": 1900.1600189208984
+    "end_time": 1900.1600189208984,
+    "point_summary": "The Hebrew root shared by \"Shiloh\" (Gen. 49:10) and *shalom* links the coming ruler of Judah to the Prince of Peace named in Isaiah 9:6, identifying Jesus as the person in view.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -52,7 +60,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1480.0799560546875,
-    "end_time": 1559.5399780273438
+    "end_time": 1559.5399780273438,
+    "point_summary": "God's holiness, witnessed in Isaiah's throne-room vision where the seraphim cry \"holy, holy, holy,\" is cited to confirm that the God who is righteous in all His ways is also transcendently holy in all His works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1477.9800109863281,
-    "end_time": 1556.1800231933594
+    "end_time": 1556.1800231933594,
+    "point_summary": "Perfect peace, according to Isaiah 26:3, is conditioned on a mind \"stayed\" on God rather than fixed on the trial—a mental discipline the sermon connects directly to David's restful sleep amid enemies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1556.1800231933594,
-    "end_time": 1625.5400085449219
+    "end_time": 1625.5400085449219,
+    "point_summary": "Perfect peace, according to Isaiah 26:3, is the direct result of keeping the mind fixed on God rather than on the trial, with mental focus and trust identified as inseparable conditions for that peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "12L3c81JzTQ",
     "start_time": 1556.1800231933594,
-    "end_time": 1625.5400085449219
+    "end_time": 1625.5400085449219,
+    "point_summary": "Perfect peace, promised in Isaiah 26:3–4 to those whose minds are stayed on God, is forfeited when believers fix their attention on their trials rather than on the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "20HHrsvLvZg",
     "start_time": 316.5799865722656,
-    "end_time": 386.2200012207031
+    "end_time": 386.2200012207031,
+    "point_summary": "Isaiah's description of human righteousness as \"filthy rags\" is cited to establish the universal sinfulness that makes the wages of death deserved by all, setting up the contrast with God's gift of eternal life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1222.9199829101562,
-    "end_time": 1296.9199829101562
+    "end_time": 1296.9199829101562,
+    "point_summary": "In times of crisis, turning to the world (Egypt) for counsel and provision rather than to God compounds sin upon sin, as Isaiah's \"woe\" against those who take counsel \"but not of me\" makes plain.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1296.9199829101562,
-    "end_time": 1370.9199829101562
+    "end_time": 1370.9199829101562,
+    "point_summary": "Going to Egypt rather than seeking God's counsel is presented as the defining mark of rebellion—trusting the world's strength while never asking at God's mouth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1296.9199829101562,
-    "end_time": 1370.9199829101562
+    "end_time": 1370.9199829101562,
+    "point_summary": "God's people incur divine woe not merely for seeking worldly counsel, but specifically for failing to ask at God's mouth—substituting Egypt's strength for direct dependence on Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1666.9199829101562,
-    "end_time": 1750.9199829101562
+    "end_time": 1750.9199829101562,
+    "point_summary": "Trusting Egypt's chariots and horsemen rather than the Holy One of Israel is condemned as a failure to seek the Lord, whose wisdom and judgment surpass all earthly military strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1666.9199829101562,
-    "end_time": 1750.9199829101562
+    "end_time": 1750.9199829101562,
+    "point_summary": "God's wisdom is irrevocable — He will not recall His words of judgment against those who seek Egypt's strength rather than His own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1666.9199829101562,
-    "end_time": 1750.9199829101562
+    "end_time": 1750.9199829101562,
+    "point_summary": "Egypt's strength is exposed as merely human — men, not God — contrasting the folly of Israel's trust in Pharaoh with the surpassing power of the Almighty they already knew.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1750.9199829101562,
-    "end_time": 1820.5599822998047
+    "end_time": 1820.5599822998047,
+    "point_summary": "Egypt's inability to save is grounded in the contrast between what is merely human and fleshly versus the divine: men are not God, and horses are not spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1750.9199829101562,
-    "end_time": 1820.5599822998047
+    "end_time": 1820.5599822998047,
+    "point_summary": "Seeking military and political help from Egypt rather than from God draws divine condemnation, because Egypt's strength is merely human flesh, not spirit, while Israel's true help comes from the Lord alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "2cDKZaPlI5s",
     "start_time": 1872.999984741211,
-    "end_time": 1950.6399841308594
+    "end_time": 1950.6399841308594,
+    "point_summary": "Isaiah 30:2's indictment — \"they have not asked at my mouth\" — is applied as a timeless charge against God's people who seek the world's counsel and help without ever consulting the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "2fOfcjfGKkk",
     "start_time": 967.0399780273438,
-    "end_time": 1034.8799743652344
+    "end_time": 1034.8799743652344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "2fOfcjfGKkk",
     "start_time": 1352.0399780273438,
-    "end_time": 1415.9999694824219
+    "end_time": 1415.9999694824219,
+    "point_summary": "Missionary calling and financial sending are linked through Isaiah 6:8, where God's question \"Who will go?\" and Isaiah's willing response model the dynamic between a missionary's surrender to the call and the church's responsibility to provide the resources that make sending possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -228,7 +268,9 @@
     "is_implicit": true,
     "video_id": "2RltBTO3zYE",
     "start_time": 2764.199951171875,
-    "end_time": 2827.699951171875
+    "end_time": 2827.699951171875,
+    "point_summary": "Isaiah's vision of God \"high, holy, and lifted up\" (Isa. 6:1) is presented as the pattern by which a proper, exalted view of Christ produces immediate, willing obedience—\"here am I, send me.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "2RltBTO3zYE",
     "start_time": 2764.199951171875,
-    "end_time": 2827.699951171875
+    "end_time": 2827.699951171875,
+    "point_summary": "Beholding God as Isaiah did—high, holy, and lifted up—moves the worshiper from undone self-awareness (\"woe is me\") to immediate, willing obedience (\"here am I, send me\"), illustrating that a proper view of Christ produces a life marked by obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -250,7 +294,9 @@
     "is_implicit": true,
     "video_id": "2RltBTO3zYE",
     "start_time": 2764.199951171875,
-    "end_time": 2827.699951171875
+    "end_time": 2827.699951171875,
+    "point_summary": "Isaiah's vision of God as high, holy, and lifted up (Isa. 6:1–8) is cited as the pattern: a true sight of God's majesty moves immediately from \"woe is me\" to \"here am I, send me\"—a life marked by obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1447.979995727539,
-    "end_time": 1517.9199829101562
+    "end_time": 1517.9199829101562,
+    "point_summary": "Isaiah 59:14's indictment—that judgment is turned backward, justice stands afar off, and truth has fallen in the street—is cited as a biblical description of the corrupt state of justice visible in contemporary society.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "35c77xaGibc",
     "start_time": 1447.979995727539,
-    "end_time": 1517.9199829101562
+    "end_time": 1517.9199829101562,
+    "point_summary": "The corruption of justice in society—truth failing, equity absent, and evil going unchecked—displeases the Lord, whose own character is righteous and whose judgments are upright.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "35c77xaGibc",
     "start_time": 1517.9199829101562,
-    "end_time": 1586.3999938964844
+    "end_time": 1586.3999938964844,
+    "point_summary": "God's displeasure at the absence of judgment (Isaiah 59:15) is cited as biblical evidence that corrupt justice is not merely a political problem but an affront to a righteous God who defines right and wrong.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "35c77xaGibc",
     "start_time": 1517.9199829101562,
-    "end_time": 1586.3999938964844
+    "end_time": 1586.3999938964844,
+    "point_summary": "The inversion of moral categories described in Isaiah 5:20 — calling evil good and good evil — is cited as the defining spiritual condition of contemporary society.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -305,7 +359,9 @@
     "is_implicit": true,
     "video_id": "3e1Tf17WpHs",
     "start_time": 357.239990234375,
-    "end_time": 424.7200012207031
+    "end_time": 424.7200012207031,
+    "point_summary": "Isaiah 53 is identified as a chapter rich in Messianic prophecy, cited here as the specific passage the Ethiopian eunuch was reading when Philip's Spirit-directed obedience created the evangelistic encounter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -316,7 +372,9 @@
     "is_implicit": true,
     "video_id": "3e1Tf17WpHs",
     "start_time": 424.7200012207031,
-    "end_time": 491.67999267578125
+    "end_time": 491.67999267578125,
+    "point_summary": "Isaiah 53 is identified as a chapter of powerful Messianic prophecy, which the Ethiopian eunuch was reading but needed Philip's help to understand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "3e1Tf17WpHs",
     "start_time": 694.4600143432617,
-    "end_time": 760.3400115966797
+    "end_time": 760.3400115966797,
+    "point_summary": "Christ's silent submission to slaughter in Isaiah 53:7, quoted by the Ethiopian eunuch, prompted the question of whom the prophet spoke—opening Philip's opportunity to proclaim Jesus as the fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "3e1Tf17WpHs",
     "start_time": 694.4600143432617,
-    "end_time": 760.3400115966797
+    "end_time": 760.3400115966797,
+    "point_summary": "Christ's identity as the suffering servant of Isaiah 53 is the very question the Ethiopian eunuch poses to Philip—whether the prophet speaks of himself or another man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "3e1Tf17WpHs",
     "start_time": 760.3400115966797,
-    "end_time": 839.4600067138672
+    "end_time": 839.4600067138672,
+    "point_summary": "Isaiah 53:7–8, read by the Ethiopian eunuch, raises the interpretive question of whom the prophet speaks, which Philip answers by preaching Jesus as the fulfillment of those messianic prophecies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "3e1Tf17WpHs",
     "start_time": 905.9800109863281,
-    "end_time": 976.260009765625
+    "end_time": 976.260009765625,
+    "point_summary": "Isaiah 7's virgin-birth prophecy is cited as part of the messianic scriptural foundation Philip likely used to demonstrate that Jesus is the promised Messiah, God in flesh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "3e1Tf17WpHs",
     "start_time": 905.9800109863281,
-    "end_time": 976.260009765625
+    "end_time": 976.260009765625,
+    "point_summary": "Isaiah 9 is cited briefly as one of the Messianic prophecies Philip likely used to demonstrate that Jesus is the promised Messiah, God in flesh, born of a virgin; no verse-specific exposition is offered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "4jMDiZ3Rc6E",
     "start_time": 2206.4199829101562,
-    "end_time": 2277.47998046875
+    "end_time": 2277.47998046875,
+    "point_summary": "Human righteousness contributes nothing to salvation, since even our best works are as filthy rags, underscoring why the gospel's simplicity rests entirely on Christ's finished work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "4ytTjjDvj2k",
     "start_time": 1299.4400253295898,
-    "end_time": 1369.0800170898438
+    "end_time": 1369.0800170898438,
+    "point_summary": "Perfect peace belongs to those whose minds are stayed on God — a promise the sermon connects to Christ's own gift of peace that surpasses worldly understanding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "52bJLKAbdng",
     "start_time": 477.1400146484375,
-    "end_time": 542.3599853515625
+    "end_time": 542.3599853515625,
+    "point_summary": "A vision of God as high, holy, and lifted up—as Isaiah received—grounds the believer's submission to God's authority as the one who establishes the rules his people must follow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -415,7 +489,9 @@
     "is_implicit": true,
     "video_id": "52bJLKAbdng",
     "start_time": 2118.5799865722656,
-    "end_time": 2185.519989013672
+    "end_time": 2185.519989013672,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -426,7 +502,9 @@
     "is_implicit": true,
     "video_id": "54WCk41oLBM",
     "start_time": 2867.8399963378906,
-    "end_time": 2921.9199829101562
+    "end_time": 2921.9199829101562,
+    "point_summary": "Isaiah's vision of God \"high and lifted up\" is presented as the model of running into God's presence rather than from it, resulting in willing availability—\"here am I, send me\"—in contrast to Jonah's flight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -437,7 +515,9 @@
     "is_implicit": true,
     "video_id": "54WCk41oLBM",
     "start_time": 2867.8399963378906,
-    "end_time": 2921.9199829101562
+    "end_time": 2921.9199829101562,
+    "point_summary": "Encountering God's holiness drives Isaiah to confess his unworthiness, but that same encounter restores him so that he willingly volunteers for God's mission rather than fleeing it like Jonah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "54WCk41oLBM",
     "start_time": 2867.8399963378906,
-    "end_time": 2921.9199829101562
+    "end_time": 2921.9199829101562,
+    "point_summary": "Isaiah's willing response — \"Here am I, send me\" — is presented as the model of a believer running toward God's presence and making himself fully available to God's call, in contrast to Jonah's flight from it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -459,7 +541,9 @@
     "is_implicit": true,
     "video_id": "59eHWxG90YI",
     "start_time": 823.239990234375,
-    "end_time": 891.7999877929688
+    "end_time": 891.7999877929688,
+    "point_summary": "Perfect peace is promised to the one whose mind is stayed on God, connecting the name Jehovah Shalom to the sustaining peace God offers amid trials and troubles.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -470,7 +554,9 @@
     "is_implicit": true,
     "video_id": "59eHWxG90YI",
     "start_time": 960.0399780273438,
-    "end_time": 1024.8799743652344
+    "end_time": 1024.8799743652344,
+    "point_summary": "God's peace, rooted in his name Jehovah Shalom, is not the absence of trouble but his presence within it, confirmed in Isaiah 9:6 by the Messiah's title Prince of Peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 1090.9599914550781,
-    "end_time": 1159.0799560546875
+    "end_time": 1159.0799560546875,
+    "point_summary": "El Olam, the Everlasting God, neither faints nor grows weary, and from that inexhaustible eternal strength he gives power to the faint and increases the might of the weak.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 1159.0799560546875,
-    "end_time": 1229.1000080108643
+    "end_time": 1229.1000080108643,
+    "point_summary": "God's everlasting, unwearying nature—as Creator who neither faints nor grows weary—grounds both his promises to his people and the enduring relevance of his Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "59eHWxG90YI",
     "start_time": 1159.0799560546875,
-    "end_time": 1229.1000080108643
+    "end_time": 1229.1000080108643,
+    "point_summary": "God's inexhaustible strength and unwearied nature, paired with His gift of power to the faint, ground the reliability of His promises in His eternal, self-existent character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1303.040023803711,
-    "end_time": 1374.4000244140625
+    "end_time": 1374.4000244140625,
+    "point_summary": "Isaiah 54 is cited as a cross-reference that connects back to Noah and the Noahic covenant, illustrating how that covenant's significance echoes throughout Scripture beyond Genesis 9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1374.4000244140625,
-    "end_time": 1434.2000274658203
+    "end_time": 1434.2000274658203,
+    "point_summary": "Isaiah 54:9 is cited as cross-canonical confirmation that the Noahic covenant's promise against another flood is real history, not myth, since God himself swears by it as the basis for his oath of enduring mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1434.2000274658203,
-    "end_time": 1497.0400085449219
+    "end_time": 1497.0400085449219,
+    "point_summary": "Isaiah 54:9 is cited as cross-canonical confirmation that the Noahic covenant's promise against a second global flood is not isolated to Genesis but echoed throughout Scripture, validating the historical reality of that covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "6MLW_MPF-wo",
     "start_time": 0.0,
-    "end_time": 65.95999908447266
+    "end_time": 65.95999908447266,
+    "point_summary": "The Ethiopian eunuch's reading of Isaiah 53 becomes the occasion for examining his humility, shown in his honest admission that he cannot understand the passage without a guide.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "6MLW_MPF-wo",
     "start_time": 571.0800170898438,
-    "end_time": 644.6599731445312
+    "end_time": 644.6599731445312,
+    "point_summary": "The Ethiopian eunuch's genuine confusion about Isaiah 53—whether the prophet spoke of himself or another—becomes the open door through which Philip preaches Jesus, demonstrating that humble desire to understand Scripture leads to saving instruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "7rseeVx8SA0",
     "start_time": 2476.7199783325195,
-    "end_time": 2536.6399688720703
+    "end_time": 2536.6399688720703,
+    "point_summary": "Waiting actively on the Lord—continuing to serve while trusting His word—renews strength, as those who wait on Him shall run and not be weary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -580,7 +684,9 @@
     "is_implicit": true,
     "video_id": "7rseeVx8SA0",
     "start_time": 2536.6399688720703,
-    "end_time": 2608.179977416992
+    "end_time": 2608.179977416992,
+    "point_summary": "Waiting on the Lord renews strength, illustrated by the preacher's own seven-month season of continued faithful service while anticipating God's timing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 1436.6799774169922,
-    "end_time": 1510.3599853515625
+    "end_time": 1510.3599853515625,
+    "point_summary": "The sovereign reign of God—\"thy God reigneth\"—is set against the chaos of a world where evil seems to prevail, anchoring the believer's race in the assurance that God alone holds his throne.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -602,7 +710,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2939.47998046875,
-    "end_time": 3025.2799911499023
+    "end_time": 3025.2799911499023,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "8klBXE7J4Mg",
     "start_time": 1482.6399841308594,
-    "end_time": 1547.6600036621094
+    "end_time": 1547.6600036621094,
+    "point_summary": "Isaiah's willingness to volunteer in 6:8 is rooted not in knowing the assignment but in seeing God as high, holy, and lifted up—a vision that produced unconditional availability before the details were given.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -624,7 +736,9 @@
     "is_implicit": true,
     "video_id": "8OgJllM8BSQ",
     "start_time": 1065.8000183105469,
-    "end_time": 1135.0999755859375
+    "end_time": 1135.0999755859375,
+    "point_summary": "Seeing God \"high, holy, and lifted up\" as Isaiah did—understanding him as creator and sustainer alone—is presented as the foundational discipline for maintaining the humility God requires.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -635,7 +749,9 @@
     "is_implicit": true,
     "video_id": "987NUYE7IME",
     "start_time": 1346.1800079345703,
-    "end_time": 1427.5400085449219
+    "end_time": 1427.5400085449219,
+    "point_summary": "Solomon's humility before the greatness of God (\"who am I?\") is paralleled with Isaiah's own undone response to divine holiness, illustrating that awareness of God's majesty precedes willing service.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "987NUYE7IME",
     "start_time": 1427.5400085449219,
-    "end_time": 1488.6199951171875
+    "end_time": 1488.6199951171875,
+    "point_summary": "Confronted by God's holiness, Isaiah's cry \"I am a man of unclean lips\" illustrates the humility and unworthiness that should mark anyone called to serve God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -657,7 +775,9 @@
     "is_implicit": true,
     "video_id": "987NUYE7IME",
     "start_time": 1427.5400085449219,
-    "end_time": 1488.6199951171875
+    "end_time": 1488.6199951171875,
+    "point_summary": "Humility before God's holiness, illustrated by Isaiah's \"here am I\" response, frames why God's servants should answer his call with reverence rather than self-assertion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 761.1199798583984,
-    "end_time": 827.5199737548828
+    "end_time": 827.5199737548828,
+    "point_summary": "In Isaiah 6:8, the plural \"us\" spoken by the Lord — \"who will go for us?\" — is cited as a third Old Testament instance of Trinitarian plurality embedded in a key redemptive moment, the call of Isaiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 827.5199737548828,
-    "end_time": 891.4399719238281
+    "end_time": 891.4399719238281,
+    "point_summary": "In Isaiah 6:8, the plural \"us\" in God's question \"who will go for us?\" is presented as one of three Old Testament instances where God's own speech reveals the plurality of persons within the Godhead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Isaiah 1:4's depiction of a \"whole heart faint\" is read as the defining mark of backsliding—half-heartedness toward God rather than wholehearted devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 2071.5599670410156,
-    "end_time": 2127.1399841308594
+    "end_time": 2127.1399841308594,
+    "point_summary": "Isaiah 1:5's image of a sick head and faint heart is applied as the defining mark of backsliding — half-heartedness toward God rather than wholehearted devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "aJhY6zXGiNE",
     "start_time": 189.52000427246094,
-    "end_time": 257.5199890136719
+    "end_time": 257.5199890136719,
+    "point_summary": "Isaiah 6's vision of God in His holiness is cited as a scriptural pattern showing that a true encounter with God's holiness produces an immediate, reverent posture of worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1450.0600128173828,
-    "end_time": 1524.260009765625
+    "end_time": 1524.260009765625,
+    "point_summary": "God's indictment of Israel in Isaiah 1:2 exposes the scandal that even dumb animals recognize their master, yet God's own nourished and raised children rebelled against and failed to know Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1600.1400146484375,
-    "end_time": 1668.260009765625
+    "end_time": 1668.260009765625,
+    "point_summary": "Even amid a severe indictment of sin, God's invitation to reason together holds out full cleansing—scarlet sins made white as snow—conditioned on willingness and obedience, with the alternative being destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1600.1400146484375,
-    "end_time": 1668.260009765625
+    "end_time": 1668.260009765625,
+    "point_summary": "Willingness and obedience to God, set against refusal and rebellion, determines whether the believer experiences the blessing or the judgment God has spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1600.1400146484375,
-    "end_time": 1668.260009765625
+    "end_time": 1668.260009765625,
+    "point_summary": "Willful refusal and rebellion against God, contrasted with willing obedience, brings divine judgment — here voiced as being devoured by the sword — because the mouth of the Lord has spoken it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1600.1400146484375,
-    "end_time": 1668.260009765625
+    "end_time": 1668.260009765625,
+    "point_summary": "Isaiah 53 is cited as the passage confirming that Christ the Messiah would suffer, bearing our iniquities, and thereby accomplish eternal redemption for believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "anszYnbs5Fs",
     "start_time": 3280.4000244140625,
-    "end_time": 3346.0800170898438
+    "end_time": 3346.0800170898438,
+    "point_summary": "Human righteousness, apart from Christ's imputed righteousness, amounts to nothing but filthy rags, as Isaiah 64:6 declares.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "Ap8WkGwQMm4",
     "start_time": 1679.4600219726562,
-    "end_time": 1740.4200439453125
+    "end_time": 1740.4200439453125,
+    "point_summary": "The title \"Prince of Peace\" from Isaiah 9:6 is connected to the angelic announcement of peace in Luke 2, grounding the shepherds' proclamation that the Messiah had been born in Old Testament prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "Ap8WkGwQMm4",
     "start_time": 1806.24001455307,
-    "end_time": 1869.500015258789
+    "end_time": 1869.500015258789,
+    "point_summary": "Isaiah 7's prophecy of Emmanuel—\"God with us\"—is cited as the scriptural foundation for the incarnation, identifying Jesus Christ as God in the flesh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 2755.5599975585938,
-    "end_time": 2836.760009765625
+    "end_time": 2836.760009765625,
+    "point_summary": "Revival begins with seeing God in His rightful place of holiness, as Isaiah's vision in chapter 6 produced not comparison with others but immediate personal confession of sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "B2bISRh1PFo",
     "start_time": 452.3800048828125,
-    "end_time": 526.780029296875
+    "end_time": 526.780029296875,
+    "point_summary": "God's holiness, displayed in Isaiah's vision of the Lord \"high and lifted up,\" is presented as the scriptural foundation for the call to personal holiness echoed in 1 Peter 1 and Leviticus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "B2bISRh1PFo",
     "start_time": 452.3800048828125,
-    "end_time": 526.780029296875
+    "end_time": 526.780029296875,
+    "point_summary": "The thrice-repeated cry of the seraphim in Isaiah 6 is presented as Scripture's preeminent display of God's holiness, grounding the call to personal holiness in 1 Peter 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "bADTYZtvU4s",
     "start_time": 1388.6599884033203,
-    "end_time": 1466.2999877929688
+    "end_time": 1466.2999877929688,
+    "point_summary": "Isaiah 6:8's posture of willing availability — \"here am I, send me\" — is held up as the disposition every believer should have toward missions, even if God does not call all globally.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "BCxBtTx1Rfs",
     "start_time": 1615.8399963378906,
-    "end_time": 1697.2799987792969
+    "end_time": 1697.2799987792969,
+    "point_summary": "Sin's crimson stain being washed white as snow illustrates that Christ's once-for-all sacrifice fully cancels a debt sinners could never pay themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -866,7 +1022,9 @@
     "is_implicit": true,
     "video_id": "BrRJsjtlhBg",
     "start_time": 301.7799987792969,
-    "end_time": 369.9800109863281
+    "end_time": 369.9800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 809.1999969482422,
-    "end_time": 873.2799987792969
+    "end_time": 873.2799987792969,
+    "point_summary": "God's personal name, rendered LORD in all capitals in English Bibles, translates the Hebrew Yahweh or Jehovah, distinguishing it from the title \"Lord\" and marking His self-existent nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "cM6ex7jcF4E",
     "start_time": 873.2799987792969,
-    "end_time": 941.1199951171875
+    "end_time": 941.1199951171875,
+    "point_summary": "In Isaiah 42:8, the all-caps rendering of LORD signals the divine name Yahweh/Jehovah, which God declares exclusively his own, refusing to share his glory or praise with any other.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "cndo5VpvDZo",
     "start_time": 1387.760009765625,
-    "end_time": 1464.9200134277344
+    "end_time": 1464.9200134277344,
+    "point_summary": "Christ's ultimate victory over death—prophesied in Isaiah 25:8 and later cited by Paul in 1 Corinthians 15—is presented as proof that He is unconquerable, having triumphed over sin, death, and the grave.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "cndo5VpvDZo",
     "start_time": 1464.9200134277344,
-    "end_time": 1536.0400085449219
+    "end_time": 1536.0400085449219,
+    "point_summary": "Isaiah 25:8's prophecy that God \"will swallow up death in victory\" is presented as fulfilled in Christ's resurrection, with Paul's citation in 1 Corinthians 15 confirming that God's spoken word is always accomplished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 336.1400146484375,
-    "end_time": 408.2200012207031
+    "end_time": 408.2200012207031,
+    "point_summary": "God's ways and thoughts infinitely transcend human understanding, invoked here to establish that the doctrine of the Trinity must be received by faith rather than confined to human comprehension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 408.2200012207031,
-    "end_time": 480.6600036621094
+    "end_time": 480.6600036621094,
+    "point_summary": "God's ways and thoughts infinitely transcend human understanding, yet this very transcendence makes His self-revelation in Scripture and His desire for relationship with humanity all the more remarkable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 1120.6799926757812,
-    "end_time": 1183.719970703125
+    "end_time": 1183.719970703125,
+    "point_summary": "Isaiah's vision of the enthroned Lord—holy, high, and lifted up—is introduced as a third Trinitarian illustration, with the seraphim's threefold \"holy\" pointing toward the triune nature of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 1183.719970703125,
-    "end_time": 1248.059959411621
+    "end_time": 1248.059959411621,
+    "point_summary": "The seraphim's threefold cry of \"holy, holy, holy\" in Isaiah 6:2–3 is cited as evidence of God's absolute, unchanging holiness—and the plural \"us\" in verse 8 is introduced as a Trinitarian indicator.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 1183.719970703125,
-    "end_time": 1248.059959411621
+    "end_time": 1248.059959411621,
+    "point_summary": "The seraphim's threefold cry of \"holy, holy, holy\" in Isaiah 6:3 is read as a declaration of God's eternal, unchanging holiness—a holiness that simultaneously calls His people to reflect that same character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 1328.8399658203125,
-    "end_time": 1393.479965209961
+    "end_time": 1393.479965209961,
+    "point_summary": "The plural divine voice in Isaiah 6:8 — \"Who will go for us?\" — is presented as Old Testament evidence of the Trinity, alongside Isaiah's response as a model of availability over ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "DHlr6H0yH5I",
     "start_time": 1605.239990234375,
-    "end_time": 1676.6000061035156
+    "end_time": 1676.6000061035156,
+    "point_summary": "Perfect peace is the fruit of a mind stayed on God, as Isaiah 26:3 is linked here to the broader New Testament theme of peace filling and ruling the believer's heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -998,7 +1178,9 @@
     "is_implicit": true,
     "video_id": "DoWaLkMdeTk",
     "start_time": 1138.5599975585938,
-    "end_time": 1204.4199705123901
+    "end_time": 1204.4199705123901,
+    "point_summary": "Human works cannot earn salvation, as Isaiah's \"filthy rags\" declaration confirms that all people are sinners who fall short and cannot work their way to heaven.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "E-g-Sq7N4Bg",
     "start_time": 2748.43994140625,
-    "end_time": 2812.3599243164062
+    "end_time": 2812.3599243164062,
+    "point_summary": "The book of Revelation, like Isaiah's vision of God high, holy, and lifted up, is meant primarily to grant a transforming sight of God on his throne, not merely a prophetic timeline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1020,7 +1204,9 @@
     "is_implicit": true,
     "video_id": "e8EcrF1qCYY",
     "start_time": 1096.8400268554688,
-    "end_time": 1168.5599975585938
+    "end_time": 1168.5599975585938,
+    "point_summary": "Isaiah 53 is introduced as the prophetic foundation Peter draws on in 1 Peter 2, identifying it as the chapter that foretold the suffering Savior Jesus was fulfilling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "e8EcrF1qCYY",
     "start_time": 1168.5599975585938,
-    "end_time": 1237.5200309753418
+    "end_time": 1237.5200309753418,
+    "point_summary": "Isaiah 53:4–6 is read as the prophetic foundation Peter understood Jesus to be fulfilling through His sufferings, confirming that Christ's atoning work was the divinely prescribed, pre-ordained means of redeeming mankind from sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "e8EcrF1qCYY",
     "start_time": 1168.5599975585938,
-    "end_time": 1237.5200309753418
+    "end_time": 1237.5200309753418,
+    "point_summary": "Christ's suffering on the cross is presented as the singular, divinely ordained payment for sin, with Isaiah 53 identified as the prophetic foundation Peter himself understood Jesus to be fulfilling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "e8EcrF1qCYY",
     "start_time": 1168.5599975585938,
-    "end_time": 1237.5200309753418
+    "end_time": 1237.5200309753418,
+    "point_summary": "Christ's bearing of universal human iniquity, as declared in Isaiah 53:6, is presented as the prophetic foundation Peter understood to be fulfilled through Jesus's sufferings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1064,7 +1256,9 @@
     "is_implicit": true,
     "video_id": "e8EcrF1qCYY",
     "start_time": 1983.4200134277344,
-    "end_time": 2058.1000061035156
+    "end_time": 2058.1000061035156,
+    "point_summary": "Human righteousness, apart from Christ, amounts to nothing—Isaiah's \"filthy rags\" image underscoring why imputed righteousness through Christ alone is the only basis on which a sinner can be declared righteous before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 487.05999755859375,
-    "end_time": 559.5800170898438
+    "end_time": 559.5800170898438,
+    "point_summary": "God's promise in Isaiah 55:11 that His Word will not return void assures preachers and believers that Scripture will accomplish its intended purpose, even when results are not immediately visible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2081.239959716797,
-    "end_time": 2139.719940185547
+    "end_time": 2139.719940185547,
+    "point_summary": "God's rejection of Israel's abundant sacrifices, offerings, and prayers illustrates that religious activity performed without a heart of love becomes vain and abominable before Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2139.719940185547,
-    "end_time": 2198.5599365234375
+    "end_time": 2198.5599365234375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2139.719940185547,
-    "end_time": 2198.5599365234375
+    "end_time": 2198.5599365234375,
+    "point_summary": "God's rejection of Israel's outward religious observances in Isaiah 1 illustrates that ritual without a surrendered heart is vain, because what was missing was not the offering but the heart behind it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2139.719940185547,
-    "end_time": 2198.5599365234375
+    "end_time": 2198.5599365234375,
+    "point_summary": "Outward religious observance without genuine heart devotion—lips honoring God while the heart remains far from Him—is the very condition Isaiah 29:13 diagnoses and the Gospels later cite.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 2198.5599365234375,
-    "end_time": 2261.6199340820312
+    "end_time": 2261.6199340820312,
+    "point_summary": "Outward religious observance without genuine heart-devotion is condemned by God, who sees lips that honor him while the heart remains far removed from him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 237.0800018310547,
-    "end_time": 296.05999755859375
+    "end_time": 296.05999755859375,
+    "point_summary": "Isaiah 6:1's vision of the enthroned, thrice-holy Lord is cited as scriptural evidence that holiness is God's most prominent attribute, meaning He is perfectly pure and complete in moral character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 237.0800018310547,
-    "end_time": 296.05999755859375
+    "end_time": 296.05999755859375,
+    "point_summary": "The posture of the seraphim in Isaiah 6:2—covering their faces and feet before God—illustrates that holiness is God's most prominent attribute, meaning perfect purity and complete moral character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 237.0800018310547,
-    "end_time": 296.05999755859375
+    "end_time": 296.05999755859375,
+    "point_summary": "God's holiness, declared by the seraphim in the triple repetition of \"Holy, holy, holy,\" is identified as His most prominent biblical attribute, meaning perfect purity and completeness in moral character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 237.0800018310547,
-    "end_time": 296.05999755859375
+    "end_time": 296.05999755859375,
+    "point_summary": "God's holiness, demonstrated by the seraphim's cry and the shaking of the temple's posts in Isaiah 6, is presented as His most prominent attribute, meaning perfect purity and complete moral character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 237.0800018310547,
-    "end_time": 296.05999755859375
+    "end_time": 296.05999755859375,
+    "point_summary": "God's holiness, described in Isaiah 57:15 as the defining name of the One who inhabits eternity, is identified as His most prominent biblical attribute, meaning perfect purity and completeness in moral character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 191.39999389648438,
-    "end_time": 268.8800048828125
+    "end_time": 268.8800048828125,
+    "point_summary": "Isaiah 37's account of Hezekiah is introduced as a case study in how belief in God's greatness as Creator directly shapes personal and corporate behavior in times of need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 332.3599853515625,
-    "end_time": 399.32000732421875
+    "end_time": 399.32000732421875,
+    "point_summary": "Hezekiah's receipt of the threatening letter from Assyria introduces the sermon's first point: that Scripture records seasons of great adversity faced even by those who trust God as their helper.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Isaiah 36:1 establishes the historical setting and the severity of the adversity Hezekiah faced, with Sennacherib's conquest of Judah's fortified cities providing the backdrop for Hezekiah's need to turn to God as his helper.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 399.32000732421875,
-    "end_time": 464.05999755859375
+    "end_time": 464.05999755859375,
+    "point_summary": "Rabshakeh's taunt that Egypt is a broken reed that pierces the hand illustrates the futility of trusting worldly powers, contrasting the false confidence Sennacherib perceived in Hezekiah with the genuine trust Hezekiah actually placed in God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 525.1599731445312,
-    "end_time": 584.4600219726562
+    "end_time": 584.4600219726562,
+    "point_summary": "Hezekiah's immediate response to Rabshakeh's threatening words—tearing his clothes, putting on sackcloth, and going to the house of the Lord—models turning to God in crisis rather than to human alliances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 525.1599731445312,
-    "end_time": 584.4600219726562
+    "end_time": 584.4600219726562,
+    "point_summary": "God's word through Isaiah to Hezekiah—\"be not afraid\"—is presented as a direct divine promise countering the Assyrian blasphemy, delivered through the prophet as God's messenger to the king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 643.5199737548828,
-    "end_time": 711.2399749755859
+    "end_time": 711.2399749755859,
+    "point_summary": "Sennacherib's taunt letter, by warning Hezekiah not to let his God deceive him, unwittingly confirmed that even Israel's enemies recognized Hezekiah's trust in the Lord—while God, who cannot lie, would never deceive those who trust Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 643.5199737548828,
-    "end_time": 711.2399749755859
+    "end_time": 711.2399749755859,
+    "point_summary": "Hezekiah's receipt of the threatening letter from Sennacherib's messengers sets the stage for understanding the adversity he faced before bringing it before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2217.199951171875,
-    "end_time": 2284.5599670410156
+    "end_time": 2284.5599670410156,
+    "point_summary": "God's direct promise that the Assyrian king would not enter Jerusalem demonstrates that Hezekiah's prayer was answered by divine decree, confirming the Creator God as his helper.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2424.6399631500244,
-    "end_time": 2512.359962463379
+    "end_time": 2512.359962463379,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "F4JChKWGeUg",
     "start_time": 2424.6399631500244,
-    "end_time": 2512.359962463379
+    "end_time": 2512.359962463379,
+    "point_summary": "God's promise to defend Jerusalem in Isaiah 37:33–35 finds immediate, dramatic fulfillment in verse 36, where the angel of the Lord slays 185,000 Assyrians overnight.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1361,7 +1607,9 @@
     "is_implicit": true,
     "video_id": "G50UWUcArHE",
     "start_time": 1653.5400085449219,
-    "end_time": 1715.9800415039062
+    "end_time": 1715.9800415039062,
+    "point_summary": "Human works toward salvation are worthless before God—as Isaiah 64:6 declares, all our righteousness is as filthy rags—leaving Christ's atoning work as the only sufficient basis for reconciliation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 252.75999450683594,
-    "end_time": 317.0400085449219
+    "end_time": 317.0400085449219,
+    "point_summary": "Israel's persistent practice of evil, documented across Judges and the prophets, is what makes Isaiah's command \"cease to do evil\" necessary — God would not issue it to a people already obeying.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 317.0799865722656,
-    "end_time": 388.32000732421875
+    "end_time": 388.32000732421875,
+    "point_summary": "Blessed is the man who keeps his hand from doing any evil — cited as one of many Old Testament commands establishing that God's people are to do no evil whatsoever.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1394,7 +1646,9 @@
     "is_implicit": true,
     "video_id": "gAWTJ24fm_g",
     "start_time": 1549.300048828125,
-    "end_time": 1610.6600341796875
+    "end_time": 1610.6600341796875,
+    "point_summary": "Human works are excluded from salvation because, as Isaiah declared, even our best righteousness amounts to filthy rags before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1405,7 +1659,9 @@
     "is_implicit": true,
     "video_id": "GY5NSQuQTLw",
     "start_time": 1656.4800415039062,
-    "end_time": 1725.52001953125
+    "end_time": 1725.52001953125,
+    "point_summary": "Human righteousness, compared not to neighbors but to Christ, is exposed as filthy rags, establishing why salvation must come by grace rather than personal merit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "GY5NSQuQTLw",
     "start_time": 2448.1400032043457,
-    "end_time": 2532.8200073242188
+    "end_time": 2532.8200073242188,
+    "point_summary": "Isaiah 6:8 is invoked as the model of wholehearted commitment to service, urging believers to respond to God's call with the same willing availability Isaiah expressed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 937.5800170898438,
-    "end_time": 999.9600219726562
+    "end_time": 999.9600219726562,
+    "point_summary": "God's word accomplishes what He purposes, grounding the sermon's broader claim that His unconditional promises to Jacob—and to believers—will not fail.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "HNDLdpkeeFU",
     "start_time": 1129.2000122070312,
-    "end_time": 1199.6800537109375
+    "end_time": 1199.6800537109375,
+    "point_summary": "A proper, exalted view of God—as Isaiah saw Him, high and lifted up, His train filling the temple in holiness—produces greater faith and deeper dependence upon Him in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 0.0,
-    "end_time": 63.439998626708984
+    "end_time": 63.439998626708984,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 63.439998626708984,
-    "end_time": 125.19999694824219
+    "end_time": 125.19999694824219,
+    "point_summary": "Perfect peace is promised to the one whose mind is stayed on God and who trusts in Him, with the Lord Jehovah Himself being the source of everlasting strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 63.439998626708984,
-    "end_time": 125.19999694824219
+    "end_time": 125.19999694824219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 2407.4800415039062,
-    "end_time": 2498.4800415039062
+    "end_time": 2498.4800415039062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "I5J2NuNIO5w",
     "start_time": 1712.820068359375,
-    "end_time": 1776.5000610351562
+    "end_time": 1776.5000610351562,
+    "point_summary": "The Uzziah narrative behind Isaiah 6:1 is invoked to illustrate that in the Old Testament order, kingship and priesthood were strictly separated—a king who crossed that boundary faced divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "I5J2NuNIO5w",
     "start_time": 2286.6600646972656,
-    "end_time": 2360.5400390625
+    "end_time": 2360.5400390625,
+    "point_summary": "God's holiness, proclaimed by the seraphim in Isaiah 6:1's temple vision, is cited as the defining attribute undergirding Christ's fitness as high priest in Hebrews 7:26.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1515,7 +1789,9 @@
     "is_implicit": true,
     "video_id": "I5J2NuNIO5w",
     "start_time": 2286.6600646972656,
-    "end_time": 2360.5400390625
+    "end_time": 2360.5400390625,
+    "point_summary": "God's holiness, proclaimed by the seraphim in Isaiah 6:3, is invoked here to ground the character of the high priest described in Hebrews 7:26 as \"holy.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1526,7 +1802,9 @@
     "is_implicit": true,
     "video_id": "IEGhT2j43Rg",
     "start_time": 678.2400207519531,
-    "end_time": 735.6000213623047
+    "end_time": 735.6000213623047,
+    "point_summary": "Human righteousness, described in Isaiah 64:6 as filthy rags, is contrasted with salvation by grace through faith to establish that transformation is God's work, not self-reformation or moral effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1537,7 +1815,9 @@
     "is_implicit": true,
     "video_id": "iOuNydlRGNs",
     "start_time": 1602.2400207519531,
-    "end_time": 1660.9000244140625
+    "end_time": 1660.9000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "I_KR75PznSU",
     "start_time": 3031.020009994507,
-    "end_time": 3104.460006713867
+    "end_time": 3104.460006713867,
+    "point_summary": "The Ethiopian eunuch's inability to understand Isaiah 53 without Philip's guidance illustrates that spiritual comprehension requires a human teacher to open the Scriptures and preach Jesus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2048.519989013672,
-    "end_time": 2121.8599853515625
+    "end_time": 2121.8599853515625,
+    "point_summary": "God's offer in Isaiah 1:18 — that scarlet, crimson sins can become white as snow — is presented as the gospel invitation: \"Come, let us reason together,\" with willing obedience bringing blessing and rebellion bringing judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2048.519989013672,
-    "end_time": 2121.8599853515625
+    "end_time": 2121.8599853515625,
+    "point_summary": "Willing obedience to God's call brings blessing, while refusal and rebellion bring judgment — a conditional promise the sermon applies to the nation's response to the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2048.519989013672,
-    "end_time": 2121.8599853515625
+    "end_time": 2121.8599853515625,
+    "point_summary": "Refusal to receive the gospel carries divine consequence, as Isaiah 1:20 warns that those who \"refuse and rebel\" face judgment — the sword — contrasted with the blessing promised to the willing and obedient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "jiYib4rm3vs",
     "start_time": 2121.8599853515625,
-    "end_time": 2189.8999938964844
+    "end_time": 2189.8999938964844,
+    "point_summary": "God's invitation in Isaiah 1:18—\"though your sins be as scarlet, they shall be as white as snow\"—is presented as the gospel call to sinners, a transaction of forgiveness requiring recognition of guilt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2121.8599853515625,
-    "end_time": 2189.8999938964844
+    "end_time": 2189.8999938964844,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2189.8999938964844,
-    "end_time": 2276.199981689453
+    "end_time": 2276.199981689453,
+    "point_summary": "God's hand is not too short to save, affirming that the gospel's power to rescue sinners remains fully intact despite humanity's iniquities that separate them from Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 2189.8999938964844,
-    "end_time": 2276.199981689453
+    "end_time": 2276.199981689453,
+    "point_summary": "Sin's separating effect — iniquity creating a breach between humanity and God — establishes why the gospel's saving power is necessary and why sinners must recognize their guilt before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "jqx67c84gmA",
     "start_time": 789.6999969482422,
-    "end_time": 854.3000030517578
+    "end_time": 854.3000030517578,
+    "point_summary": "A sight of God's glory—as Isaiah experienced when he saw God high, holy, and lifted up—produces the brokenness and humility that genuine self-examination requires.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1647,7 +1945,9 @@
     "is_implicit": true,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1580.8199768066406,
-    "end_time": 1639.7599792480469
+    "end_time": 1639.7599792480469,
+    "point_summary": "Isaiah's role as prophet in Hezekiah's crisis illustrates that God's unchanging character—demonstrated when He supernaturally defeated Assyria without Israel raising a sword—grounds confident, trusting prayer today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "KNJW7jy8zDg",
     "start_time": 829.1600036621094,
-    "end_time": 894.3200073242188
+    "end_time": 894.3200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1669,7 +1971,9 @@
     "is_implicit": true,
     "video_id": "KNJW7jy8zDg",
     "start_time": 1456.47998046875,
-    "end_time": 1519.47998046875
+    "end_time": 1519.47998046875,
+    "point_summary": "Paul's quotation of Isaiah 6 in Acts 28 identifies Israel's dull hearing and closed eyes as the fulfillment of the commission God gave Isaiah in the year King Uzziah died.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "KNJW7jy8zDg",
     "start_time": 1519.47998046875,
-    "end_time": 1578.7799682617188
+    "end_time": 1578.7799682617188,
+    "point_summary": "Paul's citation of Isaiah 6:9 in Acts 28 is used to show that willful spiritual dullness—closed eyes, gross hearts, dull ears—applies both to lost people rejecting the gospel and to immature believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "KnZFjfOQSr4",
     "start_time": 430.32000732421875,
-    "end_time": 497.0400085449219
+    "end_time": 497.0400085449219,
+    "point_summary": "The triple \"holy\" of Isaiah 6:3 is cited as scriptural witness that God's holiness is an eternal, unchanging attribute—he is holy, not becoming holy—which the church continually needs to be reminded of.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "ld2OYHMMVWc",
     "start_time": 2362.219970703125,
-    "end_time": 2435.3400077819824
+    "end_time": 2435.3400077819824,
+    "point_summary": "Isaiah 6's vision of the heavenly throne is invoked as a measuring rod for the staggering height of the believer's position in Christ—seated in heavenly places at the very altitude of that holy, exalted scene.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1713,7 +2023,9 @@
     "is_implicit": true,
     "video_id": "ldE7ASGe8fY",
     "start_time": 705.8799819946289,
-    "end_time": 780.8399810791016
+    "end_time": 780.8399810791016,
+    "point_summary": "Isaiah 6 is invoked to illustrate that even when earthly kings die and kingdoms falter, God remains visibly enthroned and sovereign—a truth Isaiah himself witnessed in his foundational vision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 780.8399810791016,
-    "end_time": 839.9999847412109
+    "end_time": 839.9999847412109,
+    "point_summary": "Isaiah's vision of the Lord enthroned \"high and lifted up\" after Uzziah's death is cited as evidence that God remains sovereignly seated on His throne across all generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 780.8399810791016,
-    "end_time": 839.9999847412109
+    "end_time": 839.9999847412109,
+    "point_summary": "The seraphim's posture in Isaiah 6:2 is noted within a broader vision establishing that God occupies His throne eternally, unchanged from Isaiah's day to the present.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 780.8399810791016,
-    "end_time": 839.9999847412109
+    "end_time": 839.9999847412109,
+    "point_summary": "Isaiah's vision of the seraphim crying \"Holy, holy, holy\" is cited as evidence that God occupies His throne eternally — unchanged from Isaiah's day to the present.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1757,7 +2075,9 @@
     "is_implicit": true,
     "video_id": "M0Dw4IAWMLg",
     "start_time": 797.4399719238281,
-    "end_time": 863.8399658203125
+    "end_time": 863.8399658203125,
+    "point_summary": "Human good works are dismissed as \"filthy rags\" per Isaiah 64:6, establishing that no human effort constitutes acceptable payment for sin—only Christ's blood qualifies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "mKA6rLg2GRE",
     "start_time": 667.8999786376953,
-    "end_time": 732.1799774169922
+    "end_time": 732.1799774169922,
+    "point_summary": "God's ways and thoughts transcend human understanding, grounding Joseph's confidence not in himself but in a sovereign God whose plans surpass any individual's comprehension.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 1119.9599609375,
-    "end_time": 1190.5999755859375
+    "end_time": 1190.5999755859375,
+    "point_summary": "Even amid severe judgment against Thyatira's unrepentant followers, God's repeated call to repent echoes His longsuffering plea throughout the prophets—illustrated by Isaiah's invitation to reason together and receive cleansing from scarlet sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1790,7 +2114,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 2746.5999755859375,
-    "end_time": 2817.5999755859375
+    "end_time": 2817.5999755859375,
+    "point_summary": "God's word accomplishes its promised purpose, grounding the call for believers to faithfully share the gospel as ambassadors entrusted with the ministry of reconciliation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1801,7 +2127,9 @@
     "is_implicit": true,
     "video_id": "najkOZaBPgU",
     "start_time": 630.9200057983398,
-    "end_time": 700.5400085449219
+    "end_time": 700.5400085449219,
+    "point_summary": "Human righteousness, even at its best, amounts to filthy rags before God (Isa. 64:6), establishing that works play no role in salvation or in keeping one saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "nEQdkmuMUk8",
     "start_time": 2146.1000061035156,
-    "end_time": 2211.720001220703
+    "end_time": 2211.720001220703,
+    "point_summary": "Isaiah's depictions of the millennial kingdom are cited as evidence that the human-animal relationship undergoes divinely ordained change across different eras, contrasting the post-flood dynamic with a future restoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "nKp9POTWPKI",
     "start_time": 2152.0399475097656,
-    "end_time": 2225.5199584960938
+    "end_time": 2225.5199584960938,
+    "point_summary": "God's ways and thoughts transcend human comprehension, so where Scripture settles a matter, believers must accept it by faith rather than demand personal understanding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 284.4599914550781,
-    "end_time": 350.70001220703125
+    "end_time": 350.70001220703125,
+    "point_summary": "Isaiah 6 is cited as the preeminent scriptural witness to God's holiness, with the seraphic cry \"holy, holy, holy\" illustrating that holiness is God's most pronounced attribute, from which His righteousness flows as its expression toward mankind.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 487.9800109863281,
-    "end_time": 567.8599853515625
+    "end_time": 567.8599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 567.8599853515625,
-    "end_time": 631.6999740600586
+    "end_time": 631.6999740600586,
+    "point_summary": "Isaiah 5:20's prophetic \"woe\" against inverting moral categories is applied as a timeless principle illustrating how sin brings national reproach, visible in contemporary society's calling evil good and good evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 567.8599853515625,
-    "end_time": 631.6999740600586
+    "end_time": 631.6999740600586,
+    "point_summary": "Self-deception that inverts moral categories — calling evil good and good evil — is presented as a mark of sin's reproach upon any people, applicable beyond Isaiah's immediate context to nations generally.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 511.6600036621094,
-    "end_time": 572.6199951171875
+    "end_time": 572.6199951171875,
+    "point_summary": "The early church's response to threat in Acts 4 is presented as consistent with Hezekiah's response in Isaiah 37, studied the previous week, establishing a pattern of how God's people respond to adversity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "ovhq5P2teKg",
     "start_time": 1723.1400146484375,
-    "end_time": 1790.5
+    "end_time": 1790.5,
+    "point_summary": "Isaiah 53:1 is cited within Romans 10's chain-of-faith argument to underscore that unbelief in the gospel message makes bold proclamation urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1001.5400085449219,
-    "end_time": 1055.1400146484375
+    "end_time": 1055.1400146484375,
+    "point_summary": "Unconfessed sin renders prayer ineffectual, as God declares He will not hear the one whose hands are full of blood — but cleansing and forsaking that sin restores access to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "Unconfessed sin renders prayer ineffectual, as God declares He will not hear those whose hands are full of blood — but He calls the defiled to be cleansed so prayer may be restored.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "Unheard prayer is traced directly to unconfessed sin, with Isaiah 1:16's command to \"wash you, make you clean\" presented as God's prerequisite for effectual prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "Effectual prayer requires moral cleansing first; Isaiah 1:17's call to \"learn to do well\" is part of God's prerequisite for hearing prayer, set against the warning that sin-stained hands render prayer unanswered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "God's offer in Isaiah 1:18—that scarlet sins can become white as snow—is presented as the cleansing prerequisite that removes the barrier to effectual, heard prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "Willingness and obedience, as stated in Isaiah 1:19, are the conditions God sets for His people to receive blessing rather than judgment—the positive counterpart to the warning that unconfessed sin blocks prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1055.1400146484375,
-    "end_time": 1127.9000244140625
+    "end_time": 1127.9000244140625,
+    "point_summary": "Cited as part of Isaiah 1:15–20 to show that God withholds His ear from sinful, unclean worshipers but offers full cleansing as the prerequisite for effectual prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1127.9000244140625,
-    "end_time": 1216.0000228881836
+    "end_time": 1216.0000228881836,
+    "point_summary": "God's offer in Isaiah 1:18 — that scarlet, crimson sin can become white as snow — is presented as forgiveness extended precisely to those whose unclean hands have caused their prayers to go unheard.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1127.9000244140625,
-    "end_time": 1216.0000228881836
+    "end_time": 1216.0000228881836,
+    "point_summary": "God's power to save and willingness to hear are unlimited, but unconfessed sin creates a separation that causes Him to withhold that hearing—making verse 1 a promise that cannot be claimed apart from dealing with iniquity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1127.9000244140625,
-    "end_time": 1216.0000228881836
+    "end_time": 1216.0000228881836,
+    "point_summary": "Sin is the barrier to answered prayer: iniquity separates the sinner from God so that He will not hear, leaving His promise of verse 1 unclaimed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1127.9000244140625,
-    "end_time": 1216.0000228881836
+    "end_time": 1216.0000228881836,
+    "point_summary": "Unconfessed sin — defiled hands, lying lips, iniquity — is what separates the sinner from a God whose hand is not shortened and whose ear is not heavy, leaving His power and willingness to hear prayer effectively blocked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1216.0000228881836,
-    "end_time": 1276.5600204467773
+    "end_time": 1276.5600204467773,
+    "point_summary": "God's unlimited power and willingness to hear are not the obstacle to unanswered prayer; unconfessed sin is what separates the sinner from a God who is fully able to save and hear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1216.0000228881836,
-    "end_time": 1276.5600204467773
+    "end_time": 1276.5600204467773,
+    "point_summary": "Sin-stained hands, lips, and tongue—not any limitation in God's power or hearing—are what prevent prayer from being effectual, making personal cleansing the prerequisite for answered prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2043,7 +2413,9 @@
     "is_implicit": true,
     "video_id": "PE0mOy8YRqw",
     "start_time": 1406.3400268554688,
-    "end_time": 1465.6200256347656
+    "end_time": 1465.6200256347656,
+    "point_summary": "God's invitation in Isaiah 1 — \"come let us reason together\" — is cited as the pattern for confessing sin to God, a willful decision that restores hindered fellowship through divine forgiveness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 1001.2000122070312,
-    "end_time": 1078.8200073242188
+    "end_time": 1078.8200073242188,
+    "point_summary": "The dual phrasing \"a child is born / a Son is given\" in Isaiah 9:6 is read as distinguishing Christ's human birth from His divine, pre-existent Sonship—directly paralleling Galatians 4:4's declaration that God \"sent forth His Son.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 1156.6799926757812,
-    "end_time": 1227.1399784088135
+    "end_time": 1227.1399784088135,
+    "point_summary": "Isaiah 7:14's identification of the sign as a *virgin* conceiving—not merely a young woman—is pressed as essential to the miracle, with any softening of that word treated as a corruption of the promised sign itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2076,7 +2452,9 @@
     "is_implicit": true,
     "video_id": "Pekao7m8BpQ",
     "start_time": 1227.1399784088135,
-    "end_time": 1302.3199768066406
+    "end_time": 1302.3199768066406,
+    "point_summary": "The sign God promised in Isaiah 7:14 is specifically a virgin conceiving, not merely a young woman, making the precise translation of that word essential to the miracle of Christ's birth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "Pekao7m8BpQ",
     "start_time": 1367.1799774169922,
-    "end_time": 1436.499984741211
+    "end_time": 1436.499984741211,
+    "point_summary": "Isaiah 7:14's sign of a virgin bearing a son is presented as fulfilled in Mary's question to the angel, confirming her chastity as the very condition the prophecy required.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 1853.7400131225586,
-    "end_time": 1914.0200119018555
+    "end_time": 1914.0200119018555,
+    "point_summary": "Isaiah 6:8's \"here am I, send me\" is applied as a personal call to gospel witness—not necessarily cross-cultural mission, but the everyday responsibility to share Christ with someone as near as across a street.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 53.36000061035156,
-    "end_time": 117.36000061035156
+    "end_time": 117.36000061035156,
+    "point_summary": "Isaiah 5 is cited as a historical parallel to the present day, where the prophet described a society that calls evil good and good evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 53.36000061035156,
-    "end_time": 117.36000061035156
+    "end_time": 117.36000061035156,
+    "point_summary": "Isaiah 10's decree of \"unrighteous decrees\" is cited as a biblical parallel to legislating wickedness, connecting the prophet's society to the moral conditions of the present last days.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "R5uUKjkYSvg",
     "start_time": 871.8200073242188,
-    "end_time": 943.739990234375
+    "end_time": 943.739990234375,
+    "point_summary": "A proper view of God—seeing Him high, lifted up, and holy as Isaiah did—is presented as the indispensable foundation that sets every other element of a strategic life-plan in right order.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "rgxWazCupLU",
     "start_time": 171.5399932861328,
-    "end_time": 227.22000122070312
+    "end_time": 227.22000122070312,
+    "point_summary": "At Calvary, God laid the iniquity of all humanity upon Christ, making his substitutionary sacrifice the specific reason the Lord's Supper demands personal, solemn remembrance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "rss1R93cqX0",
     "start_time": 838.9799957275391,
-    "end_time": 899.8999938964844
+    "end_time": 899.8999938964844,
+    "point_summary": "God's act of laying earth's foundation and spanning the heavens with His hand demonstrates, alongside omnipotence, His omniscience—that creation reveals a God of all wisdom and all knowledge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 936.1399841308594,
-    "end_time": 1004.4199829101562
+    "end_time": 1004.4199829101562,
+    "point_summary": "Death's certainty declared by divine word—\"thou shalt die and not live\"—sets the stage for examining how Hezekiah's tearful prayer moved God to grant fifteen additional years, years the sermon frames as disastrously consequential.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1005.260009765625,
-    "end_time": 1071.8999938964844
+    "end_time": 1071.8999938964844,
+    "point_summary": "Hezekiah's glad reception of the Babylonian envoys and his full disclosure of his treasures illustrates how prosperity and restored health became the occasion for a pride-driven vulnerability that invited future judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1214.8600044250488,
-    "end_time": 1277.7000045776367
+    "end_time": 1277.7000045776367,
+    "point_summary": "Hezekiah's tearful prayer at the wall in Isaiah 38 secured fifteen added years, yet that same man showed no tears when told his sons would become Babylonian eunuchs—exposing a self-centered grief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1214.8600044250488,
-    "end_time": 1277.7000045776367
+    "end_time": 1277.7000045776367,
+    "point_summary": "Hezekiah's weeping over his own death (Isa. 38:3) stands in stark, damning contrast to his indifference when told his descendants would be enslaved in Babylon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 1214.8600044250488,
-    "end_time": 1277.7000045776367
+    "end_time": 1277.7000045776367,
+    "point_summary": "God's response to Hezekiah's weeping in Isaiah 38:4—granting fifteen additional years of life—is set in stark contrast to Hezekiah's tearless indifference in chapter 39 when judgment falls on future generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "TeWW6mhl9W8",
     "start_time": 1294.719970703125,
-    "end_time": 1362.1199798583984
+    "end_time": 1362.1199798583984,
+    "point_summary": "Human works — even religious offerings — are insufficient for salvation, as Isaiah's \"filthy rags\" declaration confirms that no one can earn standing before God through their own effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "TljookEyMZU",
     "start_time": 2046.1599884033203,
-    "end_time": 2112.3999938964844
+    "end_time": 2112.3999938964844,
+    "point_summary": "Isaiah 53 is cited as messianic prophecy confirming that God was satisfied—even pleased—with Christ's self-offering, which fulfilled and thereby rendered obsolete the Old Testament sacrificial system.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "uGo1HL4c1vk",
     "start_time": 981.8399658203125,
-    "end_time": 1056.5599670410156
+    "end_time": 1056.5599670410156,
+    "point_summary": "Isaiah's willing response (\"Here am I, send me\") is contrasted with the sermon's point that ministry is not mere volunteering but a divine calling that carries ongoing accountability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2252,7 +2660,9 @@
     "is_implicit": true,
     "video_id": "XA-BnGEgWUA",
     "start_time": 1642.1400451660156,
-    "end_time": 1698.4600524902344
+    "end_time": 1698.4600524902344,
+    "point_summary": "Isaiah 53's prophecy encompasses both the death and resurrection of Christ, with the resurrection serving as God's confirmation that the sacrifice at Calvary was accepted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2263,7 +2673,9 @@
     "is_implicit": true,
     "video_id": "XmrMnXINE5Q",
     "start_time": 645.2000122070312,
-    "end_time": 710.2000122070312
+    "end_time": 710.2000122070312,
+    "point_summary": "Isaiah 28 is cited as the Old Testament source behind Paul's quotation in 1 Corinthians 14:21, identifying the prophecy of foreign tongues as a sign directed specifically to the Jewish people who would not hear God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 0.0,
-    "end_time": 62.91999816894531
+    "end_time": 62.91999816894531,
+    "point_summary": "Perfect peace is promised to the mind stayed on God because He is trustworthy, a truth reinforced by the paired call in verse four to trust the Lord forever as the source of everlasting strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2285,7 +2699,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 0.0,
-    "end_time": 62.91999816894531
+    "end_time": 62.91999816894531,
+    "point_summary": "Everlasting strength belongs to the Lord Jehovah alone, making him wholly worthy of the trust his people are called to place in him forever.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1091.8000183105469,
-    "end_time": 1156.1600341796875
+    "end_time": 1156.1600341796875,
+    "point_summary": "God's rejection of Israel's sacrifices in Isaiah 1:11 illustrates the Old Testament pattern of \"vain oblations\"—outward religious conformity without genuine heart devotion—which the new covenant addresses by establishing something better.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2307,7 +2725,9 @@
     "is_implicit": false,
     "video_id": "XXBT17UK3Ck",
     "start_time": 1091.8000183105469,
-    "end_time": 1156.1600341796875
+    "end_time": 1156.1600341796875,
+    "point_summary": "God's rejection of Israel's ritual worship in Isaiah 1:12 illustrates the Old Testament pattern of vain oblations—outward conformity without genuine heart devotion—which the new covenant addresses by replacing empty ceremony with true inward worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2820.519989013672,
-    "end_time": 2885.0
+    "end_time": 2885.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2967.7799682617188,
-    "end_time": 3049.7399864196777
+    "end_time": 3049.7399864196777,
+    "point_summary": "God's offer in Isaiah 1:18—that scarlet sins become white as snow—is presented as the culminating assurance of imputed righteousness, where the guilty are fully cleansed through Christ's shed blood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "yV-HhfyMF_o",
     "start_time": 320.0199890136719,
-    "end_time": 387.0199890136719
+    "end_time": 387.0199890136719,
+    "point_summary": "Isaiah 6's vision of God's holiness is cited to illustrate that encountering God as he truly is—holy, holy, holy—produces brokenness, underscoring why Scripture alone defines who God is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2351,7 +2777,9 @@
     "is_implicit": true,
     "video_id": "ZJOWWMF4BZE",
     "start_time": 310.239990234375,
-    "end_time": 371.8800048828125
+    "end_time": 371.8800048828125,
+    "point_summary": "God's holiness—attested in Isaiah's vision of the seraphim crying \"holy, holy, holy\"—is cited as one of several scriptural witnesses establishing that the word \"hallowed\" in the Lord's Prayer calls believers to approach God with an attitude of reverence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2362,7 +2790,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 677.620002746582,
-    "end_time": 740.8000030517578
+    "end_time": 740.8000030517578,
+    "point_summary": "Human righteousness, apart from Christ, is as filthy rags—evidence that man is not basically good but corrupted at the heart, a truth the sermon grounds in the sin of Genesis 3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2373,7 +2803,9 @@
     "is_implicit": true,
     "video_id": "zZ4UTRQP2jE",
     "start_time": 1543.280029296875,
-    "end_time": 1594.8000183105469
+    "end_time": 1594.8000183105469,
+    "point_summary": "Isaiah's prophecy that Israel draws near God with lips while the heart remains far is cited to establish that God's perennial concern—across both Testaments—is the condition of the heart, not outward religious form.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1263.599998474121,
-    "end_time": 1334.1799926757812
+    "end_time": 1334.1799926757812,
+    "point_summary": "Isaiah 53 is introduced as a passage that powerfully reveals the truth of Christ's death, with verse 1's opening question framing the chapter's prophetic portrait of a despised, rejected, and sorrow-bearing Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Isaiah 53:5 is read as prophetic testimony that Christ bore humanity's transgressions and iniquities as the sacrificial substitute, connecting directly to the Passover typology introduced from Exodus 12.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Universal human straying and its remedy converge in Isaiah 53:6, where the iniquity of all is laid on Christ, identifying Him as the substitutionary bearer of sin for every wandering soul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Christ's silent submission to slaughter as a lamb, foretold in Isaiah 53:7, is presented as prophetic confirmation that He bore the iniquity of all as the willing sacrificial substitute.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1334.1799926757812,
-    "end_time": 1411.4400024414062
+    "end_time": 1411.4400024414062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1411.4400024414062,
-    "end_time": 1476.7200012207031
+    "end_time": 1476.7200012207031,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1411.4400024414062,
-    "end_time": 1476.7200012207031
+    "end_time": 1476.7200012207031,
+    "point_summary": "Isaiah 53:10 is read as prophesying both Christ's substitutionary death—his soul made an offering for sin—and his resurrection, evidenced by the phrase \"he shall prolong his days.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1411.4400024414062,
-    "end_time": 1476.7200012207031
+    "end_time": 1476.7200012207031,
+    "point_summary": "Isaiah 53:11's declaration that the Servant \"shall be satisfied\" is read as God's own satisfaction with Christ's substitutionary sacrifice as full payment for mankind's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1411.4400024414062,
-    "end_time": 1476.7200012207031
+    "end_time": 1476.7200012207031,
+    "point_summary": "Isaiah 53:11's declaration that the Servant \"shall be satisfied\" is read as God's own satisfaction with Christ's substitutionary sacrifice as full payment for mankind's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "_-JIAWqr-ME",
     "start_time": 1476.7200012207031,
-    "end_time": 1539.4800109863281
+    "end_time": 1539.4800109863281,
+    "point_summary": "Christ's pouring out his soul unto death and being numbered with the transgressors is presented as the substitutionary atonement that satisfied God's demand for sin's payment and accomplished what sinners could not do for themselves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "_fRtpMZRJGo",
     "start_time": 969.1199951171875,
-    "end_time": 1044.0799865722656
+    "end_time": 1044.0799865722656,
+    "point_summary": "Death's certainty and the call to readiness are underscored by God's blunt word to Hezekiah—\"Set thine house in order, for thou shalt die and not live\"—framing life as finite and demanding wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "_fRtpMZRJGo",
     "start_time": 1967.7200012207031,
-    "end_time": 2048.740005493164
+    "end_time": 2048.740005493164,
+    "point_summary": "Isaiah 53 appears here as the text the Ethiopian eunuch was reading when Philip approached him, illustrating the need for someone to explain the gospel so a person can be reconciled to God and prepared for death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 442.29998779296875,
-    "end_time": 513.780029296875
+    "end_time": 513.780029296875,
+    "point_summary": "Isaiah 6 is introduced to ground the plea for faithful ambassadors in a vision of God \"high and lifted up,\" with the sermon pressing that believers need this exalted view of God as the foundation for gospel ministry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 513.780029296875,
-    "end_time": 584.6199951171875
+    "end_time": 584.6199951171875,
+    "point_summary": "Isaiah's vision of the enthroned, thrice-holy God is presented as the necessary corrective to a diminished view of God, because seeing God in His rightful place simultaneously reveals human unworthiness and humbles pride.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 513.780029296875,
-    "end_time": 584.6199951171875
+    "end_time": 584.6199951171875,
+    "point_summary": "The seraphim's posture of reverence in Isaiah 6:2 is cited within a vision of God \"high and lifted up\" to argue that a right view of God's holiness necessarily produces humility and a right view of oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 513.780029296875,
-    "end_time": 584.6199951171875
+    "end_time": 584.6199951171875,
+    "point_summary": "The seraphim's threefold \"holy\" declaration reveals God as high, holy, and lifted up — a vision that, when truly seen, humbles the viewer by showing both God and humanity in their rightful places.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 513.780029296875,
-    "end_time": 584.6199951171875
+    "end_time": 584.6199951171875,
+    "point_summary": "Isaiah 6:4's depiction of the shaking thresholds and smoke-filled temple frames the broader vision of God \"high and lifted up,\" used here to argue that a right view of God's holiness produces humility and self-abasement in the one who sees Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 584.6199951171875,
-    "end_time": 639.1800193786621
+    "end_time": 639.1800193786621,
+    "point_summary": "A vision of God in his rightful place as the holy, transcendent Creator produces immediate self-awareness of unworthiness—the surest remedy for pride—and prepares the one who sees him for ambassadorial sending.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 584.6199951171875,
-    "end_time": 639.1800193786621
+    "end_time": 639.1800193786621,
+    "point_summary": "Seeing God in his rightful place—high, holy, and glorious—simultaneously exposes human unworthiness and, after cleansing, produces the readiness to answer God's call for faithful ambassadors.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 584.6199951171875,
-    "end_time": 639.1800193786621
+    "end_time": 639.1800193786621,
+    "point_summary": "Seeing God in his rightful place—holy and exalted—produces the humility and cleansing that precede Isaiah's commissioning, establishing the pattern for faithful ambassadors who are sent only after being undone and purged.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "iYsTC-osByQ",
     "start_time": 713.02001953125,
-    "end_time": 765.0400238037109
+    "end_time": 765.0400238037109,
+    "point_summary": "Isaiah's immediate, unconditional surrender — \"Here am I, send me\" — before knowing the task illustrates that a vision of God in His rightful place is sufficient motivation for faithful ambassadorship regardless of outcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2637,7 +3115,9 @@
     "is_implicit": false,
     "video_id": "vVjqEYUgWc4",
     "start_time": 2330.0800170898438,
-    "end_time": 2411.0400171279907
+    "end_time": 2411.0400171279907,
+    "point_summary": "Human righteousness, even at its best, amounts to nothing before God—\"filthy rags\"—establishing that sinners bring nothing worthy to the transaction in which Christ's righteousness is imputed to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2648,7 +3128,9 @@
     "is_implicit": true,
     "video_id": "0SCq_eAwbaw",
     "start_time": 1491.3600463867188,
-    "end_time": 1571.0800476074219
+    "end_time": 1571.0800476074219,
+    "point_summary": "Isaiah 64:6 is invoked to show that human works of righteousness are utterly incapable of appeasing a holy God, reinforcing that salvation cannot be attained by human effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "5A_N3nhEQeU",
     "start_time": 1285.3600234985352,
-    "end_time": 1364.280029296875
+    "end_time": 1364.280029296875,
+    "point_summary": "Physical strength may sometimes need renewal (as Isaiah 40 notes), but the sermon's emphasis falls on the spiritual, inner-man strength that God supplies to His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "5A_N3nhEQeU",
     "start_time": 1441.4400177001953,
-    "end_time": 1515.8000183105469
+    "end_time": 1515.8000183105469,
+    "point_summary": "Those who wait on the Lord receive renewed strength for whatever He has called them to do, overcoming human weariness through dependence on Him rather than their own capacity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2681,7 +3167,9 @@
     "is_implicit": true,
     "video_id": "5A_N3nhEQeU",
     "start_time": 2226.1799926757812,
-    "end_time": 2289.7000122070312
+    "end_time": 2289.7000122070312,
+    "point_summary": "God's word will not return void — the promise of Isaiah 55:11 grounds the confidence to keep preaching and to trust that God will continue to work through the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 683.5599822998047,
-    "end_time": 751.5599822998047
+    "end_time": 751.5599822998047,
+    "point_summary": "Isaiah 7:14's specific word \"virgin\" — not merely \"young maid\" — is defended as theologically essential because only a virgin birth could ensure Christ was born without a sin nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2703,7 +3193,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 683.5599822998047,
-    "end_time": 751.5599822998047
+    "end_time": 751.5599822998047,
+    "point_summary": "Isaiah 9 is referenced alongside Isaiah 7 as a prophetic proclamation of Messiah's birth, fulfilling at precisely the right time what God had promised centuries before the incarnation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2714,7 +3206,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 683.5599822998047,
-    "end_time": 751.5599822998047
+    "end_time": 751.5599822998047,
+    "point_summary": "The virgin birth prophesied in Isaiah 7:14 is defended as literal and essential, with the word \"virgin\" distinguished from \"young maid\" because Christ's sinless nature required it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2725,7 +3219,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 751.8399810791016,
-    "end_time": 824.8599853515625
+    "end_time": 824.8599853515625,
+    "point_summary": "Isaiah 7:14's specific word \"virgin\" is defended as theologically essential — not interchangeable with \"young maid\" — because the virgin birth was necessary to ensure Christ was born without a sin nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2736,7 +3232,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 751.8399810791016,
-    "end_time": 824.8599853515625
+    "end_time": 824.8599853515625,
+    "point_summary": "The names given to the promised child in Isaiah 9:6 — Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace — are presented alongside verse 7 as a proclamation of Messiah's birth and the coming fulfillment of the Davidic covenant in Christ's millennial reign.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2747,7 +3245,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 824.8599853515625,
-    "end_time": 892.0199890136719
+    "end_time": 892.0199890136719,
+    "point_summary": "The virgin birth prophesied in Isaiah 7 was theologically necessary because Christ had to be born without a sin nature, distinguishing \"virgin\" from merely \"young maid.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2758,7 +3258,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 824.8599853515625,
-    "end_time": 892.0199890136719
+    "end_time": 892.0199890136719,
+    "point_summary": "Isaiah 9:6–7 is read as a messianic prophecy whose fulfillment awaits Christ's millennial reign on David's throne following the tribulation, satisfying the Davidic covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2769,7 +3271,9 @@
     "is_implicit": true,
     "video_id": "_-nwuxfV8gI",
     "start_time": 892.0199890136719,
-    "end_time": 964.3399658203125
+    "end_time": 964.3399658203125,
+    "point_summary": "Isaiah 9's prophecies of the coming ruler find their New Testament fulfillment in the angelic announcements of Luke 1 and Matthew 1, confirming Christ's birth as the realization of Old Testament messianic promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2780,7 +3284,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 1942.2400512695312,
-    "end_time": 2024.9200592041016
+    "end_time": 2024.9200592041016,
+    "point_summary": "Isaiah's declaration that the wicked have no peace is cited to contrast the false, fragile peace the world pursues with the true peace that comes only from God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2791,7 +3297,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 838.760009765625,
-    "end_time": 901.5
+    "end_time": 901.5,
+    "point_summary": "Christ's identity as \"the root of David\" in Revelation 5:5 is grounded in Isaiah 9:6–7, which prophesies an eternal reign established on David's throne by the one born as the Mighty God and Prince of Peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2802,7 +3310,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 901.5,
-    "end_time": 966.8800048828125
+    "end_time": 966.8800048828125,
+    "point_summary": "Isaiah 9:6–7 is read to establish that the one called \"the root of David\" in Revelation 5:5 is the promised ruler whose eternal, just government upon David's throne was foretold by Isaiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2813,7 +3323,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 901.5,
-    "end_time": 966.8800048828125
+    "end_time": 966.8800048828125,
+    "point_summary": "Isaiah 9:7 is cited to establish that the \"root of David\" in Revelation 5:5 points to the promised Davidic king whose eternal, just government was foretold by Isaiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 901.5,
-    "end_time": 966.8800048828125
+    "end_time": 966.8800048828125,
+    "point_summary": "Isaiah 11:1's image of a Branch growing from Jesse's roots is read as Old Testament grounding for Revelation 5:5's title \"Root of David,\" identifying Jesus as the promised Davidic heir.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2835,7 +3349,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 901.5,
-    "end_time": 966.8800048828125
+    "end_time": 966.8800048828125,
+    "point_summary": "Isaiah 11:2 is read to show that the Spirit of the Lord — with wisdom, understanding, counsel, might, and knowledge — rests upon the Branch from Jesse's stem, identifying Christ as the root of David in Revelation 5:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2846,7 +3362,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11's messianic prophecy—identifying the Branch from Jesse's stem who judges with righteousness and ushers in millennial peace—grounds the title \"Root of David\" applied to Christ in Revelation 5:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2857,7 +3375,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11:4's depiction of the Branch judging with righteousness and slaying the wicked with the breath of his lips is read as messianic prophecy identifying the same \"root of Jesse\" who reigns in Revelation 5:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2868,7 +3388,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11's messianic prophecy—identifying the Branch from Jesse's stem who judges with righteousness and reigns in millennial peace—grounds the title \"Root of David\" applied to Christ in Revelation 5:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2879,7 +3401,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11:6's vision of the wolf dwelling with the lamb is cited as millennial reign prophecy, contextualizing Revelation 5:5's \"Root of David\" as the one who will establish that coming peaceable kingdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2890,7 +3414,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11:7's vision of the cow and bear feeding together is cited as millennial reign prophecy, contextualizing Revelation 5's \"Root of David\" title within the peaceable kingdom Christ will establish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2901,7 +3427,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 966.8800048828125,
-    "end_time": 1022.4400024414062
+    "end_time": 1022.4400024414062,
+    "point_summary": "Isaiah 11:8's vision of a nursing child playing unharmed at a serpent's den is cited as millennial reign prophecy, illustrating the peaceable kingdom that the Root of Jesse—identified with the Root of David in Revelation 5:5—will establish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2912,7 +3440,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 1022.4400024414062,
-    "end_time": 1087.5599975585938
+    "end_time": 1087.5599975585938,
+    "point_summary": "Isaiah 11:9, set within its broader messianic and millennial context, is cited to establish that the peaceable kingdom and universal knowledge of the Lord belong to the reign of the victorious Root of Jesse identified in Revelation 5:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2923,7 +3453,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 1022.4400024414062,
-    "end_time": 1087.5599975585938
+    "end_time": 1087.5599975585938,
+    "point_summary": "Isaiah 11:10's \"root of Jesse\" standing as an ensign to whom the Gentiles seek is connected directly to Revelation 5:5's \"root of David,\" identifying both titles as messianic and pointing to Christ's universal, victorious reign.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2934,7 +3466,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 1480.4800415039062,
-    "end_time": 1541.780029296875
+    "end_time": 1541.780029296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 722.3400039672852,
-    "end_time": 792.5800018310547
+    "end_time": 792.5800018310547,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2956,7 +3492,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:4–10 is read as a unified Old Testament portrait of Christ's substitutionary suffering, burial, and the Father's purpose behind his death, establishing the gospel's ancient roots before 1 Corinthians 15 is addressed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:5's depiction of Christ wounded for transgressions and bruised for iniquities is read as the Old Testament's portrait of the Suffering Lamb paying for humanity's sin in death and burial.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2978,7 +3518,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:6's declaration that God laid the iniquity of all humanity on Christ grounds the necessity of his substitutionary death as the only sufficient payment for sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -2989,7 +3531,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:7's image of the silent, slaughtered lamb identifies Jesus as the Suffering Servant who bore humanity's sin without resistance, fulfilling the Old Testament portrait of substitutionary atonement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3000,7 +3544,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:8–9 is read as Old Testament prophecy mapping the death and burial of Christ, with verse 8 marking his death and verse 9 his burial among the wicked and the rich.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3011,7 +3557,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 792.5800018310547,
-    "end_time": 867.5599975585938
+    "end_time": 867.5599975585938,
+    "point_summary": "Isaiah 53:9's detail of Christ's burial with the wicked and the rich is identified as the Old Testament's prophetic witness to the burial component of the gospel outlined in 1 Corinthians 15.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3022,7 +3570,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53:8–10 is read as a unified prophetic sequence foretelling Christ's death, burial, and resurrection, with the phrase \"he shall prolong his days\" taken as an explicit Old Testament promise that he would not remain dead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3033,7 +3583,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53:9's record of Christ's burial \"with the wicked and with the rich\" is read alongside verses 8 and 10 as prophetic evidence of the death, burial, and resurrection sequence fulfilled in Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3044,7 +3596,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53:10's phrase \"he shall prolong his days\" is read as an Old Testament promise of resurrection, embedded within a passage that traces Christ's death, burial, and rising in sequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3055,7 +3609,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53:10's phrase \"he shall prolong his days\" is read as an embedded resurrection promise — the suffering Servant who died for humanity's sin would not remain dead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3066,7 +3622,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53:10's phrase \"he shall prolong his days\" is read as an Old Testament promise of bodily resurrection, embedded within a passage that traces Christ's death, burial, and rising as a unified redemptive sequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3077,7 +3635,9 @@
     "is_implicit": false,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 867.5599975585938,
-    "end_time": 929.9599914550781
+    "end_time": 929.9599914550781,
+    "point_summary": "Isaiah 53 is read as a unified prophecy of Christ's death, burial, and resurrection, with verse 10's promise that \"he shall prolong his days\" taken as direct Old Testament evidence that Jesus would not remain dead.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3088,7 +3648,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 1221.6199779510498,
-    "end_time": 1281.3199768066406
+    "end_time": 1281.3199768066406,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3099,7 +3661,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 1281.3199768066406,
-    "end_time": 1340.5799713134766
+    "end_time": 1340.5799713134766,
+    "point_summary": "The Day of the Lord is characterized in Isaiah 13:9 as a period of divine wrath and fierce judgment specifically targeting rebellious sinners, marking it as distinctly different from God's ordinary providential judgment in the present age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3110,7 +3674,9 @@
     "is_implicit": true,
     "video_id": "MODJ0wQftRk",
     "start_time": 1569.1600036621094,
-    "end_time": 1638.0400085449219
+    "end_time": 1638.0400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3121,7 +3687,9 @@
     "is_implicit": true,
     "video_id": "rXhiTENJuQQ",
     "start_time": 387.3399963378906,
-    "end_time": 454.5799865722656
+    "end_time": 454.5799865722656,
+    "point_summary": "The good works of the unsaved are likened to filthy rags, contrasting with the Spirit-empowered good works believers are called to as those already saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3132,7 +3700,9 @@
     "is_implicit": true,
     "video_id": "4drpBDG7hOw",
     "start_time": 1608.780029296875,
-    "end_time": 1679.6800231933594
+    "end_time": 1679.6800231933594,
+    "point_summary": "God's ways transcend human understanding—as Isaiah declares—so when Paul received an unexpected answer to his threefold prayer, God's response was not a denial but something better than Paul sought.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3143,7 +3713,9 @@
     "is_implicit": false,
     "video_id": "4drpBDG7hOw",
     "start_time": 1680.0000305175781,
-    "end_time": 1750.0800170898438
+    "end_time": 1750.0800170898438,
+    "point_summary": "God's declaration in Isaiah 30:21 — \"This is the way, walk ye in it\" — is brought forward as assurance that God not only knows the right path but actively directs his people, even when his answer differs from what they sought.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3154,7 +3726,9 @@
     "is_implicit": false,
     "video_id": "LpmY21dqr9A",
     "start_time": 1974.6999969482422,
-    "end_time": 2050.9400024414062
+    "end_time": 2050.9400024414062,
+    "point_summary": "Isaiah 58:1's prophetic call to expose Israel's sins frames the warning that busyness can produce outward religious activity while masking a heart that has drifted from genuine devotion to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3165,7 +3739,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 1974.6999969482422,
-    "end_time": 2050.9400024414062
+    "end_time": 2050.9400024414062,
+    "point_summary": "Isaiah 58:2 illustrates the danger of religious busyness—seeking God daily in outward practice while remaining too occupied with self-interest to truly enjoy His presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3176,7 +3752,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 1974.6999969482422,
-    "end_time": 2050.9400024414062
+    "end_time": 2050.9400024414062,
+    "point_summary": "In Isaiah 58:3, Israel's religious activity—fasting and afflicting their souls—went unacknowledged by God because their busyness with labor, strife, and self-interest crowded out genuine devotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3187,7 +3765,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3198,7 +3778,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3209,7 +3791,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3220,7 +3804,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3231,7 +3817,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3242,7 +3830,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3253,7 +3843,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Sabbath law aside, Isaiah 58:13's phrase \"doing thy pleasure on my holy day\" carries a transferable lesson: God's people must guard against letting personal pursuits crowd out devoted time with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3264,7 +3856,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2050.9400024414062,
-    "end_time": 2119.4199829101562
+    "end_time": 2119.4199829101562,
+    "point_summary": "Embedded within Isaiah 58:13's Sabbath command is a transferable principle: God's people must guard against letting personal pleasure crowd out devoted time set apart for Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3275,7 +3869,9 @@
     "is_implicit": true,
     "video_id": "LpmY21dqr9A",
     "start_time": 2119.4199829101562,
-    "end_time": 2184.9400024414062
+    "end_time": 2184.9400024414062,
+    "point_summary": "Isaiah 58:13's phrase \"doing thy pleasure on my holy day\" is applied as a timeless principle warning that God's set-apart day must not be surrendered to personal pleasure and self-directed pursuits.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3286,7 +3882,9 @@
     "is_implicit": false,
     "video_id": "LpmY21dqr9A",
     "start_time": 2265.739990234375,
-    "end_time": 2353.7999877929688
+    "end_time": 2353.7999877929688,
+    "point_summary": "Isaiah 58 is invoked as Old Testament precedent for the warning that God's people had turned the Sabbath into a day of pleasure—a pattern the sermon applies directly to the modern Lord's Day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3297,7 +3895,9 @@
     "is_implicit": true,
     "video_id": "CXZQVH0uWS0",
     "start_time": 705.7200012207031,
-    "end_time": 772.8800048828125
+    "end_time": 772.8800048828125,
+    "point_summary": "God's holiness—affirmed by the seraphic cry \"holy, holy, holy\" in Isaiah 6—grounds James's argument in James 1:13 that a holy God cannot be the source of sinful temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3308,7 +3908,9 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1353.7600402832031,
-    "end_time": 1415.280044555664
+    "end_time": 1415.280044555664,
+    "point_summary": "Hezekiah's story is introduced as a biblical illustration of Psalm 50:15's promise, showing how God delivers His people in days of trouble even under the threat of a dominant world power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3319,7 +3921,9 @@
     "is_implicit": false,
     "video_id": "-oec2OYFv2I",
     "start_time": 1415.280044555664,
-    "end_time": 1477.1200256347656
+    "end_time": 1477.1200256347656,
+    "point_summary": "God's response to Hezekiah's prayer in his day of trouble — hearing his cry, granting fifteen more years, and delivering him from Assyria — illustrates that God hears and delivers his people when they call upon him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3330,7 +3934,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1477.1200256347656,
-    "end_time": 1543.5600280761719
+    "end_time": 1543.5600280761719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3341,7 +3947,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1477.1200256347656,
-    "end_time": 1543.5600280761719
+    "end_time": 1543.5600280761719,
+    "point_summary": "Hezekiah's prayer in Isaiah 37:20 is presented as a model of crying out to God in crisis, with deliverance from Assyria confirming that God hears and acts so all nations may know He alone is Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3352,7 +3960,9 @@
     "is_implicit": true,
     "video_id": "-oec2OYFv2I",
     "start_time": 1477.1200256347656,
-    "end_time": 1543.5600280761719
+    "end_time": 1543.5600280761719,
+    "point_summary": "Hezekiah's sickness unto death in Isaiah 38:1 sets the stage for God's twofold deliverance—both of the nation from Assyria and of the king from mortal illness—in answer to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3363,7 +3973,9 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 752.0400238037109,
-    "end_time": 815.5600280761719
+    "end_time": 815.5600280761719,
+    "point_summary": "Paul's quotation of Isaiah 49:8 grounds the urgency of ministry in the reality that \"now is the day of salvation,\" pressing both sinners and ministers not to delay or receive God's grace in vain.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3374,7 +3986,9 @@
     "is_implicit": false,
     "video_id": "Ryn7Axm_fJs",
     "start_time": 815.5600280761719,
-    "end_time": 873.4400329589844
+    "end_time": 873.4400329589844,
+    "point_summary": "Isaiah 55:6's call to \"seek the Lord while he may be found\" is cited to underscore the sinner's urgency: the window for saving faith is limited, and delay risks confessing Christ too late for salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3385,7 +3999,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 1440.5599670410156,
-    "end_time": 1502.1599731445312
+    "end_time": 1502.1599731445312,
+    "point_summary": "No created image or likeness can represent God, whose incomparability Isaiah 40:18 declares as the foundation for rejoicing in who He has revealed Himself to be.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3396,7 +4012,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's incomparability is displayed in Isaiah 40:22 as part of a sustained ten-verse passage contrasting the living Creator—who sits enthroned above the earth and stretches out the heavens—with the futility of idol worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3407,7 +4025,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's sovereign power to reduce princes and judges to nothing contrasts sharply with idol-worship, illustrating that no earthly ruler or carved image can be compared to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3418,7 +4038,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's incomparability over earthly rulers is declared in Isaiah 40:24 by portraying princes and judges as withering stubble blown away by His breath, underscoring that no human power rivals Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3429,7 +4051,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's incomparability—\"To whom then will you liken me?\"—is presented as the unifying theological thread running through Isaiah 40:18–28, grounding the claim that Scripture alone is the proper source of our knowledge of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3440,7 +4064,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's incomparability is demonstrated by His power to name and number every star, contrasting the living Creator with the lifeless idols Isaiah's audience fashioned and worshiped.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3451,7 +4077,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "Israel's complaint that God had overlooked them (v. 27) is answered by the surrounding verses' cumulative portrait of an incomparable, all-knowing God before whom such doubt is without warrant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3462,7 +4090,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1502.1599731445312,
-    "end_time": 1567.5999755859375
+    "end_time": 1567.5999755859375,
+    "point_summary": "God's inexhaustible strength and unsearchable understanding, revealed in Isaiah 40:28, stand in direct contrast to the lifeless, comparable idols described throughout the surrounding verses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3473,7 +4103,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1567.5999755859375,
-    "end_time": 1639.5999755859375
+    "end_time": 1639.5999755859375,
+    "point_summary": "God's inexhaustible strength and unfathomable understanding, contrasted with the futility of idols, establish Him as the incomparable Creator on whom His people must declare total dependence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3484,7 +4116,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1567.5999755859375,
-    "end_time": 1639.5999755859375
+    "end_time": 1639.5999755859375,
+    "point_summary": "God's incomparability as Creator and Sustainer stands in direct contrast to the lifeless idols Israel repeatedly turned to, exposing the folly of likening anything to the Holy One.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3495,7 +4129,9 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 1639.5999755859375,
-    "end_time": 1716.1599731445312
+    "end_time": 1716.1599731445312,
+    "point_summary": "God's exclusive claim in Isaiah 43:11—\"beside me there is no Savior\"—directly refutes the notion that sincerity or multiple paths suffice, confirmed by Christ's own words and Peter's declaration in Acts 4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3506,7 +4142,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1716.1599731445312,
-    "end_time": 1796.0799560546875
+    "end_time": 1796.0799560546875,
+    "point_summary": "God's declaration in Isaiah 43:11 — \"beside me there is no Savior\" — is set against the pluralist claim that all sincere paths lead to God, with John 14:6 and Acts 4:12 confirming its exclusive force.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3517,7 +4155,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1716.1599731445312,
-    "end_time": 1796.0799560546875
+    "end_time": 1796.0799560546875,
+    "point_summary": "Isaiah 44:6 is cited as one of several converging declarations across Isaiah establishing the exclusive monotheism that rules out all rival paths to salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3528,7 +4168,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1716.1599731445312,
-    "end_time": 1796.0799560546875
+    "end_time": 1796.0799560546875,
+    "point_summary": "God's exclusive identity as the only God is established through a chain of self-declarations in Isaiah 44–46, each reinforcing that no other God exists beside Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3539,7 +4181,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1716.1599731445312,
-    "end_time": 1796.0799560546875
+    "end_time": 1796.0799560546875,
+    "point_summary": "God's exclusive identity as the only Lord and the only God is the consistent refrain Isaiah 45:5 contributes to a chain of passages establishing that no Savior, no God, and no rival exists beside him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3550,7 +4194,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1716.1599731445312,
-    "end_time": 1796.0799560546875
+    "end_time": 1796.0799560546875,
+    "point_summary": "Isaiah 45:21 is marshaled alongside a chain of parallel declarations to establish the exclusive identity of God as the sole Lord and Savior, with no rival deity beside him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3561,7 +4207,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1796.0799560546875,
-    "end_time": 1865.7799835205078
+    "end_time": 1865.7799835205078,
+    "point_summary": "God's absolute incomparability — that no being can be likened to, equaled with, or compared to Him — is established through a chain of Isaiah texts culminating in the rhetorical challenge of 46:5.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3572,7 +4220,9 @@
     "is_implicit": true,
     "video_id": "BhyhczSVZM0",
     "start_time": 1796.0799560546875,
-    "end_time": 1865.7799835205078
+    "end_time": 1865.7799835205078,
+    "point_summary": "God's absolute uniqueness and incomparability—declared by His own foreknowledge and sovereign counsel—is the ground for calling transgressors to remember and return to Him alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Isaiah",
@@ -3583,6 +4233,8 @@
     "is_implicit": false,
     "video_id": "KkcM-CWB5g0",
     "start_time": 1931.740005493164,
-    "end_time": 2013.780014038086
+    "end_time": 2013.780014038086,
+    "point_summary": "Knowing God intimately — with minds stayed on Him — produces the perfect peace Isaiah promised, illustrating the deep experiential fellowship that marks spiritual maturity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 993.5799865722656,
-    "end_time": 1062.2999877929688
+    "end_time": 1062.2999877929688,
+    "point_summary": "Deuteronomy 33 is cited as confirming Jacob's curse on Simeon: Moses, blessing the tribes before his death, conspicuously omits Simeon entirely, corroborating the tribe's loss of distinct identity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 993.5799865722656,
-    "end_time": 1062.2999877929688
+    "end_time": 1062.2999877929688,
+    "point_summary": "Deuteronomy 33 is cited as confirming Jacob's curse on Simeon: Moses, blessing the tribes before his death, omits Simeon entirely, evidencing the tribe's loss of distinct identity and its scattered, diminished condition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 993.5799865722656,
-    "end_time": 1062.2999877929688
+    "end_time": 1062.2999877929688,
+    "point_summary": "Deuteronomy 33 is cited as confirming Jacob's curse on Simeon: Moses, blessing the tribes before his death, conspicuously omits Simeon entirely, corroborating the tribe's loss of distinct identity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1123.260009765625,
-    "end_time": 1189.5599975585938
+    "end_time": 1189.5599975585938,
+    "point_summary": "The curse of scattering pronounced on Levi in Genesis 49 was ultimately redirected into blessing, as Deuteronomy 33:10–11 shows the Levites' scattered presence throughout Israel becoming a position of priestly prominence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1123.260009765625,
-    "end_time": 1189.5599975585938
+    "end_time": 1189.5599975585938,
+    "point_summary": "The same curse of scattering pronounced over Levi in Genesis 49 became a blessing, as Deuteronomy 33:10–11 shows Levi occupying a place of prominence through priestly duties distributed across Israel's 48 cities.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1264.0800170898438,
-    "end_time": 1337.0800170898438
+    "end_time": 1337.0800170898438,
+    "point_summary": "The Levi blessing in Deuteronomy 33 is introduced as the counterpart to Genesis 49, showing how Levi's scattering-as-judgment was transformed into blessing because the tribe stood for the Lord at Sinai.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1264.0800170898438,
-    "end_time": 1337.0800170898438
+    "end_time": 1337.0800170898438,
+    "point_summary": "Levi's scattering, pronounced as judgment in Genesis 49, is recast as blessing in Deuteronomy 33 because the tribe stood for the Lord's side at the golden calf incident in Exodus 32.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1264.0800170898438,
-    "end_time": 1337.0800170898438
+    "end_time": 1337.0800170898438,
+    "point_summary": "Levi's scattering, pronounced as judgment in Genesis 49, is recast as blessing in Deuteronomy 33 because the tribe stood for the Lord's side at the golden calf incident in Exodus 32.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1337.0800170898438,
-    "end_time": 1394.0800170898438
+    "end_time": 1394.0800170898438,
+    "point_summary": "Deuteronomy 33:8–11 is cited to show that Levi's scattering, pronounced as judgment in Genesis 49, was transformed into blessing because the tribe kept God's covenant and stood for righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1337.0800170898438,
-    "end_time": 1394.0800170898438
+    "end_time": 1394.0800170898438,
+    "point_summary": "The Levites' willingness to set aside family loyalty and stand for God's word at a moment of crisis became the basis for their later covenant role as teachers of Israel and ministers at the altar.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "09KQDExB3yQ",
     "start_time": 1337.0800170898438,
-    "end_time": 1394.0800170898438
+    "end_time": 1394.0800170898438,
+    "point_summary": "Levi's scattering, reframed in Deuteronomy 33:10 as blessing, is shown to flow directly from the tribe's covenant faithfulness, which earned them the sacred duties of teaching God's law and maintaining Israel's sacrificial worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "1AnI1m5Yp2c",
     "start_time": 951.6799926757812,
-    "end_time": 1010.3200073242188
+    "end_time": 1010.3200073242188,
+    "point_summary": "God's individual calling of Joshua — appointed specifically to lead Israel into the land Moses could not enter — illustrates that God assigns distinct roles and plans to distinct people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "1AnI1m5Yp2c",
     "start_time": 951.6799926757812,
-    "end_time": 1010.3200073242188
+    "end_time": 1010.3200073242188,
+    "point_summary": "God's individual call to Joshua — commissioning him specifically to lead Israel into the land Moses could not enter — illustrates that God assigns distinct roles and plans to particular people for his purposes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 432.05999755859375,
-    "end_time": 491.4599914550781
+    "end_time": 491.4599914550781,
+    "point_summary": "Moses taught Israel the statutes not merely for knowledge but for doing—obedience to what is learned being the stated purpose of the teaching itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 432.05999755859375,
-    "end_time": 491.4599914550781
+    "end_time": 491.4599914550781,
+    "point_summary": "Moses taught Israel the statutes expressly so they would do them in the land, establishing that God-given instruction carries an inherent obligation of obedience, not mere intellectual reception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 491.4599914550781,
-    "end_time": 552.9199829101562
+    "end_time": 552.9199829101562,
+    "point_summary": "Obedience is the stated purpose of Israel's instruction: Moses taught the statutes so the people would do them, and that doing would itself constitute their wisdom before the nations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 491.4599914550781,
-    "end_time": 552.9199829101562
+    "end_time": 552.9199829101562,
+    "point_summary": "Learning Scripture carries an inherent obligation: hearing the statutes is explicitly linked to learning them, and learning them is explicitly linked to keeping and doing them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 552.9199829101562,
-    "end_time": 615.9800128936768
+    "end_time": 615.9800128936768,
+    "point_summary": "Deuteronomy 17:19 is cited as a repeated Deuteronomic pattern showing that Scripture is given to be read and learned so that it is ultimately kept and done, not merely known.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "33dEESPc4gk",
     "start_time": 552.9199829101562,
-    "end_time": 615.9800128936768
+    "end_time": 615.9800128936768,
+    "point_summary": "The king's command to personally transcribe the law illustrates that writing Scripture deepens memory and mindfulness of God's Word as a step toward keeping it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "49fsypgdmQU",
     "start_time": 699.7200012207031,
-    "end_time": 767.8000030517578
+    "end_time": 767.8000030517578,
+    "point_summary": "Israel's proneness to forget God despite His clear commands — illustrated by Deuteronomy 6's warning against forgetting the Lord amid prosperity — grounds the Lord's Supper as a divinely ordained table of remembrance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -228,7 +268,9 @@
     "is_implicit": true,
     "video_id": "53lojYZz2_0",
     "start_time": 2778.939971923828,
-    "end_time": 2849.6399841308594
+    "end_time": 2849.6399841308594,
+    "point_summary": "Deuteronomy is invoked as the scriptural basis for the truth that God himself is the source of every person's ability to earn and accumulate wealth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -239,7 +281,9 @@
     "is_implicit": true,
     "video_id": "5gWVxtcarvc",
     "start_time": 1314.6200408935547,
-    "end_time": 1370.060043334961
+    "end_time": 1370.060043334961,
+    "point_summary": "God's warning to Israel entering a land of unearned abundance — beware lest thou forget the Lord — grounds the call to Sardis to remember, illustrating the universal human tendency to forget God amid prosperity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1106.6199951171875,
-    "end_time": 1170.5999755859375
+    "end_time": 1170.5999755859375,
+    "point_summary": "Deuteronomy 11:26 is introduced as a familiar passage illustrating that God blesses obedience, with Leviticus 26 noted as a parallel text laying out the consequences of both obedience and disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1170.5999755859375,
-    "end_time": 1243.9599914550781
+    "end_time": 1243.9599914550781,
+    "point_summary": "Obedience carries divine consequence: God plainly sets before his people a blessing for compliance and a curse for turning aside, making the critical nature of obedience unmistakably clear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1380.3599853515625,
-    "end_time": 1467.8800048828125
+    "end_time": 1467.8800048828125,
+    "point_summary": "Moses' solemn appeal in Deuteronomy 30:19 — setting life and death, blessing and cursing before Israel — establishes that obedience is always a deliberate personal choice, as it was for Saul in 1 Samuel 15.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "6ujPxedm1ss",
     "start_time": 1214.7199897766113,
-    "end_time": 1268.239990234375
+    "end_time": 1268.239990234375,
+    "point_summary": "Deuteronomy 25:17–19 supplies the moral context for God's judgment on Amalek, revealing that their crime was cowardly predation on Israel's weakest and most vulnerable—and that they feared not God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1268.239990234375,
-    "end_time": 1329.3999938964844
+    "end_time": 1329.3999938964844,
+    "point_summary": "Deuteronomy 25:17–19 is cited to supply the backstory behind God's command in 1 Samuel 15, showing that Amalek's cowardly attack on Israel's weakest and their fear not of God warranted the declared judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1268.239990234375,
-    "end_time": 1329.3999938964844
+    "end_time": 1329.3999938964844,
+    "point_summary": "Deuteronomy 25:18 is cited to supply the specific detail — attacking the faint and weary stragglers, fearing not God — that explains why God's sworn judgment against Amalek in Exodus 17 and 1 Samuel 15 is just rather than arbitrary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1268.239990234375,
-    "end_time": 1329.3999938964844
+    "end_time": 1329.3999938964844,
+    "point_summary": "Deuteronomy 25:19's command to blot out Amalek is presented as the divinely announced consequence, established in context with Exodus 17, that makes God's later judgment in 1 Samuel 15 coherent rather than arbitrary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "6ujPxedm1ss",
     "start_time": 1329.9199905395508,
-    "end_time": 1392.2799835205078
+    "end_time": 1392.2799835205078,
+    "point_summary": "Deuteronomy 25's record of Amalek's unprovoked cruelty against Israel's weakest—and God's commanded judgment against them—provides the contextual backdrop for understanding why divine destruction of a wicked people, including their children, is just and consistent with Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "7-Svueb0C4s",
     "start_time": 602.239990234375,
-    "end_time": 662.47998046875
+    "end_time": 662.47998046875,
+    "point_summary": "Deuteronomy 8:18 grounds the sermon's claim that even human employment is merely God's instrument, since it is he who gives the power to get wealth and is therefore the ultimate provider.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -349,7 +411,9 @@
     "is_implicit": true,
     "video_id": "7-Svueb0C4s",
     "start_time": 602.239990234375,
-    "end_time": 662.47998046875
+    "end_time": 662.47998046875,
+    "point_summary": "Deuteronomy 6's warning against forgetting God when entering a land of abundance grounds the sermon's point that God, not human employment, is the ultimate source of all provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -360,7 +424,9 @@
     "is_implicit": true,
     "video_id": "7-Svueb0C4s",
     "start_time": 662.47998046875,
-    "end_time": 723.8400268554688
+    "end_time": 723.8400268554688,
+    "point_summary": "Deuteronomy 6:12's warning against forgetting God amid abundance is invoked as the backdrop for why a daily prayer for provision guards against the self-sufficiency that prosperity can breed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "8klBXE7J4Mg",
     "start_time": 628.5999774932861,
-    "end_time": 697.2399749755859
+    "end_time": 697.2399749755859,
+    "point_summary": "God's redemptive purpose was not merely to bring Israel out of Egypt but to bring them into the promised land, with human unbelief—not divine intention—being what delayed that fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "8OgJllM8BSQ",
     "start_time": 1279.5199966430664,
-    "end_time": 1348.9599914550781
+    "end_time": 1348.9599914550781,
+    "point_summary": "Deuteronomy 8:18 is cited to establish that God alone grants the power to acquire anything, rebuking pride over position or possessions by tracing every human achievement back to divine enablement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "9du5nBV5SM8",
     "start_time": 1293.3000259399414,
-    "end_time": 1360.4000244140625
+    "end_time": 1360.4000244140625,
+    "point_summary": "Resisting the devil's temptation requires wielding Scripture precisely, as Christ countered Satan's specific attack on physical appetite by quoting Deuteronomy 8:3 — that man lives by every word of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "9du5nBV5SM8",
     "start_time": 1360.4000244140625,
-    "end_time": 1433.8000183105469
+    "end_time": 1433.8000183105469,
+    "point_summary": "Resisting the devil requires wielding Scripture skillfully and specifically, as Jesus demonstrated by answering Satan's temptation to make bread with Deuteronomy's declaration that man lives by every word of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -415,7 +489,9 @@
     "is_implicit": true,
     "video_id": "9du5nBV5SM8",
     "start_time": 1360.4000244140625,
-    "end_time": 1433.8000183105469
+    "end_time": 1433.8000183105469,
+    "point_summary": "Deuteronomy 6:13 is cited as the precise scriptural weapon Jesus wielded against Satan's temptation to worship him, demonstrating that resisting the devil requires using God's Word skillfully and directly against the specific temptation at hand.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -426,7 +502,9 @@
     "is_implicit": true,
     "video_id": "9du5nBV5SM8",
     "start_time": 1433.8000183105469,
-    "end_time": 1501.3000183105469
+    "end_time": 1501.3000183105469,
+    "point_summary": "Resisting temptation requires wielding Scripture skillfully and specifically, matching the quoted verse directly to the temptation at hand, as Jesus demonstrated by citing Deuteronomy against each of Satan's challenges.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 445.9200134277344,
-    "end_time": 513.280029296875
+    "end_time": 513.280029296875,
+    "point_summary": "The plural Hebrew names for God (Elohim, Adonai) used in the Shema's declaration of divine oneness are presented as early, progressive revelation of the Trinity embedded in Israel's most familiar confession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 209.77999877929688,
-    "end_time": 262.5400085449219
+    "end_time": 262.5400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 262.55999755859375,
-    "end_time": 310.70001220703125
+    "end_time": 310.70001220703125,
+    "point_summary": "Though written to Israel, Deuteronomy 6:1 is read here as carrying direct application to the church and individual believers today regarding obedience to God's commandments across generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 310.7200012207031,
-    "end_time": 367.4800109863281
+    "end_time": 367.4800109863281,
+    "point_summary": "Though written to Israel, Deuteronomy 6:1 carries direct application to the church today, with obedience to God's commandments presented as the condition for things going well.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 310.7200012207031,
-    "end_time": 367.4800109863281
+    "end_time": 367.4800109863281,
+    "point_summary": "Obedience to God's commandments—fearing Him and keeping His statutes across generations—is the condition upon which things go well; neglect of it brings the opposite outcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 310.7200012207031,
-    "end_time": 367.4800109863281
+    "end_time": 367.4800109863281,
+    "point_summary": "Obedience to God's commands is presented as the direct condition for things going \"well\" with the hearer — disobedience, by implication, forfeits that promised blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 367.5199890136719,
-    "end_time": 431.3399963378906
+    "end_time": 431.3399963378906,
+    "point_summary": "Obedience to God's commands is presented as the condition upon which blessing and increase depend, with the warning that failure to observe them means things will not go well.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 367.5199890136719,
-    "end_time": 431.3399963378906
+    "end_time": 431.3399963378906,
+    "point_summary": "The declaration that \"the Lord our God is one Lord\" is identified as the doctrine of monotheism, serving as the theological foundation from which the surrounding commands about obedience and wholehearted love flow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 367.5199890136719,
-    "end_time": 431.3399963378906
+    "end_time": 431.3399963378906,
+    "point_summary": "Wholehearted love for God — with all heart, soul, and might — is presented as the foundational command from which the surrounding obligations of obedience and diligent teaching flow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 367.5199890136719,
-    "end_time": 431.3399963378906
+    "end_time": 431.3399963378906,
+    "point_summary": "God's commandments are to be internalized in the heart as the foundation for the diligent, pervasive teaching of them to one's children in every context of daily life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 367.5199890136719,
-    "end_time": 431.3399963378906
+    "end_time": 431.3399963378906,
+    "point_summary": "Teaching God's commandments diligently to children — in the home, on the road, at rest, and at rising — is presented as the comprehensive, life-encompassing obedience God requires of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "9S2PoEx7Gq0",
     "start_time": 482.3999938964844,
-    "end_time": 536.739990234375
+    "end_time": 536.739990234375,
+    "point_summary": "Deuteronomy 6:5's command to love God with all heart, soul, and might is presented as God's explicit rejection of half-hearted Christianity, demanding total devotion from every fiber of one's being.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "9sPgxyftngs",
     "start_time": 1133.0,
-    "end_time": 1202.9800000190735
+    "end_time": 1202.9800000190735,
+    "point_summary": "Deuteronomy 11's blessing-and-curse declaration by Moses grounds the theological principle that God's prosperity on Joseph's labors was not coincidence but the direct fruit of walking with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "9sPgxyftngs",
     "start_time": 1202.9800000190735,
-    "end_time": 1268.0599975585938
+    "end_time": 1268.0599975585938,
+    "point_summary": "Deuteronomy 11's conditional blessing and curse establishes that God's favor rests specifically on those who obey His commandments, the framework used to explain Joseph's prosperity under Potiphar.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 244.0,
-    "end_time": 294.32000732421875
+    "end_time": 294.32000732421875,
+    "point_summary": "Deuteronomy 10:12 is cited as a verbal and thematic parallel to Micah 6:8, showing that the question \"what doth the Lord require of thee\" frames Israel's covenant obligations across both Moses and Micah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "9Tofq_cScf8",
     "start_time": 244.0,
-    "end_time": 294.32000732421875
+    "end_time": 294.32000732421875,
+    "point_summary": "Deuteronomy 10:13 is cited as a verbal and thematic parallel to Micah 6:8, showing that God's requirement of his people—obedience for their good—echoes across both Moses and Micah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1339.1199951171875,
-    "end_time": 1404.4399871826172
+    "end_time": 1404.4399871826172,
+    "point_summary": "God's faithfulness to covenant and mercy across a thousand generations, declared in Deuteronomy 7:9, is brought forward as scriptural grounding for the faithfulness He demonstrated toward Abraham and Abimelech in Genesis 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "CejLq4peEWY",
     "start_time": 718.5799865722656,
-    "end_time": 787.8599853515625
+    "end_time": 787.8599853515625,
+    "point_summary": "God, not human ability or talent, is the source of wealth and provision — a truth Jacob models for the next generation by attributing his lifelong sustenance to God's hand of blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "cRs01nZR7xE",
     "start_time": 877.719970703125,
-    "end_time": 942.6399841308594
+    "end_time": 942.6399841308594,
+    "point_summary": "Deuteronomy 6:4's pairing of the plural noun *Elohim* with the singular *Jehovah* (\"one LORD\") is presented as Old Testament evidence that the one God exists in three distinct persons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 253.17999267578125,
-    "end_time": 324.0400085449219
+    "end_time": 324.0400085449219,
+    "point_summary": "Deuteronomy 33:18's call for Zebulun to \"rejoice at thy going out\" is read alongside Genesis 49:13 to corroborate Zebulun's identity as a seafaring, commercially active tribe.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 324.0400085449219,
-    "end_time": 391.6600036621094
+    "end_time": 391.6600036621094,
+    "point_summary": "Moses's parallel blessing \"rejoice at thy going out\" in Deuteronomy 33:18 corroborates Jacob's prophecy of Zebulun's maritime identity, pointing toward a tribe characterized by mercantile activity and seafaring commerce.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 529.8400268554688,
-    "end_time": 595.47998046875
+    "end_time": 595.47998046875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 595.8800048828125,
-    "end_time": 668.0400085449219
+    "end_time": 668.0400085449219,
+    "point_summary": "Moses's parallel blessings in Deuteronomy 33:18 distinguish Zebulun's outward mercantile calling (\"rejoice in thy going out\") from Issachar's settled agricultural role (\"rejoice in thy tents\"), confirming each tribe's distinct vocation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 2427.040044784546,
-    "end_time": 2485.8200454711914
+    "end_time": 2485.8200454711914,
+    "point_summary": "Deuteronomy 33:20 supplements Genesis 49:19 by adding the imagery of a lion and the theme of enlarging and strength to the brief prophetic word given to Gad.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1076.3400268554688,
-    "end_time": 1131.0599975585938
+    "end_time": 1131.0599975585938,
+    "point_summary": "The Old Testament legal standard requiring two or three witnesses (Deut. 19:15) establishes why Jesus' threefold witness to his identity carries binding evidentiary weight for his Jewish audience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "e8NqM-KyHng",
     "start_time": 1131.0599975585938,
-    "end_time": 1218.900001525879
+    "end_time": 1218.900001525879,
+    "point_summary": "Jesus's appeal to a threefold witness in John 5 is grounded in the Mosaic legal standard of Deuteronomy 19:15, which required two or three witnesses to establish a matter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 0.0,
-    "end_time": 75.72000122070312
+    "end_time": 75.72000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 75.72000122070312,
-    "end_time": 148.6199951171875
+    "end_time": 148.6199951171875,
+    "point_summary": "Deuteronomy 11:16's command to \"take heed\" against a deceived heart that turns to other gods supplies both the sermon's title and its governing warning about deception's spiritual danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 148.6199951171875,
-    "end_time": 218.89999389648438
+    "end_time": 218.89999389648438,
+    "point_summary": "Loving God and keeping His commandments is framed here not as temporary obligation but as a permanent, lifelong charge given to those who had personally witnessed God's greatness and discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 218.89999389648438,
-    "end_time": 286.3399963378906
+    "end_time": 286.3399963378906,
+    "point_summary": "Moses addresses the living generation directly in verse 2, distinguishing those who personally witnessed God's mighty acts in Egypt from their children who had not seen them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 218.89999389648438,
-    "end_time": 286.3399963378906
+    "end_time": 286.3399963378906,
+    "point_summary": "Deuteronomy 11:3 is grouped with surrounding verses as part of a cumulative reminder to Israel of God's mighty acts—specifically the miracles and judgments performed in Egypt against Pharaoh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 218.89999389648438,
-    "end_time": 286.3399963378906
+    "end_time": 286.3399963378906,
+    "point_summary": "Verse 4 anchors the broader reminder in Deuteronomy 11:1–5 that recalling God's past mighty acts — here, the destruction of Pharaoh's army at the Red Sea — is meant to encourage His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 400.94000244140625,
-    "end_time": 465.1000061035156
+    "end_time": 465.1000061035156,
+    "point_summary": "God's particular care for the Promised Land — watched over continually from year's beginning to year's end — sets the stage for the conditional blessing that follows, hinging on Israel's obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 400.94000244140625,
-    "end_time": 465.1000061035156
+    "end_time": 465.1000061035156,
+    "point_summary": "Obedience to God's commandments—loving and serving Him wholeheartedly—is the stated condition upon which the promised blessings of rain, harvest, and provision depend.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 400.94000244140625,
-    "end_time": 465.1000061035156
+    "end_time": 465.1000061035156,
+    "point_summary": "God's promised provision of seasonal rain, harvest, and pasture is conditioned on Israel's obedience, making the subsequent warning against heart-deception in verse 16 all the more urgent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 400.94000244140625,
-    "end_time": 465.1000061035156
+    "end_time": 465.1000061035156,
+    "point_summary": "God's provision of grass, cattle, and fullness (v. 15) is presented as the conditional blessing that makes the subsequent warning against heart-deception in v. 16 all the more urgent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 465.1000061035156,
-    "end_time": 541.0800170898438
+    "end_time": 541.0800170898438,
+    "point_summary": "The warning against a deceived heart comes precisely at the moment of God's blessing, not hardship, making prosperity itself the context of greatest spiritual danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 465.1000061035156,
-    "end_time": 541.0800170898438
+    "end_time": 541.0800170898438,
+    "point_summary": "Divine blessing, not hardship, is identified as the precise moment when the heart is most vulnerable to deception and idolatry, making prosperity itself the context of God's warning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -855,7 +1009,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 541.0800170898438,
-    "end_time": 613.2799825668335
+    "end_time": 613.2799825668335,
+    "point_summary": "Deuteronomy 11:16's warning against a deceived heart is set precisely within a season of divine blessing, showing that spiritual self-deception and idolatry are dangers most acute when God is visibly fulfilling His promises.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 613.2799825668335,
-    "end_time": 686.8999862670898
+    "end_time": 686.8999862670898,
+    "point_summary": "The Hebrew word translated \"deceived\" in this verse carries the sense of being simple, naïve, or open-minded, exposing the danger in the modern call to open-mindedness as a path to spiritual deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -877,7 +1035,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Deuteronomy 11's repeated call to keep God's commandments establishes that giving Scripture a prominent place in one's life is the essential guard against a deceived heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Deuteronomy 11:18–20, like Deuteronomy 6, calls God's word to hold a prominent place in believers' lives as the essential guard against a deceived heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Deuteronomy 11:18–20, grouped with the Shema passage of Deuteronomy 6, underscores that God's word must hold a prominent place in daily life as the primary safeguard against a deceived heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Deuteronomy 11:20, grouped with verses 18–19, underscores that God's word must hold a prominent place in the believer's life as the essential guard against a deceived heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -921,7 +1087,9 @@
     "is_implicit": true,
     "video_id": "EaNRDOjPIW4",
     "start_time": 827.9399871826172,
-    "end_time": 894.2599792480469
+    "end_time": 894.2599792480469,
+    "point_summary": "Deuteronomy 11:18–20 mirrors Deuteronomy 6 in its call to give God's commands a prominent place in life, which the sermon identifies as the key safeguard against a deceived heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 962.739990234375,
-    "end_time": 1027.6599731445312
+    "end_time": 1027.6599731445312,
+    "point_summary": "Deuteronomy 11's warning that a deceived heart leads to idolatry and withheld rain finds direct fulfillment in Judah's ruin, confirming God's sovereign control over creation's blessings and judgments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1097.5799865722656,
-    "end_time": 1160.7000122070312
+    "end_time": 1160.7000122070312,
+    "point_summary": "Deuteronomy 11's warning against a deceived heart is illustrated by Israel's misreading of God's long-suffering patience as divine approval of their idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1235.3599548339844,
-    "end_time": 1308.0199508666992
+    "end_time": 1308.0199508666992,
+    "point_summary": "Deuteronomy 11:16's command to \"take heed that your heart be not deceived\" is grounded in the heart's inherent capacity for self-deception, contrasted with the wisdom of trusting the Lord rather than oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1308.0199508666992,
-    "end_time": 1361.8599548339844
+    "end_time": 1361.8599548339844,
+    "point_summary": "The Hebrew imperative \"take heed\" in Deuteronomy 11:16 carries the active sense of seeing, discerning, and being on guard—a warning God's people must personally heed lest their own hearts deceive them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "EaNRDOjPIW4",
     "start_time": 1487.93994140625,
-    "end_time": 1551.8999633789062
+    "end_time": 1551.8999633789062,
+    "point_summary": "Prosperity and abundance create a unique spiritual vulnerability — the moment of blessing is precisely when forgetting God becomes most tempting.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 63.29999923706055,
-    "end_time": 135.0800018310547
+    "end_time": 135.0800018310547,
+    "point_summary": "The command in Deuteronomy 6:5 to love the Lord with all one's heart, soul, and might is introduced as the scriptural baseline for examining whether a believer has left their first love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 135.0800018310547,
-    "end_time": 202.3000030517578
+    "end_time": 202.3000030517578,
+    "point_summary": "Deuteronomy 6:5 is cited as the scriptural baseline for the sermon's central question—whether a believer truly loves God with the whole heart—before turning to John 21 for its exposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "eKXXb-CvsCo",
     "start_time": 135.0800018310547,
-    "end_time": 202.3000030517578
+    "end_time": 202.3000030517578,
+    "point_summary": "Deuteronomy 10:12 is cited alongside Deuteronomy 6:5 to establish that loving God with all one's heart and soul is a foundational divine requirement framing the entire sermon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "EP6z-pS8q5k",
     "start_time": 701.8400192260742,
-    "end_time": 756.7200164794922
+    "end_time": 756.7200164794922,
+    "point_summary": "Deuteronomy 6's warning against forgetting God grounds the call to recognize that prosperity comes from divine blessing, not self-sufficiency, lest we forget the true source.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "Deuteronomy's repeated instruction to Israel before entering Canaan is framed as God ensuring his people understood his expectations — given through Moses for their good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "God's commands to Israel were given expressly for their good, framing Deuteronomy 6:24 as divine instruction designed to benefit his people as they prepared to enter the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 54.959999084472656,
-    "end_time": 121.55999755859375
+    "end_time": 121.55999755859375,
+    "point_summary": "Deuteronomy's repeated instruction to Israel—and by extension God's written Word—exists for the people's good, teaching them what pleases God and how to approach a holy God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 185.5399932861328,
-    "end_time": 265.1000061035156
+    "end_time": 265.1000061035156,
+    "point_summary": "God's commands to Israel were not arbitrary impositions but were given explicitly \"for our good always,\" designed to preserve life and produce righteousness among his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 185.5399932861328,
-    "end_time": 265.1000061035156
+    "end_time": 265.1000061035156,
+    "point_summary": "Israel's deliverance from Egyptian bondage, cited in the father's answer to his son, grounds obedience to God's statutes in a prior act of redemption rather than mere duty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 185.5399932861328,
-    "end_time": 265.1000061035156
+    "end_time": 265.1000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 185.5399932861328,
-    "end_time": 265.1000061035156
+    "end_time": 265.1000061035156,
+    "point_summary": "God's deliverance of Israel from Egypt and into the promised land was purposeful—accomplished \"that he might bring us in,\" linking redemption to inheritance as the foundation for obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 185.5399932861328,
-    "end_time": 265.1000061035156
+    "end_time": 265.1000061035156,
+    "point_summary": "God's commands to Israel were given not as arbitrary demands but expressly \"for our good always,\" with obedience tied directly to preservation of life and righteousness before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 1982.5800476074219,
-    "end_time": 2071.1000366210938
+    "end_time": 2071.1000366210938,
+    "point_summary": "Obedience to God's commands is framed as the path to wellbeing, with verse 18's promise that doing \"right and good in the sight of the Lord\" results in things going well for the obedient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 1982.5800476074219,
-    "end_time": 2071.1000366210938
+    "end_time": 2071.1000366210938,
+    "point_summary": "God's commands in Deuteronomy 6:24 are framed as the Creator-Engineer's instructions given out of love, designed for the ongoing preservation and well-being of those who follow them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2212.9600524902344,
-    "end_time": 2292.4000549316406
+    "end_time": 2292.4000549316406,
+    "point_summary": "Obedience to God's commands brings covenant blessing, while disobedience brings a curse — a choice God plainly sets before His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2292.4000549316406,
-    "end_time": 2378.4800415039062
+    "end_time": 2378.4800415039062,
+    "point_summary": "Obedience to God's commandments is the stated condition for receiving blessing rather than curse, as the word \"if\" in verse 27 makes the outcome contingent on the people's response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2292.4000549316406,
-    "end_time": 2378.4800415039062
+    "end_time": 2378.4800415039062,
+    "point_summary": "Disobedience to God's commandments—specifically turning aside to follow other gods—brings a curse, establishing that the blessing-or-curse choice set before Israel is conditioned entirely on obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2292.4000549316406,
-    "end_time": 2378.4800415039062
+    "end_time": 2378.4800415039062,
+    "point_summary": "Entering the promised land carried the obligation to observe all God's statutes, confirming that possession of the blessing was inseparable from continued obedience to His commandments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2659.740020751953,
-    "end_time": 2734.1800231933594
+    "end_time": 2734.1800231933594,
+    "point_summary": "Deuteronomy 6:18's promise that \"it may be well with thee\" is linked to 2 Peter 1:19's \"ye do well that ye take heed,\" grounding obedience to God's Word as being in our best interest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 126.4000015258789,
-    "end_time": 187.67999267578125
+    "end_time": 187.67999267578125,
+    "point_summary": "God's clear command to His people — do no evil — establishes the foundational biblical principle that guides the sermon's broader argument about abstaining from evil in all its forms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 126.4000015258789,
-    "end_time": 187.67999267578125
+    "end_time": 187.67999267578125,
+    "point_summary": "Deuteronomy 13:5 is cited as one of eight occurrences in Deuteronomy where God commands his people not merely to avoid evil but to actively put evil away from among them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 126.4000015258789,
-    "end_time": 187.67999267578125
+    "end_time": 187.67999267578125,
+    "point_summary": "Evil's consequences are divine judgment, as God's foreknowledge of Israel's disobedience led him to pronounce that evil would befall them because they would do evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 187.67999267578125,
-    "end_time": 252.75999450683594
+    "end_time": 252.75999450683594,
+    "point_summary": "Deuteronomy 31:29 is cited as God's foreknown pronouncement that evil would befall Israel precisely because they would do evil, illustrating that disobedience brings divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "GWHY7Tnt1EI",
     "start_time": 1211.3399782180786,
-    "end_time": 1270.9399795532227
+    "end_time": 1270.9399795532227,
+    "point_summary": "Deuteronomy 8:18 grounds the point that even human effort and hard work trace back to God, since it is He who gives the very power and ability behind any achievement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "hwLKY1FAuwU",
     "start_time": 907.9400024414062,
-    "end_time": 963.6600036621094
+    "end_time": 963.6600036621094,
+    "point_summary": "Paul's citation of Deuteronomy 25:4 alongside Luke 10:7 as \"scripture\" is noted as evidence that both Old and New Testament texts carry equal scriptural authority under the Holy Spirit's inspiration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "hwLKY1FAuwU",
     "start_time": 2444.219982147217,
-    "end_time": 2501.9399795532227
+    "end_time": 2501.9399795532227,
+    "point_summary": "Deuteronomy 1, alongside chapter 16, is cited as early biblical evidence that rejecting partiality is a consistent divine standard, not a New Testament innovation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "hwLKY1FAuwU",
     "start_time": 2444.219982147217,
-    "end_time": 2501.9399795532227
+    "end_time": 2501.9399795532227,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 0.0,
-    "end_time": 80.63999938964844
+    "end_time": 80.63999938964844,
+    "point_summary": "Israel's failure at the threshold of the Promised Land — \"ye did not believe the Lord your God\" — serves as the sermon's cautionary springboard, framing unbelief as a corporate and personal danger to be avoided.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "i0tgIGEcUCc",
     "start_time": 508.05999755859375,
-    "end_time": 571.0399780273438
+    "end_time": 571.0399780273438,
+    "point_summary": "Deuteronomy 1:32 is cited to establish that God desires His people to believe Him, contrasting Israel's failure to do so with the centurion's parallel choice to trust the majority over Paul's warning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 1478.260009765625,
-    "end_time": 1556.4200134277344
+    "end_time": 1556.4200134277344,
+    "point_summary": "Deuteronomy 6's command to saturate children with truth at every moment of daily life is cited as the biblical model for parental responsibility in countering deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "iLWpm-rQ98E",
     "start_time": 1479.9199829101562,
-    "end_time": 1534.0
+    "end_time": 1534.0,
+    "point_summary": "Deuteronomy 30:10's phrase \"it is not hidden from thee, neither is it far off\" grounds the sermon's point that God made His written Word available rather than concealing it from His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "iLWpm-rQ98E",
     "start_time": 1534.0,
-    "end_time": 1594.4800109863281
+    "end_time": 1594.4800109863281,
+    "point_summary": "The phrase \"it is not hidden from thee, neither is it far off\" is used to underscore that God has made His Word openly accessible, calling believers to gratitude rather than neglect of Scripture they freely possess.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "iLWpm-rQ98E",
     "start_time": 1534.0,
-    "end_time": 1594.4800109863281
+    "end_time": 1594.4800109863281,
+    "point_summary": "God's word is not hidden, distant, or inaccessible—Deuteronomy 30:12 establishes that it is near, making its neglect by professing believers all the more inexcusable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "iLWpm-rQ98E",
     "start_time": 1534.0,
-    "end_time": 1594.4800109863281
+    "end_time": 1594.4800109863281,
+    "point_summary": "God's word is not hidden, distant, or inaccessible — it is near, available, and without excuse for neglect, especially for English-speaking believers who possess it freely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "i_WMz1iMqm8",
     "start_time": 940.9600219726562,
-    "end_time": 1007.7200317382812
+    "end_time": 1007.7200317382812,
+    "point_summary": "Deuteronomy 4:39 is cited as an Old Testament precedent showing that God's people have always acknowledged His heavenly position and supreme authority when approaching Him in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "i_WMz1iMqm8",
     "start_time": 1007.7200317382812,
-    "end_time": 1089.280029296875
+    "end_time": 1089.280029296875,
+    "point_summary": "Deuteronomy 4:39 is cited as Old Testament precedent for recognizing God's sovereign position over heaven and earth, establishing the theological foundation for understanding to whom prayer is addressed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1416,7 +1672,9 @@
     "is_implicit": true,
     "video_id": "jIT6eZVTo_c",
     "start_time": 121.87999725341797,
-    "end_time": 184.16000366210938
+    "end_time": 184.16000366210938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "jqx67c84gmA",
     "start_time": 2391.8599853515625,
-    "end_time": 2449.559970855713
+    "end_time": 2449.559970855713,
+    "point_summary": "Obedience to God's statutes is the condition Moses attaches to the promise that \"it may go well with thee,\" and Israel's historical failures are traced directly to neglecting that obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "jqx67c84gmA",
     "start_time": 2449.559970855713,
-    "end_time": 2515.9599685668945
+    "end_time": 2515.9599685668945,
+    "point_summary": "Obedience to God's statutes is not burdensome constraint but is declared by God himself to be \"for our good always,\" making compliance with his word perpetually in the believer's best interest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1449,7 +1711,9 @@
     "is_implicit": true,
     "video_id": "kZ4u2Ljc7cU",
     "start_time": 1796.1599731445312,
-    "end_time": 1865.7800254821777
+    "end_time": 1865.7800254821777,
+    "point_summary": "Deuteronomy's declaration that God gives His people the ability to get wealth is cited to establish that every resource and capacity a person possesses traces back to divine grace, leaving no ground for pride.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "L3JbLyIPp5M",
     "start_time": 808.0000152587891,
-    "end_time": 866.3200073242188
+    "end_time": 866.3200073242188,
+    "point_summary": "God not only declares His greatness in His Word but demonstrates it, as Moses' testimony in Deuteronomy 3 illustrates for Israel on the eve of entering the Promised Land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "L3JbLyIPp5M",
     "start_time": 866.3200073242188,
-    "end_time": 929.3600158691406
+    "end_time": 929.3600158691406,
+    "point_summary": "Moses's declaration that God had \"begun to show\" His greatness—despite having already witnessed the plagues and the Exodus—illustrates that God's demonstrated greatness is inexhaustible, always exceeding what has already been seen.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "L3JbLyIPp5M",
     "start_time": 1065.3600158691406,
-    "end_time": 1127.2000122070312
+    "end_time": 1127.2000122070312,
+    "point_summary": "Israel's declaration at Sinai — that God had shown them His glory and greatness through fire and audible speech — is cited as evidence that God not only declares His greatness but demonstrates it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 117.27999877929688,
-    "end_time": 177.72000122070312
+    "end_time": 177.72000122070312,
+    "point_summary": "Deuteronomy 6 is introduced as the scriptural anchor for a call to deliberate remembrance, set against Israel's recurring failure—epitomized by Jeremiah's indictment—to keep God's mighty acts of deliverance before them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 243.83999633789062,
-    "end_time": 303.6000061035156
+    "end_time": 303.6000061035156,
+    "point_summary": "In seasons of blessing and prosperity, God's people are prone to forget the very Lord who brought them into the land He promised — a danger Moses warns against directly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 243.83999633789062,
-    "end_time": 303.6000061035156
+    "end_time": 303.6000061035156,
+    "point_summary": "In seasons of blessing and prosperity, God's people are especially prone to forget the Lord who provided what they did not build, dig, or plant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1526,7 +1802,9 @@
     "is_implicit": true,
     "video_id": "ldE7ASGe8fY",
     "start_time": 243.83999633789062,
-    "end_time": 303.6000061035156
+    "end_time": 303.6000061035156,
+    "point_summary": "In seasons of blessing and prosperity, the danger of forgetting God who delivered Israel from Egypt is precisely when the warning to remember becomes most urgent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 303.6000061035156,
-    "end_time": 370.0799865722656
+    "end_time": 370.0799865722656,
+    "point_summary": "Deuteronomy 6:10–12 warns that seasons of God-given prosperity carry the specific danger of forgetting the Lord who provided them, making deliberate remembrance a necessary discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "ldE7ASGe8fY",
     "start_time": 568.52001953125,
-    "end_time": 633.9799842834473
+    "end_time": 633.9799842834473,
+    "point_summary": "Deuteronomy's warning against forgetting serves as the biblical backdrop for the call to remembrance, urging believers in times of chaos not to lose sight of foundational truths they already know.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 2409.4600172042847,
-    "end_time": 2476.720016479492
+    "end_time": 2476.720016479492,
+    "point_summary": "Deuteronomy 6's warning—\"beware lest thou forget the Lord\"—grounds the sermon's call to intentional remembrance, paralleling Israel's memorials with New Testament ordinances that keep God's saving acts before His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1696.7000427246094,
-    "end_time": 1760.5000610351562
+    "end_time": 1760.5000610351562,
+    "point_summary": "God's commands in Deuteronomy 6:1 were given not merely for knowledge but for obedient practice, establishing a multigenerational responsibility for fathers to teach and train their children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1696.7000427246094,
-    "end_time": 1760.5000610351562
+    "end_time": 1760.5000610351562,
+    "point_summary": "God's commands are given not merely to be known but to be kept across generations — father to son to grandson — as the measure of a life well lived.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "LXUyl5whAVc",
     "start_time": 1760.5000610351562,
-    "end_time": 1822.100061416626
+    "end_time": 1822.100061416626,
+    "point_summary": "Deuteronomy 6:3's repeated call to \"observe to do\" underscores that God's commands are given not merely for knowledge but for active obedience, with genuine heart-commitment as the prerequisite for credible transmission to the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1603,7 +1893,9 @@
     "is_implicit": true,
     "video_id": "LXUyl5whAVc",
     "start_time": 1760.5000610351562,
-    "end_time": 1822.100061416626
+    "end_time": 1822.100061416626,
+    "point_summary": "Deuteronomy 6:4–6 grounds the call to teach children in the prior necessity that God's commands be genuinely in the parent's own heart, not merely known.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1822.100061416626,
-    "end_time": 1884.2200622558594
+    "end_time": 1884.2200622558594,
+    "point_summary": "Loving God with the whole heart must be genuine inward reality before it can be authentically transmitted to children, because hollow outward observance is transparent to those being taught.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1822.100061416626,
-    "end_time": 1884.2200622558594
+    "end_time": 1884.2200622558594,
+    "point_summary": "Authentic parental faith must be genuinely internalized before it can be effectively transmitted, because children and those we influence readily discern when God's commands are not truly in the heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1822.100061416626,
-    "end_time": 1884.2200622558594
+    "end_time": 1884.2200622558594,
+    "point_summary": "Deuteronomy 6:7's command to teach children diligently flows only from a heart already genuinely transformed, since outward religious display without inward reality is exposed as hollow by those being taught.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 1822.100061416626,
-    "end_time": 1884.2200622558594
+    "end_time": 1884.2200622558594,
+    "point_summary": "Deuteronomy 6:8's command to bind God's words as a sign is not a call to outward religious display but demands that scriptural truth first be genuinely internalized before it can be authentically transmitted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "LXUyl5whAVc",
     "start_time": 2404.2400391101837,
-    "end_time": 2472.360038757324
+    "end_time": 2472.360038757324,
+    "point_summary": "Deuteronomy 6's sequence of personal reception and internalization is cited as the prerequisite for parental teaching: you cannot instruct your children in God's ways until those ways first dwell in your own heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "MD6v9zE8L4E",
     "start_time": 324.4800109863281,
-    "end_time": 387.6000061035156
+    "end_time": 387.6000061035156,
+    "point_summary": "Deuteronomy 5:16 represents Moses restating the commandment to honor parents for a new generation—those who would actually enter the Promised Land—showing the command's continuity across redemptive history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "MD6v9zE8L4E",
     "start_time": 901.1600036621094,
-    "end_time": 973.5599975585938
+    "end_time": 973.5599975585938,
+    "point_summary": "Deuteronomy 5:16 is cited as the Old Testament source behind Paul's parenthetical note in Ephesians 6:2–3, confirming that honoring parents carries a twofold promise of wellbeing and long life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "MD6v9zE8L4E",
     "start_time": 973.5599975585938,
-    "end_time": 1040.7999877929688
+    "end_time": 1040.7999877929688,
+    "point_summary": "Deuteronomy 5:16 is cited alongside Exodus 20 to confirm Paul's claim that honoring parents is the first commandment with promise—specifically the twofold blessing of prolonged days and divine favor.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1702,7 +2010,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1611.9200439453125,
-    "end_time": 1679.7000427246094
+    "end_time": 1679.7000427246094,
+    "point_summary": "Consistent, pervasive instruction in God's Word—at home, in travel, at rest, and at rising—is the scriptural model for parents intentionally passing faith to their children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1611.9200439453125,
-    "end_time": 1679.7000427246094
+    "end_time": 1679.7000427246094,
+    "point_summary": "Deuteronomy 6:7 is read here as God's command for parents to teach his words with diligent consistency—not only in formal instruction but woven through every ordinary moment of daily life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1611.9200439453125,
-    "end_time": 1679.7000427246094
+    "end_time": 1679.7000427246094,
+    "point_summary": "Displaying Scripture visibly throughout the home, as commanded in Deuteronomy 6:8, serves as a constant reminder of God's Word and reinforces the ongoing, life-integrated teaching of children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1735,7 +2049,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1611.9200439453125,
-    "end_time": 1679.7000427246094
+    "end_time": 1679.7000427246094,
+    "point_summary": "Displaying Scripture visibly throughout the home, as commanded in Deuteronomy 6:9, serves as a constant, environmental reinforcement of the intentional, consistent teaching of God's Word to children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "obVssEzUYgQ",
     "start_time": 1679.7000427246094,
-    "end_time": 1747.1800537109375
+    "end_time": 1747.1800537109375,
+    "point_summary": "Deuteronomy 6:7's command to teach children diligently encompasses both intentional instruction and the organic, whole-life modeling of scripture as parents live out their faith before their children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1031.3399963378906,
-    "end_time": 1102.8200073242188
+    "end_time": 1102.8200073242188,
+    "point_summary": "Deuteronomy 10 is cited as confirmation that Israel needed to grasp the same truth Pharaoh was shown—that the earth belongs entirely to the Lord—as they prepared to possess the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1102.8200073242188,
-    "end_time": 1161.5
+    "end_time": 1161.5,
+    "point_summary": "Deuteronomy 10:12's call to fear, walk with, love, and serve God is grounded in the foundational truth that God owns heaven and earth — obedience flows from recognizing His sovereign possession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1779,7 +2101,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1102.8200073242188,
-    "end_time": 1161.5
+    "end_time": 1161.5,
+    "point_summary": "Deuteronomy 10:13's command to keep God's statutes \"for thy good\" frames obedience not as burden but as benefit, grounding Israel's preparation to possess the land in God's ownership of heaven and earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "oCRgIP1Bzd0",
     "start_time": 1102.8200073242188,
-    "end_time": 1161.5
+    "end_time": 1161.5,
+    "point_summary": "God's ownership of heaven, earth, and all therein—established in Deuteronomy 10:14 and echoed in Psalm 24:1—is the foundational truth Moses pressed upon Israel as they prepared to possess the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "omA2lxHRXXU",
     "start_time": 119.95999908447266,
-    "end_time": 188.25999450683594
+    "end_time": 188.25999450683594,
+    "point_summary": "At the close of his life, Moses' own testimony in Deuteronomy 3:24 frames the Horeb encounter as the beginning of God's self-revelation of greatness and mighty power to His servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1812,7 +2140,9 @@
     "is_implicit": false,
     "video_id": "omA2lxHRXXU",
     "start_time": 188.25999450683594,
-    "end_time": 260.5199890136719
+    "end_time": 260.5199890136719,
+    "point_summary": "Moses's own testimony at the end of his life—that God had only \"begun\" to show him His greatness—declares that divine greatness is inexhaustible and ever exceeds what any servant has yet witnessed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1823,7 +2153,9 @@
     "is_implicit": false,
     "video_id": "oOFjt9BwwsE",
     "start_time": 987.8399963378906,
-    "end_time": 1052.4599914550781
+    "end_time": 1052.4599914550781,
+    "point_summary": "Deuteronomy 21:17 establishes that the firstborn's double portion was a legal right determined by birth order alone, not by a father's preference among wives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1834,7 +2166,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 2204.8999938964844,
-    "end_time": 2259.6000061035156
+    "end_time": 2259.6000061035156,
+    "point_summary": "Deuteronomy 17:14's explicit royal prohibition against multiplying wives is cited to establish that Solomon sinned with full knowledge, leaving him without excuse before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 2204.8999938964844,
-    "end_time": 2259.6000061035156
+    "end_time": 2259.6000061035156,
+    "point_summary": "God's explicit command in Deuteronomy 17:15ff against a king multiplying wives is cited to establish that Solomon sinned with full knowledge, leaving him without excuse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1856,7 +2192,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 2204.8999938964844,
-    "end_time": 2259.6000061035156
+    "end_time": 2259.6000061035156,
+    "point_summary": "God's explicit prohibition in Deuteronomy 17:16 against a king multiplying wives meant Solomon sinned without excuse, knowing beforehand that doing so would turn his heart away.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2259.6400146484375,
-    "end_time": 2319.2000122070312
+    "end_time": 2319.2000122070312,
+    "point_summary": "Deuteronomy 17's explicit royal prohibition against multiplying wives is cited to establish that Solomon's moral failure was willful disobedience, not ignorance of God's command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "q3MX1Go2qSk",
     "start_time": 1683.8000183105469,
-    "end_time": 1766.0399780273438
+    "end_time": 1766.0399780273438,
+    "point_summary": "Deuteronomy 11 is cited to establish that obedience to God's commands leads to blessing while disobedience leads to cursing, framing Moses's act as a model of consequential faith-obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "qBNqkK_OxzA",
     "start_time": 1135.9800415039062,
-    "end_time": 1203.260017156601
+    "end_time": 1203.260017156601,
+    "point_summary": "Preparing to hear from God requires first setting the heart, as Moses commanded Israel in Deuteronomy 32:46, so that desire to receive God's Word translates into active, intentional readiness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1900,7 +2244,9 @@
     "is_implicit": true,
     "video_id": "QI1RKiGpoHA",
     "start_time": 836.5,
-    "end_time": 917.8399963378906
+    "end_time": 917.8399963378906,
+    "point_summary": "God grants the power to acquire wealth, making humanity stewards rather than owners of what they possess — a corrective to the self-sufficient boasting of Laodicea.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1911,7 +2257,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 857.5400085449219,
-    "end_time": 919.0400085449219
+    "end_time": 919.0400085449219,
+    "point_summary": "Deuteronomy 6:20–24 is cited to show that God's statutes were given for Israel's preservation and good, grounding obedience in redemptive history rather than arbitrary command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1922,7 +2270,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "Deuteronomy 6:21 is read alongside Leviticus 18 to show that God's deliverance from Egypt (\"brought us out that he might bring us in\") grounds and motivates obedience to his statutes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1933,7 +2283,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "Deuteronomy 6:23 is read to show that God's deliverance from Egypt had a forward purpose — bringing his people *in* to the land — framing the laws of Leviticus 18 as preparation for that inheritance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "Deuteronomy 6:24 is read alongside Leviticus 18 to show that God's commands were given \"for our good always,\" framing obedience as divine provision rather than mere restriction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "Deuteronomy 6:25 is read alongside Leviticus 18 to show that God's commandments were given for Israel's righteousness and good, not as arbitrary restriction but as the blessing of redemption from Egypt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "God's commands in Deuteronomy 10:12—to fear, walk with, love, and serve him—are framed explicitly as being \"for thy good,\" reinforcing that obedience to God's statutes is not burdensome but beneficial to his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 919.0400085449219,
-    "end_time": 976.02001953125
+    "end_time": 976.02001953125,
+    "point_summary": "God's commandments are given \"for thy good,\" underscoring that obedience to His statutes is not burdensome restriction but divine provision for the flourishing of His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1988,7 +2348,9 @@
     "is_implicit": true,
     "video_id": "qnKUhM15Ycs",
     "start_time": 976.02001953125,
-    "end_time": 1042.5000305175781
+    "end_time": 1042.5000305175781,
+    "point_summary": "Deuteronomy 6's declaration that God brought Israel out of Egypt to bring them into the land frames the Levitical commands as divine preparation for what they would face—and must refuse—once there.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1323.4600448608398,
-    "end_time": 1383.1400451660156
+    "end_time": 1383.1400451660156,
+    "point_summary": "God's command that kings personally write and daily read the law (Deut. 17) illustrates that intimate familiarity with Scripture is the prerequisite for keeping God's statutes and fearing Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2010,7 +2374,9 @@
     "is_implicit": true,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1383.1400451660156,
-    "end_time": 1454.9000396728516
+    "end_time": 1454.9000396728516,
+    "point_summary": "Deuteronomy 6 and Deuteronomy 10 both use the phrase \"for thy good,\" establishing that obedience to God's commands is advantageous and in our best interest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2021,7 +2387,9 @@
     "is_implicit": true,
     "video_id": "qnKUhM15Ycs",
     "start_time": 1383.1400451660156,
-    "end_time": 1454.9000396728516
+    "end_time": 1454.9000396728516,
+    "point_summary": "Deuteronomy 10, alongside Deuteronomy 6, contains the phrase \"for thy good,\" establishing that obedience to God's commands is advantageous and in our best interest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 391.20001220703125,
-    "end_time": 452.9200134277344
+    "end_time": 452.9200134277344,
+    "point_summary": "Entering Canaan's abundance made forgetting God a real danger, so Israel was solemnly warned in Deuteronomy 6 that prosperity itself could cause them to forsake the Lord who gave it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2043,7 +2413,9 @@
     "is_implicit": true,
     "video_id": "QUbGD8Rhd5A",
     "start_time": 474.67999267578125,
-    "end_time": 537.5599975585938
+    "end_time": 537.5599975585938,
+    "point_summary": "God's promises throughout Scripture are conditioned on obedience, as Moses declared to Israel in Deuteronomy—a pattern the sermon finds mirrored in Elisha's promise to Naaman upon washing in Jordan.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "Q_1QzEYkQvA",
     "start_time": 2412.8399753570557,
-    "end_time": 2475.759979248047
+    "end_time": 2475.759979248047,
+    "point_summary": "God alone gives the power to acquire wealth, ruling out any notion of a self-made man and grounding Jacob's vow of the tithe in divine provision rather than human achievement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2065,7 +2439,9 @@
     "is_implicit": true,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 968.8000183105469,
-    "end_time": 1027.4000244140625
+    "end_time": 1027.4000244140625,
+    "point_summary": "Deuteronomy 17 is cited as the Mosaic law's prescription of death for idolatry, illustrating that certain offenses under the old covenant permitted no atoning sacrifice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1091.0400085449219,
-    "end_time": 1143.0400390625
+    "end_time": 1143.0400390625,
+    "point_summary": "Offering anything blemished to God is an abomination, illustrating that he, as a great King, demands and deserves only what is worthy and acceptable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1314.9199905395508,
-    "end_time": 1372.3199920654297
+    "end_time": 1372.3199920654297,
+    "point_summary": "Deuteronomy 32:35–36, quoted in Hebrews 10:30, grounds the warning that rejecting Christ's atoning blood places a person directly under God's certain, fearful vengeance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1314.9199905395508,
-    "end_time": 1372.3199920654297
+    "end_time": 1372.3199920654297,
+    "point_summary": "Deuteronomy 32:36, cited alongside verse 35, grounds the warning that God will judge those who reject Christ's atoning blood, making apostasy a fearful confrontation with the living God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "UJuC0OTu5_I",
     "start_time": 1084.8000183105469,
-    "end_time": 1144.800048828125
+    "end_time": 1144.800048828125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "UJuC0OTu5_I",
     "start_time": 1144.800048828125,
-    "end_time": 1205.2800097465515
+    "end_time": 1205.2800097465515,
+    "point_summary": "God's blessing, as Moses declares in Deuteronomy 11:26–27, is directly tied to obedience to His commandments—a biblical principle illustrated in Abraham's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "UJuC0OTu5_I",
     "start_time": 1205.2800097465515,
-    "end_time": 1288.3200073242188
+    "end_time": 1288.3200073242188,
+    "point_summary": "The blessing God sets before Israel is inseparable from obedience to His commandments, making divine favor a conditional promise rather than an unconditional guarantee.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "UJuC0OTu5_I",
     "start_time": 1205.2800097465515,
-    "end_time": 1288.3200073242188
+    "end_time": 1288.3200073242188,
+    "point_summary": "Obedience to God's commandments is the condition for blessing, while disobedience—particularly turning to other gods—brings the curse, a direct cause-and-effect structure Moses sets before Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 786.5600128173828,
-    "end_time": 843.3200225830078
+    "end_time": 843.3200225830078,
+    "point_summary": "Deuteronomy 4:1's prohibition against adding to or diminishing God's word is cited as biblical warrant for verbal plenary inspiration — that God's concern extends to every individual word of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2164,7 +2556,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 786.5600128173828,
-    "end_time": 843.3200225830078
+    "end_time": 843.3200225830078,
+    "point_summary": "God's prohibition against adding to or subtracting from His word (Deut. 4:2) is cited as evidence that He is concerned with the very words of Scripture, supporting verbal plenary inspiration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 109.08000183105469,
-    "end_time": 173.8000030517578
+    "end_time": 173.8000030517578,
+    "point_summary": "Deuteronomy 6:1 frames God's commandments as given not merely for personal obedience but to be taught across generations—son to son's son—so that fear of the Lord and covenant keeping would endure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "Obedience to God's commandments carries the covenant promise of well-being and increase in the land, framing divine instruction as a blessing rather than a burden.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "The declaration \"the Lord our God is one Lord\" anchors the entire passage's call to love and teach, establishing the singular, covenant God as the foundation for all parental instruction that follows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "Loving God with the totality of one's being — heart, soul, and might — is presented as the foundational command from which the charge to teach children flows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "God's commandments must first be internalized in the heart of the parent before they can be faithfully transmitted to the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "Deuteronomy 6:7 frames the teaching of God's Word to children as a pervasive, all-day obligation woven into every ordinary moment of household and daily life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2241,7 +2647,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 173.8000030517578,
-    "end_time": 233.9199981689453
+    "end_time": 233.9199981689453,
+    "point_summary": "Writing God's commands on doorposts and gates signifies that Scripture is meant to saturate every boundary of domestic life, making the home itself a visible testimony to covenant instruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 233.9199981689453,
-    "end_time": 292.8800048828125
+    "end_time": 292.8800048828125,
+    "point_summary": "The divine origin of the instruction in Deuteronomy 6:1 — given by God through Moses, not devised by Moses himself — is what establishes its supreme importance for God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 603.9199805259705,
-    "end_time": 668.8199768066406
+    "end_time": 668.8199768066406,
+    "point_summary": "God's commandments are given \"for our good always,\" meaning obedience to His statutes is not burdensome obligation but divinely designed benefit that motivates implementation in one's own life first.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2285,7 +2699,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 668.8199768066406,
-    "end_time": 729.2399749755859
+    "end_time": 729.2399749755859,
+    "point_summary": "Deuteronomy 6:1's command to \"teach you, that ye might do them\" establishes that God's instruction must first be personally implemented before it can be effectively transmitted to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2296,7 +2712,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 729.2399749755859,
-    "end_time": 796.3799743652344
+    "end_time": 796.3799743652344,
+    "point_summary": "The perpetuity language of verse 2 underscores that God's commands must first be personally implemented by those who teach them, since instruction divorced from personal obedience loses its effectiveness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2307,7 +2725,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 729.2399749755859,
-    "end_time": 796.3799743652344
+    "end_time": 796.3799743652344,
+    "point_summary": "Obedience to God's instruction must be personally embodied before it can be effectively transmitted, since verse 3's call to \"observe to do it\" is addressed first to those who will teach.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 729.2399749755859,
-    "end_time": 796.3799743652344
+    "end_time": 796.3799743652344,
+    "point_summary": "Loving God with all one's heart, soul, and might (v. 5) must be personally embodied before it can be effectively transmitted, since instructors who do not themselves implement God's Word undermine their own teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 729.2399749755859,
-    "end_time": 796.3799743652344
+    "end_time": 796.3799743652344,
+    "point_summary": "Deuteronomy 6:6's command that God's words be \"in thine heart\" establishes that parents and teachers must personally implement Scripture before they can effectively transmit it to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1238.3399810791016,
-    "end_time": 1299.2599792480469
+    "end_time": 1299.2599792480469,
+    "point_summary": "The four time-markers of verse 7 — sitting, walking, lying down, rising up — together communicate that teaching children God's commandments is a continuous, all-day obligation, not a scheduled event alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1238.3399810791016,
-    "end_time": 1299.2599792480469
+    "end_time": 1299.2599792480469,
+    "point_summary": "Binding God's commandments \"upon thine hand\" and \"between thine eyes\" signifies that the Word should be continually before us, internalized in the heart, not merely observed as external ritual.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1238.3399810791016,
-    "end_time": 1299.2599792480469
+    "end_time": 1299.2599792480469,
+    "point_summary": "Deuteronomy 6:6's command that God's words \"shall be in thine heart\" means the instruction must be continually before the believer, internalized rather than merely external.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2373,7 +2803,9 @@
     "is_implicit": true,
     "video_id": "U_xKQPutdso",
     "start_time": 1481.0199890136719,
-    "end_time": 1545.6199951171875
+    "end_time": 1545.6199951171875,
+    "point_summary": "Deuteronomy 6:7's command to teach children diligently assigns that responsibility exclusively to parents—a divine mandate for which they will personally give account.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 1899.199966430664,
-    "end_time": 1966.0399627685547
+    "end_time": 1966.0399627685547,
+    "point_summary": "Deuteronomy 6's command to teach children is generational in consequence, as the failure seen in Judges—a generation that knew not the Lord—illustrates what happens when God's people neglect that instruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2395,7 +2829,9 @@
     "is_implicit": false,
     "video_id": "U_xKQPutdso",
     "start_time": 2183.9199829101562,
-    "end_time": 2255.719970703125
+    "end_time": 2255.719970703125,
+    "point_summary": "The divine source of Scripture—God himself—is what makes it holy and authoritative, grounding the Deuteronomy 6 command to teach children in the recognition that the instruction originates with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2406,7 +2842,9 @@
     "is_implicit": true,
     "video_id": "w16vXRlvXV0",
     "start_time": 58.880001068115234,
-    "end_time": 115.4000015258789
+    "end_time": 115.4000015258789,
+    "point_summary": "Deuteronomy 6 records Moses giving fathers in Israel specific instruction to know the truth and live the truth as the foundation of their influence over their families.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 115.4000015258789,
-    "end_time": 172.5399932861328
+    "end_time": 172.5399932861328,
+    "point_summary": "Deuteronomy 6 prescribes a sequence for fathers—knowing the truth, living the truth, then teaching it—so that the message of their life matches the message of their lips.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2428,7 +2868,9 @@
     "is_implicit": true,
     "video_id": "w16vXRlvXV0",
     "start_time": 550.8800048828125,
-    "end_time": 613.8000268936157
+    "end_time": 613.8000268936157,
+    "point_summary": "Deuteronomy 6 grounds the father's responsibility to give verbal instruction to his children, a pattern traceable through Adam, Noah, and Abraham across redemptive history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 1007.2400207519531,
-    "end_time": 1084.0400390625
+    "end_time": 1084.0400390625,
+    "point_summary": "Deuteronomy 6's instruction to fathers requires not merely knowing and declaring the truth but personally living it, since children observe a father's ways whether or not he invites them to.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2450,7 +2894,9 @@
     "is_implicit": true,
     "video_id": "w16vXRlvXV0",
     "start_time": 2265.6000366210938,
-    "end_time": 2333.0000610351562
+    "end_time": 2333.0000610351562,
+    "point_summary": "God attaches blessings to obedience and curses to disobedience, a principle Deuteronomy 11 states plainly and that extends even to obeying the Gospel for salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2769.3600463867188,
-    "end_time": 2842.1400451660156
+    "end_time": 2842.1400451660156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2472,7 +2920,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2843.0400390625,
-    "end_time": 2916.300048828125
+    "end_time": 2916.300048828125,
+    "point_summary": "Obedience to God's commandments is conditional on a wholehearted turning to the Lord, and the repeated \"if\" of Deuteronomy 30:10 underscores that this covenant response is both required and accessible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2916.300048828125,
-    "end_time": 2977.06005859375
+    "end_time": 2977.06005859375,
+    "point_summary": "God's word is not remote or inaccessible—it is near, available, and sufficient to instruct obedience without any need to search beyond reach.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2494,7 +2946,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2916.300048828125,
-    "end_time": 2977.06005859375
+    "end_time": 2977.06005859375,
+    "point_summary": "Deuteronomy 30:13, read as part of Moses' declaration that God's word is neither in heaven nor beyond the sea, underscores that Scripture is fully accessible — no excuse remains for not knowing what God requires.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2505,7 +2959,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2916.300048828125,
-    "end_time": 2977.06005859375
+    "end_time": 2977.06005859375,
+    "point_summary": "God's word is not hidden or distant but immediately accessible — in the mouth and heart — so that obedience is genuinely possible for those who turn to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2916.300048828125,
-    "end_time": 2977.06005859375
+    "end_time": 2977.06005859375,
+    "point_summary": "Deuteronomy 30:15 frames obedience and disobedience as a clear, consequential choice — life and good versus death and evil — set plainly before God's people in his accessible, near word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2527,7 +2985,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2978.2600708007812,
-    "end_time": 3037.540069580078
+    "end_time": 3037.540069580078,
+    "point_summary": "Obedience to God's commands—loving him, walking in his ways—is the condition Moses sets before Israel for life, blessing, and multiplication in the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2978.2600708007812,
-    "end_time": 3037.540069580078
+    "end_time": 3037.540069580078,
+    "point_summary": "Turning away from God toward other gods brings certain destruction — the conditional \"if\" of verse 17 frames disobedience as a deliberate choice with deadly consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2978.2600708007812,
-    "end_time": 3037.540069580078
+    "end_time": 3037.540069580078,
+    "point_summary": "Disobedience and the turning of the heart toward other gods brings the certain consequence of perishing, as God sets before Israel a clear choice between life and death with no ambiguity about the outcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2978.2600708007812,
-    "end_time": 3037.540069580078
+    "end_time": 3037.540069580078,
+    "point_summary": "God's word is not hidden or inaccessible but set plainly before people as a clear choice between life and death, blessing and cursing, demanding a decisive response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 2978.2600708007812,
-    "end_time": 3037.540069580078
+    "end_time": 3037.540069580078,
+    "point_summary": "Loving God, obeying His voice, and cleaving to Him is itself life — not merely a path to it — making obedience inseparable from the blessing of dwelling in the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "wb3Da9z0nOk",
     "start_time": 1003.7000122070312,
-    "end_time": 1098.1000061035156
+    "end_time": 1098.1000061035156,
+    "point_summary": "God's nature as a consuming fire is invoked to explain why the burnt offering was consumed by flame — the fire pictures surrender being received by a jealous, all-consuming God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2593,7 +3063,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 1291.8400039672852,
-    "end_time": 1358.2000122070312
+    "end_time": 1358.2000122070312,
+    "point_summary": "Deuteronomy 11's declaration of blessing and curse set before Israel illustrates that yielding to God is a recurring, free-will choice, not a once-for-all decision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2604,7 +3076,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1491.0400390625,
-    "end_time": 1550.7200317382812
+    "end_time": 1550.7200317382812,
+    "point_summary": "God's word to Moses — \"say unto them\" — establishes that the message Israel received came with divine authority, making their failure to heed it a refusal of God himself, not merely of a human messenger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1550.7200317382812,
-    "end_time": 1612.6000366210938
+    "end_time": 1612.6000366210938,
+    "point_summary": "Israel's failure at Kadesh illustrates that the problem was not unfaithful preaching—Moses delivered God's exact message—but a people who would not hear and rebelled anyway.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2626,7 +3102,9 @@
     "is_implicit": true,
     "video_id": "x_cP5nnwVQU",
     "start_time": 1612.6000366210938,
-    "end_time": 1681.9000244140625
+    "end_time": 1681.9000244140625,
+    "point_summary": "Israel's refusal to hear Moses' faithful warning—\"ye would not hear, but rebelled\"—illustrates that disobedience follows the rejection of a faithfully delivered word, not its absence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2637,7 +3115,9 @@
     "is_implicit": true,
     "video_id": "yKUQA_1zUE4",
     "start_time": 704.2400131225586,
-    "end_time": 765.2400207519531
+    "end_time": 765.2400207519531,
+    "point_summary": "Christ's quotation of Deuteronomy 8:3 in Matthew 4:4 is presented as evidence that God's word endures forever, preserved across many centuries to remain authoritative Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2648,7 +3128,9 @@
     "is_implicit": true,
     "video_id": "yKUQA_1zUE4",
     "start_time": 2230.1600341796875,
-    "end_time": 2284.8400268554688
+    "end_time": 2284.8400268554688,
+    "point_summary": "Deuteronomy 4 is cited as biblical evidence that God's concern for preservation extends to the specific words of Scripture, not merely their general meaning or ideas.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "yV-HhfyMF_o",
     "start_time": 123.37999725341797,
-    "end_time": 192.66000366210938
+    "end_time": 192.66000366210938,
+    "point_summary": "Loving God's word is inseparable from loving God himself, as the command to love the Lord with all one's heart, soul, and might establishes the foundation from which the psalmist's love for the law flows.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2670,7 +3154,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2230.47998046875,
-    "end_time": 2289.5999755859375
+    "end_time": 2289.5999755859375,
+    "point_summary": "Moses, on the eve of Israel's entrance into the promised land, placed before the people the same fundamental choice Joshua would later present: blessing or curse, with no neutral ground.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2681,7 +3167,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2230.47998046875,
-    "end_time": 2289.5999755859375
+    "end_time": 2289.5999755859375,
+    "point_summary": "Deuteronomy 30 is introduced as a second Mosaic passage reinforcing the same theme as Deuteronomy 11—that God sets a definitive choice before His people—but its content is not yet expounded in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2692,7 +3180,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2289.5999755859375,
-    "end_time": 2341.0599975585938
+    "end_time": 2341.0599975585938,
+    "point_summary": "Moses's parallel to Joshua's call establishes that God has always set before His people a clear binary: obedience leading to blessing or disobedience leading to a curse, making silence itself a consequential choice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2289.5999755859375,
-    "end_time": 2341.0599975585938
+    "end_time": 2341.0599975585938,
+    "point_summary": "Obedience to God's commandments is identified as the specific choice that leads to blessing, while turning aside to other gods is the specific choice that leads to a curse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2714,7 +3206,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2289.5999755859375,
-    "end_time": 2341.0599975585938
+    "end_time": 2341.0599975585938,
+    "point_summary": "Disobedience to God's commandments—specifically turning aside to follow other gods—is presented here as the defined path that brings a curse, making the consequence of that choice unmistakably clear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2596.3599700927734,
-    "end_time": 2674.47998046875
+    "end_time": 2674.47998046875,
+    "point_summary": "God's commandments are not hidden or far off, meaning no one can claim ignorance as an excuse for disobedience when held accountable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2736,7 +3232,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2596.3599700927734,
-    "end_time": 2674.47998046875
+    "end_time": 2674.47998046875,
+    "point_summary": "God's commands are not hidden or far off, making human accountability real — the choice between blessing and curse belongs entirely to the individual.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2747,7 +3245,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2674.47998046875,
-    "end_time": 2726.439971923828
+    "end_time": 2726.439971923828,
+    "point_summary": "God's commandments are not hidden or inaccessible but have been faithfully preserved and delivered, so that obedience — and its accompanying blessing — is genuinely within reach.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2758,7 +3258,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2674.47998046875,
-    "end_time": 2726.439971923828
+    "end_time": 2726.439971923828,
+    "point_summary": "God's commandments are not hidden or inaccessible but have been faithfully delivered and preserved, leaving no excuse for disobedience when the choice between blessing and curse is set before the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2769,7 +3271,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2674.47998046875,
-    "end_time": 2726.439971923828
+    "end_time": 2726.439971923828,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2780,7 +3284,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2674.47998046875,
-    "end_time": 2726.439971923828
+    "end_time": 2726.439971923828,
+    "point_summary": "God's Word is not hidden or far off but near — in the mouth and heart — so that obedience is genuinely possible and without excuse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2791,7 +3297,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2726.439971923828,
-    "end_time": 2788.519989013672
+    "end_time": 2788.519989013672,
+    "point_summary": "Deuteronomy 30:15 frames the choice between life and death as one God has openly set before His people, underscoring that accountability is just, since His Word has been faithfully given and preserved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2802,7 +3310,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2726.439971923828,
-    "end_time": 2788.519989013672
+    "end_time": 2788.519989013672,
+    "point_summary": "God's commandments being accessible and not hidden means His people are without excuse, making their choice between life and death a fully informed, accountable decision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2813,7 +3323,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2726.439971923828,
-    "end_time": 2788.519989013672
+    "end_time": 2788.519989013672,
+    "point_summary": "God's solemn invocation of heaven and earth as witnesses to the choice between life and death underscores both the individual responsibility to choose rightly and the generational consequences of that decision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2824,7 +3336,9 @@
     "is_implicit": true,
     "video_id": "_dFILA2HCeY",
     "start_time": 603.3799805641174,
-    "end_time": 661.47998046875
+    "end_time": 661.47998046875,
+    "point_summary": "Deuteronomy 4:37 is cited to show that Old Testament expressions of God's love were directed toward the patriarchs and the nation collectively, setting up a contrast with the personal, individual love later developed from 1 John.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2835,7 +3349,9 @@
     "is_implicit": true,
     "video_id": "_dFILA2HCeY",
     "start_time": 661.47998046875,
-    "end_time": 730.2999877929688
+    "end_time": 730.2999877929688,
+    "point_summary": "God's love in the Old Testament is shown as directed toward the patriarchs collectively and their national descendants, setting the stage for the sermon's contrast with personal, individual love in 1 John.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2846,7 +3362,9 @@
     "is_implicit": false,
     "video_id": "_dFILA2HCeY",
     "start_time": 661.47998046875,
-    "end_time": 730.2999877929688
+    "end_time": 730.2999877929688,
+    "point_summary": "God's love for Israel in the Old Testament was directed toward the nation collectively, not because of their size or merit, but solely because of his own sovereign love and covenant faithfulness to the fathers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "_dFILA2HCeY",
     "start_time": 661.47998046875,
-    "end_time": 730.2999877929688
+    "end_time": 730.2999877929688,
+    "point_summary": "God's love in the Old Testament is shown as directed first toward the patriarchs collectively and then extended to their descendants as a chosen nation, a corporate rather than individual love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "_dFILA2HCeY",
     "start_time": 730.2999877929688,
-    "end_time": 791.0999755859375
+    "end_time": 791.0999755859375,
+    "point_summary": "God's love for Israel was not merited by their greatness but was a sovereign delight directed toward the fathers and extended to their descendants, as Moses reminded the people before they entered the promised land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "_dFILA2HCeY",
     "start_time": 730.2999877929688,
-    "end_time": 791.0999755859375
+    "end_time": 791.0999755859375,
+    "point_summary": "God's love for Israel was so steadfast that even a pagan curse could not stand against it, as the Lord turned Balaam's curse into blessing precisely because He loved His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2890,7 +3414,9 @@
     "is_implicit": false,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 1935.699951171875,
-    "end_time": 2000.3399505615234
+    "end_time": 2000.3399505615234,
+    "point_summary": "Because God himself regards no persons — being God of gods and Lord of lords — his people are called to match that impartiality by circumcising their hearts rather than resting on outward distinctions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2901,7 +3427,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 2000.3399505615234,
-    "end_time": 2062.739959716797
+    "end_time": 2062.739959716797,
+    "point_summary": "Circumcision of the heart, not outward ritual, is what God requires, because partiality and stiff-neckedness are heart problems — and God himself shows no partiality of persons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2912,7 +3440,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 2000.3399505615234,
-    "end_time": 2062.739959716797
+    "end_time": 2062.739959716797,
+    "point_summary": "God's impartiality is grounded in His sovereign nature as Lord of lords, who accepts no bribes and shows no favoritism, establishing the standard His people are called to reflect.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2923,7 +3453,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 2000.3399505615234,
-    "end_time": 2062.739959716797
+    "end_time": 2062.739959716797,
+    "point_summary": "God's impartiality — shown in His care for the fatherless, widow, and stranger in Deuteronomy 10:18 — grounds the call for His people to likewise show no partiality.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2934,7 +3466,9 @@
     "is_implicit": true,
     "video_id": "mGFBKSQ9gYE",
     "start_time": 2000.3399505615234,
-    "end_time": 2062.739959716797
+    "end_time": 2062.739959716797,
+    "point_summary": "Because God himself shows no partiality and commands Israel to love the stranger, his people are likewise called to be no respecters of persons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 191.9199981689453,
-    "end_time": 252.72000122070312
+    "end_time": 252.72000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2956,7 +3492,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 938.5600280761719,
-    "end_time": 1004.1200256347656
+    "end_time": 1004.1200256347656,
+    "point_summary": "The memorial stones were designed by God with future generations in mind, anticipating that children would ask their fathers what the stones meant, revealing God's foreknowledge and purposeful design.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2967,7 +3505,9 @@
     "is_implicit": true,
     "video_id": "RNHeQGD_erM",
     "start_time": 1657.2600402832031,
-    "end_time": 1718.9400634765625
+    "end_time": 1718.9400634765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2978,7 +3518,9 @@
     "is_implicit": false,
     "video_id": "G4Un3pWAQf0",
     "start_time": 1649.1599731445312,
-    "end_time": 1713.6399536132812
+    "end_time": 1713.6399536132812,
+    "point_summary": "Obedience to God's commands is the condition upon which divine blessing or cursing rests, making repentance and forsaking sin the path to restored favor.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -2989,7 +3531,9 @@
     "is_implicit": true,
     "video_id": "G4Un3pWAQf0",
     "start_time": 1713.6399536132812,
-    "end_time": 1772.239990234375
+    "end_time": 1772.239990234375,
+    "point_summary": "God's offer of blessing or curse in Deuteronomy 30:15 is invoked to show that obedience to God's commands determines whether one receives His favor or forfeits it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3000,7 +3544,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 814.2799835205078,
-    "end_time": 875.5799865722656
+    "end_time": 875.5799865722656,
+    "point_summary": "Deuteronomy 8 is cited to show that Israel faced the same danger James warns against—forgetting that God, not human effort, is the source of every blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3011,7 +3557,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 875.5799865722656,
-    "end_time": 929.5399780273438
+    "end_time": 929.5399780273438,
+    "point_summary": "Israel's warning in Deuteronomy 6 — \"beware lest thou forget the Lord\" amid abundance — illustrates the human tendency to forget God as the source of every blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3022,7 +3570,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 875.5799865722656,
-    "end_time": 929.5399780273438
+    "end_time": 929.5399780273438,
+    "point_summary": "Deuteronomy 8:11 is cited as an Old Testament warning that material abundance tempts God's people to forget that He, not their own effort, is the source of every blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3033,7 +3583,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 990.8999938964844,
-    "end_time": 1050.739990234375
+    "end_time": 1050.739990234375,
+    "point_summary": "God's faithful leadership through the wilderness — including fiery serpents, scorpions, and drought — is cited to show that Israel's abundance came entirely from divine provision, not human achievement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3044,7 +3596,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 990.8999938964844,
-    "end_time": 1050.739990234375
+    "end_time": 1050.739990234375,
+    "point_summary": "Prosperity tempts every heart toward the self-congratulating delusion that personal power, not God's provision, produced one's wealth and accomplishment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3055,7 +3609,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 990.8999938964844,
-    "end_time": 1050.739990234375
+    "end_time": 1050.739990234375,
+    "point_summary": "God alone is the source of every ability and resource, so that any wealth or accomplishment credited to human power reflects the very forgetfulness Deuteronomy 8 warns against.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3066,7 +3622,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 1052.0399780273438,
-    "end_time": 1104.1399841308594
+    "end_time": 1104.1399841308594,
+    "point_summary": "God alone is the source of every ability and resource, and Deuteronomy 8:18 corrects the self-congratulating heart that attributes its wealth and accomplishments to its own power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3077,7 +3635,9 @@
     "is_implicit": false,
     "video_id": "npp6nsROFsk",
     "start_time": 559.4600219726562,
-    "end_time": 623.9800243377686
+    "end_time": 623.9800243377686,
+    "point_summary": "Paul's citation of the Deuteronomy 17 witness principle in a New Testament epistle is taken as evidence that Old Testament law contains abiding principles still applicable to believers today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Deuteronomy",
@@ -3088,6 +3648,8 @@
     "is_implicit": false,
     "video_id": "BhyhczSVZM0",
     "start_time": 622.7999820709229,
-    "end_time": 690.1199798583984
+    "end_time": 690.1199798583984,
+    "point_summary": "Deuteronomy 6:4 is cited as the scriptural foundation for monotheism—the belief in one God alone—set in contrast to atheism, pantheism, and polytheism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 1450.0600128173828,
-    "end_time": 1524.260009765625
+    "end_time": 1524.260009765625,
+    "point_summary": "Ezekiel 33 is cited as a parallel witness to Jeremiah's call to repentance, noting that Israel heard the prophetic word but failed to obey it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "BB7NHySh5dQ",
     "start_time": 975.5599975585938,
-    "end_time": 1042.8399963378906
+    "end_time": 1042.8399963378906,
+    "point_summary": "Paul's declaration \"I am pure from the blood of all men\" in Acts 20 consciously echoes Ezekiel's watchman principle: faithful warning discharges the messenger's responsibility regardless of how hearers respond.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "BB7NHySh5dQ",
     "start_time": 975.5599975585938,
-    "end_time": 1042.8399963378906
+    "end_time": 1042.8399963378906,
+    "point_summary": "Paul's declaration \"I am pure from the blood of all men\" in Acts 20 deliberately echoes Ezekiel's watchman principle: the one who faithfully warns bears no guilt for those who refuse to heed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 2102.1200256347656,
-    "end_time": 2165.1600341796875
+    "end_time": 2165.1600341796875,
+    "point_summary": "Dan's absence from Revelation 7 and 1 Chronicles 2–10 is contrasted with his inclusion in Ezekiel 48:1–2, which is read as a millennial restoration indicating God's long-range purposes extend beyond tribal judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 2165.1600341796875,
-    "end_time": 2231.4400329589844
+    "end_time": 2231.4400329589844,
+    "point_summary": "Dan's absence from Revelation 7's tribal list contrasts with his inclusion in Ezekiel 48's millennial land allotment, suggesting God's long-range redemptive purposes extend even to tribes judged for idolatry.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "DSAVnV2bHaY",
     "start_time": 1852.7600059509277,
-    "end_time": 1925.1600036621094
+    "end_time": 1925.1600036621094,
+    "point_summary": "God calls his messengers as watchmen who must sound the warning regardless of response, with the responsibility for heeding or rejecting that warning falling entirely on the hearers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "DSAVnV2bHaY",
     "start_time": 1852.7600059509277,
-    "end_time": 1925.1600036621094
+    "end_time": 1925.1600036621094,
+    "point_summary": "God's call to Ezekiel as a watchman establishes that the messenger's responsibility is fulfilled in delivering the warning; how hearers respond falls entirely on them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 521.47998046875,
-    "end_time": 591.280029296875
+    "end_time": 591.280029296875,
+    "point_summary": "God's word, not human opinion, defines evil — a point illustrated by the sweeping indictment of Israel's violations catalogued in Ezekiel 22 as a scriptural case study in what evil actually looks like.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 592.52001953125,
-    "end_time": 659.159984588623
+    "end_time": 659.159984588623,
+    "point_summary": "Ezekiel 22:26 is cited as a sobering indictment showing that when priests failed to distinguish between holy and profane, clean and unclean, they profaned God himself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "G5YRE5OaH7s",
     "start_time": 592.52001953125,
-    "end_time": 659.159984588623
+    "end_time": 659.159984588623,
+    "point_summary": "God's definition of evil is illustrated in Ezekiel 22 by priests who erased the distinction between holy and profane, clean and unclean—a failure to differentiate that Scripture itself treats as moral violation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "iZXFuFteOqU",
     "start_time": 2457.1000022888184,
-    "end_time": 2512.6399993896484
+    "end_time": 2512.6399993896484,
+    "point_summary": "Paul's declaration in Acts 20:26 that he is \"pure from the blood of all men\" draws a direct line to Ezekiel's watchman passages (chapters 3 and 33), where faithfulness to warn determines guilt or innocence for others' spiritual fate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "iZXFuFteOqU",
     "start_time": 2512.6399993896484,
-    "end_time": 2567.6600036621094
+    "end_time": 2567.6600036621094,
+    "point_summary": "Paul's declaration of being \"pure from the blood of all men\" (Acts 20:26) is read as a direct echo of Ezekiel 3, where God charges the watchman with guilt if he fails to warn the people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "iZXFuFteOqU",
     "start_time": 2512.6399993896484,
-    "end_time": 2567.6600036621094
+    "end_time": 2567.6600036621094,
+    "point_summary": "Paul's declaration of being \"pure from the blood of all men\" (Acts 20:26) is read as a direct echo of Ezekiel's watchman commission, where faithfulness to warn absolves the prophet of guilt for those who reject the message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "lmbflZLlrso",
     "start_time": 1902.9200134277344,
-    "end_time": 1978.9600219726562
+    "end_time": 1978.9600219726562,
+    "point_summary": "The watchman's accountability before God is for faithfulness in delivering the warning, not for whether those warned respond to it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "MPv8bPsuptg",
     "start_time": 1455.3599853515625,
-    "end_time": 1533.3599853515625
+    "end_time": 1533.3599853515625,
+    "point_summary": "God's call for one person to \"stand in the gap\" (Ezek. 22:30) frames Joseph as the faithful individual God used when no such man could be found in Ezekiel's day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -173,7 +203,9 @@
     "is_implicit": true,
     "video_id": "N6BsUO2YuSE",
     "start_time": 131.60000610351562,
-    "end_time": 196.0399932861328
+    "end_time": 196.0399932861328,
+    "point_summary": "God's failure to find even one man willing to stand in the gap (Ezekiel) stands as a solemn contrast to the faithful 300 in Judges 7 who each stood every man in his place.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1961.9999694824219,
-    "end_time": 2028.459976196289
+    "end_time": 2028.459976196289,
+    "point_summary": "Ezekiel 3's watchman passage underlies Paul's declaration in Acts 20:26 — faithfully warning others clears the watchman of bloodguilt, while silence makes him accountable for their souls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -195,7 +229,9 @@
     "is_implicit": true,
     "video_id": "OL3xd5kHCD0",
     "start_time": 1961.9999694824219,
-    "end_time": 2028.459976196289
+    "end_time": 2028.459976196289,
+    "point_summary": "Ezekiel 33's watchman passage underlies Paul's declaration in Acts 20:26, showing that faithful warning clears the messenger of bloodguilt while silence makes him accountable for those left unwarned.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -206,7 +242,9 @@
     "is_implicit": true,
     "video_id": "oZlLM5d6rzk",
     "start_time": 809.1600189208984,
-    "end_time": 869.3200073242188
+    "end_time": 869.3200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 186.0399932861328,
-    "end_time": 252.75999450683594
+    "end_time": 252.75999450683594,
+    "point_summary": "Ezekiel 38–39's prophecy of Gog and Magog is presented as a current talking point prompted by Russia's invasion of Ukraine, with the sermon concluding that conflict is not its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 186.0399932861328,
-    "end_time": 252.75999450683594
+    "end_time": 252.75999450683594,
+    "point_summary": "Ezekiel 38–39's prophecy of Gog and Magog is introduced as a current talking point, with the sermon asserting confidently that Russia's invasion of Ukraine does not fulfill it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 252.8000030517578,
-    "end_time": 318.9599914550781
+    "end_time": 318.9599914550781,
+    "point_summary": "Ezekiel 38–39 prophesies a future \"Gog and Magog\" invasion that Russia's current war in Ukraine does not fulfill, though it may be a precursor to conditions that lead toward that event.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 252.8000030517578,
-    "end_time": 318.9599914550781
+    "end_time": 318.9599914550781,
+    "point_summary": "Ezekiel 38–39 prophesies a future Gog and Magog invasion distinct from Russia's current Ukraine conflict, though present geopolitical conditions may be setting the stage for that prophesied event.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 252.8000030517578,
-    "end_time": 318.9599914550781
+    "end_time": 318.9599914550781,
+    "point_summary": "Ezekiel 35–36 is identified as prophecy concerning the regathering of Israel, a process seen beginning in 1948 and expected to intensify before the later events of chapters 38–39.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 252.8000030517578,
-    "end_time": 318.9599914550781
+    "end_time": 318.9599914550781,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 318.9599914550781,
-    "end_time": 384.2799987792969
+    "end_time": 384.2799987792969,
+    "point_summary": "Ezekiel 37's vision of the valley of dry bones is placed sequentially within Ezekiel's latter chapters as depicting Israel's national revival and reunification, preceding the Gog and Magog invasion of chapters 38–39.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 318.9599914550781,
-    "end_time": 384.2799987792969
+    "end_time": 384.2799987792969,
+    "point_summary": "The current Middle East crisis, while not itself the Gog and Magog invasion of Ezekiel 38–39, may bear characteristics that lead toward that prophesied event, which fits within Ezekiel's sequential latter-day timeline for Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 318.9599914550781,
-    "end_time": 384.2799987792969
+    "end_time": 384.2799987792969,
+    "point_summary": "Ezekiel 40–48 is identified as millennial prophecy concerning Israel, placed sequentially after the Gog and Magog chapters (38–39) to establish a prophetic timeline for end-times events.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 442.6199951171875,
-    "end_time": 501.1199951171875
+    "end_time": 501.1199951171875,
+    "point_summary": "Ezekiel 38:1 opens a prophecy against Gog of Magog that, like fulfilled first-coming prophecies, will come to pass exactly as God declared.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 501.1199951171875,
-    "end_time": 566.7999877929688
+    "end_time": 566.7999877929688,
+    "point_summary": "Ezekiel 38:1 introduces the prophecy of Gog—identified as a ruler, not a place—whose land Magog is historically and theologically understood to represent Russia.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 501.1199951171875,
-    "end_time": 566.7999877929688
+    "end_time": 566.7999877929688,
+    "point_summary": "Ezekiel 38:2 identifies \"Gog\" as a person—a ruling prince—and \"Magog\" as his land, widely identified by historians and theologians alike as Russia.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 501.1199951171875,
-    "end_time": 566.7999877929688
+    "end_time": 566.7999877929688,
+    "point_summary": "God's sovereign compulsion of Gog and his vast multinational army—described as hooks in the jaws—identifies the invading coalition as instruments moved by divine initiative, not their own will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 501.1199951171875,
-    "end_time": 566.7999877929688
+    "end_time": 566.7999877929688,
+    "point_summary": "Ezekiel 38:5 lists Persia, Ethiopia, and Libya as nations among the coalition armies gathered under Gog, identifying the specific allied \"players\" in this end-times prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 501.1199951171875,
-    "end_time": 566.7999877929688
+    "end_time": 566.7999877929688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 566.7999877929688,
-    "end_time": 635.2800178527832
+    "end_time": 635.2800178527832,
+    "point_summary": "Gog, identified in Ezekiel 38:2 as a ruler rather than a place, is linked with Magog—understood by historians and theologians alike as Russia—a nation geographically situated to the north of Jerusalem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 566.7999877929688,
-    "end_time": 635.2800178527832
+    "end_time": 635.2800178527832,
+    "point_summary": "Ezekiel 38:6's reference to \"the north quarters,\" confirmed by verse 15's \"north parts,\" is identified geographically as pointing to Russia, situated nearly due north of Jerusalem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 566.7999877929688,
-    "end_time": 635.2800178527832
+    "end_time": 635.2800178527832,
+    "point_summary": "Ezekiel 38:15's reference to an army coming \"out of the north parts\" is read alongside verse 6's \"north quarters\" to identify Russia geographically as the invading force, with Moscow cited as nearly due north of Jerusalem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 696.52001953125,
-    "end_time": 757.5400238037109
+    "end_time": 757.5400238037109,
+    "point_summary": "Persia, named in Ezekiel 38:5, is identified as the modern nation of Iran, a connection grounded in the historical renaming from Persia to Iran in 1935.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 696.52001953125,
-    "end_time": 757.5400238037109
+    "end_time": 757.5400238037109,
+    "point_summary": "Gomer, listed in verse 6, is identified with the modern regions of Turkey and Ukraine, placing them among the coalition of nations prophesied to move against Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 696.52001953125,
-    "end_time": 757.5400238037109
+    "end_time": 757.5400238037109,
+    "point_summary": "Gomer, listed in verse 6, is identified with the modern regions of Turkey and Ukraine, placing them among the coalition of nations prophesied to move against Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 696.52001953125,
-    "end_time": 757.5400238037109
+    "end_time": 757.5400238037109,
+    "point_summary": "God's sovereign orchestration of the Gog coalition is seen in the \"hooks into thy jaws\" language of verse 4, where He compels the advance of enemy nations despite their own independent evil intent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 696.52001953125,
-    "end_time": 757.5400238037109
+    "end_time": 757.5400238037109,
+    "point_summary": "God's sovereign orchestration of the Gog coalition is underscored by the divine \"I will\" of verse 4, establishing that even enemy nations with their own evil intent act ultimately under God's control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 820.0400238037109,
-    "end_time": 874.2400207519531
+    "end_time": 874.2400207519531,
+    "point_summary": "God's sovereign control over the Gog coalition is underscored by Ezekiel 38:7's command to \"be thou prepared,\" which frames the nations' evil intent as ultimately subject to divine orchestration rather than their own autonomous will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 874.2400207519531,
-    "end_time": 934.1200256347656
+    "end_time": 934.1200256347656,
+    "point_summary": "Ezekiel 38:8's phrase \"in the latter years\" is cited as a temporal marker identifying the Gog and Magog invasion as an end-times event, with current events viewed as potentially leading toward its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 874.2400207519531,
-    "end_time": 934.1200256347656
+    "end_time": 934.1200256347656,
+    "point_summary": "Ezekiel 38:16's phrase \"latter days\" corroborates verse 8's \"latter years,\" together establishing the eschatological timing of the Gog and Magog invasion against Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 991.4800109863281,
-    "end_time": 1052.1600036621094
+    "end_time": 1052.1600036621094,
+    "point_summary": "The description of Israel dwelling in unwalled villages, at rest and dwelling safely, signals a future prophetic condition not yet present in Israel's current state of heightened military readiness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 991.4800109863281,
-    "end_time": 1052.1600036621094
+    "end_time": 1052.1600036621094,
+    "point_summary": "Ezekiel 38:8's reference to Israel dwelling safely in \"unwalled villages\" points to a future prophetic fulfillment distinct from Israel's current state of heightened military vigilance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 991.4800109863281,
-    "end_time": 1052.1600036621094
+    "end_time": 1052.1600036621094,
+    "point_summary": "Ezekiel 38:14's reference to Israel dwelling safely signals that this invasion cannot occur under present conditions, pointing to a future prophetic fulfillment yet to come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1166.52001953125,
-    "end_time": 1231.8000164031982
+    "end_time": 1231.8000164031982,
+    "point_summary": "Ezekiel 38's opening verses identify the players and timing of the Gog-Magog invasion as falling within the tribulation period, when Israel's perceived safety under the antichrist's peace treaty prevails.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1231.8000164031982,
-    "end_time": 1293.5600204467773
+    "end_time": 1293.5600204467773,
+    "point_summary": "Ezekiel 38:12 identifies the motivation for Gog's invasion as economic plunder—silver, gold, cattle, and goods—from a regathered, prosperous Israel dwelling in perceived safety.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1293.5600204467773,
-    "end_time": 1350.6400146484375
+    "end_time": 1350.6400146484375,
+    "point_summary": "The literal mention of horses in Ezekiel's Gog and Magog prophecy is defended as genuinely literal, not merely figurative for modern weaponry, with the tribulation period's conditions making horse-based warfare plausible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1293.5600204467773,
-    "end_time": 1350.6400146484375
+    "end_time": 1350.6400146484375,
+    "point_summary": "The literal reference to a great army coming \"from the north parts\" on horses is defended as genuine prophetic description, not primitive metaphor, with the observation that modern nations like Russia and China maintain millions of horses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1350.6400146484375,
-    "end_time": 1413.6400146484375
+    "end_time": 1413.6400146484375,
+    "point_summary": "God's purpose in bringing Gog against Israel in the latter days is not geopolitical accident but divine intervention, so that the heathen nations may know and recognize Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1592.3400268554688,
-    "end_time": 1649.9000244140625
+    "end_time": 1649.9000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1592.3400268554688,
-    "end_time": 1649.9000244140625
+    "end_time": 1649.9000244140625,
+    "point_summary": "God's judgment on Gog results in such total military defeat that Israel's slain enemies and abandoned weapons will take seven months to bury and seven years to burn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1592.3400268554688,
-    "end_time": 1649.9000244140625
+    "end_time": 1649.9000244140625,
+    "point_summary": "The completeness of God's victory over Gog is underscored by the detail that Israel will spend seven years burning the captured weapons, requiring no other fuel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1649.9000244140625,
-    "end_time": 1711.4200134277344
+    "end_time": 1711.4200134277344,
+    "point_summary": "The seven-year duration of weapon-burning following God's defeat of Gog distinguishes Ezekiel's Gog-Magog battle from the post-millennial Gog-Magog of Revelation 20, establishing them as separate prophetic events.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1649.9000244140625,
-    "end_time": 1711.4200134277344
+    "end_time": 1711.4200134277344,
+    "point_summary": "Israel's victory over the Gog-Magog coalition will be so total that the weapons alone will fuel seven years of burning, distinguishing this battle from the separate Gog-Magog event at the end of the millennium in Revelation 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1649.9000244140625,
-    "end_time": 1711.4200134277344
+    "end_time": 1711.4200134277344,
+    "point_summary": "The completeness of God's victory over Gog is measured by the seven months Israel must spend burying the dead to cleanse the land, distinguishing this Ezekiel battle from the separate Gog and Magog event in Revelation 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1712.260009765625,
-    "end_time": 1773.4200439453125
+    "end_time": 1773.4200439453125,
+    "point_summary": "The Gog and Magog invasion of Ezekiel 38–39 is distinguished from the Gog and Magog of Revelation 20 by its aftermath: seven years of burning weapons and seven months of burying the dead, details incompatible with the post-millennial context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1712.260009765625,
-    "end_time": 1773.4200439453125
+    "end_time": 1773.4200439453125,
+    "point_summary": "The seven-year weapon-burning and seven-month burial described in Ezekiel 39 distinguish its Gog and Magog conflict from the one in Revelation 20, placing them as separate prophetic events with different timings and scales.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1836.7399864196777,
-    "end_time": 1903.6799850463867
+    "end_time": 1903.6799850463867,
+    "point_summary": "The Gog-Magog invasion is presented as divinely orchestrated so that Gentile nations will know God, with Ezekiel 38:16 cited as explicit textual evidence of that stated divine purpose.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1836.7399864196777,
-    "end_time": 1903.6799850463867
+    "end_time": 1903.6799850463867,
+    "point_summary": "God's ultimate purpose in the Gog-Magog prophecy is self-revelation: that he will magnify and sanctify himself so that many nations know he is the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1836.7399864196777,
-    "end_time": 1903.6799850463867
+    "end_time": 1903.6799850463867,
+    "point_summary": "God's judgment on Magog by fire serves the purpose of making himself known to the Gentile nations, as the text declares, \"they shall know that I am the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1903.6799850463867,
-    "end_time": 1972.1799926757812
+    "end_time": 1972.1799926757812,
+    "point_summary": "God's judgment on the nations in the Gog-Magog conflict serves the purpose of setting His glory among the Gentiles, making Himself universally known through executed judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1972.1799926757812,
-    "end_time": 2031.5399932861328
+    "end_time": 2031.5399932861328,
+    "point_summary": "God's revelation of His holy name in the midst of Israel during the tribulation period serves as His means of making Himself known to His people as their Messiah, whom they had previously rejected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1972.1799926757812,
-    "end_time": 2031.5399932861328
+    "end_time": 2031.5399932861328,
+    "point_summary": "The tribulation period will serve as God's decisive self-revelation to Israel, so that the house of Israel shall know him as their Lord and God from that day forward.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 1972.1799926757812,
-    "end_time": 2031.5399932861328
+    "end_time": 2031.5399932861328,
+    "point_summary": "Ezekiel 39:23 reveals that Israel's past captivity and God's hidden face were direct consequences of their iniquity and trespass, setting the stage for his future mercy and restoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2031.5399932861328,
-    "end_time": 2096.5
+    "end_time": 2096.5,
+    "point_summary": "God's restoration of Israel and outpouring of His Spirit upon the house of Israel serve ultimately to make Him known both to the nations and to Israel herself, not merely to satisfy prophetic curiosity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2031.5399932861328,
-    "end_time": 2096.5
+    "end_time": 2096.5,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2031.5399932861328,
-    "end_time": 2096.5
+    "end_time": 2096.5,
+    "point_summary": "God's regathering of Israel from among the nations serves the ultimate purpose of making himself known—both to the heathen and to the house of Israel—not merely as prophetic curiosity but as divine self-revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2031.5399932861328,
-    "end_time": 2096.5
+    "end_time": 2096.5,
+    "point_summary": "God's regathering of Israel and outpouring of His Spirit serve ultimately to make Him known both to the nations and to the house of Israel, not merely to satisfy prophetic curiosity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2031.5399932861328,
-    "end_time": 2096.5
+    "end_time": 2096.5,
+    "point_summary": "God's outpouring of His Spirit upon the house of Israel is presented as the culminating act by which He makes Himself known to both Israel and the nations, fulfilling His redemptive purpose for His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2096.5,
-    "end_time": 2158.6199951171875
+    "end_time": 2158.6199951171875,
+    "point_summary": "God's purpose in the Ezekiel 38–39 events — making Himself known to both the heathen and the house of Israel — is held up as the pattern and motivation for the church's present calling to make Christ known.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2096.5,
-    "end_time": 2158.6199951171875
+    "end_time": 2158.6199951171875,
+    "point_summary": "God's ultimate purpose in the Ezekiel 38–39 judgment and restoration is to make Himself known—to the nations and to Israel—and that same purpose now drives the church's mission to make Christ known.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2501.759979248047,
-    "end_time": 2584.3199768066406
+    "end_time": 2584.3199768066406,
+    "point_summary": "God's appointment of Ezekiel as a watchman obligated to sound warning—on pain of bloodguilt for silence—grounds the believer's urgent responsibility to proclaim the gospel before the day approaches.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2501.759979248047,
-    "end_time": 2584.3199768066406
+    "end_time": 2584.3199768066406,
+    "point_summary": "God's appointment of Ezekiel as watchman in Ezekiel 33 illustrates the believer's solemn responsibility to sound a gospel warning, with failure to do so bringing accountability for the lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2584.3199768066406,
-    "end_time": 2654.439971923828
+    "end_time": 2654.439971923828,
+    "point_summary": "God's appointment of Ezekiel as watchman—obligating him to warn or bear blood-guilt—is presented as the Old Testament backdrop Paul consciously echoed when declaring himself \"free from the blood of all men\" in Acts 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2584.3199768066406,
-    "end_time": 2654.439971923828
+    "end_time": 2654.439971923828,
+    "point_summary": "God's appointment of Ezekiel as watchman—obligating him to warn or bear blood-guilt—is presented as the Old Testament backdrop Paul consciously drew on when declaring himself \"free from the blood of all men\" in Acts 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2584.3199768066406,
-    "end_time": 2654.439971923828
+    "end_time": 2654.439971923828,
+    "point_summary": "The purpose of prophecy in Ezekiel 38–39—that God would make himself known—is applied directly to the church's present mission as witnesses left in the world to make him known.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "RFprzdBEilQ",
     "start_time": 2584.3199768066406,
-    "end_time": 2654.439971923828
+    "end_time": 2654.439971923828,
+    "point_summary": "Ezekiel 38–39's stated purpose—that God acts to make Himself known—is applied directly to the church's present mission as witnesses left in the world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -899,7 +1061,9 @@
     "is_implicit": true,
     "video_id": "wG9tDeVyFl8",
     "start_time": 1231.9200477600098,
-    "end_time": 1298.1600494384766
+    "end_time": 1298.1600494384766,
+    "point_summary": "Ezekiel's record that God sought for a man and found none serves as a sobering warning that believing God can work is not the same as yielding oneself to be the instrument through whom He works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2265.3800048828125,
-    "end_time": 2330.739990234375
+    "end_time": 2330.739990234375,
+    "point_summary": "God's judgment against Edom is confirmed in Ezekiel 25:12–14 as divine retribution for Edom's vengeance against Judah, paralleling the desolation prophecy of Jeremiah 49.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2330.739990234375,
-    "end_time": 2386.260009765625
+    "end_time": 2386.260009765625,
+    "point_summary": "Ezekiel 25:12–14 is cited as one of several prophetic judgments declaring that Edom's vengeance against Judah would result in God's hand of desolation falling upon them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2330.739990234375,
-    "end_time": 2386.260009765625
+    "end_time": 2386.260009765625,
+    "point_summary": "God's judgment against Edom—declared through Ezekiel as desolation and divine vengeance executed through Israel—stands as one of several converging prophetic witnesses confirming the consequences that fell on Esau's descendants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2330.739990234375,
-    "end_time": 2386.260009765625
+    "end_time": 2386.260009765625,
+    "point_summary": "God's judgment on Edom—declared through Ezekiel as desolation and divine vengeance executed by Israel's hand—stands as one of several prophetic witnesses confirming the consequences that fell on Esau's descendants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "Y0rICXkoJFs",
     "start_time": 1237.2799835205078,
-    "end_time": 1299.6799850463867
+    "end_time": 1299.6799850463867,
+    "point_summary": "Ezekiel 3's watchman imagery is invoked as a parallel to Paul's declaration in Acts 20, grounding the preacher's accountability: faithful proclamation clears the messenger's conscience regardless of the hearer's response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "Y0rICXkoJFs",
     "start_time": 1237.2799835205078,
-    "end_time": 1299.6799850463867
+    "end_time": 1299.6799850463867,
+    "point_summary": "Ezekiel 33's watchman imagery is invoked as a parallel to Paul's declaration in Acts 20, grounding the preacher's accountability: faithfully delivering the Gospel clears him of responsibility for the hearer's response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 130.9600067138672,
-    "end_time": 188.02000427246094
+    "end_time": 188.02000427246094,
+    "point_summary": "God is still searching for faithful men today, just as Ezekiel 22:30 depicts Him looking for a man to stand in the gap amid relentless attack on what He has instituted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 441.05999755859375,
-    "end_time": 502.82000732421875
+    "end_time": 502.82000732421875,
+    "point_summary": "God's indictment in Ezekiel 22 mirrors Jeremiah's: after cataloguing the sins of prophets, priests, princes, and people in captivity, He again searches for one faithful man among them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 502.82000732421875,
-    "end_time": 575.6599731445312
+    "end_time": 575.6599731445312,
+    "point_summary": "Against the backdrop of divine indictment against prophets, priests, princes, and people, God's search for even one intercessory man to stand in the gap yielded no one—a heartbreaking absence that underscores the sermon's central burden.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1009,7 +1191,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 632.1800193786621,
-    "end_time": 691.4600219726562
+    "end_time": 691.4600219726562,
+    "point_summary": "Israel's repeated cycle of forsaking God—rooted in forgetting Him—sets the context for Ezekiel 22:30's call for a man willing to stand in the gap on the nation's behalf.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 691.4600219726562,
-    "end_time": 752.7400207519531
+    "end_time": 752.7400207519531,
+    "point_summary": "God's search for one who would \"stand in the gap\" is presented as a call to stand for truth and right, with the sobering warning that He found none.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1031,7 +1217,9 @@
     "is_implicit": true,
     "video_id": "ZXx-U62v8Bc",
     "start_time": 1203.9200098514557,
-    "end_time": 1273.4600067138672
+    "end_time": 1273.4600067138672,
+    "point_summary": "Standing in the gap, as God sought in Ezekiel 22:30, requires both intercession—praying specifically and persistently for others—and standing for truth and right.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 1942.2400512695312,
-    "end_time": 2024.9200592041016
+    "end_time": 2024.9200592041016,
+    "point_summary": "Ezekiel 37–38's Gog and Magog conflict is raised as a possible—though explicitly unconfirmed—parallel to the chaos unleashed when the second seal removes peace from the earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 1942.2400512695312,
-    "end_time": 2024.9200592041016
+    "end_time": 2024.9200592041016,
+    "point_summary": "Ezekiel 38's Gog and Magog conflict is raised as a possible—though not certain—parallel to the chaos unleashed when the second seal removes peace from the earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 37–38 describes a Gog and Magog invasion against a perceived-peace Israel—an unwalled, defenseless city—positioned in the early tribulation period, distinct from the post-Armageddon Gog and Magog of Revelation 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 38's Gog and Magog invasion—occurring during a perceived peace when Israel appears defenseless and unwalled—is cautiously paralleled with the chaos unleashed by the second seal, though no direct identification is made.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 37–38 describes a Gog and Magog invasion against a perceived-peace Israel—an unwalled, defenseless city—positioned in the early tribulation period, distinct from the post-Armageddon reference in Revelation 20.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 38's Gog and Magog invasion—occurring during a perceived peace when Israel appears defenseless and unwalled—is cautiously paralleled with the chaos unleashed by the second seal, though no direct identification is made.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1108,7 +1308,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 37–38 is cited as a possible early-tribulation parallel to the second seal, where Gog and Magog attack Israel during a period of perceived, defenseless peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1119,7 +1321,9 @@
     "is_implicit": false,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2024.9200592041016,
-    "end_time": 2085.1600646972656
+    "end_time": 2085.1600646972656,
+    "point_summary": "Ezekiel 38's Gog and Magog invasion—occurring during a perceived peace when Israel appears defenseless—is cautiously paralleled with the chaos unleashed by the second seal, though no direct identification is made.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1130,7 +1334,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 2352.6200561523438,
-    "end_time": 2424.300075531006
+    "end_time": 2424.300075531006,
+    "point_summary": "Ezekiel's watchman calling — that warning must be given and blood is required of the watchman who fails — underlies Paul's claim in Acts 20 to be \"pure from the blood of all men.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1141,7 +1347,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 2160.3400268554688,
-    "end_time": 2230.540008544922
+    "end_time": 2230.540008544922,
+    "point_summary": "Ezekiel's Gog and Magog prophecy is cited as evidence that Israel will one day disarm, leaving its cities defenseless—a condition made possible by the Antichrist's deceptive peace covenant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "1PzvpRN8FKE",
     "start_time": 1480.4800415039062,
-    "end_time": 1541.780029296875
+    "end_time": 1541.780029296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2049.2799682617188,
-    "end_time": 2116.1599731445312
+    "end_time": 2116.1599731445312,
+    "point_summary": "God's future regathering of scattered Israel will include divine judgment and pleading—not automatic salvation—demonstrating that \"all Israel shall be saved\" requires a sovereign purging work before covenant restoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1174,7 +1386,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "Ezekiel 20:33–40 is cited to show that God's future regathering of Israel includes purging rebels and bringing the nation into covenant bond—demonstrating that ethnic descent alone does not guarantee salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1185,7 +1399,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "God's future gathering of Israel involves a purging judgment—separating rebels from the covenant community—so that \"all Israel shall be saved\" refers not to ethnic universalism but to a refined remnant prepared to receive Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "God's future gathering of Israel involves a purging judgment—separating rebels from the covenant community—so that \"all Israel shall be saved\" refers not to ethnic universalism but to a refined remnant brought into covenant relationship with Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1207,7 +1425,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "God's future purging of rebels from Israel (v. 37) demonstrates that \"all Israel shall be saved\" cannot mean every ethnic Jew is saved, since unrepentant transgressors are explicitly excluded from entering the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1218,7 +1438,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "God's purging of rebels from among Israel (v. 38) demonstrates that \"all Israel shall be saved\" does not mean every ethnic Jew, but only those brought into covenant after the unfaithful are removed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "Ezekiel 20:39–41 shows that \"all the house of Israel\" serving God occurs only after a future purging of rebels, refuting any claim that ethnic Israel is presently or automatically saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1240,7 +1464,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2116.1599731445312,
-    "end_time": 2186.6399841308594
+    "end_time": 2186.6399841308594,
+    "point_summary": "After God purges the rebels from Israel and gathers the remnant, all the house of Israel will serve Him in the holy mountain—demonstrating that \"all Israel shall be saved\" refers to a purified, covenant remnant, not every ethnic Jew.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1251,7 +1477,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2186.6399841308594,
-    "end_time": 2245.679962158203
+    "end_time": 2245.679962158203,
+    "point_summary": "On the holy mountain of Israel, all the house of Israel will serve God and be accepted by Him — a future national restoration that the sermon connects to the partial, temporary blindness of Israel until the fullness of the Gentiles comes in.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1262,7 +1490,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2186.6399841308594,
-    "end_time": 2245.679962158203
+    "end_time": 2245.679962158203,
+    "point_summary": "God's future regathering and acceptance of Israel — receiving their offerings and being sanctified among the nations — serves as the Ezekiel backdrop for understanding the partial, temporary blindness of Israel in Romans 11.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1273,7 +1503,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2186.6399841308594,
-    "end_time": 2245.679962158203
+    "end_time": 2245.679962158203,
+    "point_summary": "Israel's future restoration to the land is tied to self-loathing repentance and the repeated divine declaration \"ye shall know that I am the Lord,\" framing the Ezekiel passage as prophecy of God preparing Israel to receive Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1284,7 +1516,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2186.6399841308594,
-    "end_time": 2245.679962158203
+    "end_time": 2245.679962158203,
+    "point_summary": "Israel's future self-loathing and recognition of God's name-driven restoration, not their merit, illustrates the national repentance that prepares Israel to receive Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "y7y3emoIFdk",
     "start_time": 1523.1399536132812,
-    "end_time": 1582.2399597167969
+    "end_time": 1582.2399597167969,
+    "point_summary": "Ezekiel's watchman commission (ch. 3 and 33) grounds Paul's declaration \"your blood be upon your own heads, I am clean\"—faithfulness in warning transfers accountability to the hearers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Ezekiel",
@@ -1306,6 +1542,8 @@
     "is_implicit": false,
     "video_id": "y7y3emoIFdk",
     "start_time": 1523.1399536132812,
-    "end_time": 1582.2399597167969
+    "end_time": 1582.2399597167969,
+    "point_summary": "Paul's declaration that \"your blood be upon your own heads, I am clean\" echoes Ezekiel's watchman principle: faithful proclamation transfers moral accountability for rejection from the messenger to the hearers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

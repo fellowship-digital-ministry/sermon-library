@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "0bvsCvT1aho",
     "start_time": 1382.9600067138672,
-    "end_time": 1446.5600128173828
+    "end_time": 1446.5600128173828,
+    "point_summary": "Jude's warning about mockers who walk after ungodly lusts aligns with Peter's parallel teaching in 2 Peter 3, together confirming that believers were forewarned and must respond by building themselves up in the faith rather than surrendering to despair.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "0c9STAI-vWI",
     "start_time": 387.6400146484375,
-    "end_time": 444.0799865722656
+    "end_time": 444.0799865722656,
+    "point_summary": "Scripture's divine origin is affirmed through the doctrine of inspiration, noting that holy men like John wrote as they were moved by the Holy Spirit, making their words God's own Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 878.4399719238281,
-    "end_time": 939.0399780273438
+    "end_time": 939.0399780273438,
+    "point_summary": "Peter's warning in 2 Peter 3 that end-times scoffers will mock the promise of Christ's return is cited as confirmation that believers can nonetheless hold that promise with full confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 939.0399780273438,
-    "end_time": 999.7399597167969
+    "end_time": 999.7399597167969,
+    "point_summary": "Peter's warning that scoffers will arise in the last days mocking the promise of Christ's return is cited as confirmation that Scripture itself anticipates unbelief about the Second Coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 939.0399780273438,
-    "end_time": 999.7399597167969
+    "end_time": 999.7399597167969,
+    "point_summary": "The scoffers' taunt \"Where is the promise of his coming?\" illustrates that mockery of Christ's return is a predicted sign of the last days, confirming rather than undermining the certainty of that promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 939.0399780273438,
-    "end_time": 999.7399597167969
+    "end_time": 999.7399597167969,
+    "point_summary": "Scoffers who deny Christ's return are described in 2 Peter 3:5 as willingly ignorant, deliberately suppressing what they know to sustain their unbelief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 939.0399780273438,
-    "end_time": 999.7399597167969
+    "end_time": 999.7399597167969,
+    "point_summary": "God's longsuffering patience toward sinners—not wanting any to perish but all to come to repentance—is cited as the reason the Day of the Lord has not yet arrived, even as its coming remains certain.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "0OKb7phALh4",
     "start_time": 939.0399780273438,
-    "end_time": 999.7399597167969
+    "end_time": 999.7399597167969,
+    "point_summary": "The certainty of the Day of the Lord's coming \"as a thief in the night\" grounds confidence that all of God's prophetic promises will come to pass exactly as he has spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "0wy6AB2BCmw",
     "start_time": 1020.5199890136719,
-    "end_time": 1082.4400024414062
+    "end_time": 1082.4400024414062,
+    "point_summary": "God's unwillingness that any should perish confirms that His goodness and mercy extend to all people, and that those who are lost are not because God withheld love but because they rejected salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "0wy6AB2BCmw",
     "start_time": 3013.7999925613403,
-    "end_time": 3083.479995727539
+    "end_time": 3083.479995727539,
+    "point_summary": "God's desire that none should perish and all come to repentance grounds the evangelistic appeal that even one unsaved person present is someone God wants saved more than any human does.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -118,7 +138,9 @@
     "is_implicit": true,
     "video_id": "14-lQQNG7W8",
     "start_time": 1550.5800170898438,
-    "end_time": 1612.8800048828125
+    "end_time": 1612.8800048828125,
+    "point_summary": "God's longsuffering patience toward the lost, cited from 2 Peter 3:9, grounds the urgent appeal that believers act now to share the gospel with unsaved loved ones before it is too late.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "1tNRCH4gQSE",
     "start_time": 1686.9000244140625,
-    "end_time": 1751.9000244140625
+    "end_time": 1751.9000244140625,
+    "point_summary": "God's unwillingness that any should perish, cited from 2 Peter 3:9, is marshaled as a counter-witness against the Calvinist reading of Romans 9 that would make God the author of reprobation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "20HHrsvLvZg",
     "start_time": 1218.6000146865845,
-    "end_time": 1283.8400115966797
+    "end_time": 1283.8400115966797,
+    "point_summary": "God's universal offer of salvation is underscored by 2 Peter 3, cited to establish that He is not willing that any should perish but that all should come to repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -151,7 +177,9 @@
     "is_implicit": true,
     "video_id": "2fOfcjfGKkk",
     "start_time": 1218.899974822998,
-    "end_time": 1286.2999725341797
+    "end_time": 1286.2999725341797,
+    "point_summary": "Assurance of eternal security, grounded in being kept by God's power and possessing an incorruptible, undefiled, unfading inheritance reserved in heaven, is cited to counter doubt that hinders evangelistic confidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "2RltBTO3zYE",
     "start_time": 1337.2799682617188,
-    "end_time": 1393.2799682617188
+    "end_time": 1393.2799682617188,
+    "point_summary": "God's longsuffering patience toward sinners—his unwillingness that any should perish—grounds the confidence with which believers carry the gospel message that Christ is able to save.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -173,7 +203,9 @@
     "is_implicit": true,
     "video_id": "42h9U6tWfAA",
     "start_time": 126.33999633789062,
-    "end_time": 191.66000366210938
+    "end_time": 191.66000366210938,
+    "point_summary": "God's provision of \"all things that pertain unto life and godliness\" equips believers with everything necessary to expose and overcome false teaching and false teachers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "42h9U6tWfAA",
     "start_time": 315.8800048828125,
-    "end_time": 372.0
+    "end_time": 372.0,
+    "point_summary": "False teachers attract large followings, and 2 Peter 2:1–2 is cited to show that numerical majority is not a mark of truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "42h9U6tWfAA",
     "start_time": 372.0,
-    "end_time": 432.0400085449219
+    "end_time": 432.0400085449219,
+    "point_summary": "The large following of false teachers is not a mark of their truth, since Peter warns that many will follow their pernicious ways while the way of truth is evil spoken of.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "42h9U6tWfAA",
     "start_time": 688.7599868774414,
-    "end_time": 744.9999847412109
+    "end_time": 744.9999847412109,
+    "point_summary": "Peter's warning that false prophets existed and false teachers will arise is cited to establish that their existence is a given—but not a guarantee of their triumph over believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "52bJLKAbdng",
     "start_time": 2736.8999633789062,
-    "end_time": 2806.4199829101562
+    "end_time": 2806.4199829101562,
+    "point_summary": "Willful ignorance of God's truth, as seen in 2 Peter 3, is driven not by intellectual inability but by a refusal to be accountable to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -228,7 +268,9 @@
     "is_implicit": true,
     "video_id": "5gWVxtcarvc",
     "start_time": 1314.6200408935547,
-    "end_time": 1370.060043334961
+    "end_time": 1370.060043334961,
+    "point_summary": "Stirring believers to remembrance—as Peter does repeatedly in 2 Peter—is set alongside Psalm 119, Deuteronomy, and Jeremiah to establish that God's people are prone to forget and must be called back to what they have received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1434.2000274658203,
-    "end_time": 1497.0400085449219
+    "end_time": 1497.0400085449219,
+    "point_summary": "Peter's reference to those willingly ignorant of the flood serves as cross-biblical confirmation that the Genesis account of a water-destroyed earth is attested throughout Scripture, not confined to Genesis alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1434.2000274658203,
-    "end_time": 1497.0400085449219
+    "end_time": 1497.0400085449219,
+    "point_summary": "Peter's citation of the flood as a historical fact stands as a rebuttal to those willingly ignorant of Genesis, confirming that the earth was once destroyed by water.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1434.2000274658203,
-    "end_time": 1497.0400085449219
+    "end_time": 1497.0400085449219,
+    "point_summary": "While God covenanted never again to destroy the earth by water, 2 Peter 3:10 reveals that a future destruction by fire—the day of the Lord—still awaits.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1497.0400085449219,
-    "end_time": 1563.3600158691406
+    "end_time": 1563.3600158691406,
+    "point_summary": "God's covenant promise that earth will never again be destroyed by flood stands firm, but 2 Peter 3:10 reveals the next global destruction will come by fire at the day of the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1497.0400085449219,
-    "end_time": 1563.3600158691406
+    "end_time": 1563.3600158691406,
+    "point_summary": "The certainty of God's promise never to destroy the earth by flood again (the Noahic covenant) stands in contrast to the coming fiery dissolution described in 2 Peter 3, where the earth will be destroyed by a different means entirely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1497.0400085449219,
-    "end_time": 1563.3600158691406
+    "end_time": 1563.3600158691406,
+    "point_summary": "While God covenanted never again to destroy the earth by flood, 2 Peter 3:12 reveals that future destruction will come not by water but by fire, in the day of the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1497.0400085449219,
-    "end_time": 1563.3600158691406
+    "end_time": 1563.3600158691406,
+    "point_summary": "God's promise never to flood the earth again (the Noahic covenant) stands in contrast to the coming fiery destruction of 2 Peter 3, after which believers anticipate new heavens and a new earth where righteousness dwells.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "69YhlHSnwtE",
     "start_time": 1563.3600158691406,
-    "end_time": 1621.8000183105469
+    "end_time": 1621.8000183105469,
+    "point_summary": "While the Noahic covenant guarantees the earth will never again be destroyed by flood, 2 Peter 3:10–13 reveals it will one day be dissolved by fervent heat, awaiting new heavens and a new earth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -327,7 +385,9 @@
     "is_implicit": true,
     "video_id": "69YhlHSnwtE",
     "start_time": 1682.760009765625,
-    "end_time": 1749.1199951171875
+    "end_time": 1749.1199951171875,
+    "point_summary": "The coming destruction described in 2 Peter 3 is contrasted with the Noahic flood to warn that future judgment will not be by water, making trust in Christ the only means of escape.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2269.0799560546875,
-    "end_time": 2332.5999755859375
+    "end_time": 2332.5999755859375,
+    "point_summary": "Scoffers in every age—including the first century and today—mock the promise of Christ's return, asking \"Where is the promise of his coming?\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2332.5999755859375,
-    "end_time": 2389.5199584960938
+    "end_time": 2389.5199584960938,
+    "point_summary": "Peter's call to stir up pure minds by remembrance grounds the sermon's point that Timothy—and believers today—must actively recall God's sovereignty and the certainty of Christ's return against the scoffing denial of last-days mockers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2332.5999755859375,
-    "end_time": 2389.5199584960938
+    "end_time": 2389.5199584960938,
+    "point_summary": "Scoffers who mock the promise of Christ's return—present in the first century and continuing today—willingly ignore the truth of God's word rather than submit to it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2332.5999755859375,
-    "end_time": 2389.5199584960938
+    "end_time": 2389.5199584960938,
+    "point_summary": "Scoffers who mock the promise of Christ's return—present in the first century and continuing today—willingly suppress the truth, demanding \"Where is the promise of his coming?\" rather than submitting to God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2332.5999755859375,
-    "end_time": 2389.5199584960938
+    "end_time": 2389.5199584960938,
+    "point_summary": "Scoffers in the last days dismiss Christ's return by arguing that creation has continued unchanged since the beginning—a willful ignorance the sermon sets against the biblical promise of his appearing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2332.5999755859375,
-    "end_time": 2389.5199584960938
+    "end_time": 2389.5199584960938,
+    "point_summary": "Scoffers who deny Christ's return are described in 2 Peter 3:5 as *willingly* ignorant—deliberately suppressing the truth of God's creative word and sovereign power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2389.5199584960938,
-    "end_time": 2451.0999794006348
+    "end_time": 2451.0999794006348,
+    "point_summary": "Willful ignorance of God's past acts in creation and judgment—specifically the flood—underlies the scoffers' dismissal of Christ's promised return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -415,7 +489,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2389.5199584960938,
-    "end_time": 2451.0999794006348
+    "end_time": 2451.0999794006348,
+    "point_summary": "God's past judgment of the world through the flood (v. 6) is cited as evidence against the scoffers' claim that \"all things continue as they were,\" demonstrating that history is not uniform and God does intervene.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -426,7 +502,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2389.5199584960938,
-    "end_time": 2451.0999794006348
+    "end_time": 2451.0999794006348,
+    "point_summary": "God's certain future judgment by fire is grounded in the same divine word that once destroyed the world by flood, countering scoffers who deny Christ's coming by appealing to apparent continuity in creation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "7YFnql3gWjE",
     "start_time": 2515.4999771118164,
-    "end_time": 2586.3599853515625
+    "end_time": 2586.3599853515625,
+    "point_summary": "God's faithfulness to every promise is grounded in His transcendence over time, so that His apparent delay never constitutes slackness or failure to keep His word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -448,7 +528,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2586.3599853515625,
-    "end_time": 2659.739990234375
+    "end_time": 2659.739990234375,
+    "point_summary": "God's delay in fulfilling end-times promises reflects not slackness but long-suffering patience, since He controls all circumstances and every promise He makes will unfailingly come to pass.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -459,7 +541,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2659.739990234375,
-    "end_time": 2720.7999877929688
+    "end_time": 2720.7999877929688,
+    "point_summary": "God's delay in returning is not negligence but long-suffering patience, rooted in his unwillingness that any should perish and his desire that all come to repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -470,7 +554,9 @@
     "is_implicit": true,
     "video_id": "7YFnql3gWjE",
     "start_time": 2659.739990234375,
-    "end_time": 2720.7999877929688
+    "end_time": 2720.7999877929688,
+    "point_summary": "God's delay in Christ's return is not failure to keep his word but patient longing that all people come to repentance before judgment falls.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1744.2999877929688,
-    "end_time": 1810.359992980957
+    "end_time": 1810.359992980957,
+    "point_summary": "Peter's acknowledgment that some scriptural things are \"hard to be understood\" is cited as evidence that spiritual growth and diligent study are necessary to handle the full weight of biblical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1932.239990234375,
-    "end_time": 1989.4399871826172
+    "end_time": 1989.4399871826172,
+    "point_summary": "Peter's acknowledgment that Paul's epistles contain things \"hard to be understood\" is cited not as a reason to abandon difficult Scripture, but as a call to keep digging, with spiritual growth serving as the antidote to false teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1932.239990234375,
-    "end_time": 1989.4399871826172
+    "end_time": 1989.4399871826172,
+    "point_summary": "Spiritual growth in grace and knowledge of Christ is the God-appointed antidote against being led astray by false teaching and the error of the wicked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "7yncUIBU7z4",
     "start_time": 1932.239990234375,
-    "end_time": 1989.4399871826172
+    "end_time": 1989.4399871826172,
+    "point_summary": "Spiritual growth in grace and knowledge of Christ is the God-ordained antidote to false teaching, grounding believers so firmly in Scripture that erroneous doctrine is readily recognized and rejected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1789.519941329956,
-    "end_time": 1853.3599395751953
+    "end_time": 1853.3599395751953,
+    "point_summary": "Scripture's divine origin is confirmed here by Peter's declaration that holy men spoke as they were moved by the Holy Ghost, reinforcing that the Holy Spirit — identified as God in Acts 5 — is the author of inspired Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1853.3599395751953,
-    "end_time": 1913.1599426269531
+    "end_time": 1913.1599426269531,
+    "point_summary": "Scripture's divine inspiration is upheld as evidence of the Holy Spirit's deity: if the Holy Ghost moved men to produce the Word of God, He must Himself be God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1853.3599395751953,
-    "end_time": 1913.1599426269531
+    "end_time": 1913.1599426269531,
+    "point_summary": "Scripture's divine inspiration is coherent only if the Holy Spirit who moved upon men to produce it is himself God, making \"God-breathed\" and \"moved by the Holy Ghost\" two descriptions of the same divine act.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "9G6aYNGlUN8",
     "start_time": 1853.3599395751953,
-    "end_time": 1913.1599426269531
+    "end_time": 1913.1599426269531,
+    "point_summary": "The divine inspiration of Scripture confirms the Holy Spirit's deity: if the Holy Ghost moved men to produce the Word of God, he must himself be God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -569,7 +671,9 @@
     "is_implicit": true,
     "video_id": "9JjoBDbN7Ms",
     "start_time": 1062.8999938964844,
-    "end_time": 1126.5999755859375
+    "end_time": 1126.5999755859375,
+    "point_summary": "God's desire that all men be saved grounds the call to pray for those in authority, since lost leaders make lost decisions—and prayer is the means by which God can bring salvation even to them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -580,7 +684,9 @@
     "is_implicit": true,
     "video_id": "9Ptr_tzZBXA",
     "start_time": 1617.1199645996094,
-    "end_time": 1679.199951171875
+    "end_time": 1679.199951171875,
+    "point_summary": "Willful ignorance, contrasted with God's desire that believers be informed, is illustrated by those in 2 Peter 3 who were willingly ignorant of divine truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2153.9199829101562,
-    "end_time": 2223.2799682617188
+    "end_time": 2223.2799682617188,
+    "point_summary": "God's faithfulness to his promise—despite scoffers who mock Christ's return—grounds the urgency of gospel proclamation modeled by Paul's readiness to preach everywhere.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2223.2799682617188,
-    "end_time": 2295.6799926757812
+    "end_time": 2295.6799926757812,
+    "point_summary": "Scoffers in the last days, walking after their own lusts, deny the promise of Christ's coming—their willful ignorance paralleling those who rejected the flood's reality before judgment fell.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2223.2799682617188,
-    "end_time": 2295.6799926757812
+    "end_time": 2295.6799926757812,
+    "point_summary": "Scoffers in the last days deny Christ's return by claiming creation's continuity as evidence against it, a willful ignorance Peter exposes by pointing to the flood as proof God has intervened before.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2223.2799682617188,
-    "end_time": 2295.6799926757812
+    "end_time": 2295.6799926757812,
+    "point_summary": "Peter's warning that end-times scoffers are willfully ignorant of God's past judgment in the global flood establishes the credibility of his future judgment and Christ's promised return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2223.2799682617188,
-    "end_time": 2295.6799926757812
+    "end_time": 2295.6799926757812,
+    "point_summary": "The flood account in 2 Peter 3:6 is cited as the historical precedent that scoffers willfully ignore, establishing that God has already intervened catastrophically in judgment once before.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2295.6799926757812,
-    "end_time": 2365.97998046875
+    "end_time": 2365.97998046875,
+    "point_summary": "Just as the global flood judged the ancient world by God's word, the present heavens and earth are likewise reserved by that same word for a coming day of fiery judgment upon the ungodly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2295.6799926757812,
-    "end_time": 2365.97998046875
+    "end_time": 2365.97998046875,
+    "point_summary": "God's transcendence over time—one day equaling a thousand years—answers the scoffers' taunt and assures that Christ's return will come precisely on schedule.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -668,7 +788,9 @@
     "is_implicit": true,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2295.6799926757812,
-    "end_time": 2365.97998046875
+    "end_time": 2365.97998046875,
+    "point_summary": "Scoffers who mock the promise of Christ's return do so not from honest inquiry but from willful ignorance, choosing to suppress truth in order to preserve their own lusts.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2295.6799926757812,
-    "end_time": 2365.97998046875
+    "end_time": 2365.97998046875,
+    "point_summary": "God's apparent delay in fulfilling the promise of Christ's return is not slackness but longsuffering patience, as He desires that all come to repentance rather than perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2365.97998046875,
-    "end_time": 2441.5199813842773
+    "end_time": 2441.5199813842773,
+    "point_summary": "God's delay in Christ's return is not slackness but longsuffering patience, rooted in His unwillingness that any should perish, and meant to compel believers toward urgent evangelism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2365.97998046875,
-    "end_time": 2441.5199813842773
+    "end_time": 2441.5199813842773,
+    "point_summary": "The certainty that the Day of the Lord will come suddenly and without warning—like a thief in the night—is the urgent motivation for evangelism while opportunity remains.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "A0Rp78gBbvQ",
     "start_time": 2673.6799926757812,
-    "end_time": 2774.5599670410156
+    "end_time": 2774.5599670410156,
+    "point_summary": "Christ's return is described as coming like a thief in the night, illustrating the imminence and unexpectedness that should fuel daily expectancy in the believer's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "anszYnbs5Fs",
     "start_time": 2995.52001953125,
-    "end_time": 3063.120018005371
+    "end_time": 3063.120018005371,
+    "point_summary": "God's apparent delay in fulfilling the promise of Christ's return is not slackness but longsuffering patience, and Peter urges discouraged believers not to be swayed by scoffers who mock that promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -734,7 +866,9 @@
     "is_implicit": true,
     "video_id": "aTSM21mPzc0",
     "start_time": 1110.5599975585938,
-    "end_time": 1187.5599975585938
+    "end_time": 1187.5599975585938,
+    "point_summary": "God's desire that none perish but all come to repentance grounds the ambassador's purpose of reconciliation, showing why the ministry entrusted to believers carries eternal urgency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "aTSM21mPzc0",
     "start_time": 1187.5599975585938,
-    "end_time": 1249.7999992370605
+    "end_time": 1249.7999992370605,
+    "point_summary": "God's desire that none perish but all come to repentance (2 Peter 3) grounds the ambassador's urgent plea for reconciliation, since God beseeches the lost through his messengers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 726.4400177001953,
-    "end_time": 806.7200164794922
+    "end_time": 806.7200164794922,
+    "point_summary": "Despite Lot's compromised position in Sodom, Peter's language—\"just Lot,\" \"righteous man,\" \"righteous soul\"—confirms that he remained genuinely saved even while his soul was daily vexed by the wickedness surrounding him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 726.4400177001953,
-    "end_time": 806.7200164794922
+    "end_time": 806.7200164794922,
+    "point_summary": "Lot's daily vexation of soul amid Sodom's unlawful deeds, cited from 2 Peter 2:8, confirms that despite his compromised position of civic prominence, he retained a righteous conscience tormented by what he witnessed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "b-5M--iyp5U",
     "start_time": 807.0000152587891,
-    "end_time": 875.9600219726562
+    "end_time": 875.9600219726562,
+    "point_summary": "2 Peter 2:7–8 is cited to establish that Lot was a righteous man whose soul was daily vexed by Sodom's wickedness, yet his progressive proximity to the city illustrates how the enemy desensitizes believers to sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "BB7NHySh5dQ",
     "start_time": 1586.5799865722656,
-    "end_time": 1649.3599853515625
+    "end_time": 1649.3599853515625,
+    "point_summary": "God's longsuffering patience—not willing that any should perish—grounds the conviction that elect souls in any city, however pagan, are waiting to hear the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -800,7 +944,9 @@
     "is_implicit": true,
     "video_id": "BER64GTDRQY",
     "start_time": 2671.0799865722656,
-    "end_time": 2736.5999755859375
+    "end_time": 2736.5999755859375,
+    "point_summary": "Scoffers who mock the promise of Christ's return are not merely uninformed but willingly ignorant, rejecting available truth by deliberate choice rather than lack of evidence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -811,7 +957,9 @@
     "is_implicit": true,
     "video_id": "BER64GTDRQY",
     "start_time": 2671.0799865722656,
-    "end_time": 2736.5999755859375
+    "end_time": 2736.5999755859375,
+    "point_summary": "Scoffers who deny Christ's return are not merely uninformed but willingly ignorant—rejecting available truth rather than lacking it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "BER64GTDRQY",
     "start_time": 2736.5999755859375,
-    "end_time": 2801.5799865722656
+    "end_time": 2801.5799865722656,
+    "point_summary": "God's delay in returning is not slackness but longsuffering patience, rooted in His unwillingness that any should perish — a truth willfully suppressed by those who scoff at the promise of Christ's coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -833,7 +983,9 @@
     "is_implicit": true,
     "video_id": "bLIlrTCCUAY",
     "start_time": 2174.739990234375,
-    "end_time": 2247.1799926757812
+    "end_time": 2247.1799926757812,
+    "point_summary": "Peter's acknowledgment that his bodily \"tabernacle\" would soon be \"put off\" illustrates the brevity of physical life and frames Paul's similar awareness of imminent death in 2 Timothy 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -844,7 +996,9 @@
     "is_implicit": true,
     "video_id": "CHq3SIGfCKo",
     "start_time": 1021.97998046875,
-    "end_time": 1090.7599792480469
+    "end_time": 1090.7599792480469,
+    "point_summary": "Scripture's divine origin is affirmed by appeal to 2 Peter 1:21, which the sermon uses to show that holy men wrote not by their own will but as they were moved by the Holy Spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "CHv-7-cvC0E",
     "start_time": 260.760009765625,
-    "end_time": 325.0
+    "end_time": 325.0,
+    "point_summary": "God's word is described as full of \"exceeding great and precious promises,\" with 2 Peter 1:4 cited briefly to underscore that biblical promise-keeping frames Jacob's encounter with God before his journey to Egypt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -866,7 +1022,9 @@
     "is_implicit": true,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2077.0599975585938,
-    "end_time": 2136.260009765625
+    "end_time": 2136.260009765625,
+    "point_summary": "God's written Word is more sufficient than an audible voice, and Peter's testimony in 2 Peter 1 is invoked to confirm that Scripture itself is God speaking to us.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2136.260009765625,
-    "end_time": 2192.220001220703
+    "end_time": 2192.220001220703,
+    "point_summary": "Peter grounds the authority of apostolic testimony not in myth but in direct eyewitness experience of Christ's majesty at the Transfiguration, countering the notion that Scripture is less reliable than an audible voice from God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2249.5799865722656,
-    "end_time": 2312.5
+    "end_time": 2312.5,
+    "point_summary": "Peter's eyewitness experience of the Transfiguration is presented as remarkable, yet Scripture itself is declared the more sure and authoritative word to which believers must take heed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2249.5799865722656,
-    "end_time": 2312.5
+    "end_time": 2312.5,
+    "point_summary": "Scripture's divine origin is confirmed not by private human interpretation but by the Holy Spirit's movement upon the men who wrote it—a point grounded here in Peter's eyewitness authority at the Transfiguration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "ciFBd-kT0pk",
     "start_time": 2249.5799865722656,
-    "end_time": 2312.5
+    "end_time": 2312.5,
+    "point_summary": "Scripture's divine origin is confirmed by Peter's eyewitness testimony at the Transfiguration, yet the written prophetic word is declared even more sure, given not by human will but as holy men spoke moved by the Holy Spirit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "cndo5VpvDZo",
     "start_time": 1022.3600158691406,
-    "end_time": 1099.0400085449219
+    "end_time": 1099.0400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "cndo5VpvDZo",
     "start_time": 1099.0400085449219,
-    "end_time": 1167.3599853515625
+    "end_time": 1167.3599853515625,
+    "point_summary": "God's long-suffering is not permission for sin but an expression of His unchanging nature—patient toward us, not willing that any should perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -943,7 +1113,9 @@
     "is_implicit": true,
     "video_id": "cwDxVvhjqgw",
     "start_time": 941.8999633789062,
-    "end_time": 1008.3399658203125
+    "end_time": 1008.3399658203125,
+    "point_summary": "God's provision of \"all things that pertain unto life and godliness\" is cited as the biblical ground for the believer's equipment to continue faithfully amid adversity and perilous times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -954,7 +1126,9 @@
     "is_implicit": true,
     "video_id": "cwDxVvhjqgw",
     "start_time": 2476.0999755859375,
-    "end_time": 2551.5399780273438
+    "end_time": 2551.5399780273438,
+    "point_summary": "God has provided everything needed for life and godliness, so any failure to continue in His calling cannot be attributed to Him but to the believer's own neglect of that provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "DHlr6H0yH5I",
     "start_time": 875.6800231933594,
-    "end_time": 954.4200134277344
+    "end_time": 954.4200134277344,
+    "point_summary": "Growing in grace and knowledge of Christ—the closing charge of 2 Peter—is connected here to the privilege of fellowship and feasting on Scripture as the means by which that growth occurs.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -976,7 +1152,9 @@
     "is_implicit": true,
     "video_id": "DoWaLkMdeTk",
     "start_time": 1063.5999755859375,
-    "end_time": 1137.5999755859375
+    "end_time": 1137.5999755859375,
+    "point_summary": "God's unwillingness that any should perish grounds the urgency to share the gospel with every soul encountered, since each person will spend eternity either in heaven or the lake of fire.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -987,7 +1165,9 @@
     "is_implicit": true,
     "video_id": "Du5TlyOkMiw",
     "start_time": 2389.8599243164062,
-    "end_time": 2458.1799125671387
+    "end_time": 2458.1799125671387,
+    "point_summary": "The world's coming dissolution by fervent heat (2 Peter 3) reinforces that earthly things are temporary and therefore unworthy of the supreme affection believers should reserve for God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "DzfYEJzAihI",
     "start_time": 2228.840057373047,
-    "end_time": 2294.4000549316406
+    "end_time": 2294.4000549316406,
+    "point_summary": "God's unwillingness that any should perish is identified as the driving concern behind his individual knowledge of each person, making salvation the greatest work he performs in a human life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "E-g-Sq7N4Bg",
     "start_time": 1602.6999816894531,
-    "end_time": 1659.8399963378906
+    "end_time": 1659.8399963378906,
+    "point_summary": "God's measure of time differs fundamentally from man's, so that \"shortly\" in Revelation 1:1 carries divine meaning rather than human meaning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "E-g-Sq7N4Bg",
     "start_time": 1602.6999816894531,
-    "end_time": 1659.8399963378906
+    "end_time": 1659.8399963378906,
+    "point_summary": "God's timescale differs fundamentally from man's, so that \"shortly\" in Revelation 1:1 carries divine meaning—a thousand years being as one day to the Lord—explaining why prophetic imminence is not measured by human expectation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1031,7 +1217,9 @@
     "is_implicit": true,
     "video_id": "E-g-Sq7N4Bg",
     "start_time": 1659.8399963378906,
-    "end_time": 1723.6799926757812
+    "end_time": 1723.6799926757812,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 68.45999908447266,
-    "end_time": 138.77999877929688
+    "end_time": 138.77999877929688,
+    "point_summary": "God's divine power has already given believers all things pertaining to life and godliness, establishing that his promises are grounded in his own character and therefore of exceeding worth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 68.45999908447266,
-    "end_time": 138.77999877929688
+    "end_time": 138.77999877929688,
+    "point_summary": "God's promises in Scripture are described as \"exceeding great and precious,\" establishing that the preciousness of Christ extends to the promises He has given His people in His Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 138.77999877929688,
-    "end_time": 220.66000366210938
+    "end_time": 220.66000366210938,
+    "point_summary": "God's promises are \"exceeding great and precious\" because their value derives entirely from the character of the One who makes them—a God who cannot lie.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 1804.8400173187256,
-    "end_time": 1878.3000183105469
+    "end_time": 1878.3000183105469,
+    "point_summary": "God's divine power has already granted believers everything needed for life and godliness, making His spiritual provision—through Scripture, the Holy Spirit, and gifted teachers—complete and sufficient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "EetmC5JSFHc",
     "start_time": 2018.8200225830078,
-    "end_time": 2080.8600158691406
+    "end_time": 2080.8600158691406,
+    "point_summary": "God's spiritual provision — giving believers \"all things that pertain unto life and godliness\" (2 Peter 1) — is set alongside His material generosity as evidence that He withholds nothing His people truly need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "EetmC5JSFHc",
     "start_time": 2379.3400268554688,
-    "end_time": 2441.6600456237793
+    "end_time": 2441.6600456237793,
+    "point_summary": "God's long-suffering is not slackness but the patient fulfillment of His promise to return, desiring that all come to repentance before that day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "eoPrxxfMgiw",
     "start_time": 905.2200012207031,
-    "end_time": 967.1000061035156
+    "end_time": 967.1000061035156,
+    "point_summary": "Scoffers who mock the promise of Christ's return (2 Peter 3:3) are contrasted with John's unshakeable certainty, grounded in firsthand witness of Christ's ascension and the angels' promise of His return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1119,7 +1321,9 @@
     "is_implicit": true,
     "video_id": "EoTOjgo0SqY",
     "start_time": 2623.759994506836,
-    "end_time": 2692.1799926757812
+    "end_time": 2692.1799926757812,
+    "point_summary": "Spiritual sustenance for enduring trials comes through feasting deeply on God's Word, with a brief allusion to \"grow in grace and knowledge\" as the scriptural call to move beyond minimal daily reading.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 1418.3400268554688,
-    "end_time": 1484.3400268554688
+    "end_time": 1484.3400268554688,
+    "point_summary": "God's faithfulness to every promise is affirmed by citing 2 Peter 3:9 — that the Lord is not slack concerning His promise — applied broadly beyond its eschatological context to underscore His dependability in all He has sworn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2585.3800201416016,
-    "end_time": 2659.740020751953
+    "end_time": 2659.740020751953,
+    "point_summary": "Peter's eyewitness experience at the Transfiguration makes his declaration striking: the written Word of God is a more sure word of prophecy, and heeding it is for our good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "EP8XrnmtXFY",
     "start_time": 2659.740020751953,
-    "end_time": 2734.1800231933594
+    "end_time": 2734.1800231933594,
+    "point_summary": "Peter, who personally heard God's voice at the Transfiguration, nonetheless calls the written Word a \"more sure word,\" making obedience to Scripture a matter of one's own best interest and well-being.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "Fa2tycL8Slk",
     "start_time": 1238.1799850463867,
-    "end_time": 1315.219985961914
+    "end_time": 1315.219985961914,
+    "point_summary": "Growing in grace and in the knowledge of Christ is a scriptural command that calls every believer to pursue ongoing spiritual development rather than settling for stagnation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1174,7 +1386,9 @@
     "is_implicit": true,
     "video_id": "G50UWUcArHE",
     "start_time": 0.0,
-    "end_time": 54.939998626708984
+    "end_time": 54.939998626708984,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1185,7 +1399,9 @@
     "is_implicit": true,
     "video_id": "giwhcbMIrNo",
     "start_time": 1419.3199462890625,
-    "end_time": 1490.0799560546875
+    "end_time": 1490.0799560546875,
+    "point_summary": "God's desire that none should perish coexists with human free will, meaning the atonement is sufficient for all, yet not all will choose to receive it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1196,7 +1412,9 @@
     "is_implicit": true,
     "video_id": "hMIOkmwPfzg",
     "start_time": 873.7400207519531,
-    "end_time": 935.3399963378906
+    "end_time": 935.3399963378906,
+    "point_summary": "God's unconditional promise of Christ's return stands firm despite mockers who question it, because the Lord is not slack concerning His promises but long-suffering toward the lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "hMIOkmwPfzg",
     "start_time": 937.5800170898438,
-    "end_time": 999.9600219726562
+    "end_time": 999.9600219726562,
+    "point_summary": "God's apparent delay in Christ's return is not slackness but long-suffering patience, and mockers who question the promise only confirm that what He has promised He will certainly perform.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "HU9EA4cSKt0",
     "start_time": 1288.560043334961,
-    "end_time": 1353.280044555664
+    "end_time": 1353.280044555664,
+    "point_summary": "God's general will for all humanity, revealed in Scripture, is that none should perish but that all should come to repentance and be saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1229,7 +1451,9 @@
     "is_implicit": true,
     "video_id": "HyiDXKZbWS8",
     "start_time": 2196.8800048828125,
-    "end_time": 2267.260009765625
+    "end_time": 2267.260009765625,
+    "point_summary": "Willful ignorance, not mere lack of access, defines those who resist truth — they are content in deception and actively unwilling to receive what has been plainly spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "HyiDXKZbWS8",
     "start_time": 2267.260009765625,
-    "end_time": 2335.4199829101562
+    "end_time": 2335.4199829101562,
+    "point_summary": "Willful ignorance, not lack of access, defines those who resist the truth—they are, as 2 Peter 3 states, \"willingly ignorant,\" content in their deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "HyiDXKZbWS8",
     "start_time": 3017.44002532959,
-    "end_time": 3085.2200241088867
+    "end_time": 3085.2200241088867,
+    "point_summary": "God's desire that none should perish but all come to repentance is the motivation for believers to shine as lights and bring the gospel to sinners in these dark, perilous times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 1031.8200073242188,
-    "end_time": 1111.260009765625
+    "end_time": 1111.260009765625,
+    "point_summary": "False prophets arising from within the community of God's people—not from outside—is presented as the pattern Scripture establishes and the danger Titus faced in Crete.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 1031.8200073242188,
-    "end_time": 1111.260009765625
+    "end_time": 1111.260009765625,
+    "point_summary": "Many false teachers attract widespread followings, as 2 Peter 2:2 warns that many will follow their pernicious ways, underscoring the numerical scale of deception threatening the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 1031.8200073242188,
-    "end_time": 1111.260009765625
+    "end_time": 1111.260009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "I6K0V0ASzDE",
     "start_time": 1111.260009765625,
-    "end_time": 1183.260009765625
+    "end_time": 1183.260009765625,
+    "point_summary": "False prophets among God's people in the Old Testament establish the pattern by which Peter warns that false teachers will likewise infiltrate the church, introducing damnable heresies through deception that draws many followers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "IgF7S1e9tQM",
     "start_time": 1426.240005493164,
-    "end_time": 1490.5599975585938
+    "end_time": 1490.5599975585938,
+    "point_summary": "Proper interpretation of Scripture requires attention to context, since 2 Peter 1:20's warning against private interpretation guards against the error of isolating a single verse to build false teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1317,7 +1555,9 @@
     "is_implicit": true,
     "video_id": "ih2lvcJJaCE",
     "start_time": 1149.9199829101562,
-    "end_time": 1206.9599537849426
+    "end_time": 1206.9599537849426,
+    "point_summary": "Scoffers' mockery of Christ's return—\"where is the promise of His coming?\"—is answered by Peter's affirmation that God is not slack concerning His promise but longsuffering, certain to fulfill it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 1149.9199829101562,
-    "end_time": 1206.9599537849426
+    "end_time": 1206.9599537849426,
+    "point_summary": "God's faithfulness to His promises is defended against first-century and present-day scoffers by citing Peter's assurance that divine delay reflects longsuffering patience, not slackness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "ih2lvcJJaCE",
     "start_time": 1788.3599243164062,
-    "end_time": 1853.9199523925781
+    "end_time": 1853.9199523925781,
+    "point_summary": "God's transcendence over time—\"a day is as a thousand years\"—answers the skeptic's challenge \"where is the promise of his return?\" by grounding confidence in Christ's faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "IM7A6QqEAIQ",
     "start_time": 2474.8599548339844,
-    "end_time": 2533.939956665039
+    "end_time": 2533.939956665039,
+    "point_summary": "God's patience in delaying Christ's return is not indifference but a merciful extension of time for souls to repent before the rapture removes the church and closes that window.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "iOuNydlRGNs",
     "start_time": 1602.2400207519531,
-    "end_time": 1660.9000244140625
+    "end_time": 1660.9000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1372,7 +1620,9 @@
     "is_implicit": true,
     "video_id": "iT8pxOgIv0A",
     "start_time": 1536.5599670410156,
-    "end_time": 1600.3399658203125
+    "end_time": 1600.3399658203125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "iZXFuFteOqU",
     "start_time": 2634.220001220703,
-    "end_time": 2700.6600036621094
+    "end_time": 2700.6600036621094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "I_KR75PznSU",
     "start_time": 2231.459991455078,
-    "end_time": 2286.019989013672
+    "end_time": 2286.019989013672,
+    "point_summary": "Growing in grace and knowledge of Christ is declared to be God's explicit plan and design for every believer, ruling out permanent spiritual immaturity as an acceptable condition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "j51zdQRDSfU",
     "start_time": 855.9600219726562,
-    "end_time": 931.7200317382812
+    "end_time": 931.7200317382812,
+    "point_summary": "False teachers will secretly introduce damnable heresies and draw many followers, paralleling Paul's warning in Colossians 2 against those who beguile believers with enticing words.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "j51zdQRDSfU",
     "start_time": 855.9600219726562,
-    "end_time": 931.7200317382812
+    "end_time": 931.7200317382812,
+    "point_summary": "False teachers draw large followings through fabricated, deceptive speech, making the widespread appeal of error a sobering biblical warning rather than evidence of legitimacy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "j51zdQRDSfU",
     "start_time": 855.9600219726562,
-    "end_time": 931.7200317382812
+    "end_time": 931.7200317382812,
+    "point_summary": "False teachers use fabricated, deceptive language—what Peter calls \"feigned words\" and Paul calls \"enticing words\"—to exploit believers, and many will tragically follow them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "jGOucUG9qOI",
     "start_time": 1996.6799774169922,
-    "end_time": 2058.7999877929688
+    "end_time": 2058.7999877929688,
+    "point_summary": "Knowing the truth in advance serves as the believer's guard against false teaching, so that spiritual growth—not merely doctrinal warning—is the primary defense against being led into error and losing steadfastness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "jGOucUG9qOI",
     "start_time": 1996.6799774169922,
-    "end_time": 2058.7999877929688
+    "end_time": 2058.7999877929688,
+    "point_summary": "Spiritual growth in grace and knowledge — cited from 2 Peter 3:18 alongside verse 17 — is presented as the believer's primary defense against being led away by false teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "jGOucUG9qOI",
     "start_time": 2058.7999877929688,
-    "end_time": 2125.6799926757812
+    "end_time": 2125.6799926757812,
+    "point_summary": "Forewarned believers best resist false teaching not by confrontation alone but by actively growing in grace and knowledge of Christ, making spiritual maturity the primary defense against doctrinal error.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 1772.719970703125,
-    "end_time": 1839.5999908447266
+    "end_time": 1839.5999908447266,
+    "point_summary": "God's desire that none should perish grounds the expectation that he will work when believers engage others with the gospel, though human free will remains.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "jiYib4rm3vs",
     "start_time": 1988.6799926757812,
-    "end_time": 2048.519989013672
+    "end_time": 2048.519989013672,
+    "point_summary": "God's unwillingness that any should perish grounds the expectation that He is still actively saving sinners when the gospel is faithfully preached.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1493,7 +1763,9 @@
     "is_implicit": true,
     "video_id": "jNCO80tyoMQ",
     "start_time": 2318.97998046875,
-    "end_time": 2386.3400268554688
+    "end_time": 2386.3400268554688,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "jqx67c84gmA",
     "start_time": 2449.559970855713,
-    "end_time": 2515.9599685668945
+    "end_time": 2515.9599685668945,
+    "point_summary": "A believer's proper response to Scripture's authority—illustrated by Peter's eyewitness glory on the Mount of Transfiguration—is active, wholehearted heed and obedience to the word of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "jRZn5p4HETY",
     "start_time": 744.5000152587891,
-    "end_time": 812.9000244140625
+    "end_time": 812.9000244140625,
+    "point_summary": "Balaam's teaching is identified by three distinct biblical labels — \"doctrine\" in Revelation 2:14, \"way\" in 2 Peter 2:15, and \"error\" in Jude 11 — each describing the same corrupting influence on Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "k6oXir_mJ3I",
     "start_time": 396.8399963378906,
-    "end_time": 456.0199890136719
+    "end_time": 456.0199890136719,
+    "point_summary": "God's universal saving will — that none should perish but all come to repentance — is cited as scriptural confirmation that believing on the name of Jesus Christ is the commandment God requires of all mankind.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "k6oXir_mJ3I",
     "start_time": 1696.5799865722656,
-    "end_time": 1765.6199951171875
+    "end_time": 1765.6199951171875,
+    "point_summary": "God's will that none should perish and all come to repentance grounds the assurance that prayers for evangelism and soul-winning align with His desires and will be answered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "Ka9pI-oYLw8",
     "start_time": 2447.999988555908,
-    "end_time": 2506.419990539551
+    "end_time": 2506.419990539551,
+    "point_summary": "God's patience in delaying judgment reflects His desire that none perish, offered as assurance that the unsaved still have opportunity to be saved before death forecloses that possibility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "KNJW7jy8zDg",
     "start_time": 1966.0799865722656,
-    "end_time": 2030.6399841308594
+    "end_time": 2030.6399841308594,
+    "point_summary": "Spiritual growth is a consistent biblical expectation for believers, with Peter's closing exhortation to grow in grace and knowledge confirming what Hebrews 5 demands of those saved long enough to have matured.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1570,7 +1854,9 @@
     "is_implicit": true,
     "video_id": "KnZFjfOQSr4",
     "start_time": 1609.9000244140625,
-    "end_time": 1678.7000122070312
+    "end_time": 1678.7000122070312,
+    "point_summary": "Scoffers' mockery of Christ's delayed return is answered by the reminder that God operates outside human timekeeping, making His coming certain even if the moment is unknown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "KnZFjfOQSr4",
     "start_time": 1609.9000244140625,
-    "end_time": 1678.7000122070312
+    "end_time": 1678.7000122070312,
+    "point_summary": "God's timing differs from human reckoning, so Christ's seemingly delayed return does not contradict his promise—he is, as stated, \"right on time.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "KskHW1EZsM8",
     "start_time": 1631.5600280761719,
-    "end_time": 1690.3200378417969
+    "end_time": 1690.3200378417969,
+    "point_summary": "God's will that none should perish grounds the evangelist's confidence that a sinner's prayer of repentance is always prayed in accordance with God's will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "L2VPresPC4c",
     "start_time": 1871.3600158691406,
-    "end_time": 1934.6800231933594
+    "end_time": 1934.6800231933594,
+    "point_summary": "God's unwillingness that any should perish is not arbitrary divine selection but an open, universal call—whosoever calls upon the Lord shall be saved—making the timing of one's confession the decisive factor.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1614,7 +1906,9 @@
     "is_implicit": true,
     "video_id": "LAgQEfojK6Q",
     "start_time": 61.31999969482422,
-    "end_time": 132.1999969482422
+    "end_time": 132.1999969482422,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 303.6000061035156,
-    "end_time": 370.0799865722656
+    "end_time": 370.0799865722656,
+    "point_summary": "Just as Moses warned Israel against forgetting God amid blessing, Peter writes his second epistle with urgent pastoral concern—aware of his impending death—to ensure his readers remain mindful of what God has done.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 370.0799865722656,
-    "end_time": 434.6400146484375
+    "end_time": 434.6400146484375,
+    "point_summary": "Facing imminent death, Peter resolved to keep reminding believers of truths they already knew, treating repetition of established truth as a pastoral duty, not a redundancy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 2272.300048828125,
-    "end_time": 2333.9400634765625
+    "end_time": 2333.9400634765625,
+    "point_summary": "God's eternality places Him outside of time, so that what appears to human observers as delay in Christ's return is no delay at all from the Lord's perspective.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "ldE7ASGe8fY",
     "start_time": 2272.300048828125,
-    "end_time": 2333.9400634765625
+    "end_time": 2333.9400634765625,
+    "point_summary": "God's apparent delay in fulfilling His promise of Christ's return is not slackness but longsuffering, demonstrating that He is still saving sinners before that promised coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "LvoKa3NMu8k",
     "start_time": 235.5399932861328,
-    "end_time": 298.17999267578125
+    "end_time": 298.17999267578125,
+    "point_summary": "Peter's closing warning in 2 Peter 3:17 is cited to underscore that believers, forewarned about false teachers, must guard against being led away by their error.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1680,7 +1984,9 @@
     "is_implicit": false,
     "video_id": "LvoKa3NMu8k",
     "start_time": 298.17999267578125,
-    "end_time": 371.8999938964844
+    "end_time": 371.8999938964844,
+    "point_summary": "Grounding believers in sound doctrine is the God-appointed safeguard against being led away by false teachers, since error cannot flourish where truth holds sway.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1691,7 +1997,9 @@
     "is_implicit": false,
     "video_id": "LvoKa3NMu8k",
     "start_time": 298.17999267578125,
-    "end_time": 371.8999938964844
+    "end_time": 371.8999938964844,
+    "point_summary": "Growing in grace and in the knowledge of Christ is Peter's prescribed safeguard against being led away by the error of the wicked and falling from steadfastness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "M196IRZkKYY",
     "start_time": 912.6399841308594,
-    "end_time": 982.0399780273438
+    "end_time": 982.0399780273438,
+    "point_summary": "Death as the \"putting off\" of the earthly tabernacle, drawn from 2 Peter 1, frames the \"gain\" of Philippians 1:21 as the believer's departure to be with Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "Ms9rW5KmNQM",
     "start_time": 862.8600158691406,
-    "end_time": 922.3000183105469
+    "end_time": 922.3000183105469,
+    "point_summary": "God's longsuffering desire that none should perish but all come to repentance confirms His universal saving will, consistent with the sermon's broader argument from 1 Timothy 2:4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1724,7 +2036,9 @@
     "is_implicit": false,
     "video_id": "Ms9rW5KmNQM",
     "start_time": 1533.9000244140625,
-    "end_time": 1601.0600280761719
+    "end_time": 1601.0600280761719,
+    "point_summary": "Spiritual maturity — measured by desire and growth in grace and knowledge of Christ, not by time saved — is the believer's surest defense against false teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "Mxme6byM7mw",
     "start_time": 2330.3400268554688,
-    "end_time": 2390.1400146484375
+    "end_time": 2390.1400146484375,
+    "point_summary": "Suffering for believers is explicitly temporary — described as lasting only \"a while\" — because God's timing is perfect and his refining purpose will reach its appointed end.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1746,7 +2062,9 @@
     "is_implicit": false,
     "video_id": "MyCOoL7O768",
     "start_time": 121.68000030517578,
-    "end_time": 190.63999938964844
+    "end_time": 190.63999938964844,
+    "point_summary": "Growth in grace and knowledge of Christ, as commanded in 2 Peter 3:18, is presented as God's design for every believer and, by extension, for the local church collectively.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 2786.4400634765625,
-    "end_time": 2884.0000610351562
+    "end_time": 2884.0000610351562,
+    "point_summary": "God's unwillingness that any should perish grounds the congregation's call to seize specific opportunities to declare his mercy to the lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1768,7 +2088,9 @@
     "is_implicit": true,
     "video_id": "nAg0uoCzhe8",
     "start_time": 1175.2000122070312,
-    "end_time": 1228.5000438690186
+    "end_time": 1228.5000438690186,
+    "point_summary": "God's patience in delaying Christ's return is not slackness but purposeful long-suffering, rooted in the promise of His coming back for His own.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1779,7 +2101,9 @@
     "is_implicit": true,
     "video_id": "nAg0uoCzhe8",
     "start_time": 1228.5000438690186,
-    "end_time": 1289.5200424194336
+    "end_time": 1289.5200424194336,
+    "point_summary": "God's delay in Christ's return is not negligence but long-suffering patience, as 2 Peter 3:9 frames the unfulfilled promise of His coming as purposeful—allowing time for repentance before that return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1790,7 +2114,9 @@
     "is_implicit": false,
     "video_id": "najkOZaBPgU",
     "start_time": 381.20001220703125,
-    "end_time": 446.55999755859375
+    "end_time": 446.55999755859375,
+    "point_summary": "Growth in grace and knowledge is the expected trajectory of every believer's life, illustrated by Thyatira's commendation that their last works exceeded their first.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1801,7 +2127,9 @@
     "is_implicit": false,
     "video_id": "nKp9POTWPKI",
     "start_time": 1329.7599639892578,
-    "end_time": 1393.5799713134766
+    "end_time": 1393.5799713134766,
+    "point_summary": "God's unwillingness that any should perish is cited as evidence that Christ's atoning payment is sufficient and available to all humanity, not a limited few.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1812,7 +2140,9 @@
     "is_implicit": true,
     "video_id": "NtYYNz8sJhU",
     "start_time": 1231.0400161743164,
-    "end_time": 1320.8800201416016
+    "end_time": 1320.8800201416016,
+    "point_summary": "Lot's tragic trajectory—from pitching his tent toward Sodom to sitting at its gate—illustrates how gradual exposure to ungodly companions progressively vexes even a righteous soul.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1823,7 +2153,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 631.6999740600586,
-    "end_time": 690.5399703979492
+    "end_time": 690.5399703979492,
+    "point_summary": "Peter's citation of God's judgment on sinning angels establishes the foundational principle that God does not spare the unrighteous, introduced here as the first in a series of Old Testament examples proving divine judgment is certain.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1834,7 +2166,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "God's judgment on sinful angels, the ungodly world of Noah, and Sodom and Gomorrah are cited together as Old Testament precedents establishing that God reserves the unjust for judgment while delivering the godly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1845,7 +2179,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "Noah's preservation through the flood is cited as one of God's historical precedents demonstrating that He knows how to deliver the godly while judging the ungodly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "God's destruction of Sodom and Gomorrah is presented as a divinely intended example—a warning to all who would live ungodly—establishing that God's judgment on wickedness is both historical and instructive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1867,7 +2205,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "Lot's description as \"just\" and \"righteous\" in a corrupt society illustrates that God recognizes and preserves the godly even when surrounded by those who call evil good and good evil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1878,7 +2218,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "Lot's daily vexation among the wicked illustrates that the righteous soul is grieved by ungodly deeds, even while surrounded by a society that calls evil good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1889,7 +2231,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 690.5399703979492,
-    "end_time": 749.2599792480469
+    "end_time": 749.2599792480469,
+    "point_summary": "God's deliverance of the godly and reservation of the unjust for judgment, illustrated through the destruction of Sodom and Gomorrah, is presented as an enduring pattern confirmed by both Old Testament record and New Testament teaching.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1900,7 +2244,9 @@
     "is_implicit": false,
     "video_id": "O-P_67xx1P0",
     "start_time": 749.2599792480469,
-    "end_time": 809.3799743652344
+    "end_time": 809.3799743652344,
+    "point_summary": "God's destruction of Sodom and Gomorrah is presented as a standing example—explicitly labeled as such in both 2 Peter 2:6 and Jude 7—warning all who live ungodly that divine judgment will not be avoided.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1911,7 +2257,9 @@
     "is_implicit": true,
     "video_id": "O-P_67xx1P0",
     "start_time": 1447.2599487304688,
-    "end_time": 1502.6599426269531
+    "end_time": 1502.6599426269531,
+    "point_summary": "Sodom and Gomorrah's destruction, referenced via 2 Peter, is invoked as the biblical pattern for divine judgment on unrepentant nations that refuse to return to God despite repeated chastisements.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1922,7 +2270,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 1935.0599975585938,
-    "end_time": 2004.4199981689453
+    "end_time": 2004.4199981689453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1933,7 +2283,9 @@
     "is_implicit": true,
     "video_id": "o9-gWdlQUaY",
     "start_time": 2074.1199951171875,
-    "end_time": 2136.1199951171875
+    "end_time": 2136.1199951171875,
+    "point_summary": "God's timescale differs from human perception of \"shortly,\" so that Revelation's promise of things \"which must shortly come to pass\" should not be dismissed by those measuring time from a finite, creaturely vantage point.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1944,7 +2296,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 1380.5599822998047,
-    "end_time": 1445.5999908447266
+    "end_time": 1445.5999908447266,
+    "point_summary": "Peter's warning in 2 Peter 3 that last-days scoffers will mock the promise of Christ's coming is presented as the direct fulfillment of what Genesis 10's repeated phrase \"after the flood\" anticipates—denial of the global flood is nothing new.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 1445.5999908447266,
-    "end_time": 1519.0399780273438
+    "end_time": 1519.0399780273438,
+    "point_summary": "Peter's prophecy that last-days scoffers would deny the global flood is presented as direct fulfillment, connecting contemporary mockery of Noah's flood to the willful ignorance Peter describes in 2 Peter 3:3–6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 1445.5999908447266,
-    "end_time": 1519.0399780273438
+    "end_time": 1519.0399780273438,
+    "point_summary": "Peter's citation of last-days scoffers who argue that \"all things continue as they were from the beginning\" is shown to be willful ignorance, specifically of the global flood as historical fact.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 1445.5999908447266,
-    "end_time": 1519.0399780273438
+    "end_time": 1519.0399780273438,
+    "point_summary": "Peter's citation of 2 Peter 3:5–6 is used to show that the scoffers' denial of Noah's global flood is willful ignorance, not honest skepticism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1988,7 +2348,9 @@
     "is_implicit": false,
     "video_id": "P9IertNJ6kQ",
     "start_time": 1445.5999908447266,
-    "end_time": 1519.0399780273438
+    "end_time": 1519.0399780273438,
+    "point_summary": "Peter's citation of the Noahic flood in 2 Peter 3:6 is presented as apostolic confirmation that the global flood was a historical reality, against which end-times scoffers willingly shut their eyes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "Ph0OqWhwvWk",
     "start_time": 1284.9400024414062,
-    "end_time": 1345.6999969482422
+    "end_time": 1345.6999969482422,
+    "point_summary": "God's general will—that all people be saved and come to the knowledge of the truth—is cited from 2 Peter 3:9 to ground the twofold purpose of salvation and discipleship declared in 1 Timothy 2:4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2010,7 +2374,9 @@
     "is_implicit": true,
     "video_id": "Q0KwlM1Jkcc",
     "start_time": 2266.280029296875,
-    "end_time": 2327.1200561523438
+    "end_time": 2327.1200561523438,
+    "point_summary": "God's patience in delaying Christ's return reflects His unwillingness that any should perish, confirming that He desires all people to come to repentance and be saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "QAdyAImwSIQ",
     "start_time": 2005.1200103759766,
-    "end_time": 2085.6000061035156
+    "end_time": 2085.6000061035156,
+    "point_summary": "God's patience in delaying Christ's return is purposeful, connected to His desire for more souls to be saved, as the scoffers' mockery of that delay is addressed in 2 Peter 3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "QAdyAImwSIQ",
     "start_time": 2085.6000061035156,
-    "end_time": 2154.560028076172
+    "end_time": 2154.560028076172,
+    "point_summary": "God's delay in fulfilling His promise of Christ's return reflects not slackness but longsuffering patience, as He desires that all come to repentance rather than perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "QaNLhiuXtTI",
     "start_time": 718.47998046875,
-    "end_time": 784.9600219726562
+    "end_time": 784.9600219726562,
+    "point_summary": "Knowing God's \"exceeding great and precious promises\" (2 Pet. 1:4) is presented as the necessary foundation for edifying others, since one cannot encourage with promises one does not know.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "QaNLhiuXtTI",
     "start_time": 784.9600219726562,
-    "end_time": 854.280029296875
+    "end_time": 854.280029296875,
+    "point_summary": "Edifying others with God's Word requires knowing His promises individually, so that believers can rehearse and share them—what Peter calls \"exceeding great and precious promises\"—with those facing difficulty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "QaNLhiuXtTI",
     "start_time": 854.280029296875,
-    "end_time": 915.719970703125
+    "end_time": 915.719970703125,
+    "point_summary": "Peter's ministry of \"putting you in remembrance\" illustrates that believers under trial often need another person to recall God's promises on their behalf, since suffering can produce a kind of spiritual amnesia.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2076,7 +2452,9 @@
     "is_implicit": false,
     "video_id": "QI1RKiGpoHA",
     "start_time": 1956.3599700927734,
-    "end_time": 2022.9199829101562
+    "end_time": 2022.9199829101562,
+    "point_summary": "God's longsuffering patience—his unwillingness that any should perish—is cited as the reason the church still exists in 2025 and proof that the Laodicean pattern of apathy need not continue.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2087,7 +2465,9 @@
     "is_implicit": false,
     "video_id": "QmqNwJEHxfw",
     "start_time": 1094.9200134277344,
-    "end_time": 1161.1199951171875
+    "end_time": 1161.1199951171875,
+    "point_summary": "Amid the call to cast anxiety on God, 2 Peter 1:4 is cited to underscore that God's \"exceeding great and precious promises\" ground that act of trust—including the specific promise that He cares for you.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2098,7 +2478,9 @@
     "is_implicit": false,
     "video_id": "QN66bc7XOjk",
     "start_time": 1914.4399490356445,
-    "end_time": 1978.679946899414
+    "end_time": 1978.679946899414,
+    "point_summary": "The earth's coming destruction by fire, as described in 2 Peter 3, belongs entirely to God's timing and plan, not to human environmental fears.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2109,7 +2491,9 @@
     "is_implicit": false,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 1573.7799682617188,
-    "end_time": 1648.4599914550781
+    "end_time": 1648.4599914550781,
+    "point_summary": "God's long-suffering patience, by which He delays judgment so that all might come to repentance, reflects His sovereign, perfect timeline over a world of billions still lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2120,7 +2504,9 @@
     "is_implicit": false,
     "video_id": "qOjc4Iw2qz8",
     "start_time": 1648.4599914550781,
-    "end_time": 1707.6199951171875
+    "end_time": 1707.6199951171875,
+    "point_summary": "God's patience in delaying judgment reflects His unwillingness that any should perish, even when believers grow impatient watching others seemingly escape consequence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2131,7 +2517,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 263.5199890136719,
-    "end_time": 325.4800109863281
+    "end_time": 325.4800109863281,
+    "point_summary": "Peter's urgency to keep reminding believers of established truth, even as he faces imminent death, frames Scripture's enduring relevance against those who claim it must be updated or replaced by experience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2142,7 +2530,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 263.5199890136719,
-    "end_time": 325.4800109863281
+    "end_time": 325.4800109863281,
+    "point_summary": "Peter's awareness of his approaching death drives his urgency to keep reminding believers of established truth while he still inhabits his earthly body.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2153,7 +2543,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 263.5199890136719,
-    "end_time": 325.4800109863281
+    "end_time": 325.4800109863281,
+    "point_summary": "Peter's awareness of his imminent death drives his urgency to keep establishing believers in truth while he still occupies his earthly body.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2164,7 +2556,9 @@
     "is_implicit": true,
     "video_id": "Qr15eY1HTgY",
     "start_time": 325.4800109863281,
-    "end_time": 388.67999267578125
+    "end_time": 388.67999267578125,
+    "point_summary": "Peter's awareness of his imminent death drives his urgency to instruct believers while he still can, so that gospel truth will endure beyond his lifetime.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2175,7 +2569,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 325.4800109863281,
-    "end_time": 388.67999267578125
+    "end_time": 388.67999267578125,
+    "point_summary": "Peter's urgency to ensure believers retain gospel truth after his death frames verse 15 as a call to intergenerational faithfulness—passing the baton so God's work continues beyond any one messenger's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2186,7 +2582,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 325.4800109863281,
-    "end_time": 388.67999267578125
+    "end_time": 388.67999267578125,
+    "point_summary": "Peter's apostolic testimony was not myth but eyewitness reality — he and others personally witnessed Christ's majesty and heard the Father's voice on the holy mount.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2197,7 +2595,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 388.67999267578125,
-    "end_time": 455.32000732421875
+    "end_time": 455.32000732421875,
+    "point_summary": "Peter's eyewitness testimony of the voice heard on the holy mount is cited as the historical, firsthand foundation undergirding the apostolic witness to Christ's majesty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2208,7 +2608,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 388.67999267578125,
-    "end_time": 455.32000732421875
+    "end_time": 455.32000732421875,
+    "point_summary": "Scripture's prophetic word is presented as more reliable than even eyewitness experience of the Transfiguration, functioning as a light in darkness until Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2219,7 +2621,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 388.67999267578125,
-    "end_time": 455.32000732421875
+    "end_time": 455.32000732421875,
+    "point_summary": "Verses 20–21 are cited as the scriptural basis for understanding the divine process of inspiration—how God gave His Word through holy men moved by the Holy Spirit—a point developed in a prior message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2230,7 +2634,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 388.67999267578125,
-    "end_time": 455.32000732421875
+    "end_time": 455.32000732421875,
+    "point_summary": "Scripture's divine origin is affirmed by connecting 2 Peter 1:20–21 to the process of inspiration, showing that holy men spoke as they were moved by the Holy Spirit rather than by human will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2241,7 +2647,9 @@
     "is_implicit": true,
     "video_id": "Qr15eY1HTgY",
     "start_time": 693.7599868774414,
-    "end_time": 763.97998046875
+    "end_time": 763.97998046875,
+    "point_summary": "Peter's eyewitness testimony at the Transfiguration—hearing the Father's voice firsthand—is presented not as the ultimate foundation for faith, but as a credential that points beyond itself to the sufficiency of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2252,7 +2660,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 763.97998046875,
-    "end_time": 826.1199951171875
+    "end_time": 826.1199951171875,
+    "point_summary": "Peter's eyewitness experience at the Transfiguration is presented as lesser grounds for confidence than Scripture itself, which he calls \"a more sure word of prophecy.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2263,7 +2673,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 826.1199951171875,
-    "end_time": 890.7799987792969
+    "end_time": 890.7799987792969,
+    "point_summary": "God's divine power has given believers everything needed for life and godliness, establishing Scripture's sufficiency as the ground for Peter's appeal to the prophetic word over personal apostolic experience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2274,7 +2686,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 826.1199951171875,
-    "end_time": 890.7799987792969
+    "end_time": 890.7799987792969,
+    "point_summary": "The exceeding great and precious promises of verse 4 are identified as the means by which believers access God's sufficiency—promises known only because God has recorded them in Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2285,7 +2699,9 @@
     "is_implicit": true,
     "video_id": "Qr15eY1HTgY",
     "start_time": 944.6599731445312,
-    "end_time": 1009.2599792480469
+    "end_time": 1009.2599792480469,
+    "point_summary": "God's exceeding great and precious promises, recorded in Scripture, are the means by which believers both stand on God's Word and escape worldly corruption through its cleansing power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2296,7 +2712,9 @@
     "is_implicit": true,
     "video_id": "Qr15eY1HTgY",
     "start_time": 944.6599731445312,
-    "end_time": 1009.2599792480469
+    "end_time": 1009.2599792480469,
+    "point_summary": "God's exceeding great and precious promises are known to believers because they are recorded in Scripture, and through that same Word believers escape the world's corruption.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2307,7 +2725,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1009.2599792480469,
-    "end_time": 1078.5399780273438
+    "end_time": 1078.5399780273438,
+    "point_summary": "Peter's earlier declaration in 1 Peter 1:23 that the Word of God \"liveth and abideth forever\" grounds his second epistle's argument for Scripture's sufficiency as a \"more sure word.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2318,7 +2738,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1009.2599792480469,
-    "end_time": 1078.5399780273438
+    "end_time": 1078.5399780273438,
+    "point_summary": "Peter's earlier declaration in 1 Peter 1:25 that the Word of God \"liveth and abideth forever\" grounds his second epistle's argument that believers possess a \"more sure Word\" that is fully sufficient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2329,7 +2751,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1533.6199951171875,
-    "end_time": 1590.4400024414062
+    "end_time": 1590.4400024414062,
+    "point_summary": "Scripture's superiority over personal experience is the point of \"a more sure word of prophecy,\" with Peter himself—despite his extraordinary firsthand witness—directing believers to written revelation as the higher authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2340,7 +2764,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1533.6199951171875,
-    "end_time": 1590.4400024414062
+    "end_time": 1590.4400024414062,
+    "point_summary": "No prophecy of Scripture originated from a human author's private will or initiative, but holy men spoke as the Holy Spirit moved them, establishing the divine origin that makes God's word superior.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2351,7 +2777,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1533.6199951171875,
-    "end_time": 1590.4400024414062
+    "end_time": 1590.4400024414062,
+    "point_summary": "Scripture's superiority rests on its divine origin: holy men did not write by their own will but spoke as the Holy Spirit moved them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2362,7 +2790,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1590.4400024414062,
-    "end_time": 1653.2000122070312
+    "end_time": 1653.2000122070312,
+    "point_summary": "Scripture's superiority over human philosophy rests on its divine origin: no prophet wrote by personal initiative but spoke as the Holy Spirit moved them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2373,7 +2803,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1590.4400024414062,
-    "end_time": 1653.2000122070312
+    "end_time": 1653.2000122070312,
+    "point_summary": "Scripture's superiority over human philosophy rests on its divine origin: holy men spoke not by their own will but as they were moved by the Holy Ghost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2384,7 +2816,9 @@
     "is_implicit": false,
     "video_id": "Qr15eY1HTgY",
     "start_time": 1590.4400024414062,
-    "end_time": 1653.2000122070312
+    "end_time": 1653.2000122070312,
+    "point_summary": "Scripture's superiority over human philosophy and experience rests on its divine inspiration and providential preservation, making it the authoritative standard by which all thought must be corrected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2395,7 +2829,9 @@
     "is_implicit": true,
     "video_id": "R16x_G3i864",
     "start_time": 338.70001220703125,
-    "end_time": 404.9800109863281
+    "end_time": 404.9800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2406,7 +2842,9 @@
     "is_implicit": false,
     "video_id": "sn_vh6-Qfx0",
     "start_time": 1592.3400268554688,
-    "end_time": 1654.6600036621094
+    "end_time": 1654.6600036621094,
+    "point_summary": "God's longsuffering patience reflects His desire that none should perish, making the withholding of the gospel an inexcusable silence in light of what believers have received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2417,7 +2855,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 1833.6800422668457,
-    "end_time": 1901.3000411987305
+    "end_time": 1901.3000411987305,
+    "point_summary": "God's desire that none should perish but all come to repentance grounds the assurance that He cares more for a lost loved one's salvation than even the one interceding for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2428,7 +2868,9 @@
     "is_implicit": false,
     "video_id": "TeWW6mhl9W8",
     "start_time": 2733.459991455078,
-    "end_time": 2793.8200073242188
+    "end_time": 2793.8200073242188,
+    "point_summary": "Noah's designation as \"a preacher of righteousness\" in 2 Peter 2:5 underscores that his years of faithful proclamation, though mocked, made the coming judgment a matter of condemned unbelief rather than ignorance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2439,7 +2881,9 @@
     "is_implicit": false,
     "video_id": "u8q4Sw4sIWQ",
     "start_time": 1701.7599792480469,
-    "end_time": 1776.3999633789062
+    "end_time": 1776.3999633789062,
+    "point_summary": "God's destruction of Sodom and Gomorrah stands in Scripture as a deliberate example—an ensample—warning all who would afterward live ungodly of the certainty of divine judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2450,7 +2894,9 @@
     "is_implicit": false,
     "video_id": "u8q4Sw4sIWQ",
     "start_time": 1701.7599792480469,
-    "end_time": 1776.3999633789062
+    "end_time": 1776.3999633789062,
+    "point_summary": "Lot's designation as \"just\" and \"righteous\" in 2 Peter 2:7 confirms that God delivered him from Sodom's judgment precisely because, though surrounded by wickedness daily, his soul was genuinely vexed by it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2461,7 +2907,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 1372.4399871826172,
-    "end_time": 1427.999984741211
+    "end_time": 1427.999984741211,
+    "point_summary": "Rejecting the knowledge of Christ after exposure to it leaves a person in a worse condition than before, making apostasy more culpable than never having heard the gospel at all.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2472,7 +2920,9 @@
     "is_implicit": true,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 2339.2000122070312,
-    "end_time": 2402.0999755859375
+    "end_time": 2402.0999755859375,
+    "point_summary": "Scoffers who deny Christ's return by claiming all things remain unchanged are described as willingly ignorant, contrasted with Peter's assurance that God's promise of coming is not slack.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2483,7 +2933,9 @@
     "is_implicit": false,
     "video_id": "Ufw5LOw3rkA",
     "start_time": 2339.2000122070312,
-    "end_time": 2402.0999755859375
+    "end_time": 2402.0999755859375,
+    "point_summary": "God's delay in Christ's return is not slackness but longsuffering patience, and this promise of His coming stands as a sure encouragement to believers amid scoffing and difficulty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2494,7 +2946,9 @@
     "is_implicit": true,
     "video_id": "UNpT0Mg8wG8",
     "start_time": 896.1399841308594,
-    "end_time": 961.0799865722656
+    "end_time": 961.0799865722656,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2505,7 +2959,9 @@
     "is_implicit": true,
     "video_id": "UpbuU9BS4yg",
     "start_time": 472.79998779296875,
-    "end_time": 541.5999755859375
+    "end_time": 541.5999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2516,7 +2972,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 541.5999755859375,
-    "end_time": 600.0800170898438
+    "end_time": 600.0800170898438,
+    "point_summary": "Scripture's reliability surpasses even direct eyewitness experience of God's glory, as Peter declares the written Word a \"more sure word of prophecy\" than his own witness at the Transfiguration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2527,7 +2985,9 @@
     "is_implicit": true,
     "video_id": "UpbuU9BS4yg",
     "start_time": 541.5999755859375,
-    "end_time": 600.0800170898438
+    "end_time": 600.0800170898438,
+    "point_summary": "Scripture's reliability surpasses even direct auditory experience of God, as Peter calls the written prophetic word \"more sure\" than his own witness of the Transfiguration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2538,7 +2998,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 600.0800170898438,
-    "end_time": 664.52001953125
+    "end_time": 664.52001953125,
+    "point_summary": "Scripture's own testimony places the written Word above even the audible voice of God heard at the Transfiguration, calling it a more sure word of prophecy that illuminates like light in darkness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2549,7 +3011,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 600.0800170898438,
-    "end_time": 664.52001953125
+    "end_time": 664.52001953125,
+    "point_summary": "Scripture's divine origin is confirmed here: no prophecy arose from a prophet's private will, but holy men wrote as they were moved by the Holy Spirit, distinguishing biblical inspiration from mere human authorship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2560,7 +3024,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 600.0800170898438,
-    "end_time": 664.52001953125
+    "end_time": 664.52001953125,
+    "point_summary": "Scripture's divine origin is defended here by contrasting human will with Holy Spirit movement: the prophets did not write on their own initiative but were carried along by the Holy Ghost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2571,7 +3037,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 664.52001953125,
-    "end_time": 729.3600158691406
+    "end_time": 729.3600158691406,
+    "point_summary": "Scripture's divine origin is established by the fact that holy men wrote not by their own will but as they were moved by the Holy Spirit, demonstrating that the Bible is God's Word, not man's.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2582,7 +3050,9 @@
     "is_implicit": false,
     "video_id": "UpbuU9BS4yg",
     "start_time": 2364.6400146484375,
-    "end_time": 2437.759998321533
+    "end_time": 2437.759998321533,
+    "point_summary": "Scripture's authority rests on God's character as eternal, omnipotent Lord, making it in our best interest—as both Psalm 19 and 2 Peter 1 affirm—to take heed of its warnings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2593,7 +3063,9 @@
     "is_implicit": true,
     "video_id": "v93DvI0bY10",
     "start_time": 1712.2200012207031,
-    "end_time": 1777.3400268554688
+    "end_time": 1777.3400268554688,
+    "point_summary": "God's faithfulness to His promise of Christ's return is grounded in the certainty that He is not slack concerning His promise, making biblical hope a confident expectation rather than a mere wish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2604,7 +3076,9 @@
     "is_implicit": true,
     "video_id": "VAwhGyZS5VU",
     "start_time": 2077.4200134277344,
-    "end_time": 2146.1000366210938
+    "end_time": 2146.1000366210938,
+    "point_summary": "Despite Peter's firsthand witness of Christ's transfiguration glory, the sermon draws attention to what Peter says next—that Scripture holds an authority even that extraordinary experience cannot surpass.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2615,7 +3089,9 @@
     "is_implicit": false,
     "video_id": "VAwhGyZS5VU",
     "start_time": 2146.1000366210938,
-    "end_time": 2213.9800415039062
+    "end_time": 2213.9800415039062,
+    "point_summary": "Even after witnessing the Transfiguration firsthand, Peter declares Scripture a more sure word of prophecy—a light commanding attention in darkness—elevating the written Word above even direct eyewitness experience of Christ's glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2626,7 +3102,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 887.8200073242188,
-    "end_time": 952.1199951171875
+    "end_time": 952.1199951171875,
+    "point_summary": "God's counsel in Scripture is valuable and effective, but He does not compel obedience—He gives each person a free choice whether to heed it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2637,7 +3115,9 @@
     "is_implicit": false,
     "video_id": "We8921d40Z4",
     "start_time": 952.1199951171875,
-    "end_time": 1017.6400146484375
+    "end_time": 1017.6400146484375,
+    "point_summary": "Peter's eyewitness testimony of the Transfiguration is cited to establish the divine authority and reliability of Scripture as God's counsel to humanity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2648,7 +3128,9 @@
     "is_implicit": false,
     "video_id": "WhaPo-g3nqA",
     "start_time": 1700.1599731445312,
-    "end_time": 1770.0799560546875
+    "end_time": 1770.0799560546875,
+    "point_summary": "Regeneration imparts a share in the divine nature itself, so that the believer escapes worldly corruption—grounding the new birth in something far greater than moral reform.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2659,7 +3141,9 @@
     "is_implicit": false,
     "video_id": "WhaPo-g3nqA",
     "start_time": 1770.0799560546875,
-    "end_time": 1838.1799621582031
+    "end_time": 1838.1799621582031,
+    "point_summary": "Regeneration grants believers participation in the divine nature, connecting 2 Peter 1:4's \"partakers of the divine nature\" directly to the incorruptible seed and new birth described in 1 John 3:9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2670,7 +3154,9 @@
     "is_implicit": true,
     "video_id": "x6r4JdehzQM",
     "start_time": 117.0,
-    "end_time": 176.0
+    "end_time": 176.0,
+    "point_summary": "God's love is universal because He is not willing that any should perish but that all should come to repentance, meaning every person encountered daily is someone God loves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2681,7 +3167,9 @@
     "is_implicit": false,
     "video_id": "XA-BnGEgWUA",
     "start_time": 1906.2800750732422,
-    "end_time": 1986.8800659179688
+    "end_time": 1986.8800659179688,
+    "point_summary": "God's universal redemptive will — that none should perish but all come to repentance — grounds the sermon's claim that His plan of redemption reaches all people of all times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2692,7 +3180,9 @@
     "is_implicit": true,
     "video_id": "YfpmsbD24pg",
     "start_time": 58.02000045776367,
-    "end_time": 119.73999786376953
+    "end_time": 119.73999786376953,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2703,7 +3193,9 @@
     "is_implicit": false,
     "video_id": "yiyc0K-2BUA",
     "start_time": 956.47998046875,
-    "end_time": 1020.0399780273438
+    "end_time": 1020.0399780273438,
+    "point_summary": "Spiritual growth requires believers to develop a personal walk with God beyond pastoral feeding, as the command to \"grow in grace and knowledge\" cannot happen by accident or through others alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2714,7 +3206,9 @@
     "is_implicit": true,
     "video_id": "yTL0aNdEv6o",
     "start_time": 317.239990234375,
-    "end_time": 375.67999267578125
+    "end_time": 375.67999267578125,
+    "point_summary": "Peter's description of God's promises as \"exceeding great and precious\" is invoked to underscore that Christ's pledge \"I will come again\" belongs to that category of divine commitments God is always able and certain to fulfill.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2725,7 +3219,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1006.1000366210938,
-    "end_time": 1077.4600219726562
+    "end_time": 1077.4600219726562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2736,7 +3232,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1077.4600219726562,
-    "end_time": 1136.9800415039062
+    "end_time": 1136.9800415039062,
+    "point_summary": "Peter's reminder in 2 Peter 3:1 is framed as a call to remembrance—not new doctrine, but a stirring up of minds already acquainted with the promise of Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2747,7 +3245,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1077.4600219726562,
-    "end_time": 1136.9800415039062
+    "end_time": 1136.9800415039062,
+    "point_summary": "Peter's reminder to be mindful of prophetic and apostolic testimony sets the stage for confronting scoffers who acknowledge Christ's promised return yet mock it because of the delay.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2758,7 +3258,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1136.9800415039062,
-    "end_time": 1208.7800245285034
+    "end_time": 1208.7800245285034,
+    "point_summary": "Peter's warning that scoffers in the last days will mock the promise of Christ's return—not from ignorance of it, but from willful rejection of the truth—frames the reality of unbelief surrounding the Second Coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2769,7 +3271,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1136.9800415039062,
-    "end_time": 1208.7800245285034
+    "end_time": 1208.7800245285034,
+    "point_summary": "Scoffers in the last days, though aware of Christ's promised return, will mock it precisely because time has elapsed between the promise and its fulfillment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2780,7 +3284,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1136.9800415039062,
-    "end_time": 1208.7800245285034
+    "end_time": 1208.7800245285034,
+    "point_summary": "Scoffers who deny Christ's return are not uninformed but willfully ignorant—choosing to reject a truth that Scripture has plainly declared and that Peter frames as simple reminder, not new revelation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2791,7 +3297,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1352.9400177001953,
-    "end_time": 1416.8600311279297
+    "end_time": 1416.8600311279297,
+    "point_summary": "Just as Noah's flood brought certain judgment on the willfully ignorant, 2 Peter 3:7 declares that the present world is likewise reserved for a coming fire and judgment, confirming Christ's return is no less certain for its delay.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2802,7 +3310,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1352.9400177001953,
-    "end_time": 1416.8600311279297
+    "end_time": 1416.8600311279297,
+    "point_summary": "God's transcendence over time—one day as a thousand years—answers the scoffers' taunt \"where is the promise of his coming?\" by showing that divine delay carries no diminishment of the promise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2813,7 +3323,9 @@
     "is_implicit": true,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1416.8600311279297,
-    "end_time": 1480.6200256347656
+    "end_time": 1480.6200256347656,
+    "point_summary": "God's transcendence over time means that nearly 2,000 years since Christ's ascension amounts to only a couple of days on His timetable, so the promise of His return loses none of its certainty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2824,7 +3336,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1481.6600341796875,
-    "end_time": 1550.1400146484375
+    "end_time": 1550.1400146484375,
+    "point_summary": "God's apparent delay in fulfilling the promise of Christ's return reflects not slackness but longsuffering patience, as He remains outside time and desires that all come to repentance before that day arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2835,7 +3349,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1627.8200378417969,
-    "end_time": 1695.9000244140625
+    "end_time": 1695.9000244140625,
+    "point_summary": "God's patience in delaying Christ's return is framed as mercy toward the unsaved, illustrated by the reality that every believer can name a moment before which they would have been lost had He come.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2846,7 +3362,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1696.780029296875,
-    "end_time": 1757.6199951171875
+    "end_time": 1757.6199951171875,
+    "point_summary": "God's delay in Christ's return is not negligence but longsuffering patience, as He desires that none perish but that all come to repentance before that day arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2857,7 +3375,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1757.6199951171875,
-    "end_time": 1827.8200073242188
+    "end_time": 1827.8200073242188,
+    "point_summary": "God's patience in delaying Christ's return is grounded in His unwillingness that any should perish, motivating gospel proclamation to unreached peoples before the tribulation hour closes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2868,7 +3388,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 1827.8200073242188,
-    "end_time": 1889.5000076293945
+    "end_time": 1889.5000076293945,
+    "point_summary": "God's desire that His people not be ignorant—echoed in 2 Peter 3—grounds the confidence and expectation that come from trusting His promises about Christ's return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2879,7 +3401,9 @@
     "is_implicit": false,
     "video_id": "yTL0aNdEv6o",
     "start_time": 2340.0599975585938,
-    "end_time": 2399.8599853515625
+    "end_time": 2399.8599853515625,
+    "point_summary": "God's patience in delaying Christ's return reflects His unwillingness that any should perish, yet the sermon acknowledges that not all will repent and some will face tribulation having rejected the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2890,7 +3414,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 1628.9599914550781,
-    "end_time": 1700.1999816894531
+    "end_time": 1700.1999816894531,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2901,7 +3427,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 1765.1599731445312,
-    "end_time": 1847.2200088500977
+    "end_time": 1847.2200088500977,
+    "point_summary": "Knowing the truth in advance is the God-given safeguard against being led away by the error of the wicked, with growth in grace and knowledge as the prescribed remedy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2912,7 +3440,9 @@
     "is_implicit": false,
     "video_id": "_bNqgIZk0oA",
     "start_time": 1765.1599731445312,
-    "end_time": 1847.2200088500977
+    "end_time": 1847.2200088500977,
+    "point_summary": "Growing in grace and in the knowledge of Christ is the God-given answer to avoiding being led away by the error of the wicked, as 2 Peter closes with both a warning and a remedy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2923,7 +3453,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 248.27999877929688,
-    "end_time": 311.4800109863281
+    "end_time": 311.4800109863281,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2934,7 +3466,9 @@
     "is_implicit": true,
     "video_id": "_utmsqe125g",
     "start_time": 795.5,
-    "end_time": 851.2599945068359
+    "end_time": 851.2599945068359,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2945,7 +3479,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 1030.9199829101562,
-    "end_time": 1095.0799865722656
+    "end_time": 1095.0799865722656,
+    "point_summary": "Peter's use of \"tabernacle\" for the mortal body is cited to illuminate Paul's identical language in 2 Corinthians 5:1, confirming that \"earthly house of this tabernacle\" refers to physical death.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2956,7 +3492,9 @@
     "is_implicit": true,
     "video_id": "_utmsqe125g",
     "start_time": 1997.5800018310547,
-    "end_time": 2055.779998779297
+    "end_time": 2055.779998779297,
+    "point_summary": "God's continued patience with the unsaved is grounded in His unwillingness that any should perish, His will being that all come to repentance and salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2967,7 +3505,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2686.3999633789062,
-    "end_time": 2736.719970703125
+    "end_time": 2736.719970703125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2978,7 +3518,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2736.719970703125,
-    "end_time": 2784.5199584960938
+    "end_time": 2784.5199584960938,
+    "point_summary": "In the last days, scoffers will mock the promise of Christ's return, but their unbelief does not delay it — the Lord's timing reflects longsuffering, not slackness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -2989,7 +3531,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2736.719970703125,
-    "end_time": 2784.5199584960938
+    "end_time": 2784.5199584960938,
+    "point_summary": "Scoffers in the last days will mock the promise of Christ's return, but 2 Peter 3:4 frames their denial as the very sign that believers should live in light of eternity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3000,7 +3544,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2736.719970703125,
-    "end_time": 2784.5199584960938
+    "end_time": 2784.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3011,7 +3557,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2736.719970703125,
-    "end_time": 2784.5199584960938
+    "end_time": 2784.5199584960938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3022,7 +3570,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2736.719970703125,
-    "end_time": 2784.5199584960938
+    "end_time": 2784.5199584960938,
+    "point_summary": "God's patience in delaying Christ's return is not slackness but longsuffering, His desire being that none perish but all come to repentance—set against scoffers who deny the promise of His coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3033,7 +3583,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2784.5199584960938,
-    "end_time": 2848.9199829101562
+    "end_time": 2848.9199829101562,
+    "point_summary": "The certainty that the Day of the Lord will come—dissolving the heavens and burning up the earth—is presented as the doctrinal ground compelling believers toward holy living and godliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3044,7 +3596,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2784.5199584960938,
-    "end_time": 2848.9199829101562
+    "end_time": 2848.9199829101562,
+    "point_summary": "The certainty of cosmic dissolution—heaven and earth passing away—is presented as the motivating ground for holy living and godliness in the present life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3055,7 +3609,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2848.9199829101562,
-    "end_time": 2924.5199584960938
+    "end_time": 2924.5199584960938,
+    "point_summary": "The coming dissolution of all earthly things (2 Pet. 3:11) is presented as the motivating ground for holy living, pressing the question of what manner of persons believers ought to be.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3066,7 +3622,9 @@
     "is_implicit": false,
     "video_id": "_utmsqe125g",
     "start_time": 2848.9199829101562,
-    "end_time": 2924.5199584960938
+    "end_time": 2924.5199584960938,
+    "point_summary": "Eschatological anticipation of Christ's return is meant to produce diligent, holy, blameless living in the present, since looking for these things shapes how believers respond and conduct their daily lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3077,7 +3635,9 @@
     "is_implicit": true,
     "video_id": "_utmsqe125g",
     "start_time": 2924.5199584960938,
-    "end_time": 2993.199951171875
+    "end_time": 2993.199951171875,
+    "point_summary": "The anticipation of Christ's return is not merely doctrinal but practical, compelling believers to daily diligence so they may be found in peace, without spot and blameless before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3088,7 +3648,9 @@
     "is_implicit": true,
     "video_id": "14-YoafCO5U",
     "start_time": 1065.6199951171875,
-    "end_time": 1128.0999755859375
+    "end_time": 1128.0999755859375,
+    "point_summary": "God's transcendence over time—a day as a thousand years and a thousand years as a day—establishes that \"shortly\" in Revelation 1:1 speaks to the speed of fulfillment, not its imminence on a human timeline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3099,7 +3661,9 @@
     "is_implicit": true,
     "video_id": "_dFILA2HCeY",
     "start_time": 1994.4999694824219,
-    "end_time": 2068.719970703125
+    "end_time": 2068.719970703125,
+    "point_summary": "God's universal saving will — that none should perish but all come to repentance — is cited to underscore that eternal condemnation for rejecting Christ is the sinner's own responsibility, not God's.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3110,7 +3674,9 @@
     "is_implicit": true,
     "video_id": "6dYI_cEbDbI",
     "start_time": 271.67999267578125,
-    "end_time": 337.5199890136719
+    "end_time": 337.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3121,7 +3687,9 @@
     "is_implicit": true,
     "video_id": "6dYI_cEbDbI",
     "start_time": 479.5199890136719,
-    "end_time": 544.4000244140625
+    "end_time": 544.4000244140625,
+    "point_summary": "2 Peter 3:9's declaration that God is \"not willing that any should perish\" is cited as a belief whose genuineness is tested by whether believers actually share the gospel with lost people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3132,7 +3700,9 @@
     "is_implicit": false,
     "video_id": "BkxDIqE9JxI",
     "start_time": 856.260009765625,
-    "end_time": 910.3000183105469
+    "end_time": 910.3000183105469,
+    "point_summary": "Humanity's bondage to sin is compounded by false prophets and teachers who perpetuate the lie that keeps people from recognizing their need to be set free.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3143,7 +3713,9 @@
     "is_implicit": false,
     "video_id": "BkxDIqE9JxI",
     "start_time": 910.3000183105469,
-    "end_time": 970.2799987792969
+    "end_time": 970.2799987792969,
+    "point_summary": "False teachers are themselves enslaved to corruption even as they promise liberty, making their teaching a counterfeit freedom that deepens bondage rather than breaking it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3154,7 +3726,9 @@
     "is_implicit": false,
     "video_id": "BkxDIqE9JxI",
     "start_time": 970.2799987792969,
-    "end_time": 1030.3399963378906
+    "end_time": 1030.3399963378906,
+    "point_summary": "False teachers who promise liberty are themselves enslaved to corruption, exposing the cruel irony that those deceiving others into bondage cannot themselves offer the freedom they advertise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3165,7 +3739,9 @@
     "is_implicit": true,
     "video_id": "BkxDIqE9JxI",
     "start_time": 1646.9599914550781,
-    "end_time": 1703.8399963378906
+    "end_time": 1703.8399963378906,
+    "point_summary": "God's unwillingness that any should perish grounds the call to keep sowing the gospel even when responses are mixed or discouraging.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3176,7 +3752,9 @@
     "is_implicit": false,
     "video_id": "BkxDIqE9JxI",
     "start_time": 2281.019989013672,
-    "end_time": 2347.8599853515625
+    "end_time": 2347.8599853515625,
+    "point_summary": "Those who think they are living freely in sin are, as 2 Peter 2 shows, actually in bondage—their perceived liberty is a deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3187,7 +3765,9 @@
     "is_implicit": true,
     "video_id": "BkxDIqE9JxI",
     "start_time": 2349.3200073242188,
-    "end_time": 2403.420000076294
+    "end_time": 2403.420000076294,
+    "point_summary": "God's patience in withholding judgment is not indifference but mercy, since 2 Peter 3 is cited to affirm He is not willing that any should perish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3198,7 +3778,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 513.5399780273438,
-    "end_time": 579.7999877929688
+    "end_time": 579.7999877929688,
+    "point_summary": "Scripture interprets scripture, and the principle that no prophecy is of private interpretation grounds the sermon's method of reading Daniel 9's 490 years through the lens of the broader biblical canon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3209,7 +3791,9 @@
     "is_implicit": true,
     "video_id": "MjhT7n4WF6Y",
     "start_time": 1550.8000183105469,
-    "end_time": 1616.1600036621094
+    "end_time": 1616.1600036621094,
+    "point_summary": "False teachers and scoffers, as warned of in 2 Peter 2:1, are those who attempt to explain away the miracles of God—such as the parting of the Jordan—through naturalistic reasoning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3220,7 +3804,9 @@
     "is_implicit": true,
     "video_id": "j_nhiIFLglw",
     "start_time": 560.0,
-    "end_time": 629.5
+    "end_time": 629.5,
+    "point_summary": "God's preserved Word functions as specific, sufficient instruction—like the detailed commands given to Moses—so that believers are without excuse and accountable for how they heed it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3231,7 +3817,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 1554.52001953125,
-    "end_time": 1627.9200134277344
+    "end_time": 1627.9200134277344,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3242,7 +3830,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 1627.9200134277344,
-    "end_time": 1698.8200073242188
+    "end_time": 1698.8200073242188,
+    "point_summary": "Scripture's warning to \"beware\" of being led away by wicked error underscores the need to read and obey God's Word continually, lest one fall from steadfastness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3253,7 +3843,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 1758.7200317382812,
-    "end_time": 1825.9400463104248
+    "end_time": 1825.9400463104248,
+    "point_summary": "Growing in grace and in the knowledge of Christ is presented as the direct antidote to being led astray by error, with consistent Scripture reading identified as the means of that growth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3264,7 +3856,9 @@
     "is_implicit": true,
     "video_id": "_LYcdJO7GfA",
     "start_time": 863.4200134277344,
-    "end_time": 926.9800109863281
+    "end_time": 926.9800109863281,
+    "point_summary": "The Old Testament's fulfillment in the New Testament demonstrates Scripture's supernatural unity, since no prophecy is of private interpretation but points coherently to Christ's coming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3275,7 +3869,9 @@
     "is_implicit": true,
     "video_id": "Itg0q1dr6jY",
     "start_time": 265.3599853515625,
-    "end_time": 332.239990234375
+    "end_time": 332.239990234375,
+    "point_summary": "God's longsuffering patience—not willing that any should perish—is presented as the divine motivation behind the church's responsibility to preach the gospel so that all may come to repentance and peace with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3286,7 +3882,9 @@
     "is_implicit": true,
     "video_id": "FB5EieJXeVQ",
     "start_time": 906.9599914550781,
-    "end_time": 976.6799926757812
+    "end_time": 976.6799926757812,
+    "point_summary": "Scripture interprets scripture: by comparing Revelation 6:1–2 with Revelation 19:11, the rider of the first seal is distinguished from Christ, who alone is named \"Faithful and True.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3297,7 +3895,9 @@
     "is_implicit": true,
     "video_id": "1PzvpRN8FKE",
     "start_time": 383.3599853515625,
-    "end_time": 449.3999938964844
+    "end_time": 449.3999938964844,
+    "point_summary": "No prophecy of Scripture is of private interpretation, meaning Scripture must be used to interpret Scripture — a hermeneutical principle invoked to connect the sealed scroll of Revelation 5 with Daniel 12.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3308,7 +3908,9 @@
     "is_implicit": true,
     "video_id": "TCdwEmJOQ3c",
     "start_time": 2444.10001373291,
-    "end_time": 2511.060012817383
+    "end_time": 2511.060012817383,
+    "point_summary": "God's faithfulness to every resurrection promise is grounded in 2 Peter 3:9's assurance that the Lord is not slack concerning His promises, as Christ fulfilled each predicted step—death, burial, and resurrection—completely.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3319,7 +3921,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 0.0,
-    "end_time": 62.36000061035156
+    "end_time": 62.36000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3330,7 +3934,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2245.679962158203,
-    "end_time": 2311.8399658203125
+    "end_time": 2311.8399658203125,
+    "point_summary": "God's patience in delaying judgment is the mechanism by which the full number of Gentiles will be saved, marking the close of the church age before the Tribulation's focus shifts to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3341,7 +3947,9 @@
     "is_implicit": true,
     "video_id": "uq6UyPuw5oc",
     "start_time": 2808.980010986328,
-    "end_time": 2843.0599975585938
+    "end_time": 2843.0599975585938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3352,7 +3960,9 @@
     "is_implicit": true,
     "video_id": "B7qA98qbh00",
     "start_time": 0.0,
-    "end_time": 55.2599983215332
+    "end_time": 55.2599983215332,
+    "point_summary": "Scripture's divine authorship is affirmed by pairing 2 Peter 1:21's \"holy men of God spake as they were moved by the Holy Ghost\" with the inspiration of all Scripture, crediting God as the ultimate author regardless of the human penman.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3363,7 +3973,9 @@
     "is_implicit": false,
     "video_id": "lReYV18RAeg",
     "start_time": 2716.5999755859375,
-    "end_time": 2780.519989013672
+    "end_time": 2780.519989013672,
+    "point_summary": "The temporal impermanence of earthly wealth and property — even a $62 million estate — is grounded in 2 Peter 3's declaration that the material world will one day burn.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3374,7 +3986,9 @@
     "is_implicit": true,
     "video_id": "4drpBDG7hOw",
     "start_time": 768.9400024414062,
-    "end_time": 830.3800048828125
+    "end_time": 830.3800048828125,
+    "point_summary": "Scripture's own testimony that holy men spoke as they were moved by the Holy Ghost grounds the contrast between Paul's God-given written revelation and the unlawful, unutterable things he could not share.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3385,7 +3999,9 @@
     "is_implicit": true,
     "video_id": "Ae5Ae4szuGI",
     "start_time": 2907.0199584960938,
-    "end_time": 2968.219970703125
+    "end_time": 2968.219970703125,
+    "point_summary": "God's ongoing willingness to save—\"not willing that any should perish, but that all should come to repentance\"—grounds the church's expectation that the gospel is still working and souls are still being saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3396,7 +4012,9 @@
     "is_implicit": true,
     "video_id": "zB-5t48RhWY",
     "start_time": 295.4800109863281,
-    "end_time": 359.5199890136719
+    "end_time": 359.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3407,7 +4025,9 @@
     "is_implicit": true,
     "video_id": "zB-5t48RhWY",
     "start_time": 2947.9199829101562,
-    "end_time": 3031.159999847412
+    "end_time": 3031.159999847412,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3418,7 +4038,9 @@
     "is_implicit": false,
     "video_id": "aMhTQy-Fsac",
     "start_time": 946.6000366210938,
-    "end_time": 1004.6800231933594
+    "end_time": 1004.6800231933594,
+    "point_summary": "Scripture interprets scripture—2 Peter 1:20–21 grounds the hermeneutical principle that no passage stands alone, requiring obscure texts to be read in light of clearer ones.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "2 Peter",
@@ -3429,6 +4051,8 @@
     "is_implicit": true,
     "video_id": "KkcM-CWB5g0",
     "start_time": 2425.9599895477295,
-    "end_time": 2530.1399841308594
+    "end_time": 2530.1399841308594,
+    "point_summary": "Growth in grace is presented as the measurable evidence of spiritual maturity that believers are called to pursue and have visible in their lives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

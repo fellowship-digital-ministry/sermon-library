@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 1694.2000122070312,
-    "end_time": 1768.1199951171875
+    "end_time": 1768.1199951171875,
+    "point_summary": "Despite relentless opposition requiring workers to build with a tool in one hand and a weapon in the other, the wall was finished in fifty-two days—proof, even enemies conceded, that the work was God's doing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "0lpK3XY3NtI",
     "start_time": 1694.2000122070312,
-    "end_time": 1768.1199951171875
+    "end_time": 1768.1199951171875,
+    "point_summary": "Even Israel's enemies were forced to acknowledge that the completion of Jerusalem's wall in fifty-two days, despite relentless opposition, was the work of God rather than human power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "4j6miDNAqs4",
     "start_time": 1459.1399841308594,
-    "end_time": 1517.9599914550781
+    "end_time": 1517.9599914550781,
+    "point_summary": "Nehemiah 9 is referenced as the backdrop establishing Israel's pattern of failure and God's mercy before the covenant renewal of chapter 10, contextualizing the congregation's call not to forsake corporate worship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "4j6miDNAqs4",
     "start_time": 1459.1399841308594,
-    "end_time": 1517.9599914550781
+    "end_time": 1517.9599914550781,
+    "point_summary": "A post-exilic people who had lost the privilege of corporate worship declared in covenant, \"We will not forsake the house of our God\" (Neh. 10:39), paralleling the Hebrews 10:25 call not to forsake assembling together.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "4j6miDNAqs4",
     "start_time": 1459.1399841308594,
-    "end_time": 1517.9599914550781
+    "end_time": 1517.9599914550781,
+    "point_summary": "The post-exilic community's covenant declaration — \"we will not forsake the house of our God\" — is drawn as a parallel to Hebrews 10:25, underscoring that corporate worship is a hard-won privilege not to be abandoned.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -63,7 +73,9 @@
     "is_implicit": true,
     "video_id": "4ytTjjDvj2k",
     "start_time": 785.02001953125,
-    "end_time": 854.5400238037109
+    "end_time": 854.5400238037109,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 1243.9599914550781,
-    "end_time": 1319.239990234375
+    "end_time": 1319.239990234375,
+    "point_summary": "Israel's persistent rebellion was not a failure of knowledge or divine instruction, but a willful refusal to obey—a hardened-neck pride that rejected God's word despite repeated prophetic witness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 364.5400085449219,
-    "end_time": 431.9800109863281
+    "end_time": 431.9800109863281,
+    "point_summary": "Nehemiah 1:1 establishes the historical setting—timing and place—that frames Nehemiah's coming report about the condition of God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 489.17999267578125,
-    "end_time": 551.780029296875
+    "end_time": 551.780029296875,
+    "point_summary": "Nehemiah 1:1 establishes the historical setting—timing and place—from which Nehemiah, though residing in Shushan, demonstrates active concern for Jerusalem's condition by seeking a report.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 489.17999267578125,
-    "end_time": 551.780029296875
+    "end_time": 551.780029296875,
+    "point_summary": "Nehemiah 1:3 delivers a threefold report of ruin — the remnant in great affliction and reproach, the wall broken down, and the gates burned — constituting the honest evaluation that awakens Nehemiah's burden for revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 703.4200286865234,
-    "end_time": 774.5400238037109
+    "end_time": 774.5400238037109,
+    "point_summary": "Nehemiah's prayer opening with adoration—acknowledging God as great, covenant-keeping, and merciful—establishes that revival-seeking prayer must begin with recognizing who God is before presenting any petition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "aqe1f-L2aGE",
     "start_time": 980.9000244140625,
-    "end_time": 1045.7600402832031
+    "end_time": 1045.7600402832031,
+    "point_summary": "Nehemiah 1:9's \"but\" signals that God's conditional promise of restoration—turning, keeping His commandments—is the theological hinge on which revival and the gathering of scattered people depends.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "BTZuWhSRWbY",
     "start_time": 1852.659954071045,
-    "end_time": 1918.1799545288086
+    "end_time": 1918.1799545288086,
+    "point_summary": "Nehemiah 8:8 is cited as a model for biblical ministry: reading Scripture distinctly, giving its sense, and causing listeners to understand it—the pattern Paul follows in teaching every man.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "BTZuWhSRWbY",
     "start_time": 1918.1799545288086,
-    "end_time": 2000.4199523925781
+    "end_time": 2000.4199523925781,
+    "point_summary": "Nehemiah 8:8 is cited as a three-part model for biblical preaching—reading distinctly, giving the sense, and causing listeners to understand—that Paul's own ministry of warning and teaching reflects.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1312.579978942871,
-    "end_time": 1375.739974975586
+    "end_time": 1375.739974975586,
+    "point_summary": "Nehemiah's immediate response of weeping, fasting, and prayer upon hearing Jerusalem's devastation illustrates the \"pray without ceasing\" posture—turning instinctively to God the moment a burden arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1312.579978942871,
-    "end_time": 1375.739974975586
+    "end_time": 1375.739974975586,
+    "point_summary": "Nehemiah 1:2 is cited as the setup for Nehemiah's extended prayer in chapter 1, illustrating that distressing news drove him immediately to God—a biblical model of praying without ceasing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1312.579978942871,
-    "end_time": 1375.739974975586
+    "end_time": 1375.739974975586,
+    "point_summary": "Nehemiah 1:3 is cited as contextual backdrop—the report of Jerusalem's broken walls and burned gates—that drives Nehemiah immediately to sustained, broken-hearted prayer, illustrating what praying without ceasing looks like in practice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "Gtm8IYhepio",
     "start_time": 1942.1000213623047,
-    "end_time": 2015.260009765625
+    "end_time": 2015.260009765625,
+    "point_summary": "Nehemiah 1 is cited alongside Daniel 9 as a biblical pattern of corporate confession—acknowledging sin and forsaking God—as the prescribed solution to national judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 616.3200168609619,
-    "end_time": 687.5800170898438
+    "end_time": 687.5800170898438,
+    "point_summary": "Priestly lineage was legally mandatory in Israel — those who could not document their genealogy were barred from serving — making Melchizedek's undocumented ancestry in Genesis a deliberate typological pointer to Christ's eternal, untraceable priesthood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 616.3200168609619,
-    "end_time": 687.5800170898438
+    "end_time": 687.5800170898438,
+    "point_summary": "Priests in Israel who could not document their genealogy were barred from serving, illustrating why Melchizedek's unrecorded lineage makes him a fitting type of Christ's eternal, untraceable priesthood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 0.0,
-    "end_time": 55.720001220703125
+    "end_time": 55.720001220703125,
+    "point_summary": "Nehemiah 6 is introduced within the historical arc of Judah's Babylonian captivity, Cyrus's decree of return, and the subsequent rebuilding efforts under Ezra and Nehemiah, establishing the chapter's conflict as the climax of that restoration story.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 185.74000549316406,
-    "end_time": 257.0199890136719
+    "end_time": 257.0199890136719,
+    "point_summary": "Nehemiah's grief before Artaxerxes, his night survey of Jerusalem's ruins, and his call to \"rise up and build\" set the stage for the immediate and escalating opposition that dominates chapter six.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 185.74000549316406,
-    "end_time": 257.0199890136719
+    "end_time": 257.0199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 185.74000549316406,
-    "end_time": 257.0199890136719
+    "end_time": 257.0199890136719,
+    "point_summary": "Chapters four and five are identified as the record of the ongoing building work and the opposition it faced, setting the stage for the intensified enemy tactics of chapter six.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 185.74000549316406,
-    "end_time": 257.0199890136719
+    "end_time": 257.0199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 185.74000549316406,
-    "end_time": 257.0199890136719
+    "end_time": 257.0199890136719,
+    "point_summary": "As Nehemiah's wall nears completion in chapter six, the enemy intensifies opposition precisely when God's work is closest to finished.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 575.4000244140625,
-    "end_time": 637.5599937438965
+    "end_time": 637.5599937438965,
+    "point_summary": "When the wall nears completion and direct opposition has failed, the enemy shifts to deceptive invitation—a seemingly innocent request for a meeting designed to intimidate and distract Nehemiah from the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1096.7799987792969,
-    "end_time": 1170.5399780273438
+    "end_time": 1170.5399780273438,
+    "point_summary": "Infiltration through family alliances enabled Tobiah, an enemy of God's work, to maintain secret correspondence with Judah's nobles, compromising insiders during the wall's construction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1096.7799987792969,
-    "end_time": 1170.5399780273438
+    "end_time": 1170.5399780273438,
+    "point_summary": "Marriage alliances gave Tobiah family ties within Judah itself, enabling him to infiltrate the community and gain the ear of its nobles through sworn loyalties.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1096.7799987792969,
-    "end_time": 1170.5399780273438
+    "end_time": 1170.5399780273438,
+    "point_summary": "Tobiah's infiltration through family alliances gave him informants among Judah's nobles who reported Nehemiah's private words back to the enemy, weaponizing insider access to instill fear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1315.7200241088867,
-    "end_time": 1375.3200225830078
+    "end_time": 1375.3200225830078,
+    "point_summary": "Nehemiah 6 reveals a recurring satanic tactic—fear deployed three explicit times against Nehemiah—designed to paralyze God's people and halt the work of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1375.3200225830078,
-    "end_time": 1428.9600219726562
+    "end_time": 1428.9600219726562,
+    "point_summary": "Fear is identified as the enemy's primary weapon in Nehemiah 6:1, with the invitation to meet Nehemiah read as a scheme designed to intimidate him and halt the work of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1493.2000122070312,
-    "end_time": 1548.7000122070312
+    "end_time": 1548.7000122070312,
+    "point_summary": "Nehemiah's ability to recognize and resist the enemy's schemes in chapter 6 is traced directly to his established pattern of prayer and submission to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1493.2000122070312,
-    "end_time": 1548.7000122070312
+    "end_time": 1548.7000122070312,
+    "point_summary": "Nehemiah's habit of fasting and prayer in 1:4 is presented as the foundation of the discernment and perception that later enabled him to recognize the enemy's schemes in chapter 6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1493.2000122070312,
-    "end_time": 1548.7000122070312
+    "end_time": 1548.7000122070312,
+    "point_summary": "Nehemiah's sustained prayer through chapter 1 (vv. 4–11) is presented as the foundation of the discernment and perception he later exercises in recognizing the enemy's schemes in chapter 6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1548.7000122070312,
-    "end_time": 1610.9400329589844
+    "end_time": 1610.9400329589844,
+    "point_summary": "Nehemiah's weeping and mourning in 1:4 are affirmed, but his fasting and prayer are identified as the decisive spiritual disciplines that produced the discernment and results seen throughout the book.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -404,7 +476,9 @@
     "is_implicit": true,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1548.7000122070312,
-    "end_time": 1610.9400329589844
+    "end_time": 1610.9400329589844,
+    "point_summary": "Nehemiah 1:11 marks the close of an extended prayer of intercession and confession, cited here as evidence that Nehemiah's spiritual discernment in chapter 6 was rooted in a sustained, serious prayer life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1548.7000122070312,
-    "end_time": 1610.9400329589844
+    "end_time": 1610.9400329589844,
+    "point_summary": "Nehemiah's habit of prayer is shown in his silent, instantaneous petition to God before answering Artaxerxes, demonstrating that effective prayer is not always lengthy but always present.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1610.9400329589844,
-    "end_time": 1672.2200317382812
+    "end_time": 1672.2200317382812,
+    "point_summary": "Before answering the king's request, Nehemiah paused to pray, illustrating that prayer need not be lengthy to be genuine — what matters is the habit of turning to God first.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1610.9400329589844,
-    "end_time": 1672.2200317382812
+    "end_time": 1672.2200317382812,
+    "point_summary": "Nehemiah's whispered prayer before answering Artaxerxes illustrates that effective prayer is measured not by length but by the constancy of a life lived in communion with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1610.9400329589844,
-    "end_time": 1672.2200317382812
+    "end_time": 1672.2200317382812,
+    "point_summary": "When enemies conspired to halt the work, Nehemiah's immediate response was prayer, illustrating that opposition is met first by seeking God before any other defensive measure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1610.9400329589844,
-    "end_time": 1672.2200317382812
+    "end_time": 1672.2200317382812,
+    "point_summary": "Prayer and watchfulness together constitute Nehemiah's response to conspiracy, establishing that his instinct under threat was to pray first and then set a practical watch.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1672.2200317382812,
-    "end_time": 1736.6199951171875
+    "end_time": 1736.6199951171875,
+    "point_summary": "Against enemies trying to weaken his hands and instill fear, Nehemiah's response was a brief but earnest prayer—\"O God, strengthen my hands\"—demonstrating that prayer need not be lengthy to be genuine communion with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 1672.2200317382812,
-    "end_time": 1736.6199951171875
+    "end_time": 1736.6199951171875,
+    "point_summary": "Nehemiah's brief prayer in verse 14—committing his enemies to God's judgment—illustrates his consistent pattern of responding to opposition through prayer rather than retaliation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 2166.2999877929688,
-    "end_time": 2242.2999877929688
+    "end_time": 2242.2999877929688,
+    "point_summary": "When even Israel's enemies were compelled to acknowledge that the completed wall was the work of God, it confirmed that the victory belonged entirely to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "jNCO80tyoMQ",
     "start_time": 3077.1000213623047,
-    "end_time": 3149.000015258789
+    "end_time": 3149.000015258789,
+    "point_summary": "Nehemiah's persistent refusal to abandon the work despite opposition models the discernment and resolve God's people need to recognize and resist the enemy in every generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1312.579978942871,
-    "end_time": 1375.739974975586
+    "end_time": 1375.739974975586,
+    "point_summary": "Nehemiah's immediate response of weeping, fasting, and prayer upon hearing Jerusalem's devastation illustrates the \"pray without ceasing\" posture—turning instinctively to God the moment a burden arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1056.1200256347656,
-    "end_time": 1112.4000244140625
+    "end_time": 1112.4000244140625,
+    "point_summary": "Nehemiah's extended prayer in chapter one prepared him to offer an immediate, spontaneous prayer before the king in chapter two, illustrating what it means to pray without ceasing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1056.1200256347656,
-    "end_time": 1112.4000244140625
+    "end_time": 1112.4000244140625,
+    "point_summary": "Nehemiah's extended prayer in chapter one prepared him to pray instantly before the king in chapter two, illustrating what it means to pray without ceasing—being ready to commune with God at any moment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1056.1200256347656,
-    "end_time": 1112.4000244140625
+    "end_time": 1112.4000244140625,
+    "point_summary": "Nehemiah 2:4 illustrates \"pray without ceasing\" in practice: caught off-guard before the king, Nehemiah offered an immediate, spontaneous prayer—demonstrating the readiness to pray at any moment that Paul commands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1112.4000244140625,
-    "end_time": 1176.0400390625
+    "end_time": 1176.0400390625,
+    "point_summary": "Nehemiah's split-second \"so I prayed\" before answering the king illustrates that a sustained prayer life in chapter one prepares a believer for spontaneous, momentary prayer when there is no time to seek God at length.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1112.4000244140625,
-    "end_time": 1176.0400390625
+    "end_time": 1176.0400390625,
+    "point_summary": "Nehemiah's split-second \"so I prayed\" before answering the king illustrates that a disciplined prayer life cultivates the readiness to pray spontaneously in any urgent moment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1112.4000244140625,
-    "end_time": 1176.0400390625
+    "end_time": 1176.0400390625,
+    "point_summary": "Nehemiah's brief, unrecorded prayer in 2:5 illustrates that a life saturated in sustained prayer (ch. 1) produces the instinct for immediate, spontaneous prayer when sudden need arises.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -591,7 +697,9 @@
     "is_implicit": true,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1112.4000244140625,
-    "end_time": 1176.0400390625
+    "end_time": 1176.0400390625,
+    "point_summary": "Nehemiah's extended prayer in chapter one prepared him for the spontaneous, urgent prayer of chapter two, illustrating that a sustained prayer life enables instinctive communion with God in sudden moments of need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -602,7 +710,9 @@
     "is_implicit": true,
     "video_id": "m0i_-MjkrIo",
     "start_time": 1112.4000244140625,
-    "end_time": 1176.0400390625
+    "end_time": 1176.0400390625,
+    "point_summary": "Nehemiah's brief \"so I prayed\" in chapter 2 illustrates spontaneous, moment-by-moment prayer that flows naturally from a life already disciplined in sustained prayer, as seen in chapter 1.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 0.0,
-    "end_time": 56.400001525878906
+    "end_time": 56.400001525878906,
+    "point_summary": "Nehemiah 4 is read through the lens of 1 Corinthians 16:9 to illustrate that open doors of opportunity are consistently accompanied by many adversaries in spiritual conflict.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 56.400001525878906,
-    "end_time": 116.0199966430664
+    "end_time": 116.0199966430664,
+    "point_summary": "Nehemiah 4 is read as a Spirit-inspired historical account that reveals how the enemy operates, equipping believers to understand and engage in spiritual battle.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -635,7 +749,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 176.5399932861328,
-    "end_time": 236.66000366210938
+    "end_time": 236.66000366210938,
+    "point_summary": "Nehemiah's receipt of the report that Jerusalem's wall was broken down and its gates burned establishes the crisis that sets the entire rebuilding narrative—and its lessons about opposition—in motion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -646,7 +762,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 236.66000366210938,
-    "end_time": 299.4200134277344
+    "end_time": 299.4200134277344,
+    "point_summary": "Opposition to God's work—named here as Sanballat, Tobiah, and Geshem—met Nehemiah's rebuilding effort with scorn and accusations of rebellion, setting the stage for the conflict developed in chapter four.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -657,7 +775,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 236.66000366210938,
-    "end_time": 299.4200134277344
+    "end_time": 299.4200134277344,
+    "point_summary": "When enemies mock and question the legitimacy of the work, Nehemiah's confident reply grounds the entire rebuilding effort in divine sponsorship: God of heaven will prosper us.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -668,7 +788,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 832.5599822998047,
-    "end_time": 906.1599731445312
+    "end_time": 906.1599731445312,
+    "point_summary": "Nehemiah's people modeled the proper response to enemy mockery and opposition by turning immediately to God in prayer, asking Him to redirect reproach back upon their adversaries.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -679,7 +801,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 832.5599822998047,
-    "end_time": 906.1599731445312
+    "end_time": 906.1599731445312,
+    "point_summary": "Nehemiah's people modeled the proper response to enemy opposition by combining persistent prayer to God with practical watchfulness, refusing to rely on either alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 970.5199890136719,
-    "end_time": 1034.6799926757812
+    "end_time": 1034.6799926757812,
+    "point_summary": "Facing enemy opposition, Nehemiah called the people to remember the Lord—great and terrible—and fight, grounding courage not in their own strength but in who God is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -701,7 +827,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 970.5199890136719,
-    "end_time": 1034.6799926757812
+    "end_time": 1034.6799926757812,
+    "point_summary": "When the enemy's plot became known, God nullified their counsel entirely — demonstrating His power to frustrate opposition and return His people to their work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 1034.6799926757812,
-    "end_time": 1099.3999633789062
+    "end_time": 1099.3999633789062,
+    "point_summary": "Nehemiah's three-day period of quiet observation upon arriving in Jerusalem precedes his public disclosure of God's burden and his call to rebuild, grounding courageous action in prior, prayerful assessment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 1034.6799926757812,
-    "end_time": 1099.3999633789062
+    "end_time": 1099.3999633789062,
+    "point_summary": "When enemies and ruin are acknowledged in Nehemiah 2:17, the response is not despair but a call to remember God's power and trust that He will fight for His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 1034.6799926757812,
-    "end_time": 1099.3999633789062
+    "end_time": 1099.3999633789062,
+    "point_summary": "When enemies threaten, Nehemiah's response in chapter two grounds the people's courage not in their own strength but in the declared power of God who prospers His work and brings enemy counsel to nothing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "nexqP9hAOHU",
     "start_time": 1165.0799560546875,
-    "end_time": 1228.7799606323242
+    "end_time": 1228.7799606323242,
+    "point_summary": "When God frustrated the enemy's counsel through prayer, the people's response was immediate return to their assigned work — demonstrating that divine intervention fuels persistent obedience rather than passive relief.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -756,7 +892,9 @@
     "is_implicit": true,
     "video_id": "nexqP9hAOHU",
     "start_time": 1290.9999618530273,
-    "end_time": 1346.4599609375
+    "end_time": 1346.4599609375,
+    "point_summary": "Faithful workers in Nehemiah's day held a tool in one hand and a weapon in the other, modeling the dual call to labor and vigilance against an enemy determined to stop the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -767,7 +905,9 @@
     "is_implicit": true,
     "video_id": "nexqP9hAOHU",
     "start_time": 1290.9999618530273,
-    "end_time": 1346.4599609375
+    "end_time": 1346.4599609375,
+    "point_summary": "Facing an enemy determined to stop the work, Nehemiah's people prayed, persevered, and rallied together under the assurance that God himself would fight for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -778,7 +918,9 @@
     "is_implicit": true,
     "video_id": "nexqP9hAOHU",
     "start_time": 1290.9999618530273,
-    "end_time": 1346.4599609375
+    "end_time": 1346.4599609375,
+    "point_summary": "Faithful gospel work demands the same unrelenting, around-the-clock commitment Nehemiah's builders showed — laboring from sunrise to starlight without laying down their readiness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -789,7 +931,9 @@
     "is_implicit": true,
     "video_id": "nexqP9hAOHU",
     "start_time": 1710.5799560546875,
-    "end_time": 1778.6599731445312
+    "end_time": 1778.6599731445312,
+    "point_summary": "Nehemiah 4's picture of workers staying engaged until the trumpet sounds serves as an encouragement that believers must remain faithfully at work until Christ's return interrupts it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "NQwl69OFN-Y",
     "start_time": 1177.5999755859375,
-    "end_time": 1236.579978942871
+    "end_time": 1236.579978942871,
+    "point_summary": "Before acting on the God-given burden in his heart, Nehemiah spent three days in Jerusalem in silence, illustrating that divine compulsion to serve precedes and shapes the work itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "NQwl69OFN-Y",
     "start_time": 1177.5999755859375,
-    "end_time": 1236.579978942871
+    "end_time": 1236.579978942871,
+    "point_summary": "God's call to service often begins as a private burden placed in the heart before it becomes a public work, as Nehemiah kept silent about what God had put in him to do at Jerusalem.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "NQwl69OFN-Y",
     "start_time": 1236.579978942871,
-    "end_time": 1293.879981994629
+    "end_time": 1293.879981994629,
+    "point_summary": "Nehemiah's call to rebuild Jerusalem's broken walls illustrates that God-given burdens lead to difficult, tangible labor requiring the enlistment of others to accomplish the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "NQwl69OFN-Y",
     "start_time": 1236.579978942871,
-    "end_time": 1293.879981994629
+    "end_time": 1293.879981994629,
+    "point_summary": "When Nehemiah shared how God's hand had been upon him, the people responded with immediate commitment — \"let us rise up and build\" — illustrating that God-given vision, communicated faithfully, stirs others to join hard work for God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "NQwl69OFN-Y",
     "start_time": 1473.5799865722656,
-    "end_time": 1531.2999877929688
+    "end_time": 1531.2999877929688,
+    "point_summary": "Nehemiah's wall-builders, who worked with a tool in one hand and a weapon in the other, illustrate the kind of hard, persevering labor that refuses to let enemy opposition cause God's work to cease.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 0.0,
-    "end_time": 61.20000076293945
+    "end_time": 61.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 0.0,
-    "end_time": 61.20000076293945
+    "end_time": 61.20000076293945,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 61.20000076293945,
-    "end_time": 123.76000213623047
+    "end_time": 123.76000213623047,
+    "point_summary": "Nehemiah's deliberate inquiry about Jerusalem's people and city reveals that burden follows intentional concern—he asked, and the troubling report he received moved him deeply.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 61.20000076293945,
-    "end_time": 123.76000213623047
+    "end_time": 123.76000213623047,
+    "point_summary": "Nehemiah's receipt of the devastating report—Jerusalem's walls broken, gates burned, people in affliction—is the burden-producing moment that sets the entire narrative of God-given vision in motion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 256.6400146484375,
-    "end_time": 319.760009765625
+    "end_time": 319.760009765625,
+    "point_summary": "The king's observation that Nehemiah's visible sadness was \"sorrow of heart\" shows how the burden God had placed on Nehemiah was outwardly evident before his request was ever spoken.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 256.6400146484375,
-    "end_time": 319.760009765625
+    "end_time": 319.760009765625,
+    "point_summary": "Before making his request to the king, Nehemiah prayed to God first, modeling the pattern of seeking divine guidance before acting on what God had placed in his heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -921,7 +1087,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 256.6400146484375,
-    "end_time": 319.760009765625
+    "end_time": 319.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 256.6400146484375,
-    "end_time": 319.760009765625
+    "end_time": 319.760009765625,
+    "point_summary": "Nehemiah's three-day arrival in Jerusalem before any action models the principle that God-given burdens require a season of quiet, undisclosed preparation before public movement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 319.760009765625,
-    "end_time": 378.67999267578125
+    "end_time": 378.67999267578125,
+    "point_summary": "Before acting publicly on his God-given burden, Nehemiah spent three days in Jerusalem in quiet, undisclosed assessment, keeping his mission private until the right moment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 319.760009765625,
-    "end_time": 378.67999267578125
+    "end_time": 378.67999267578125,
+    "point_summary": "Before sharing his mission publicly, Nehemiah kept silent about what God had placed in his heart, highlighting that divine burdens are first personal and private before they become public action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 319.760009765625,
-    "end_time": 378.67999267578125
+    "end_time": 378.67999267578125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 319.760009765625,
-    "end_time": 378.67999267578125
+    "end_time": 378.67999267578125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 319.760009765625,
-    "end_time": 378.67999267578125
+    "end_time": 378.67999267578125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 438.44000244140625,
-    "end_time": 496.0400085449219
+    "end_time": 496.0400085449219,
+    "point_summary": "God's call placed privately in Nehemiah's heart preceded any public disclosure, as Nehemiah surveyed Jerusalem's ruins by night before telling anyone what he intended to do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1009,7 +1191,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 496.0400085449219,
-    "end_time": 557.9199829101562
+    "end_time": 557.9199829101562,
+    "point_summary": "Nehemiah's nighttime inspection of Jerusalem's broken walls marks the moment he personally witnessed the devastation he had only previously heard reported.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 496.0400085449219,
-    "end_time": 557.9199829101562
+    "end_time": 557.9199829101562,
+    "point_summary": "Nehemiah 2:15 marks the completion of his nighttime reconnaissance, in which he moved from secondhand report to firsthand witness of Jerusalem's broken condition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1031,7 +1217,9 @@
     "is_implicit": true,
     "video_id": "pYLTkv5zKls",
     "start_time": 496.0400085449219,
-    "end_time": 557.9199829101562
+    "end_time": 557.9199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 758.7200012207031,
-    "end_time": 829.8400115966797
+    "end_time": 829.8400115966797,
+    "point_summary": "Nehemiah's deliberate silence before revealing God's burden—telling no one until he had surveyed the ruins himself—underscores that firsthand witness deepened both his conviction and his capacity to call others to action.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 758.7200012207031,
-    "end_time": 829.8400115966797
+    "end_time": 829.8400115966797,
+    "point_summary": "Nehemiah's call to rebuild confronts a community grown numb to their own disgrace, challenging those who had normalized the broken walls and burned gates to see their condition as the reproach it truly was.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1064,7 +1256,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 1706.4200134277344,
-    "end_time": 1783.780029296875
+    "end_time": 1783.780029296875,
+    "point_summary": "Collective obedience to a God-given vision produces what no individual could achieve alone, as Jerusalem's wall—completed in fifty-two days—demonstrates what God accomplishes through a unified people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1075,7 +1269,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 1706.4200134277344,
-    "end_time": 1783.780029296875
+    "end_time": 1783.780029296875,
+    "point_summary": "Nehemiah 2:17's call to \"rise up and build\" is shown to be the launching point of a communal, laborious work that God ultimately brought to completion in fifty-two days.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1086,7 +1282,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 1783.780029296875,
-    "end_time": 1853.7400131225586
+    "end_time": 1853.7400131225586,
+    "point_summary": "When enemies perceive that a completed work was wrought of God, it signals that the accomplishment belongs to God, not human effort—a pattern the sermon applies to gospel witness today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1097,7 +1295,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 2052.560012817383,
-    "end_time": 2108.8400268554688
+    "end_time": 2108.8400268554688,
+    "point_summary": "Opposition to God's called work often begins with ridicule and accusation, as Sanballat, Tobiah, and Geshem's mocking laughter represents an early, lighter stage of resistance that will intensify.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "pYLTkv5zKls",
     "start_time": 2052.560012817383,
-    "end_time": 2108.8400268554688
+    "end_time": 2108.8400268554688,
+    "point_summary": "Nehemiah 4 is cited as evidence that opposition to God-given work escalates—from the light mockery of chapter 2 into intensified threats and schemes—warning that resistance grows as the work advances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1119,7 +1321,9 @@
     "is_implicit": true,
     "video_id": "pYLTkv5zKls",
     "start_time": 2052.560012817383,
-    "end_time": 2108.8400268554688
+    "end_time": 2108.8400268554688,
+    "point_summary": "Resistance to God-given work escalates progressively—from the light mockery of Nehemiah 2 to the deceptive, relentless schemes of Nehemiah 6, where enemies used lies and false counsel to ensnare Nehemiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 2255.4200134277344,
-    "end_time": 2325.3800048828125
+    "end_time": 2325.3800048828125,
+    "point_summary": "Resistance to God's work is inevitable, but Nehemiah's response in verse 19 models faith-driven resolve: deflecting opposition by declaring that God will prosper the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 2255.4200134277344,
-    "end_time": 2325.3800048828125
+    "end_time": 2325.3800048828125,
+    "point_summary": "When God's work faces opposition, Nehemiah's response in verse 20 models a faith-driven resolve: declaring that the God of heaven will prosper the work and pressing forward regardless of resistance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 2255.4200134277344,
-    "end_time": 2325.3800048828125
+    "end_time": 2325.3800048828125,
+    "point_summary": "Even among those committed to God's work, some nobles withheld full participation, serving as a warning that internal disengagement can accompany external resistance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 0.0,
-    "end_time": 57.619998931884766
+    "end_time": 57.619998931884766,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 0.0,
-    "end_time": 57.619998931884766
+    "end_time": 57.619998931884766,
+    "point_summary": "Nehemiah's account of rebuilding amid opposition illustrates the broader biblical pattern that those who pursue God-given work will face adversity and resistance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 57.619998931884766,
-    "end_time": 118.18000030517578
+    "end_time": 118.18000030517578,
+    "point_summary": "Nehemiah's prayer \"strengthen my hands\" frames the entire message: those doing God's work will face adversity and weariness, yet can cry out to God for renewed strength to continue.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 253.25999450683594,
-    "end_time": 318.260009765625
+    "end_time": 318.260009765625,
+    "point_summary": "Nehemiah 2:12 establishes that the burden to rebuild Jerusalem's walls originated with God, not human initiative—Nehemiah himself attributed the mission entirely to what God had put in his heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 585.8599853515625,
-    "end_time": 658.659984588623
+    "end_time": 658.659984588623,
+    "point_summary": "Nehemiah's refusal to descend from the wall rests on his conviction that the work was a great work — a designation the sermon grounds in the greatness of God himself, not merely the scale of the task.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 732.4599914550781,
-    "end_time": 792.0599822998047
+    "end_time": 792.0599822998047,
+    "point_summary": "When opposition to God's work intensifies and multiplies—as the coalition of enemies in Nehemiah 4:7 illustrates—the proper response is prayer combined with practical vigilance, not abandonment of the work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 861.0599975585938,
-    "end_time": 937.5799865722656
+    "end_time": 937.5799865722656,
+    "point_summary": "Nehemiah's prayer \"strengthen my hands\" arose from his recognition that the enemy's explicit goal was to weaken the workers' hands and halt the work, and that only God could counter that strategy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 861.0599975585938,
-    "end_time": 937.5799865722656
+    "end_time": 937.5799865722656,
+    "point_summary": "Nehemiah's prayer \"strengthen my hands\" arose from his recognition that the enemy's explicit goal was to weaken the workers' hands and halt the work, and that only God's ability could counter that strategy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1138.260009765625,
-    "end_time": 1194.9400024414062
+    "end_time": 1194.9400024414062,
+    "point_summary": "Nehemiah's prayer \"strengthen my hands\" is presented as a model of asking rightly — specific, appropriate to the moment, and free from the self-serving motives James 4 warns against.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1422.3799591064453,
-    "end_time": 1491.1399536132812
+    "end_time": 1491.1399536132812,
+    "point_summary": "The completion of the wall in verse 15 is presented as the direct answer to Nehemiah's prayer for strengthened hands, demonstrating that God hears and answers when His people ask.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1422.3799591064453,
-    "end_time": 1491.1399536132812
+    "end_time": 1491.1399536132812,
+    "point_summary": "When God answers prayer, the enemy's goal of weakening the workers' hands is defeated, and the work is completed — as Nehemiah 6:15–16 demonstrates with the wall's finishing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1492.3999633789062,
-    "end_time": 1558.6599426269531
+    "end_time": 1558.6599426269531,
+    "point_summary": "Nehemiah's workers labored under constant threat, building with one hand while holding a weapon with the other, yet the wall was still completed in 52 days despite the enemy's unrelenting opposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1558.6599426269531,
-    "end_time": 1631.4999694824219
+    "end_time": 1631.4999694824219,
+    "point_summary": "When enemies and onlookers witnessed the wall's completion in 52 days, even they were compelled to acknowledge that the work had been accomplished by God—vindicating Nehemiah's labor against all opposition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1852.5199356079102,
-    "end_time": 1911.7199401855469
+    "end_time": 1911.7199401855469,
+    "point_summary": "When the wall was completed, even the enemies recognized in Nehemiah 6:16 that the work had been done by God—confirming that God-empowered work cannot be overthrown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1852.5199356079102,
-    "end_time": 1911.7199401855469
+    "end_time": 1911.7199401855469,
+    "point_summary": "The completion of the wall on the 25th of Elul is cited as the historical marker establishing when God's work was finished, bridging directly to the corporate worship and Scripture reading of Nehemiah 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1965.8799438476562,
-    "end_time": 2036.43994140625
+    "end_time": 2036.43994140625,
+    "point_summary": "The completion of the wall on the 25th day of Elul (Neh. 6:15) sets the precise chronological backdrop for the public reading of the Law just six days later in Nehemiah 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1339,7 +1581,9 @@
     "is_implicit": false,
     "video_id": "Qk9420819_w",
     "start_time": 1965.8799438476562,
-    "end_time": 2036.43994140625
+    "end_time": 2036.43994140625,
+    "point_summary": "Just six days after completing the wall, the same people who had labored exhaustingly for 52 days stood attentively from morning until midday listening to the public reading of God's law.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1350,7 +1594,9 @@
     "is_implicit": true,
     "video_id": "Qk9420819_w",
     "start_time": 2036.43994140625,
-    "end_time": 2104.0799255371094
+    "end_time": 2104.0799255371094,
+    "point_summary": "Nehemiah's prayer for strengthened hands in chapter six finds its fulfillment six days after the wall's completion, as those same hands are lifted in worship before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1361,7 +1607,9 @@
     "is_implicit": true,
     "video_id": "Qk9420819_w",
     "start_time": 2036.43994140625,
-    "end_time": 2104.0799255371094
+    "end_time": 2104.0799255371094,
+    "point_summary": "The hands strengthened for Nehemiah's wall-building labor are now, six days after its completion, raised in worship before the open Word—the same hands that worked now extended in adoration to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1372,7 +1620,9 @@
     "is_implicit": true,
     "video_id": "Qk9420819_w",
     "start_time": 2036.43994140625,
-    "end_time": 2104.0799255371094
+    "end_time": 2104.0799255371094,
+    "point_summary": "The hands strengthened for Nehemiah's wall-building labor are, six days later, the same hands lifted in worship, showing that God-given strength for work culminates in adoration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1383,7 +1633,9 @@
     "is_implicit": true,
     "video_id": "Qk9420819_w",
     "start_time": 2036.43994140625,
-    "end_time": 2104.0799255371094
+    "end_time": 2104.0799255371094,
+    "point_summary": "The hands strengthened for the wall's construction are now raised in worship, showing that God-given strength for labor finds its culmination in adoration of Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "uy4CGijVawo",
     "start_time": 1086.4800109863281,
-    "end_time": 1146.719970703125
+    "end_time": 1146.719970703125,
+    "point_summary": "Nehemiah 9:2 illustrates a pattern where reading God's Word exposes sin, prompting confession — the people spent a quarter of the day reading and another quarter confessing what the Word revealed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "uy4CGijVawo",
     "start_time": 1263.5799713134766,
-    "end_time": 1335.1199798583984
+    "end_time": 1335.1199798583984,
+    "point_summary": "Nehemiah 9:17's declaration that God is \"ready to pardon\" grounds the petition \"forgive us our sins\" in God's very character and nature as one who is always willing to forgive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1416,7 +1672,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 129.0,
-    "end_time": 202.36000061035156
+    "end_time": 202.36000061035156,
+    "point_summary": "Nehemiah 8's account of Ezra standing on a wooden pulpit to teach God's Word is cited as the celebrated moment of public ministry that his earlier preparation in Ezra 7 made possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1094.760009765625,
-    "end_time": 1163.9600219726562
+    "end_time": 1163.9600219726562,
+    "point_summary": "Nehemiah 8:1 is cited to show that Ezra's prior preparation—seeking, doing, and teaching the law—positioned him as the one the people turned to when they gathered and demanded the Word of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1164.0,
-    "end_time": 1224.8000164031982
+    "end_time": 1224.8000164031982,
+    "point_summary": "The people's request that Ezra bring the book of the law confirms that his years of preparation to seek, do, and teach God's Word had made him the recognized authority for public Scripture reading.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1164.0,
-    "end_time": 1224.8000164031982
+    "end_time": 1224.8000164031982,
+    "point_summary": "Ezra's priestly reading of the law before the entire congregation—men, women, and all who could understand—from morning until midday illustrates the attentiveness God's people are to bring to hearing his Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1285.400016784668,
-    "end_time": 1359.8800201416016
+    "end_time": 1359.8800201416016,
+    "point_summary": "Nehemiah 8:8 is presented as a three-part model for preaching: reading the Word distinctly, giving its sense through exposition, and causing the people to understand it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1359.9600219726562,
-    "end_time": 1424.9200134277344
+    "end_time": 1424.9200134277344,
+    "point_summary": "Nehemiah 8:8 is presented as a model for preaching: reading Scripture distinctly, giving its sense through exposition, and causing the people to understand it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "wmBpYb5deRo",
     "start_time": 1486.7400207519531,
-    "end_time": 1546.4200134277344
+    "end_time": 1546.4200134277344,
+    "point_summary": "Nehemiah 8:1's call for Ezra to bring the law and teach illustrates that because Ezra had already prepared his heart, he was ready when the opportunity came.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 976.2400207519531,
-    "end_time": 1040.5600280761719
+    "end_time": 1040.5600280761719,
+    "point_summary": "Nehemiah's escort of army captains and horsemen is cited as a contrast to Ezra's deliberate choice to trust God alone, showing that requesting protection would not have been inherently wrong.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1504,7 +1776,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 727.47998046875,
-    "end_time": 792.47998046875
+    "end_time": 792.47998046875,
+    "point_summary": "Nehemiah 2:1 establishes the precise starting point of Daniel's 70-weeks clock by recording the exact month and regnal year of Artaxerxes—historically dateable to 444 BC—when Nehemiah appeared before the king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1515,7 +1789,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 792.47998046875,
-    "end_time": 871.47998046875
+    "end_time": 871.47998046875,
+    "point_summary": "Nehemiah 2:2 anchors the decree to rebuild Jerusalem to a precise, datable moment—the month Nisan in Artaxerxes' 20th year (444 BC)—establishing the unambiguous starting point for Daniel's seventy-week prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1526,7 +1802,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 792.47998046875,
-    "end_time": 871.47998046875
+    "end_time": 871.47998046875,
+    "point_summary": "Nehemiah 2:2 anchors the prophetic countdown of Daniel's seventy weeks to a datable historical moment—the month Nisan in the 20th year of Artaxerxes (444 BC)—establishing the precise starting point of the decree with no ambiguity or speculation required.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1537,7 +1815,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 792.47998046875,
-    "end_time": 871.47998046875
+    "end_time": 871.47998046875,
+    "point_summary": "Nehemiah 2:2 anchors the decree to rebuild Jerusalem to a precise, datable moment—the month Nisan in Artaxerxes' 20th year (444 BC)—establishing the unambiguous starting point for Daniel's seventy-week prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1548,7 +1828,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 792.47998046875,
-    "end_time": 871.47998046875
+    "end_time": 871.47998046875,
+    "point_summary": "Nehemiah's grief before Artaxerxes in the month Nisan, 20th year of his reign, provides the precisely datable starting point—444 BC—for the decree that triggers Daniel's seventy-week countdown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1559,7 +1841,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 792.47998046875,
-    "end_time": 871.47998046875
+    "end_time": 871.47998046875,
+    "point_summary": "The king's question in Nehemiah 2:4 marks the precise historical moment—444 BC, the month Nisan in Artaxerxes' 20th year—that triggers the decree starting Daniel's 70-week countdown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1570,7 +1854,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 871.47998046875,
-    "end_time": 936.47998046875
+    "end_time": 936.47998046875,
+    "point_summary": "Nehemiah 1:2 establishes that Nehemiah's inquiry was specifically concerning Jerusalem, providing the historical context that anchors the 444 BC starting point for Daniel's seventy weeks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1581,7 +1867,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 871.47998046875,
-    "end_time": 936.47998046875
+    "end_time": 936.47998046875,
+    "point_summary": "Nehemiah's request to Artaxerxes in 444 BC, granted with letters and timber, establishes the historical starting point for the decree that initiates Daniel's seventy weeks.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1592,7 +1880,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 871.47998046875,
-    "end_time": 936.47998046875
+    "end_time": 936.47998046875,
+    "point_summary": "Nehemiah's request before Artaxerxes in 444 BC establishes the historical starting point — the decree to restore and rebuild Jerusalem — from which Daniel's seventy weeks are calculated.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "witUS2m1Xyg",
     "start_time": 936.47998046875,
-    "end_time": 1003.47998046875
+    "end_time": 1003.47998046875,
+    "point_summary": "Nehemiah 2 records Artaxerxes granting Nehemiah's request to rebuild Jerusalem, identifying this decree as the starting point of Daniel 9:25's prophetic clock.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1614,7 +1906,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1003.47998046875,
-    "end_time": 1065.47998046875
+    "end_time": 1065.47998046875,
+    "point_summary": "Nehemiah 2's account of Artaxerxes granting the commandment to restore Jerusalem marks the precise starting point of Daniel's 69 weeks—the first seven of which are fulfilled in the rebuilding described in Nehemiah 4–6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1625,7 +1919,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1003.47998046875,
-    "end_time": 1065.47998046875
+    "end_time": 1065.47998046875,
+    "point_summary": "Nehemiah 4–6 fulfills Daniel 9:25's phrase \"built again in troublous times,\" marking the completion of the first seven weeks (49 years) from the commandment's issuance in Nehemiah 2.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1636,7 +1932,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1003.47998046875,
-    "end_time": 1065.47998046875
+    "end_time": 1065.47998046875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1647,7 +1945,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1003.47998046875,
-    "end_time": 1065.47998046875
+    "end_time": 1065.47998046875,
+    "point_summary": "Nehemiah 4–6 fulfills Daniel 9:25's description of Jerusalem's wall being rebuilt \"in troublous times,\" marking the completion of the prophetic clock's first seven weeks (49 years).",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1658,7 +1958,9 @@
     "is_implicit": true,
     "video_id": "witUS2m1Xyg",
     "start_time": 1065.47998046875,
-    "end_time": 1132.47998046875
+    "end_time": 1132.47998046875,
+    "point_summary": "The 444 B.C. date of Nehemiah's completed wall marks the prophetic starting point from which 483 years (69 weeks) count forward to 30 A.D. and Messiah's crucifixion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "xI5uCsuW9eg",
     "start_time": 980.5800170898438,
-    "end_time": 1049.5800170898438
+    "end_time": 1049.5800170898438,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 1985.780044555664,
-    "end_time": 2049.260040283203
+    "end_time": 2049.260040283203,
+    "point_summary": "Nehemiah 8:1 is cited as a prominent biblical example of the public reading of God's Word, where the gathered people collectively requested that Ezra bring and read the law before them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 2049.260040283203,
-    "end_time": 2117.5400390625
+    "end_time": 2117.5400390625,
+    "point_summary": "Nehemiah 8:2 is cited to illustrate the public, congregational reading of God's Word—from morning until midday—as a biblical precedent for sustained, attentive engagement with Scripture regardless of modern demands for brevity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 2049.260040283203,
-    "end_time": 2117.5400390625
+    "end_time": 2117.5400390625,
+    "point_summary": "Nehemiah 8:3's record of the people's attentiveness from morning until midday is cited as biblical evidence that lengthy engagement with God's Word is not unreasonable, countering modern assumptions about short attention spans.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1713,7 +2023,9 @@
     "is_implicit": false,
     "video_id": "xI5uCsuW9eg",
     "start_time": 2117.5400390625,
-    "end_time": 2182.780059814453
+    "end_time": 2182.780059814453,
+    "point_summary": "Ezra's construction of a wooden pulpit specifically for public Scripture reading illustrates that the formal, elevated proclamation of God's Word is a purposeful, prepared act—not incidental.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 2117.5400390625,
-    "end_time": 2182.780059814453
+    "end_time": 2182.780059814453,
+    "point_summary": "When Ezra opened the book and all the people stood, their reverent, attentive posture—from morning until midday—challenges the modern claim that congregations cannot sustain long, substantive engagement with God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "xI5uCsuW9eg",
     "start_time": 2182.780059814453,
-    "end_time": 2254.5400390625
+    "end_time": 2254.5400390625,
+    "point_summary": "Nehemiah 8:8's description of reading Scripture \"distinctly\" and giving \"the sense\" grounds the call for systematic, purposeful engagement with God's Word rather than casual, headline-skimming reading.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Nehemiah",
@@ -1746,6 +2062,8 @@
     "is_implicit": false,
     "video_id": "Sv5lMw8-UoQ",
     "start_time": 1719.4800415039062,
-    "end_time": 1782.4400634765625
+    "end_time": 1782.4400634765625,
+    "point_summary": "Nehemiah's brief in-the-moment prayer before Artaxerxes illustrates that God answers both extended, laboring prayer and short, spontaneous petitions offered in urgent circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

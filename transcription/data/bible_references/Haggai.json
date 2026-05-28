@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 328.32000732421875,
-    "end_time": 396.8399963378906
+    "end_time": 396.8399963378906,
+    "point_summary": "Haggai 1 is introduced as a text for self-confrontation and self-examination, calling believers to scrutinize themselves by God's Word rather than fixating on the world's failures.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 448.9599914550781,
-    "end_time": 499.6000061035156
+    "end_time": 499.6000061035156,
+    "point_summary": "Haggai 1:1 is introduced as a post-exilic call to self-examination, set against the historical backdrop of Israel's neglected temple-rebuilding after Cyrus's decree.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 499.6000061035156,
-    "end_time": 555.3200073242188
+    "end_time": 555.3200073242188,
+    "point_summary": "Haggai 1:1 introduces God's word delivered through the prophet during Israel's post-exilic neglect of the temple, setting up the rebuke that the people prioritized their own houses over rebuilding God's house.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 555.3200073242188,
-    "end_time": 613.6199760437012
+    "end_time": 613.6199760437012,
+    "point_summary": "God's rebuke in Haggai 1:3 — that his people were building their own comfortable houses while his house lay waste — serves as a warning against spiritual complacency and coasting in the Christian life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 731.97998046875,
-    "end_time": 789.7399749755859
+    "end_time": 789.7399749755859,
+    "point_summary": "God's neglect of His house while His people dwell in comfortable homes is used to indict a nation that has shifted its priorities from worship to personal ease and commerce.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 731.97998046875,
-    "end_time": 789.7399749755859
+    "end_time": 789.7399749755859,
+    "point_summary": "God's call to \"consider your ways\" in Haggai 1:5 is a divine summons to self-examination, repeated five times in the book, urging a people who have neglected God to reckon with the spiritual cause of their material futility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 790.5599822998047,
-    "end_time": 848.7599792480469
+    "end_time": 848.7599792480469,
+    "point_summary": "Haggai 1:6's catalogue of futile labor illustrates that neglecting God's priorities results in a lack of true prosperity — not material \"health and wealth,\" but the fruit of walking in God's will.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Haggai",
@@ -85,6 +99,8 @@
     "is_implicit": true,
     "video_id": "Mg6Jl4Z1Y9c",
     "start_time": 3007.4400024414062,
-    "end_time": 3070.720001220703
+    "end_time": 3070.720001220703,
+    "point_summary": "Haggai 1:6's image of earning wages only to put them in bags with holes indicts those who withhold tithes as robbing God and forfeiting his blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

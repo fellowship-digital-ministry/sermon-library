@@ -8,7 +8,9 @@
     "is_implicit": false,
     "video_id": "1AnI1m5Yp2c",
     "start_time": 1141.9600219726562,
-    "end_time": 1205.7800025939941
+    "end_time": 1205.7800025939941,
+    "point_summary": "God's reassurance to the despairing Elijah — \"I have a plan for you\" — is cited as a biblical illustration that God holds purposeful plans for individuals even when they are ready to give up.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -19,7 +21,9 @@
     "is_implicit": true,
     "video_id": "4L7zninfmhA",
     "start_time": 495.1400146484375,
-    "end_time": 562.9000244140625
+    "end_time": 562.9000244140625,
+    "point_summary": "Solomon's request for wisdom when God invited him to ask for anything illustrates the kind of desire for divine knowledge and good judgment that the sermon holds up as a model for believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -30,7 +34,9 @@
     "is_implicit": true,
     "video_id": "4L7zninfmhA",
     "start_time": 495.1400146484375,
-    "end_time": 562.9000244140625
+    "end_time": 562.9000244140625,
+    "point_summary": "Solomon's request for wisdom to lead God's people—rather than wealth or long life—illustrates the kind of God-honoring desire for knowledge and judgment that the sermon holds up as a model.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -41,7 +47,9 @@
     "is_implicit": true,
     "video_id": "4L7zninfmhA",
     "start_time": 495.1400146484375,
-    "end_time": 562.9000244140625
+    "end_time": 562.9000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1618.5599975585938,
-    "end_time": 1675.1199951171875
+    "end_time": 1675.1199951171875,
+    "point_summary": "The fulfillment of Noah's curse on Canaan—that he would be a servant of servants—is traced all the way to Solomon's reign, demonstrating the prophecy's long historical reach across centuries.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1675.1600036621094,
-    "end_time": 1740.52001953125
+    "end_time": 1740.52001953125,
+    "point_summary": "Even at the height of Solomon's reign—centuries after Genesis 9—the Canaanite descendants remained under a levy of bond service, demonstrating the long-range fulfillment of Noah's prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1675.1600036621094,
-    "end_time": 1740.52001953125
+    "end_time": 1740.52001953125,
+    "point_summary": "Even as late as Solomon's reign, the Canaanite descendants remained under forced tribute, demonstrating the long-range fulfillment of Noah's prophecy across centuries of biblical history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "4vUlrsA0Z_s",
     "start_time": 1675.1600036621094,
-    "end_time": 1740.52001953125
+    "end_time": 1740.52001953125,
+    "point_summary": "1 Kings 9:1 anchors the timeline at Solomon's completed temple, marking how far Noah's prophecy of Canaanite servitude had already stretched across redemptive history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -96,7 +112,9 @@
     "is_implicit": false,
     "video_id": "52bJLKAbdng",
     "start_time": 2256.9199829101562,
-    "end_time": 2317.1199951171875
+    "end_time": 2317.1199951171875,
+    "point_summary": "God's reminder to Elijah that 7,000 others remained faithful counters the isolating lie that one is the only follower of Christ, underscoring the need to find and run with fellow believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "5hWrSVuaxyg",
     "start_time": 876.8399963378906,
-    "end_time": 964.3799743652344
+    "end_time": 964.3799743652344,
+    "point_summary": "The obedience of the raven commanded to feed Elijah illustrates that God's creation obeys its Creator, setting a standard that redeemed people ought to follow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1082.5799865722656,
-    "end_time": 1153.5
+    "end_time": 1153.5,
+    "point_summary": "Jehoram's oath to kill Elisha mirrors almost word-for-word his mother Jezebel's oath against Elijah, revealing that his murderous hostility toward God's prophet is his mother's wicked spirit reproduced in her son.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1154.0599975585938,
-    "end_time": 1223.8399562835693
+    "end_time": 1223.8399562835693,
+    "point_summary": "Jezebel's oath to kill Elijah (1 Kings 19:2) is set in deliberate parallel with Jehoram's oath to kill Elisha, showing a son repeating his mother's murderous pattern against God's prophet.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1477.6399536132812,
-    "end_time": 1537.4799499511719
+    "end_time": 1537.4799499511719,
+    "point_summary": "First Kings 12:25–33 is cited as the foundational record of Jeroboam's idolatrous innovations—false worship, counterfeit feast days—instituted to prevent Israel from returning to Jerusalem and thereby to Judah's king.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "Bub30LEwKyg",
     "start_time": 1537.4799499511719,
-    "end_time": 1603.7999572753906
+    "end_time": 1603.7999572753906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -162,7 +190,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1304.7200088500977,
-    "end_time": 1386.6000061035156
+    "end_time": 1386.6000061035156,
+    "point_summary": "The tribe of Dan's early introduction of idol worship, traced in Judges 18, is shown to have set a pattern that resurfaces in 1 Kings 12 as a pivotal moment of national idolatry in Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1386.6000061035156,
-    "end_time": 1453.3200073242188
+    "end_time": 1453.3200073242188,
+    "point_summary": "The divided kingdom described in 1 Kings 12 marks the point at which the northern tribes of Israel entered an unbroken downward spiral of idolatry, contrasted with Judah's periodic revivals under godly kings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -184,7 +216,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1386.6000061035156,
-    "end_time": 1453.3200073242188
+    "end_time": 1453.3200073242188,
+    "point_summary": "The divided kingdom described at the end of 1 Kings 11 sets the stage for understanding Israel's unbroken downward spiral into idolatry, contrasted with Judah's periodic revivals under good kings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1453.3200073242188,
-    "end_time": 1520.0800170898438
+    "end_time": 1520.0800170898438,
+    "point_summary": "First Kings 12 marks the division of the united kingdom into northern Israel and southern Judah, with Jeroboam's fear that shared worship in Jerusalem would undermine northern loyalty establishing a pattern of idolatry that defined Israel's kings thereafter.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1520.0800170898438,
-    "end_time": 1583.0
+    "end_time": 1583.0,
+    "point_summary": "Jeroboam's fear that Israel's required pilgrimages to Jerusalem would draw the northern tribes back to Rehoboam drove him to establish a rival worship system, giving rise to the recurring biblical indictment \"the sins of Jeroboam.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1767.2000122070312,
-    "end_time": 1825.1600284576416
+    "end_time": 1825.1600284576416,
+    "point_summary": "Jeroboam's sin of convenience-driven, self-devised worship—marketing idolatry as accessible—stands as a warning against accommodating religious practice to popular preference rather than God's revealed standard.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1767.2000122070312,
-    "end_time": 1825.1600284576416
+    "end_time": 1825.1600284576416,
+    "point_summary": "Jeroboam's appointment of non-Levitical priests from the lowest of the people illustrates how false worship systems discard God's ordained order in favor of convenience and self-devised religion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1767.2000122070312,
-    "end_time": 1825.1600284576416
+    "end_time": 1825.1600284576416,
+    "point_summary": "Jeroboam's feast in the eighth month was a man-made substitute for God's appointed worship, devised from his own heart rather than divine command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1767.2000122070312,
-    "end_time": 1825.1600284576416
+    "end_time": 1825.1600284576416,
+    "point_summary": "Jeroboam's feast, ordained in a month he devised of his own heart, illustrates how man-made religious convenience replaces God-ordained worship with self-serving substitutes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -261,7 +307,9 @@
     "is_implicit": true,
     "video_id": "d7fsLPs8FTY",
     "start_time": 1888.0000305175781,
-    "end_time": 1963.5600280761719
+    "end_time": 1963.5600280761719,
+    "point_summary": "Jeroboam's establishment of golden calves at Bethel and Dan fulfilled the trajectory of Dan's earlier idolatry, illustrating how a tribe's spiritual compromise opens the door to national apostasy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -272,7 +320,9 @@
     "is_implicit": true,
     "video_id": "E6nXFQtcsVE",
     "start_time": 642.5200157165527,
-    "end_time": 716.8800201416016
+    "end_time": 716.8800201416016,
+    "point_summary": "Fire falling from heaven in answer to Elijah's prayer illustrates the power of fervent, faith-filled intercession that the sermon connects to Epaphras's own devoted prayer life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -283,7 +333,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 270.32000732421875,
-    "end_time": 336.67999267578125
+    "end_time": 336.67999267578125,
+    "point_summary": "Elijah's sudden appearance \"out of obscurity\" in 1 Kings 17:1, with no prior biblical introduction, underscores that God raises up his servants from unknown places to serve his purposes in critical moments of Israel's history.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -294,7 +346,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "God's word to Elijah in verse 2 initiates the divine provision that follows, showing that obedience to God's command is the pathway through which His care for His servant is expressed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "God's command to Elijah to hide himself by the brook Cherith becomes the sermon's governing text, framing the entire message around the theme of divine care for God's servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "God's sovereign provision for Elijah is shown in His direct command to the ravens, demonstrating that He actively cares for His servants even in seasons of withdrawal and judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "Elijah's immediate obedience — \"he went and did according unto the word of the Lord\" — is presented as the model response to divine instruction, demonstrating that God's care is received through compliance with His command.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "God's miraculous provision of bread and flesh twice daily through ravens demonstrates His direct, personal care for Elijah during the season of divinely ordained drought and hiddenness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -349,7 +411,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 410.67999267578125,
-    "end_time": 475.3399963378906
+    "end_time": 475.3399963378906,
+    "point_summary": "The drying of the brook Cherith, caused by the very drought Elijah had pronounced, frames God's providential care as operating even through circumstances that appear to remove His provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 475.3800048828125,
-    "end_time": 538.4600219726562
+    "end_time": 538.4600219726562,
+    "point_summary": "Ahab's surpassing wickedness among Israel's kings establishes the gravity of the divine judgment Elijah was sent to announce before him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 810.0199737548828,
-    "end_time": 892.219970703125
+    "end_time": 892.219970703125,
+    "point_summary": "God's clear guidance to Elijah at Cherith came paired with a specific promise of provision, as the divine command to the ravens demonstrates that God's direction to his servants never comes without accompanying care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 1387.3199615478516,
-    "end_time": 1449.1399536132812
+    "end_time": 1449.1399536132812,
+    "point_summary": "Elijah's simple obedience—\"he went and did according unto the word of the Lord\"—is presented as the necessary condition for receiving God's promised sustenance, since the ravens were commanded to feed him *there*, at the specific place God designated.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -393,7 +463,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 1592.5399475097656,
-    "end_time": 1676.3799438476562
+    "end_time": 1676.3799438476562,
+    "point_summary": "God's sovereignty over creation is on display as ravens — natural scavengers — obeyed His command and delivered bread and flesh to Elijah twice daily, evidencing His personal, consistent provision for His servant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 2300.9799194335938,
-    "end_time": 2374.7399291992188
+    "end_time": 2374.7399291992188,
+    "point_summary": "Jesus's reference to ravens feeding in Luke 12 draws a direct line back to Elijah's ravens in 1 Kings 17, reinforcing that the same God who fed the prophet supernaturally cares far more for his disciples.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "FEm43rSvhYg",
     "start_time": 2443.0599632263184,
-    "end_time": 2534.8399658203125
+    "end_time": 2534.8399658203125,
+    "point_summary": "God's care for his servant Elijah is demonstrated in the remarkable reversal at Cherith, where the ravens he ordinarily feeds became the instruments by which he fed his prophet.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "hFDkabxW6cU",
     "start_time": 1445.6200103759766,
-    "end_time": 1539.5
+    "end_time": 1539.5,
+    "point_summary": "Elijah's brief, faith-filled prayer on Carmel—answered immediately with fire—is held up as the model of intercession that demonstrates to a watching world who the true God is.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "I5J2NuNIO5w",
     "start_time": 495.3599853515625,
-    "end_time": 555.239990234375
+    "end_time": 555.239990234375,
+    "point_summary": "Elijah's sudden, unannounced appearance in 1 Kings 17 is used as a parallel to illustrate how Melchizedek likewise steps onto the pages of Scripture without introduction or genealogical context.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 888.7000122070312,
-    "end_time": 954.1800231933594
+    "end_time": 954.1800231933594,
+    "point_summary": "Solomon's request for wisdom in 1 Kings 3 is cited to illustrate that God offers His wisdom freely to those who ask, so believers need not rely on their own thinking to resolve conflict.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 954.1800231933594,
-    "end_time": 1021.780029296875
+    "end_time": 1021.780029296875,
+    "point_summary": "God's open-ended invitation to Solomon — \"Ask what I shall give thee\" — illustrates that divine wisdom is freely available to those who seek it, contrasting the unlimited offer of the Creator with the hollow offers of earthly rulers like Herod and Ahasuerus.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 954.1800231933594,
-    "end_time": 1021.780029296875
+    "end_time": 1021.780029296875,
+    "point_summary": "Solomon's response to God's open-ended offer reveals that humility and recognition of God's prior mercy and faithfulness are the posture from which true wisdom is sought.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1021.780029296875,
-    "end_time": 1094.5
+    "end_time": 1094.5,
+    "point_summary": "Solomon's response to God's open-ended offer reveals humility and gratitude, acknowledging divine mercy and covenant faithfulness to David rather than seizing the moment for personal ambition.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1021.780029296875,
-    "end_time": 1094.5
+    "end_time": 1094.5,
+    "point_summary": "Solomon's self-description as \"a little child\" who does not know how to lead illustrates the humility that underlies his request for wisdom rather than wealth or power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1021.780029296875,
-    "end_time": 1094.5
+    "end_time": 1094.5,
+    "point_summary": "Overwhelmed by the vastness of the people he must govern, Solomon grounds his request for wisdom in humble acknowledgment that the task exceeds his own ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1021.780029296875,
-    "end_time": 1094.5
+    "end_time": 1094.5,
+    "point_summary": "Confronted with an open-ended divine offer, Solomon's request in verse 9 for an understanding heart to judge God's people demonstrated the humility and God-ward orientation that pleased the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1021.780029296875,
-    "end_time": 1094.5
+    "end_time": 1094.5,
+    "point_summary": "God's pleasure with Solomon's request for wisdom — rather than wealth or long life — underscores that humility and a servant's heart in asking are what the Lord finds pleasing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1094.5400085449219,
-    "end_time": 1149.6600341796875
+    "end_time": 1149.6600341796875,
+    "point_summary": "Verse 16 introduces the test case through which God's supernaturally granted wisdom to Solomon is first publicly demonstrated, as an otherwise unsolvable dispute between two mothers reveals what no merely human judgment could discern.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1094.5400085449219,
-    "end_time": 1149.6600341796875
+    "end_time": 1149.6600341796875,
+    "point_summary": "The disputed claims of the two mothers in verse 22 illustrate that apart from God-given wisdom, discerning truth in such a deadlocked human conflict is impossible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1094.5400085449219,
-    "end_time": 1149.6600341796875
+    "end_time": 1149.6600341796875,
+    "point_summary": "Verse 23 presents the deadlocked dispute between the two mothers as an illustration that without divinely given wisdom, discerning truth in such a case would be humanly impossible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1149.6600341796875,
-    "end_time": 1220.9600372314453
+    "end_time": 1220.9600372314453,
+    "point_summary": "Solomon's impossible judgment — dividing the living child to expose the true mother — is presented as the first public display of the supernatural, God-given wisdom he had asked for.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1149.6600341796875,
-    "end_time": 1220.9600372314453
+    "end_time": 1220.9600372314453,
+    "point_summary": "A mother's instinctive cry to spare her child's life — not the other woman's indifference — revealed the truth that no earthly wisdom could uncover, demonstrating that Solomon's judgment was divinely given.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -591,7 +697,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1149.6600341796875,
-    "end_time": 1220.9600372314453
+    "end_time": 1220.9600372314453,
+    "point_summary": "Solomon's verdict in verse 27 is presented as the visible proof that divine wisdom—not human reasoning—was operating in him to render true judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -602,7 +710,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1149.6600341796875,
-    "end_time": 1220.9600372314453
+    "end_time": 1220.9600372314453,
+    "point_summary": "Israel's awe at Solomon's verdict demonstrated that divine wisdom—not human reasoning—was visibly at work in him, making the case that heavenly wisdom is what leaders and believers must seek.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "jEyvI9b4gw8",
     "start_time": 1784.02001953125,
-    "end_time": 1847.6600532531738
+    "end_time": 1847.6600532531738,
+    "point_summary": "Solomon's wisdom displayed in 1 Kings 3 is invoked as a parallel to Abram's wise, humble resolution of strife, contrasted with the pride that Proverbs warns brings contention and destruction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "JwkVB_xWwdI",
     "start_time": 1580.8199768066406,
-    "end_time": 1639.7599792480469
+    "end_time": 1639.7599792480469,
+    "point_summary": "Elijah's drought and rain in 1 Kings 17 illustrates James's point that fervent prayer is the exercise of faith, inviting God to act where human ability falls short.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -635,7 +749,9 @@
     "is_implicit": true,
     "video_id": "KskHW1EZsM8",
     "start_time": 1513.4800415039062,
-    "end_time": 1573.1200561523438
+    "end_time": 1573.1200561523438,
+    "point_summary": "Elijah's bold, expectant prayer at Mount Carmel illustrates praying in alignment with God's will—his confidence rooted in the declaration \"I have done all of this according to Thy word.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -646,7 +762,9 @@
     "is_implicit": true,
     "video_id": "KskHW1EZsM8",
     "start_time": 2113.480010986328,
-    "end_time": 2185.1600341796875
+    "end_time": 2185.1600341796875,
+    "point_summary": "God's still, small voice requires the posture of attentive, bowed-down listening that Proverbs 22:17 pictures—hearing His will before praying according to it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -657,7 +775,9 @@
     "is_implicit": true,
     "video_id": "kWms8xmaBZ4",
     "start_time": 248.27999877929688,
-    "end_time": 310.1600036621094
+    "end_time": 310.1600036621094,
+    "point_summary": "Famine in Scripture most often signals divine judgment, as illustrated by connecting Elijah's drought in 1 Kings 17:1 to Israel's wickedness under Ahab and Jezebel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -668,7 +788,9 @@
     "is_implicit": true,
     "video_id": "LOzX3Aa4VcI",
     "start_time": 119.12000274658203,
-    "end_time": 181.60000610351562
+    "end_time": 181.60000610351562,
+    "point_summary": "Fire coming down from heaven in answer to Elijah's prayer—offered explicitly \"according to thy word\"—illustrates that confident, effective prayer is grounded in alignment with God's will and word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -679,7 +801,9 @@
     "is_implicit": true,
     "video_id": "m0i_-MjkrIo",
     "start_time": 506.8599853515625,
-    "end_time": 569.97998046875
+    "end_time": 569.97998046875,
+    "point_summary": "Baal's failure to respond to his worshippers' cries illustrates by contrast that prayer requires confidence in a God who genuinely hears, unlike deaf idols who cannot.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -690,7 +814,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 950.1999816894531,
-    "end_time": 1006.2399597167969
+    "end_time": 1006.2399597167969,
+    "point_summary": "Solomon's life in 1 Kings 11 is presented as a cautionary example of a man who, despite beginning with God-given wisdom, drifted so far off course that his life ended in a way displeasing to the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -701,7 +827,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 950.1999816894531,
-    "end_time": 1006.2399597167969
+    "end_time": 1006.2399597167969,
+    "point_summary": "Solomon's request for wisdom in 1 Kings 3 is cited as the starting point of a life that nonetheless drifted off course, illustrating that even a God-given gift cannot substitute for sustained obedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -712,7 +840,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1060.7399597167969,
-    "end_time": 1110.7399597167969
+    "end_time": 1110.7399597167969,
+    "point_summary": "Solomon's God-given wisdom and wealth in 1 Kings 11 serve as the backdrop for how a man who began humbly, asking only for wisdom, eventually got off course despite extraordinary divine blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -723,7 +853,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1060.7399597167969,
-    "end_time": 1110.7399597167969
+    "end_time": 1110.7399597167969,
+    "point_summary": "Solomon's display of God-given wealth before the queen of Sheba is read as a moment where pride began to surface, with the broader point that all wealth ultimately comes from God's hand, not human effort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -734,7 +866,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1110.7399597167969,
-    "end_time": 1166.219970703125
+    "end_time": 1166.219970703125,
+    "point_summary": "Solomon's unparalleled wealth and wisdom, which drew the whole earth to him, is presented as God's gift rather than any achievement of Solomon's own making.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -745,7 +879,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1166.219970703125,
-    "end_time": 1221.0799751281738
+    "end_time": 1221.0799751281738,
+    "point_summary": "All wealth—even that of the heathen—comes from God's hand, not from human effort or self-sufficiency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -756,7 +892,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1166.219970703125,
-    "end_time": 1221.0799751281738
+    "end_time": 1221.0799751281738,
+    "point_summary": "Solomon's vast accumulation of chariots, horsemen, and silver—catalogued in these verses—is presented as wealth that came entirely from God's hand, not from Solomon's own achievement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -767,7 +905,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1166.219970703125,
-    "end_time": 1221.0799751281738
+    "end_time": 1221.0799751281738,
+    "point_summary": "All wealth—even Solomon's extraordinary abundance of silver and cedar—comes from God's hand, not human achievement, making any claim of self-made prosperity an act of arrogance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -778,7 +918,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1166.219970703125,
-    "end_time": 1221.0799751281738
+    "end_time": 1221.0799751281738,
+    "point_summary": "All wealth—even Solomon's extraordinary accumulation of horses, chariots, silver, and tribute—comes from God's hand, not human achievement, making self-made pride an act of arrogance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -789,7 +931,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1166.219970703125,
-    "end_time": 1221.0799751281738
+    "end_time": 1221.0799751281738,
+    "point_summary": "All wealth—including Solomon's extraordinary accumulation of chariots, horses, silver, and tribute—comes from God's hand, not human achievement, making self-sufficiency an act of arrogance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -800,7 +944,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1347.959976196289,
-    "end_time": 1413.6199798583984
+    "end_time": 1413.6199798583984,
+    "point_summary": "Solomon's marriage to many foreign women from nations God had explicitly forbidden violated divine command and set him on a course of spiritual deviation with guaranteed consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -811,7 +957,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1347.959976196289,
-    "end_time": 1413.6199798583984
+    "end_time": 1413.6199798583984,
+    "point_summary": "God's explicit prohibition against intermarrying with pagan nations—because such relationships would turn Israel's heart away from Him—is the divine boundary Solomon willfully crossed, with guaranteed consequences.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -822,7 +970,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1705.8599853515625,
-    "end_time": 1767.7999877929688
+    "end_time": 1767.7999877929688,
+    "point_summary": "Solomon's accumulation of a thousand women, condemned in 1 Kings 11:3, is presented as the compounding moral drift that turned his heart from God and made course correction increasingly difficult.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -833,7 +983,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1705.8599853515625,
-    "end_time": 1767.7999877929688
+    "end_time": 1767.7999877929688,
+    "point_summary": "Solomon's accumulated wives turning his heart away from God illustrates how gradual moral drift compounds until course correction becomes extremely difficult.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -844,7 +996,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1705.8599853515625,
-    "end_time": 1767.7999877929688
+    "end_time": 1767.7999877929688,
+    "point_summary": "Solomon's love for God in 1 Kings 3:3 is presented as genuine but comparatively shallower than David's, lacking the deep personal intimacy that marked his father's relationship with the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -855,7 +1009,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1831.4400024414062,
-    "end_time": 1896.8199996948242
+    "end_time": 1896.8199996948242,
+    "point_summary": "Solomon's worship of Ashtoreth and Milcom is presented as the tragic endpoint of incremental spiritual drift, with God's own label—\"abomination\"—signaling that such false worship demanded abominable acts in return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -866,7 +1022,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1831.4400024414062,
-    "end_time": 1896.8199996948242
+    "end_time": 1896.8199996948242,
+    "point_summary": "Solomon's incremental drift from God culminated in outright evil, confirming that his devotion never matched David's wholehearted love for the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -877,7 +1035,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 1896.8400039672852,
-    "end_time": 1954.5400085449219
+    "end_time": 1954.5400085449219,
+    "point_summary": "Solomon's failure is measured not merely by his idolatry but by the contrast with David, whose defining mark was wholehearted devotion and willingness to make course corrections through genuine repentance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -888,7 +1048,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2147.760009765625,
-    "end_time": 2204.8600158691406
+    "end_time": 2204.8600158691406,
+    "point_summary": "God's anger with Solomon is grounded in the fact that He had appeared to him twice and commanded him directly, making Solomon's disobedience without excuse.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -899,7 +1061,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2147.760009765625,
-    "end_time": 2204.8600158691406
+    "end_time": 2204.8600158691406,
+    "point_summary": "God's judgment on Solomon—tearing the kingdom from him—is presented as the direct consequence of covenant-breaking, with the Hebrew word *rend* (*ohabit*) underscoring the severity of divine discipline for disobedience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -910,7 +1074,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2147.760009765625,
-    "end_time": 2204.8600158691406
+    "end_time": 2204.8600158691406,
+    "point_summary": "God's mercy toward David delayed but did not cancel the judgment on Solomon's kingdom, preserving one tribe for David's sake as the consequence of Solomon's disobedience unfolded across generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -921,7 +1087,9 @@
     "is_implicit": true,
     "video_id": "pKSibA3D-2M",
     "start_time": 2147.760009765625,
-    "end_time": 2204.8600158691406
+    "end_time": 2204.8600158691406,
+    "point_summary": "God's mercy toward David preserved one tribe for Solomon's son, showing that covenant faithfulness to a prior generation can limit but not eliminate the consequences of a later generation's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -932,7 +1100,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2204.8999938964844,
-    "end_time": 2259.6000061035156
+    "end_time": 2259.6000061035156,
+    "point_summary": "Solomon's sin was not ignorance but willful rebellion — God had appeared to him twice and commanded him explicitly, leaving him without excuse when his heart turned away.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -943,7 +1113,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2319.239990234375,
-    "end_time": 2384.0
+    "end_time": 2384.0,
+    "point_summary": "Solomon's first recorded act — marrying Pharaoh's daughter — marks the precise moment he began drifting off course, even before he asked God for wisdom, showing that disobedience can precede and undermine every subsequent blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -954,7 +1126,9 @@
     "is_implicit": false,
     "video_id": "pKSibA3D-2M",
     "start_time": 2384.2200317382812,
-    "end_time": 2454.5199813842773
+    "end_time": 2454.5199813842773,
+    "point_summary": "Solomon's first recorded act—marrying Pharaoh's daughter before even asking God for wisdom—is identified as the one-degree deviation that set his entire life's trajectory off course.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -965,7 +1139,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 0.0,
-    "end_time": 55.52000045776367
+    "end_time": 55.52000045776367,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -976,7 +1152,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 0.0,
-    "end_time": 55.52000045776367
+    "end_time": 55.52000045776367,
+    "point_summary": "Elijah's sudden appearance before Ahab in 1 Kings 17 introduces him against the backdrop of Israel's deepest moral and spiritual darkness, a dynasty of kings each more wicked than the last.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -987,7 +1165,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 55.52000045776367,
-    "end_time": 121.08000183105469
+    "end_time": 121.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -998,7 +1178,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 55.52000045776367,
-    "end_time": 121.08000183105469
+    "end_time": 121.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1009,7 +1191,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 55.52000045776367,
-    "end_time": 121.08000183105469
+    "end_time": 121.08000183105469,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1020,7 +1204,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 121.08000183105469,
-    "end_time": 186.6199951171875
+    "end_time": 186.6199951171875,
+    "point_summary": "The great victory at Mount Carmel immediately precedes a sharp reversal, as Ahab's report to Jezebel in verse 1 sets in motion the crisis that will test Elijah's faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1031,7 +1217,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 121.08000183105469,
-    "end_time": 186.6199951171875
+    "end_time": 186.6199951171875,
+    "point_summary": "1 Kings 18's Mount Carmel episode—where God sends fire from heaven and the prophets of Baal are destroyed—represents the high point of Elijah's ministry before the dramatic reversal in chapter 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1042,7 +1230,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 382.2200012207031,
-    "end_time": 439.5400085449219
+    "end_time": 439.5400085449219,
+    "point_summary": "Jezebel's threat to kill Elijah by the next day establishes the crisis that drives him into flight, revealing the real and powerful opposition that can reduce even a faithful prophet to fear and despair.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1053,7 +1243,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "Elijah's 25-word declaration of judgment before Ahab in 1 Kings 17:1 was followed by clear divine direction to Cherith, contrasting sharply with his self-directed flight in chapter 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1064,7 +1256,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "In contrast to chapter 19, 1 Kings 17 shows God giving Elijah clear, specific direction—first to Cherith, then to Zarephath—direction conspicuously absent when Elijah flees Jezebel's threat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1075,7 +1269,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "God's clear direction to Elijah at the brook Cherith (17:3) contrasts sharply with chapter 19, where Elijah flees Jezebel's threat without any divine command to depart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1086,7 +1282,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "The drying of the brook Cherith, though ordained by God who foreknew the drought, illustrates that God was directing Elijah's every step in chapter 17—a divine guidance conspicuously absent when Elijah flees in chapter 19.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1097,7 +1295,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "God's step-by-step direction to Elijah in chapter 17—first to Cherith, then to Zarephath—contrasts sharply with chapter 19, where Elijah flees without any divine command to do so.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1108,7 +1308,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 565.3200073242188,
-    "end_time": 624.1400165557861
+    "end_time": 624.1400165557861,
+    "point_summary": "Jezebel's threat in verse 1 sets in motion a flight that, unlike Elijah's earlier movements in chapters 17–18, lacks any divine directive to depart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1119,7 +1321,9 @@
     "is_implicit": true,
     "video_id": "qKPSzK25Qso",
     "start_time": 747.1200103759766,
-    "end_time": 810.4800109863281
+    "end_time": 810.4800109863281,
+    "point_summary": "Even when Elijah was hidden from Jezebel and sunk in despair, God knew exactly where his servant was and sent an angel to meet his physical need with miraculous provision.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1130,7 +1334,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 747.1200103759766,
-    "end_time": 810.4800109863281
+    "end_time": 810.4800109863281,
+    "point_summary": "Even in Elijah's lowest moment of despair, God supernaturally and miraculously provided exactly what his servant needed — food and water appearing by angelic agency without any human explanation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1141,7 +1347,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 1428.520004272461,
-    "end_time": 1495.3200073242188
+    "end_time": 1495.3200073242188,
+    "point_summary": "Elijah's repeated, unchanged answer to God's repeated question illustrates divine patience: God meets his servant exactly where he is rather than demanding a corrected response before extending grace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1152,7 +1360,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 1642.2000122070312,
-    "end_time": 1708.0
+    "end_time": 1708.0,
+    "point_summary": "God's command to Elijah in verse 15 — return and anoint Hazael, Jehu, and Elisha — demonstrates that even a prophet who begged to die still had an unfinished, God-appointed task awaiting him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1163,7 +1373,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 1642.2000122070312,
-    "end_time": 1708.0
+    "end_time": 1708.0,
+    "point_summary": "God's command in verse 16 to anoint Jehu as king and Elisha as prophet demonstrates that even a despairing, death-wishing Elijah still had a specific, unfinished task assigned to him by God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1174,7 +1386,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 1642.2000122070312,
-    "end_time": 1708.0
+    "end_time": 1708.0,
+    "point_summary": "God's threefold commission to Elijah in verses 15–17—anointing Hazael, Jehu, and Elisha—demonstrates that divine purpose persists even when a servant is ready to quit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1185,7 +1399,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 1899.5600051879883,
-    "end_time": 1968.7000122070312
+    "end_time": 1968.7000122070312,
+    "point_summary": "Jezebel's threat drove Elijah from his post, illustrating how enemy intimidation aims to displace believers from the God-assigned task they are called to fulfill.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1196,7 +1412,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 2337.02001953125,
-    "end_time": 2391.1799926757812
+    "end_time": 2391.1799926757812,
+    "point_summary": "God's question to Elijah — \"What doest thou here?\" — is applied to the congregation through Mordecai's perspective, pressing believers to recognize that God has placed them in this present difficult age for such a time as this.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1207,7 +1425,9 @@
     "is_implicit": false,
     "video_id": "qKPSzK25Qso",
     "start_time": 2391.1799926757812,
-    "end_time": 2457.0399894714355
+    "end_time": 2457.0399894714355,
+    "point_summary": "God's question to Elijah — \"What doest thou here?\" — is applied as a present-tense summons, pressing believers to examine whether their lives, individually and as families, are fulfilling their singular purpose of bringing glory to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1218,7 +1438,9 @@
     "is_implicit": false,
     "video_id": "qxIieTPfZl0",
     "start_time": 1950.479995727539,
-    "end_time": 2015.3199920654297
+    "end_time": 2015.3199920654297,
+    "point_summary": "God's reminder to the isolated Elijah that seven thousand had not bowed to Baal illustrates that believers are never truly alone, countering the \"it's only me\" syndrome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1229,7 +1451,9 @@
     "is_implicit": false,
     "video_id": "QYdUNHCXj2g",
     "start_time": 1073.4800109863281,
-    "end_time": 1144.1400146484375
+    "end_time": 1144.1400146484375,
+    "point_summary": "Like the widow of Zarephath who knew the size of what she had yet obeyed Elijah's seemingly impossible instruction, this woman understood her limited supply but trusted God's provision anyway.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1240,7 +1464,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1121.1599731445312,
-    "end_time": 1182.8800048828125
+    "end_time": 1182.8800048828125,
+    "point_summary": "Elijah's contest on Mount Carmel illustrates by contrast that the God of Israel, unlike Baal, genuinely hears and answers prayer — a reality that itself warrants praise even before the answer arrives.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1251,7 +1477,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "Elijah's challenge at Carmel—\"call on the name of your gods, and I will call on the name of the LORD\"—is used to contrast the deaf silence of false gods with the assurance that the living God genuinely hears and answers prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1262,7 +1490,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "Elijah's prayer at Mount Carmel (1 Kings 18:36–37) is cited as evidence that, unlike Baal who could not hear, Israel's God genuinely hears and answers when his people call upon him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1273,7 +1503,9 @@
     "is_implicit": false,
     "video_id": "SfucrRfy8nw",
     "start_time": 1182.8800048828125,
-    "end_time": 1251.6399612426758
+    "end_time": 1251.6399612426758,
+    "point_summary": "Elijah's prayer at Mount Carmel (1 Kings 18:37) illustrates by contrast with the deaf Baal that Israel's God genuinely hears and answers when his people call upon him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1284,7 +1516,9 @@
     "is_implicit": false,
     "video_id": "twNPvrDg87E",
     "start_time": 201.66000366210938,
-    "end_time": 255.6199951171875
+    "end_time": 255.6199951171875,
+    "point_summary": "Elijah's sudden, unannounced appearance in 1 Kings 17:1 is used as a parallel to illustrate how Oded likewise emerges abruptly onto the pages of Scripture as a prophet delivering a bold message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1295,7 +1529,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1543.2000122070312,
-    "end_time": 1608.9400329589844
+    "end_time": 1608.9400329589844,
+    "point_summary": "Elijah's life of fervent prayer in 1 Kings 17–18, cited via James, illustrates that effectual, fervent prayer of a righteous man accomplishes much, grounding Samuel's own crying out to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1306,7 +1542,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1675.7200317382812,
-    "end_time": 1737.6400146484375
+    "end_time": 1737.6400146484375,
+    "point_summary": "The contrast between Baal's silence and God's responsiveness to Samuel's prayer illustrates that only the living God hears and answers those who cry out to him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1317,7 +1555,9 @@
     "is_implicit": false,
     "video_id": "Ujwxp-Hx7LI",
     "start_time": 1675.7200317382812,
-    "end_time": 1737.6400146484375
+    "end_time": 1737.6400146484375,
+    "point_summary": "The impotence of Baal's idol—which cannot hear, see, or respond—contrasts directly with the living God who hears and answers when his people cry out in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1328,7 +1568,9 @@
     "is_implicit": false,
     "video_id": "w16vXRlvXV0",
     "start_time": 172.5399932861328,
-    "end_time": 227.86000061035156
+    "end_time": 227.86000061035156,
+    "point_summary": "The generational chain of fatherly instruction—David to Solomon, Solomon to Rehoboam—is grounded in 1 Kings 2:1 as the historical moment David called Solomon and passed on his charge.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1339,7 +1581,9 @@
     "is_implicit": true,
     "video_id": "w16vXRlvXV0",
     "start_time": 550.8800048828125,
-    "end_time": 613.8000268936157
+    "end_time": 613.8000268936157,
+    "point_summary": "Solomon's failure to follow his own wisdom—loving many strange women and falling into idolatry—is cited to show that reading Proverbs merely as Solomon's counsel to Rehoboam yields less than reading it as the Heavenly Father's instruction to His children.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1350,7 +1594,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1104.6199645996094,
-    "end_time": 1184.1399536132812
+    "end_time": 1184.1399536132812,
+    "point_summary": "In the broader narrative context, 1 Kings 19 is recalled to show that God's commissioning of Elijah—despite his fear and despair after Jezebel's threat—included the anointing of Hazael as king over Syria.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1361,7 +1607,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1104.6199645996094,
-    "end_time": 1184.1399536132812
+    "end_time": 1184.1399536132812,
+    "point_summary": "Elijah's great victory over Baal's prophets in 1 Kings 18 is recalled as the immediate backdrop to his collapse in chapter 19, showing that spiritual triumph can precede overwhelming fear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1372,7 +1620,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1104.6199645996094,
-    "end_time": 1184.1399536132812
+    "end_time": 1184.1399536132812,
+    "point_summary": "God's sovereign commissioning of Elijah in 1 Kings 19—after his overwhelming fear of Jezebel—is recalled to show that divine appointment of Hazael as king of Syria traces back to that earlier mandate given to Elijah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1383,7 +1633,9 @@
     "is_implicit": false,
     "video_id": "W3PntRcIyj0",
     "start_time": 1184.1399536132812,
-    "end_time": 1251.0199966430664
+    "end_time": 1251.0199966430664,
+    "point_summary": "God's earlier command to Elijah in 1 Kings 19:15 to anoint Hazael king over Syria finds its fulfillment now in 2 Kings 8, confirming the long-range reliability of divine prophecy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1394,7 +1646,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2143.300018310547,
-    "end_time": 2201.9400024414062
+    "end_time": 2201.9400024414062,
+    "point_summary": "Solomon's marriage to Edomite women, listed among his many foreign wives in 1 Kings 11:1, is cited as one link in the ongoing thread of Edomite interaction with Israel across successive kings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1405,7 +1659,9 @@
     "is_implicit": false,
     "video_id": "Wiu68PR_4NQ",
     "start_time": 2201.9400024414062,
-    "end_time": 2265.3800048828125
+    "end_time": 2265.3800048828125,
+    "point_summary": "God's judgment on Solomon for his idolatry, provoked by his Edomite and other foreign wives, resulted in the Lord raising up Hadad the Edomite as an adversary against him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1416,7 +1672,9 @@
     "is_implicit": true,
     "video_id": "x8DoFdgJ9qA",
     "start_time": 1815.900029182434,
-    "end_time": 1888.2200317382812
+    "end_time": 1888.2200317382812,
+    "point_summary": "Elijah's collapse into despair shortly after his greatest triumph in 1 Kings illustrates that even the spiritually strong can become weak and need others to come alongside them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1427,7 +1685,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 0.0,
-    "end_time": 64.23999786376953
+    "end_time": 64.23999786376953,
+    "point_summary": "God's care for his children, illustrated through the events of 1 Kings 17, is presented as evidence of his surpassing greatness — a greatness that exceeds all human comprehension yet remains personally knowable.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1438,7 +1698,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 64.23999786376953,
-    "end_time": 125.55999755859375
+    "end_time": 125.55999755859375,
+    "point_summary": "God's care for his children, illustrated in the Elijah narrative of 1 Kings 17, is presented as a window into his greatness—because a God who cares is a great God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1449,7 +1711,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 195.75999450683594,
-    "end_time": 258.9599914550781
+    "end_time": 258.9599914550781,
+    "point_summary": "God's unlimited, personal care for every believer is illustrated in 1 Kings 17 through His specific provision for Elijah at Cherith—directing ravens to bring food and the brook to supply water—demonstrating that divine care is both global and intimate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1460,7 +1724,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 258.9599914550781,
-    "end_time": 323.3999938964844
+    "end_time": 323.3999938964844,
+    "point_summary": "God's miraculous provision of bread and flesh through ravens twice daily at Cherith demonstrates His intimate, personal care for His people, even overriding the natural instincts of scavenger birds.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1471,7 +1737,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 258.9599914550781,
-    "end_time": 323.3999938964844
+    "end_time": 323.3999938964844,
+    "point_summary": "The drying of the brook at Cherith was no surprise to God, who had himself decreed the drought, and its failure became the occasion for fresh divine direction rather than divine neglect.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1482,7 +1750,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 323.3999938964844,
-    "end_time": 386.7200012207031
+    "end_time": 386.7200012207031,
+    "point_summary": "God's renewed word to Elijah after the brook dried up demonstrates that divine provision does not end when one source fails, because God always has a plan for his people individually.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1493,7 +1763,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 323.3999938964844,
-    "end_time": 386.7200012207031
+    "end_time": 386.7200012207031,
+    "point_summary": "God's command to Elijah—\"Get thee to Zarephath\"—is presented as evidence that God always has a plan, both for the ages and for his people individually.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1504,7 +1776,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 586.3800048828125,
-    "end_time": 649.2599868774414
+    "end_time": 649.2599868774414,
+    "point_summary": "Jezebel's slaughter of the Lord's prophets and Obadiah's covert rescue of a hundred of them establish that Elijah was a marked man living under active, state-sponsored persecution.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1515,7 +1789,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 586.3800048828125,
-    "end_time": 649.2599868774414
+    "end_time": 649.2599868774414,
+    "point_summary": "Obadiah's rehearsal of hiding a hundred prophets from Jezebel establishes that Elijah operated as a marked man in a kingdom actively hunting and killing the Lord's servants.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1526,7 +1802,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 649.2599868774414,
-    "end_time": 713.6399841308594
+    "end_time": 713.6399841308594,
+    "point_summary": "Ahab's exhaustive, oath-backed international manhunt for Elijah—searching every nation and kingdom—establishes that Elijah traveled to Zarephath as a fugitive whose life was in constant danger.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1537,7 +1815,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1231.7000045776367,
-    "end_time": 1305.8400039672852
+    "end_time": 1305.8400039672852,
+    "point_summary": "Elijah's request for bread in verse 11 reveals the full extent of what God was asking the widow to provide — not just water, but her last remaining food.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1548,7 +1828,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1231.7000045776367,
-    "end_time": 1305.8400039672852
+    "end_time": 1305.8400039672852,
+    "point_summary": "The widow's confession in verse 12 reveals the desperate scarcity of her condition — only a handful of meal and a little oil remaining — making her the unlikely and seemingly impossible vessel God had appointed to sustain Elijah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1559,7 +1841,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1381.240005493164,
-    "end_time": 1460.4599914550781
+    "end_time": 1460.4599914550781,
+    "point_summary": "Elijah's seemingly self-serving command—\"make me a cake first\"—was not selfishness but confident trust in God's specific promise that the widow would sustain him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1570,7 +1854,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1381.240005493164,
-    "end_time": 1460.4599914550781
+    "end_time": 1460.4599914550781,
+    "point_summary": "God's promise through Elijah that the meal and oil would not fail until rain came grounded Elijah's bold request in divine provision, not selfishness — he was trusting a specific word from God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1581,7 +1867,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 1751.6199951171875,
-    "end_time": 1822.6399993896484
+    "end_time": 1822.6399993896484,
+    "point_summary": "God's sustaining power is displayed in the miraculous, ongoing provision of meal and oil across many days, fulfilling precisely what He had spoken through Elijah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1592,7 +1880,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 2091.239990234375,
-    "end_time": 2172.7000122070312
+    "end_time": 2172.7000122070312,
+    "point_summary": "God's unlimited care for his people is evidenced in 1 Kings 17, where he provides Elijah specific direction and provision even after the brook dries up, demonstrating nothing is too hard for him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1603,7 +1893,9 @@
     "is_implicit": false,
     "video_id": "XEMRceIDqSo",
     "start_time": 2175.3999938964844,
-    "end_time": 2259.1799926757812
+    "end_time": 2259.1799926757812,
+    "point_summary": "God's supernatural provision of unending meal and oil for Elijah, the widow, and her son demonstrates that the unlimited God faithfully fulfills his word to care for his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1614,7 +1906,9 @@
     "is_implicit": false,
     "video_id": "XvhHqfgy1Xg",
     "start_time": 476.239990234375,
-    "end_time": 555.0399780273438
+    "end_time": 555.0399780273438,
+    "point_summary": "Ethan the Ezraite's mention alongside Solomon in 1 Kings 4:31 establishes his exceptional wisdom and lends weight to his authorship of Psalm 89 as a credible, Spirit-gifted instructor of God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1625,7 +1919,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 1209.9599924087524,
-    "end_time": 1278.4399948120117
+    "end_time": 1278.4399948120117,
+    "point_summary": "The miracles of Elijah in 1 Kings 17–18 are held up as evidence that biblical faith must move from proclamation to practice, or there is no account to record.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1636,7 +1932,9 @@
     "is_implicit": false,
     "video_id": "Y0-l4gNtmLw",
     "start_time": 1209.9599924087524,
-    "end_time": 1278.4399948120117
+    "end_time": 1278.4399948120117,
+    "point_summary": "The Mount Carmel confrontation in 1 Kings 18 is cited as evidence that Elijah's miraculous stand required him to act on what he proclaimed, illustrating that faith must move from confession to practice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1647,7 +1945,9 @@
     "is_implicit": false,
     "video_id": "Z5mR0aZmD9U",
     "start_time": 2162.5599670410156,
-    "end_time": 2230.47998046875
+    "end_time": 2230.47998046875,
+    "point_summary": "Refusing to answer Elijah's challenge between God and Baal is itself a choice — silence and delay constitute a decision against responding to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1658,7 +1958,9 @@
     "is_implicit": false,
     "video_id": "EYFIfx9U54k",
     "start_time": 645.7999877929688,
-    "end_time": 700.7999877929688
+    "end_time": 700.7999877929688,
+    "point_summary": "Elijah's prayer in 1 Kings 17–18, cited by James as the model of effectual, fervent prayer, stands as part of the Old Testament's broader record of answered prayer that informed Paul's own commitment to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1669,7 +1971,9 @@
     "is_implicit": false,
     "video_id": "EYFIfx9U54k",
     "start_time": 645.7999877929688,
-    "end_time": 700.7999877929688
+    "end_time": 700.7999877929688,
+    "point_summary": "Elijah's prayer in 1 Kings 17–18, cited by James as the model of effectual, fervent prayer, stands as one of the Old Testament's recorded examples of answered prayer that informed Paul's own commitment to prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1680,7 +1984,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 648.8799705505371,
-    "end_time": 710.6799697875977
+    "end_time": 710.6799697875977,
+    "point_summary": "Elijah's sudden 25-word declaration of drought in 1 Kings 17:1 illustrates that famine is an instrument of divine judgment against national wickedness, confirming God's sovereign control over rain and harvest.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1691,7 +1997,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 648.8799705505371,
-    "end_time": 710.6799697875977
+    "end_time": 710.6799697875977,
+    "point_summary": "The wickedness of Ahab's reign in 1 Kings 16 provides the backdrop for understanding the drought declared in 1 Kings 17:1 as an act of divine judgment against Israel's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1702,7 +2010,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 710.6799697875977,
-    "end_time": 815.3999633789062
+    "end_time": 815.3999633789062,
+    "point_summary": "Elijah's 25-word declaration in 1 Kings 17:1 is presented as a paradigm case of famine as divine judgment, directly tied to Ahab's unprecedented wickedness in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1713,7 +2023,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 710.6799697875977,
-    "end_time": 815.3999633789062
+    "end_time": 815.3999633789062,
+    "point_summary": "Famine in 1 Kings 18:1 is presented as the direct consequence of divine judgment, fulfilling Elijah's declaration that rain would cease because of Israel's wickedness under Ahab.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1724,7 +2036,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 710.6799697875977,
-    "end_time": 815.3999633789062
+    "end_time": 815.3999633789062,
+    "point_summary": "Famine in Israel under Ahab is presented as direct divine judgment upon national wickedness, with Elijah's prophetic word withholding rain serving as the instrument of that judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1735,7 +2049,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 710.6799697875977,
-    "end_time": 815.3999633789062
+    "end_time": 815.3999633789062,
+    "point_summary": "Elijah's 25-word declaration in 1 Kings 17:1 is presented as a direct instance of famine functioning as divine judgment against Ahab's unprecedented wickedness in Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1746,7 +2062,9 @@
     "is_implicit": true,
     "video_id": "EmHoC0CRw6w",
     "start_time": 815.3999633789062,
-    "end_time": 880.3599853515625
+    "end_time": 880.3599853515625,
+    "point_summary": "Elijah's declaration in 1 Kings 18:18 establishes that famine is not the prophet's doing but the direct consequence of Israel's forsaking God's commandments under Ahab's leadership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1757,7 +2075,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 1847.9199829101562,
-    "end_time": 1938.9199829101562
+    "end_time": 1938.9199829101562,
+    "point_summary": "Solomon's request for wisdom in 1 Kings 3 is presented as a living illustration of the believer's need to seek God's wisdom rather than relying on human understanding when facing great responsibility.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1768,7 +2088,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 1847.9199829101562,
-    "end_time": 1938.9199829101562
+    "end_time": 1938.9199829101562,
+    "point_summary": "Solomon's experience of God inviting him to ask for anything illustrates the sermon's call to seek divine wisdom directly from God, as James 1:5 instructs.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1779,7 +2101,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1938.9199829101562,
-    "end_time": 1996.9199829101562
+    "end_time": 1996.9199829101562,
+    "point_summary": "Solomon's response to God's open-ended offer — acknowledging he lacked wisdom to lead — illustrates the posture James 1:5 calls believers to: recognizing personal insufficiency and asking God directly for wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1790,7 +2114,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1938.9199829101562,
-    "end_time": 1996.9199829101562
+    "end_time": 1996.9199829101562,
+    "point_summary": "Solomon's response to God's open-ended offer — acknowledging \"I am but a little child, I know not how to go out or come in\" — illustrates the posture of recognizing one's own lack of wisdom before asking God to supply it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1801,7 +2127,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1996.9199829101562,
-    "end_time": 2063.9199829101562
+    "end_time": 2063.9199829101562,
+    "point_summary": "God's open invitation to Solomon — \"Ask what I shall give thee\" — illustrates that when believers acknowledge their lack of wisdom and ask God for it, such a request pleases Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1812,7 +2140,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1996.9199829101562,
-    "end_time": 2063.9199829101562
+    "end_time": 2063.9199829101562,
+    "point_summary": "Solomon's confession in 1 Kings 3:7 — \"I am but a little child, I know not how to go out or come in\" — is presented as a model acknowledgment of personal inadequacy and lack of wisdom before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1823,7 +2153,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1996.9199829101562,
-    "end_time": 2063.9199829101562
+    "end_time": 2063.9199829101562,
+    "point_summary": "Solomon's confession in 1 Kings 3:8 — that he stood amid a great and unnumbered people he could not lead alone — illustrates the self-aware acknowledgment of inadequacy that James 1:5 calls believers to bring before God in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1834,7 +2166,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1996.9199829101562,
-    "end_time": 2063.9199829101562
+    "end_time": 2063.9199829101562,
+    "point_summary": "Solomon's request for an understanding heart to judge God's people illustrates the posture James 1:5 calls for: acknowledging one's lack of wisdom and asking God directly to supply it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1845,7 +2179,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 1996.9199829101562,
-    "end_time": 2063.9199829101562
+    "end_time": 2063.9199829101562,
+    "point_summary": "Asking God for wisdom—rather than wealth or honor—pleased the Lord, illustrating that God is not bothered by such requests but is troubled when we fail to make them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1856,7 +2192,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2063.9199829101562,
-    "end_time": 2136.9199829101562
+    "end_time": 2136.9199829101562,
+    "point_summary": "Solomon's request for wisdom above long life or riches so pleased God that it stands as the model for what James 1:5 promises—God gives wisdom generously to those who ask.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1867,7 +2205,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2136.9199829101562,
-    "end_time": 2199.9199829101562
+    "end_time": 2199.9199829101562,
+    "point_summary": "God's pleasure in Solomon's request is highlighted by what Solomon did *not* ask for—long life, riches, or vengeance—choosing instead understanding to discern judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1878,7 +2218,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2136.9199829101562,
-    "end_time": 2199.9199829101562
+    "end_time": 2199.9199829101562,
+    "point_summary": "God's response to Solomon's request for wisdom — granting not only an unparalleled wise and understanding heart but also the riches and honor Solomon never asked for — illustrates that seeking wisdom first brings blessings beyond what was requested.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1889,7 +2231,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2199.9199829101562,
-    "end_time": 2251.9199829101562
+    "end_time": 2251.9199829101562,
+    "point_summary": "God's pleasure with Solomon's request for wisdom rather than wealth or long life led Him to grant those very things as an unrequested bonus, illustrating that seeking wisdom first results in additional blessings.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1900,7 +2244,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2199.9199829101562,
-    "end_time": 2251.9199829101562
+    "end_time": 2251.9199829101562,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1911,7 +2257,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2199.9199829101562,
-    "end_time": 2251.9199829101562
+    "end_time": 2251.9199829101562,
+    "point_summary": "Solomon's awakening from the dream and his immediate worship before the ark illustrates that God's gift of wisdom was received and responded to in reverent gratitude before it was ever put to use.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1922,7 +2270,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2199.9199829101562,
-    "end_time": 2251.9199829101562
+    "end_time": 2251.9199829101562,
+    "point_summary": "Solomon's request for wisdom to govern God's people is immediately tested by the arrival of two harlots with an unresolvable dispute, illustrating that divine wisdom is given for the practical work of rendering judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1933,7 +2283,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2199.9199829101562,
-    "end_time": 2251.9199829101562
+    "end_time": 2251.9199829101562,
+    "point_summary": "Solomon's request for an understanding heart to discern judgment—rather than long life, riches, or vengeance—is presented as the model of wisdom-seeking that pleased God and resulted in blessing beyond what was asked.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1944,7 +2296,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2251.9199829101562,
-    "end_time": 2306.9199829101562
+    "end_time": 2306.9199829101562,
+    "point_summary": "God's gift of wisdom to Solomon is immediately tested by an impossible human dispute, illustrating that divine wisdom is given precisely for the real, unsolvable situations life brings before us.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1955,7 +2309,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2251.9199829101562,
-    "end_time": 2306.9199829101562
+    "end_time": 2306.9199829101562,
+    "point_summary": "Wisdom given by God is immediately tested by an impossible human dispute, illustrating why Solomon needed divine understanding rather than natural discernment to judge rightly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1966,7 +2322,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2251.9199829101562,
-    "end_time": 2306.9199829101562
+    "end_time": 2306.9199829101562,
+    "point_summary": "Verse 18 establishes the closed, witness-free setting of the two women's dispute, framing the impossible judgment Solomon faces as the immediate test of the God-given wisdom he had just received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1977,7 +2335,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2251.9199829101562,
-    "end_time": 2306.9199829101562
+    "end_time": 2306.9199829101562,
+    "point_summary": "Wisdom's necessity is illustrated by the impossible dispute Solomon faced—a dead child, a living child, two conflicting claims, and no human means of discernment apart from God-given wisdom.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1988,7 +2348,9 @@
     "is_implicit": true,
     "video_id": "6l5bpUvCEko",
     "start_time": 2306.9199829101562,
-    "end_time": 2372.9199829101562
+    "end_time": 2372.9199829101562,
+    "point_summary": "Solomon's command to divide the living child—wisdom no human mind would naturally devise—illustrates that God-given wisdom produces discernment beyond ordinary human reasoning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -1999,7 +2361,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2372.9199829101562,
-    "end_time": 2439.699981689453
+    "end_time": 2439.699981689453,
+    "point_summary": "Solomon's God-given wisdom—asked for before the crisis arose—exposed the true mother through her instinctive, self-sacrificing love, a discernment no human strategy could have produced.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2010,7 +2374,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2439.699981689453,
-    "end_time": 2512.0599822998047
+    "end_time": 2512.0599822998047,
+    "point_summary": "Solomon's wise verdict in 1 Kings 3:27 is presented as a direct demonstration that God-given wisdom, received simply by asking, was visibly at work in him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2021,7 +2387,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2439.699981689453,
-    "end_time": 2512.0599822998047
+    "end_time": 2512.0599822998047,
+    "point_summary": "Solomon's God-given wisdom, publicly recognized as divine rather than human in origin, illustrates that wisdom received through asking God brings observable, judgment-executing results that glorify God, not the recipient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2032,7 +2400,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2439.699981689453,
-    "end_time": 2512.0599822998047
+    "end_time": 2512.0599822998047,
+    "point_summary": "Solomon's God-given wisdom in resolving the disputed child (1 Kings 3:26–28) illustrates James 1's principle that divine wisdom, visibly distinct from human reasoning, is obtained simply by asking God for it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2043,7 +2413,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2512.0599822998047,
-    "end_time": 2573.8999786376953
+    "end_time": 2573.8999786376953,
+    "point_summary": "God's gift of wisdom to Solomon—described as exceeding much and vast as the sand of the seashore—illustrates the James 1 principle that wisdom comes by asking God, not by human effort or understanding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2054,7 +2426,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2637.5399780273438,
-    "end_time": 2699.6599731445312
+    "end_time": 2699.6599731445312,
+    "point_summary": "God's gift of wisdom to Solomon in 1 Kings 4:29 illustrates that divine wisdom surpasses all human understanding, standing in direct contrast to the counsel the world offers on finances, marriage, and family.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2065,7 +2439,9 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 2637.5399780273438,
-    "end_time": 2699.6599731445312
+    "end_time": 2699.6599731445312,
+    "point_summary": "Solomon's surpassing wisdom over all men is cited as direct evidence that God-given wisdom is categorically different from the world's counsel on finances, marriage, and family.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2076,7 +2452,9 @@
     "is_implicit": true,
     "video_id": "rXhiTENJuQQ",
     "start_time": 1891.7799835205078,
-    "end_time": 1955.0599822998047
+    "end_time": 1955.0599822998047,
+    "point_summary": "Elijah's complaint \"I am the only one\" illustrates the isolating discouragement believers can feel, which Paul counters by assuring the Corinthians that other saints stand with them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2087,7 +2465,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 794.02001953125,
-    "end_time": 852.1400146484375
+    "end_time": 852.1400146484375,
+    "point_summary": "Widow of Zarephath's confession of having only a handful of meal and a little oil illustrates how material lack can bring God's people to the edge of despair.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2098,7 +2478,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 794.02001953125,
-    "end_time": 852.1400146484375
+    "end_time": 852.1400146484375,
+    "point_summary": "Elijah's request to the widow of Zarephath in a time of famine illustrates how material lack can produce discouragement, even to the point of despair, among God's people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2109,7 +2491,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 852.1400146484375,
-    "end_time": 919.52001953125
+    "end_time": 919.52001953125,
+    "point_summary": "The widow of Zarephath's declaration that she would cook her last meal and die illustrates how material lack can produce profound discouragement even among those within the sphere of God's providential care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2120,7 +2504,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 852.1400146484375,
-    "end_time": 919.52001953125
+    "end_time": 919.52001953125,
+    "point_summary": "The widow of Zarephath's declaration that she had only a handful of meal and planned to eat it and die illustrates how material lack can bring deep discouragement even among those within God's providential care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2131,7 +2517,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 852.1400146484375,
-    "end_time": 919.52001953125
+    "end_time": 919.52001953125,
+    "point_summary": "The widow of Zarephath's declaration that she had only a handful of meal and planned to eat it and die illustrates how material lack can produce profound discouragement even among those within God's providential care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2142,7 +2530,9 @@
     "is_implicit": true,
     "video_id": "lReYV18RAeg",
     "start_time": 852.1400146484375,
-    "end_time": 919.52001953125
+    "end_time": 919.52001953125,
+    "point_summary": "The widow of Zarephath's declaration that she had only a handful of meal and planned to eat it and die illustrates how material lack can produce deep discouragement even among those within God's providential care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "1 Kings",
@@ -2153,6 +2543,8 @@
     "is_implicit": false,
     "video_id": "lReYV18RAeg",
     "start_time": 986.8800354003906,
-    "end_time": 1043.8800354003906
+    "end_time": 1043.8800354003906,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

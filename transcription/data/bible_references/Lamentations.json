@@ -8,7 +8,9 @@
     "is_implicit": true,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1404.4399871826172,
-    "end_time": 1471.0
+    "end_time": 1471.0,
+    "point_summary": "God's faithfulness, affirmed throughout Scripture, is anchored in Lamentations 3 by setting the familiar passage within its context of Judah's captivity and Jerusalem's ruins.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -19,7 +21,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1471.0,
-    "end_time": 1547.1799926757812
+    "end_time": 1547.1799926757812,
+    "point_summary": "Even in the ruins of Jerusalem, Jeremiah's remembrance of affliction gives way to hope grounded in mercies that are new every morning—declaring God's faithfulness independent of human faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -30,7 +34,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1471.0,
-    "end_time": 1547.1799926757812
+    "end_time": 1547.1799926757812,
+    "point_summary": "Even amid the ruins of Jerusalem, Jeremiah's deliberate act of recalling God's mercies to mind becomes the ground of hope, illustrating that divine faithfulness is not contingent on human faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -41,7 +47,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1471.0,
-    "end_time": 1547.1799926757812
+    "end_time": 1547.1799926757812,
+    "point_summary": "Even amid the ruins of Jerusalem, Jeremiah's declaration that God's mercies are new every morning establishes that divine faithfulness is not contingent on human faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -52,7 +60,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1471.0,
-    "end_time": 1547.1799926757812
+    "end_time": 1547.1799926757812,
+    "point_summary": "Even amid national ruin and personal anguish, God's mercies renew each morning—demonstrating that His faithfulness is not contingent on human faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -63,7 +73,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1471.0,
-    "end_time": 1547.1799926757812
+    "end_time": 1547.1799926757812,
+    "point_summary": "God's faithfulness, declared amid Jerusalem's ruins in Lamentations 3:24, is shown to be unconditional—not contingent on human faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -74,7 +86,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1547.1799926757812,
-    "end_time": 1607.0
+    "end_time": 1607.0,
+    "point_summary": "God's faithfulness to His people is not contingent on their faithfulness to Him, a truth drawn from Lamentations 3:25's surrounding context to contrast Abraham's fear-driven failure with God's unwavering character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -85,7 +99,9 @@
     "is_implicit": false,
     "video_id": "a8Z2gxOlMKc",
     "start_time": 1547.1799926757812,
-    "end_time": 1607.0
+    "end_time": 1607.0,
+    "point_summary": "God's faithfulness to His people is not contingent on their faithfulness to Him, a truth drawn from Lamentations 3:23 to frame Abraham's failure in Genesis 20 against the backdrop of divine constancy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -96,7 +112,9 @@
     "is_implicit": true,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "Lamentations 3:55, often overshadowed by the familiar mercy verses, shows Jeremiah calling on God's name from the lowest extremity — modeling the very act of prayer the sermon commends.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -107,7 +125,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -118,7 +138,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -129,7 +151,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -140,7 +164,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Even from the depths of a \"low dungeon,\" God hears the cry of His people and draws near with the reassurance \"fear not,\" demonstrating His accessibility in overwhelming circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -151,7 +177,9 @@
     "is_implicit": false,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "God's nearness in answered prayer brings the reassurance \"fear not,\" countering the fear that overwhelming circumstances can produce in His people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -162,7 +190,9 @@
     "is_implicit": true,
     "video_id": "Byn6kSjmOVQ",
     "start_time": 1109.760009765625,
-    "end_time": 1177.4199829101562
+    "end_time": 1177.4199829101562,
+    "point_summary": "Jeremiah's cry from the low dungeon and God's answering nearness with \"fear not\" illustrate that God hears and draws close to His people in prayer, even in overwhelming circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -173,7 +203,9 @@
     "is_implicit": false,
     "video_id": "ecW69mkE0VU",
     "start_time": 1394.6600036621094,
-    "end_time": 1456.4599914550781
+    "end_time": 1456.4599914550781,
+    "point_summary": "Self-examination as a pathway to repentance is grounded in a biblical pattern, with Lamentations 3:40 cited as one of many calls to search one's ways and turn again to the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -184,7 +216,9 @@
     "is_implicit": true,
     "video_id": "EOBB4xsyduY",
     "start_time": 610.379997253418,
-    "end_time": 674.3999938964844
+    "end_time": 674.3999938964844,
+    "point_summary": "God's faithfulness is not partial or developing but constant, dependable, and trustworthy, as Jeremiah's declaration in Lamentations anchors the sermon's third attribute of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -195,7 +229,9 @@
     "is_implicit": false,
     "video_id": "EOBB4xsyduY",
     "start_time": 674.3999938964844,
-    "end_time": 738.7200012207031
+    "end_time": 738.7200012207031,
+    "point_summary": "God's faithfulness, declared by Jeremiah in Lamentations 3:25 as \"great is thy faithfulness,\" means He is constant, dependable, and trustworthy—never becoming faithful, but always so by nature.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -206,7 +242,9 @@
     "is_implicit": false,
     "video_id": "iT8pxOgIv0A",
     "start_time": 1468.5599670410156,
-    "end_time": 1536.5599670410156
+    "end_time": 1536.5599670410156,
+    "point_summary": "God's faithfulness, celebrated in Lamentations 3:23 and echoed in the hymn \"Great Is Thy Faithfulness,\" is the very ground on which believers can hold their confession without wavering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -217,7 +255,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 967.6799926757812,
-    "end_time": 1033.239990234375
+    "end_time": 1033.239990234375,
+    "point_summary": "Lamentations 3:55, often overshadowed by the familiar mercy verses, shows Jeremiah crying out to God from the lowest extremity — modeling the very act of calling upon God's name in desperate circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -228,7 +268,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -239,7 +281,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -250,7 +294,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -261,7 +307,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "Even from the lowest depths of despair, God hears the cry of his people and draws near with the assurance \"fear not,\" demonstrating that he is a present help in trouble.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -272,7 +320,9 @@
     "is_implicit": false,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1033.239990234375,
-    "end_time": 1109.760009765625
+    "end_time": 1109.760009765625,
+    "point_summary": "God's nearness in answered prayer brings the reassurance \"fear not,\" countering the fear that overwhelming circumstances can produce in his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -283,7 +333,9 @@
     "is_implicit": true,
     "video_id": "LWRF1zxBaOM",
     "start_time": 1109.760009765625,
-    "end_time": 1177.4199829101562
+    "end_time": 1177.4199829101562,
+    "point_summary": "Jeremiah's cry from the low dungeon and God's answering nearness with \"fear not\" illustrate that God hears and draws close to His people in their most overwhelming circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -294,7 +346,9 @@
     "is_implicit": true,
     "video_id": "M95WZQin3TU",
     "start_time": 1860.599952697754,
-    "end_time": 1955.719955444336
+    "end_time": 1955.719955444336,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -305,7 +359,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 978.6200256347656,
-    "end_time": 1054.7400207519531
+    "end_time": 1054.7400207519531,
+    "point_summary": "Recalling God's mercies to mind — as Jeremiah did amid Babylon's devastation — is the very act that produces hope, mirroring Moses' deliberate recollection of God's revealed character in Numbers 14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -316,7 +372,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 978.6200256347656,
-    "end_time": 1054.7400207519531
+    "end_time": 1054.7400207519531,
+    "point_summary": "Recalling God's mercies to mind — as Jeremiah did amid Babylonian devastation — is presented as the very act that sustains hope when circumstances seem to argue against it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -327,7 +385,9 @@
     "is_implicit": false,
     "video_id": "N3xsGpOdIxU",
     "start_time": 978.6200256347656,
-    "end_time": 1054.7400207519531
+    "end_time": 1054.7400207519531,
+    "point_summary": "God's mercies being \"new every morning\" is cited as the ground of hope that Jeremiah deliberately recalled to his mind amid lamentation, paralleling Moses' recollection of God's revealed character in Numbers 14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -338,7 +398,9 @@
     "is_implicit": false,
     "video_id": "pYLTkv5zKls",
     "start_time": 557.9199829101562,
-    "end_time": 626.0400047302246
+    "end_time": 626.0400047302246,
+    "point_summary": "Seeing a need firsthand—what passes through the \"eye gate\"—affects the heart in a way that secondhand reports cannot, just as Nehemiah's night survey moved him beyond what he had merely been told.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -349,7 +411,9 @@
     "is_implicit": true,
     "video_id": "rmcjjZFliXA",
     "start_time": 2460.540008544922,
-    "end_time": 2533.300003051758
+    "end_time": 2533.300003051758,
+    "point_summary": "Faithful transmission of God's eternal Word across generations grounds the call to intentional, disciplined engagement with the generation to come, since God alone spans every generation while human influence is finite.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -360,7 +424,9 @@
     "is_implicit": false,
     "video_id": "rmcjjZFliXA",
     "start_time": 2593.9200134277344,
-    "end_time": 2666.2000122070312
+    "end_time": 2666.2000122070312,
+    "point_summary": "God's eternal throne spanning every generation grounds the urgency to intentionally pass faith to children, since the Lord endures when human mentors and parents do not.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -371,7 +437,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 66.26000213623047,
-    "end_time": 129.25999450683594
+    "end_time": 129.25999450683594,
+    "point_summary": "Jeremiah's lament over the destruction of Judah—\"for these things I weep\"—illustrates that godly sorrow expressed through tears is a legitimate and recurring biblical emotion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -382,7 +450,9 @@
     "is_implicit": false,
     "video_id": "rwlS36WfLm8",
     "start_time": 66.26000213623047,
-    "end_time": 129.25999450683594
+    "end_time": 129.25999450683594,
+    "point_summary": "Grief perceived through the eye reaches inward to move the heart, illustrating how tears are not merely physical but reflect a deep emotional and spiritual response to sorrow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -393,7 +463,9 @@
     "is_implicit": true,
     "video_id": "StOoWZioV1U",
     "start_time": 2319.5000610351562,
-    "end_time": 2405.7400732040405
+    "end_time": 2405.7400732040405,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -404,7 +476,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 2405.7400732040405,
-    "end_time": 2477.2600708007812
+    "end_time": 2477.2600708007812,
+    "point_summary": "In the depths of lament over Jerusalem's destruction, Jeremiah's deliberate act of recalling truth to mind becomes the turning point that produces hope.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -415,7 +489,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 2477.2600708007812,
-    "end_time": 2556.7600708007812
+    "end_time": 2556.7600708007812,
+    "point_summary": "Deliberately recalling God's unfailing compassions to mind—as Jeremiah did amid Jerusalem's ruin—is presented as the active, chosen act that produces hope in the midst of lament.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -426,7 +502,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 2477.2600708007812,
-    "end_time": 2556.7600708007812
+    "end_time": 2556.7600708007812,
+    "point_summary": "Recalling God's inexhaustible compassions—not consumed despite deserved judgment—is what produces hope in the midst of lament, grounding the call to trust God and pour out one's heart before Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -437,7 +515,9 @@
     "is_implicit": false,
     "video_id": "StOoWZioV1U",
     "start_time": 2477.2600708007812,
-    "end_time": 2556.7600708007812
+    "end_time": 2556.7600708007812,
+    "point_summary": "God's mercies being new every morning means that recalling this truth to mind produces hope, comfort, and expectation even amid deep lament.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -448,7 +528,9 @@
     "is_implicit": false,
     "video_id": "VXXPWmtdQok",
     "start_time": 51.31999969482422,
-    "end_time": 111.16000366210938
+    "end_time": 111.16000366210938,
+    "point_summary": "God's mercy and compassion are the sole reason believers are not consumed, and those compassions are continually renewed each morning, grounding confidence in His faithfulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -459,7 +541,9 @@
     "is_implicit": false,
     "video_id": "VXXPWmtdQok",
     "start_time": 111.16000366210938,
-    "end_time": 168.3800048828125
+    "end_time": 168.3800048828125,
+    "point_summary": "God's mercy and compassion are inexhaustible and continually renewed, so that without them humanity would be utterly consumed — a truth the preacher calls direct encouragement for those who serve a merciful God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -470,7 +554,9 @@
     "is_implicit": false,
     "video_id": "VXXPWmtdQok",
     "start_time": 111.16000366210938,
-    "end_time": 168.3800048828125
+    "end_time": 168.3800048828125,
+    "point_summary": "God's daily renewal of compassion is the ground of his faithfulness, assuring believers that his mercies are not exhausted but freshly given each morning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -481,7 +567,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 0.0,
-    "end_time": 67.08000183105469
+    "end_time": 67.08000183105469,
+    "point_summary": "Written against the backdrop of Babylon's destruction of Jerusalem, Lamentations is Jeremiah's book of mourning — its very title meaning \"to cry aloud\" — over the judgment God brought upon Judah for her sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -492,7 +580,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 67.08000183105469,
-    "end_time": 145.05999755859375
+    "end_time": 145.05999755859375,
+    "point_summary": "God's eternality and unassailable sovereignty—his throne enduring from generation to generation, never to be conquered—form the theological foundation from which Jeremiah's closing prayer in Lamentations is launched.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -503,7 +593,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 67.08000183105469,
-    "end_time": 145.05999755859375
+    "end_time": 145.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -514,7 +606,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 67.08000183105469,
-    "end_time": 145.05999755859375
+    "end_time": 145.05999755859375,
+    "point_summary": "Lamentations 5:21 is the sermon's focal verse, set within a closing prayer that acknowledges God's eternal, undefeatable reign as the foundation for Israel's plea to be restored.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -525,7 +619,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 67.08000183105469,
-    "end_time": 145.05999755859375
+    "end_time": 145.05999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -536,7 +632,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 145.05999755859375,
-    "end_time": 212.10000610351562
+    "end_time": 212.10000610351562,
+    "point_summary": "Jeremiah's prayer opens with recognition of God's eternality—that He remains forever, His throne unshaken from generation to generation, and can never be dethroned.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -547,7 +645,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 145.05999755859375,
-    "end_time": 212.10000610351562
+    "end_time": 212.10000610351562,
+    "point_summary": "Verse 20's anguished question — \"Wherefore dost thou forget us forever?\" — is read as the voice of a suffering people expressing how prolonged adversity can make God's silence feel like abandonment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -558,7 +658,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 145.05999755859375,
-    "end_time": 212.10000610351562
+    "end_time": 212.10000610351562,
+    "point_summary": "Verse 22 closes Lamentations on a stark note of divine judgment, which the sermon identifies as Jeremiah's recognition that God's wrath fell on his people as a consequence of their sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -569,7 +671,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 505.3599853515625,
-    "end_time": 569.47998046875
+    "end_time": 569.47998046875,
+    "point_summary": "Lamentations 5:21 is read as a twofold prayer: a cry for God to initiate the turning of his straying people back to himself, and a plea for the renewal of former days—linked here to the need for revival.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -580,7 +684,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 569.47998046875,
-    "end_time": 640.9999961853027
+    "end_time": 640.9999961853027,
+    "point_summary": "Lamentations 5:21 is read as a twofold prayer: a plea for God to initiate the turning back of his people, and a cry for renewal of the former days of sweet fellowship and blessing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -591,7 +697,9 @@
     "is_implicit": true,
     "video_id": "YtBFmhBhoH8",
     "start_time": 908.6799926757812,
-    "end_time": 990.8800048828125
+    "end_time": 990.8800048828125,
+    "point_summary": "The prayer \"turn thou us unto thee\" in Lamentations 5:21 is presented as a desperate petition acknowledging that genuine return to God requires divine initiative, not merely human resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -602,7 +710,9 @@
     "is_implicit": true,
     "video_id": "YtBFmhBhoH8",
     "start_time": 1282.979995727539,
-    "end_time": 1368.1399993896484
+    "end_time": 1368.1399993896484,
+    "point_summary": "Lamentations 5:21's cry \"turn thou us unto thee\" reflects that spiritual straying is the people's failure, not God's abandonment, requiring a return initiated by divine grace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -613,7 +723,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 1441.9400024414062,
-    "end_time": 1519.5799865722656
+    "end_time": 1519.5799865722656,
+    "point_summary": "Jeremiah's closing plea in Lamentations 5 — \"turn thou us unto thee, renew our days as of old\" — is read as a prayer for restored communion with God, warning against the gradual drift that cost the Ephesian church its first love.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -624,7 +736,9 @@
     "is_implicit": false,
     "video_id": "YtBFmhBhoH8",
     "start_time": 1635.5,
-    "end_time": 1723.1799926757812
+    "end_time": 1723.1799926757812,
+    "point_summary": "Revival begins with individual repentance and return to God, and Jeremiah's plea—\"Turn thou us unto thee\"—is presented as the pattern: personal renewal spreading outward to home, church, and land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -635,7 +749,9 @@
     "is_implicit": true,
     "video_id": "EYFIfx9U54k",
     "start_time": 700.7999877929688,
-    "end_time": 755.7999877929688
+    "end_time": 755.7999877929688,
+    "point_summary": "Jeremiah's experience in Lamentations 3 is cited as a concrete Old Testament example of prayer promise fulfilled—he called to God, and God answered and delivered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
     "book": "Lamentations",
@@ -646,6 +762,8 @@
     "is_implicit": false,
     "video_id": "6l5bpUvCEko",
     "start_time": 1105.4200134277344,
-    "end_time": 1171.7000122070312
+    "end_time": 1171.7000122070312,
+    "point_summary": "Jeremiah's experience in Lamentations confirms the open invitation of James 1:5—that God hears and answers when his people actually call upon him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

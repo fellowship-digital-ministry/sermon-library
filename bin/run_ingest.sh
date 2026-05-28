@@ -109,13 +109,30 @@ python tools/bible_reference_extractor.py \
 # is cheap on weekly runs (only the new sermon's refs). Uses Sonnet 4.6 by
 # default for theological nuance; override with SUMMARY_MODEL env var.
 echo ""
-echo "[7/8] generate footnote summaries for new references"
+echo "[7/10] generate footnote summaries for new references"
 python tools/generate_reference_summaries.py \
   || echo "(footnote summary generation had issues, continuing)"
 
+# --- fill publish dates for new sermons from the YouTube channel RSS ---
+# yt-dlp does not give us upload dates from this host, so we read the channel
+# Atom feed (plain HTTP, not gated). Idempotent: only fills missing dates.
+echo ""
+echo "[8/10] backfill sermon dates from channel RSS"
+python tools/backfill_dates_from_rss.py \
+  || echo "(date backfill had issues, continuing)"
+
+# --- generate catalog notes (Introduction, Themes, Section headers) ---
+# Idempotent: only sermons missing current-schema notes are processed, so a
+# weekly run touches just the new sermon(s).
+echo ""
+echo "[9/10] generate sermon notes for new transcripts"
+python tools/generate_sermon_notes.py --all --write \
+  || echo "(notes generation had issues, continuing)"
+
 # --- commit and push results ---
 echo ""
-echo "[8/8] commit & push"
+echo "[10/10] commit & push"
+TODAY=$(date -u +%Y-%m-%d)
 git add transcription/data/video_list.csv \
         transcription/data/transcripts/ \
         transcription/data/metadata/ \
@@ -125,10 +142,30 @@ git add transcription/data/video_list.csv \
 if git diff --staged --quiet; then
   echo "Nothing to commit."
 else
-  TODAY=$(date -u +%Y-%m-%d)
   git commit -m "Local ingest: $TODAY [skip ci]" \
              --author="Fellowship Ingest Bot <fellowship-ingest@local>"
   git push origin main || echo "git push failed — will retry next run"
+fi
+
+# --- rebuild + publish the static sermon catalog to the Pages repo ---
+# The public Transcripts page browses this file. It lives in a separate repo,
+# so we rebuild it from the metadata and commit/push it there too. Override the
+# location with PAGES_REPO if the checkout is elsewhere.
+echo ""
+echo "[+] rebuild + push sermon catalog (Pages repo)"
+PAGES_REPO="${PAGES_REPO:-$REPO_ROOT/../fellowship-digital-ministry.github.io}"
+if [[ -d "$PAGES_REPO/.git" ]]; then
+  python tools/build_sermon_catalog.py --out "$PAGES_REPO/assets/data/sermons_catalog.json" || true
+  git -C "$PAGES_REPO" add assets/data/sermons_catalog.json 2>/dev/null || true
+  if git -C "$PAGES_REPO" diff --staged --quiet; then
+    echo "Catalog unchanged."
+  else
+    git -C "$PAGES_REPO" commit -m "Update sermon catalog: $TODAY [skip ci]" \
+          --author="Fellowship Ingest Bot <fellowship-ingest@local>" \
+      && git -C "$PAGES_REPO" push origin main || echo "catalog push failed — will retry next run"
+  fi
+else
+  echo "Pages repo not found at $PAGES_REPO; skipping catalog rebuild."
 fi
 
 echo ""

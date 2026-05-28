@@ -1,0 +1,12 @@
+{
+  "video_id": "JfrAhHAmdbY",
+  "title": "\"God Is Able\"  Ephesians 3:20-21",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/JfrAhHAmdbY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/JfrAhHAmdbY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/JfrAhHAmdbY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/JfrAhHAmdbY.vtt",
+  "duration": 3113.0,
+  "transcription_timestamp": "2026-05-28T16:03:15.104992",
+  "model": "whisper-1"
+}

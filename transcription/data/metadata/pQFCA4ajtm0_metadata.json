@@ -1,0 +1,12 @@
+{
+  "video_id": "pQFCA4ajtm0",
+  "title": "\"Why Fret?\"  Psalm 37:1-8",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/pQFCA4ajtm0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/pQFCA4ajtm0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/pQFCA4ajtm0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/pQFCA4ajtm0.vtt",
+  "duration": 2970.0,
+  "transcription_timestamp": "2026-05-28T16:07:45.971000",
+  "model": "whisper-1"
+}

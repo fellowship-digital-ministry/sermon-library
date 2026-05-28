@@ -1,0 +1,12 @@
+{
+  "video_id": "l34E75PwB04",
+  "title": "\"I The Lord\"  Isaiah 41:17-20",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/l34E75PwB04.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/l34E75PwB04.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/l34E75PwB04.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/l34E75PwB04.vtt",
+  "duration": 1774.0,
+  "transcription_timestamp": "2026-05-28T15:49:52.179826",
+  "model": "whisper-1"
+}

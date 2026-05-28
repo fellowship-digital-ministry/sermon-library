@@ -1,0 +1,12 @@
+{
+  "video_id": "p8WzCmELTPU",
+  "title": "\"I'm Not Who I Used To Be\" - Galatians 1:23",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/p8WzCmELTPU.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/p8WzCmELTPU.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/p8WzCmELTPU.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/p8WzCmELTPU.vtt",
+  "duration": 3163.0,
+  "transcription_timestamp": "2026-05-28T16:32:50.945437",
+  "model": "whisper-1"
+}

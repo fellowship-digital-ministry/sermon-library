@@ -1,0 +1,12 @@
+{
+  "video_id": "X_Uu37pLEd0",
+  "title": "\"Meet For The Master's Use\"  II Corinthians 8:18-24",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/X_Uu37pLEd0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/X_Uu37pLEd0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/X_Uu37pLEd0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/X_Uu37pLEd0.vtt",
+  "duration": 3104.0,
+  "transcription_timestamp": "2026-05-28T16:19:32.219617",
+  "model": "whisper-1"
+}

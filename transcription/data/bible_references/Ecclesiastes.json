@@ -401,5 +401,31 @@
     "end_time": 3226.5599822998047,
     "point_summary": "Doing everything wholeheartedly \"as unto the Lord\" reframes earthly diligence as service directed toward God's eternal reward rather than temporal recognition.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 9,
+    "verse": 10,
+    "reference_text": "Ecclesiastes 9:10",
+    "context": "What's over thy hand find it to do? Do it heartily, as unto the Lord",
+    "is_implicit": true,
+    "video_id": "X_Uu37pLEd0",
+    "start_time": 1046.7999877929688,
+    "end_time": 1113.2799682617188,
+    "point_summary": "Diligence in whatever one's hand finds to do—understood here as working heartily as unto the Lord—is the mark of a Christian's reputation in the workplace and community.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 1,
+    "verse": 9,
+    "reference_text": "Ecclesiastes 1:9",
+    "context": "that's nothing new under the sun",
+    "is_implicit": true,
+    "video_id": "X_Uu37pLEd0",
+    "start_time": 1567.719970703125,
+    "end_time": 1627.1199645996094,
+    "point_summary": "The moral confusion of calling evil good and good evil is nothing new — the same corruption Isaiah and Jeremiah addressed millennia ago persists today, confirming Solomon's observation that there is nothing new under the sun.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

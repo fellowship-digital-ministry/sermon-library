@@ -7135,5 +7135,83 @@
     "end_time": 1555.6199645996094,
     "point_summary": "Finishing well requires treating each day as potentially the last, because—unlike Paul, who received divine revelation of his departure—most believers will not know when their time ends.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 5,
+    "reference_text": "1 Timothy 2:5",
+    "context": "There's one mediator between God and man. The Lord Jesus Christ.",
+    "is_implicit": true,
+    "video_id": "bmFntBlBAtY",
+    "start_time": 1706.3399658203125,
+    "end_time": 1791.8599853515625,
+    "point_summary": "Christ's sole mediatorial role means confession belongs directly to God, not to any human priest, because only Jesus can actually deal with sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "1 Timothy",
+    "context": "I know that that phrase comes from the book of Timothy, 1 Timothy",
+    "is_implicit": false,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 2671.1599731445312,
+    "end_time": 2734.0799865722656,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 1,
+    "verse": 12,
+    "reference_text": "1 Timothy 1:12-15",
+    "context": "in 1 Timothy chapter number one, in verses 12 through 15, the Bible tells us as Paul is giving his own personal testimony",
+    "is_implicit": false,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 2411.2400074005127,
+    "end_time": 2470.6200103759766,
+    "point_summary": "Christ's entrusting of the gospel ministry to Paul—a former blasphemer and persecutor—demonstrates that the same mercy and grace that saved Paul empowers believers to carry the gospel to all people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 1,
+    "verse": 12,
+    "reference_text": "1 Timothy 1:12",
+    "context": "he says this in verse number 12, and I thank Christ Jesus, our Lord, who hath enabled me, for that he counted me faithful, putting me in the ministry",
+    "is_implicit": true,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 2470.6200103759766,
+    "end_time": 2536.9000091552734,
+    "point_summary": "Paul's personal testimony of being enabled and entrusted with ministry despite his past as a blasphemer grounds the claim that the gospel has been faithfully entrusted to sinners who can go forth and preach it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 1,
+    "verse": 15,
+    "reference_text": "1 Timothy 1:15",
+    "context": "This is a faithful saying and worthy of all acceptation, that Christ Jesus came into the world to do what? To save sinners, of whom I am chief",
+    "is_implicit": true,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 2470.6200103759766,
+    "end_time": 2536.9000091552734,
+    "point_summary": "Christ's primary purpose in coming to the world was to save sinners, as Paul's personal testimony in 1 Timothy 1:15 confirms—not merely to set an example, but to die and pay for humanity's sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 1,
+    "verse": 15,
+    "reference_text": "1 Timothy 1:15",
+    "context": "he refers to himself as being the chief of sinners",
+    "is_implicit": true,
+    "video_id": "X_Uu37pLEd0",
+    "start_time": 2216.9199829101562,
+    "end_time": 2275.459991455078,
+    "point_summary": "Paul's self-description as \"chief of sinners\" is cited to illustrate his deliberate humility, refusing to let others esteem him more highly than was warranted.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

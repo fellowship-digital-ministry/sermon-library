@@ -1,0 +1,12 @@
+{
+  "video_id": "bmFntBlBAtY",
+  "title": "\"Stand In Awe, And Sin Not\"  Psalm 4:4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/bmFntBlBAtY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/bmFntBlBAtY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/bmFntBlBAtY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/bmFntBlBAtY.vtt",
+  "duration": 2891.0,
+  "transcription_timestamp": "2026-05-28T16:49:12.198608",
+  "model": "whisper-1"
+}

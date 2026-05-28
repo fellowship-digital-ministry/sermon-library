@@ -752,5 +752,57 @@
     "end_time": 1040.1400146484375,
     "point_summary": "Ezra 7:10 is cited as a parallel to Moses's obedience, illustrating the scriptural pattern of preparing one's heart to seek, do, and teach God's law.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 6,
+    "reference_text": "Ezra 7:6",
+    "context": "he was a ready scribe in the law of Moses",
+    "is_implicit": true,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 1267.7999954223633,
+    "end_time": 1331.479995727539,
+    "point_summary": "Ezra's designation as a \"ready scribe\" is traced to heart preparation—seeking, doing, and then teaching the law—offered as the model for why Philip could open his mouth and preach Christ without hesitation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 10,
+    "reference_text": "Ezra 7:10",
+    "context": "for Ezra had prepared his heart to seek the law of the Lord and to do it and to teach in Israel statutes and judgments",
+    "is_implicit": true,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 1267.7999954223633,
+    "end_time": 1331.479995727539,
+    "point_summary": "Ezra 7:10 is cited to show that readiness to preach Christ—like Philip's—flows from a heart prepared first to seek Scripture, then to live it personally, and only then to teach it to others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": null,
+    "reference_text": "Ezra 7",
+    "context": "Ezra in Ezra chapter number seven, that he was a prepared scribe, but he was a, excuse me, a ready scribe, and he prepared his heart to seek the law of the Lord in Israel and to do it, excuse me, and to teach in Israel statutes and judgments",
+    "is_implicit": true,
+    "video_id": "tgBVfpP7J7Q",
+    "start_time": 1078.7599792480469,
+    "end_time": 1150.8999633789062,
+    "point_summary": "Ezra's example establishes that faithful teaching requires prior personal study, obedience, and practice—one must first seek, do, and then teach.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ezra",
+    "chapter": 7,
+    "verse": 10,
+    "reference_text": "Ezra 7:10",
+    "context": "He had prepared his heart to seek the law of the Lord and to do it and to teach in Israel statutes and judgment according to Ezra 7 and verse 10",
+    "is_implicit": false,
+    "video_id": "8V9UQjw1Da8",
+    "start_time": 271.9800109863281,
+    "end_time": 330.8800048828125,
+    "point_summary": "Ezra's readiness for revival is grounded in a deliberate, ordered preparation—setting his heart to seek God's law, do it, and then teach it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

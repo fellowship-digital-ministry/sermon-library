@@ -687,5 +687,44 @@
     "end_time": 940.5800170898438,
     "point_summary": "Mephibosheth's self-description as a \"dead dog\" who yet receives a place at the king's table illustrates the new believer's starting point: forgiven and adopted, with nothing to offer but everything received.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": null,
+    "reference_text": "2 Samuel 12",
+    "context": "and by the way, this is after Nathan comes in 2 Samuel chapter number 12. In 2 Samuel chapter 12, Nathan the prophet God stands before David the king of Israel and says, thou art the man",
+    "is_implicit": false,
+    "video_id": "bmFntBlBAtY",
+    "start_time": 1545.5399475097656,
+    "end_time": 1624.6799621582031,
+    "point_summary": "Psalm 51's confession of sin is set in its proper narrative context: Nathan's confrontation of David in 2 Samuel 12 exposed the sin David had previously excused and covered before genuine acknowledgment became possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 7,
+    "reference_text": "2 Samuel 12:7",
+    "context": "thou art the man",
+    "is_implicit": true,
+    "video_id": "bmFntBlBAtY",
+    "start_time": 1624.6799621582031,
+    "end_time": 1706.3399658203125,
+    "point_summary": "Nathan's confrontation of David — \"Thou art the man\" — is used as a type of the Holy Spirit's convicting work, pressing specific, known sin upon the conscience and demanding genuine acknowledgment rather than evasion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "reference_text": "2 Samuel 11:3",
+    "context": "who is that woman? Bring her to me. Oh, well, she's the wife of Uriah.",
+    "is_implicit": true,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 2098.7999572753906,
+    "end_time": 2180.3599548339844,
+    "point_summary": "David's casual inquiry about Bathsheba—\"Who is that woman? Bring her to me\"—is cited as a warning sign he ignored, contrasting his moral collapse with Joseph's flight from temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

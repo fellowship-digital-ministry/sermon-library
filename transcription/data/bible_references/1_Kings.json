@@ -2546,5 +2546,18 @@
     "end_time": 1043.8800354003906,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "verse": 4,
+    "reference_text": "1 Kings 22:4",
+    "context": "Jehoshaphat comes along and he made affinity with him",
+    "is_implicit": true,
+    "video_id": "oWFAJx32eUI",
+    "start_time": 1511.9000244140625,
+    "end_time": 1575.4000244140625,
+    "point_summary": "When God's word confronts a heart that is not right, the response will be either repentance or rage — as Asa's wrathful imprisonment of the prophet Hanani illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

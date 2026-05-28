@@ -1,0 +1,12 @@
+{
+  "video_id": "rfig1qBBXnc",
+  "title": "\"If I Regard Iniquity In My Heart\"  Psalm 66:18-20",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/rfig1qBBXnc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/rfig1qBBXnc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rfig1qBBXnc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rfig1qBBXnc.vtt",
+  "duration": 2552.0,
+  "transcription_timestamp": "2026-05-28T16:15:06.207976",
+  "model": "whisper-1"
+}

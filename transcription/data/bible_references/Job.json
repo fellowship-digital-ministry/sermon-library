@@ -1181,5 +1181,83 @@
     "end_time": 1324.599998474121,
     "point_summary": "Job 1:1 is invoked as a perspective-giving example of extreme suffering, with the point that reading Job's trials reframes one's own hardships and illustrates the \"patience\" (steadfast endurance) James commends.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 10,
+    "reference_text": "Job 1:10",
+    "context": "hast not thou made an hedge about him and about his house and all that he hath on every side",
+    "is_implicit": false,
+    "video_id": "m6f-OuI_HiA",
+    "start_time": 1783.7000122070312,
+    "end_time": 1858.0200500488281,
+    "point_summary": "Even Satan's own words in Job 1:10 acknowledge that it is God alone who hedges, blesses, and increases a man's substance — confirming that all material prosperity originates with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 10,
+    "reference_text": "Job 1:10",
+    "context": "thou hast blessed the work of his hands and his substance is increased in the land",
+    "is_implicit": false,
+    "video_id": "m6f-OuI_HiA",
+    "start_time": 1783.7000122070312,
+    "end_time": 1858.0200500488281,
+    "point_summary": "Even Satan's accusation in Job 1:10 concedes that it is God alone who blesses a man's work and increases his substance, confirming that all material prosperity originates with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 12,
+    "reference_text": "Job 1:12",
+    "context": "You read the book of Job and the devil had to get permission, amen? He had to get permission to go after Job.",
+    "is_implicit": true,
+    "video_id": "e396uX_Hgc0",
+    "start_time": 1856.299976348877,
+    "end_time": 1928.0599746704102,
+    "point_summary": "Satan's power over God's people is bounded by divine permission, as illustrated by God's limiting directives to the devil concerning Job.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "Job 14:1",
+    "context": "Man that is born of woman is few days and full of trouble",
+    "is_implicit": true,
+    "video_id": "HG36S98Hbgk",
+    "start_time": 2115.699981689453,
+    "end_time": 2192.939971923828,
+    "point_summary": "Human frailty and trouble are assumed realities of life, making the call to praise God continually—even amid difficulties—all the more striking by contrast.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Job",
+    "context": "Have you ever read the book of Job?",
+    "is_implicit": false,
+    "video_id": "NfR3xsE5fDc",
+    "start_time": 940.97998046875,
+    "end_time": 1013.0599670410156,
+    "point_summary": "Job's relentless succession of bad news serves as the benchmark for worst-case circumstances, against which God remains worthy of praise regardless of the difficulty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "Job 14:1",
+    "context": "But man that is born of woman is a few days and full of trouble",
+    "is_implicit": true,
+    "video_id": "NfR3xsE5fDc",
+    "start_time": 1314.2599716186523,
+    "end_time": 1376.5399780273438,
+    "point_summary": "Job 14:1's description of human life as \"few days and full of trouble\" grounds the call to offer continual praise as a *sacrifice*—costly precisely because earthly circumstances are not \"continually glorious.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

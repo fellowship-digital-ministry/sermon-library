@@ -1,0 +1,12 @@
+{
+  "video_id": "HG36S98Hbgk",
+  "title": "\"In Heaven - Part Three\"   Revelation 4:6-8",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/HG36S98Hbgk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/HG36S98Hbgk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/HG36S98Hbgk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/HG36S98Hbgk.vtt",
+  "duration": 2335.0,
+  "transcription_timestamp": "2026-05-28T16:52:51.861296",
+  "model": "whisper-1"
+}

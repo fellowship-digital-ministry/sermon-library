@@ -9,15 +9,21 @@
   "duration": 2475,
   "transcription_timestamp": "2025-04-17T14:35:20.472315",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "A verse-by-verse study of Genesis 12:1-9, tracing Abram's journey from Haran to Canaan and examining the instruction God gave him, the promises of the Abrahamic Covenant, and the record of Abram's obedience summarized in the three words 'So Abram departed.'",
+    "introduction": "A verse-by-verse exposition of Genesis 12:1-9, tracing Abram's departure from Haran to Canaan, the instruction God gave him, the promises of the Abrahamic Covenant, and the record of his obedience and worship along the journey.",
     "outline": [
-      "I. The Instruction Received (v. 1) — God had spoken to Abram while still in Ur (cf. Acts 7:1-4); Haran was not the final destination; upon Terah's death God renewed the call to leave and go to the land He would show him.",
-      "II. The Promises Rehearsed (vv. 2-3) — Unconditional 'I will' promises of the Abrahamic Covenant: (1) I will make of thee a great nation; (2) I will bless thee and make thy name great; (3) thou shalt be a blessing; (4) I will bless them that bless thee and curse him that curseth thee; (5) in thee shall all families of the earth be blessed — fulfilled through the seed, Jesus Christ (Gen. 22:18; Gal. 3:6-18).",
-      "III. Abram's Obedience Recorded (vv. 4-9) — Abram departed at age 75 with Sarai, Lot, and all their substance; traveled to Shechem/plain of Moreh where the Lord appeared and promised the land to his seed; Abram built an altar and worshiped; moved to the mountain between Bethel and Ai, built another altar, and called upon the name of the Lord; journeyed on still toward the south (cf. Heb. 11:8-10)."
+      "I. The Instruction Received: God's call to Abram to leave for a land He would show him (v. 1), with reference to Acts 7:1-4 and the earlier call in Ur",
+      "II. The Promises Rehearsed: The unconditional 'I will' promises of the Abrahamic Covenant covering nationhood, blessing, a great name, and blessing to all families of the earth through the seed (vv. 2-3), traced through Genesis 22:18 and Galatians 3",
+      "III. Abram's Obedience Recorded: The departure from Haran, the journey to Canaan, the stops at Shechem and Bethel, the Lord's appearance and land promise, Abram's altar-building and worship, and his continued travel southward (vv. 4-9), with concluding reference to Hebrews 11:8-10"
     ],
-    "conclusion": "The preacher closed by returning to the three words 'So Abram departed,' holding them up as a model of faith and obedience to God's direction. He noted that believers today have the complete written Word of God rather than audible speech, and that the same simple response of trusting and obeying is required. He drew a parallel to the morning message — knowing access is available but not entering in is foolish — and applied it to obeying Scripture. He closed in prayer asking God to help the congregation obey His Word, worship Him in spirit and in truth, recognize His hand of blessing, and extended an invitation for any unsaved person to receive eternal life through Jesus Christ.",
-    "application": "The preacher explicitly called for the following: (1) Recognize that God is the source of blessing in your life and never credit yourself — 'Who gave you the ability to work?'; (2) Be absolutely assured you are following the direction God has given, not making decisions from a merely temporal human perspective; (3) Worship God on His terms, in spirit and in truth, not on man's terms; (4) Simply trust God and obey His Word as Abram did — 'So Abram departed'; (5) Any person not sure of heaven should receive the gift of eternal life through Jesus Christ before leaving or logging off."
+    "themes": [
+      "abrahamic covenant",
+      "faith and obedience",
+      "divine promise",
+      "worship",
+      "the messianic line",
+      "blessing"
+    ]
   }
 }

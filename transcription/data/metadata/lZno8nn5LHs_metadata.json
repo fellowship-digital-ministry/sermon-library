@@ -1,0 +1,12 @@
+{
+  "video_id": "lZno8nn5LHs",
+  "title": "\"I Trusted In Thee\"  Psalm 31:14-16",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/lZno8nn5LHs.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/lZno8nn5LHs.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lZno8nn5LHs.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lZno8nn5LHs.vtt",
+  "duration": 2712.0,
+  "transcription_timestamp": "2026-05-28T16:11:32.421459",
+  "model": "whisper-1"
+}

@@ -9,15 +9,21 @@
   "duration": 2917,
   "transcription_timestamp": "2025-04-14T20:20:58.722689",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "Preaching from 2 Corinthians 2:5-11, this sermon examines the subject of forgiveness within the church, using the Apostle Paul's counsel to the conflicted church at Corinth as the framework for understanding how believers are to forgive, comfort, and restore one another.",
+    "introduction": "Preaching through 2 Corinthians 2:5-11, this sermon examines the subject of forgiveness within the church, using a disciplinary situation at Corinth as the framework for exploring what biblical forgiveness, comfort, and restoration look like among believers.",
     "outline": [
-      "I. The Conflict in Corinth (vv. 5-6) — An offender in gross immoral sin (referenced in 1 Corinthians 5) had been punished by the church; though he repented, he had not been restored, and some in the church resisted restoration, creating ongoing conflict that kept the church from doing the will of God.",
-      "II. Paul's Counsel (vv. 7-10) — A three-step plan for the church: (1) Forgive him; (2) Comfort him — come alongside to encourage and strengthen; (3) Confirm your love toward him. Paul tests their obedience, noting they obeyed in judgment and must equally obey in forgiveness and restoration. The goal of church discipline is restoration, not excommunication.",
-      "III. Paul's Concern (v. 11) — Failure to forgive gives Satan an advantage; Paul warns that unforgiveness leads to bitterness and division, and that the church must not give place to the devil by leaving the matter unresolved."
+      "I. The Conflict in Corinth (vv. 5-6): the unresolved tension over whether a repentant offender should be restored after church discipline",
+      "II. Paul's Counsel (vv. 7-10): a three-part instruction to forgive, comfort, and confirm love toward the offender, with supporting passages from Matthew 18 and Luke 17",
+      "III. Paul's Concern (v. 11): the warning that failure to forgive gives Satan an advantage, drawing on Ephesians 4 and 6 and other passages on spiritual warfare"
     ],
-    "conclusion": "The preacher closed by declaring forgiveness a pillar of biblical Christianity, reminding the congregation that God's grace is sufficient to do what God has commanded. He prayed for any unsaved to come to salvation, and for those with an unforgiving spirit to be helped by God to forgive, comfort, and confirm their love — being biblical in practice, with restoration as the goal.",
-    "application": "Believers who have been offended are to: (1) forgive the offender, (2) comfort the offender by coming alongside to encourage and strengthen them, and (3) confirm their love toward the offender — not stopping at step one. Do not let anger simmer; deal with it and do not give place to the devil. Remember that you yourself have been forgiven by God, which should move you to forgive others. If you are holding an unforgiving spirit, recognize that bitterness destroys the one who holds it and gives Satan an advantage over the church."
+    "themes": [
+      "forgiveness",
+      "church discipline and restoration",
+      "bitterness and its dangers",
+      "spiritual warfare",
+      "the character of god as a forgiving god",
+      "obedience to biblical instruction"
+    ]
   }
 }

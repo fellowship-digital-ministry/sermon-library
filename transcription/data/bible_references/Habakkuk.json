@@ -219,5 +219,44 @@
     "end_time": 404.1600036621094,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "The just shall live by his faith",
+    "context": "The just shall live by his faith",
+    "is_implicit": true,
+    "video_id": "5_TnEW9T9GI",
+    "start_time": 709.4199981689453,
+    "end_time": 777.8600006103516,
+    "point_summary": "Living by faith, as Habakkuk 2:4 declares, is cited alongside Romans 10:17 and Hebrews 11:6 to underscore that genuine faith is both doctrinal conviction and the animating principle of the Christian life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 1,
+    "verse": 2,
+    "reference_text": "Habakkuk",
+    "context": "Habakkuk cried out to the Lord and was upset with the Lord because God seemed to be prospering the Chaldeans",
+    "is_implicit": true,
+    "video_id": "pQFCA4ajtm0",
+    "start_time": 570.5599975585938,
+    "end_time": 645.8999977111816,
+    "point_summary": "Habakkuk's anguished cry against God's apparent prosperity of the pagan Chaldeans over his own people illustrates the timeless human struggle with divine allowance of unfairness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 1,
+    "verse": 2,
+    "reference_text": "Habakkuk 1:2",
+    "context": "Habakkuk cried out to the Lord again. He said, oh Lord, how long will I cry and that will not hear?",
+    "is_implicit": true,
+    "video_id": "pQFCA4ajtm0",
+    "start_time": 977.7000122070312,
+    "end_time": 1054.6000061035156,
+    "point_summary": "Habakkuk's cry of unanswered prayer does not mean God is inactive; he has heard every prayer, understood every emotion, and is already working in ways not yet visible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

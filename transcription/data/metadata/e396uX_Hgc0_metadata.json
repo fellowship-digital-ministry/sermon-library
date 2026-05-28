@@ -1,0 +1,12 @@
+{
+  "video_id": "e396uX_Hgc0",
+  "title": "\"They Stoned Stephen\"  Acts 6:8 - 7:60",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/e396uX_Hgc0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/e396uX_Hgc0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/e396uX_Hgc0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/e396uX_Hgc0.vtt",
+  "duration": 3374.0,
+  "transcription_timestamp": "2026-05-28T15:54:44.667863",
+  "model": "whisper-1"
+}

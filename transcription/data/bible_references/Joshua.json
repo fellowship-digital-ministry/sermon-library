@@ -3443,5 +3443,70 @@
     "end_time": 2349.3800048828125,
     "point_summary": "Rahab's obedient faith secured not only her own deliverance but her entire household's, illustrating that genuine faith influences family and that safety exists only within the place of God's provision.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 7,
+    "verse": 1,
+    "reference_text": "Joshua 7",
+    "context": "in Joshua 7 that there was sin in the camp",
+    "is_implicit": false,
+    "video_id": "bmFntBlBAtY",
+    "start_time": 1378.1799621582031,
+    "end_time": 1458.8599548339844,
+    "point_summary": "Sin in the camp is never private — Joshua 7's account of Achan is invoked to show that unconfessed sin spreads its consequences to the whole community, not merely the individual.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 7,
+    "verse": null,
+    "reference_text": "Joshua 7",
+    "context": "In Joshua chapter 7, we won't take the time to go there, but Achan",
+    "is_implicit": false,
+    "video_id": "bmFntBlBAtY",
+    "start_time": 2098.899932861328,
+    "end_time": 2172.3799438476562,
+    "point_summary": "Achan's attempt to hide his sin proved futile because God knew exactly where the stolen goods were and exposed him through a deliberate process, illustrating that concealment is no alternative to confession.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 7,
+    "verse": 11,
+    "reference_text": "Joshua 7:11",
+    "context": "We find that in Joshua, when they're going to take possession of the land, when they have that defeat at Ai, that God says to Joshua, Israel hath sinned",
+    "is_implicit": true,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 749.4400024414062,
+    "end_time": 815.7200012207031,
+    "point_summary": "Israel's corporate guilt — illustrated by Achan's sin causing national defeat at Ai — underlies the warning that one member's transgression implicates the whole people before God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Joshua",
+    "context": "God then raised up Joshua and Joshua was gonna be the human leader that would take the children of Israel into the land of promise",
+    "is_implicit": false,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 885.260009765625,
+    "end_time": 953.5199890136719,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 5,
+    "reference_text": "Joshua 1:5",
+    "context": "I will be with thee. No man will be able to stand against.",
+    "is_implicit": true,
+    "video_id": "l34E75PwB04",
+    "start_time": 1194.5,
+    "end_time": 1254.5,
+    "point_summary": "God's promise to Joshua — that no man would be able to stand against him because the Lord would be with him — is applied as assurance that divine presence overcomes any human obstacle or insufficiency.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

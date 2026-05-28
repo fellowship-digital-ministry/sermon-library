@@ -9,15 +9,21 @@
   "duration": 1877,
   "transcription_timestamp": "2025-04-17T02:09:21.951438",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "Preached from James 1:22, this sermon warns against self-deception that comes from hearing the Word of God without doing it, drawing on the concluding illustration of Matthew 7 (the wise and foolish builders) to show the difference between hearers and doers.",
+    "introduction": "A Wednesday evening sermon from James 1:22 on the danger of self-deception, focusing on the distinction between hearing the Word of God and actually doing it. The preacher also draws on Matthew 7:24-27 (the conclusion of the Sermon on the Mount) to develop the theme.",
     "outline": [
-      "I. The Message Delivered — the Sermon on the Mount was delivered perfectly by Jesus Christ Himself (Matthew 7:24, 26)",
-      "II. The Message Received — the message was heard by both groups; the problem was not with delivery or reception",
-      "III. The Message Applied (or Not) — the single difference between the wise man and the foolish man is 'doeth them' versus 'doeth them not,' determining whether the house stood or fell"
+      "I. The message delivered: the Sermon on the Mount as a perfect message spoken by Jesus Christ Himself (Matthew 7:24, 26)",
+      "II. The message received: both the wise and foolish builders heard the same sayings, so the problem is not with hearing",
+      "III. The message applied (or not applied): the single difference between 'doeth them' and 'doeth them not' and its consequences for whether the house stands or falls"
     ],
-    "conclusion": "The preacher closed by urging the congregation not to deceive themselves, stating that the worst deception is self-deception and that we often do not even know when we are doing it. He called on God in prayer to help each person be a doer of the Word, not a hearer only, and expressed the desire to respond to the Spirit with 'yes, Lord, yes.'",
-    "application": "Come to church asking how God will speak to you personally, not hoping the message will fix someone else. In daily devotions, open the Word and ask specifically: What is God teaching me? What do I need to stop doing? What do I need to start doing? Respond to the invitation at the end of services rather than shying away from it. Commit to being a doer of the Word so that you are not deceiving your own self."
+    "themes": [
+      "self-deception",
+      "hearing versus doing the word",
+      "obedience to scripture",
+      "the sermon on the mount",
+      "spiritual self-examination",
+      "the word of god"
+    ]
   }
 }

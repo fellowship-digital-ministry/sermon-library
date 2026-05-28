@@ -9,15 +9,21 @@
   "duration": 3163,
   "transcription_timestamp": "2025-04-15T00:08:26.872250",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "Preaching from 1 Timothy 6:13-21, the pastor delivers a closing charge from Paul's first letter to Timothy, showing how three truths about God — his power, his position, and his plan — motivate believers to continue running the Christian race and finish strong.",
+    "introduction": "A closing sermon on 1 Timothy 6:13-21 in which the preacher presents Paul's charge to Timothy as a call to continue and finish the Christian race, grounding that charge in three truths about the Lord Jesus Christ: his power, his position, and his plan.",
     "outline": [
-      "I. God's Power — He quickeneth all things; he alone gives life and has power over death (vv. 13, 16); no power exists except what is given from above (John 19:11)",
-      "II. God's Position — He is the blessed and only potentate, the King of kings and Lord of lords (v. 15); thy God reigneth and is on his throne regardless of earthly chaos",
-      "III. God's Plan — Keep the commandment until the appearing of our Lord Jesus Christ (v. 14); Jesus is coming again (John 14, Acts 1:11, 1 Thessalonians 4:13-18); God is not slack concerning his promise and is longsuffering, not willing that any should perish (2 Peter 3)"
+      "I. God's Power: he quickeneth all things and has power over life and death (vv. 13-16)",
+      "II. God's Position: he is the blessed and only potentate, King of kings and Lord of lords (v. 15)",
+      "III. God's Plan: the appearing of the Lord Jesus Christ as motivation to keep the commandment until the end (vv. 14-19)"
     ],
-    "conclusion": "The pastor called the congregation to fix their attention on the King of kings and Lord of lords — the one they are running for — and to remember his power, his position, and his plan as motivation to continue, press on, and finish strong. He closed in prayer asking God to help believers keep their eyes on Jesus, the author and finisher of their faith, and to encourage any who are struggling or overwhelmed to continue.",
-    "application": "Remember God's power when you are weak and want to give up. Remember his position — that thy God reigneth — and rest in that rather than being unsettled by chaos. Remember his plan and look for the appearing of the Lord Jesus Christ. Keep your eyes on Jesus, the one you are running for, and purpose to finish your course with joy. If you are not sure of heaven, trust the Lord Jesus Christ as your personal Savior."
+    "themes": [
+      "perseverance in the christian life",
+      "the charge to timothy",
+      "omnipotence of god",
+      "the return of christ",
+      "finishing the race",
+      "the sovereignty of god"
+    ]
   }
 }

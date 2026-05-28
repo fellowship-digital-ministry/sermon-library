@@ -1,0 +1,12 @@
+{
+  "video_id": "kbJhtRYV7uE",
+  "title": "\"Beware Of Dogs\"  II Corinthians 11:1-15",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/kbJhtRYV7uE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/kbJhtRYV7uE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/kbJhtRYV7uE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/kbJhtRYV7uE.vtt",
+  "duration": 3420.0,
+  "transcription_timestamp": "2026-05-28T15:33:28.318875",
+  "model": "whisper-1"
+}

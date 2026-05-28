@@ -1,0 +1,12 @@
+{
+  "video_id": "m6f-OuI_HiA",
+  "title": "\"God Loveth A Cheerful Giver\"  II Corinthians 9:1-15",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/m6f-OuI_HiA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/m6f-OuI_HiA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/m6f-OuI_HiA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/m6f-OuI_HiA.vtt",
+  "duration": 3427.0,
+  "transcription_timestamp": "2026-05-28T15:46:50.034608",
+  "model": "whisper-1"
+}

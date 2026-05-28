@@ -1909,5 +1909,57 @@
     "end_time": 842.6399993896484,
     "point_summary": "God's holiness—repeatedly declared in Leviticus as the basis for his command \"be holy\"—is the character trait James invokes to rule out any notion that God could be the source of evil temptation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 43,
+    "reference_text": "sin being in the camp",
+    "context": "the Bible talks about sin being in the camp, and it affects the whole",
+    "is_implicit": true,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 1809.3799562454224,
+    "end_time": 1887.939956665039,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 44,
+    "reference_text": "Leviticus 11:44",
+    "context": "we're to be holy as he is holy, referencing the book of Leviticus",
+    "is_implicit": true,
+    "video_id": "kbJhtRYV7uE",
+    "start_time": 697.219970703125,
+    "end_time": 765.219970703125,
+    "point_summary": "God's call to holiness—referenced through Leviticus as the standard for the church's purity—underscores that holy living remains essential, not optional, for believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Leviticus",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Leviticus",
+    "context": "it's first mentioned in the book of Leviticus with regard to God saying to His people, be holy, for I am holy",
+    "is_implicit": false,
+    "video_id": "HG36S98Hbgk",
+    "start_time": 1310.0599746704102,
+    "end_time": 1378.739974975586,
+    "point_summary": "The holiness of God, first declared in Leviticus as the basis for His people's own holy conduct, is the same attribute the four living creatures proclaim ceaselessly before the throne.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 44,
+    "reference_text": "Leviticus 11:44",
+    "context": "because it is written, be holy, for I am holy, Leviticus",
+    "is_implicit": true,
+    "video_id": "HG36S98Hbgk",
+    "start_time": 1451.0399780273438,
+    "end_time": 1531.9999694824219,
+    "point_summary": "Peter's quotation of Leviticus 11:44 grounds the call to holy living in God's own character, showing that the holiness declared by the four living creatures in heaven is the same standard God requires of His people in every area of behavior.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -9,17 +9,24 @@
   "duration": 2991,
   "transcription_timestamp": "2025-04-17T05:33:35.991170",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "Preached as lesson 51 in a series through Genesis, this sermon addresses the question 'What About Dinosaurs?' using Genesis 1:24-25 as its anchor text, examining what the Bible says about the origin, coexistence with man, and eventual extinction of dinosaurs.",
+    "introduction": "A topical lesson titled 'What About Dinosaurs?' preached as part of an ongoing series through Genesis, pausing after chapter 19. Drawing primarily from Genesis 1:24-25 and Job 40:15-24, the sermon addresses common evolutionary claims about dinosaurs and offers biblical and historical responses from a creationist perspective.",
     "outline": [
-      "I. Common Teaching About Dinosaurs (what the world says): dinosaurs evolved from reptiles and reigned 165 million years; destroyed by an asteroid 65 million years ago; humans and dinosaurs never coexisted; the word 'dinosaur' does not appear in the Bible",
-      "II. Where Did Dinosaurs Come From? God created them — beast of the earth after his kind (Genesis 1:24-25, day six); some possibly on day five (Genesis 1:20-23, water and flying creatures); the word 'dinosaur' was coined by Sir Richard Owen in 1841 and first published in 1842, so its absence from the Bible is not an argument against biblical authority",
-      "III. Did Humans and Dinosaurs Live at the Same Time? Yes — man was created on the same day six (Genesis 1:26-27); God gave man dominion over every living thing; behemoth in Job 40:15-24 matches description of a large sauropod, not a hippo or elephant; the word 'dragon' appears in Scripture as further evidence",
-      "IV. What Happened to the Dinosaurs / Why Are There So Many Fossils? The global flood (Genesis 6-8) killed all creatures not on the ark (Genesis 7:21-23); Noah took dinosaurs onto the ark — likely adolescent pairs, approximately 60 pairs needed (Genesis 7:7-9); dinosaurs came off the ark (Genesis 8:15-19); post-flood extinction explained by drastic climate change, reduced lifespan, vegetation changes, the Ice Age, and changed human-animal interaction",
-      "V. Historical Evidence for Post-Flood Dinosaurs: Alexander the Great's record of hissing dragons in India (326 BC); Marco Polo's descriptions of animals in his travels; the ancient Egyptian Narmer Palette depicting humans with long-necked creatures; a Stegosaurus carving on a Cambodian temple wall predating any Stegosaurus fossil discovery by 800 years; the Chinese Zodiac featuring 11 known animals plus a dragon; a 2017 fossil found off Norway's coast with 48 plant varieties preserved in its stomach, best explained by rapid burial in the global flood"
+      "I. Common Teaching About Dinosaurs: three standard evolutionary claims examined, including the 165-million-year timeline, the asteroid extinction event, and the assertion that humans and dinosaurs never coexisted",
+      "II. Why the Word 'Dinosaur' Does Not Appear in the Bible: the term was coined by Sir Richard Owen in 1841 and therefore postdates the biblical text",
+      "III. Where Did Dinosaurs Come From: God created all land creatures on day six (Genesis 1:24-25), with some possibly created on day five, rejecting evolutionary origin from other reptiles",
+      "IV. Did Humans and Dinosaurs Coexist: Genesis 1:26-28 places man's creation on the same day as land animals, and Job 40 describes behemoth as a creature God made alongside man",
+      "V. What Happened to the Dinosaurs and Why Are There So Many Fossils: the global flood of Genesis 6-8 killed those not on the ark, producing rapid fossilization, while Noah brought dinosaurs onto and off the ark",
+      "VI. Historical Evidence of Post-Flood Dinosaurs: references to Alexander the Great's accounts, Marco Polo's travels, the Narmer Palette, a Stegosaurus carving on a Cambodian temple, the Chinese Zodiac dragon, and a 2017 fossil discovery with preserved stomach contents"
     ],
-    "conclusion": "The preacher summarized the three main answers — God made dinosaurs, humans and dinosaurs absolutely lived at the same time, and the global flood accounts for the fossils and eventual extinction — and closed in prayer asking God to strengthen the congregation's confidence in His Word, noting that starting and ending with the Bible provides real answers and that believers do not need to shy away from conversations about dinosaurs.",
-    "application": "Do not shy away from or avoid conversations with people about dinosaurs. Start with the Bible and end with the Bible when engaging the subject. Parents should be cautious about what the world teaches children about dinosaurs, because evolutionary teaching about millions of years can undermine the authority of the Word of God on other subjects. Be equipped to answer that the word 'dinosaur' not appearing in the Bible is not a valid argument, since the word was not coined until 1841."
+    "themes": [
+      "dinosaurs and the bible",
+      "biblical creationism",
+      "genesis creation account",
+      "the global flood and fossils",
+      "humans and dinosaurs coexisting",
+      "biblical worldview versus evolutionary interpretation"
+    ]
   }
 }

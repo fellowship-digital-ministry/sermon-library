@@ -960,5 +960,31 @@
     "end_time": 1408.6999816894531,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 4,
+    "reference_text": "Yet forty days, and Nineveh shall be overthrown",
+    "context": "Yet 40 days and Nineveh shall be destroyed",
+    "is_implicit": true,
+    "video_id": "V2g6GN4mySo",
+    "start_time": 2734.0799865722656,
+    "end_time": 2809.8799743652344,
+    "point_summary": "Nineveh's repentance at Jonah's stark, simple warning illustrates that genuine response to God's word brings mercy, contrasted implicitly with Israel's rejection of the prophet's call.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 1,
+    "verse": 3,
+    "reference_text": "Jonah",
+    "context": "Jonah got so angry with the Lord wanting to offer repentance and salvation or reformation to the Ninevites that Jonah ran away from the Lord",
+    "is_implicit": true,
+    "video_id": "pQFCA4ajtm0",
+    "start_time": 570.5599975585938,
+    "end_time": 645.8999977111816,
+    "point_summary": "Jonah's flight from God and subsequent pouting illustrate how deeply fretting over divine fairness—God blessing those we deem unworthy—can drive even an obedient prophet to anger and resentment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

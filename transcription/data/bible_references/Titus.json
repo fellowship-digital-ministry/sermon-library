@@ -2130,5 +2130,70 @@
     "end_time": 757.3999786376953,
     "point_summary": "Sound doctrine, as grounded in Titus, stands in contrast to the empty \"doctrine of vanities\" represented by polytheistic idolatry, underscoring the necessity of teaching truth rooted in the one true God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 11,
+    "reference_text": "Titus 2:11",
+    "context": "the grace of God that bringeth salvation, it's appeared to all men",
+    "is_implicit": true,
+    "video_id": "kbJhtRYV7uE",
+    "start_time": 697.219970703125,
+    "end_time": 765.219970703125,
+    "point_summary": "Grace that brings salvation simultaneously teaches holy, godly, and sober living—countering the prevalent perception that holiness is optional for believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 12,
+    "reference_text": "Titus 2:12",
+    "context": "It teaches us that we're to live a certain way and we're to live godly and we're to live righteously and we're to live holy and soberly",
+    "is_implicit": true,
+    "video_id": "kbJhtRYV7uE",
+    "start_time": 697.219970703125,
+    "end_time": 765.219970703125,
+    "point_summary": "Grace that brings salvation simultaneously teaches believers to live godly, righteous, holy, and sober lives—countering the prevalent perception that holy living is unimportant.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 13,
+    "reference_text": "Titus 2:13",
+    "context": "pursuing something that does not please Him and His appearing",
+    "is_implicit": true,
+    "video_id": "b2IxmKHz5Hw",
+    "start_time": 2223.720001220703,
+    "end_time": 2332.7000122070312,
+    "point_summary": "The appearing of Christ (Titus 2:13) is set forth as the believer's governing focus, the counterforce to the world's \"siren call\" that competes for mind, heart, talent, and treasure.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 13,
+    "reference_text": "the appearing",
+    "context": "I'm looking for that day of your appearing",
+    "is_implicit": true,
+    "video_id": "b2IxmKHz5Hw",
+    "start_time": 2884.3800048828125,
+    "end_time": 2971.0599975585938,
+    "point_summary": "Faithfulness to Christ's call and the avoidance of worldly distraction are measured against the horizon of his appearing, which alone will determine what truly mattered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": 1,
+    "verse": 4,
+    "reference_text": "Titus 1:4",
+    "context": "Paul refers to Titus as my own son after the common faith",
+    "is_implicit": true,
+    "video_id": "oWFAJx32eUI",
+    "start_time": 185.94000244140625,
+    "end_time": 254.1999969482422,
+    "point_summary": "Paul's description of Titus as \"my own son after the common faith\" in Titus 1:4 is cited to establish the close personal bond between Paul and Titus that gives weight to Paul's commendation of him in 2 Corinthians 8.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

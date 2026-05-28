@@ -3547,5 +3547,83 @@
     "end_time": 1131.8800048828125,
     "point_summary": "Trials are not designed to destroy but to develop, as seen when Christ allowed the storm the disciples faced in order to reveal his power to calm it.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 5,
+    "verse": 19,
+    "reference_text": "Mark 5:19",
+    "context": "Go tell them how great things God hath done for thee",
+    "is_implicit": true,
+    "video_id": "M2Y9NUNOjZA",
+    "start_time": 2476.620086669922,
+    "end_time": 2543.9400787353516,
+    "point_summary": "God leaves believers in their present circumstances rather than taking them immediately to heaven because they have a gospel mission to fulfill where He has placed them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 16,
+    "verse": 15,
+    "reference_text": "Mark 16:15",
+    "context": "we've been entrusted with the gospel of the Lord Jesus Christ to take and to preach the gospel to every creature",
+    "is_implicit": true,
+    "video_id": "mhVO_tOuyYQ",
+    "start_time": 959.5599975585938,
+    "end_time": 1014.0400085449219,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 16,
+    "verse": 15,
+    "reference_text": "Mark 16:15",
+    "context": "Do we believe that you're to preach the gospel to every creature?",
+    "is_implicit": true,
+    "video_id": "X_Uu37pLEd0",
+    "start_time": 843.8599853515625,
+    "end_time": 914.8999938964844,
+    "point_summary": "Faithful engagement in gospel proclamation—preaching to every creature as Mark 16:15 commands—is presented as the defining mark of those whose praise spread throughout all the churches.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 4,
+    "verse": 38,
+    "reference_text": "Mark 4:38",
+    "context": "master, carest thou not that we perish",
+    "is_implicit": true,
+    "video_id": "lZno8nn5LHs",
+    "start_time": 1531.8799743652344,
+    "end_time": 1604.5999755859375,
+    "point_summary": "Even when God is present in the storm and does not calm it, personal trust in a sovereign God provides inner stability, because our times remain in his hands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 16,
+    "verse": 15,
+    "reference_text": "Mark 16:15",
+    "context": "preach the gospel to every creature",
+    "is_implicit": true,
+    "video_id": "e396uX_Hgc0",
+    "start_time": 157.8000030517578,
+    "end_time": 232.52000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 4,
+    "verse": 35,
+    "reference_text": "Mark 4:35-41 (disciples delivered from raging sea)",
+    "context": "the disciples are delivered from a raging sea",
+    "is_implicit": true,
+    "video_id": "e396uX_Hgc0",
+    "start_time": 2620.939956665039,
+    "end_time": 2696.6399536132812,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

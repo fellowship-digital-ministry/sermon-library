@@ -1,0 +1,12 @@
+{
+  "video_id": "NfR3xsE5fDc",
+  "title": "\"He Is Worthy To Receive Praise\"  Revelation 4:10-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/NfR3xsE5fDc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/NfR3xsE5fDc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/NfR3xsE5fDc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/NfR3xsE5fDc.vtt",
+  "duration": 2126.0,
+  "transcription_timestamp": "2026-05-28T16:40:25.248933",
+  "model": "whisper-1"
+}

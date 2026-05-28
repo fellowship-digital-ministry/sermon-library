@@ -1,0 +1,12 @@
+{
+  "video_id": "5_TnEW9T9GI",
+  "title": "\"Abound In This Grace Also\"  II Corinthians 8:7-15",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/5_TnEW9T9GI.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/5_TnEW9T9GI.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5_TnEW9T9GI.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5_TnEW9T9GI.vtt",
+  "duration": 3146.0,
+  "transcription_timestamp": "2026-05-28T16:45:08.295567",
+  "model": "whisper-1"
+}

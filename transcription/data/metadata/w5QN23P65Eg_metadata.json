@@ -9,14 +9,20 @@
   "duration": 1961,
   "transcription_timestamp": "2025-04-15T08:56:28.849881",
   "model": "whisper-1",
-  "notes_schema_version": 1,
+  "notes_schema_version": 2,
   "notes": {
-    "introduction": "An exposition of 1 Thessalonians 5:15, the eighth lesson in a series on the closing instructions of that letter, examining what it means to overcome evil with good rather than rendering evil for evil.",
+    "introduction": "A Wednesday evening expository lesson (number eight in a series) on 1 Thessalonians 5:15, examining the command to refrain from returning evil for evil and to pursue good, with Romans 12:17-21 as a companion passage.",
     "outline": [
-      "I. A Principle of Grace — 'See that none render evil for evil unto any man' (1 Thess. 5:15a): The word 'see' carries the idea of 'take heed'; the flesh desires to react and get even, but believers are to be gracious and respond rather than react, following the example of Christ who when reviled, reviled not again (1 Pet. 2:21-23)",
-      "II. A Pursuit of Good — 'But ever follow that which is good, both among yourselves and to all men' (1 Thess. 5:15b): 'Follow' carries the idea of pursuing after; God, not society or culture, determines what is good; as Jesus 'went about doing good' (Acts 10:38), believers are to pursue that which is upright and honorable both within the church and toward all men"
+      "I. A Principle of Grace: the command 'see that none render evil for evil unto any man,' with attention to the word 'see' as 'take heed' and the natural fleshly desire for retaliation",
+      "II. A Pursuit of Good: the command to 'ever follow that which is good, both among yourselves and to all men,' with the standard of good defined by God rather than culture or society"
     ],
-    "conclusion": "The preacher summed up both principles by saying they amount to one thing: being like Jesus. He referenced John 15:1-5 to stress that without Christ believers can do nothing, and that abiding in the vine is the only means of bearing fruit. He closed by calling the church to die to self, be filled with the Spirit, and follow the example Christ left in 1 Peter 2 — overcoming evil with good as David did when he refused to take vengeance on Saul. He closed in prayer asking God to help the congregation walk in the Spirit and live like Jesus.",
-    "application": "Die to self and be filled with the Holy Spirit, recognizing you cannot live the Christian life in your own power. Do not render evil for evil to any man — take heed of the flesh's desire to react and get even. Pursue that which is good as God defines it from His Word, not as society or culture defines it. Let your speech always be with grace (Col. 4:6). Look to God's Word to determine what is good and live accordingly, rather than following what everyone else is doing."
+    "themes": [
+      "overcoming evil with good",
+      "grace toward others",
+      "the flesh versus the spirit",
+      "christlike conduct",
+      "dependence on the holy spirit",
+      "the local church and christian distinctiveness"
+    ]
   }
 }

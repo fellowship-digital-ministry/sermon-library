@@ -1,0 +1,12 @@
+{
+  "video_id": "V2g6GN4mySo",
+  "title": "\"Break Up Your Fallow Ground\"  Hosea 10",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/V2g6GN4mySo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/V2g6GN4mySo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/V2g6GN4mySo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/V2g6GN4mySo.vtt",
+  "duration": 3004.0,
+  "transcription_timestamp": "2026-05-28T16:27:51.596568",
+  "model": "whisper-1"
+}

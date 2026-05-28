@@ -1,0 +1,12 @@
+{
+  "video_id": "mhVO_tOuyYQ",
+  "title": "\"Preached Unto Him Jesus\"  Acts 8:26-40",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/mhVO_tOuyYQ.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/mhVO_tOuyYQ.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mhVO_tOuyYQ.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mhVO_tOuyYQ.vtt",
+  "duration": 2761.0,
+  "transcription_timestamp": "2026-05-28T16:57:20.757274",
+  "model": "whisper-1"
+}

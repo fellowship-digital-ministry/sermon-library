@@ -1,0 +1,12 @@
+{
+  "video_id": "M2Y9NUNOjZA",
+  "title": "\"Desiring God's Approval\"  II Corinthians 10:1-18",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/M2Y9NUNOjZA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/M2Y9NUNOjZA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/M2Y9NUNOjZA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/M2Y9NUNOjZA.vtt",
+  "duration": 3387.0,
+  "transcription_timestamp": "2026-05-28T15:38:31.242053",
+  "model": "whisper-1"
+}

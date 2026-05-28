@@ -9,21 +9,50 @@
   "duration": 3015.0,
   "transcription_timestamp": "2026-05-28T15:59:01.140201",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A sermon on 2 Timothy 4:8 examining Paul's declaration that a crown of righteousness is laid up for him, preached against the backdrop of Paul's imprisonment in the Mamertine Prison under Nero and his imminent martyrdom.",
-    "outline": [
-      "I. Reaching precedes grasping: Paul's lifelong pursuit of faithfulness as the necessary foundation for receiving the crown of righteousness, illustrated through his three statements in vv. 6-7 (fighting the good fight, finishing the course, keeping the faith)",
-      "II. Obeying precedes rewarding: the crown as the result of obedience to each believer's individual God-given calling, not of superior human effort, with God as the righteous judge watching each life",
-      "III. Occupying precedes appearing: the command to use God-given gifts in service until Christ's return, contrasted with the example of Demas who forsook Paul having loved the present world (v. 10)"
-    ],
+    "introduction": "An exposition of 2 Timothy 4:8 on the crown of righteousness, set against the circumstances of Paul's final imprisonment in Rome under Nero. The passage is examined through three movements: reaching, obeying, and occupying as the conditions that precede receiving that crown at Christ's appearing.",
     "themes": [
       "faithfulness over a lifetime",
       "the crown of righteousness",
-      "the appearing of christ",
+      "christ's appearing",
       "spiritual endurance",
-      "distraction and worldliness",
-      "stewardship of spiritual gifts"
+      "occupying until christ comes",
+      "distraction and worldliness"
+    ],
+    "sections": [
+      {
+        "t": 48,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 200,
+        "heading": "Paul's Situation in the Mamertine"
+      },
+      {
+        "t": 537,
+        "heading": "Paul's Charge to Timothy"
+      },
+      {
+        "t": 729,
+        "heading": "Reaching Precedes Grasping the Crown"
+      },
+      {
+        "t": 920,
+        "heading": "Three Statements: Fight, Course, Faith"
+      },
+      {
+        "t": 1666,
+        "heading": "Obeying Precedes Being Rewarded"
+      },
+      {
+        "t": 1853,
+        "heading": "Occupying Until Christ Appears"
+      },
+      {
+        "t": 2383,
+        "heading": "Illustration: Colonel Gordon at Antietam"
+      }
     ]
   }
 }

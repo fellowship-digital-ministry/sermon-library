@@ -9,21 +9,50 @@
   "duration": 2188.0,
   "transcription_timestamp": "2026-05-28T15:41:52.608393",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A sermon from Colossians 2:6-8 on the church's responsibility to disciple and teach the next generation, using the phrase 'as ye have been taught' as a springboard to examine the example of Christ, the practice of the early church, and the content of what is passed on to younger believers.",
-    "outline": [
-      "I. The Example: Jesus taught with authority, regularly instructing those around him throughout the Gospels (Matthew 7:29, John 6:59, John 7:28)",
-      "II. The Engagement: Believers in the early church personally engaged in teaching a future generation, illustrated by Barnabas and Saul at Antioch (Acts 11:19-26) and Paul's instructions to the Philippians and to Timothy (Philippians 4:9, 2 Timothy 2:2)",
-      "III. The Examination: The content of what is taught must be assessed, including whether the next generation is being taught the Scriptures, how to walk with God, and the importance of the local church"
-    ],
+    "introduction": "An exposition of Colossians 2:6-8 on the local church's responsibility to disciple and teach the next generation, using the passage as a springboard through examples from Matthew, Acts, Philippians, 2 Timothy, Jude, and Hebrews.",
     "themes": [
       "discipleship",
       "teaching the next generation",
-      "the local church",
       "biblical authority",
-      "christian walk",
-      "parental and congregational responsibility"
+      "the local church",
+      "parental responsibility",
+      "generational faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening: Children and the Future of the Church"
+      },
+      {
+        "t": 143,
+        "heading": "Introduction to Colossians 2:6-8"
+      },
+      {
+        "t": 327,
+        "heading": "Jesus as the Example of Teaching with Authority"
+      },
+      {
+        "t": 559,
+        "heading": "The Early Church Engaged in Teaching"
+      },
+      {
+        "t": 789,
+        "heading": "Paul's Example: Philippians 4 and 2 Timothy 2"
+      },
+      {
+        "t": 981,
+        "heading": "Examining the Content of What Is Taught"
+      },
+      {
+        "t": 1276,
+        "heading": "Specific Areas: Scripture, Walk with God, Church, Giving"
+      },
+      {
+        "t": 1843,
+        "heading": "Generational Investment and Closing Appeal"
+      }
     ]
   }
 }

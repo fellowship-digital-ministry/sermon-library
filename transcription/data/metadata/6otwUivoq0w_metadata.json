@@ -9,21 +9,46 @@
   "duration": 2666,
   "transcription_timestamp": "2025-04-16T10:42:15.277634",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A verse-by-verse study of Genesis 32:1-23 tracing Jacob's actions and emotions as he prepares to reunite with his brother Esau after a twenty-year separation, covering the messengers he sends, his prayer, and the present he assembles for Esau.",
-    "outline": [
-      "I. The Preparation of Jacob (vv. 1-8): Jacob sends messengers to Esau with a specific message and divides his company upon hearing Esau is approaching with 400 men",
-      "II. The Prayer of Jacob (vv. 9-12): Jacob prays, acknowledging his unworthiness, expressing fear, and appealing to the promises and direction God had given him",
-      "III. The Present for Esau (vv. 13-23): Jacob assembles a large gift of livestock, sends it ahead in successive droves to appease Esau, and moves his family across the ford Jabbok"
-    ],
+    "introduction": "An exposition of Genesis 32:1-23 on Jacob's preparation to reunite with Esau after twenty years of separation, tracing his dispatch of messengers, his prayer before God, and his assembly of a substantial gift for his brother. Part of a long-running verse-by-verse series in Genesis (message 71), covering the passage through verse 23 with the wrestling account of verses 24-32 reserved for the following week.",
     "themes": [
       "fear and faith",
       "prayer",
-      "reconciliation",
       "god's promises",
+      "reconciliation",
       "humility",
-      "trusting god versus self-reliance"
+      "obedience to divine direction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Background"
+      },
+      {
+        "t": 48,
+        "heading": "Backdrop: Jacob's Departure and Esau's Threat"
+      },
+      {
+        "t": 340,
+        "heading": "Jacob's Preparation: Messengers and Message"
+      },
+      {
+        "t": 911,
+        "heading": "Jacob's Prayer: Fear, Humility, and God's Promises"
+      },
+      {
+        "t": 1531,
+        "heading": "The Present Prepared for Esau"
+      },
+      {
+        "t": 1951,
+        "heading": "Family Sent Ahead: Protection and Lingering Fear"
+      },
+      {
+        "t": 2235,
+        "heading": "Preview of the Wrestling Encounter"
+      }
     ]
   }
 }

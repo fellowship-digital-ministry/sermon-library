@@ -9,21 +9,50 @@
   "duration": 2542,
   "transcription_timestamp": "2025-04-16T15:14:00.254839",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "Preaching from Psalm 119:97 and ranging across multiple passages, the pastor develops the theme of the believer's relationship to the Bible under the heading 'O How Love I Thy Law,' examining what it means to love, learn, and live the Scriptures.",
-    "outline": [
-      "I. As a follower of Jesus, I should love the Scriptures: surveying Psalm 119 verses 97, 140, 159, 163, 165, and 167 on the psalmist's expressed love for God's Word",
-      "II. As a follower of Jesus, I should learn the Scriptures: three means identified as personal devotions, church attendance under biblical preaching, and discipleship",
-      "III. As a follower of Jesus, I should live the Scriptures: obedience to the Word as the purpose of learning it, drawn from Joshua 1:8, Psalm 19:11, and Psalm 86:11"
-    ],
+    "introduction": "An exposition of Psalm 119:97 on the believer's relationship to Scripture, organized around three duties: loving, learning, and living the Word of God. Supporting passages from Joshua 1:8, Psalm 19, 1 Peter, 2 Peter 1, and 1 Timothy 4 are drawn in throughout.",
     "themes": [
-      "love for the bible",
-      "scripture meditation",
-      "personal bible study",
-      "pastoral responsibility to feed the flock",
+      "love for scripture",
+      "bible study",
+      "church attendance",
+      "pastoral responsibility",
       "obedience to the word",
       "discipleship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Bible as Treasure"
+      },
+      {
+        "t": 250,
+        "heading": "Loving the Scriptures: Psalm 119"
+      },
+      {
+        "t": 636,
+        "heading": "Learning the Scriptures: Introduction"
+      },
+      {
+        "t": 778,
+        "heading": "How to Learn: Personal Devotion and Church"
+      },
+      {
+        "t": 923,
+        "heading": "Pastoral Duty to Feed the Flock"
+      },
+      {
+        "t": 1347,
+        "heading": "Learning Through Discipleship"
+      },
+      {
+        "t": 1539,
+        "heading": "Living the Scriptures"
+      },
+      {
+        "t": 1728,
+        "heading": "Joshua 1:8 and Obedient Prosperity"
+      }
     ]
   }
 }

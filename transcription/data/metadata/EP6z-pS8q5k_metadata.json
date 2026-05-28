@@ -9,21 +9,46 @@
   "duration": 2475,
   "transcription_timestamp": "2025-04-17T14:35:20.472315",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A verse-by-verse exposition of Genesis 12:1-9, tracing Abram's departure from Haran to Canaan, the instruction God gave him, the promises of the Abrahamic Covenant, and the record of his obedience and worship along the journey.",
-    "outline": [
-      "I. The Instruction Received: God's call to Abram to leave for a land He would show him (v. 1), with reference to Acts 7:1-4 and the earlier call in Ur",
-      "II. The Promises Rehearsed: The unconditional 'I will' promises of the Abrahamic Covenant covering nationhood, blessing, a great name, and blessing to all families of the earth through the seed (vv. 2-3), traced through Genesis 22:18 and Galatians 3",
-      "III. Abram's Obedience Recorded: The departure from Haran, the journey to Canaan, the stops at Shechem and Bethel, the Lord's appearance and land promise, Abram's altar-building and worship, and his continued travel southward (vv. 4-9), with concluding reference to Hebrews 11:8-10"
-    ],
+    "introduction": "An exposition of Genesis 12:1-9 on Abram's call, the promises of the Abrahamic covenant, and his obedience in departing from Haran toward Canaan, set within an ongoing verse-by-verse study of Genesis.",
     "themes": [
       "abrahamic covenant",
-      "faith and obedience",
-      "divine promise",
+      "obedience and faith",
+      "divine blessing",
       "worship",
-      "the messianic line",
-      "blessing"
+      "messianic promise",
+      "the call of abram"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 138,
+        "heading": "The Instruction Received (v. 1)"
+      },
+      {
+        "t": 374,
+        "heading": "The Promises Rehearsed (vv. 2-3)"
+      },
+      {
+        "t": 1325,
+        "heading": "Abram's Obedience Recorded (vv. 4-5)"
+      },
+      {
+        "t": 1511,
+        "heading": "Arrival in Canaan and Altar at Shechem (vv. 6-7)"
+      },
+      {
+        "t": 1700,
+        "heading": "Altar at Bethel and Continued Journey (vv. 8-9)"
+      },
+      {
+        "t": 1981,
+        "heading": "Hebrews 11 on Abraham's Faith and Obedience"
+      }
     ]
   }
 }

@@ -9,24 +9,50 @@
   "duration": 2991,
   "transcription_timestamp": "2025-04-17T05:33:35.991170",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A topical lesson titled 'What About Dinosaurs?' preached as part of an ongoing series through Genesis, pausing after chapter 19. Drawing primarily from Genesis 1:24-25 and Job 40:15-24, the sermon addresses common evolutionary claims about dinosaurs and offers biblical and historical responses from a creationist perspective.",
-    "outline": [
-      "I. Common Teaching About Dinosaurs: three standard evolutionary claims examined, including the 165-million-year timeline, the asteroid extinction event, and the assertion that humans and dinosaurs never coexisted",
-      "II. Why the Word 'Dinosaur' Does Not Appear in the Bible: the term was coined by Sir Richard Owen in 1841 and therefore postdates the biblical text",
-      "III. Where Did Dinosaurs Come From: God created all land creatures on day six (Genesis 1:24-25), with some possibly created on day five, rejecting evolutionary origin from other reptiles",
-      "IV. Did Humans and Dinosaurs Coexist: Genesis 1:26-28 places man's creation on the same day as land animals, and Job 40 describes behemoth as a creature God made alongside man",
-      "V. What Happened to the Dinosaurs and Why Are There So Many Fossils: the global flood of Genesis 6-8 killed those not on the ark, producing rapid fossilization, while Noah brought dinosaurs onto and off the ark",
-      "VI. Historical Evidence of Post-Flood Dinosaurs: references to Alexander the Great's accounts, Marco Polo's travels, the Narmer Palette, a Stegosaurus carving on a Cambodian temple, the Chinese Zodiac dragon, and a 2017 fossil discovery with preserved stomach contents"
-    ],
+    "introduction": "A study of Genesis 1:24-25 on the origin, coexistence with humans, and eventual extinction of dinosaurs, examined through a biblical creationist worldview with supporting references to Job 40, Genesis 6-8, and historical evidence.",
     "themes": [
-      "dinosaurs and the bible",
       "biblical creationism",
-      "genesis creation account",
-      "the global flood and fossils",
+      "dinosaurs and scripture",
+      "the genesis flood",
       "humans and dinosaurs coexisting",
-      "biblical worldview versus evolutionary interpretation"
+      "fossil record interpretation",
+      "biblical worldview versus evolutionary claims"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 95,
+        "heading": "Why Christians Avoid Dinosaur Conversations"
+      },
+      {
+        "t": 422,
+        "heading": "Common Evolutionary Claims About Dinosaurs"
+      },
+      {
+        "t": 564,
+        "heading": "The Word Dinosaur and the Bible"
+      },
+      {
+        "t": 751,
+        "heading": "Where Did Dinosaurs Come From"
+      },
+      {
+        "t": 1034,
+        "heading": "Behemoth in Job 40"
+      },
+      {
+        "t": 1461,
+        "heading": "The Flood, the Ark, and Dinosaur Fossils"
+      },
+      {
+        "t": 2309,
+        "heading": "Historical Evidence of Post-Flood Dinosaurs"
+      }
     ]
   }
 }

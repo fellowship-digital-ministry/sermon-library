@@ -9,20 +9,50 @@
   "duration": 1961,
   "transcription_timestamp": "2025-04-15T08:56:28.849881",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A Wednesday evening expository lesson (number eight in a series) on 1 Thessalonians 5:15, examining the command to refrain from returning evil for evil and to pursue good, with Romans 12:17-21 as a companion passage.",
-    "outline": [
-      "I. A Principle of Grace: the command 'see that none render evil for evil unto any man,' with attention to the word 'see' as 'take heed' and the natural fleshly desire for retaliation",
-      "II. A Pursuit of Good: the command to 'ever follow that which is good, both among yourselves and to all men,' with the standard of good defined by God rather than culture or society"
-    ],
+    "introduction": "An exposition of 1 Thessalonians 5:15 on the Christian obligation to refuse retaliation and pursue good, set within a series of Wednesday evening studies on concise closing instructions in 1 Thessalonians 5. Parallel passages in Romans 12:17-21, Proverbs 24:29 and 25:21-22, 1 Peter 2:21-23, and Acts 10:38 are drawn in to develop two organizing principles.",
     "themes": [
-      "overcoming evil with good",
-      "grace toward others",
-      "the flesh versus the spirit",
-      "christlike conduct",
-      "dependence on the holy spirit",
-      "the local church and christian distinctiveness"
+      "retaliation and grace",
+      "doing good",
+      "walking in the spirit",
+      "dying to self",
+      "christian distinctiveness",
+      "dependence on god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Announcements and Personal News"
+      },
+      {
+        "t": 91,
+        "heading": "Series Context and the Flesh vs. the Spirit"
+      },
+      {
+        "t": 232,
+        "heading": "Parallel Passages Introduced"
+      },
+      {
+        "t": 417,
+        "heading": "Principle of Grace: No Evil for Evil"
+      },
+      {
+        "t": 700,
+        "heading": "Christ as the Example in 1 Peter 2"
+      },
+      {
+        "t": 982,
+        "heading": "Pursuit of Good: Following That Which Is Upright"
+      },
+      {
+        "t": 1217,
+        "heading": "Acts 10:38 and Christ Going About Doing Good"
+      },
+      {
+        "t": 1539,
+        "heading": "John 15 and Abiding as the Basis for Both Principles"
+      }
     ]
   }
 }

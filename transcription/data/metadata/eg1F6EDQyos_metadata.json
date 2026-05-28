@@ -9,21 +9,50 @@
   "duration": 1877,
   "transcription_timestamp": "2025-04-17T02:09:21.951438",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A Wednesday evening sermon from James 1:22 on the danger of self-deception, focusing on the distinction between hearing the Word of God and actually doing it. The preacher also draws on Matthew 7:24-27 (the conclusion of the Sermon on the Mount) to develop the theme.",
-    "outline": [
-      "I. The message delivered: the Sermon on the Mount as a perfect message spoken by Jesus Christ Himself (Matthew 7:24, 26)",
-      "II. The message received: both the wise and foolish builders heard the same sayings, so the problem is not with hearing",
-      "III. The message applied (or not applied): the single difference between 'doeth them' and 'doeth them not' and its consequences for whether the house stands or falls"
-    ],
+    "introduction": "An exposition of James 1:22 on self-deception through hearing the Word without doing it, drawing on Matthew 7:24-27 and Joshua 1:8 to examine the contrast between hearers and doers of Scripture.",
     "themes": [
       "self-deception",
       "hearing versus doing the word",
-      "obedience to scripture",
-      "the sermon on the mount",
-      "spiritual self-examination",
-      "the word of god"
+      "application of scripture",
+      "daily devotion",
+      "progressive sanctification",
+      "response to preaching"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and James 1:22 Introduced"
+      },
+      {
+        "t": 140,
+        "heading": "The Mirror Illustration in James 1:23-25"
+      },
+      {
+        "t": 286,
+        "heading": "Joshua 1:8 and Blessing Through Obedience"
+      },
+      {
+        "t": 426,
+        "heading": "Matthew 7:24-27 and the Sermon on the Mount"
+      },
+      {
+        "t": 569,
+        "heading": "Message Delivered, Message Received"
+      },
+      {
+        "t": 1004,
+        "heading": "Doeth Them Versus Doeth Them Not"
+      },
+      {
+        "t": 1191,
+        "heading": "Application Beyond the Church Service"
+      },
+      {
+        "t": 1577,
+        "heading": "The Sadducees and Knowing the Scriptures"
+      }
     ]
   }
 }

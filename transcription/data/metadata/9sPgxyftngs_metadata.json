@@ -9,20 +9,46 @@
   "duration": 2622,
   "transcription_timestamp": "2025-04-16T00:49:06.931157",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A verse-by-verse study of Genesis 39:1-6 examining the repeated biblical statement that 'the Lord was with Joseph' as Joseph serves in the house of Potiphar and is elevated to the position of overseer, with attention to what his conduct as a servant reveals about living in awareness of God's presence.",
-    "outline": [
-      "I. Introduction: the timeline of Joseph's service, establishing that Genesis 39 spans roughly 10 years from age 17 to age 30, and that the phrase 'the Lord was with Joseph' appears four times in the chapter",
-      "II. Joseph the Overseer (vv. 1-6): Potiphar's observation that the Lord was with Joseph, the prosperity and blessing that followed, Joseph's promotion to overseer over all of Potiphar's house, and the New Testament servant-master principles in Ephesians 6 and Colossians 3 that parallel Joseph's conduct"
-    ],
+    "introduction": "An exposition of Genesis 39:1-6 on Joseph's service in Potiphar's household, tracing the fourfold declaration that the Lord was with Joseph and the observable blessing that followed his faithful conduct as a slave promoted to overseer.",
     "themes": [
       "presence of god",
       "faithful service",
-      "work ethic and christian testimony",
-      "blessing and obedience",
-      "life of joseph",
-      "stewardship"
+      "work ethic",
+      "divine blessing",
+      "christian testimony",
+      "obedience"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context from Genesis 37 and 38"
+      },
+      {
+        "t": 144,
+        "heading": "Timeline of Joseph's Years in Egypt"
+      },
+      {
+        "t": 336,
+        "heading": "The Fourfold Statement: Lord Was With Joseph"
+      },
+      {
+        "t": 814,
+        "heading": "Joseph as Overseer in Potiphar's House"
+      },
+      {
+        "t": 958,
+        "heading": "Potiphar's Observation of Joseph's Life"
+      },
+      {
+        "t": 1729,
+        "heading": "New Testament Principles on Servant Labor"
+      },
+      {
+        "t": 2287,
+        "heading": "Christian Testimony in the Workplace"
+      }
     ]
   }
 }

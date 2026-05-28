@@ -55,17 +55,19 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TRANSCRIPT_DIR = os.path.join(REPO_ROOT, "transcription", "data", "transcripts")
 METADATA_DIR = os.path.join(REPO_ROOT, "transcription", "data", "metadata")
 
-NOTES_SCHEMA_VERSION = 2
+NOTES_SCHEMA_VERSION = 3
 DEFAULT_MODEL = os.environ.get("NOTES_MODEL", "anthropic/claude-sonnet-4.6")
 
 
 SYSTEM_PROMPT = """You are cataloging a single sermon from an Independent \
 Fundamental Baptist church, working ONLY from the verbatim transcript you are \
 given. Like a librarian describing a book, you produce concise, descriptive \
-metadata that helps someone find and orient to the sermon. You are NOT a \
-commentator: you add no theology of your own, and you do NOT supply the \
+metadata that helps someone find, scan, and orient to the sermon. You are NOT \
+a commentator: you add no theology of your own, and you do NOT supply the \
 sermon's conclusions, applications, or takeaways. The point is to help people \
-find the sermon, not to spare them from engaging with it.
+find and navigate the sermon, not to spare them from engaging with it.
+
+The transcript is given with [M:SS] timestamps marking where each part begins.
 
 Hard rules:
 1. Use ONLY what is actually said in this transcript. Never add outside \
@@ -78,32 +80,41 @@ Hard rules:
 4. Keep everything tight, plain, and descriptive. No emojis, no flowery \
    language, no exhortation. Describe what the sermon covers, do not tell the \
    reader what to do about it.
-5. Introduction: 1 to 2 sentences, a standalone description of what the sermon \
-   is about (it is shown when browsing). Name the main passage if the preacher \
-   gives one. Descriptive, not a takeaway.
-6. Outline: the sermon's actual main divisions, in the order he preached them, \
-   as he framed them (keep his numbering or alliteration if he used it). You \
-   may add a short descriptive clause after a colon. Capture only genuine \
-   divisions; do not manufacture points to hit a number.
-7. Themes: 3 to 6 short subject keywords or phrases describing what the sermon \
-   is about (for cataloging and search), for example "prayer", "standing for \
-   convictions", "the home". Descriptive subjects, not lessons or takeaways.
+5. Introduction: write it like a library catalog abstract, NOT like a sentence \
+   about a sermon. Lead with the passage or subject. Do NOT begin with "A \
+   sermon", "This sermon", "The preacher", or "Preaching through". 1 to 2 \
+   tight sentences, third person, present tense. \
+   Good: "An exposition of 2 Corinthians 2:5-11 on forgiveness and restoration \
+   within a local church, drawn from a case of church discipline at Corinth." \
+   Good: "A study of Ruth 3:11 on the meaning of the virtuous woman and the \
+   quiet influence of a godly life." \
+   Avoid: "This sermon examines...", "A sermon from Genesis 39 where the \
+   preacher discusses...".
+6. Themes: 3 to 6 short subject keywords or phrases for cataloging and search, \
+   for example "prayer", "standing for convictions", "the home". Descriptive \
+   subjects, not lessons or takeaways.
+7. Sections: 4 to 8 short section headers marking the major movements of the \
+   sermon as it actually unfolds, in order, like the section headings in a \
+   study Bible. Each has the [M:SS] timestamp where that movement begins (use \
+   the timestamps shown in the transcript) and a heading of 2 to 6 words \
+   describing what that part is about. Descriptive, never exhortation.
 
 Return ONLY a JSON object with exactly this shape (no prose, no code fence):
 {
-  "introduction": "1-2 sentence standalone description; name the main passage if stated",
-  "outline": ["I. ...", "II. ...", "..."],
-  "themes": ["subject", "subject", "..."]
+  "introduction": "catalog-style abstract; lead with the passage or subject",
+  "themes": ["subject", "subject", "..."],
+  "sections": [{"time": "M:SS", "heading": "short section heading"}]
 }"""
 
 
 def build_user_prompt(title: str, transcript: str) -> str:
     return (
         f"SERMON TITLE: {title}\n\n"
-        f"TRANSCRIPT:\n{transcript}\n\n"
+        f"TRANSCRIPT (with [M:SS] timestamps):\n{transcript}\n\n"
         "Produce the JSON catalog record now, following every hard rule. "
-        "Describe the sermon; do not supply its conclusions or applications, "
-        "and never use em dashes."
+        "Write the introduction as a catalog abstract (no \"this sermon\" / "
+        "\"a sermon\" openings), anchor each section to a [M:SS] timestamp from "
+        "the transcript, and never use em dashes."
     )
 
 
@@ -127,34 +138,85 @@ def no_dashes(s: str) -> str:
     return re.sub(r"\s*[—–]\s*", ", ", str(s)).strip()
 
 
+def parse_time(value: Any) -> Optional[int]:
+    """Parse "M:SS", "MM:SS", or "H:MM:SS" into whole seconds."""
+    parts = str(value).strip().split(":")
+    try:
+        nums = [int(p) for p in parts]
+    except ValueError:
+        return None
+    if len(nums) == 2:
+        return nums[0] * 60 + nums[1]
+    if len(nums) == 3:
+        return nums[0] * 3600 + nums[1] * 60 + nums[2]
+    return None
+
+
 def validate_and_clean(obj: Dict[str, Any]) -> Dict[str, Any]:
     """Validate against the schema. Raises ValueError on anything we will not
     persist. Returns the cleaned `notes` block (wrapped with schema version)."""
-    required = ["introduction", "outline", "themes"]
+    required = ["introduction", "themes", "sections"]
     missing = [k for k in required if k not in obj]
     if missing:
         raise ValueError(f"missing fields: {missing}")
-    if not isinstance(obj["outline"], list):
-        raise ValueError("outline must be a list")
     if not isinstance(obj["themes"], list):
         raise ValueError("themes must be a list")
+    if not isinstance(obj["sections"], list):
+        raise ValueError("sections must be a list")
+
+    sections = []
+    for s in obj["sections"]:
+        if not isinstance(s, dict):
+            continue
+        t = parse_time(s.get("time"))
+        heading = no_dashes(s.get("heading", ""))
+        if t is not None and heading:
+            sections.append({"t": t, "heading": heading})
+    sections.sort(key=lambda x: x["t"])
 
     notes = {
         "introduction": no_dashes(obj["introduction"]),
-        "outline": [no_dashes(x) for x in obj["outline"] if str(x).strip()],
         "themes": [no_dashes(t).lower() for t in obj["themes"] if str(t).strip()],
+        "sections": sections,
     }
     if not notes["introduction"]:
         raise ValueError("introduction came back empty")
     return {"notes_schema_version": NOTES_SCHEMA_VERSION, "notes": notes}
 
 
-def load_transcript(video_id: str) -> Optional[str]:
+def load_timestamped_transcript(video_id: str) -> Optional[str]:
+    """Build a compact transcript with [M:SS] markers from the segment list, so
+    the model can anchor section headers to real timestamps. Segments are
+    grouped into ~45s paragraphs to keep the marker count (and tokens) sane."""
     path = os.path.join(TRANSCRIPT_DIR, f"{video_id}.json")
     if not os.path.exists(path):
         return None
     with open(path, "r", encoding="utf-8") as f:
-        return (json.load(f).get("text") or "").strip() or None
+        data = json.load(f)
+    segments = data.get("segments") or []
+    if not segments:
+        text = (data.get("text") or "").strip()
+        return text or None
+
+    groups: List[Dict[str, Any]] = []
+    for seg in segments:
+        try:
+            start = float(seg.get("start", 0))
+        except (TypeError, ValueError):
+            start = 0.0
+        txt = (seg.get("text") or "").strip()
+        if not txt:
+            continue
+        if not groups or start - groups[-1]["start"] >= 45:
+            groups.append({"start": start, "text": txt})
+        else:
+            groups[-1]["text"] += " " + txt
+
+    lines = []
+    for g in groups:
+        m, ss = int(g["start"] // 60), int(g["start"] % 60)
+        lines.append(f"[{m}:{ss:02d}] {g['text']}")
+    return "\n".join(lines) or None
 
 
 def load_metadata(video_id: str) -> Optional[Dict[str, Any]]:
@@ -173,7 +235,7 @@ def generate_for(video_id: str, client: openai.OpenAI, model: str) -> Dict[str, 
     meta = load_metadata(video_id)
     if meta is None:
         raise FileNotFoundError(f"no metadata for {video_id}")
-    transcript = load_transcript(video_id)
+    transcript = load_timestamped_transcript(video_id)
     if not transcript:
         raise FileNotFoundError(f"no transcript text for {video_id}")
     title = meta.get("title", video_id)

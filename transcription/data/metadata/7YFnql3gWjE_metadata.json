@@ -9,21 +9,50 @@
   "duration": 3163,
   "transcription_timestamp": "2025-04-15T00:08:26.872250",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A closing sermon on 1 Timothy 6:13-21 in which the preacher presents Paul's charge to Timothy as a call to continue and finish the Christian race, grounding that charge in three truths about the Lord Jesus Christ: his power, his position, and his plan.",
-    "outline": [
-      "I. God's Power: he quickeneth all things and has power over life and death (vv. 13-16)",
-      "II. God's Position: he is the blessed and only potentate, King of kings and Lord of lords (v. 15)",
-      "III. God's Plan: the appearing of the Lord Jesus Christ as motivation to keep the commandment until the end (vv. 14-19)"
-    ],
+    "introduction": "An exposition of 1 Timothy 6:13-21 on the charge Paul issues to Timothy at the close of the letter, organized around three motivating truths: God's power, God's position as King of Kings and Lord of Lords, and God's plan centered on the return of Christ.",
     "themes": [
       "perseverance in the christian life",
-      "the charge to timothy",
-      "omnipotence of god",
       "the return of christ",
+      "omnipotence of god",
+      "the sovereignty of god",
       "finishing the race",
-      "the sovereignty of god"
+      "eternal life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Charge to Keep and Continue"
+      },
+      {
+        "t": 231,
+        "heading": "Three Truths as Motivation"
+      },
+      {
+        "t": 745,
+        "heading": "God's Power: He Quickeneth All Things"
+      },
+      {
+        "t": 980,
+        "heading": "Christ Before Pilate and Power Over Death"
+      },
+      {
+        "t": 1367,
+        "heading": "God's Position: King of Kings and Lord of Lords"
+      },
+      {
+        "t": 1608,
+        "heading": "God's Plan: The Appearing of Christ"
+      },
+      {
+        "t": 2327,
+        "heading": "Scoffers, the Promise, and God's Long-Suffering"
+      },
+      {
+        "t": 2882,
+        "heading": "Closing Application and Summary of Three Truths"
+      }
     ]
   }
 }

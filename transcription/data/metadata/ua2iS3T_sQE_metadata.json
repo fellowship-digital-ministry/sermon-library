@@ -9,21 +9,46 @@
   "duration": 3593,
   "transcription_timestamp": "2025-04-17T09:12:13.679993",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "A midweek Bible study sermon from Romans 1:14-16 in which the preacher examines the Christian's responsibility and motivation for sharing the gospel, using the hymn 'I Love to Tell the Story' as a framing device alongside a broader series on the doctrine of Christ.",
-    "outline": [
-      "I. Recognize the Privilege: Paul's declaration of being a debtor (Romans 1:14) as a basis for understanding gospel witness as a God-given privilege",
-      "II. Make It a Priority: Paul's readiness to preach (Romans 1:15) and the pattern of purposeful, planned gospel proclamation seen in his ministry in Thessalonica and Athens (Acts 17)",
-      "III. Recognize the Power: Paul's declaration of no shame (Romans 1:16) grounded in the gospel as the power of God unto salvation, illustrated by Paul's own conversion in Acts 9"
-    ],
+    "introduction": "An exposition of Romans 1:14-16 on the Christian's obligation and privilege to share the gospel, organized around three aspects of gospel witness: recognizing the privilege, making it a priority, and recognizing the power. Supporting passages include Acts 5, Acts 9, Acts 17, 1 Corinthians 9, 1 Thessalonians 1-2, and Galatians 1.",
     "themes": [
       "gospel witness",
       "evangelism",
-      "the gospel of christ",
-      "paul's missionary example",
-      "boldness in preaching",
-      "the power of the gospel"
+      "the power of the gospel",
+      "christian duty and privilege",
+      "paul as model witness",
+      "local church outreach"
+    ],
+    "sections": [
+      {
+        "t": 1083,
+        "heading": "Introduction to the Study"
+      },
+      {
+        "t": 1360,
+        "heading": "The World's Confusion About Jesus"
+      },
+      {
+        "t": 1598,
+        "heading": "Recognizing the Privilege of Gospel Witness"
+      },
+      {
+        "t": 2307,
+        "heading": "Making Gospel Witness a Priority"
+      },
+      {
+        "t": 2869,
+        "heading": "Recognizing the Power of the Gospel"
+      },
+      {
+        "t": 3198,
+        "heading": "Paul's Conversion as Illustration of Gospel Power"
+      },
+      {
+        "t": 3385,
+        "heading": "Closing Application and Prayer"
+      }
     ]
   }
 }

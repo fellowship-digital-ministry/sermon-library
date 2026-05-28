@@ -9,21 +9,46 @@
   "duration": 2917,
   "transcription_timestamp": "2025-04-14T20:20:58.722689",
   "model": "whisper-1",
-  "notes_schema_version": 2,
+  "notes_schema_version": 3,
   "notes": {
-    "introduction": "Preaching through 2 Corinthians 2:5-11, this sermon examines the subject of forgiveness within the church, using a disciplinary situation at Corinth as the framework for exploring what biblical forgiveness, comfort, and restoration look like among believers.",
-    "outline": [
-      "I. The Conflict in Corinth (vv. 5-6): the unresolved tension over whether a repentant offender should be restored after church discipline",
-      "II. Paul's Counsel (vv. 7-10): a three-part instruction to forgive, comfort, and confirm love toward the offender, with supporting passages from Matthew 18 and Luke 17",
-      "III. Paul's Concern (v. 11): the warning that failure to forgive gives Satan an advantage, drawing on Ephesians 4 and 6 and other passages on spiritual warfare"
-    ],
+    "introduction": "An exposition of 2 Corinthians 2:5-11 on forgiveness and restoration within a local church, set against the background of a disciplinary case addressed in 1 Corinthians 5. The passage is read alongside Matthew 18, Luke 17, Ephesians 4 and 6, and related texts to frame the corporate and individual dimensions of forgiving a repentant offender.",
     "themes": [
-      "forgiveness",
       "church discipline and restoration",
-      "bitterness and its dangers",
+      "forgiveness",
+      "bitterness and division",
       "spiritual warfare",
-      "the character of god as a forgiving god",
-      "obedience to biblical instruction"
+      "obedience to biblical counsel",
+      "the repentant offender"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "God as a Forgiving God"
+      },
+      {
+        "t": 231,
+        "heading": "Background: Corinth and 1 Corinthians 5"
+      },
+      {
+        "t": 606,
+        "heading": "The Conflict in Corinth"
+      },
+      {
+        "t": 1039,
+        "heading": "Paul's Counsel: Forgive, Comfort, Confirm"
+      },
+      {
+        "t": 1732,
+        "heading": "Obedience in Forgiveness and Restoration"
+      },
+      {
+        "t": 2057,
+        "heading": "Paul's Concern: Satan's Advantage"
+      },
+      {
+        "t": 2571,
+        "heading": "Unforgiveness as an Opening for the Enemy"
+      }
     ]
   }
 }

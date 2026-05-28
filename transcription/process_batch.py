@@ -52,7 +52,13 @@ from utils import generate_srt_file, generate_vtt_file
 logger = logging.getLogger(__name__)
 
 def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, cookies_file=None):
-    """Download audio from a YouTube video using yt-dlp."""
+    """Download audio from a YouTube video using yt-dlp.
+
+    Retries once after a 45s pause on failure. Most failures during a batch
+    run are throughput-driven (yt-dlp player-JSON extraction races, YouTube
+    per-IP burst protection) and clear on retry. A single retry is enough —
+    if it fails twice, the underlying issue is unlikely to be transient.
+    """
     os.makedirs(output_dir, exist_ok=True)
     output_file = get_audio_filename(video_id, output_dir)
 
@@ -61,7 +67,6 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, 
         return output_file
 
     video_url = get_video_url(video_id)
-    logger.info(f"Downloading audio from {video_url}")
 
     ydl_opts = {
         'format': config.YTDLP_FORMAT,
@@ -79,15 +84,26 @@ def download_audio(video_id, output_dir=config.AUDIO_DIR, force_download=False, 
     if cookies_file:
         ydl_opts['cookiefile'] = cookies_file
 
-    try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            ydl.download([video_url])
+    attempts = 2
+    last_error = None
+    for attempt in range(1, attempts + 1):
+        try:
+            if attempt > 1:
+                logger.info(f"Retrying {video_id} (attempt {attempt}/{attempts}) after backoff")
+            else:
+                logger.info(f"Downloading audio from {video_url}")
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                ydl.download([video_url])
+            logger.info(f"Successfully downloaded audio for {video_id} to {output_file}")
+            return output_file
+        except Exception as e:
+            last_error = e
+            logger.warning(f"Download attempt {attempt}/{attempts} failed for {video_id}: {e}")
+            if attempt < attempts:
+                time.sleep(45)
 
-        logger.info(f"Successfully downloaded audio for {video_id} to {output_file}")
-        return output_file
-    except Exception as e:
-        logger.error(f"Failed to download audio for {video_id}: {e}")
-        return None
+    logger.error(f"Failed to download audio for {video_id} after {attempts} attempts: {last_error}")
+    return None
 
 def update_video_status(csv_path, video_id, status, transcript_path=None):
     """

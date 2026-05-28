@@ -75,9 +75,13 @@ echo "[3/8] prefetch audio from church podcast RSS"
 python tools/rss_prefetch_audio.py || echo "(RSS prefetch had issues, continuing)"
 
 # --- transcribe everything pending ---
+# --delay 15: yesterday's --delay 3 burst hammered yt-dlp's player-JSON
+# extraction (and probably YouTube's per-IP burst protection), causing 31
+# sermons to fail with "Requested format is not available". Individual
+# retries succeed cleanly, so the failure was throughput-driven.
 echo ""
 echo "[4/8] transcribe pending sermons"
-( cd transcription && python process_batch.py --csv data/video_list.csv --full --delay 3 )
+( cd transcription && python process_batch.py --csv data/video_list.csv --full --delay 15 )
 TRANSCRIBE_STATUS=$?
 echo "transcribe exit status: $TRANSCRIBE_STATUS"
 

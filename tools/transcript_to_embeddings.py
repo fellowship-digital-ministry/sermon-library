@@ -12,6 +12,7 @@ Improvements:
 
 import os
 import json
+import math
 import time
 import argparse
 import pandas as pd
@@ -21,6 +22,23 @@ from datetime import datetime
 from tqdm import tqdm
 import sys
 import traceback
+
+
+def _norm(v):
+    """Normalize a pandas cell to a JSON-safe primitive.
+
+    pandas reads missing/blank cells as float('nan'), which:
+    - is truthy in Python (`nan or X` returns nan, defeating `or` fallbacks)
+    - serializes to the non-standard JSON literal `NaN`, which Pinecone
+      rejects with HTTP 400 on upsert
+
+    Return '' for missing values; pass other types through unchanged.
+    """
+    if v is None:
+        return ''
+    if isinstance(v, float) and math.isnan(v):
+        return ''
+    return v
 
 import openai
 from pinecone import Pinecone, ServerlessSpec, CloudProvider
@@ -177,17 +195,19 @@ def get_videos_needing_embeddings(df_videos: pd.DataFrame) -> List[Dict]:
     
     logger.info(f"Found {len(videos_to_process)} videos needing embeddings")
     
-    # Convert to list of dictionaries
+    # Convert to list of dictionaries. _norm() is critical here: pandas
+    # NaN values would otherwise flow through to Pinecone metadata and
+    # cause every upsert batch to 400. See _norm() docstring.
     videos_list = []
     for _, row in videos_to_process.iterrows():
         video_data = {
-            'video_id': row['video_id'],
-            'title': row['title'],
-            'transcript_path': row.get('transcript_path', ''),
-            'publish_date': row.get('publish_date', '')
+            'video_id': _norm(row['video_id']),
+            'title': _norm(row['title']),
+            'transcript_path': _norm(row.get('transcript_path', '')),
+            'publish_date': _norm(row.get('publish_date', '')),
         }
         videos_list.append(video_data)
-    
+
     return videos_list
 
 def load_transcript(file_path: str) -> Dict:
@@ -508,7 +528,20 @@ def process_video(
         
         # Upload to Pinecone
         uploaded = upload_to_pinecone(pinecone_index, embeddings, chunks, metadata)
-        
+        expected = sum(1 for e in embeddings if e)
+
+        # A run isn't "successful" if Pinecone rejected the vectors.
+        # Returning success=True with uploaded=0 hides real failures in
+        # the log and leaves CSV embeddings_status untouched (because the
+        # caller's branch only fires for success+uploaded>0 or not-success).
+        if uploaded < expected:
+            logger.error(
+                f"Upload incomplete for {video_id}: "
+                f"{uploaded}/{expected} vectors made it to Pinecone "
+                f"({len(chunks)} chunks generated). Marking as failed."
+            )
+            return False, len(chunks), uploaded
+
         logger.info(f"Successfully processed {video_id}: {len(chunks)} chunks, {uploaded} vectors uploaded")
         return True, len(chunks), uploaded
         

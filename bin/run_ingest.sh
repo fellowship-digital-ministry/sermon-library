@@ -55,52 +55,63 @@ fi
 
 # --- pull latest first so our commits don't race with anything else ---
 echo ""
-echo "[1/5] git pull"
+echo "[1/8] git pull"
 git pull --rebase --autostash origin main || { echo "git pull failed; aborting"; exit 2; }
 
-# --- 1. discover new videos via yt-dlp flat-playlist enumeration ---
+# --- discover new videos via yt-dlp flat-playlist enumeration ---
+# Metadata-only; this path is NOT subject to YouTube's download gating.
 echo ""
-echo "[2/5] discover new videos from YouTube channel"
+echo "[2/8] discover new videos from YouTube channel"
 python tools/discover_youtube_backlog.py || echo "(discover step had issues, continuing)"
 
-# --- 2. transcribe everything pending ---
+# --- prefetch audio from the church podcast RSS feed ---
+# YouTube downloads are increasingly blocked, but the church mirrors each
+# sermon as plain-HTTP MP3 on its podcast feed. Drop those into the audio
+# dir; process_batch.py's "file already exists" guard then skips yt-dlp
+# entirely. Only the most recent ~10 sermons are in the RSS window, so
+# anything older still falls through to yt-dlp.
 echo ""
-echo "[3/5] transcribe pending sermons"
+echo "[3/8] prefetch audio from church podcast RSS"
+python tools/rss_prefetch_audio.py || echo "(RSS prefetch had issues, continuing)"
+
+# --- transcribe everything pending ---
+echo ""
+echo "[4/8] transcribe pending sermons"
 ( cd transcription && python process_batch.py --csv data/video_list.csv --full --delay 3 )
 TRANSCRIBE_STATUS=$?
 echo "transcribe exit status: $TRANSCRIBE_STATUS"
 
-# --- 3. push new transcripts to Pinecone ---
+# --- push new transcripts to Pinecone ---
 echo ""
-echo "[4/6] generate embeddings for new transcripts"
+echo "[5/8] generate embeddings for new transcripts"
 python tools/transcript_to_embeddings.py \
   --video_list_csv transcription/data/video_list.csv \
   --transcript_dir transcription/data/transcripts \
   --skip_existing || echo "(embeddings step had issues, continuing)"
 
-# --- 4. extract Bible references from new transcripts ---
+# --- extract Bible references from new transcripts ---
 # Tracker file (transcription/data/bible_references/processed_files.json)
 # already handles incremental — skips transcripts it has already seen.
 # Uses Claude Haiku 4.5 via OpenRouter (OPENROUTER_API_KEY in .env).
 echo ""
-echo "[5/7] extract bible references for new transcripts"
+echo "[6/8] extract bible references for new transcripts"
 python tools/bible_reference_extractor.py \
   --input-dir transcription/data/transcripts \
   --output-dir transcription/data/bible_references \
   || echo "(bible reference extraction had issues, continuing)"
 
-# --- 5. generate "In this sermon" footnote summaries for new references ---
+# --- generate "In this sermon" footnote summaries for new references ---
 # Idempotent: only refs without a point_summary field get processed, so this
 # is cheap on weekly runs (only the new sermon's refs). Uses Sonnet 4.6 by
 # default for theological nuance; override with SUMMARY_MODEL env var.
 echo ""
-echo "[6/7] generate footnote summaries for new references"
+echo "[7/8] generate footnote summaries for new references"
 python tools/generate_reference_summaries.py \
   || echo "(footnote summary generation had issues, continuing)"
 
-# --- 6. commit and push results ---
+# --- commit and push results ---
 echo ""
-echo "[7/7] commit & push"
+echo "[8/8] commit & push"
 git add transcription/data/video_list.csv \
         transcription/data/transcripts/ \
         transcription/data/metadata/ \

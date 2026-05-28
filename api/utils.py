@@ -21,6 +21,27 @@ PINECONE_ENVIRONMENT = os.environ.get("PINECONE_ENVIRONMENT", "us-east-1")
 PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "sermon-embeddings")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-3-small")
 SEARCH_TOP_K = int(os.environ.get("SEARCH_TOP_K", "5"))
+
+# Two-tier retrieval floors. With text-embedding-3-small, a genuinely on-topic
+# question that doesn't echo the sermon's exact wording routinely scores in the
+# 0.40-0.55 range. A single hard floor at 0.6 dropped those before the model
+# ever saw them — the "you have to know exactly what to ask" problem.
+#
+#   ANSWER_SCORE_FLOOR  — minimum similarity for a segment to be fed to the
+#                         answer model. Set low: the grounded system prompt +
+#                         off-topic policy is the real gate that refuses to
+#                         answer from irrelevant context, so recall here is
+#                         safe. Lower = answers more loosely-phrased questions.
+#   SOURCE_SCORE_FLOOR  — minimum similarity for a segment to be SHOWN in the
+#                         sources panel. Set higher so weak/off-topic matches
+#                         (e.g. food matches for "nearest restaurant") don't
+#                         masquerade as "sources." Note the verifiability
+#                         tradeoff: a source the model used but scoring between
+#                         the two floors is hidden from the panel. Narrow the
+#                         gap (raise ANSWER, lower SOURCE) if that matters more
+#                         than a clean panel for your congregation.
+ANSWER_SCORE_FLOOR = float(os.environ.get("ANSWER_SCORE_FLOOR", "0.38"))
+SOURCE_SCORE_FLOOR = float(os.environ.get("SOURCE_SCORE_FLOOR", "0.55"))
 COMPLETION_MODEL = os.environ.get("COMPLETION_MODEL", "gpt-4o")  # OpenAI direct: suggested-query generation
 ANSWER_MODEL = os.environ.get("ANSWER_MODEL", "anthropic/claude-sonnet-4.6")  # OpenRouter slug: main grounded answer
 TRANSLATION_MODEL = os.environ.get("TRANSLATION_MODEL", "gpt-4o")  # OpenAI direct: translations

@@ -16,6 +16,8 @@ from .utils import (
     COMPLETION_MODEL,
     PINECONE_INDEX_NAME,
     SEARCH_TOP_K,
+    ANSWER_SCORE_FLOOR,
+    SOURCE_SCORE_FLOOR,
     SUBTITLES_DIR,
     METADATA_DIR,
     get_language,
@@ -124,7 +126,7 @@ async def quota():
 async def search(
     query: str = Query(..., description="The search query"),
     top_k: int = Query(SEARCH_TOP_K, description="Number of results to return"),
-    min_score: float = Query(0.6, description="Minimum similarity score (0-1)")
+    min_score: float = Query(SOURCE_SCORE_FLOOR, description="Minimum similarity score (0-1)")
 ):
     """
     Search for sermon segments matching the query.
@@ -318,12 +320,13 @@ async def answer(
         search_results = []
 
         for match in search_response.matches:
-            # Threshold matches the /search endpoint default (0.6). The old
-            # 0.5 was loose enough that off-topic queries (e.g. "where's
-            # the nearest restaurant") picked up weak food/hunger matches
-            # that misleadingly populated the sources panel. 0.6 keeps
-            # legitimate borderline questions while dropping the noise.
-            if match.score < 0.6:
+            # Two-tier floor: keep anything at/above the (low) ANSWER_SCORE_FLOOR
+            # so loosely-phrased but on-topic questions still reach the model.
+            # The grounded system prompt + off-topic policy decides whether to
+            # actually answer. Weak matches are filtered OUT of the sources
+            # panel separately (SOURCE_SCORE_FLOOR) after the answer is built,
+            # so off-topic noise never masquerades as a citation.
+            if match.score < ANSWER_SCORE_FLOOR:
                 continue
 
             metadata = match.metadata
@@ -397,10 +400,15 @@ async def answer(
             answer_text = await translate_text(answer_text, "en", original_language)
             print(f"Translated answer from English to {original_language}")
 
+        # Sources panel shows only the stronger matches (SOURCE_SCORE_FLOOR);
+        # the weaker ones above ANSWER_SCORE_FLOOR still informed the answer but
+        # aren't surfaced as standalone citations to keep the panel clean.
+        display_sources = [s for s in search_results if s.similarity >= SOURCE_SCORE_FLOOR]
+
         return AnswerResponse(
             query=request.query,  # Return the original untranslated query
             answer=answer_text,
-            sources=search_results if request.include_sources else [],
+            sources=display_sources if request.include_sources else [],
             processing_time=time.time() - start_time,
             suggested_queries=suggested_queries
         )
@@ -494,8 +502,8 @@ async def answer_stream(
 
         search_results = []
         for match in search_response.matches:
-            # See /answer above for rationale on the 0.6 floor.
-            if match.score < 0.6:
+            # See /answer above for the two-tier floor rationale.
+            if match.score < ANSWER_SCORE_FLOOR:
                 continue
             metadata = match.metadata
             video_id = metadata.get("video_id", "")
@@ -539,8 +547,11 @@ async def answer_stream(
         cost_holder = {"cost": 0.0}
         settled = False
         try:
+            # Sources panel shows only stronger matches (SOURCE_SCORE_FLOOR);
+            # weaker ones still feed the model but aren't surfaced as citations.
+            display_sources = [s for s in search_results if s.similarity >= SOURCE_SCORE_FLOOR]
             yield _format_sse('sources', {
-                'sources': [s.model_dump() for s in (search_results if request.include_sources else [])],
+                'sources': [s.model_dump() for s in (display_sources if request.include_sources else [])],
             })
 
             if not search_results:

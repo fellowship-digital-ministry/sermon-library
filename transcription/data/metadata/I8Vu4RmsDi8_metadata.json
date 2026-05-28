@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I8Vu4RmsDi8.vtt",
   "duration": 3107,
   "transcription_timestamp": "2025-04-17T09:01:01.645378",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 4:12-19 on the nature and purpose of trials for believers, set against the backdrop of Nero's persecution of scattered Christians in the first century. Peter's encouragement to 'think it not strange' concerning fiery trials is traced through supporting passages in 1 Peter 1, Philippians 1 and 3, Acts 4, 5, and 12, and illustrated with accounts of Peter's own sufferings and a personal pastoral anecdote.",
+    "themes": [
+      "trials and suffering",
+      "biblical perspective on adversity",
+      "god's purpose in trials",
+      "rejoicing under persecution",
+      "suffering before glory",
+      "steadfastness in witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context of 1 Peter and Its Recipients"
+      },
+      {
+        "t": 150,
+        "heading": "Foundation in 1 Peter 1: Trial of Faith"
+      },
+      {
+        "t": 292,
+        "heading": "Developing a Biblical Perspective on Trials"
+      },
+      {
+        "t": 674,
+        "heading": "Exposition of 1 Peter 4:12-19"
+      },
+      {
+        "t": 1227,
+        "heading": "Suffering for Christ Versus Suffering for Wrongdoing"
+      },
+      {
+        "t": 1651,
+        "heading": "Peter's Own Experience of Persecution in Acts"
+      },
+      {
+        "t": 2347,
+        "heading": "Acts 12: Peter Imprisoned and Delivered"
+      },
+      {
+        "t": 2674,
+        "heading": "Personal Illustration: The Broken Tooth"
+      }
+    ]
+  }
 }

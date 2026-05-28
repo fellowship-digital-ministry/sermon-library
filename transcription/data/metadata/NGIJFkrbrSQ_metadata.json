@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NGIJFkrbrSQ.vtt",
   "duration": 1766,
   "transcription_timestamp": "2025-04-17T10:20:03.027488",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 16:13-17, with parallel references to Mark 6, Mark 8, and Luke 9, on the question of Christ's identity as the opening lesson in a series on Christology within a broader study of Titus 2:1 and sound doctrine. The sermon examines the confusion surrounding Jesus's identity in the Gospels, the source of that confusion, and Peter's confession of Christ as the Son of the living God.",
+    "themes": [
+      "christology",
+      "identity of christ",
+      "peter's confession",
+      "spiritual blindness",
+      "sound doctrine",
+      "evangelism and witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 92,
+        "heading": "The Question Jesus Asked"
+      },
+      {
+        "t": 332,
+        "heading": "Confusion of the People"
+      },
+      {
+        "t": 521,
+        "heading": "Parallel Accounts in Mark and Luke"
+      },
+      {
+        "t": 659,
+        "heading": "Source of the Confusion: Satan's Blinding Work"
+      },
+      {
+        "t": 803,
+        "heading": "Confusion About Christ Today"
+      },
+      {
+        "t": 1085,
+        "heading": "Peter's Confident Confession"
+      }
+    ]
+  }
 }

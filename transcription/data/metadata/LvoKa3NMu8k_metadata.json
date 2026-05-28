@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LvoKa3NMu8k.vtt",
   "duration": 3128,
   "transcription_timestamp": "2025-04-17T05:28:28.638318",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 2:16-23 on three traps of false teaching identified by Paul for the believers at Colossae: legalism, mysticism, and asceticism. Supporting passages from Hebrews, Romans, 1 and 2 Corinthians, Galatians, 1 and 2 Peter, and 1 John are drawn in throughout.",
+    "themes": [
+      "false teaching",
+      "legalism",
+      "mysticism",
+      "asceticism",
+      "the sufficiency of christ",
+      "sound doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 232,
+        "heading": "The Answer to Error Is Truth"
+      },
+      {
+        "t": 512,
+        "heading": "Trap One: Legalism (vv. 16-17)"
+      },
+      {
+        "t": 1219,
+        "heading": "Liberty, Stumbling Blocks, and the Law"
+      },
+      {
+        "t": 1542,
+        "heading": "Trap Two: Mysticism (vv. 18-19)"
+      },
+      {
+        "t": 2329,
+        "heading": "Trap Three: Asceticism (vv. 20-23)"
+      },
+      {
+        "t": 2793,
+        "heading": "Summary: Christ in His Proper Place"
+      }
+    ]
+  }
 }

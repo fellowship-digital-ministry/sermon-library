@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NQwl69OFN-Y.vtt",
   "duration": 3023,
   "transcription_timestamp": "2025-04-14T22:31:08.671513",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:6 and 2:24-26 on hard work as the fifth characteristic of a good soldier, illustrated through the agricultural image of the laboring husbandman and supported by passages from Nehemiah, 1 Corinthians, Galatians, and Ecclesiastes. Part five of a series on 2 Timothy 2 within a yearlong theme of continuing in Christian service.",
+    "themes": [
+      "work ethic in christian service",
+      "laboring for god",
+      "the husbandman as illustration",
+      "expectation of fruit and reward",
+      "spiritual warfare and opposition to the work",
+      "the servant of the lord in ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prior Characteristics"
+      },
+      {
+        "t": 324,
+        "heading": "Fifth Characteristic: Working Hard"
+      },
+      {
+        "t": 415,
+        "heading": "Exhortation to Work Hard"
+      },
+      {
+        "t": 1113,
+        "heading": "Example of Hard Work in Nehemiah"
+      },
+      {
+        "t": 1762,
+        "heading": "The Husbandman's Labor in Ministry"
+      },
+      {
+        "t": 1992,
+        "heading": "Expectation of Fruit for Hard Work"
+      },
+      {
+        "t": 2785,
+        "heading": "God's Knowledge of Each Church's Works"
+      }
+    ]
+  }
 }

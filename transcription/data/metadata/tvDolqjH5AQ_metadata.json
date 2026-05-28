@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tvDolqjH5AQ.vtt",
   "duration": 3201,
   "transcription_timestamp": "2025-04-17T00:41:13.152184",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 1:5-10 on the nature of God as light and its implications for the believer's fellowship with Him, tracing the contrast between light and darkness through the New Testament and examining what hinders and restores that fellowship.",
+    "themes": [
+      "fellowship with god",
+      "light and darkness",
+      "sin and confession",
+      "self-deception",
+      "restoration of fellowship",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "God Is Light: The Declaration"
+      },
+      {
+        "t": 189,
+        "heading": "Light and Darkness in Scripture"
+      },
+      {
+        "t": 429,
+        "heading": "The Blessedness of Fellowship"
+      },
+      {
+        "t": 801,
+        "heading": "The Hindrance to Fellowship"
+      },
+      {
+        "t": 1169,
+        "heading": "Absence of Truth Linked to Hindered Fellowship"
+      },
+      {
+        "t": 1738,
+        "heading": "The Restoration of Fellowship"
+      },
+      {
+        "t": 2687,
+        "heading": "John 13: A Picture of Cleansing"
+      }
+    ]
+  }
 }

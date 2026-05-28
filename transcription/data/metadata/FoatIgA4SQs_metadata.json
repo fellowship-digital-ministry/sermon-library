@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FoatIgA4SQs.vtt",
   "duration": 2697,
   "transcription_timestamp": "2025-04-16T14:29:16.766445",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 3:11-18 on brotherly love as an evidence of conversion, tracing the recurring theme of love for the brethren through the epistle and contrasting it with the hatred of Cain toward Abel and the hatred of the world toward believers.",
+    "themes": [
+      "brotherly love",
+      "evidence of conversion",
+      "hatred of the world",
+      "love in action",
+      "the love of god",
+      "division in the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text"
+      },
+      {
+        "t": 285,
+        "heading": "Love for the Brethren Expected"
+      },
+      {
+        "t": 622,
+        "heading": "Hatred from the World Expected"
+      },
+      {
+        "t": 1194,
+        "heading": "Brotherly Love as Evidence of Conversion"
+      },
+      {
+        "t": 1800,
+        "heading": "The Greatest Example of Love"
+      },
+      {
+        "t": 2037,
+        "heading": "Love Explained in Deed and Truth"
+      },
+      {
+        "t": 2279,
+        "heading": "Love Without Hypocrisy"
+      }
+    ]
+  }
 }

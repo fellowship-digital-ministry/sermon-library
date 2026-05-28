@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hcLp0UiW6yU.vtt",
   "duration": 2704,
   "transcription_timestamp": "2025-04-17T05:43:04.818849",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 2:11 on the responsibilities of a spiritual father figure, covering three additional principles drawn from Paul's relationship with the Thessalonian church: intercessory prayer, commendation of progress, and intentional investment in growing believers. Addressed to both parents and mature believers engaged in discipleship.",
+    "themes": [
+      "intercessory prayer",
+      "discipleship",
+      "parenting",
+      "commendation and encouragement",
+      "spiritual investment",
+      "modeling biblical truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part One"
+      },
+      {
+        "t": 379,
+        "heading": "Praying for Children and Believers"
+      },
+      {
+        "t": 566,
+        "heading": "Paul's Prayer Pattern in Thessalonians"
+      },
+      {
+        "t": 890,
+        "heading": "Recognizing the Battles They Face"
+      },
+      {
+        "t": 1169,
+        "heading": "Commending Progress and Growth"
+      },
+      {
+        "t": 1908,
+        "heading": "Investing Time in People"
+      },
+      {
+        "t": 2425,
+        "heading": "Summary and Self-Examination"
+      }
+    ]
+  }
 }

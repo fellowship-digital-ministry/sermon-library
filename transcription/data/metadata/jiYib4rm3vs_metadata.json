@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jiYib4rm3vs.vtt",
   "duration": 2898,
   "transcription_timestamp": "2025-04-16T08:20:27.522283",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 1:14-16 on personal responsibility for gospel witness, framed by the moral decline of America and the claim that Jesus Christ is the only hope for any nation. Psalm 119:126, 136 and supporting passages from Acts, Isaiah, and the Pauline epistles ground the three-point structure.",
+    "themes": [
+      "gospel witness",
+      "personal evangelism",
+      "national moral decline",
+      "salvation",
+      "the power of the gospel",
+      "christian responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: The Snowball Effect of Sin"
+      },
+      {
+        "t": 93,
+        "heading": "America's Rejection of God"
+      },
+      {
+        "t": 236,
+        "heading": "Psalm 119 and Grief Over Lawlessness"
+      },
+      {
+        "t": 476,
+        "heading": "Paul's Example of Surrender and Debt"
+      },
+      {
+        "t": 568,
+        "heading": "Embracing Personal Responsibility to Share the Gospel"
+      },
+      {
+        "t": 1031,
+        "heading": "Engaging in Personal Evangelism"
+      },
+      {
+        "t": 1727,
+        "heading": "Expecting God to Work Through the Gospel"
+      }
+    ]
+  }
 }

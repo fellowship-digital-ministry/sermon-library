@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KNJW7jy8zDg.vtt",
   "duration": 3027,
   "transcription_timestamp": "2025-04-17T20:34:36.404025",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 5:11-14 on the third warning passage in Hebrews, addressing spiritual immaturity among believers who have become slow or sluggish in receiving biblical instruction. The passage is examined alongside parallel texts in 1 Corinthians 3, Acts 17, and the Great Commission in Matthew 28.",
+    "themes": [
+      "spiritual immaturity",
+      "spiritual growth and maturity",
+      "hearing and receiving the word",
+      "discipleship",
+      "warning passages in hebrews",
+      "discernment"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 143,
+        "heading": "Third Warning Passage in Hebrews"
+      },
+      {
+        "t": 385,
+        "heading": "Review of Prior Warning Passages"
+      },
+      {
+        "t": 625,
+        "heading": "Imparting of Spiritual Truth"
+      },
+      {
+        "t": 1100,
+        "heading": "Immaturity of the Saints"
+      },
+      {
+        "t": 1752,
+        "heading": "Importance of Spiritual Growth"
+      },
+      {
+        "t": 2419,
+        "heading": "The Bereans as Contrast Example"
+      }
+    ]
+  }
 }

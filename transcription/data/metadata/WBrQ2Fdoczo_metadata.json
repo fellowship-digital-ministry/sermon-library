@@ -8,5 +8,42 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBrQ2Fdoczo.vtt",
   "duration": 2625,
   "transcription_timestamp": "2025-04-16T16:24:36.680068",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 28:1-9 on Isaac's blessing and charge to Jacob before his departure to Paddan Aram, set against the backdrop of Esau's marriages and his subsequent response to the instruction he overhears.",
+    "themes": [
+      "parental instruction on marriage",
+      "the abrahamic covenant",
+      "obedience and blessing",
+      "esau's response",
+      "departure of jacob"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context from Genesis 27"
+      },
+      {
+        "t": 94,
+        "heading": "Isaac's Charge Regarding Marriage"
+      },
+      {
+        "t": 583,
+        "heading": "Precedent from Genesis 24"
+      },
+      {
+        "t": 907,
+        "heading": "Departure of Jacob"
+      },
+      {
+        "t": 1230,
+        "heading": "Esau's Awareness and Response"
+      },
+      {
+        "t": 2092,
+        "heading": "Manufacturing Blessing vs. Obedience"
+      }
+    ]
+  }
 }

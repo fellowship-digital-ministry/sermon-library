@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\AZytGOf3GPA.vtt",
   "duration": 3134,
   "transcription_timestamp": "2025-04-15T07:25:19.597290",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 3:1-15 on the two offices of the local church, the pastor and the deacon, with attention to the qualifications required for each office and the biblical basis for church leadership structure.",
+    "themes": [
+      "church polity",
+      "office of pastor",
+      "office of deacon",
+      "leadership qualifications",
+      "local church order",
+      "behavior in the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context of 1 Timothy"
+      },
+      {
+        "t": 323,
+        "heading": "The Church as God's Institution"
+      },
+      {
+        "t": 602,
+        "heading": "Bishop, Elder, and Pastor as Interchangeable Terms"
+      },
+      {
+        "t": 1113,
+        "heading": "Qualifications for the Office of Bishop"
+      },
+      {
+        "t": 2072,
+        "heading": "The Office of Deacon and Its Qualifications"
+      },
+      {
+        "t": 2400,
+        "heading": "Acts 6 and the Servant Role of Deacons"
+      },
+      {
+        "t": 2645,
+        "heading": "Adhering to Biblical Standards for Church Leadership"
+      }
+    ]
+  }
 }

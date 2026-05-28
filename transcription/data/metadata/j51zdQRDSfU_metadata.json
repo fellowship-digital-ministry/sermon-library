@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\j51zdQRDSfU.vtt",
   "duration": 3330,
   "transcription_timestamp": "2025-04-17T07:53:44.423222",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 2:4-7 on the danger of false teachers and the call to continued spiritual growth, addressed to a congregation in the context of a verse-by-verse study of Colossians. Paul's caution against deception by enticing words, his commendation of the Colossian believers, and his challenge to walk, grow, and abound in thanksgiving are treated in sequence.",
+    "themes": [
+      "false teaching",
+      "spiritual growth",
+      "walking with christ",
+      "discernment",
+      "biblical grounding",
+      "thanksgiving for truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 329,
+        "heading": "The Passage Read and Titled"
+      },
+      {
+        "t": 375,
+        "heading": "Paul's Caution Against False Teachers"
+      },
+      {
+        "t": 1348,
+        "heading": "Paul's Commendation of the Colossians"
+      },
+      {
+        "t": 1739,
+        "heading": "Paul's Challenge Regarding Their Walk"
+      },
+      {
+        "t": 2253,
+        "heading": "Rooted, Built Up, and Established in Christ"
+      },
+      {
+        "t": 2818,
+        "heading": "Abounding in Thanksgiving"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CHq3SIGfCKo.vtt",
   "duration": 3056,
   "transcription_timestamp": "2025-04-14T21:16:31.869498",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 3:13 through 4:5 on perseverance in ministry during perilous times, drawn from Paul's charge to Timothy at Ephesus. The sermon addresses how believers are equipped and encouraged to continue faithful service amid increasing wickedness and hostility toward biblical Christianity.",
+    "themes": [
+      "perseverance in ministry",
+      "scripture as equipping",
+      "the last days",
+      "sound doctrine",
+      "the return of christ",
+      "faithful witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Perilous Times and the Study"
+      },
+      {
+        "t": 139,
+        "heading": "The Believer's Question in Hostile Times"
+      },
+      {
+        "t": 461,
+        "heading": "Equipped to Press On: Timothy's Instruction and Influence"
+      },
+      {
+        "t": 1065,
+        "heading": "Scripture: Inspired and Profitable"
+      },
+      {
+        "t": 2142,
+        "heading": "Encouraged to Press On: Christ's Return"
+      },
+      {
+        "t": 2378,
+        "heading": "The Priority of Preaching the Word"
+      },
+      {
+        "t": 2616,
+        "heading": "Enduring When Response Is Negative"
+      },
+      {
+        "t": 2802,
+        "heading": "Faithfulness and the Call to Press On"
+      }
+    ]
+  }
 }

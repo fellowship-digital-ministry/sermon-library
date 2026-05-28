@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0wy6AB2BCmw.vtt",
   "duration": 3089,
   "transcription_timestamp": "2025-04-15T10:25:16.859311",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 145:1-21 on the greatness of God, presented as the concluding message of a yearlong sermon series titled 'Great Is The Lord.' The psalm is examined verse by verse, drawing out attributes of God as the basis for convinced praise and committed declaration across generations.",
+    "themes": [
+      "greatness of god",
+      "attributes of god",
+      "praise and worship",
+      "evangelism and gospel witness",
+      "generational faithfulness",
+      "salvation and eternal life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 140,
+        "heading": "Psalm 145 Read and Framed"
+      },
+      {
+        "t": 332,
+        "heading": "Point One: Psalmist Convinced of God's Greatness"
+      },
+      {
+        "t": 473,
+        "heading": "God's Attributes Detailed in the Psalm"
+      },
+      {
+        "t": 1127,
+        "heading": "God's Kingdom, Eternity, and Providence"
+      },
+      {
+        "t": 2137,
+        "heading": "Point Two: Psalmist Committed to Declaring God's Greatness"
+      },
+      {
+        "t": 2519,
+        "heading": "Point Three: The Charge to Every Believer"
+      },
+      {
+        "t": 2704,
+        "heading": "Philippians 2 and Every Knee Bowing"
+      }
+    ]
+  }
 }

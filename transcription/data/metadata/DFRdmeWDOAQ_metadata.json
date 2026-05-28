@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DFRdmeWDOAQ.vtt",
   "duration": 3107,
   "transcription_timestamp": "2025-04-17T10:25:09.997035",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 15:2-6 on Abram's childlessness, God's reiteration of the seed promise, and Abram's response of belief, set within a verse-by-verse series through Genesis. The passage is read alongside Romans 4 and Galatians 3 to trace the counting of faith for righteousness from Abram through the New Testament.",
+    "themes": [
+      "faith and doubt",
+      "the promises of god",
+      "the seed promise to abram",
+      "righteousness by faith",
+      "transparency in prayer",
+      "the messianic line"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Genesis 15:1 Review"
+      },
+      {
+        "t": 470,
+        "heading": "Abram's Perspective Revealed (vv. 2-3)"
+      },
+      {
+        "t": 612,
+        "heading": "Prior Promises in Genesis 12 and 13"
+      },
+      {
+        "t": 1074,
+        "heading": "God's Promise Explained (vv. 4-5)"
+      },
+      {
+        "t": 1909,
+        "heading": "God's Promise Embraced: Abram Believes (v. 6)"
+      },
+      {
+        "t": 2144,
+        "heading": "Romans 4 and Galatians 3 on Faith and Righteousness"
+      },
+      {
+        "t": 2662,
+        "heading": "Fulfillment of the Promise and Closing Application"
+      }
+    ]
+  }
 }

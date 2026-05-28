@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1G-uKA-Shpo.vtt",
   "duration": 2998,
   "transcription_timestamp": "2025-04-14T23:40:00.945022",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:1-2 on the principle of passing biblical truth to the next generation, framed around Paul's investment in Timothy and the instruction to commit sound teaching to faithful men who can teach others also.",
+    "themes": [
+      "discipleship",
+      "generational faithfulness",
+      "investing in others",
+      "the local church",
+      "christian education",
+      "spiritual mentorship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to 2 Timothy 2"
+      },
+      {
+        "t": 101,
+        "heading": "The Enemy's Imitation of the Principle"
+      },
+      {
+        "t": 349,
+        "heading": "Losses in Passing Down the Faith"
+      },
+      {
+        "t": 399,
+        "heading": "Considering Paul's Investment"
+      },
+      {
+        "t": 590,
+        "heading": "Three Qualities of Investment: Purposed, Patient, Particular"
+      },
+      {
+        "t": 1342,
+        "heading": "Paul's Instruction to Timothy"
+      },
+      {
+        "t": 2182,
+        "heading": "The Importance of Following the Principle"
+      },
+      {
+        "t": 2597,
+        "heading": "The Principle in the Home and the Church"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LWRF1zxBaOM.vtt",
   "duration": 1920,
   "transcription_timestamp": "2025-04-15T08:21:08.488900",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:17 on the command to pray without ceasing, presented as the tenth lesson in a series on walking worthy before God, drawing on Hebrews 4 and 10, Ezra 8, Lamentations 3, and Nehemiah 1-2 to develop three principles related to the command.",
+    "themes": [
+      "prayer",
+      "access to god",
+      "god's ability to answer prayer",
+      "attitude toward prayer",
+      "the praying church",
+      "continual communion with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 137,
+        "heading": "Verse 17 Introduced"
+      },
+      {
+        "t": 275,
+        "heading": "The Access Believers Have in Prayer"
+      },
+      {
+        "t": 649,
+        "heading": "God's Ability to Answer Prayer"
+      },
+      {
+        "t": 1144,
+        "heading": "The Proper Attitude Toward Prayer"
+      },
+      {
+        "t": 1293,
+        "heading": "Nehemiah as Illustration of Praying Without Ceasing"
+      },
+      {
+        "t": 1633,
+        "heading": "Contemporary Example and Closing Application"
+      }
+    ]
+  }
 }

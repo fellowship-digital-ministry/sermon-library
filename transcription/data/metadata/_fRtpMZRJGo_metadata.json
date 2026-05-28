@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_fRtpMZRJGo.vtt",
   "duration": 2503,
   "transcription_timestamp": "2025-04-16T09:49:32.069452",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 35:16-29 on the birth of Benjamin, the death of Rachel, and the death of Isaac, using these records as a framework for examining biblical teaching on human mortality and the Christian's responsibility to share the gospel.",
+    "themes": [
+      "mortality",
+      "fear of death",
+      "assurance of salvation",
+      "evangelism",
+      "ministry of reconciliation",
+      "life and death"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Text Reading"
+      },
+      {
+        "t": 191,
+        "heading": "Four Records in the Passage"
+      },
+      {
+        "t": 286,
+        "heading": "Biblical Portraits of Human Mortality"
+      },
+      {
+        "t": 1110,
+        "heading": "First Question: Prepared for Final Breath"
+      },
+      {
+        "t": 1298,
+        "heading": "Paul on Death and Confidence"
+      },
+      {
+        "t": 1676,
+        "heading": "Second Question: Helping Others Prepare"
+      },
+      {
+        "t": 1772,
+        "heading": "The Ministry of Reconciliation"
+      }
+    ]
+  }
 }

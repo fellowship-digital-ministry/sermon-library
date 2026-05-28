@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wmBpYb5deRo.vtt",
   "duration": 1842,
   "transcription_timestamp": "2025-04-17T20:01:04.433252",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ezra 7:1-10 on the character and preparation of Ezra as a ready scribe, with particular focus on verse 10 and its three-part description of seeking, doing, and teaching the law of the Lord.",
+    "themes": [
+      "preparation for ministry",
+      "the word of god",
+      "bible study",
+      "teaching scripture",
+      "readiness",
+      "obedience to scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Studying Bible Characters"
+      },
+      {
+        "t": 190,
+        "heading": "Ezra 7:1-10 Read and Surveyed"
+      },
+      {
+        "t": 326,
+        "heading": "Context: The Remnant's Return"
+      },
+      {
+        "t": 423,
+        "heading": "Prepared to Seek the Law"
+      },
+      {
+        "t": 655,
+        "heading": "Prepared to Do the Law"
+      },
+      {
+        "t": 944,
+        "heading": "Prepared to Teach Statutes and Judgments"
+      },
+      {
+        "t": 1133,
+        "heading": "Ezra Teaching in Nehemiah 8"
+      },
+      {
+        "t": 1554,
+        "heading": "Paul as a Parallel Example of Readiness"
+      }
+    ]
+  }
 }

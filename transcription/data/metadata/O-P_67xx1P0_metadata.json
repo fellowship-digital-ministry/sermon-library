@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\O-P_67xx1P0.vtt",
   "duration": 3010,
   "transcription_timestamp": "2025-04-17T10:59:13.264648",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 11:7 on the righteousness of God and its implications for nations, drawing on Proverbs 14:34, Amos 1-2, Jonah 3, Ezra 9, and related passages to trace the relationship between divine righteousness, national sin, and the necessity of repentance.",
+    "themes": [
+      "righteousness of god",
+      "national sin and judgment",
+      "repentance",
+      "biblical examples of judgment",
+      "god as righteous judge",
+      "revival"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 11"
+      },
+      {
+        "t": 281,
+        "heading": "God Is Righteous"
+      },
+      {
+        "t": 424,
+        "heading": "Sin Brings Reproach"
+      },
+      {
+        "t": 799,
+        "heading": "Amos on Patterns of Wickedness and Judgment"
+      },
+      {
+        "t": 1218,
+        "heading": "America Examined Against Biblical Principles"
+      },
+      {
+        "t": 2030,
+        "heading": "Repentance Required: Nineveh as Example"
+      },
+      {
+        "t": 2500,
+        "heading": "Ezra's Response to National Sin"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oHhbZQxf4Do.vtt",
   "duration": 2498,
   "transcription_timestamp": "2025-04-16T08:37:15.210626",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An expository introduction to the life of Joseph drawn from Genesis 37:1-4, examining his childhood in a divided household and the character traits visible at age seventeen.",
+    "themes": [
+      "character development",
+      "family dysfunction",
+      "hard work",
+      "moral courage",
+      "standing for right",
+      "hatred and conflict"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Context"
+      },
+      {
+        "t": 186,
+        "heading": "Reading of Genesis 37:1-4"
+      },
+      {
+        "t": 280,
+        "heading": "The Childhood of Joseph"
+      },
+      {
+        "t": 464,
+        "heading": "Favoritism and Family Conflict"
+      },
+      {
+        "t": 751,
+        "heading": "The Character of Joseph: Hard Work"
+      },
+      {
+        "t": 1086,
+        "heading": "Working Alongside Those Who Hate Him"
+      },
+      {
+        "t": 1413,
+        "heading": "Joseph's Moral Compass and Standing for Right"
+      }
+    ]
+  }
 }

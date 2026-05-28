@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R5uUKjkYSvg.vtt",
   "duration": 2480,
   "transcription_timestamp": "2025-04-16T13:33:12.910766",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 20:24 and 2 Timothy 4:6-7 on finishing the Christian life with joy and no regrets, tracing Paul's stated purpose through his strategic plan to his final proclamation.",
+    "themes": [
+      "brevity of life",
+      "finishing the christian life",
+      "purpose and planning",
+      "eternal perspective",
+      "the race analogy",
+      "keeping the faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Brevity of Life Introduced"
+      },
+      {
+        "t": 139,
+        "heading": "The Race Analogy and Finish Line"
+      },
+      {
+        "t": 281,
+        "heading": "Acts 20:24 and 2 Timothy 4:6-7 Presented"
+      },
+      {
+        "t": 470,
+        "heading": "Stated Purpose: Finish with Joy"
+      },
+      {
+        "t": 800,
+        "heading": "Strategic Plan: Five Elements"
+      },
+      {
+        "t": 2144,
+        "heading": "Spectacular Proclamation: 2 Timothy 4:6-8"
+      },
+      {
+        "t": 2318,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

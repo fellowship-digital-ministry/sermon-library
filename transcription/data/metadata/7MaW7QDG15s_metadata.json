@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7MaW7QDG15s.vtt",
   "duration": 2276,
   "transcription_timestamp": "2025-04-16T01:18:29.331974",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 6:66-69 on the cost and meaning of following Christ, framed around the hymn 'Living for Jesus' and Peter's declaration of allegiance after many disciples departed. The sermon draws on 2 Corinthians 5:15, Mark 8:34-38, and Hebrews 11:5 to examine what it means to live fully surrendered to Christ rather than to oneself.",
+    "themes": [
+      "discipleship",
+      "surrender and self-denial",
+      "living for christ",
+      "stewardship of time and resources",
+      "the word of god",
+      "departing from christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Hymn 'Living for Jesus' Introduced"
+      },
+      {
+        "t": 424,
+        "heading": "Life Verse: 2 Corinthians 5:15"
+      },
+      {
+        "t": 611,
+        "heading": "John 6:66: A Disturbing Trend"
+      },
+      {
+        "t": 985,
+        "heading": "Mark 8:34-38: Self-Denial and Following Christ"
+      },
+      {
+        "t": 1219,
+        "heading": "John 6:67: A Direct Question to the Twelve"
+      },
+      {
+        "t": 1355,
+        "heading": "John 6:68-69: Peter's Deliberate Resolve"
+      },
+      {
+        "t": 2005,
+        "heading": "Application: Surrender and Finishing Strong"
+      }
+    ]
+  }
 }

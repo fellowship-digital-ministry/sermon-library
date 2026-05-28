@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\v93DvI0bY10.vtt",
   "duration": 2729,
   "transcription_timestamp": "2025-04-17T17:00:30.207391",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 6:13-20 on the encouragement given to believers to endure, drawn from the concluding verses of a warning passage addressed to spiritually immature Jewish Christians. The passage is read alongside Genesis 15, Genesis 22, Galatians 3, and the hymn 'We Have an Anchor' to develop the themes of God's immutable promises, Abraham as a model of patient endurance, and Christ as refuge, anchor, and forerunner.",
+    "themes": [
+      "the promises of god",
+      "patient endurance",
+      "biblical hope",
+      "christ as high priest",
+      "spiritual maturity",
+      "the anchor of the soul"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 436,
+        "heading": "Reading of 'We Have an Anchor' Hymn"
+      },
+      {
+        "t": 535,
+        "heading": "The Example of Abraham"
+      },
+      {
+        "t": 1014,
+        "heading": "The Seed Promise in Galatians 3"
+      },
+      {
+        "t": 1686,
+        "heading": "The Expectation of the Redeemed"
+      },
+      {
+        "t": 1824,
+        "heading": "God as Refuge, Anchor, and Forerunner"
+      },
+      {
+        "t": 2441,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZJOWWMF4BZE.vtt",
   "duration": 1519,
   "transcription_timestamp": "2025-04-17T07:55:36.716011",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:2 on the phrases 'hallowed be thy name' and 'thy will be done,' treating them as the framework for two foundational attitudes in prayer: reverence toward God's holiness and submission to God's will.",
+    "themes": [
+      "prayer",
+      "holiness of god",
+      "the will of god",
+      "reverence",
+      "submission",
+      "the lord's prayer as model"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Need for Prayer"
+      },
+      {
+        "t": 138,
+        "heading": "The Model for Prayer, Not a Recitation"
+      },
+      {
+        "t": 281,
+        "heading": "Introduction of the Two Attitudes"
+      },
+      {
+        "t": 331,
+        "heading": "Attitude of Reverence: Hallowed Be Thy Name"
+      },
+      {
+        "t": 764,
+        "heading": "Attitude of Submission: Thy Will Be Done"
+      },
+      {
+        "t": 1199,
+        "heading": "1 John 5:14 and Confidence in Prayer According to God's Will"
+      }
+    ]
+  }
 }

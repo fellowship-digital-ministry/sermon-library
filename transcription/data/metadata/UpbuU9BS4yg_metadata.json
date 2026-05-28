@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UpbuU9BS4yg.vtt",
   "duration": 2835,
   "transcription_timestamp": "2025-04-16T10:37:58.015635",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 3:14-17 on the doctrine of biblical inspiration, examining how the process and product of inspiration demonstrate the greatness of God. Draws also on 2 Peter 1:19-21, Psalm 19, and related passages to establish verbal plenary inspiration, the purity and authority of Scripture, and its fourfold profitability.",
+    "themes": [
+      "biblical inspiration",
+      "verbal plenary inspiration",
+      "authority of scripture",
+      "the bible as the word of god",
+      "profitability of scripture",
+      "greatness of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Context"
+      },
+      {
+        "t": 230,
+        "heading": "The Bible Among All Books"
+      },
+      {
+        "t": 508,
+        "heading": "The Process of Inspiration"
+      },
+      {
+        "t": 1137,
+        "heading": "The Product of Inspiration"
+      },
+      {
+        "t": 1833,
+        "heading": "Inspiration Results in Purity and Inerrancy"
+      },
+      {
+        "t": 2228,
+        "heading": "The Authority of Scripture"
+      },
+      {
+        "t": 2565,
+        "heading": "Summary and Closing Application"
+      }
+    ]
+  }
 }

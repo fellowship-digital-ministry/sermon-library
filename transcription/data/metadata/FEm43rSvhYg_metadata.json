@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FEm43rSvhYg.vtt",
   "duration": 2752,
   "transcription_timestamp": "2025-04-16T08:28:45.312015",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Kings 17:1-7 on God's care for the prophet Elijah at the brook Cherith, situated within a year-long series on the greatness of God. The passage is examined through two lenses: divine guidance given to Elijah before his departure, and divine sustenance provided through ravens and the brook.",
+    "themes": [
+      "divine guidance",
+      "divine providence",
+      "god's care for his servants",
+      "obedience",
+      "sustenance and provision",
+      "the life of elijah"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 281,
+        "heading": "Elijah's Appearance Before Ahab"
+      },
+      {
+        "t": 470,
+        "heading": "God's Care Through Guidance"
+      },
+      {
+        "t": 665,
+        "heading": "Clarity and Promise of the Guidance"
+      },
+      {
+        "t": 1127,
+        "heading": "Psalms on Divine Guidance"
+      },
+      {
+        "t": 1409,
+        "heading": "God's Care Through Sustenance"
+      },
+      {
+        "t": 1785,
+        "heading": "1 Peter 5 and Luke 12 on God's Care"
+      },
+      {
+        "t": 2466,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

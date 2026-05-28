@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/pQFCA4ajtm0.vtt",
   "duration": 2970.0,
   "transcription_timestamp": "2026-05-28T16:07:45.971000",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 37:1-8 on the meaning and danger of fretting, examining why God commands his people three times in the passage to refrain from anger, fear, and consuming anxiety over injustice and the apparent prosperity of the wicked.",
+    "themes": [
+      "fretting and anxiety",
+      "trusting god",
+      "god's timing",
+      "injustice and the prosperity of the wicked",
+      "christian testimony",
+      "waiting on the lord"
+    ],
+    "sections": [
+      {
+        "t": 141,
+        "heading": "Introduction to Psalm 37"
+      },
+      {
+        "t": 334,
+        "heading": "The Meaning of Fret"
+      },
+      {
+        "t": 522,
+        "heading": "What Causes Fretting"
+      },
+      {
+        "t": 757,
+        "heading": "God's Timing and Character"
+      },
+      {
+        "t": 1694,
+        "heading": "God's Outline: Trust and Delight"
+      },
+      {
+        "t": 2175,
+        "heading": "Committing and Resting in the Lord"
+      },
+      {
+        "t": 2415,
+        "heading": "Testimony Before a Watching World"
+      }
+    ]
+  }
 }

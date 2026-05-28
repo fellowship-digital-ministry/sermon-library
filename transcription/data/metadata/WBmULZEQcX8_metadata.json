@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WBmULZEQcX8.vtt",
   "duration": 2989,
   "transcription_timestamp": "2025-04-16T01:08:42.501790",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 38:1-30 on the sin of Judah, his sons Er and Onan, and Tamar, organized around five principles concerning the nature, consequences, hiddenness, deceptiveness, and divine response to sin. The passage is treated as a record of wicked behavior within the line of Judah, with the birth of Phares and his place in the messianic genealogy serving as the closing illustration of divine grace.",
+    "themes": [
+      "sin nature",
+      "consequences of sin",
+      "god's omniscience",
+      "deceptiveness of sin",
+      "divine grace and forgiveness",
+      "integrity and keeping one's word"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 38"
+      },
+      {
+        "t": 185,
+        "heading": "Principle One: Universal Sin Nature"
+      },
+      {
+        "t": 606,
+        "heading": "Sins of Judah, Er, and Onan"
+      },
+      {
+        "t": 1262,
+        "heading": "Principle Two: Uncontrollable Consequences"
+      },
+      {
+        "t": 1551,
+        "heading": "Principle Three: Sin Cannot Be Hidden from God"
+      },
+      {
+        "t": 1885,
+        "heading": "Principle Four: The Deceptiveness of Sin"
+      },
+      {
+        "t": 2456,
+        "heading": "Principle Five: The Grace of God"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WTvsGmnExXA.vtt",
   "duration": 3213,
   "transcription_timestamp": "2025-04-17T07:45:03.942151",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 2:8-10 on the warning against false teaching, tracing the four methods by which false teachers seek to 'spoil' believers and grounding the defense in the completeness and supremacy of Christ.",
+    "themes": [
+      "false teaching",
+      "spiritual discernment",
+      "biblical worldview",
+      "self-examination",
+      "the person of christ",
+      "worldliness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context in Colossians"
+      },
+      {
+        "t": 518,
+        "heading": "The Enemy and Their Approach"
+      },
+      {
+        "t": 802,
+        "heading": "Four Methods of False Teachers"
+      },
+      {
+        "t": 1738,
+        "heading": "The Fullness of Christ and Completeness in Him"
+      },
+      {
+        "t": 2114,
+        "heading": "Examination and Acknowledgement"
+      },
+      {
+        "t": 2680,
+        "heading": "Response to Deception and Renewing the Mind"
+      }
+    ]
+  }
 }

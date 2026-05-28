@@ -8,5 +8,43 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mhVO_tOuyYQ.vtt",
   "duration": 2761.0,
   "transcription_timestamp": "2026-05-28T16:57:20.757274",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 8:26-40 on the conversion of the Ethiopian eunuch, tracing Philip's obedience to divine direction, his proclamation of Christ from Isaiah 53, and the eunuch's subsequent belief and baptism.",
+    "themes": [
+      "evangelism",
+      "the gospel",
+      "salvation",
+      "baptism",
+      "obedience to god",
+      "spiritual confusion and clarity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Acts 8 Context"
+      },
+      {
+        "t": 184,
+        "heading": "Persecution Scatters the Church"
+      },
+      {
+        "t": 514,
+        "heading": "The Eunuch's Confusion and Searching"
+      },
+      {
+        "t": 979,
+        "heading": "The Clarity of the Gospel"
+      },
+      {
+        "t": 1118,
+        "heading": "Philip as a Prepared and Pointed Witness"
+      },
+      {
+        "t": 2022,
+        "heading": "The Conversion and Baptism of the Eunuch"
+      }
+    ]
+  }
 }

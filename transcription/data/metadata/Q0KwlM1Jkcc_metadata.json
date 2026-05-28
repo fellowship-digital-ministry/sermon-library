@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q0KwlM1Jkcc.vtt",
   "duration": 2947,
   "transcription_timestamp": "2025-04-16T11:53:05.721268",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 16:11-34 on the salvation of the Philippian jailer, tracing the arrival of Paul and Silas in Philippi, their imprisonment, and the jailer's question and Paul's response as a framework for presenting the gospel.",
+    "themes": [
+      "salvation",
+      "the gospel",
+      "evangelism",
+      "faith in christ",
+      "opposition to ministry",
+      "assurance of salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Arrival and Ministry in Philippi"
+      },
+      {
+        "t": 183,
+        "heading": "Lydia's Conversion and Baptism"
+      },
+      {
+        "t": 375,
+        "heading": "The Damsel and the Opposition"
+      },
+      {
+        "t": 613,
+        "heading": "Paul and Silas Imprisoned"
+      },
+      {
+        "t": 934,
+        "heading": "The Earthquake and the Jailer's Crisis"
+      },
+      {
+        "t": 1171,
+        "heading": "The Sincerity of the Jailer's Request"
+      },
+      {
+        "t": 1652,
+        "heading": "The Simplicity of Paul's Response"
+      },
+      {
+        "t": 2658,
+        "heading": "The Jailer's Salvation and Its Application"
+      }
+    ]
+  }
 }

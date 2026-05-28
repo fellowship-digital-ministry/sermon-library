@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/uq6UyPuw5oc.vtt",
   "duration": 2844.0,
   "transcription_timestamp": "2026-05-27T15:51:38.953052",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of an exposition of Daniel 9:24-27 on the purpose and timeline of Daniel's 70th week, drawing on Romans 11, 2 Thessalonians 2, Ezekiel 20, 1 Thessalonians 4, and Revelation to address the tribulation's three purposes: divine wrath on rebellious humanity, the revelation of man's true nature, and God's preparation of Israel to receive her Messiah.",
+    "themes": [
+      "daniel's 70th week",
+      "the tribulation",
+      "rapture timing",
+      "israel and messiah",
+      "the restraining work of the holy spirit",
+      "eschatology and church responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part One"
+      },
+      {
+        "t": 416,
+        "heading": "Why Before When: Tribulation's Purpose"
+      },
+      {
+        "t": 509,
+        "heading": "Three Rapture Views Introduced"
+      },
+      {
+        "t": 693,
+        "heading": "Coming For and Coming With His Saints"
+      },
+      {
+        "t": 1024,
+        "heading": "The Holy Spirit as Restrainer"
+      },
+      {
+        "t": 1257,
+        "heading": "Three Purposes of the 70th Week"
+      },
+      {
+        "t": 1445,
+        "heading": "God Preparing Israel for Her Messiah"
+      },
+      {
+        "t": 2260,
+        "heading": "Israel's Blindness, the Fullness of Gentiles, and All Israel Saved"
+      }
+    ]
+  }
 }

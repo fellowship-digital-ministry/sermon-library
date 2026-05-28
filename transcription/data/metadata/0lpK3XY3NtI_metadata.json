@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0lpK3XY3NtI.vtt",
   "duration": 1997,
   "transcription_timestamp": "2025-04-15T06:03:07.543646",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Thessalonians 3:13 on the charge to avoid growing weary in well-doing, situated within a series titled 'Walk Worthy, Please God' and drawing on parallel passages in Galatians, Colossians, 2 Corinthians, Ephesians, and Nehemiah.",
+    "themes": [
+      "perseverance in well-doing",
+      "serving christ",
+      "spiritual strength",
+      "opposition to god's work",
+      "sowing and reaping",
+      "reliance on god's power"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Review"
+      },
+      {
+        "t": 138,
+        "heading": "Text and Key Terms Defined"
+      },
+      {
+        "t": 276,
+        "heading": "First Point: Remember Who You Serve"
+      },
+      {
+        "t": 603,
+        "heading": "Second Point: Rely on His Power"
+      },
+      {
+        "t": 1063,
+        "heading": "Third Point: Rest in His Promise"
+      },
+      {
+        "t": 1394,
+        "heading": "Nehemiah as Illustrative Example"
+      },
+      {
+        "t": 1826,
+        "heading": "Summary and Closing Prayer"
+      }
+    ]
+  }
 }

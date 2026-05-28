@@ -8,5 +8,55 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ChkDm1CVUKY.vtt",
   "duration": 2754,
   "transcription_timestamp": "2025-04-16T09:05:04.756955",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of the Great Commission passages in Matthew 9, Matthew 28, Mark 16, Luke 24, John 20, and Acts 1:8, tracing five promises God makes to those who answer a call to missionary service. Delivered at a missions conference, the message addresses the shortage of missionary laborers and the role of prayer in producing them.",
+    "themes": [
+      "missionary call",
+      "great commission",
+      "prayer for laborers",
+      "god's promises to missionaries",
+      "fear and surrender",
+      "missions conference"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Remarks and Greetings"
+      },
+      {
+        "t": 233,
+        "heading": "The Shortage of Laborers"
+      },
+      {
+        "t": 282,
+        "heading": "Matthew 9: Compassion and Prayer for Laborers"
+      },
+      {
+        "t": 751,
+        "heading": "Promise One: God's Presence (Matthew 28)"
+      },
+      {
+        "t": 1226,
+        "heading": "Promise Two: God's Protection (Mark 16)"
+      },
+      {
+        "t": 1650,
+        "heading": "Promise Three: Power and Giftedness (Luke 24)"
+      },
+      {
+        "t": 2074,
+        "heading": "Promise Four: Peace (John 20)"
+      },
+      {
+        "t": 2265,
+        "heading": "Promise Five: Holy Spirit Influence (Acts 1:8)"
+      },
+      {
+        "t": 2589,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
 }

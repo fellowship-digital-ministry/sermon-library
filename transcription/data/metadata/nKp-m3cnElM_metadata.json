@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp-m3cnElM.vtt",
   "duration": 2470,
   "transcription_timestamp": "2025-04-14T19:56:12.753512",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 4:1-7 on the gospel ministry entrusted to believers, organized around seven things the apostle Paul recognized about that ministry and the response those recognitions demand.",
+    "themes": [
+      "gospel ministry",
+      "evangelism",
+      "spiritual opposition",
+      "privilege and responsibility",
+      "preaching christ",
+      "earthen vessels"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of 2 Corinthians 3 Contrast"
+      },
+      {
+        "t": 45,
+        "heading": "Introduction to 2 Corinthians 4 and the Text"
+      },
+      {
+        "t": 326,
+        "heading": "Seven Things Paul Recognized About Ministry"
+      },
+      {
+        "t": 377,
+        "heading": "Responsibility and Privilege of Ministry"
+      },
+      {
+        "t": 1000,
+        "heading": "Seriousness, Purpose, and Opposition in Ministry"
+      },
+      {
+        "t": 1653,
+        "heading": "The Joy of Ministry and the Treasure in Earthen Vessels"
+      },
+      {
+        "t": 1979,
+        "heading": "How Paul Responded: Preaching Christ"
+      }
+    ]
+  }
 }

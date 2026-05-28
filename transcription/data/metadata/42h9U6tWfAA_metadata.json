@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\42h9U6tWfAA.vtt",
   "duration": 2810,
   "transcription_timestamp": "2025-04-16T13:53:56.844513",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 4:4-6 on the believer's victory over false teachers, centered on the indwelling Holy Spirit as the source of that victory. The passage is read against the backdrop of the false teaching addressed throughout 1 John, with supporting texts drawn from 2 Peter 2, 1 John 2, Ephesians 4 and 6, 1 Corinthians 1-2, and Acts 4.",
+    "themes": [
+      "false teachers",
+      "indwelling holy spirit",
+      "spiritual strength",
+      "the word of god",
+      "worldly wisdom versus godly wisdom",
+      "boldness in truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Prior Context"
+      },
+      {
+        "t": 284,
+        "heading": "What Is Recognized: Believers Have Overcome"
+      },
+      {
+        "t": 751,
+        "heading": "The Reminder: Source of the Victory"
+      },
+      {
+        "t": 1316,
+        "heading": "The Contrast: World versus God"
+      },
+      {
+        "t": 1550,
+        "heading": "Rejoicing Rather Than Discouragement"
+      },
+      {
+        "t": 2020,
+        "heading": "Humanism and Evolution as False Teaching"
+      },
+      {
+        "t": 2362,
+        "heading": "Boldness Through the Spirit: Acts 4"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iwVXkDtclDU.vtt",
   "duration": 2179,
   "transcription_timestamp": "2025-04-17T13:23:39.106777",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of the natural attributes of God, framed by Jeremiah 10:6 and Titus 2:1, presented as Part 1 of a two-part study on the greatness of God within a series on sound doctrine. Five natural attributes are examined in turn: omniscience, omnipotence, omnipresence, immutability, and eternality, each supported by a sampling of Scripture passages.",
+    "themes": [
+      "attributes of god",
+      "omniscience",
+      "omnipotence",
+      "omnipresence",
+      "immutability",
+      "eternality"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Lesson Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Natural vs. Moral Attributes Defined"
+      },
+      {
+        "t": 234,
+        "heading": "Generational Responsibility to Declare God's Greatness"
+      },
+      {
+        "t": 463,
+        "heading": "First Attribute: God Is Omniscient"
+      },
+      {
+        "t": 748,
+        "heading": "Second Attribute: God Is Omnipotent"
+      },
+      {
+        "t": 1030,
+        "heading": "Third Attribute: God Is Omnipresent"
+      },
+      {
+        "t": 1361,
+        "heading": "Fourth Attribute: God Is Immutable"
+      },
+      {
+        "t": 1549,
+        "heading": "Fifth Attribute: God Is Eternal"
+      }
+    ]
+  }
 }

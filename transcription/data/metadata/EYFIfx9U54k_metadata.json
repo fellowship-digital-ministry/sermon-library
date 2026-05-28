@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/EYFIfx9U54k.vtt",
   "duration": 3044.0,
   "transcription_timestamp": "2026-05-27T14:05:30.086261",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 6:10-20 on prayer as a defining mark of the Christian life, drawing extensively from the Pauline epistles to examine Paul's commitment, consistency, and content in prayer. Part of a three-week series on prayer, with supporting references to Romans, Philippians, Colossians, Ephesians 1 and 3, Thessalonians, and Old Testament examples.",
+    "themes": [
+      "prayer",
+      "spiritual warfare",
+      "consistency in the christian life",
+      "intercession",
+      "spiritual versus temporal priorities",
+      "the example of paul"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 185,
+        "heading": "Paul as a Man of Prayer"
+      },
+      {
+        "t": 464,
+        "heading": "First Point: Commitment to Prayer"
+      },
+      {
+        "t": 1010,
+        "heading": "Second Point: Consistency in Prayer"
+      },
+      {
+        "t": 1705,
+        "heading": "Paul's Prayer Requests and Boldness"
+      },
+      {
+        "t": 1980,
+        "heading": "Third Point: Content of Paul's Prayers"
+      },
+      {
+        "t": 2169,
+        "heading": "Spiritual Emphasis in the Ephesian Prayers"
+      },
+      {
+        "t": 2602,
+        "heading": "Spiritual Emphasis in the Colossian Prayer"
+      }
+    ]
+  }
 }

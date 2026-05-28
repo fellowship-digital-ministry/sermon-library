@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HNDLdpkeeFU.vtt",
   "duration": 2295,
   "transcription_timestamp": "2025-04-17T20:23:18.445663",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 4:23-31 on the early church's corporate prayer for boldness amid rising persecution, set against the backdrop of the healing at the Beautiful Gate and the arrest of Peter and John by Jerusalem's religious leaders.",
+    "themes": [
+      "prayer",
+      "boldness in witness",
+      "persecution",
+      "filling of the holy spirit",
+      "dependence on god",
+      "sovereignty of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage and Context Introduced"
+      },
+      {
+        "t": 280,
+        "heading": "What Prompted the Prayer"
+      },
+      {
+        "t": 1079,
+        "heading": "What the Prayer Reveals"
+      },
+      {
+        "t": 1497,
+        "heading": "Praying for Boldness, Not Deliverance"
+      },
+      {
+        "t": 1682,
+        "heading": "How the Prayer Is Answered"
+      },
+      {
+        "t": 1916,
+        "heading": "Indwelling vs. Filling of the Spirit"
+      },
+      {
+        "t": 2104,
+        "heading": "Application to Present-Day Boldness"
+      }
+    ]
+  }
 }

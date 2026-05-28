@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZMOJR5ueEkc.vtt",
   "duration": 3107,
   "transcription_timestamp": "2025-04-16T00:36:27.977187",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 13:1-16 on the foot-washing narrative, focusing on the exchange between Jesus and Peter (vv. 6-10) as a picture of the believer's ongoing need for spiritual cleansing, set within a pre-revival-meeting context. The Old Testament laver and priestly consecration in Exodus 29-30, along with John 17 and Ephesians 5, provide supporting framework for the central application.",
+    "themes": [
+      "revival readiness",
+      "foot washing",
+      "sin and fellowship",
+      "cleansing by the word",
+      "eternal security",
+      "the believer in the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival Meeting Introduction"
+      },
+      {
+        "t": 184,
+        "heading": "What Revival Is and Is Not"
+      },
+      {
+        "t": 512,
+        "heading": "Romans 13 and the Call to Awake"
+      },
+      {
+        "t": 606,
+        "heading": "John 13: Service, Humility, and the Foot Washing"
+      },
+      {
+        "t": 1169,
+        "heading": "Two Words for Washing: Salvation vs. Daily Cleansing"
+      },
+      {
+        "t": 1768,
+        "heading": "Old Testament Type: Priestly Consecration and the Laver"
+      },
+      {
+        "t": 2005,
+        "heading": "Why Feet Get Dirty: Sin and Living in the World"
+      },
+      {
+        "t": 2431,
+        "heading": "The Remedy: Cleansing Through the Word"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QYdUNHCXj2g.vtt",
   "duration": 2320,
   "transcription_timestamp": "2025-04-17T04:58:13.053528",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 4:1-7 on the widow's oil, tracing the problem, plan, and provision found in Elisha's encounter with a prophet's widow facing debt and the loss of her sons to bondage. The passage is read alongside John 2:5 and the example of Hudson Taylor to frame obedience as the condition for divine supply.",
+    "themes": [
+      "divine provision",
+      "obedience to god",
+      "trials and problems",
+      "faith",
+      "the sufficiency of god's word",
+      "doing god's work god's way"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Hudson Taylor Illustration"
+      },
+      {
+        "t": 276,
+        "heading": "The Problem Revealed (v. 1)"
+      },
+      {
+        "t": 789,
+        "heading": "The Plan Explained (vv. 2-4)"
+      },
+      {
+        "t": 1125,
+        "heading": "The Plan Executed (vv. 5-6)"
+      },
+      {
+        "t": 1404,
+        "heading": "The Problem Resolved (v. 7)"
+      },
+      {
+        "t": 1543,
+        "heading": "Principle: Determining and Doing God's Plan"
+      },
+      {
+        "t": 2004,
+        "heading": "Closing Application from John 2:5"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/kbJhtRYV7uE.vtt",
   "duration": 3420.0,
   "transcription_timestamp": "2026-05-28T15:33:28.318875",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 11:1-15 on Paul's defense of his ministry against Judaizing false teachers at Corinth, covering his pastoral concern for the church, his conduct among them, and his exposure of false apostles and their deception.",
+    "themes": [
+      "false teaching",
+      "the gospel",
+      "pastoral integrity",
+      "spiritual deception",
+      "the judaizers",
+      "eternal judgment"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Context: False Teachers at Corinth"
+      },
+      {
+        "t": 231,
+        "heading": "Paul's Concern for the Church"
+      },
+      {
+        "t": 510,
+        "heading": "Explanation of Paul's Conduct"
+      },
+      {
+        "t": 1417,
+        "heading": "Provision for Ministry"
+      },
+      {
+        "t": 1940,
+        "heading": "Exposure of False Apostles"
+      },
+      {
+        "t": 2552,
+        "heading": "Deception and Its Source"
+      },
+      {
+        "t": 2834,
+        "heading": "The End of False Teachers"
+      }
+    ]
+  }
 }

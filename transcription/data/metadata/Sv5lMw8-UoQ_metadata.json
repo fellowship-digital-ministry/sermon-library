@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Sv5lMw8-UoQ.vtt",
   "duration": 2336.0,
   "transcription_timestamp": "2026-05-27T17:34:22.889427",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 24:1-27 on divine guidance, centered on the servant (identified as Eleazar) who is charged with finding a wife for Isaac and who prays for specific direction, receives an immediate answer, and pauses to worship. The passage is read alongside Philippians 4:6 on thanksgiving in prayer.",
+    "themes": [
+      "divine guidance",
+      "specific prayer",
+      "faith",
+      "thanksgiving and worship",
+      "surrendering to god's will",
+      "providence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Questions on God's Leadership"
+      },
+      {
+        "t": 96,
+        "heading": "Context: Isaac's Marriage and Eleazar's Task"
+      },
+      {
+        "t": 237,
+        "heading": "The Assignment: A Responsibility Too Great"
+      },
+      {
+        "t": 432,
+        "heading": "Abraham's Faith and God's Past Faithfulness"
+      },
+      {
+        "t": 617,
+        "heading": "Eleazar's Specific Prayer at the Well"
+      },
+      {
+        "t": 1537,
+        "heading": "God Answers Before the Prayer Ends"
+      },
+      {
+        "t": 1821,
+        "heading": "Eleazar Pauses to Rejoice and Worship"
+      }
+    ]
+  }
 }

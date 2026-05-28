@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4L7zninfmhA.vtt",
   "duration": 2036,
   "transcription_timestamp": "2025-04-17T00:04:37.372759",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A Bible study on Psalm 27:11 examining what specific things a believer should ask God to teach them, part of an ongoing series on the psalmist's plea 'teach me.' Recorded requests from Psalms, Judges, and Luke are surveyed, followed by practical recommendations drawn from Scripture.",
+    "themes": [
+      "teachable spirit",
+      "prayer",
+      "knowing god",
+      "god's will and plan",
+      "pleasing god",
+      "spiritual gifts and church membership"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review: Purpose and Spirit of Learning"
+      },
+      {
+        "t": 335,
+        "heading": "Recorded Requests: Teach Me Thy Way"
+      },
+      {
+        "t": 434,
+        "heading": "Recorded Requests: Statutes, Judgment, and Numbering Days"
+      },
+      {
+        "t": 673,
+        "heading": "Recorded Requests: Parenting and Prayer"
+      },
+      {
+        "t": 822,
+        "heading": "Recommendation: Knowing Who God Is"
+      },
+      {
+        "t": 1111,
+        "heading": "Recommendation: Knowing God's Plan and One's Place In It"
+      },
+      {
+        "t": 1531,
+        "heading": "Recommendation: Learning How to Please God"
+      },
+      {
+        "t": 1723,
+        "heading": "Closing: God's Classrooms and Developing vs. Delivering"
+      }
+    ]
+  }
 }

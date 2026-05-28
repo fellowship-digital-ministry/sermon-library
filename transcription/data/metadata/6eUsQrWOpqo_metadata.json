@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6eUsQrWOpqo.vtt",
   "duration": 2973,
   "transcription_timestamp": "2025-04-16T13:48:48.018400",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 70:4 on the call to continually magnify God, drawing on examples from the Psalms, Luke 1, John 3, and Philippians 1 to trace what it means to declare the greatness of God individually and corporately.",
+    "themes": [
+      "magnifying god",
+      "praise and thanksgiving",
+      "humility and pride",
+      "eternal salvation",
+      "declaring god's greatness",
+      "resolve and determination"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 70 introduced"
+      },
+      {
+        "t": 325,
+        "heading": "Salvation and eternal security"
+      },
+      {
+        "t": 512,
+        "heading": "Meaning of magnify defined"
+      },
+      {
+        "t": 697,
+        "heading": "Biblical examples of resolve to magnify"
+      },
+      {
+        "t": 1486,
+        "heading": "Results of magnifying the Lord"
+      },
+      {
+        "t": 2189,
+        "heading": "Pride as failure to magnify"
+      },
+      {
+        "t": 2847,
+        "heading": "Closing prayer and invitation"
+      }
+    ]
+  }
 }

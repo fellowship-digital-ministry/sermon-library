@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4vUlrsA0Z_s.vtt",
   "duration": 2795,
   "transcription_timestamp": "2025-04-17T16:39:54.827856",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 9:18-29 on the final days of Noah, covering the replenishing of the earth, Noah's drunkenness, the prophecy over Canaan, Shem, and Japheth, and Noah's death at 950 years. Part of a verse-by-verse series through Genesis, this is the 32nd lesson.",
+    "themes": [
+      "global flood",
+      "noah's drunkenness",
+      "prophecy of noah",
+      "the canaanites",
+      "biblical worldview",
+      "messianic line through shem"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 182,
+        "heading": "Replenishing of the Earth"
+      },
+      {
+        "t": 658,
+        "heading": "Drunkenness and Shame of Noah"
+      },
+      {
+        "t": 802,
+        "heading": "Ham's Actions and Shem and Japheth's Response"
+      },
+      {
+        "t": 991,
+        "heading": "Prophecy of Noah over Canaan, Shem, and Japheth"
+      },
+      {
+        "t": 2033,
+        "heading": "Death of Noah"
+      },
+      {
+        "t": 2268,
+        "heading": "Biblical Worldview and the Foundation of Genesis"
+      }
+    ]
+  }
 }

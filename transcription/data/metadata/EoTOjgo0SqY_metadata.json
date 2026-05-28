@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EoTOjgo0SqY.vtt",
   "duration": 3026,
   "transcription_timestamp": "2025-04-15T23:49:42.511925",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 40:1-23 on Joseph's conduct in prison as an example of faithfulness through trials, paired with supporting passages in 2 Corinthians 4 and Ephesians 3 on the renewal of the inner man.",
+    "themes": [
+      "faithfulness in trials",
+      "spiritual strength",
+      "the inner man",
+      "scripture and daily devotion",
+      "providence of god",
+      "not quitting"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 193,
+        "heading": "Joseph's Situation in Prison"
+      },
+      {
+        "t": 473,
+        "heading": "Incarceration of Pharaoh's Officers"
+      },
+      {
+        "t": 756,
+        "heading": "Joseph's Inquiry and Service"
+      },
+      {
+        "t": 1000,
+        "heading": "Interpretation of the Two Dreams"
+      },
+      {
+        "t": 1516,
+        "heading": "God's Hand in Joseph's Circumstances"
+      },
+      {
+        "t": 1756,
+        "heading": "2 Corinthians 4 and Fainting Not"
+      },
+      {
+        "t": 2201,
+        "heading": "Renewal of the Inner Man Through God's Word"
+      }
+    ]
+  }
 }

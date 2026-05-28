@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Wiu68PR_4NQ.vtt",
   "duration": 3019,
   "transcription_timestamp": "2025-04-16T08:47:05.148862",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 36:1-43 on the generations of Esau, tracing his family tree, the Edomites, and their recurring conflicts with Israel, with application drawn from the two-natures symbolism of Jacob and Esau.",
+    "themes": [
+      "genealogy and biblical history",
+      "decision making",
+      "the two natures",
+      "edomites and israelites",
+      "walking in the spirit",
+      "consequences of choices"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 36"
+      },
+      {
+        "t": 93,
+        "heading": "Purpose of Biblical Genealogies"
+      },
+      {
+        "t": 282,
+        "heading": "Review of Esau's Earlier Life"
+      },
+      {
+        "t": 753,
+        "heading": "Decisions of Esau"
+      },
+      {
+        "t": 1666,
+        "heading": "Descendants of Esau"
+      },
+      {
+        "t": 1805,
+        "heading": "Disputes Between Edom and Israel"
+      },
+      {
+        "t": 2361,
+        "heading": "Judgment Prophesied Against Edom"
+      },
+      {
+        "t": 2410,
+        "heading": "Application to the Two Natures"
+      }
+    ]
+  }
 }

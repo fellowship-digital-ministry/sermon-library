@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9JjoBDbN7Ms.vtt",
   "duration": 2944,
   "transcription_timestamp": "2025-04-16T16:18:07.900187",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:1-8 on the place of prayer in the life of the individual believer and the local church, drawing on foundational promises, Old and New Testament examples, and the corporate practice of a congregation.",
+    "themes": [
+      "prayer as priority",
+      "corporate prayer",
+      "personal prayer life",
+      "praying for those in authority",
+      "dependence on god",
+      "the church as a house of prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 92,
+        "heading": "Foundational Truths About Prayer"
+      },
+      {
+        "t": 694,
+        "heading": "1 Timothy 2:1-8 Read and Introduced"
+      },
+      {
+        "t": 742,
+        "heading": "Prayer as a Priority"
+      },
+      {
+        "t": 1322,
+        "heading": "Personal Evaluation: Paul in Acts 9"
+      },
+      {
+        "t": 1851,
+        "heading": "Corporate Evaluation: The Church in Acts 12"
+      },
+      {
+        "t": 2523,
+        "heading": "Prayer as the Church's Purpose and Practice"
+      }
+    ]
+  }
 }

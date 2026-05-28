@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MPv8bPsuptg.vtt",
   "duration": 1727,
   "transcription_timestamp": "2025-04-15T08:59:23.266198",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 47:13-26 on the great famine in Egypt, tracing the progressive desperation of the Egyptians as they surrender money, livestock, land, and freedom in exchange for bread under Joseph's administration.",
+    "themes": [
+      "famine and desperation",
+      "god's provision",
+      "faithfulness of joseph",
+      "end times",
+      "god using individuals",
+      "typology of egypt and israel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Previous Week"
+      },
+      {
+        "t": 185,
+        "heading": "Devastation of the Famine"
+      },
+      {
+        "t": 281,
+        "heading": "Joseph's Plan in Genesis 41"
+      },
+      {
+        "t": 603,
+        "heading": "Desperation of the Egyptians"
+      },
+      {
+        "t": 1028,
+        "heading": "Desperate Times and End Times"
+      },
+      {
+        "t": 1443,
+        "heading": "God Using One Individual"
+      }
+    ]
+  }
 }

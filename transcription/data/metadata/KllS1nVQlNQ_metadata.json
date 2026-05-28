@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KllS1nVQlNQ.vtt",
   "duration": 2871,
   "transcription_timestamp": "2025-04-15T08:30:34.253654",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 12:1-19 on the corporate prayer of the early church, set within a survey of prayer throughout the book of Acts and connected to an ongoing series in 1 Timothy 2.",
+    "themes": [
+      "corporate prayer",
+      "the early church",
+      "persecution and imprisonment",
+      "divine deliverance",
+      "prayer as priority"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Survey of Prayer in Acts"
+      },
+      {
+        "t": 1068,
+        "heading": "The Situation: Peter Imprisoned"
+      },
+      {
+        "t": 1452,
+        "heading": "The Supplication: Church Praying"
+      },
+      {
+        "t": 1545,
+        "heading": "Peter's Miraculous Deliverance"
+      },
+      {
+        "t": 2222,
+        "heading": "Peter at the Gate, Rhoda's Report"
+      },
+      {
+        "t": 2414,
+        "heading": "The Church's Astonishment"
+      },
+      {
+        "t": 2603,
+        "heading": "Call for a Praying Church Today"
+      }
+    ]
+  }
 }

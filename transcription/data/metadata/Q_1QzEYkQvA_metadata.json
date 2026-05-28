@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q_1QzEYkQvA.vtt",
   "duration": 2945,
   "transcription_timestamp": "2025-04-16T16:13:03.762095",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 28:10-22 on God's direct appearance to Jacob at Bethel, tracing Jacob's dream, the divine promises given to him, and his subsequent declarations and vow, set within a verse-by-verse study of Genesis.",
+    "themes": [
+      "divine promises",
+      "personal faith",
+      "stewardship and tithing",
+      "spiritual conversion",
+      "the presence of god",
+      "the abrahamic covenant"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Jacob's Life Before Bethel"
+      },
+      {
+        "t": 284,
+        "heading": "Jacob's Departure Toward Haran"
+      },
+      {
+        "t": 423,
+        "heading": "The Dream: Ladder and Angels"
+      },
+      {
+        "t": 611,
+        "heading": "God's Voice: Land, Seed, and Presence"
+      },
+      {
+        "t": 1135,
+        "heading": "Jacob's Declarations Upon Waking"
+      },
+      {
+        "t": 1519,
+        "heading": "Jacob's Vow and Personal Faith"
+      },
+      {
+        "t": 2192,
+        "heading": "The Pillar, God's House, and the Tithe"
+      }
+    ]
+  }
 }

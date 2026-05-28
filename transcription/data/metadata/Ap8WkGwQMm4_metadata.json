@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ap8WkGwQMm4.vtt",
   "duration": 3328,
   "transcription_timestamp": "2025-04-17T09:50:08.692330",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 2:8-20 on the birth announcement to the shepherds, tracing four characteristics of the shepherds as a framework for examining faithfulness, attentiveness, obedience, and transformation in the life of a believer.",
+    "themes": [
+      "the nativity",
+      "faithfulness",
+      "obedience",
+      "proclamation of the gospel",
+      "joy in salvation",
+      "the incarnation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of Luke 2:1-7"
+      },
+      {
+        "t": 96,
+        "heading": "Context: Christmas and the Purpose of Christ's Birth"
+      },
+      {
+        "t": 340,
+        "heading": "The Shepherds Were Faithful"
+      },
+      {
+        "t": 621,
+        "heading": "The Shepherds Were Attentive"
+      },
+      {
+        "t": 1361,
+        "heading": "The Shepherds Were Obedient"
+      },
+      {
+        "t": 1969,
+        "heading": "Urgency of Immediate Obedience"
+      },
+      {
+        "t": 2807,
+        "heading": "The Shepherds Were Changed"
+      }
+    ]
+  }
 }

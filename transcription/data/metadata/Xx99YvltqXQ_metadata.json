@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Xx99YvltqXQ.vtt",
   "duration": 2187,
   "transcription_timestamp": "2025-04-14T21:29:19.761478",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:6 on walking courageously as Christ walked, the third part of a series tracing the manner of Christ's earthly walk. Gospel accounts and Acts passages illustrate Christ's courage before religious authorities, with instruction drawn from Joshua 1, Matthew 10, and Acts 4 on boldness and the ministry of the Holy Spirit.",
+    "themes": [
+      "courage and boldness",
+      "walking as christ walked",
+      "the holy spirit and power",
+      "opposition to the gospel",
+      "the example of christ",
+      "prayer for boldness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review: Wise, Humble, Purposeful"
+      },
+      {
+        "t": 279,
+        "heading": "Defining Courageous Walking"
+      },
+      {
+        "t": 375,
+        "heading": "Christ's Courage Before Religious Leaders (Mark 11)"
+      },
+      {
+        "t": 653,
+        "heading": "Christ Teaching Publicly Under Threat (John 7)"
+      },
+      {
+        "t": 930,
+        "heading": "Christ's Courage at the Arrest (John 18)"
+      },
+      {
+        "t": 1302,
+        "heading": "Joshua 1 and the Command to Be Courageous"
+      },
+      {
+        "t": 1534,
+        "heading": "Source of Boldness: the Holy Spirit (Acts 1, 4)"
+      },
+      {
+        "t": 1946,
+        "heading": "The Disciples' Prayer for Boldness (Acts 4)"
+      }
+    ]
+  }
 }

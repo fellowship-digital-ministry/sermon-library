@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pKSibA3D-2M.vtt",
   "duration": 2917,
   "transcription_timestamp": "2025-04-16T00:04:48.073227",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Kings 11 and 2 Timothy 4:7 on spiritual course-keeping, using the life of Solomon as a case study in how small deviations from obedience accumulate into serious departure from God.",
+    "themes": [
+      "course-keeping",
+      "apostasy",
+      "consequences of sin",
+      "solomon",
+      "finishing well",
+      "obedience to scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening: Psalm 122 and Fellowship"
+      },
+      {
+        "t": 338,
+        "heading": "2 Timothy 4:7 and Finishing the Course"
+      },
+      {
+        "t": 527,
+        "heading": "Navigation Illustration: One Degree Off Course"
+      },
+      {
+        "t": 996,
+        "heading": "Solomon's Wealth and the Word 'But'"
+      },
+      {
+        "t": 1363,
+        "heading": "Solomon's Wives and Consequences of Sin"
+      },
+      {
+        "t": 1881,
+        "heading": "Solomon's Idolatry and God's Judgment"
+      },
+      {
+        "t": 2350,
+        "heading": "Where Solomon First Got Off Course: 1 Kings 3"
+      },
+      {
+        "t": 2550,
+        "heading": "Application: Staying in God's Will"
+      }
+    ]
+  }
 }

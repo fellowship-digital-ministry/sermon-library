@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\w16vXRlvXV0.vtt",
   "duration": 3514,
   "transcription_timestamp": "2025-04-17T16:32:16.016632",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 4:1-13 on the instruction a father gives his children, read on two levels: Solomon's charge to Rehoboam and, more broadly, God the Father's instruction to His children through the written and living Word. Deuteronomy 6, Psalm 19, and Deuteronomy 30 provide supporting framework.",
+    "themes": [
+      "fatherhood",
+      "biblical instruction",
+      "the word of god",
+      "wisdom",
+      "obedience",
+      "doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Father's Day and Proverbs 4 Introduced"
+      },
+      {
+        "t": 188,
+        "heading": "Solomon, Rehoboam, and the Dual Reading"
+      },
+      {
+        "t": 558,
+        "heading": "The Father's Responsibility: Message of His Lips"
+      },
+      {
+        "t": 939,
+        "heading": "The Father's Responsibility: Message of His Life"
+      },
+      {
+        "t": 1515,
+        "heading": "The Response of Children: Hearing and Keeping"
+      },
+      {
+        "t": 2080,
+        "heading": "Results of Receiving Instruction"
+      },
+      {
+        "t": 2680,
+        "heading": "Psalm 19 and Deuteronomy 30 on the Word"
+      }
+    ]
+  }
 }

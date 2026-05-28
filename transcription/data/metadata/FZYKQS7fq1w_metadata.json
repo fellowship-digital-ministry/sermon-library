@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FZYKQS7fq1w.vtt",
   "duration": 3248,
   "transcription_timestamp": "2025-04-15T07:10:34.105481",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 4:8-37 on the life of the Shunammite woman, tracing six characteristics that mark her as a 'great woman' in Scripture, preached as a Mother's Day message.",
+    "themes": [
+      "motherhood",
+      "contentment",
+      "generosity",
+      "brokenness and faith",
+      "the blessing of children",
+      "seeing god work"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Mother's Day Background and Context"
+      },
+      {
+        "t": 186,
+        "heading": "Introduction to the Shunammite Woman"
+      },
+      {
+        "t": 420,
+        "heading": "She Was Caring"
+      },
+      {
+        "t": 655,
+        "heading": "She Was Generous"
+      },
+      {
+        "t": 1134,
+        "heading": "She Was Content"
+      },
+      {
+        "t": 1660,
+        "heading": "She Was Blessed"
+      },
+      {
+        "t": 2149,
+        "heading": "She Was Broken"
+      },
+      {
+        "t": 2970,
+        "heading": "She Saw God Work"
+      }
+    ]
+  }
 }

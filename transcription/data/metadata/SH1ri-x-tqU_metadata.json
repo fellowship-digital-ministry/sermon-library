@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\SH1ri-x-tqU.vtt",
   "duration": 2903,
   "transcription_timestamp": "2025-04-17T04:19:10.728296",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:15-17 on the expected behavior of believers within the local church, presented as the third in a series on Colossians 3 following prior messages on putting off and putting on the old and new man.",
+    "themes": [
+      "church behavior",
+      "peace and unity in the body",
+      "corporate worship",
+      "devotion to scripture",
+      "praise and thanksgiving",
+      "purpose of the local church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Colossians 3:5-14"
+      },
+      {
+        "t": 152,
+        "heading": "Three Arenas of Believer Behavior"
+      },
+      {
+        "t": 336,
+        "heading": "Five Characteristics Introduced"
+      },
+      {
+        "t": 383,
+        "heading": "Peace Ruling in the Heart"
+      },
+      {
+        "t": 814,
+        "heading": "Unity in One Body"
+      },
+      {
+        "t": 1181,
+        "heading": "Devotion to the Word"
+      },
+      {
+        "t": 1698,
+        "heading": "Purpose of Exalting Christ"
+      },
+      {
+        "t": 2175,
+        "heading": "Praise and Thanksgiving"
+      }
+    ]
+  }
 }

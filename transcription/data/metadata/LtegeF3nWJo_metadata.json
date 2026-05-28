@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LtegeF3nWJo.vtt",
   "duration": 2141,
   "transcription_timestamp": "2025-04-17T13:46:23.073600",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study in the doctrine of bibliology focused on Bible translation, underlying Hebrew and Greek texts, translator qualifications, and translation methodology, presented as part of an ongoing series through the book of Titus at a Wednesday evening Sunday school service.",
+    "themes": [
+      "bibliology",
+      "bible translation",
+      "textual criticism",
+      "king james bible",
+      "sound doctrine",
+      "preservation of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Sound Doctrine"
+      },
+      {
+        "t": 186,
+        "heading": "Bibliology Review and Translation Introduction"
+      },
+      {
+        "t": 285,
+        "heading": "Satanic Attack on Scripture and Text Corruption"
+      },
+      {
+        "t": 517,
+        "heading": "The Underlying Texts: Masoretic and Textus Receptus"
+      },
+      {
+        "t": 903,
+        "heading": "Qualifications and Character of the Translators"
+      },
+      {
+        "t": 1183,
+        "heading": "Translation Technique: Literal vs. Dynamic Equivalence"
+      },
+      {
+        "t": 1613,
+        "heading": "Word-Level Examples: John 7 and Acts 8"
+      },
+      {
+        "t": 1995,
+        "heading": "Conclusion on Text, Translators, and Technique"
+      }
+    ]
+  }
 }

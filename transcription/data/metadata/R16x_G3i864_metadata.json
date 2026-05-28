@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R16x_G3i864.vtt",
   "duration": 1888,
   "transcription_timestamp": "2025-04-15T07:39:26.762630",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:19 on the command to quench not the Spirit, situated within a Wednesday evening series on concise instructions given to the church at Thessalonica. The message examines the meaning of quenching the Holy Spirit in relation to the three preceding commands of verses 16-18 and the believer's response to conviction.",
+    "themes": [
+      "holy spirit conviction",
+      "yielding to the spirit",
+      "bible reading",
+      "church attendance",
+      "response to conviction",
+      "grieving versus quenching the spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Verse Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "Resisting, Grieving, and Quenching the Spirit"
+      },
+      {
+        "t": 232,
+        "heading": "Placement After Verses 16-18"
+      },
+      {
+        "t": 415,
+        "heading": "Question One: Inviting Conviction"
+      },
+      {
+        "t": 605,
+        "heading": "Question Two: Expecting Conviction"
+      },
+      {
+        "t": 746,
+        "heading": "Question Three: Giving Opportunity for Conviction"
+      },
+      {
+        "t": 1034,
+        "heading": "Question Four: Responding to Conviction"
+      },
+      {
+        "t": 1469,
+        "heading": "Quench Not the Spirit Among the Commands"
+      }
+    ]
+  }
 }

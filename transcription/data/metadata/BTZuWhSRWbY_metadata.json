@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTZuWhSRWbY.vtt",
   "duration": 3152,
   "transcription_timestamp": "2025-04-17T08:21:30.692857",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 1:24-29 on the nature and philosophy of Paul's apostolic ministry, set against the backdrop of false teachers active in the church at Colossae who sought to discredit Paul personally.",
+    "themes": [
+      "apostolic ministry",
+      "suffering for the gospel",
+      "preaching and warning",
+      "stewardship of the gospel",
+      "enablement by the holy spirit",
+      "false teachers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Paul and the Colossian Church"
+      },
+      {
+        "t": 332,
+        "heading": "Reading of Colossians 1:24-29"
+      },
+      {
+        "t": 426,
+        "heading": "Paul Enlisted in the Ministry"
+      },
+      {
+        "t": 754,
+        "heading": "Paul Rejoicing in Sufferings"
+      },
+      {
+        "t": 985,
+        "heading": "Paul Explaining His Ministry"
+      },
+      {
+        "t": 1225,
+        "heading": "Preaching, Warning, and Teaching Every Man"
+      },
+      {
+        "t": 2380,
+        "heading": "Paul Enabled for the Ministry"
+      }
+    ]
+  }
 }

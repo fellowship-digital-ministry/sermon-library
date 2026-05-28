@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pYr6LiZQpLI.vtt",
   "duration": 1916,
   "transcription_timestamp": "2025-04-15T09:26:58.686880",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:14 on the command to warn the unruly within a local church, situated within a broader series on walking worthy and pleasing God drawn from the closing sections of 1 and 2 Thessalonians.",
+    "themes": [
+      "church unity",
+      "unruly behavior",
+      "warning and correction",
+      "church discipline",
+      "the word of god as warning",
+      "pastoral responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Homework Review: One Accord in Acts"
+      },
+      {
+        "t": 329,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 516,
+        "heading": "The Problem: Unruly Members Defined"
+      },
+      {
+        "t": 748,
+        "heading": "The Prescription: Warning, Not Excommunication"
+      },
+      {
+        "t": 841,
+        "heading": "The Process: Warning Through God's Word"
+      },
+      {
+        "t": 1495,
+        "heading": "The Purpose: Correction and Standing Before God"
+      }
+    ]
+  }
 }

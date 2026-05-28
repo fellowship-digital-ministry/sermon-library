@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pYLTkv5zKls.vtt",
   "duration": 2504,
   "transcription_timestamp": "2025-04-14T20:48:51.150902",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Nehemiah 2:11-20, set against the background of Nehemiah 1-2, on the burden God placed in Nehemiah's heart to rebuild the walls of Jerusalem and the pattern of survey, request, response, and resistance that followed. The passage is applied to the collective responsibility of believers to labor together in gospel outreach.",
+    "themes": [
+      "god-given burden",
+      "co-laboring in ministry",
+      "gospel outreach",
+      "discouragement and resistance",
+      "collective work of the church",
+      "stewardship of grace"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Captivity and Nehemiah's Report"
+      },
+      {
+        "t": 231,
+        "heading": "Nehemiah's Arrival and Night Survey"
+      },
+      {
+        "t": 468,
+        "heading": "The Reconnaissance of Nehemiah (vv. 11-15)"
+      },
+      {
+        "t": 801,
+        "heading": "The Request of Nehemiah (vv. 16-17)"
+      },
+      {
+        "t": 1422,
+        "heading": "The Response of the People (v. 18)"
+      },
+      {
+        "t": 1988,
+        "heading": "The Resistance Faced (vv. 19-20)"
+      }
+    ]
+  }
 }

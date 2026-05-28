@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_dFILA2HCeY.vtt",
   "duration": 2982.0,
   "transcription_timestamp": "2026-05-27T16:27:09.216381",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 3:1-3 on the love of God as recognized, received, and anticipated by the believer, preached the day after Valentine's Day with extended reference to John 3:16 and the new birth.",
+    "themes": [
+      "love of god",
+      "new birth",
+      "sonship of believers",
+      "salvation",
+      "second coming",
+      "personal evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text"
+      },
+      {
+        "t": 45,
+        "heading": "Valentine's Day and Expressing Love"
+      },
+      {
+        "t": 605,
+        "heading": "God's Love in the Old Testament"
+      },
+      {
+        "t": 883,
+        "heading": "Nicodemus and John 3:16"
+      },
+      {
+        "t": 1301,
+        "heading": "John as the Disciple Jesus Loved"
+      },
+      {
+        "t": 1537,
+        "heading": "Transformation: Becoming Sons of God"
+      },
+      {
+        "t": 2255,
+        "heading": "Expectation: Seeing Christ at His Appearing"
+      },
+      {
+        "t": 2781,
+        "heading": "Invitation and Call to Salvation"
+      }
+    ]
+  }
 }

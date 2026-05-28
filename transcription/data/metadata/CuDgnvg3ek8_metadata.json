@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CuDgnvg3ek8.vtt",
   "duration": 2586,
   "transcription_timestamp": "2025-04-15T10:30:00.724479",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 42:1-38 on the first journey of Joseph's brothers to Egypt during the famine, tracing how God works locally, globally, and personally in the lives of Joseph, his brothers, and Jacob. Preached in connection with a Lord's Supper observance and a call to self-examination.",
+    "themes": [
+      "providence of god",
+      "conviction of sin",
+      "self-examination",
+      "forgiveness and unresolved guilt",
+      "god working personally",
+      "famine and the life of joseph"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Text and Background Introduced"
+      },
+      {
+        "t": 369,
+        "heading": "God Working Locally and Globally"
+      },
+      {
+        "t": 508,
+        "heading": "God Working Personally"
+      },
+      {
+        "t": 706,
+        "heading": "God at Work in Joseph's Life"
+      },
+      {
+        "t": 1046,
+        "heading": "God at Work in the Brothers' Lives"
+      },
+      {
+        "t": 1995,
+        "heading": "God at Work in Jacob's Life"
+      },
+      {
+        "t": 2291,
+        "heading": "Recognizing and Responding to God's Work"
+      }
+    ]
+  }
 }

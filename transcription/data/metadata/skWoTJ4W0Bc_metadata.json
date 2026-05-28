@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\skWoTJ4W0Bc.vtt",
   "duration": 1750,
   "transcription_timestamp": "2025-04-17T20:19:29.706782",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 7:1-2 on Elisha's prophecy of provision during the Syrian siege of Samaria, set against the backdrop of famine and desperation described in 2 Kings 6. The passage is examined through three movements: the prophet's confidence, the specific content of the prophecy, and the mocking confusion of the king's servant.",
+    "themes": [
+      "prophecy",
+      "faith versus circumstances",
+      "provision",
+      "doubt and mockery",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Siege of Samaria"
+      },
+      {
+        "t": 138,
+        "heading": "Text and Sermon Introduction"
+      },
+      {
+        "t": 230,
+        "heading": "Confidence of the Prophet"
+      },
+      {
+        "t": 376,
+        "heading": "Content of the Prophecy"
+      },
+      {
+        "t": 606,
+        "heading": "Confusion of the King's Servant"
+      },
+      {
+        "t": 747,
+        "heading": "The How Versus the Who"
+      },
+      {
+        "t": 1305,
+        "heading": "The Servant's Judgment and Closing Appeal"
+      }
+    ]
+  }
 }

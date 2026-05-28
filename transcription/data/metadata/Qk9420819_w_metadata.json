@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qk9420819_w.vtt",
   "duration": 2805,
   "transcription_timestamp": "2025-04-16T12:47:58.859918",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition drawn from Nehemiah 6:9, tracing Nehemiah's recognition of God-given work, the decay of strength under opposition, and his brief prayer for strengthened hands, set against the broader narrative of the wall-building in Nehemiah 2-8 and supported by New Testament passages on weariness and divine strengthening.",
+    "themes": [
+      "god-given work",
+      "opposition and adversity",
+      "weariness in service",
+      "prayer for strength",
+      "perseverance",
+      "the work of god completed"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Key Verse"
+      },
+      {
+        "t": 277,
+        "heading": "What Nehemiah Recognized"
+      },
+      {
+        "t": 1019,
+        "heading": "What Nehemiah Requested"
+      },
+      {
+        "t": 1394,
+        "heading": "What Nehemiah Received"
+      },
+      {
+        "t": 1905,
+        "heading": "The Wall Finished and Hands Lifted"
+      },
+      {
+        "t": 2187,
+        "heading": "New Testament Warnings Against Weariness"
+      },
+      {
+        "t": 2324,
+        "heading": "Paul's Testimony of Divine Strengthening"
+      }
+    ]
+  }
 }

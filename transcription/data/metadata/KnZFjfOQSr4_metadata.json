@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KnZFjfOQSr4.vtt",
   "duration": 2108,
   "transcription_timestamp": "2025-04-14T19:38:31.121096",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 3:7-13 on the sixth of the seven churches addressed in Revelation, the church in Philadelphia, examined as a model of faithfulness that receives commendation but no correction from Christ.",
+    "themes": [
+      "church evaluation",
+      "faithfulness and obedience",
+      "open door of opportunity",
+      "testimony",
+      "christ's return",
+      "steadfastness in doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Philadelphia: Background and Overview"
+      },
+      {
+        "t": 327,
+        "heading": "Christ Reminds the Church of His Character"
+      },
+      {
+        "t": 822,
+        "heading": "Christ Commends Their Works and Faithfulness"
+      },
+      {
+        "t": 1262,
+        "heading": "Christ Comforts Them with Promises"
+      },
+      {
+        "t": 1546,
+        "heading": "Christ Counsels Them on His Return and Steadfastness"
+      },
+      {
+        "t": 1895,
+        "heading": "Closing Application for the Local Church"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2fOfcjfGKkk.vtt",
   "duration": 2193,
   "transcription_timestamp": "2025-04-15T08:34:25.819778",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 10:13-17 on the biblical basis and local church practice of world missions, framed around a precious promise and four rhetorical questions from the passage.",
+    "themes": [
+      "world missions",
+      "missions giving",
+      "the sending chain",
+      "eternal investment",
+      "local church missions program",
+      "gospel proclamation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Church Missions Culture Introduced"
+      },
+      {
+        "t": 324,
+        "heading": "Missions as the Heart of God"
+      },
+      {
+        "t": 416,
+        "heading": "Missions Giving and Its Fruit"
+      },
+      {
+        "t": 695,
+        "heading": "Philippians 4 and Giving to Ministry"
+      },
+      {
+        "t": 974,
+        "heading": "Romans 10:13, the Precious Promise"
+      },
+      {
+        "t": 1303,
+        "heading": "Four Piercing Questions in Reverse"
+      },
+      {
+        "t": 1786,
+        "heading": "Faith, Hearing, and the Word of God"
+      }
+    ]
+  }
 }

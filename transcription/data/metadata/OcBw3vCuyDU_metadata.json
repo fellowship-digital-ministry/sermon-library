@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OcBw3vCuyDU.vtt",
   "duration": 1783,
   "transcription_timestamp": "2025-04-17T16:35:04.558199",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philemon 1:2 and Colossians 4:17 on the figure of Archippus, examined through the two titles Paul assigns him: fellow soldier and recipient of a charge to fulfill his ministry. Philippians 2:25 and 2 Timothy 2 and 4 are drawn in to develop the soldier imagery and the call to perseverance.",
+    "themes": [
+      "spiritual warfare",
+      "perseverance in ministry",
+      "the call to ministry",
+      "fellow soldiers",
+      "finishing the race",
+      "discouragement in ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Archippus and Context"
+      },
+      {
+        "t": 236,
+        "heading": "Archippus Identified as Fellow Soldier"
+      },
+      {
+        "t": 330,
+        "heading": "Epaphroditus and the Title Fellow Soldier"
+      },
+      {
+        "t": 523,
+        "heading": "Paul's Instruction to Timothy on Soldiering"
+      },
+      {
+        "t": 710,
+        "heading": "Colossians 4:17 and the Charge to Archippus"
+      },
+      {
+        "t": 1046,
+        "heading": "The Phrase That Thou Fulfill It"
+      },
+      {
+        "t": 1191,
+        "heading": "Paul's Personal Testimony and the Call to Continue"
+      },
+      {
+        "t": 1513,
+        "heading": "Encouragement for Soldiers in the Battle"
+      }
+    ]
+  }
 }

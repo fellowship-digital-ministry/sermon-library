@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QUbGD8Rhd5A.vtt",
   "duration": 2098,
   "transcription_timestamp": "2025-04-17T21:05:27.464059",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 5:9-19 on Naaman's healing from leprosy, tracing his arrival at Elisha's house, his initial rejection of the prophet's instruction, his eventual obedience at the Jordan, and his subsequent acknowledgment of Jehovah as the only God. The twenty-fourth installment in a series through the lives of Elijah and Elisha.",
+    "themes": [
+      "obedience to divine instruction",
+      "humility",
+      "leprosy and healing",
+      "false gods and idolatry",
+      "salvation and the blood of christ",
+      "the specificity of god's commands"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Naaman's Background"
+      },
+      {
+        "t": 141,
+        "heading": "Naaman Arrives at Elisha's Door"
+      },
+      {
+        "t": 289,
+        "heading": "Elisha's Simple and Specific Instruction"
+      },
+      {
+        "t": 619,
+        "heading": "Naaman's Anger and Rejection"
+      },
+      {
+        "t": 999,
+        "heading": "The Servants' Appeal and Naaman's Obedience"
+      },
+      {
+        "t": 1093,
+        "heading": "Naaman Dips Seven Times and Is Healed"
+      },
+      {
+        "t": 1522,
+        "heading": "Naaman's Acknowledgment of Jehovah"
+      },
+      {
+        "t": 1667,
+        "heading": "Naaman's Request for Earth and Pardon"
+      }
+    ]
+  }
 }

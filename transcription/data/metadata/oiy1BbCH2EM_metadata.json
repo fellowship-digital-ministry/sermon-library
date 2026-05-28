@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oiy1BbCH2EM.vtt",
   "duration": 2487,
   "transcription_timestamp": "2025-04-16T09:08:52.233502",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 10:14-16 on the call to missions and sacrificial giving, delivered at a missions conference. Paul's phrase 'regions beyond' anchors a challenge to believers to move past self-concern, personal comfort, and limited vision in order to support and pursue world evangelism.",
+    "themes": [
+      "world missions",
+      "sacrificial giving",
+      "faith and obedience",
+      "self-centeredness",
+      "the great commission",
+      "missionary support"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Scripture Reading"
+      },
+      {
+        "t": 145,
+        "heading": "The Immensity of the World and Its Need"
+      },
+      {
+        "t": 341,
+        "heading": "Living Beyond Our Measure"
+      },
+      {
+        "t": 526,
+        "heading": "The Gospel Crossing Borders"
+      },
+      {
+        "t": 860,
+        "heading": "Regions Beyond: Still Further"
+      },
+      {
+        "t": 1292,
+        "heading": "Living Beyond Our Means: Sacrificial Giving"
+      },
+      {
+        "t": 1837,
+        "heading": "The Widow of Zarephath: Faith and Provision"
+      },
+      {
+        "t": 2027,
+        "heading": "William Borden: No Reserves, No Retreats, No Regrets"
+      }
+    ]
+  }
 }

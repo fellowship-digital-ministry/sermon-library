@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9du5nBV5SM8.vtt",
   "duration": 1909,
   "transcription_timestamp": "2025-04-17T04:14:11.632417",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:7 on spiritual warfare, structured around three elements of the verse: submitting to God, resisting the devil, and the promise of his flight. The Lord Jesus Christ's temptation in Luke 4:1-13 is examined as a model implementation of the same pattern.",
+    "themes": [
+      "spiritual warfare",
+      "submission to god",
+      "resisting the devil",
+      "armor of god",
+      "scripture memory",
+      "sanctification"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context from Colossians 3 Series"
+      },
+      {
+        "t": 230,
+        "heading": "Introduction to James 4:7"
+      },
+      {
+        "t": 324,
+        "heading": "Principle of Submitting"
+      },
+      {
+        "t": 557,
+        "heading": "Process of Resisting"
+      },
+      {
+        "t": 603,
+        "heading": "Armor of God and the Word"
+      },
+      {
+        "t": 1067,
+        "heading": "Promise to Claim"
+      },
+      {
+        "t": 1157,
+        "heading": "Luke 4 as the Battle Plan in Practice"
+      },
+      {
+        "t": 1662,
+        "heading": "The Daily Nature of the Battle"
+      }
+    ]
+  }
 }

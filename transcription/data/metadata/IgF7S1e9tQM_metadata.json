@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IgF7S1e9tQM.vtt",
   "duration": 3136,
   "transcription_timestamp": "2025-04-15T09:58:40.456221",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 1:5-11 on the importance of sound doctrine, examining the exposure of false teachers in the early church and the proper purpose and application of the Old Testament law, with supporting references to Titus 1, Galatians 3, and Jude.",
+    "themes": [
+      "sound doctrine",
+      "false teachers",
+      "the law and the gospel",
+      "proper biblical interpretation",
+      "continuing in the faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 234,
+        "heading": "Doctrine in Titus and 2 Timothy"
+      },
+      {
+        "t": 520,
+        "heading": "Exposure of False Teachers"
+      },
+      {
+        "t": 1236,
+        "heading": "Emphasis on Sound Doctrine"
+      },
+      {
+        "t": 1945,
+        "heading": "Purpose of the Law: Galatians 3 and Romans 7"
+      },
+      {
+        "t": 2457,
+        "heading": "False Teaching Today: Internet and Modern Translations"
+      },
+      {
+        "t": 2744,
+        "heading": "Contending for the Faith: Jude"
+      }
+    ]
+  }
 }

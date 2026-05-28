@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2KK1iGdL4p0.vtt",
   "duration": 2707,
   "transcription_timestamp": "2025-04-14T23:54:57.524883",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 16:18 on how churches grow according to the Bible, examining both the promise of Christ to build his church and the process revealed in the New Testament through the Great Commission, the Jerusalem church, and the church at Thessalonica.",
+    "themes": [
+      "church growth",
+      "evangelism and gospel preaching",
+      "believer's baptism",
+      "discipleship",
+      "the great commission",
+      "spiritual growth"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Series Context and Question Posed"
+      },
+      {
+        "t": 230,
+        "heading": "The Promise Recorded: Matthew 16:18"
+      },
+      {
+        "t": 553,
+        "heading": "Christ as Head and Source of Increase"
+      },
+      {
+        "t": 794,
+        "heading": "The Process Revealed: Great Commission"
+      },
+      {
+        "t": 1133,
+        "heading": "The Jerusalem Church as Example"
+      },
+      {
+        "t": 1652,
+        "heading": "The Thessalonian Church in Acts 17"
+      },
+      {
+        "t": 1934,
+        "heading": "Numeric and Spiritual Growth in Thessalonica"
+      },
+      {
+        "t": 2440,
+        "heading": "God's Process Versus Getting a Crowd"
+      }
+    ]
+  }
 }

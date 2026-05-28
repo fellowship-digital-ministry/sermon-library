@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TNNHR9aPzJk.vtt",
   "duration": 2601,
   "transcription_timestamp": "2025-04-16T09:58:06.896198",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 35:1-15 on Jacob's return to Bethel, tracing the preparation, divine protection, and worship that mark the journey, set within the broader narrative of Jacob's travels from Genesis 28 onward. The seventy-fifth message in a series through Genesis, preached on a Sunday evening.",
+    "themes": [
+      "worship",
+      "idolatry",
+      "preparation for worship",
+      "divine protection",
+      "the house of god",
+      "the abrahamic covenant"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Jacob's Background"
+      },
+      {
+        "t": 230,
+        "heading": "God's Command to Return to Bethel"
+      },
+      {
+        "t": 277,
+        "heading": "Preparation for the Journey"
+      },
+      {
+        "t": 1228,
+        "heading": "Divine Protection Along the Way"
+      },
+      {
+        "t": 1599,
+        "heading": "Arrival, Altar Building, and Worship"
+      },
+      {
+        "t": 1831,
+        "heading": "God's Appearance and Covenant Confirmation"
+      },
+      {
+        "t": 2205,
+        "heading": "Preparation for Worship Applied"
+      }
+    ]
+  }
 }

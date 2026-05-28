@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lReYV18RAeg.vtt",
   "duration": 3345.0,
   "transcription_timestamp": "2026-05-27T16:35:26.819524",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:9-11 on wealth, poverty, and the call to rejoice in both financial gain and loss, drawing supporting passages from Proverbs, Luke 12, Philippians 4, and Revelation 2-3.",
+    "themes": [
+      "finances and wealth",
+      "contentment",
+      "biblical perspective on money",
+      "rejoicing in trials",
+      "eternal versus temporal focus",
+      "deception of riches"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 188,
+        "heading": "James 1:9-11 Introduced"
+      },
+      {
+        "t": 376,
+        "heading": "Two Groups: Low Degree and Rich"
+      },
+      {
+        "t": 765,
+        "heading": "Lack of Wealth and Discouragement"
+      },
+      {
+        "t": 1098,
+        "heading": "Excess Wealth and Deception"
+      },
+      {
+        "t": 1333,
+        "heading": "Luke 12: The Rich Fool and Eternal Treasure"
+      },
+      {
+        "t": 2044,
+        "heading": "Four Principles for a Biblical Perspective"
+      },
+      {
+        "t": 2932,
+        "heading": "Smyrna and Laodicea: Poor-Rich and Rich-Poor"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QuP5gIgrnmo.vtt",
   "duration": 3227,
   "transcription_timestamp": "2025-04-17T04:54:09.754708",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:5-7 on the Christian's responsibility to mortify the flesh, with supporting passages from Romans 6-7, 1 Corinthians 15, and Galatians 5. The sermon addresses the named sins of fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, and the dangers of failing to deal with fleshly appetites after conversion.",
+    "themes": [
+      "mortifying the flesh",
+      "sexual immorality",
+      "covetousness",
+      "sin and discipline",
+      "the christian walk",
+      "personal responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Penalty and Power of Sin"
+      },
+      {
+        "t": 234,
+        "heading": "The Resurrection Body (1 Cor. 15)"
+      },
+      {
+        "t": 420,
+        "heading": "Position, Pursuits, and Practical Walk"
+      },
+      {
+        "t": 608,
+        "heading": "Mortify: Direct Command and Its Meaning"
+      },
+      {
+        "t": 1074,
+        "heading": "The Sins Named in Verse 5"
+      },
+      {
+        "t": 1778,
+        "heading": "Dangers of the Flesh and God's Wrath (vv. 6-7)"
+      },
+      {
+        "t": 2297,
+        "heading": "Romans 6 and 7 on the Flesh and Victory"
+      },
+      {
+        "t": 2811,
+        "heading": "Walking in the Spirit (Galatians 5)"
+      }
+    ]
+  }
 }

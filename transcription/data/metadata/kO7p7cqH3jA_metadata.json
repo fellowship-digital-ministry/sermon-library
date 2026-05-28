@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kO7p7cqH3jA.vtt",
   "duration": 3089,
   "transcription_timestamp": "2025-04-17T08:32:50.360656",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 3:16 on the love of God as demonstrated in Christ laying down his life, preached on Valentine's Day. The passage is read alongside John 11, Romans 8, and Galatians 2 to address confidence in God's love and the danger of allowing adverse circumstances to produce doubt.",
+    "themes": [
+      "love of god",
+      "assurance of faith",
+      "deity of christ",
+      "doubt and circumstances",
+      "evangelism",
+      "confidence in scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Valentine's Day and God's Love Introduced"
+      },
+      {
+        "t": 276,
+        "heading": "1 John 3:16 and the Deity of Christ"
+      },
+      {
+        "t": 462,
+        "heading": "Being Confident of God's Love"
+      },
+      {
+        "t": 888,
+        "heading": "John's Personal Confidence That Jesus Loved Him"
+      },
+      {
+        "t": 1268,
+        "heading": "Paul's Confidence in the Love of Christ"
+      },
+      {
+        "t": 1454,
+        "heading": "Circumstances as a Source of Doubt"
+      },
+      {
+        "t": 1549,
+        "heading": "John 11: Lazarus, Divine Delay, and Love Declared"
+      },
+      {
+        "t": 2485,
+        "heading": "Romans 8: Nothing Separates from God's Love"
+      }
+    ]
+  }
 }

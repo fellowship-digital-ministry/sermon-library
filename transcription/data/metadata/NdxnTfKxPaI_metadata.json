@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NdxnTfKxPaI.vtt",
   "duration": 2111,
   "transcription_timestamp": "2025-04-17T01:42:45.968733",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 3:3-4 on David's response to adversity during Absalom's rebellion, focusing on prayer as the means by which David rehearses God's character and rejoices in being heard. Part two of a four-part series through Psalm 3.",
+    "themes": [
+      "prayer",
+      "adversity and opposition",
+      "attributes of god",
+      "discouragement",
+      "god's constancy",
+      "casting burdens on god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Recap of Verses 1-2"
+      },
+      {
+        "t": 182,
+        "heading": "The Central Question: Response to Opposition"
+      },
+      {
+        "t": 275,
+        "heading": "David Rehearses Who God Is"
+      },
+      {
+        "t": 464,
+        "heading": "God as Shield, Glory, and Lifter of the Head"
+      },
+      {
+        "t": 1115,
+        "heading": "David Rejoices That God Heard His Voice"
+      },
+      {
+        "t": 1495,
+        "heading": "Supporting Scriptures and Closing Hymns"
+      }
+    ]
+  }
 }

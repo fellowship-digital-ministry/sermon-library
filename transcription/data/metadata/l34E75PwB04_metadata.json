@@ -8,5 +8,46 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/l34E75PwB04.vtt",
   "duration": 1774.0,
   "transcription_timestamp": "2026-05-28T15:49:52.179826",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Isaiah 41:17-20 on the six-fold repetition of 'I the Lord' as the foundation of God's work among his people, drawn from the context of Israel's captivity and idolatry in Isaiah's prophecy.",
+    "themes": [
+      "sovereignty of god",
+      "spiritual need and desperation",
+      "god's provision in dry places",
+      "missions and gospel outreach",
+      "encouragement in difficult circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of Isaiah 41:17-20"
+      },
+      {
+        "t": 140,
+        "heading": "Isaiah as the Mini Bible"
+      },
+      {
+        "t": 276,
+        "heading": "The Expression 'I the Lord'"
+      },
+      {
+        "t": 465,
+        "heading": "Condition of the Poor and Needy"
+      },
+      {
+        "t": 976,
+        "heading": "Four Things God Will Do"
+      },
+      {
+        "t": 1300,
+        "heading": "Robert Germain Thomas and Korea"
+      },
+      {
+        "t": 1595,
+        "heading": "Seeing the Hand of the Lord"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTFBBPIk4YQ.vtt",
   "duration": 2342,
   "transcription_timestamp": "2025-04-17T03:21:24.466706",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 3:1-8 on the durability of spiritual decisions, set against the backdrop of a recently concluded revival meeting. Paul's concern for the Thessalonian believers, Timothy's mission, and the report of their steadfastness frame a study of what causes decisions to endure or fail.",
+    "themes": [
+      "spiritual decisions",
+      "perseverance under affliction",
+      "accountability",
+      "the word of god as foundation",
+      "pastoral concern",
+      "temptation and opposition"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival Decisions and Their Durability"
+      },
+      {
+        "t": 239,
+        "heading": "Paul's Concern for Thessalonica"
+      },
+      {
+        "t": 437,
+        "heading": "Timothy Sent to Examine the Believers"
+      },
+      {
+        "t": 1136,
+        "heading": "Timothy's Mission and Return"
+      },
+      {
+        "t": 1373,
+        "heading": "Emotional vs. Word-Based Decisions"
+      },
+      {
+        "t": 1707,
+        "heading": "Shadrach, Meshach, and Abednego as Example"
+      },
+      {
+        "t": 2030,
+        "heading": "Accountability Partners as a Safeguard"
+      }
+    ]
+  }
 }

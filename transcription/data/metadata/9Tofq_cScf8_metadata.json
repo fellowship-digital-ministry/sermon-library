@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9Tofq_cScf8.vtt",
   "duration": 2063,
   "transcription_timestamp": "2025-04-17T15:43:52.743840",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Micah 6:1-8 on the three requirements God places before His people: to do justly, to love mercy, and to walk humbly with God. The passage is read against its historical setting under kings Jotham, Ahaz, and Hezekiah, with parallel texts in Deuteronomy 10:12-13 and Ecclesiastes 12:13.",
+    "themes": [
+      "justice and righteous conduct",
+      "mercy",
+      "humility",
+      "the prophetic ministry of micah",
+      "god's controversy with his people",
+      "old testament requirements and new testament parallels"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to the Book of Micah"
+      },
+      {
+        "t": 47,
+        "heading": "Historical Setting of Micah's Ministry"
+      },
+      {
+        "t": 244,
+        "heading": "Parallel Requirements in Deuteronomy and Ecclesiastes"
+      },
+      {
+        "t": 443,
+        "heading": "God's Controversy with His People (Micah 6:1-7)"
+      },
+      {
+        "t": 821,
+        "heading": "He Hath Showed Thee: Verse 8 Introduced"
+      },
+      {
+        "t": 1006,
+        "heading": "First Requirement: To Do Justly"
+      },
+      {
+        "t": 1287,
+        "heading": "Second Requirement: To Love Mercy"
+      },
+      {
+        "t": 1520,
+        "heading": "Third Requirement: To Walk Humbly with God"
+      }
+    ]
+  }
 }

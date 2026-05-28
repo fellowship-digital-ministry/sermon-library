@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cCksVIX-UWU.vtt",
   "duration": 3286,
   "transcription_timestamp": "2025-04-15T10:45:35.086826",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 2:10 on the believer's service to God, framed around the concept of serving 'for the audience of one.' Draws on passages from 1 Corinthians, Ephesians 4, 1 Peter 4, 1 Thessalonians 2, and the construction of the tabernacle in Exodus 36-40 to address attitude, ability, and purpose in Christian service.",
+    "themes": [
+      "service to god",
+      "spiritual gifts",
+      "stewardship",
+      "god's glory",
+      "attitude in ministry",
+      "motivation for service"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Service as the Sermon's Subject"
+      },
+      {
+        "t": 232,
+        "heading": "Reviewing Attitude Toward Service"
+      },
+      {
+        "t": 651,
+        "heading": "Rejoicing for the Ability to Serve"
+      },
+      {
+        "t": 1937,
+        "heading": "What Is Accomplished Through Service"
+      },
+      {
+        "t": 2326,
+        "heading": "The Tabernacle as an Old Testament Illustration"
+      },
+      {
+        "t": 3083,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

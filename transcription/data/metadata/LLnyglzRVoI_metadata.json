@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LLnyglzRVoI.vtt",
   "duration": 2843,
   "transcription_timestamp": "2025-04-15T09:53:32.902689",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 1:12-17 on Paul's testimony of receiving mercy, grace, and salvation, set against the backdrop of Sanctity of Life Sunday and the claim that the value of human life rests on the truths of creation, God's existence, and redemption at Calvary.",
+    "themes": [
+      "sanctity of life",
+      "salvation and redemption",
+      "mercy and grace",
+      "paul's testimony",
+      "rejoicing in salvation",
+      "purpose in christian life"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Sanctity of Life and God's Word"
+      },
+      {
+        "t": 138,
+        "heading": "Atheism, Evolution, and the Value of Life"
+      },
+      {
+        "t": 231,
+        "heading": "Calvary and the Worth of Human Life"
+      },
+      {
+        "t": 559,
+        "heading": "What Paul Received: Mercy, Grace, Salvation, Purpose"
+      },
+      {
+        "t": 1031,
+        "heading": "What Paul Remembered: His Life Before Salvation"
+      },
+      {
+        "t": 1691,
+        "heading": "How Paul Rejoiced: Names Written in Heaven"
+      }
+    ]
+  }
 }

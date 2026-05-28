@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vy5VEXZUwEU.vtt",
   "duration": 2806,
   "transcription_timestamp": "2025-04-16T10:11:58.886408",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:159 on the evidences that support a genuine love for the word of God, drawing on multiple verses throughout Psalm 119 as part two of a series on the Bible. Ten observable behaviors from the psalmist are examined as evidence that his declaration in Psalm 119:97 is substantiated by his life.",
+    "themes": [
+      "love for scripture",
+      "bible reading and study",
+      "scripture memory",
+      "meditation on the word",
+      "obedience to scripture",
+      "reverence for the bible"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Setup"
+      },
+      {
+        "t": 139,
+        "heading": "Psalm 119:159 as the Framing Text"
+      },
+      {
+        "t": 275,
+        "heading": "Evidence One and Two: Desire to Learn and Commitment to Obey"
+      },
+      {
+        "t": 646,
+        "heading": "Evidence Three and Four: Memorizing and Meditating on the Word"
+      },
+      {
+        "t": 1028,
+        "heading": "Evidence Five and Six: Searching the Word and Delight in the Word"
+      },
+      {
+        "t": 1547,
+        "heading": "Evidence Seven and Eight: Longing for and Valuing the Word"
+      },
+      {
+        "t": 2065,
+        "heading": "Evidence Nine and Ten: Awe of the Word and Purpose to Speak It"
+      },
+      {
+        "t": 2298,
+        "heading": "William McPherson Illustration and Closing Challenge"
+      }
+    ]
+  }
 }

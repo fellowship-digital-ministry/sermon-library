@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_LYcdJO7GfA.vtt",
   "duration": 3137.0,
   "transcription_timestamp": "2026-05-27T15:39:09.667256",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 10:1-18 on the once-for-all sacrifice of Christ, contrasting the deficiencies of the Old Testament sacrificial system with the sufficiency of Christ's atonement and the resulting remission of sins. Preached during Holy Week, with supporting texts drawn from John, Ephesians, Colossians, 1 Peter, and Galatians.",
+    "themes": [
+      "the atonement",
+      "old testament sacrificial system",
+      "remission of sins",
+      "salvation by faith",
+      "the blood of christ",
+      "sufficiency of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Holy Week Context and Passage Introduction"
+      },
+      {
+        "t": 228,
+        "heading": "Theme of Hebrews: Christ Superior"
+      },
+      {
+        "t": 277,
+        "heading": "Deficiencies of the Old Testament Law and Sacrifices"
+      },
+      {
+        "t": 839,
+        "heading": "The Plan of God for Christ's Coming"
+      },
+      {
+        "t": 1360,
+        "heading": "The Payment: Blood of Christ"
+      },
+      {
+        "t": 1973,
+        "heading": "The Pardon: Remission and Imputed Righteousness"
+      },
+      {
+        "t": 2442,
+        "heading": "No Other Offering for Sin"
+      },
+      {
+        "t": 2675,
+        "heading": "Invitation and Personal Application"
+      }
+    ]
+  }
 }

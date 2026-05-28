@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U_xKQPutdso.vtt",
   "duration": 2626,
   "transcription_timestamp": "2025-04-17T03:14:16.920125",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Deuteronomy 6:1-9 on the parental responsibility to teach God's commandments, statutes, and judgments to children, delivered in the context of a triple baby dedication service.",
+    "themes": [
+      "parental instruction",
+      "teaching children",
+      "the home",
+      "generational faithfulness",
+      "the word of god",
+      "baby dedication"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Baby Dedication Context"
+      },
+      {
+        "t": 139,
+        "heading": "Reading of Deuteronomy 6:1-9"
+      },
+      {
+        "t": 233,
+        "heading": "Importance of the Instruction"
+      },
+      {
+        "t": 570,
+        "heading": "Implementation in One's Own Life"
+      },
+      {
+        "t": 955,
+        "heading": "Teaching Children Diligently"
+      },
+      {
+        "t": 1678,
+        "heading": "Impact of the Instruction"
+      },
+      {
+        "t": 1823,
+        "heading": "Generational Scope in Psalm 78 and 2 Timothy"
+      }
+    ]
+  }
 }

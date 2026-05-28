@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/0SCq_eAwbaw.vtt",
   "duration": 3616.0,
   "transcription_timestamp": "2026-05-27T15:22:02.112641",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 2:14-20 on the relationship between faith and works in the life of a believer, arguing that genuine saving faith is by grace alone but is always evidenced by outward behavior. Old Testament illustrations from Exodus 9 and 16 and supporting passages from Matthew, Luke, John, Romans, Ephesians, Philippians, Titus, and 1 John are drawn in to show that Paul, Jesus, and John teach the same connection between belief and behavior that James addresses.",
+    "themes": [
+      "faith and works",
+      "evidence of genuine conversion",
+      "grace and salvation",
+      "behavior as evidence of belief",
+      "fruit of the christian life",
+      "contradictions between james and paul"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "James 2:14-20 Read and Introduced"
+      },
+      {
+        "t": 293,
+        "heading": "Behavior as Evidence of Belief"
+      },
+      {
+        "t": 339,
+        "heading": "Old Testament Illustrations from Exodus"
+      },
+      {
+        "t": 821,
+        "heading": "Point One: Genuine Conversion Is by Faith Alone"
+      },
+      {
+        "t": 1770,
+        "heading": "Point Two: Genuine Conversion Produces Fruit"
+      },
+      {
+        "t": 2258,
+        "heading": "The Message of Jesus, Paul, and John on Works"
+      },
+      {
+        "t": 3221,
+        "heading": "Personal Testimony and Closing Illustrations"
+      }
+    ]
+  }
 }

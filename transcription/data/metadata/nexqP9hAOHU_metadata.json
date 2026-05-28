@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nexqP9hAOHU.vtt",
   "duration": 2051,
   "transcription_timestamp": "2025-04-17T16:21:54.820908",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Nehemiah 4 on opposition to the work of God, framed by Paul's statement in 1 Corinthians 16:9 that 'there are many adversaries.' The chapter's account of Sanballat, Tobiah, and their confederates opposing the rebuilding of Jerusalem's walls is read as a pattern of how the enemy operates against the people of God.",
+    "themes": [
+      "spiritual opposition",
+      "prayer",
+      "the work of the lord",
+      "perseverance",
+      "the rapture",
+      "gospel ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Background of Nehemiah"
+      },
+      {
+        "t": 335,
+        "heading": "The Plan of the Enemy"
+      },
+      {
+        "t": 805,
+        "heading": "The Prayer of God's People"
+      },
+      {
+        "t": 942,
+        "heading": "The Power of God"
+      },
+      {
+        "t": 1173,
+        "heading": "The Persistence of God's People"
+      },
+      {
+        "t": 1403,
+        "heading": "Application to Gospel Ministry"
+      },
+      {
+        "t": 1542,
+        "heading": "Working Until the Trumpet Sounds"
+      }
+    ]
+  }
 }

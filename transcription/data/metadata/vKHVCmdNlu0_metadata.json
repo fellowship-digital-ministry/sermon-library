@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vKHVCmdNlu0.vtt",
   "duration": 2806,
   "transcription_timestamp": "2025-04-16T11:01:02.455951",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 139:13-18 and Genesis 1:26-27 on the origin and value of human life, tracing three claims: that mankind is made by God, known by God, and valued by God. The wonder of human reproduction in Psalm 139 is set alongside the creation account in Genesis as complementary records of God's design for human life.",
+    "themes": [
+      "creation of man",
+      "value of human life",
+      "life beginning at conception",
+      "god's knowledge of individuals",
+      "redemption",
+      "evolution versus biblical creation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Overview"
+      },
+      {
+        "t": 183,
+        "heading": "Genesis and Psalm 139 as Complementary Records"
+      },
+      {
+        "t": 322,
+        "heading": "Made by God: Origin and Formation of Man"
+      },
+      {
+        "t": 693,
+        "heading": "Psalm 139 and Subsequent Reproduction"
+      },
+      {
+        "t": 973,
+        "heading": "Known by God: His Knowledge of Individuals"
+      },
+      {
+        "t": 1347,
+        "heading": "Valued by God: Life, Worth, and Redemption"
+      },
+      {
+        "t": 2409,
+        "heading": "Life at Conception and Closing Appeal"
+      }
+    ]
+  }
 }

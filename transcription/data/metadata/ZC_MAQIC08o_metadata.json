@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZC_MAQIC08o.vtt",
   "duration": 2266,
   "transcription_timestamp": "2025-04-17T04:10:43.795597",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:18-21 on God's design for the home, addressing the distinct responsibilities of wives, husbands, children, and fathers within a biblically ordered household. Cross-referenced throughout with Ephesians 5:18-6:3 and grounded in the preceding Colossians 3 passage on putting off the old man and walking in the Spirit.",
+    "themes": [
+      "biblical roles in the home",
+      "submission",
+      "husbands loving wives",
+      "children and obedience",
+      "parenting",
+      "walking in the spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Preceding Colossians 3 Passage"
+      },
+      {
+        "t": 185,
+        "heading": "God as Designer of the Home"
+      },
+      {
+        "t": 416,
+        "heading": "Instruction Provided and Its Source"
+      },
+      {
+        "t": 555,
+        "heading": "Roles Addressed: Wives, Husbands, Children, Fathers"
+      },
+      {
+        "t": 1494,
+        "heading": "Instruction Understood but Not Yet Applied"
+      },
+      {
+        "t": 1640,
+        "heading": "Embracing and Applying the Instruction"
+      },
+      {
+        "t": 1917,
+        "heading": "Being Filled with the Spirit as the Enabling Foundation"
+      }
+    ]
+  }
 }

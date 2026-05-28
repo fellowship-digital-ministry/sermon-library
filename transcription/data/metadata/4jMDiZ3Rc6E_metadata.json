@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4jMDiZ3Rc6E.vtt",
   "duration": 3222,
   "transcription_timestamp": "2025-04-14T20:01:41.579628",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 3:1-18 on the contrast between law and grace, tracing the temporary and condemning nature of the Mosaic law against the converting and liberating power of the gospel, with extended reference to Exodus 34, Romans 7-8, Galatians 3, and Hebrews 10.",
+    "themes": [
+      "law and grace",
+      "the gospel",
+      "mosaic law",
+      "spiritual blindness",
+      "sanctification",
+      "false teaching and judaizers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Law and Grace in 2 Corinthians 3"
+      },
+      {
+        "t": 242,
+        "heading": "The Law Condemns"
+      },
+      {
+        "t": 573,
+        "heading": "The Law Is Temporary and Fading"
+      },
+      {
+        "t": 945,
+        "heading": "Exodus 34: Moses, the Veil, and Fading Glory"
+      },
+      {
+        "t": 1362,
+        "heading": "The Law's Purpose: Revealing Sin and Pointing to Christ"
+      },
+      {
+        "t": 1875,
+        "heading": "The Gospel Converts: The Ministration of Righteousness"
+      },
+      {
+        "t": 2851,
+        "heading": "Liberty and Sanctification: Changed from Glory to Glory"
+      }
+    ]
+  }
 }

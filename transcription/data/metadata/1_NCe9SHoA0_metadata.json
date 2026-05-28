@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1_NCe9SHoA0.vtt",
   "duration": 2743,
   "transcription_timestamp": "2025-04-16T16:29:38.256552",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:15-17 on the command to love not the world, tracing the meaning of 'the world' as a system controlled by Satan, the progression by which worldliness takes hold in a believer's life, and the three pitfalls named in verse 16. John 17:11-18 is read alongside the primary text to establish the believer's position of being in the world but not of it.",
+    "themes": [
+      "worldliness",
+      "the world system",
+      "lust of the flesh",
+      "lust of the eyes",
+      "pride of life",
+      "separation from the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Reading"
+      },
+      {
+        "t": 93,
+        "heading": "John 17 and the Believer in the World"
+      },
+      {
+        "t": 332,
+        "heading": "Three Meanings of World Defined"
+      },
+      {
+        "t": 424,
+        "heading": "Progression of Worldliness"
+      },
+      {
+        "t": 1041,
+        "heading": "Three Pitfalls in Verse 16"
+      },
+      {
+        "t": 1421,
+        "heading": "Six Ways to Avoid the Pitfalls"
+      },
+      {
+        "t": 1985,
+        "heading": "The Twofold Promise of Verse 17"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y7Ff430VPN0.vtt",
   "duration": 1878,
   "transcription_timestamp": "2025-04-17T06:21:51.064700",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 13:1-12, with reference to Matthew 9:35-38, on the sending forth of Barnabas and Saul from the church at Antioch on the first missionary journey. The passage is read alongside the broader arc of Acts 1-14 to trace the spread of the gospel from Jerusalem to the uttermost parts of the earth.",
+    "themes": [
+      "missions",
+      "the great commission",
+      "the local church and missions",
+      "prayer for laborers",
+      "evangelism",
+      "opposition to the gospel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Missions Conference Context"
+      },
+      {
+        "t": 91,
+        "heading": "Matthew 9: The Harvest and the Laborers"
+      },
+      {
+        "t": 369,
+        "heading": "Acts 13: The Church at Antioch Receives the Plan"
+      },
+      {
+        "t": 648,
+        "heading": "God's Plan Fulfilling God's Purpose in Acts"
+      },
+      {
+        "t": 1093,
+        "heading": "The Mission Field Evangelized: Cyprus and Galatia"
+      },
+      {
+        "t": 1553,
+        "heading": "Overview of the First Missionary Journey"
+      },
+      {
+        "t": 1644,
+        "heading": "The Church's Role in Supporting Sent Laborers"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/zB-5t48RhWY.vtt",
   "duration": 3257.0,
   "transcription_timestamp": "2026-05-27T16:52:48.707028",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory exposition of James 1:1 opening a planned series through the book of James, examining the authorship, recipients, and historical background of the epistle alongside the meaning of the Greek word doulos (bond servant) as applied to the believer's identity and perspective before God.",
+    "themes": [
+      "servanthood",
+      "identity in christ",
+      "authorship and background of james",
+      "faith and works",
+      "spiritual maturity",
+      "obedience to god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to the James Series"
+      },
+      {
+        "t": 289,
+        "heading": "Identifying the Author of James"
+      },
+      {
+        "t": 531,
+        "heading": "James as Unbeliever During Christ's Ministry"
+      },
+      {
+        "t": 716,
+        "heading": "James's Conversion and Role in the Early Church"
+      },
+      {
+        "t": 999,
+        "heading": "Recipients: Scattered Jewish Believers"
+      },
+      {
+        "t": 1599,
+        "heading": "Nature and Purpose of the Book of James"
+      },
+      {
+        "t": 1979,
+        "heading": "The Meaning of Doulos: Bond Servant"
+      },
+      {
+        "t": 2354,
+        "heading": "Privilege and Perspective of Being God's Servant"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HiFapKk4nG4.vtt",
   "duration": 2962,
   "transcription_timestamp": "2025-04-17T06:26:44.777993",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 5:14-16 on the believer's identity and responsibility as the light of the world, drawing on lighthouse imagery, parallel Pauline texts, and the example of John the Baptist to examine what it means to fulfill that role in a dark culture.",
+    "themes": [
+      "light of the world",
+      "christian witness",
+      "sphere of influence",
+      "missions and evangelism",
+      "walking in the spirit",
+      "holiness and separation from the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Dark World Believers Inhabit"
+      },
+      {
+        "t": 283,
+        "heading": "Matthew 5:14-16 Introduced and Read"
+      },
+      {
+        "t": 332,
+        "heading": "Lighthouse Keeper Roles as Illustration"
+      },
+      {
+        "t": 521,
+        "heading": "The Role: Ye Are the Light"
+      },
+      {
+        "t": 903,
+        "heading": "Ephesians and Philippians on Walking as Light"
+      },
+      {
+        "t": 1330,
+        "heading": "The Region: Sphere of Influence and Placement"
+      },
+      {
+        "t": 2083,
+        "heading": "Fulfilling the Responsibility"
+      },
+      {
+        "t": 2368,
+        "heading": "Keeping the Lens Clean: John the Baptist as Example"
+      }
+    ]
+  }
 }

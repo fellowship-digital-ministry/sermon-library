@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L3vRRtbMBBw.vtt",
   "duration": 2586,
   "transcription_timestamp": "2025-04-17T19:44:17.506458",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 6:9-12 on the marks of genuine salvation and the call to ongoing spiritual growth, addressed to believers within a series on the book of Hebrews under the theme 'Looking unto Jesus.'",
+    "themes": [
+      "evidence of salvation",
+      "spiritual growth",
+      "service and good works",
+      "love for the brethren",
+      "perseverance in the christian life",
+      "following godly examples"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 194,
+        "heading": "The Warning Passage and Its Audience"
+      },
+      {
+        "t": 334,
+        "heading": "Birthmarks of a Believer"
+      },
+      {
+        "t": 432,
+        "heading": "Work and Service as Evidence of Conversion"
+      },
+      {
+        "t": 955,
+        "heading": "Labor of Love and Love for the Brethren"
+      },
+      {
+        "t": 1477,
+        "heading": "The Expectation to Continue unto the End"
+      },
+      {
+        "t": 2047,
+        "heading": "Following Examples of Faith and Patience"
+      }
+    ]
+  }
 }

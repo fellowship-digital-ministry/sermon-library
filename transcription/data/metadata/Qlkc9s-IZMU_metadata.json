@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qlkc9s-IZMU.vtt",
   "duration": 2929,
   "transcription_timestamp": "2025-04-16T11:43:35.810360",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:6-13 on the witness God has provided concerning His Son, examined within a series through the book of 1 John. The passage is treated under two headings: the record delivered (vv. 6-8) and the response demanded (vv. 9-13), with attention to the false teaching of the early Gnostic Cerinthus as background to John's argument.",
+    "themes": [
+      "assurance of salvation",
+      "witness and record of god",
+      "the holy spirit",
+      "false teaching",
+      "eternal life",
+      "scripture reliability"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 272,
+        "heading": "The Record Delivered"
+      },
+      {
+        "t": 319,
+        "heading": "The Record as Reliable"
+      },
+      {
+        "t": 687,
+        "heading": "Cerinthus and False Teaching on Christ"
+      },
+      {
+        "t": 1010,
+        "heading": "The Record as Available"
+      },
+      {
+        "t": 1529,
+        "heading": "A Response Demanded"
+      },
+      {
+        "t": 1722,
+        "heading": "Receiving the Record: Results for Believers"
+      },
+      {
+        "t": 2330,
+        "heading": "Rejecting the Record: Consequences"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/G4Un3pWAQf0.vtt",
   "duration": 3058.0,
   "transcription_timestamp": "2026-05-27T17:22:52.152966",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 12:20-21 on sin in the life of believers, drawing on Paul's expressed concern for the church at Corinth and his catalog of carnal behaviors including debates, envyings, wraths, fornication, and lasciviousness. The passage is treated as a call to identify, confess, forsake, and develop a structured plan to overcome sin, situated within a year-long series through 2 Corinthians.",
+    "themes": [
+      "sin in the believer's life",
+      "repentance and confession",
+      "fellowship with god",
+      "walking in the spirit",
+      "spiritual victory",
+      "church accountability"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Assurance of Salvation Introduced"
+      },
+      {
+        "t": 91,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 417,
+        "heading": "Sin, the Believer, and the Old Nature"
+      },
+      {
+        "t": 931,
+        "heading": "Point One: Identifying Sin in Our Lives"
+      },
+      {
+        "t": 1259,
+        "heading": "Point Two: Confessing and Forsaking Sin"
+      },
+      {
+        "t": 1723,
+        "heading": "Point Three: Developing a Plan for Victory"
+      },
+      {
+        "t": 2348,
+        "heading": "Accountability as Part of the Plan"
+      },
+      {
+        "t": 2487,
+        "heading": "Claiming Promises and Walking in the Spirit"
+      }
+    ]
+  }
 }

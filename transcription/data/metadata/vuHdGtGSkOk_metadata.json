@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vuHdGtGSkOk.vtt",
   "duration": 3242.0,
   "transcription_timestamp": "2026-05-27T17:43:54.713865",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 12:9-10 on Paul's response to God's answer regarding his thorn in the flesh, examining what it means to take pleasure in infirmities, reproaches, necessities, persecutions, and distresses for Christ's sake. The passage is set within the congregation's 2025 theme of the sufficiency of God's grace.",
+    "themes": [
+      "sufficiency of grace",
+      "suffering and persecution",
+      "humility",
+      "eternal perspective",
+      "surrender to god",
+      "god's power in weakness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 95,
+        "heading": "Review of the Thorn and God's Answer"
+      },
+      {
+        "t": 420,
+        "heading": "Responding When God Says No"
+      },
+      {
+        "t": 561,
+        "heading": "Paul's Declaration in vv. 9-10"
+      },
+      {
+        "t": 1428,
+        "heading": "Paul's Perspective in 2 Corinthians 4"
+      },
+      {
+        "t": 1931,
+        "heading": "Biblical Examples of Rejoicing in Suffering"
+      },
+      {
+        "t": 2549,
+        "heading": "God's Purpose Behind Affliction"
+      },
+      {
+        "t": 2975,
+        "heading": "Closing Illustration and Invitation"
+      }
+    ]
+  }
 }

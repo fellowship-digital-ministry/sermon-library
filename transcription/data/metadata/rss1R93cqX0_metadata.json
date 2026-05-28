@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rss1R93cqX0.vtt",
   "duration": 2692,
   "transcription_timestamp": "2025-04-16T11:09:53.381437",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 33:6-9 and Genesis 1 on God's greatness as revealed through creation, tracing three attributes (omnipotence, omniscience, and order) across the six days of creation and through supporting passages in Isaiah, Job, and Luke.",
+    "themes": [
+      "creation",
+      "omnipotence of god",
+      "omniscience of god",
+      "god as a god of order",
+      "genesis record of creation",
+      "creator and redeemer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 330,
+        "heading": "Creation Reveals God's Omnipotence"
+      },
+      {
+        "t": 615,
+        "heading": "Attack on the Genesis Record"
+      },
+      {
+        "t": 851,
+        "heading": "Creation Reveals God's Omniscience"
+      },
+      {
+        "t": 1230,
+        "heading": "Power and Wisdom Together: Job 9"
+      },
+      {
+        "t": 1503,
+        "heading": "Creation Reveals God as a God of Order"
+      },
+      {
+        "t": 1871,
+        "heading": "Reproduction After Its Kind"
+      },
+      {
+        "t": 2444,
+        "heading": "Psalm 33 and Standing in Awe"
+      }
+    ]
+  }
 }

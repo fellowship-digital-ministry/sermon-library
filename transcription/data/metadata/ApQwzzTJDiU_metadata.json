@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ApQwzzTJDiU.vtt",
   "duration": 1932,
   "transcription_timestamp": "2025-04-15T06:31:50.206896",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Thessalonians 3:6-10 on disorderly behavior within the church at Thessalonica, covering identification, correction, and separation from those who walk disorderly. Part of a Wednesday evening series titled 'Walk Worthy, Please God,' the passage is read alongside 1 Thessalonians 5:14, 1 Corinthians 5:6, 1 Corinthians 15:33, and Colossians 1:28-29 and 4:12.",
+    "themes": [
+      "disorderly behavior",
+      "church discipline",
+      "separation",
+      "influence within the church",
+      "work and provision",
+      "warning and teaching"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background and Purpose of 2 Thessalonians"
+      },
+      {
+        "t": 236,
+        "heading": "Introduction to the Text, 2 Thessalonians 3:6-10"
+      },
+      {
+        "t": 569,
+        "heading": "Identifying Disorderly Behavior"
+      },
+      {
+        "t": 711,
+        "heading": "Correcting Disorderly Behavior"
+      },
+      {
+        "t": 1052,
+        "heading": "Separating from Disorderly Brethren"
+      },
+      {
+        "t": 1294,
+        "heading": "Influence and Biblical Basis for Separation"
+      },
+      {
+        "t": 1535,
+        "heading": "Preaching, Warning, and Teaching in Colossians"
+      }
+    ]
+  }
 }

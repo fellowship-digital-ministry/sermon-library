@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_-nwuxfV8gI.vtt",
   "duration": 2946.0,
   "transcription_timestamp": "2026-05-27T17:00:44.907334",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 2:8-20 on the birth of Christ, tracing the angel's announcement to the shepherds through Old Testament promise, the proclamation at the nativity, and the purpose of the incarnation as redemption from sin.",
+    "themes": [
+      "incarnation",
+      "messianic prophecy",
+      "redemption",
+      "the virgin birth",
+      "sin and salvation",
+      "the gospel"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Introduction to Luke 2:8-20"
+      },
+      {
+        "t": 467,
+        "heading": "The Great Promise of Christ's Birth"
+      },
+      {
+        "t": 741,
+        "heading": "Old Testament Prophecies Fulfilled"
+      },
+      {
+        "t": 1205,
+        "heading": "The Great Proclamation at Christ's Birth"
+      },
+      {
+        "t": 1584,
+        "heading": "The Great Purpose of Christ's Birth"
+      },
+      {
+        "t": 1968,
+        "heading": "Redemption, the Law, and Adoption"
+      },
+      {
+        "t": 2428,
+        "heading": "Redemption Through the Blood of Christ"
+      },
+      {
+        "t": 2663,
+        "heading": "Invitation and Closing Appeal"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rXhiTENJuQQ.vtt",
   "duration": 3143.0,
   "transcription_timestamp": "2026-05-27T17:09:04.461281",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A closing exposition of 2 Corinthians 13:11-14, covering Paul's final charge to the Corinthian believers on godly behavior and sound belief, with the passage treated as a summary of the entire epistle.",
+    "themes": [
+      "godly living",
+      "christian unity",
+      "the trinity",
+      "the incarnation",
+      "fellowship with god",
+      "sound doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 230,
+        "heading": "Two Categories: Behavior and Belief"
+      },
+      {
+        "t": 275,
+        "heading": "Call to Godly Living: Four Charges"
+      },
+      {
+        "t": 1453,
+        "heading": "Consequences of Godly Living"
+      },
+      {
+        "t": 1733,
+        "heading": "Common Greeting and the Family of God"
+      },
+      {
+        "t": 1974,
+        "heading": "Instruction on Belief: The Trinity"
+      },
+      {
+        "t": 2071,
+        "heading": "Grace of Christ, Love of God, Communion of the Spirit"
+      }
+    ]
+  }
 }

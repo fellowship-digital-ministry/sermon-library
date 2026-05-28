@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EP8XrnmtXFY.vtt",
   "duration": 3180,
   "transcription_timestamp": "2025-04-17T05:57:39.693644",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Deuteronomy 6:20-25 on the purpose and goodness of God's statutes, testimonies, and judgments, framed around the instruction God gives parents to answer their children's questions about why God's commands were given.",
+    "themes": [
+      "obedience to god's commands",
+      "teaching the next generation",
+      "goodness of god",
+      "god's faithfulness",
+      "the purpose of scripture",
+      "blessing and curse under covenant"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Introduction to Deuteronomy 6"
+      },
+      {
+        "t": 325,
+        "heading": "The Inquiry of the Son"
+      },
+      {
+        "t": 421,
+        "heading": "Defining Testimonies, Statutes, and Judgments"
+      },
+      {
+        "t": 611,
+        "heading": "A Reasonable Inquiry and Its Opportunity"
+      },
+      {
+        "t": 796,
+        "heading": "The Instruction: God's Might, Purpose, and Faithfulness"
+      },
+      {
+        "t": 1669,
+        "heading": "God's Goodness in Giving His Statutes"
+      },
+      {
+        "t": 2229,
+        "heading": "Blessing and Curse Conditioned on Obedience"
+      },
+      {
+        "t": 2467,
+        "heading": "New Testament Witness to God's Commands"
+      }
+    ]
+  }
 }

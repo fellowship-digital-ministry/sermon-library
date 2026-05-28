@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/KkcM-CWB5g0.vtt",
   "duration": 2580.0,
   "transcription_timestamp": "2026-05-27T14:13:27.578991",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:12-14 on three groups addressed by the apostle John, little children, young men, and fathers, treated as representative stages of spiritual growth and maturity. The passage is presented as a self-administered test by which individual readers evaluate their own walk with God.",
+    "themes": [
+      "spiritual maturity",
+      "spiritual growth",
+      "spiritual warfare",
+      "knowing god",
+      "the word of god",
+      "self-examination"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Self-Administered Tests"
+      },
+      {
+        "t": 186,
+        "heading": "Physical Growth as Analogy"
+      },
+      {
+        "t": 374,
+        "heading": "Three Groups Introduced"
+      },
+      {
+        "t": 420,
+        "heading": "Little Children: Forgiveness and the Father"
+      },
+      {
+        "t": 1025,
+        "heading": "Young Men: Spiritual Warfare and Victory"
+      },
+      {
+        "t": 1307,
+        "heading": "Strength Through the Word of God"
+      },
+      {
+        "t": 1727,
+        "heading": "Fathers: Knowing Him Intimately"
+      },
+      {
+        "t": 2252,
+        "heading": "Closing Appeal and Invitation"
+      }
+    ]
+  }
 }

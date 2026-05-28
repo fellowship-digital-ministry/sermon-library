@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\omA2lxHRXXU.vtt",
   "duration": 2616,
   "transcription_timestamp": "2025-04-16T10:02:28.071637",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 3:1-4:10 on God's self-revelation to Moses at the burning bush in Horeb, tracing the encounter, the commission to deliver Israel, the divine name 'I AM,' and three confirming signs given to Moses.",
+    "themes": [
+      "the greatness of god",
+      "divine self-revelation",
+      "the call of moses",
+      "obedience to god's commission",
+      "evangelism and the gospel task",
+      "signs and miracles"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Moses in Midian"
+      },
+      {
+        "t": 91,
+        "heading": "The Burning Bush: A Great Scene"
+      },
+      {
+        "t": 423,
+        "heading": "The Encounter: Holy Ground and God's Identity"
+      },
+      {
+        "t": 612,
+        "heading": "The Great Task and Promise"
+      },
+      {
+        "t": 1026,
+        "heading": "God Revealed as Eternal: 'I AM'"
+      },
+      {
+        "t": 1490,
+        "heading": "Three Signs Given to Moses"
+      },
+      {
+        "t": 1962,
+        "heading": "Moses Departs and the People Believe"
+      },
+      {
+        "t": 2149,
+        "heading": "Obedience as Response to God's Greatness"
+      }
+    ]
+  }
 }

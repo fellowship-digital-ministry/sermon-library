@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ySO43c7buHk.vtt",
   "duration": 2576,
   "transcription_timestamp": "2025-04-16T11:48:05.753013",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:1-5 on three characteristics of those born of God: love, obedience, and victory. Presented as a summary of recurring themes from a year-long study through 1 John.",
+    "themes": [
+      "new birth",
+      "love for god and fellow believers",
+      "obedience to god's word",
+      "victory over the world",
+      "evidences of salvation",
+      "the word of god as instruction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Birthmarks of the Believer"
+      },
+      {
+        "t": 231,
+        "heading": "The Phrase 'Born of God' in the Text"
+      },
+      {
+        "t": 463,
+        "heading": "First Characteristic: Living in Love"
+      },
+      {
+        "t": 705,
+        "heading": "Second Characteristic: Living in Obedience"
+      },
+      {
+        "t": 1090,
+        "heading": "The Word of God as Warning and Reward"
+      },
+      {
+        "t": 1847,
+        "heading": "Third Characteristic: Living in Victory"
+      },
+      {
+        "t": 2240,
+        "heading": "Summary and Closing Application"
+      }
+    ]
+  }
 }

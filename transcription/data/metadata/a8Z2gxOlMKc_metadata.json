@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\a8Z2gxOlMKc.vtt",
   "duration": 2858,
   "transcription_timestamp": "2025-04-17T04:48:46.151475",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 20:1-18 on Abraham's repeated deception before Abimelech king of Gerar, set within a series on Genesis (lesson 52). The passage is examined alongside the parallel account in Genesis 12, tracing Abraham's fear, God's intervention to protect Sarah, and Abimelech's response to divine warning.",
+    "themes": [
+      "fear versus faith",
+      "the faithfulness of god",
+      "repeated failure and the flesh",
+      "obedience to divine revelation",
+      "marriage and protection of a wife",
+      "living by faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Genesis 12 Parallel"
+      },
+      {
+        "t": 286,
+        "heading": "Overview of Genesis 13 Through 19"
+      },
+      {
+        "t": 576,
+        "heading": "The Fear of Abraham"
+      },
+      {
+        "t": 1067,
+        "heading": "The Faithfulness of God"
+      },
+      {
+        "t": 1588,
+        "heading": "The Faith of Abimelech"
+      },
+      {
+        "t": 2005,
+        "heading": "Lessons From the Passage"
+      }
+    ]
+  }
 }

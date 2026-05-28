@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bLIlrTCCUAY.vtt",
   "duration": 3174,
   "transcription_timestamp": "2025-04-15T00:00:15.393325",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 1:1-2 on the greeting Paul addresses to Timothy, examining Paul's acknowledgment of divine authority, God's will, and the sources of grace, mercy, and peace, alongside Paul's appreciation for ministry, physical life, and eternal life.",
+    "themes": [
+      "authority of god",
+      "grace, mercy, and peace",
+      "eternal life",
+      "the pastoral epistles",
+      "mentorship and discipleship",
+      "continuing in ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to 2 Timothy and Series Theme"
+      },
+      {
+        "t": 93,
+        "heading": "The Pastoral Epistles and Paul's Relationship with Timothy"
+      },
+      {
+        "t": 379,
+        "heading": "Paul Acknowledges the Authority of God"
+      },
+      {
+        "t": 892,
+        "heading": "Paul Acknowledges God's Will for His Life"
+      },
+      {
+        "t": 1221,
+        "heading": "God as the Source of Grace, Mercy, and Peace"
+      },
+      {
+        "t": 1663,
+        "heading": "Paul's Appreciation for the Work of Ministry"
+      },
+      {
+        "t": 2132,
+        "heading": "Paul's Appreciation for Physical and Eternal Life"
+      },
+      {
+        "t": 2459,
+        "heading": "Assurance of Eternal Life and the Two Judgments"
+      }
+    ]
+  }
 }

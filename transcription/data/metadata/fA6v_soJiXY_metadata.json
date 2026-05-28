@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fA6v_soJiXY.vtt",
   "duration": 2192,
   "transcription_timestamp": "2025-04-14T23:02:33.249477",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 4:11 on the obligation of believers to love one another, drawing on multiple New Testament passages to establish the command, its evidences, and its practical expressions within the local church.",
+    "themes": [
+      "brotherly love",
+      "local church fellowship",
+      "evidences of salvation",
+      "the holy spirit and love",
+      "christian service",
+      "forgiveness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Two Churches Contrasted"
+      },
+      {
+        "t": 230,
+        "heading": "New Testament Commands to Love"
+      },
+      {
+        "t": 740,
+        "heading": "Love as Evidence of Conversion"
+      },
+      {
+        "t": 1108,
+        "heading": "Love as Evidence of Walk with God"
+      },
+      {
+        "t": 1343,
+        "heading": "Love Shown in Deeds Not Words"
+      },
+      {
+        "t": 1485,
+        "heading": "Love Expressed in Prayer"
+      },
+      {
+        "t": 1723,
+        "heading": "Love Expressed in Service and Forgiveness"
+      }
+    ]
+  }
 }

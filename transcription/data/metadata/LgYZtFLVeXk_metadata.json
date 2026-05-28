@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LgYZtFLVeXk.vtt",
   "duration": 3124,
   "transcription_timestamp": "2025-04-14T22:50:58.384799",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:4 on the third characteristic of a good soldier, focusing on the soldier's goal to please his master, Jesus Christ. Draws on Romans 8, Hebrews 11, 1 Thessalonians 4, Ephesians 5, 1 Corinthians 10, Philippians 4, and 2 Corinthians 9 to address whether and how a believer can please God.",
+    "themes": [
+      "pleasing god",
+      "spiritual warfare",
+      "walking in the flesh vs. the spirit",
+      "living by faith",
+      "praise and thanksgiving",
+      "christian giving"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Review"
+      },
+      {
+        "t": 91,
+        "heading": "Five Characteristics of a Good Soldier"
+      },
+      {
+        "t": 413,
+        "heading": "Third Characteristic: Pleasing the Master"
+      },
+      {
+        "t": 646,
+        "heading": "Can a Believer Please God"
+      },
+      {
+        "t": 1301,
+        "heading": "How to Please God: Two Principles"
+      },
+      {
+        "t": 2121,
+        "heading": "Three Ways to Please the Master"
+      },
+      {
+        "t": 2986,
+        "heading": "Examination and Application"
+      }
+    ]
+  }
 }

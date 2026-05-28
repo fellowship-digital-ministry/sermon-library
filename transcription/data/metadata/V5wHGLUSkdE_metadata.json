@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\V5wHGLUSkdE.vtt",
   "duration": 2592,
   "transcription_timestamp": "2025-04-17T11:06:37.640327",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 19:1-10 on the conversion of Zacchaeus, tracing his description as a wealthy chief tax collector, his desire to see Jesus, and Christ's declaration of salvation at his house.",
+    "themes": [
+      "salvation of the lost",
+      "seeking savior",
+      "evangelism and testimony",
+      "position and possession versus spiritual need",
+      "the gospel's power to transform"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Zacchaeus"
+      },
+      {
+        "t": 193,
+        "heading": "Zacchaeus Described: Position and Possession"
+      },
+      {
+        "t": 527,
+        "heading": "Zacchaeus Desires to See Jesus"
+      },
+      {
+        "t": 717,
+        "heading": "Zacchaeus Climbs the Sycamore Tree"
+      },
+      {
+        "t": 1060,
+        "heading": "Jesus Calls Zacchaeus by Name"
+      },
+      {
+        "t": 1633,
+        "heading": "Zacchaeus Responds and Jesus Declares Salvation"
+      },
+      {
+        "t": 1911,
+        "heading": "Application: Rejoicing, Encouragement, and the Commission to Share"
+      }
+    ]
+  }
 }

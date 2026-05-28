@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\34zEdoVkxR0.vtt",
   "duration": 1723,
   "transcription_timestamp": "2025-04-17T06:41:56.366484",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Job 16:1-5 on the power and purpose of words, set within Job's response to Eliphaz. The passage is used to contrast the harmful speech of Job's friends with Job's stated intent to strengthen and comfort.",
+    "themes": [
+      "the tongue and speech",
+      "words that hurt versus words that help",
+      "comforting the suffering",
+      "biblical encouragement",
+      "self-examination"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context of Job's Friends"
+      },
+      {
+        "t": 91,
+        "heading": "Job's Charge: Miserable Comforters"
+      },
+      {
+        "t": 234,
+        "heading": "Impact of Words on Job"
+      },
+      {
+        "t": 519,
+        "heading": "Job's Stated Intent in Verse 5"
+      },
+      {
+        "t": 707,
+        "heading": "Scripture on Calculated Speech"
+      },
+      {
+        "t": 1033,
+        "heading": "Job's Prior Testimony in Job 4"
+      },
+      {
+        "t": 1310,
+        "heading": "Contrast Between Job and His Friends"
+      }
+    ]
+  }
 }

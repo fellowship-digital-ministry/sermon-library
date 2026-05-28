@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Byn6kSjmOVQ.vtt",
   "duration": 1920,
   "transcription_timestamp": "2025-04-15T07:46:32.989382",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:17 on the command to pray without ceasing, part of a series through 1 and 2 Thessalonians titled 'Walk Worthy, Please God.' The study draws on Hebrews 4 and 10, Ezra 8, Lamentations 3, and Nehemiah 1-2 to examine the access, the divine ability behind, and the proper attitude toward continual prayer.",
+    "themes": [
+      "prayer",
+      "access to god",
+      "god's ability to answer prayer",
+      "attitude toward prayer",
+      "the praying church",
+      "continual communion with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 183,
+        "heading": "The Command in 1 Thessalonians 5:17"
+      },
+      {
+        "t": 275,
+        "heading": "Access to the Throne of Grace"
+      },
+      {
+        "t": 649,
+        "heading": "God's Ability to Answer Prayer"
+      },
+      {
+        "t": 1144,
+        "heading": "Proper Attitude Toward Prayer"
+      },
+      {
+        "t": 1344,
+        "heading": "Nehemiah as Illustration of Pray Without Ceasing"
+      },
+      {
+        "t": 1633,
+        "heading": "Contemporary and Closing Illustrations"
+      }
+    ]
+  }
 }

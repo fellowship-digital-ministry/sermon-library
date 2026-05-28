@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L2VPresPC4c.vtt",
   "duration": 3179,
   "transcription_timestamp": "2025-04-17T14:16:13.371263",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:1-3 on the definition and exercise of faith, situated within a series through the book of Hebrews. The passage is examined through three movements: the meaning of faith as substance and evidence, the approval received by those who lived by faith, and the role of faith in understanding creation as the work of God's spoken word.",
+    "themes": [
+      "definition of faith",
+      "creation",
+      "living by faith",
+      "the word of god",
+      "pleasing god",
+      "assurance and confidence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Overview of Hebrews 11:1-3"
+      },
+      {
+        "t": 422,
+        "heading": "Faith Explained: Substance and Evidence"
+      },
+      {
+        "t": 1185,
+        "heading": "Faith Exercised: The Elders and God's Approval"
+      },
+      {
+        "t": 1415,
+        "heading": "Through Faith We Understand Creation"
+      },
+      {
+        "t": 2115,
+        "heading": "Creation Affirmed Throughout Scripture"
+      },
+      {
+        "t": 2854,
+        "heading": "Creation as Foundation for All Faith"
+      }
+    ]
+  }
 }

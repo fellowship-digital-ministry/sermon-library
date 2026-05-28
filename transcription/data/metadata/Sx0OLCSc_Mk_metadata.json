@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Sx0OLCSc_Mk.vtt",
   "duration": 2657,
   "transcription_timestamp": "2025-04-17T09:34:10.223113",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 31:1-11 on God's provision and equipping of workers for the tabernacle, tracing the completion of that work through Exodus 36-40 and drawing application to New Testament believers through Ephesians 2:10 and 1 Peter 4:10-11.",
+    "themes": [
+      "spiritual gifts",
+      "stewardship",
+      "the tabernacle",
+      "service and ministry",
+      "equipping for work",
+      "good works"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Exodus 31 and Tabernacle Context"
+      },
+      {
+        "t": 287,
+        "heading": "Bezalel and Aholiab Equipped for the Work"
+      },
+      {
+        "t": 533,
+        "heading": "The Workers Engaged: Exodus 35-38"
+      },
+      {
+        "t": 999,
+        "heading": "The Work Completed and the Glory Fills the Tabernacle"
+      },
+      {
+        "t": 1419,
+        "heading": "The \"Then\" of Chapter 36 and Chapter 40"
+      },
+      {
+        "t": 1559,
+        "heading": "New Testament Application: Ephesians 2:10"
+      },
+      {
+        "t": 1839,
+        "heading": "Spiritual Gifts and Stewardship: 1 Peter 4:10-11 and 1 Corinthians 12"
+      }
+    ]
+  }
 }

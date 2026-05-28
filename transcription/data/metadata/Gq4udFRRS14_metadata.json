@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gq4udFRRS14.vtt",
   "duration": 2932,
   "transcription_timestamp": "2025-04-16T12:53:16.321417",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 21:4-9 on the wilderness failure of Israel and the intercessory ministry of Moses, tracing the people's complaint, God's judgment by fiery serpents, and the provision of the brazen serpent, with extended focus on Moses as a model of intercession, obedience, and faithfulness. John 3:14 is cited as Jesus connects the lifted serpent to his own substitutionary death.",
+    "themes": [
+      "intercessory prayer",
+      "obedience",
+      "faithfulness",
+      "complaining and ingratitude",
+      "judgment and provision",
+      "the brazen serpent as a type of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context of Numbers 21"
+      },
+      {
+        "t": 184,
+        "heading": "The Problem: Complaint and Fiery Serpents"
+      },
+      {
+        "t": 841,
+        "heading": "God's Provision: The Brazen Serpent"
+      },
+      {
+        "t": 936,
+        "heading": "The Picture: John 3:14 and Calvary"
+      },
+      {
+        "t": 1123,
+        "heading": "Moses: His Intercession for the People"
+      },
+      {
+        "t": 1685,
+        "heading": "Moses: His Immediate and Complete Obedience"
+      },
+      {
+        "t": 1927,
+        "heading": "Moses: His Faithfulness in Communicating the Message"
+      },
+      {
+        "t": 2504,
+        "heading": "Proverbs on Faithfulness and Closing Application"
+      }
+    ]
+  }
 }

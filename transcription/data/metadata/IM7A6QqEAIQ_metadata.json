@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IM7A6QqEAIQ.vtt",
   "duration": 3113,
   "transcription_timestamp": "2025-04-16T13:03:32.958686",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 13:1-5 on the biblical basis for missions, drawing on the first missionary journey and ranging across both Testaments to address why churches support, send, and fund missionary work.",
+    "themes": [
+      "missions",
+      "the great commission",
+      "the condition of the lost",
+      "salvation",
+      "the second coming of christ",
+      "local church responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Question Posed"
+      },
+      {
+        "t": 233,
+        "heading": "Acts 13 and the First Missionary Journey"
+      },
+      {
+        "t": 746,
+        "heading": "Reason One: The Command of the Lord"
+      },
+      {
+        "t": 1027,
+        "heading": "Obedience and Opportunity in 1 Thessalonians 2"
+      },
+      {
+        "t": 1408,
+        "heading": "Reason Two: The Condition of the Lost"
+      },
+      {
+        "t": 2257,
+        "heading": "Reason Three: The Coming of the Lord"
+      },
+      {
+        "t": 2631,
+        "heading": "Post-Rapture Consequences and Urgency"
+      }
+    ]
+  }
 }

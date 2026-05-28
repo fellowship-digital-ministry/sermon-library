@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i0tgIGEcUCc.vtt",
   "duration": 2781,
   "transcription_timestamp": "2025-04-17T05:14:45.386585",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 27:9-11 on the question of whom to believe when counsel conflicts, using the centurion's decision to sail against Paul's warning as a framework for examining trust in God versus trust in human voices or majority opinion. Supporting passages from Deuteronomy 1, Numbers 13-14, 2 Kings 18-19, and Proverbs 3 illustrate the pattern of God's people choosing or refusing to believe Him.",
+    "themes": [
+      "believing god",
+      "conflicting counsel",
+      "faith versus doubt",
+      "god's trustworthiness",
+      "majority opinion",
+      "god's control in difficult circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Text and Theme"
+      },
+      {
+        "t": 90,
+        "heading": "Faith Defined as Believing God"
+      },
+      {
+        "t": 140,
+        "heading": "VBS Lessons on God's Attributes"
+      },
+      {
+        "t": 375,
+        "heading": "The Centurion's Conflicting Counsel"
+      },
+      {
+        "t": 570,
+        "heading": "Israel's Failure to Believe at Kadesh"
+      },
+      {
+        "t": 1229,
+        "heading": "Consequences of the Centurion's Decision"
+      },
+      {
+        "t": 1779,
+        "heading": "Paul's Declaration of Belief in the Storm"
+      },
+      {
+        "t": 2208,
+        "heading": "Hezekiah and the Assyrian Threat"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x8DoFdgJ9qA.vtt",
   "duration": 2080,
   "transcription_timestamp": "2025-04-15T09:11:08.414110",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:14 on the command to support the weak within the local church, examining who the weak are and how believers are to come alongside them through edification and encouragement.",
+    "themes": [
+      "supporting the weak",
+      "edification",
+      "church as family",
+      "spiritual weakness",
+      "physical weakness",
+      "mutual care in the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in 1 Thessalonians 5:14"
+      },
+      {
+        "t": 231,
+        "heading": "Who Are the Weak: Physical Weakness"
+      },
+      {
+        "t": 367,
+        "heading": "Who Are the Weak: Spiritual Weakness"
+      },
+      {
+        "t": 784,
+        "heading": "What to Do: Supporting Through Edification"
+      },
+      {
+        "t": 1304,
+        "heading": "Bible Example: Moses, Aaron, and Hur"
+      },
+      {
+        "t": 1541,
+        "heading": "Bible Example: Hezekiah and the People of Judah"
+      },
+      {
+        "t": 1835,
+        "heading": "Active Role of the Church in Supporting the Weak"
+      }
+    ]
+  }
 }

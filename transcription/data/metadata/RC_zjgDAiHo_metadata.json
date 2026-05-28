@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RC_zjgDAiHo.vtt",
   "duration": 2731,
   "transcription_timestamp": "2025-04-17T07:28:02.783649",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 18:1-15 on the meeting between the Lord, two angels, and Abraham, centering on the question of Genesis 18:14 ('Is anything too hard for the Lord?') and the reaffirmation of the promise that Sarah would bear a son.",
+    "themes": [
+      "hospitality and service",
+      "the promises of god",
+      "the power of god",
+      "faith and doubt",
+      "spiritual leadership in the home",
+      "omnipotence of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Overview"
+      },
+      {
+        "t": 234,
+        "heading": "Abraham's Ministry: Verses 1-8"
+      },
+      {
+        "t": 469,
+        "heading": "Character of Abraham's Service"
+      },
+      {
+        "t": 984,
+        "heading": "Reminder of God's Promise: Verses 9-13"
+      },
+      {
+        "t": 1641,
+        "heading": "Abraham's Accountability as Spiritual Leader"
+      },
+      {
+        "t": 2033,
+        "heading": "Reminder of God's Power: Verse 14"
+      },
+      {
+        "t": 2528,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

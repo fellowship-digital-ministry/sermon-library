@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ciFBd-kT0pk.vtt",
   "duration": 3324,
   "transcription_timestamp": "2025-04-17T11:28:35.889838",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 12:18-29 on the 'finish line' of the Christian race, contrasting Mount Sinai and the Old Covenant with Mount Zion and the New Covenant, and drawing on supporting passages in Exodus 19, 1 Thessalonians 4, John 10, Ephesians 1, and 1 Peter 1.",
+    "themes": [
+      "the christian race",
+      "old covenant and new covenant contrast",
+      "heaven and eternal inheritance",
+      "eternal security",
+      "the word of god as warning",
+      "serving god acceptably"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 232,
+        "heading": "Contrast: Mount Sinai and Mount Zion"
+      },
+      {
+        "t": 417,
+        "heading": "Exodus 19: The Scene at Sinai"
+      },
+      {
+        "t": 745,
+        "heading": "Description of the Heavenly Finish Line"
+      },
+      {
+        "t": 1782,
+        "heading": "Caution: Refusing Not Him That Speaketh"
+      },
+      {
+        "t": 2450,
+        "heading": "Charge: The Surety of the Inheritance"
+      },
+      {
+        "t": 2919,
+        "heading": "Serving God Acceptably with Reverence and Godly Fear"
+      }
+    ]
+  }
 }

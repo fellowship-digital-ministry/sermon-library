@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\zZ4UTRQP2jE.vtt",
   "duration": 3367,
   "transcription_timestamp": "2025-04-17T16:12:56.290252",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 15:18-19 and Proverbs 4:23 on the sinful condition of the human heart as the root cause of societal evil, tracing the theme through Genesis, 2 Samuel, Psalms, Jeremiah, Galatians, and Romans, with the gospel of Christ presented as the only remedy.",
+    "themes": [
+      "the sinful heart of man",
+      "works of the flesh",
+      "societal evil and its root cause",
+      "redemption and conversion",
+      "gospel proclamation",
+      "transformation versus reformation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Introduced: Matthew 15 and the Heart"
+      },
+      {
+        "t": 193,
+        "heading": "Proverbs 4:23 and the Heart Issue Defined"
+      },
+      {
+        "t": 477,
+        "heading": "Seven Things Proceeding from the Heart"
+      },
+      {
+        "t": 668,
+        "heading": "Old Testament Examples of Heart Wickedness"
+      },
+      {
+        "t": 1332,
+        "heading": "Psalm 51 and David's Confession"
+      },
+      {
+        "t": 1794,
+        "heading": "Works of the Flesh in Galatians 5"
+      },
+      {
+        "t": 2261,
+        "heading": "The Remedy: Redemption Through Christ"
+      },
+      {
+        "t": 2795,
+        "heading": "Walking in the Spirit and Gospel Proclamation"
+      }
+    ]
+  }
 }

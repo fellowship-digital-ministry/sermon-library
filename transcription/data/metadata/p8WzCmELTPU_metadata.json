@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/p8WzCmELTPU.vtt",
   "duration": 3163.0,
   "transcription_timestamp": "2026-05-28T16:32:50.945437",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 1:13 and 1:23 on the contrast between Paul's former life and his life after conversion, preached on the pastor's 28th spiritual birthday. Draws on Ephesians 2, Philippians 1 and 3, and 2 Corinthians 4 and 5 to trace three changes that accompany genuine salvation: a new path and destination, a new purpose, and a new perspective.",
+    "themes": [
+      "salvation and conversion",
+      "assurance of heaven",
+      "grace versus works",
+      "eternal perspective",
+      "new life in christ",
+      "personal testimony"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Galatians and False Teachers"
+      },
+      {
+        "t": 338,
+        "heading": "John Newton Quote and Sermon Text"
+      },
+      {
+        "t": 435,
+        "heading": "Pastor's Personal Conversion Account"
+      },
+      {
+        "t": 866,
+        "heading": "New Path and New Destination"
+      },
+      {
+        "t": 1633,
+        "heading": "New Purpose in Life"
+      },
+      {
+        "t": 1927,
+        "heading": "New Perspective: Temporal Versus Eternal"
+      },
+      {
+        "t": 2439,
+        "heading": "Philippians 3: Counting All Things Loss"
+      },
+      {
+        "t": 2772,
+        "heading": "Invitation and Closing Application"
+      }
+    ]
+  }
 }

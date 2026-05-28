@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/y7y3emoIFdk.vtt",
   "duration": 3191.0,
   "transcription_timestamp": "2026-05-27T17:39:16.916585",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 12:11-19 on the apostle Paul's love for the Corinthian church, set against the backdrop of Judaizer criticism and Paul's refusal to be a financial burden. Grounded in John 13, John 15, Romans 5:5, and Galatians 5, the message traces the example, the enabler, and the evidence of love as Christ loved.",
+    "themes": [
+      "love for the brethren",
+      "the holy spirit enabling love",
+      "apostolic ministry",
+      "church relationships",
+      "walking in the spirit",
+      "edification"
+    ],
+    "sections": [
+      {
+        "t": 49,
+        "heading": "God's Love Declared and Displayed"
+      },
+      {
+        "t": 191,
+        "heading": "The New Commandment to Love as Christ Loved"
+      },
+      {
+        "t": 665,
+        "heading": "Jesus as the Example of Love"
+      },
+      {
+        "t": 853,
+        "heading": "The Holy Spirit as the Enabler of Love"
+      },
+      {
+        "t": 1275,
+        "heading": "Evidence of Paul's Love: His Actions"
+      },
+      {
+        "t": 2111,
+        "heading": "Evidence of Paul's Love: His Words and Desires"
+      },
+      {
+        "t": 2440,
+        "heading": "Paul's Desire to Edify: Colossians and Thessalonians"
+      },
+      {
+        "t": 2918,
+        "heading": "Application to the Local Church"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M196IRZkKYY.vtt",
   "duration": 2102,
   "transcription_timestamp": "2025-04-17T19:51:09.274368",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philippians 1:21 on the commitment to live for Christ rather than for self, drawing on Paul's circumstances in prison, his missionary testimony, and parallel passages in 1 Corinthians 6, 2 Corinthians 5, and Philippians 2-3.",
+    "themes": [
+      "living for christ",
+      "self-surrender",
+      "redemption",
+      "purpose and calling",
+      "brevity of life",
+      "paul as example"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Message Context"
+      },
+      {
+        "t": 239,
+        "heading": "God's Purpose in Every Station of Life"
+      },
+      {
+        "t": 338,
+        "heading": "Brevity of Life and Redeeming the Time"
+      },
+      {
+        "t": 677,
+        "heading": "Context of Philippians 1: Paul in Prison"
+      },
+      {
+        "t": 1012,
+        "heading": "What Led to Paul's Commitment"
+      },
+      {
+        "t": 1433,
+        "heading": "Philippians 3: Counting All Things Loss for Christ"
+      },
+      {
+        "t": 1709,
+        "heading": "Contrast: Seeking Self vs. Seeking Christ"
+      }
+    ]
+  }
 }

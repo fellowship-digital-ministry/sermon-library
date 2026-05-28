@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\3XoFc6vc9t0.vtt",
   "duration": 1667,
   "transcription_timestamp": "2025-04-17T20:49:56.285900",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 6:1-7 on the miracle of the floating axe head, set within the broader narrative of Elisha and the sons of the prophets. The passage is examined through three movements: an honorable building project, an unfortunate loss, and a miraculous recovery.",
+    "themes": [
+      "miracles",
+      "providence",
+      "adversity in good works",
+      "the sons of the prophets",
+      "faith",
+      "poverty and dependence on god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 238,
+        "heading": "An Honorable Work Identified"
+      },
+      {
+        "t": 514,
+        "heading": "The Unfortunate Loss of the Axe Head"
+      },
+      {
+        "t": 745,
+        "heading": "Bad Things During Good Works"
+      },
+      {
+        "t": 931,
+        "heading": "A Miraculous Recovery"
+      },
+      {
+        "t": 1401,
+        "heading": "Application and Closing Prayer"
+      }
+    ]
+  }
 }

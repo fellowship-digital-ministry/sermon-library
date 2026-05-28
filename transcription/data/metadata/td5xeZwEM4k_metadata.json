@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\td5xeZwEM4k.vtt",
   "duration": 2054,
   "transcription_timestamp": "2025-04-17T09:53:45.338734",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of a multi-part study on the doctrine of Christ, drawn from 1 Peter 2:3 and 2:7, covering reasons why Jesus is precious to the believer: His death, burial, and resurrection (Matthew 27-28), and His present heavenly work as High Priest, intercessor, advocate, and preparer of a place for believers (Hebrews 4, 7; 1 John 1-2; John 14).",
+    "themes": [
+      "doctrine of christ",
+      "substitutionary atonement",
+      "resurrection",
+      "high priesthood of christ",
+      "intercession and advocacy",
+      "second coming"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part 1"
+      },
+      {
+        "t": 287,
+        "heading": "The Suffering and Crucifixion"
+      },
+      {
+        "t": 480,
+        "heading": "Mockery at the Cross"
+      },
+      {
+        "t": 803,
+        "heading": "The Burial and the Guard"
+      },
+      {
+        "t": 1036,
+        "heading": "The Resurrection Declared"
+      },
+      {
+        "t": 1318,
+        "heading": "Christ's Present Heavenly Work"
+      },
+      {
+        "t": 1684,
+        "heading": "Preparing a Place and the Return"
+      },
+      {
+        "t": 1825,
+        "heading": "Closing Summary and Challenge"
+      }
+    ]
+  }
 }

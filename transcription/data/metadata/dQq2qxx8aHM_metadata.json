@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\dQq2qxx8aHM.vtt",
   "duration": 3231,
   "transcription_timestamp": "2025-04-17T13:19:39.949535",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 12:1-3 on the call to run the Christian life as a race, set within a series on the book of Hebrews and the church's 2020 theme of 'looking unto Jesus' drawn from verse 2.",
+    "themes": [
+      "running the christian race",
+      "distraction and spiritual focus",
+      "endurance and perseverance",
+      "the example of christ",
+      "finishing well",
+      "the cloud of witnesses"
+    ],
+    "sections": [
+      {
+        "t": 50,
+        "heading": "Context in Hebrews"
+      },
+      {
+        "t": 197,
+        "heading": "The Call to Run"
+      },
+      {
+        "t": 535,
+        "heading": "Being Fit for the Race"
+      },
+      {
+        "t": 1292,
+        "heading": "Focus During the Race"
+      },
+      {
+        "t": 2053,
+        "heading": "Finishing the Race"
+      },
+      {
+        "t": 2667,
+        "heading": "Paul's Example of Finishing"
+      }
+    ]
+  }
 }

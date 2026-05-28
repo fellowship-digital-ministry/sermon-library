@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iT8pxOgIv0A.vtt",
   "duration": 3205,
   "transcription_timestamp": "2025-04-17T14:40:47.739102",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 10:19-25 on the believer's response to Christ's superior priesthood and atoning sacrifice, treating access to God, steadfast confession, and the assembling of the church as three practical applications drawn from the preceding argument of the book.",
+    "themes": [
+      "access to god through christ",
+      "assurance of salvation",
+      "steadfast confession of faith",
+      "faithfulness of god",
+      "the local church",
+      "brotherly love and good works"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 91,
+        "heading": "Superiority of Christ Reviewed"
+      },
+      {
+        "t": 329,
+        "heading": "What Believers Have Received"
+      },
+      {
+        "t": 378,
+        "heading": "Access into the Holiest by Christ's Blood"
+      },
+      {
+        "t": 655,
+        "heading": "The Great High Priest over God's House"
+      },
+      {
+        "t": 749,
+        "heading": "Three Responses: Draw Near, Hold Fast, Consider One Another"
+      },
+      {
+        "t": 2287,
+        "heading": "Assembling Together and the Local Church"
+      },
+      {
+        "t": 2526,
+        "heading": "The Approaching Day and Church Faithfulness"
+      }
+    ]
+  }
 }

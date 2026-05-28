@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_bNqgIZk0oA.vtt",
   "duration": 2081,
   "transcription_timestamp": "2025-04-17T02:26:47.803244",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 12:18-27 on the confrontation between the Sadducees and Jesus over the resurrection, focusing on Jesus's rebuke and the two causes of doctrinal error identified in verse 24. Part of a Wednesday evening series on deception.",
+    "themes": [
+      "deception and doctrinal error",
+      "resurrection",
+      "knowledge of scripture",
+      "power of god",
+      "sadducees",
+      "bible as sole authority"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Sadducees and Their Question"
+      },
+      {
+        "t": 191,
+        "heading": "Focus on Jesus's Response"
+      },
+      {
+        "t": 290,
+        "heading": "Two Causes of Their Deception"
+      },
+      {
+        "t": 526,
+        "heading": "Not Knowing the Scriptures"
+      },
+      {
+        "t": 804,
+        "heading": "Not Knowing the Power of God"
+      },
+      {
+        "t": 1086,
+        "heading": "Jesus Corrects Their Doctrine from the Pentateuch"
+      },
+      {
+        "t": 1413,
+        "heading": "Guarding Against Deception: Searching the Scriptures"
+      }
+    ]
+  }
 }

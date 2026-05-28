@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\o5mEG3RptRs.vtt",
   "duration": 2712,
   "transcription_timestamp": "2025-04-17T02:31:36.617351",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 22:1-24 on the faith, obedience, surrender, and sacrifice of Abraham at Mount Moriah, with extended treatment of the passage as a type of Christ's substitutionary atonement at Calvary.",
+    "themes": [
+      "faith and obedience",
+      "surrender and sacrifice",
+      "testing and proving",
+      "typology of christ",
+      "substitutionary atonement",
+      "the abrahamic covenant"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Mount Moriah as a Scripture peak"
+      },
+      {
+        "t": 92,
+        "heading": "The test given to Abraham"
+      },
+      {
+        "t": 521,
+        "heading": "The testimony of Abraham: faith and obedience"
+      },
+      {
+        "t": 892,
+        "heading": "Hebrews 11 and Abraham's faith in resurrection"
+      },
+      {
+        "t": 1468,
+        "heading": "God's provision and the Abrahamic Covenant reconfirmed"
+      },
+      {
+        "t": 1725,
+        "heading": "Introduction of Rebecca in the narrative"
+      },
+      {
+        "t": 1821,
+        "heading": "Genesis 22 as a type of Christ's atonement"
+      }
+    ]
+  }
 }

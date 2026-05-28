@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wGhXfp34H1M.vtt",
   "duration": 1472,
   "transcription_timestamp": "2025-04-17T08:34:36.966764",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:1-2 on the disciples' request to be taught to pray, examining the nature of that request and Christ's response, with attention to the personal and corporate prayer life of believers.",
+    "themes": [
+      "prayer",
+      "discipleship",
+      "corporate worship",
+      "prayer meeting",
+      "relationship with god",
+      "spiritual discipline"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 233,
+        "heading": "The Disciples Observe Jesus Praying"
+      },
+      {
+        "t": 332,
+        "heading": "The Disciples' Request Examined"
+      },
+      {
+        "t": 565,
+        "heading": "Prayer Versus Rote Religion"
+      },
+      {
+        "t": 701,
+        "heading": "Christ's Response: When Ye Pray"
+      },
+      {
+        "t": 1032,
+        "heading": "The Fatherhood of God and Access to Prayer"
+      },
+      {
+        "t": 1180,
+        "heading": "The Need for a Revival of Prayer"
+      }
+    ]
+  }
 }

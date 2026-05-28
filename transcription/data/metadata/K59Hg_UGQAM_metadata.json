@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\K59Hg_UGQAM.vtt",
   "duration": 1967,
   "transcription_timestamp": "2025-04-17T00:58:29.044928",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 3:7-8 on the rejoicing of David, concluding a four-part series through the psalm set against the backdrop of Absalom's rebellion. David's confidence in God, his recollection of past deliverances, and the declaration that salvation belongs to the Lord are examined as grounds for rejoicing amid adversity.",
+    "themes": [
+      "rejoicing in adversity",
+      "dependence on god",
+      "remembering god's past works",
+      "deliverance",
+      "blessing",
+      "praise"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Series Review: Psalm 3:1-6"
+      },
+      {
+        "t": 231,
+        "heading": "Introduction to David's Rejoicing"
+      },
+      {
+        "t": 278,
+        "heading": "The Call to Rejoice in Scripture"
+      },
+      {
+        "t": 513,
+        "heading": "David's Confidence and Dependence (v. 7a)"
+      },
+      {
+        "t": 653,
+        "heading": "Recalling God's Past Deliverances (v. 7b)"
+      },
+      {
+        "t": 937,
+        "heading": "Salvation Belongs to the Lord (v. 8a)"
+      },
+      {
+        "t": 1219,
+        "heading": "The Blessing of God Upon His People (v. 8b)"
+      },
+      {
+        "t": 1544,
+        "heading": "Philippians 4 and Psalm 3 Compared"
+      }
+    ]
+  }
 }

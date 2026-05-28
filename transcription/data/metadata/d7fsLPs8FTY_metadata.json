@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d7fsLPs8FTY.vtt",
   "duration": 2814,
   "transcription_timestamp": "2025-04-15T08:05:32.714091",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 49:13-19 on Jacob's blessings over Zebulun, Issachar, Dan, and Gad, tracing the prophetic and historical significance of each blessing through cross-references in Deuteronomy, Judges, 1 Kings, and Revelation.",
+    "themes": [
+      "jacob's blessings",
+      "tribal identity and calling",
+      "idolatry",
+      "prophecy and fulfillment",
+      "contentment with god's plan",
+      "overcoming defeat"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Context of Part One"
+      },
+      {
+        "t": 236,
+        "heading": "Zebulun: Haven of the Sea"
+      },
+      {
+        "t": 556,
+        "heading": "Issachar: Farmers and Understanding the Times"
+      },
+      {
+        "t": 787,
+        "heading": "Contentment with God's Calling"
+      },
+      {
+        "t": 1118,
+        "heading": "Dan: Judgment and Introduction of Idolatry"
+      },
+      {
+        "t": 1402,
+        "heading": "Jeroboam, the Divided Kingdom, and Dan's Idolatry"
+      },
+      {
+        "t": 2063,
+        "heading": "Dan's Absence in Revelation 7"
+      },
+      {
+        "t": 2448,
+        "heading": "Gad: Overcome but an Overcomer at the Last"
+      }
+    ]
+  }
 }

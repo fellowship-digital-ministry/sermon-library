@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qxIieTPfZl0.vtt",
   "duration": 2816,
   "transcription_timestamp": "2025-04-17T10:30:06.059720",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 13:18-25 presenting five reasons for Christian rejoicing, framed as part two of a series titled 'Our Lips Giving Thanks to His Name' and concluding a year-long study through the book of Hebrews.",
+    "themes": [
+      "prayer",
+      "resurrection of christ",
+      "christian service",
+      "fellowship of believers",
+      "grace of god",
+      "rejoicing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Review"
+      },
+      {
+        "t": 141,
+        "heading": "Ten Reasons to Rejoice Overview"
+      },
+      {
+        "t": 374,
+        "heading": "The Privilege of Prayer"
+      },
+      {
+        "t": 843,
+        "heading": "The Resurrection of Christ"
+      },
+      {
+        "t": 1211,
+        "heading": "The Privilege of Serving the Lord"
+      },
+      {
+        "t": 1731,
+        "heading": "Fellow Believers and the Brethren"
+      },
+      {
+        "t": 2211,
+        "heading": "The Grace of God"
+      },
+      {
+        "t": 2498,
+        "heading": "Conclusion and Invitation"
+      }
+    ]
+  }
 }

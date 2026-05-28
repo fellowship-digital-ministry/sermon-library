@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Pekao7m8BpQ.vtt",
   "duration": 2904,
   "transcription_timestamp": "2025-04-15T10:20:04.436715",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 4:4-7 on the incarnation as the central miracle of Christmas, tracing what God did, how He did it, and why, with supporting texts from John 1, Isaiah 7 and 9, Luke 1, and 1 Peter 1.",
+    "themes": [
+      "incarnation",
+      "virgin birth",
+      "redemption",
+      "adoption as sons",
+      "eternal nature of christ",
+      "christmas"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 377,
+        "heading": "What God Did: Sending Forth His Son"
+      },
+      {
+        "t": 574,
+        "heading": "The Eternal Nature of Christ"
+      },
+      {
+        "t": 1097,
+        "heading": "How God Did It: The Virgin Birth"
+      },
+      {
+        "t": 1483,
+        "heading": "Why God Did It: Redemption"
+      },
+      {
+        "t": 1958,
+        "heading": "The Result: Adoption as Sons"
+      },
+      {
+        "t": 2557,
+        "heading": "Personal Testimony and Gospel Appeal"
+      }
+    ]
+  }
 }

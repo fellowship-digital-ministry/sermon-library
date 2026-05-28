@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8bqqorGPae8.vtt",
   "duration": 3025,
   "transcription_timestamp": "2025-04-17T00:54:53.395021",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 1:1-4 on the credibility, content, and purpose of John's eyewitness testimony to the incarnate Christ, set against the backdrop of Docetist denial of Christ's humanity in the first century church.",
+    "themes": [
+      "eyewitness testimony",
+      "incarnation",
+      "eternal life",
+      "security of the believer",
+      "fellowship",
+      "joy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading and Series Introduction"
+      },
+      {
+        "t": 92,
+        "heading": "John's Authority as Eyewitness"
+      },
+      {
+        "t": 290,
+        "heading": "Docetist False Teaching as Context"
+      },
+      {
+        "t": 436,
+        "heading": "Credibility of the Account"
+      },
+      {
+        "t": 1233,
+        "heading": "Content: Eternal Life and Fellowship"
+      },
+      {
+        "t": 1948,
+        "heading": "Purpose: Fullness of Joy"
+      },
+      {
+        "t": 2330,
+        "heading": "Joy from Salvation and Godly Living"
+      }
+    ]
+  }
 }

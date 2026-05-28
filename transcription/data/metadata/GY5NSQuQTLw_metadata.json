@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GY5NSQuQTLw.vtt",
   "duration": 2968,
   "transcription_timestamp": "2025-04-17T06:31:38.919676",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 16:1-2 on the character of Phoebe, organized around four observations drawn from Paul's two-verse commendation, preached on Mother's Day with broader application to the role of women in the local church.",
+    "themes": [
+      "women in the church",
+      "conversion and salvation",
+      "service and commitment",
+      "compassion and hospitality",
+      "christian testimony",
+      "the family of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Mother's Day and Ladies in the Church"
+      },
+      {
+        "t": 143,
+        "heading": "Introduction to Phoebe, Romans 16:1-2"
+      },
+      {
+        "t": 194,
+        "heading": "First Observation: She Was Converted"
+      },
+      {
+        "t": 581,
+        "heading": "The Passover Blood and the Gospel"
+      },
+      {
+        "t": 1000,
+        "heading": "Second Observation: She Was Committed"
+      },
+      {
+        "t": 1844,
+        "heading": "Third Observation: She Was Compassionate"
+      },
+      {
+        "t": 2512,
+        "heading": "Fourth Observation: She Was Commended"
+      }
+    ]
+  }
 }

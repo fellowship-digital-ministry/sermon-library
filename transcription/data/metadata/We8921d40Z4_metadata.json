@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\We8921d40Z4.vtt",
   "duration": 2409,
   "transcription_timestamp": "2025-04-14T22:45:28.802398",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 6:1-19 on the meaning and practice of yielding to God, tracing the believer's position in Christ, the ongoing choice between yielding to sin or to righteousness, and the consequences of that choice.",
+    "themes": [
+      "yielding to god",
+      "sanctification",
+      "sin and grace",
+      "free will and obedience",
+      "the believer's position in christ",
+      "serving righteousness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Christian Life as a Journey"
+      },
+      {
+        "t": 212,
+        "heading": "The Counsel of Romans 6:1-14"
+      },
+      {
+        "t": 615,
+        "heading": "Position in Christ and Dominion of Sin"
+      },
+      {
+        "t": 798,
+        "heading": "Free Will and the Choice to Yield"
+      },
+      {
+        "t": 1166,
+        "heading": "Yielding as a Recurring Decision"
+      },
+      {
+        "t": 1397,
+        "heading": "Consequences: Servants of Sin or Righteousness"
+      },
+      {
+        "t": 1768,
+        "heading": "Yielding Illustrated: Daniel's Three Friends and Patrick Hamilton"
+      }
+    ]
+  }
 }

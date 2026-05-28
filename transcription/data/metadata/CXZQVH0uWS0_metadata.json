@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CXZQVH0uWS0.vtt",
   "duration": 3367.0,
   "transcription_timestamp": "2026-05-27T16:12:53.619331",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:13-16 on the nature and progression of sinful temptation, examining the holiness of God, personal culpability for sin, and the sequence from lust to sin to death. Part one of a two-part series, with part two to cover verses 17-18.",
+    "themes": [
+      "temptation",
+      "holiness of god",
+      "personal responsibility for sin",
+      "the sin nature",
+      "walking in the spirit",
+      "blame shifting"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 144,
+        "heading": "Authority of Scripture and the Call Not to Err"
+      },
+      {
+        "t": 576,
+        "heading": "Character of God: Holy and Not the Author of Temptation"
+      },
+      {
+        "t": 1102,
+        "heading": "Culpability of Sin: Drawn Away by His Own Lust"
+      },
+      {
+        "t": 1586,
+        "heading": "The Flesh, the Spirit, and Personal Responsibility"
+      },
+      {
+        "t": 2055,
+        "heading": "Course of Sin: Lust, Sin, Death"
+      },
+      {
+        "t": 2849,
+        "heading": "Old Testament Examples: Joseph and David"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MyCOoL7O768.vtt",
   "duration": 2614,
   "transcription_timestamp": "2025-04-14T20:06:17.980906",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:20-29 on the judgment pronounced against the church at Thyatira, focusing on the false teaching of a self-proclaimed prophetess, the call to repentance, and the promises given to those who hold fast. Part two of a study on Thyatira, following a prior message on the church's commendation in verse 19.",
+    "themes": [
+      "false teaching",
+      "spiritual adultery",
+      "divine judgment",
+      "repentance",
+      "holiness",
+      "christ's return and millennial reign"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Recap of Part One: Thyatira's Growth"
+      },
+      {
+        "t": 232,
+        "heading": "Problems Exposed: Jezebel and False Teaching"
+      },
+      {
+        "t": 558,
+        "heading": "Old Testament Background: Numbers 25 and Balaam"
+      },
+      {
+        "t": 805,
+        "heading": "God's Longsuffering and Certain Judgment"
+      },
+      {
+        "t": 1374,
+        "heading": "Lessons from Ananias and Sapphira: Acts 5"
+      },
+      {
+        "t": 1751,
+        "heading": "Prescription for the Faithful: Hold Fast"
+      },
+      {
+        "t": 1896,
+        "heading": "Promises to Overcomers: Christ's Return and Reign"
+      }
+    ]
+  }
 }

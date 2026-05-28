@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N6BsUO2YuSE.vtt",
   "duration": 2834,
   "transcription_timestamp": "2025-04-15T06:49:00.370934",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Judges 7:1-25 on Gideon and the 300 men, developed as a missions-conference preparation message on the believer's responsibility to understand, embrace, and fulfill the God-given task of representing Christ. The passage is read alongside 2 Corinthians 5:14-20 on the ministry of reconciliation.",
+    "themes": [
+      "missions",
+      "christian responsibility",
+      "the ministry of reconciliation",
+      "faith and obedience",
+      "ambassadors for christ",
+      "accountability"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Missions Conference Context and Prior Message"
+      },
+      {
+        "t": 184,
+        "heading": "Background: The Book of Judges Cycle"
+      },
+      {
+        "t": 371,
+        "heading": "Gideon's Army Reduced to 300"
+      },
+      {
+        "t": 936,
+        "heading": "Embracing the Responsibility: Gideon's Faith Builders"
+      },
+      {
+        "t": 1362,
+        "heading": "Fulfilling the Responsibility: Every Man in His Place"
+      },
+      {
+        "t": 1825,
+        "heading": "New Testament Application: Ambassadors and Accountability"
+      },
+      {
+        "t": 2210,
+        "heading": "2 Corinthians 5: The Ministry of Reconciliation"
+      }
+    ]
+  }
 }

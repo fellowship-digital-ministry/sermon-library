@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YCUS9wAR_oA.vtt",
   "duration": 2713,
   "transcription_timestamp": "2025-04-15T08:25:42.555287",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:1-4 on the phrase 'Thy will be done' within the model prayer Jesus gave his disciples, examining how a believer's personal will relates to God's will in prayer. Part of a multi-week series on prayer drawn from 1 Timothy 2.",
+    "themes": [
+      "prayer",
+      "submission to god",
+      "the will of god",
+      "humility",
+      "aligning with god's will",
+      "model prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prayer Overview"
+      },
+      {
+        "t": 190,
+        "heading": "The Disciple's Request and the Model Prayer"
+      },
+      {
+        "t": 375,
+        "heading": "The Question of Human Will in Prayer"
+      },
+      {
+        "t": 573,
+        "heading": "Psalm 37: Four Aids to Aligning with God's Will"
+      },
+      {
+        "t": 901,
+        "heading": "God's Will Is Superior: His Way Is Perfect"
+      },
+      {
+        "t": 1266,
+        "heading": "David's Testimony and God's Perfect Way"
+      },
+      {
+        "t": 1894,
+        "heading": "Submission and Humility Before God"
+      }
+    ]
+  }
 }

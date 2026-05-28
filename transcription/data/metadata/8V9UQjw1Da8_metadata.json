@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/8V9UQjw1Da8.vtt",
   "duration": 2411.0,
   "transcription_timestamp": "2026-05-28T16:23:22.292645",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 85:6 on personal and corporate readiness for revival, organized around five preparations drawn from the acrostic R-E-A-D-Y: repentance, eliminating weights, agreeing with God, drawing near to God, and yielding to Him.",
+    "themes": [
+      "revival",
+      "repentance",
+      "spiritual preparation",
+      "yielding to god",
+      "weights and distractions",
+      "confession of sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Songs and Revival Desire"
+      },
+      {
+        "t": 93,
+        "heading": "Review of Prior Message and Need for Revival"
+      },
+      {
+        "t": 326,
+        "heading": "Why Revival Meetings Exist"
+      },
+      {
+        "t": 652,
+        "heading": "R: Repent of Known Sin (Psalm 51)"
+      },
+      {
+        "t": 995,
+        "heading": "E: Eliminate the Weights (Hebrews 12)"
+      },
+      {
+        "t": 1231,
+        "heading": "A: Agree with God (1 John 1)"
+      },
+      {
+        "t": 1585,
+        "heading": "D: Draw Nigh to God (James 4)"
+      },
+      {
+        "t": 1968,
+        "heading": "Y: Yield to God (Romans 6)"
+      }
+    ]
+  }
 }

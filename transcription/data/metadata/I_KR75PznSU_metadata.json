@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I_KR75PznSU.vtt",
   "duration": 3199,
   "transcription_timestamp": "2025-04-16T10:51:37.750148",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 2:14 through 3:3 on spiritual discernment, addressing how believers interact with a relativistic culture by examining Paul's categories of the natural man, the spiritual man, and the carnal man. Submitted questions about social and cultural matters frame the passage's teaching on spiritual blindness and spiritual immaturity.",
+    "themes": [
+      "spiritual discernment",
+      "relativism and absolute truth",
+      "the natural man",
+      "spiritual immaturity",
+      "the role of the holy spirit",
+      "gospel witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context and Cultural Questions"
+      },
+      {
+        "t": 232,
+        "heading": "Relativism Defined and Its Challenge"
+      },
+      {
+        "t": 518,
+        "heading": "The Passage Introduced"
+      },
+      {
+        "t": 708,
+        "heading": "Spiritual Blindness: The Natural Man"
+      },
+      {
+        "t": 1180,
+        "heading": "Satan, the Gospel, and the Lost"
+      },
+      {
+        "t": 1694,
+        "heading": "Spiritual Immaturity: The Carnal Man"
+      },
+      {
+        "t": 2374,
+        "heading": "Responding to the Spiritually Blind"
+      },
+      {
+        "t": 2519,
+        "heading": "Responding to the Spiritually Immature"
+      }
+    ]
+  }
 }

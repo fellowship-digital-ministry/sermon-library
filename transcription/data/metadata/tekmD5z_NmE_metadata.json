@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tekmD5z_NmE.vtt",
   "duration": 1875,
   "transcription_timestamp": "2025-04-16T01:21:23.833993",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:5 on the three-word testimony of Enoch, 'he pleased God,' used as a framework for examining what it means to live a life pleasing to God, with extended reference to the Apostle Paul's concern for and charge to the believers at Ephesus, Philippi, Colossae, and Thessalonica.",
+    "themes": [
+      "pleasing god",
+      "testimony and life summary",
+      "the walk of faith",
+      "paul's pastoral concern",
+      "self-examination",
+      "single-minded devotion to god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 234,
+        "heading": "Enoch's Three-Word Testimony"
+      },
+      {
+        "t": 375,
+        "heading": "Temptation to Please Self or Others"
+      },
+      {
+        "t": 656,
+        "heading": "Paul's Concern for Believers' Walk"
+      },
+      {
+        "t": 1367,
+        "heading": "Paul's Charge to Please God"
+      },
+      {
+        "t": 1610,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

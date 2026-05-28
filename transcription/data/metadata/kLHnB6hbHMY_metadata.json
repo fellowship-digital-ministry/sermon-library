@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kLHnB6hbHMY.vtt",
   "duration": 2940,
   "transcription_timestamp": "2025-04-17T01:55:57.522149",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 24:1-67 on the providence of God in finding a wife for Isaac, tracing the servant Eleazar's mission from Abraham's commission through the return of Rebekah, with sustained attention to specific prayer and its role in making the hand of God recognizable to others.",
+    "themes": [
+      "specific prayer",
+      "providence of god",
+      "answered prayer",
+      "faith and confidence",
+      "personal testimony",
+      "marriage of isaac and rebekah"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Setting: Isaac Needs a Wife"
+      },
+      {
+        "t": 421,
+        "heading": "Eleazar's Specific Prayer"
+      },
+      {
+        "t": 654,
+        "heading": "God's Provision at the Well"
+      },
+      {
+        "t": 940,
+        "heading": "Rejoicing for Answered Prayer"
+      },
+      {
+        "t": 1127,
+        "heading": "Rehearsing the Events to Rebekah's Family"
+      },
+      {
+        "t": 1543,
+        "heading": "The Family's Response: The Thing Proceedeth From the Lord"
+      },
+      {
+        "t": 2292,
+        "heading": "The Return and Consummation of Marriage"
+      }
+    ]
+  }
 }

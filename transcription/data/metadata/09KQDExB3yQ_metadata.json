@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\09KQDExB3yQ.vtt",
   "duration": 2255,
   "transcription_timestamp": "2025-04-15T08:17:50.043689",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 49:1-12 on Jacob's deathbed blessings and prophecies over his first four sons, Reuben, Simeon, Levi, and Judah, tracing the fulfillment of each pronouncement through Israel's tribal history and forward to the millennial reign of Christ. Part one of a multi-week series through Genesis 49, message 98 in a consecutive study of Genesis.",
+    "themes": [
+      "sowing and reaping",
+      "tribal prophecy",
+      "sin and consequences",
+      "repentance and forgiveness",
+      "the tribe of judah",
+      "the millennial reign of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 49"
+      },
+      {
+        "t": 142,
+        "heading": "Purpose, Process, and Prophecy"
+      },
+      {
+        "t": 282,
+        "heading": "Reuben: Instability and Lost Birthright"
+      },
+      {
+        "t": 752,
+        "heading": "Simeon and Levi: Anger and Scattering"
+      },
+      {
+        "t": 1185,
+        "heading": "Levi's Turning Point at Exodus 32"
+      },
+      {
+        "t": 1461,
+        "heading": "Judah: Blessing and Brokenness"
+      },
+      {
+        "t": 1780,
+        "heading": "Shiloh and the Messianic View"
+      }
+    ]
+  }
 }

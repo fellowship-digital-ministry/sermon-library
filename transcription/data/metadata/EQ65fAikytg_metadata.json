@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EQ65fAikytg.vtt",
   "duration": 2740,
   "transcription_timestamp": "2025-04-17T04:01:50.414393",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A preparation message on Psalm 85:6 and 2 Chronicles 7:14 addressing how a congregation can be personally ready before a scheduled revival meeting, organized around four sequential steps of contemplation, confession, cultivation, and communion.",
+    "themes": [
+      "revival preparation",
+      "self-examination",
+      "confession of sin",
+      "humility",
+      "communion with god",
+      "cultivating the heart"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival Context and Prayer"
+      },
+      {
+        "t": 186,
+        "heading": "Defining Revival Readiness"
+      },
+      {
+        "t": 367,
+        "heading": "Contemplation and Self-Examination"
+      },
+      {
+        "t": 801,
+        "heading": "Confession of Sin"
+      },
+      {
+        "t": 1419,
+        "heading": "Cultivation of the Heart"
+      },
+      {
+        "t": 2031,
+        "heading": "Communion with God"
+      },
+      {
+        "t": 2425,
+        "heading": "Summary and Closing Appeal"
+      }
+    ]
+  }
 }

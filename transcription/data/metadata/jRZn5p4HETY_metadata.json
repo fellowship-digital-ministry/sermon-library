@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jRZn5p4HETY.vtt",
   "duration": 2754,
   "transcription_timestamp": "2025-04-14T20:44:41.904382",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:12-17 on the letter to the church at Pergamos, covering Christ's commendation of the church's faithfulness under persecution and his rebuke of compromise through the doctrines of Balaam and the Nicolaitans.",
+    "themes": [
+      "compromise in the church",
+      "false doctrine",
+      "persecution and faithfulness",
+      "repentance",
+      "identity in christ",
+      "the sufficiency of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Pergamos: City and Context"
+      },
+      {
+        "t": 140,
+        "heading": "Christ Described: The Sharp Sword"
+      },
+      {
+        "t": 282,
+        "heading": "How the Church Flourished"
+      },
+      {
+        "t": 665,
+        "heading": "How the Church Faltered: Doctrine of Balaam"
+      },
+      {
+        "t": 1140,
+        "heading": "The Doctrine of the Nicolaitans"
+      },
+      {
+        "t": 1604,
+        "heading": "The Call to Repentance"
+      },
+      {
+        "t": 1991,
+        "heading": "Promises to the Overcomer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BTHY_qWho6M.vtt",
   "duration": 2640,
   "transcription_timestamp": "2025-04-17T20:16:25.596204",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 15:21-28 and Mark 7:24-30 on the Syrophoenician woman's plea to Jesus for her demon-possessed daughter, preached on Mother's Day with application to all believers. The account is examined through three movements: what the woman recognized about Christ, what she requested, and what she received.",
+    "themes": [
+      "faith and prayer",
+      "motherhood",
+      "the identity of christ as messiah",
+      "persistence in seeking god",
+      "deliverance",
+      "jew and gentile in redemptive history"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Scripture Reading"
+      },
+      {
+        "t": 380,
+        "heading": "What She Recognized: Jesus as Messiah"
+      },
+      {
+        "t": 951,
+        "heading": "What She Recognized: Worship and Omnipotence"
+      },
+      {
+        "t": 1146,
+        "heading": "What She Requested: A Plea for Deliverance"
+      },
+      {
+        "t": 1611,
+        "heading": "Belief and Its Impact on Prayer"
+      },
+      {
+        "t": 1930,
+        "heading": "What She Received: Promise and Restoration"
+      },
+      {
+        "t": 2256,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

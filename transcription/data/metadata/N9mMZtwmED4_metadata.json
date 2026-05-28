@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N9mMZtwmED4.vtt",
   "duration": 2673,
   "transcription_timestamp": "2025-04-17T00:35:37.510967",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:1-2 on the believer's call to avoid sin and the provision of Jesus Christ as advocate and propitiation, set within the broader context of 1 John 1 on fellowship, confession, and forgiveness.",
+    "themes": [
+      "advocacy of christ",
+      "propitiation",
+      "sin and the believer",
+      "grace and forgiveness",
+      "limited atonement refuted",
+      "confession of sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Greeting of 1 John 2:1-2"
+      },
+      {
+        "t": 50,
+        "heading": "John as Aged Apostle and Faithful Messenger"
+      },
+      {
+        "t": 247,
+        "heading": "Appeal to the Believer: Sin Not"
+      },
+      {
+        "t": 390,
+        "heading": "Two Twisted Truths: Grace and Forgiveness"
+      },
+      {
+        "t": 1112,
+        "heading": "Advocate for the Believer: Description and Qualification"
+      },
+      {
+        "t": 1494,
+        "heading": "Limited Atonement Rejected"
+      },
+      {
+        "t": 1638,
+        "heading": "The Courtroom: How the Advocate Works"
+      },
+      {
+        "t": 2261,
+        "heading": "Closing Appeal: Examination and Rejoicing"
+      }
+    ]
+  }
 }

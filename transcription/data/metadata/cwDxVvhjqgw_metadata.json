@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cwDxVvhjqgw.vtt",
   "duration": 3032,
   "transcription_timestamp": "2025-04-15T10:08:47.527467",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 1:1-4 on the resources God supplies to believers called to continue in faithful service, framed as the opening message of a year-long study through 1 and 2 Timothy. Two foundational truths drawn from the passage, the provision of God and the plan of God, are presented as the basis for enduring obedience.",
+    "themes": [
+      "continuing in the faith",
+      "doctrine and sound teaching",
+      "provision of god",
+      "god's will and calling",
+      "grace, mercy, and peace",
+      "false teaching at ephesus"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series and Passage Introduced"
+      },
+      {
+        "t": 90,
+        "heading": "The Need to Be Equipped"
+      },
+      {
+        "t": 182,
+        "heading": "Text Read: 1 Timothy 1:1-4"
+      },
+      {
+        "t": 321,
+        "heading": "First Truth: The Provision of God"
+      },
+      {
+        "t": 1162,
+        "heading": "Second Truth: The Plan of God"
+      },
+      {
+        "t": 1533,
+        "heading": "Timothy's Task: Sound Doctrine at Ephesus"
+      },
+      {
+        "t": 1765,
+        "heading": "Acts 20 and the Warning of False Teachers"
+      },
+      {
+        "t": 2535,
+        "heading": "Moses and Jethro: Provision Enabling Endurance"
+      }
+    ]
+  }
 }

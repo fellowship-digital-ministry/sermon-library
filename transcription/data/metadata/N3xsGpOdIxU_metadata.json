@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\N3xsGpOdIxU.vtt",
   "duration": 2889,
   "transcription_timestamp": "2025-04-16T08:41:52.350488",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 14:11-20 on the mercy of God as recalled and invoked by Moses in his intercession for Israel following the evil report of the ten spies. The sermon traces Moses's appeal to God's previously revealed attributes (Exodus 34:6-7), his request for pardon, and God's response, set within the broader year-long series on the greatness of God.",
+    "themes": [
+      "mercy of god",
+      "intercession",
+      "pardon and forgiveness",
+      "faith versus unbelief",
+      "attributes of god",
+      "evangelism and gospel witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Series Context"
+      },
+      {
+        "t": 140,
+        "heading": "Historical Background: Spies and Evil Report"
+      },
+      {
+        "t": 414,
+        "heading": "God's Threatened Judgment on Israel"
+      },
+      {
+        "t": 693,
+        "heading": "What Moses Recalled: God's Revealed Mercy"
+      },
+      {
+        "t": 1473,
+        "heading": "What Moses Requested: Pardon for the People"
+      },
+      {
+        "t": 1838,
+        "heading": "How God Responded: Pardon Granted"
+      },
+      {
+        "t": 2271,
+        "heading": "God's Mercy Applied: Ephesians 2 and Gospel Witness"
+      }
+    ]
+  }
 }

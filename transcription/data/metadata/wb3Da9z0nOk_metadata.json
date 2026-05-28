@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wb3Da9z0nOk.vtt",
   "duration": 1906,
   "transcription_timestamp": "2025-04-17T00:44:26.100839",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Old Testament sacrificial types drawn from Exodus 29 and Leviticus, applied to the New Testament believer's role as a royal priest (1 Peter 2:5, 9). The offerings of consecration, sin, burnt, meat, and peace, are read as a sequential picture of salvation, surrender, service, and fellowship, with 1 Corinthians 13:3 supplying the controlling question of whether love animates the sacrifice.",
+    "themes": [
+      "old testament typology",
+      "priesthood of believers",
+      "spiritual sacrifice",
+      "surrender and consecration",
+      "love as motivation for service",
+      "order of the christian life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Verse and Prayer"
+      },
+      {
+        "t": 92,
+        "heading": "Survey of Old Testament Offerings"
+      },
+      {
+        "t": 387,
+        "heading": "Believers as New Testament Priests"
+      },
+      {
+        "t": 626,
+        "heading": "Four Sacrifices of Consecration in Exodus 29"
+      },
+      {
+        "t": 860,
+        "heading": "Two Details: Order and Operation of Sacrifice"
+      },
+      {
+        "t": 1250,
+        "heading": "The Title Question: Where Is the Fire?"
+      },
+      {
+        "t": 1297,
+        "heading": "Three Practical Helps: HOT"
+      }
+    ]
+  }
 }

@@ -8,5 +8,42 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QHvb8WfH4Bc.vtt",
   "duration": 2858,
   "transcription_timestamp": "2025-04-17T10:34:46.929292",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 5:20 and 1 Thessalonians 5:18 on the biblical call to give thanks always and for all things, drawing on Psalms, Exodus 15, and 1 Chronicles 16 to develop three movements: the principle, the purpose, and the practice of praise.",
+    "themes": [
+      "thanksgiving and praise",
+      "the will of god",
+      "worship",
+      "gratitude vs. murmuring",
+      "public and private praise"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Hymn and Introduction"
+      },
+      {
+        "t": 290,
+        "heading": "The Principle of Praise"
+      },
+      {
+        "t": 586,
+        "heading": "Purposing to Praise: Psalms of Resolve"
+      },
+      {
+        "t": 1154,
+        "heading": "Principle vs. Practice Illustrated"
+      },
+      {
+        "t": 1381,
+        "heading": "Old Testament Examples: Exodus 15 and 1 Chronicles 16"
+      },
+      {
+        "t": 2408,
+        "heading": "Practicing Praise as Regular Habit"
+      }
+    ]
+  }
 }

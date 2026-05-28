@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qXJTL7gNqeA.vtt",
   "duration": 3466,
   "transcription_timestamp": "2025-04-17T13:52:10.179383",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:8-22 on living by faith, tracing the faith of Abraham and his descendants through Genesis, with attention to obedience, the promises of God, and generational influence.",
+    "themes": [
+      "living by faith",
+      "obedience to god",
+      "promises of god",
+      "eternal perspective",
+      "generational influence",
+      "faith and the impossible"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 277,
+        "heading": "Daily Submission to God's Direction"
+      },
+      {
+        "t": 565,
+        "heading": "Embracing the Promises of God"
+      },
+      {
+        "t": 1127,
+        "heading": "Perspective of Strangers and Pilgrims"
+      },
+      {
+        "t": 1783,
+        "heading": "Faith Believes the Impossible"
+      },
+      {
+        "t": 2495,
+        "heading": "Faith Influences Future Generations"
+      }
+    ]
+  }
 }

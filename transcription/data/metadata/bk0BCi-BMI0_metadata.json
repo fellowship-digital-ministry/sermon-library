@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bk0BCi-BMI0.vtt",
   "duration": 2689,
   "transcription_timestamp": "2025-04-16T11:57:39.170899",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Amos 3:3 and multiple New Testament passages on the doctrine of ecclesiastical separation, addressed as a response to a congregant's question about why independent Baptist missionaries and churches decline to affiliate with other denominations in missions work.",
+    "themes": [
+      "ecclesiastical separation",
+      "sound doctrine",
+      "denominational distinctives",
+      "baptist identity",
+      "missions partnerships",
+      "ecumenism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Question Introduced and Framed"
+      },
+      {
+        "t": 141,
+        "heading": "Preliminary Questions About Affiliation"
+      },
+      {
+        "t": 388,
+        "heading": "New Testament View of the Body of Doctrine"
+      },
+      {
+        "t": 716,
+        "heading": "Biblical Commands to Mark and Avoid False Teachers"
+      },
+      {
+        "t": 1052,
+        "heading": "The Galatian Crisis and the Judaizers"
+      },
+      {
+        "t": 1331,
+        "heading": "Doctrinal Areas Requiring Separation"
+      },
+      {
+        "t": 2429,
+        "heading": "Consequences of Ecumenical Partnership"
+      }
+    ]
+  }
 }

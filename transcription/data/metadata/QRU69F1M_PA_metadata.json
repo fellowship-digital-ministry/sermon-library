@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QRU69F1M_PA.vtt",
   "duration": 2441,
   "transcription_timestamp": "2025-04-16T09:19:29.741749",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 11:23-32 on the proper observance of the Lord's Supper within the local church, addressing the Corinthian church's unworthy practice and providing corrective instruction on remembrance, rejoicing, and self-examination before partaking.",
+    "themes": [
+      "lord's supper",
+      "church ordinances",
+      "self-examination",
+      "repentance",
+      "return of christ",
+      "chastening"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Biblical Basis for Church Practice"
+      },
+      {
+        "t": 233,
+        "heading": "Corinthian Context and Passage Introduction"
+      },
+      {
+        "t": 467,
+        "heading": "Lord's Supper as a Memorial for Believers"
+      },
+      {
+        "t": 702,
+        "heading": "A Time to Remember the Sacrifice"
+      },
+      {
+        "t": 1040,
+        "heading": "A Time to Rejoice in Christ's Coming"
+      },
+      {
+        "t": 1532,
+        "heading": "A Time to Repent and Self-Examination"
+      },
+      {
+        "t": 1906,
+        "heading": "Consequences of Unworthy Partaking"
+      }
+    ]
+  }
 }

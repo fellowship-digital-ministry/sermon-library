@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\SfucrRfy8nw.vtt",
   "duration": 3712,
   "transcription_timestamp": "2025-04-17T16:07:25.499846",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 34:1-3 on the subject of praise, tracing the psalmist's resolve and regular practice of praising God across all circumstances, with supporting references drawn throughout the Psalms, Acts 16, Romans 8:28, and the life of Joseph.",
+    "themes": [
+      "praise and worship",
+      "adversity and faith",
+      "private and public devotion",
+      "resolve and consistency",
+      "sovereignty of god",
+      "complaining versus praising"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Fanny Crosby and Psalm 34"
+      },
+      {
+        "t": 193,
+        "heading": "Definition and Basis of Praise"
+      },
+      {
+        "t": 617,
+        "heading": "The Psalmist's Resolve to Praise"
+      },
+      {
+        "t": 1492,
+        "heading": "Regular Praise: Private and Public"
+      },
+      {
+        "t": 1733,
+        "heading": "Praising God in Positive Circumstances"
+      },
+      {
+        "t": 1966,
+        "heading": "Praising God in Adversity"
+      },
+      {
+        "t": 2292,
+        "heading": "Paul and Silas: Praise in Prison"
+      },
+      {
+        "t": 2668,
+        "heading": "Romans 8:28 and the Life of Joseph"
+      }
+    ]
+  }
 }

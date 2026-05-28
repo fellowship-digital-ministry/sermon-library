@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PE0mOy8YRqw.vtt",
   "duration": 2864,
   "transcription_timestamp": "2025-04-15T08:39:31.602324",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:8 on three prerequisites for effectual prayer: clean hands (holiness), freedom from wrath (Spirit-controlled living), and confidence without doubting. Supporting passages from Isaiah, the Psalms, James, Ephesians, Colossians, and 1 John develop each condition.",
+    "themes": [
+      "effectual prayer",
+      "holiness and cleanliness before god",
+      "sin hindering prayer",
+      "spirit-filled living",
+      "confidence in prayer",
+      "anger and the flesh"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Series Context"
+      },
+      {
+        "t": 94,
+        "heading": "Prayer as More Than Religious Exercise"
+      },
+      {
+        "t": 467,
+        "heading": "First Prerequisite: Holy Hands"
+      },
+      {
+        "t": 613,
+        "heading": "Sin as a Barrier to Answered Prayer"
+      },
+      {
+        "t": 1461,
+        "heading": "Second Prerequisite: Freedom from Wrath"
+      },
+      {
+        "t": 2025,
+        "heading": "Third Prerequisite: Confidence Without Doubting"
+      },
+      {
+        "t": 2736,
+        "heading": "Summary and Closing Prayer"
+      }
+    ]
+  }
 }

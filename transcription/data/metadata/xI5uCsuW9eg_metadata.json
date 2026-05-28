@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/xI5uCsuW9eg.vtt",
   "duration": 2662.0,
   "transcription_timestamp": "2026-05-27T17:18:13.214844",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 12:1-14 centered on the repeated question 'Have ye not read?' addressed by Jesus to the Pharisees, used as a framework for examining the place of Scripture reading in the Christian life. Supporting passages from Matthew 19, Matthew 22, Psalm 1, Psalm 119, Joshua 1, Nehemiah 8, 2 Peter 3, and Ephesians 6 are drawn in throughout.",
+    "themes": [
+      "bible reading",
+      "biblical knowledge",
+      "scriptural authority",
+      "error and sound doctrine",
+      "spiritual growth",
+      "the pharisees"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Text Introduction: Matthew 12:1-14"
+      },
+      {
+        "t": 91,
+        "heading": "Background on the Pharisees"
+      },
+      {
+        "t": 418,
+        "heading": "Jesus Citing Scripture Against Religious Leaders"
+      },
+      {
+        "t": 512,
+        "heading": "Focus on 'Have Ye Not Read'"
+      },
+      {
+        "t": 696,
+        "heading": "Reading Scripture Is Expected"
+      },
+      {
+        "t": 1068,
+        "heading": "Reading Scripture Exposes Error"
+      },
+      {
+        "t": 1865,
+        "heading": "Reading Scripture Is Essential"
+      }
+    ]
+  }
 }

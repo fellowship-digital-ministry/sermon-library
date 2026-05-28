@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XzbN4ONOJUs.vtt",
   "duration": 2797,
   "transcription_timestamp": "2025-04-15T07:55:31.192045",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:9-15 on women's roles, modest attire, and authority structure within the local church, set against the backdrop of Timothy's ministry in Ephesus and Paul's charge to the Ephesian elders in Acts 20.",
+    "themes": [
+      "behavior in the church",
+      "modesty and attire",
+      "authority and church structure",
+      "roles of women in the church",
+      "creation order",
+      "discipleship of younger women"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Timothy's Context in Ephesus"
+      },
+      {
+        "t": 188,
+        "heading": "Behavior in God's Church Introduced"
+      },
+      {
+        "t": 330,
+        "heading": "God's Authority Over His Church"
+      },
+      {
+        "t": 798,
+        "heading": "Instruction on Attire (vv. 9-10)"
+      },
+      {
+        "t": 1366,
+        "heading": "Instruction on Authority (vv. 11-12)"
+      },
+      {
+        "t": 1891,
+        "heading": "Creation and the Fall as Grounds for the Instruction (vv. 13-14)"
+      },
+      {
+        "t": 2308,
+        "heading": "The Difficult Saying on Childbearing (v. 15)"
+      },
+      {
+        "t": 2583,
+        "heading": "Women's Role in Discipling Younger Women (Titus 2)"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nh_yOTAqen4.vtt",
   "duration": 2171,
   "transcription_timestamp": "2025-04-17T20:58:20.608591",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 5:20-27 on the conduct and consequences of Gehazi, servant of Elisha, who pursued Naaman after his healing and obtained silver and garments through deception, resulting in the leprosy of Naaman cleaving to him. Part of an ongoing series on the lives of Elijah and Elisha, this is identified as the 25th lesson in that study.",
+    "themes": [
+      "deception and lying",
+      "covetousness",
+      "consequences of sin",
+      "guarding the thought life",
+      "covering sin",
+      "judgment and chastening"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Naaman's Healing"
+      },
+      {
+        "t": 149,
+        "heading": "Reading of the Text"
+      },
+      {
+        "t": 294,
+        "heading": "Gehazi's Conduct: Deceptive Plan"
+      },
+      {
+        "t": 899,
+        "heading": "Gehazi's Conduct: Lying to Elisha"
+      },
+      {
+        "t": 1037,
+        "heading": "Consequences: Judgment Pronounced"
+      },
+      {
+        "t": 1176,
+        "heading": "Lesson One: Guard Your Thoughts"
+      },
+      {
+        "t": 1365,
+        "heading": "Lesson Two: Guard Your Tongue"
+      },
+      {
+        "t": 1559,
+        "heading": "Lesson Three: Refuse to Cover Sin"
+      }
+    ]
+  }
 }

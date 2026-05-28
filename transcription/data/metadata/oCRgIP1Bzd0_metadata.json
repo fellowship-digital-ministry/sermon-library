@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oCRgIP1Bzd0.vtt",
   "duration": 3025,
   "transcription_timestamp": "2025-04-17T13:38:25.699464",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 14:17-24 on Abram's two meetings after his victory in battle: first with Melchizedek, king of Salem, and then with the king of Sodom. Melchizedek is examined as an Old Testament type of Christ, and his meeting with Abram is set against the subsequent proposition of the king of Sodom.",
+    "themes": [
+      "melchizedek as type of christ",
+      "divine preparation for temptation",
+      "names and character of god",
+      "subtlety of the enemy",
+      "tithing and worship",
+      "spiritual discernment"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Reading"
+      },
+      {
+        "t": 291,
+        "heading": "Significance of the Meeting with Melchizedek"
+      },
+      {
+        "t": 432,
+        "heading": "Melchizedek in Hebrews 7"
+      },
+      {
+        "t": 758,
+        "heading": "El Elyon: God as Most High and Possessor"
+      },
+      {
+        "t": 1597,
+        "heading": "Blessing, Tithes, and First Mentions"
+      },
+      {
+        "t": 1833,
+        "heading": "Subtlety of the Enemy: the King of Sodom"
+      },
+      {
+        "t": 2177,
+        "heading": "Abram's Response to the King of Sodom"
+      },
+      {
+        "t": 2459,
+        "heading": "Parallel to the Temptation of Christ"
+      }
+    ]
+  }
 }

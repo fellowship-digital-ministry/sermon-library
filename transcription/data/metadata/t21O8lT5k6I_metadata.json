@@ -8,5 +8,43 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/t21O8lT5k6I.vtt",
   "duration": 2288.0,
   "transcription_timestamp": "2026-05-27T16:30:37.528548",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of a two-part study on 1 Peter 4:10-11 concerning spiritual gifts and faithful stewardship of God's grace within the local church. The sermon reviews foundational points from part one and moves into practical application under three headings: discovering, developing, and deploying one's spiritual gift.",
+    "themes": [
+      "spiritual gifts",
+      "stewardship of grace",
+      "local church ministry",
+      "christian service",
+      "edification of believers",
+      "glorifying god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part One"
+      },
+      {
+        "t": 649,
+        "heading": "Discovering Your Spiritual Gift"
+      },
+      {
+        "t": 975,
+        "heading": "Developing Your Spiritual Gift"
+      },
+      {
+        "t": 1208,
+        "heading": "Paul and Timothy on Developing Gifts"
+      },
+      {
+        "t": 1906,
+        "heading": "Deploying Your Spiritual Gift"
+      },
+      {
+        "t": 2235,
+        "heading": "Closing Prayer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2mDKhmk687Y.vtt",
   "duration": 3032,
   "transcription_timestamp": "2025-04-17T15:53:24.527797",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 8:1-5 on the superiority of Christ's high priesthood, set within a series through the book of Hebrews. The passage is examined under two headings: the better place in which Christ ministers and the better offering he presented.",
+    "themes": [
+      "high priesthood of christ",
+      "tabernacle and temple typology",
+      "superiority of christ",
+      "substitutionary atonement",
+      "intercession",
+      "salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Introduction"
+      },
+      {
+        "t": 95,
+        "heading": "Levitical Priesthood and Its Setting"
+      },
+      {
+        "t": 291,
+        "heading": "Tabernacle, Temple, and Their History"
+      },
+      {
+        "t": 812,
+        "heading": "Christ Ministers in a Better Place"
+      },
+      {
+        "t": 1425,
+        "heading": "Christ Presented a Better Offering"
+      },
+      {
+        "t": 2435,
+        "heading": "Closing Appeal from 1 John 2:1-2"
+      }
+    ]
+  }
 }

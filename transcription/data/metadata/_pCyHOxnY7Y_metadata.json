@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_pCyHOxnY7Y.vtt",
   "duration": 2811,
   "transcription_timestamp": "2025-04-17T06:02:33.657733",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 1:11-24 on the testimony of the Apostle Paul as evidence of genuine conversion and effective ministry, tracing his transformation from persecutor of the church to preacher of the faith.",
+    "themes": [
+      "conversion testimony",
+      "changed life",
+      "effectiveness in ministry",
+      "dependence on god",
+      "the local church",
+      "glorifying god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Galatians and Context"
+      },
+      {
+        "t": 289,
+        "heading": "Evidence of Paul's Conversion"
+      },
+      {
+        "t": 677,
+        "heading": "New Creature in Christ"
+      },
+      {
+        "t": 863,
+        "heading": "All Humanity in Times Past"
+      },
+      {
+        "t": 1285,
+        "heading": "Effectiveness of Paul's Ministry"
+      },
+      {
+        "t": 1672,
+        "heading": "Enlisted and Enabled by God"
+      },
+      {
+        "t": 1911,
+        "heading": "Light Before Men, God Glorified"
+      },
+      {
+        "t": 2245,
+        "heading": "Surrender and the Ministry of Reconciliation"
+      }
+    ]
+  }
 }

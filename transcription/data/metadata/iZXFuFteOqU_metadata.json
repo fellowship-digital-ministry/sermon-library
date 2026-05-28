@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iZXFuFteOqU.vtt",
   "duration": 2979,
   "transcription_timestamp": "2025-04-15T10:39:48.999770",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 20:17-36 on the apostle Paul's address to the Ephesian elders, examining four qualities that characterized his ministry: humility, compassion, passion, and faithfulness. Supporting passages from 1 Corinthians 9, Galatians 2, Philippians 3, and 2 Timothy 4 frame Paul's approach to service as a model for believers.",
+    "themes": [
+      "christian service",
+      "humility",
+      "compassion",
+      "faithfulness",
+      "finishing the race",
+      "paul's ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 323,
+        "heading": "Paul's Framework for Ministry"
+      },
+      {
+        "t": 836,
+        "heading": "Acts 20 Setting and Text"
+      },
+      {
+        "t": 1158,
+        "heading": "Serving the Lord Humbly"
+      },
+      {
+        "t": 1393,
+        "heading": "Serving the Lord Compassionately"
+      },
+      {
+        "t": 1879,
+        "heading": "Serving the Lord Passionately"
+      },
+      {
+        "t": 2496,
+        "heading": "Serving the Lord Faithfully"
+      },
+      {
+        "t": 2778,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

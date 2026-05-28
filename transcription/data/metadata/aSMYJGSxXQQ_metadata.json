@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aSMYJGSxXQQ.vtt",
   "duration": 2947,
   "transcription_timestamp": "2025-04-17T02:49:07.093872",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 4:2-4 on the command to continue in prayer, tracing the privilege, the specific petitions, and the pattern of prayer through the book of Acts and the ministry of the Apostle Paul.",
+    "themes": [
+      "prayer",
+      "intercessory prayer",
+      "perseverance in prayer",
+      "open doors for the gospel",
+      "the church at prayer",
+      "spiritual warfare"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Introduction to Colossians 4"
+      },
+      {
+        "t": 143,
+        "heading": "The Privilege of Prayer"
+      },
+      {
+        "t": 708,
+        "heading": "Components of Prayer: ACTS Acronym"
+      },
+      {
+        "t": 1003,
+        "heading": "Paul's Petition for Intercessory Prayer"
+      },
+      {
+        "t": 1100,
+        "heading": "Praying for Open Doors of Utterance"
+      },
+      {
+        "t": 1870,
+        "heading": "Prayer as a Pattern in Acts"
+      },
+      {
+        "t": 2707,
+        "heading": "Closing Appeal to Continue in Prayer"
+      }
+    ]
+  }
 }

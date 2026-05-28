@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eusw5oiGk-A.vtt",
   "duration": 2539,
   "transcription_timestamp": "2025-04-16T16:00:22.670004",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 29:1-30 tracing Jacob's arrival in Haran, his agreement with Laban, and the deception surrounding his marriages to Leah and Rachel, set within the broader arc of Jacob's developing walk with God following the events of Genesis 28.",
+    "themes": [
+      "jacob's journey with god",
+      "deception and its consequences",
+      "sowing and reaping",
+      "god's providence in adversity",
+      "marriage and family in the patriarchal narratives",
+      "humility and spiritual growth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Jacob's Change in Genesis 28"
+      },
+      {
+        "t": 331,
+        "heading": "Jacob's Arrival in Haran"
+      },
+      {
+        "t": 424,
+        "heading": "Jacob's Interactions at the Well"
+      },
+      {
+        "t": 660,
+        "heading": "Jacob Meets Rachel and Laban"
+      },
+      {
+        "t": 1052,
+        "heading": "Jacob's Agreement with Laban"
+      },
+      {
+        "t": 1390,
+        "heading": "Laban's Deception with Leah"
+      },
+      {
+        "t": 1627,
+        "heading": "Sowing, Reaping, and God's Molding of Jacob"
+      },
+      {
+        "t": 2093,
+        "heading": "Difficulties in the Christian Journey"
+      }
+    ]
+  }
 }

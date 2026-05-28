@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CHv-7-cvC0E.vtt",
   "duration": 2112,
   "transcription_timestamp": "2025-04-15T09:41:46.925707",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 46:1-34 on Jacob's journey to Egypt and his reunion with Joseph, the 94th sermon in a consecutive series through Genesis. God's promises and protection for the journey frame a reading of the family reunion as a picture of the believer's future reunion in heaven.",
+    "themes": [
+      "promises of god",
+      "divine protection",
+      "family reunion",
+      "anticipation of heaven",
+      "the rapture",
+      "journey of life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Chapter 45 Review"
+      },
+      {
+        "t": 285,
+        "heading": "Promises for the Journey (vv. 1-4)"
+      },
+      {
+        "t": 726,
+        "heading": "Protection for the Journey (vv. 5-27)"
+      },
+      {
+        "t": 1015,
+        "heading": "Psalm 73 Applied to the Journey"
+      },
+      {
+        "t": 1163,
+        "heading": "The Reunion of Jacob and Joseph (vv. 28-30)"
+      },
+      {
+        "t": 1538,
+        "heading": "1 Thessalonians 4 and the Future Reunion"
+      }
+    ]
+  }
 }

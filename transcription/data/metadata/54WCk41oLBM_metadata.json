@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\54WCk41oLBM.vtt",
   "duration": 3258,
   "transcription_timestamp": "2025-04-16T00:15:05.630046",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jonah 1-4 on disobedience and flight from God's will, framed by Psalm 139:7 on the inescapability of God's presence. The book of Jonah is read through as a case study in a prophet's refusal of divine commission, the consequences of that refusal for others, and God's pursuit of His servant in spite of his resistance.",
+    "themes": [
+      "disobedience",
+      "the will of god",
+      "fleeing from god's presence",
+      "obedience to divine calling",
+      "consequences of sin on others",
+      "revival"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Psalm 139: God's Complete Knowledge"
+      },
+      {
+        "t": 514,
+        "heading": "Psalm 139:7 as Text and Transition"
+      },
+      {
+        "t": 606,
+        "heading": "Introduction to Jonah and Nineveh"
+      },
+      {
+        "t": 1252,
+        "heading": "Jonah's Commission and Flight"
+      },
+      {
+        "t": 1586,
+        "heading": "The Storm and Its Effects on Others"
+      },
+      {
+        "t": 2188,
+        "heading": "Jonah Overboard, the Fish, and Chapter 3"
+      },
+      {
+        "t": 2420,
+        "heading": "Nineveh's Repentance and Jonah's Anger"
+      },
+      {
+        "t": 2888,
+        "heading": "Isaiah's Contrast and Closing Testimony"
+      }
+    ]
+  }
 }

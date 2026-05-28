@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LgRl3wwGxNo.vtt",
   "duration": 2911,
   "transcription_timestamp": "2025-04-17T00:26:33.030298",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:3-6 on assurance of salvation, examining the repeated use of 'know' in the passage and the distinction between the genuine possessor of eternal life and the mere professor. The sermon introduces the concept of 'birthmarks of the believer,' with obedience to God's commandments as the first such birthmark.",
+    "themes": [
+      "assurance of salvation",
+      "obedience",
+      "possessor versus professor",
+      "internal and external evidence of faith",
+      "security of the believer",
+      "birthmarks of the believer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: God Wants Us to Know"
+      },
+      {
+        "t": 51,
+        "heading": "Security in Salvation"
+      },
+      {
+        "t": 241,
+        "heading": "The Litmus Test of 1 John 2:3-6"
+      },
+      {
+        "t": 432,
+        "heading": "Behavior of the Possessor"
+      },
+      {
+        "t": 1221,
+        "heading": "Why the Possessor Obeys"
+      },
+      {
+        "t": 1780,
+        "heading": "Behavior of the Professor"
+      },
+      {
+        "t": 2318,
+        "heading": "Applying the Test: Professor or Possessor"
+      }
+    ]
+  }
 }

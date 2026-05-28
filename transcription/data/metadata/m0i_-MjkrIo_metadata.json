@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\m0i_-MjkrIo.vtt",
   "duration": 2851,
   "transcription_timestamp": "2025-04-15T09:38:20.309668",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:1 on the four elements of prayer named in the verse (supplications, prayers, intercessions, and giving of thanks), with extended treatment of the priority and pattern of a structured prayer life.",
+    "themes": [
+      "prayer",
+      "structure and consistency in prayer",
+      "intercessory prayer",
+      "adoration and thanksgiving",
+      "neglect of prayer",
+      "faith in prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Prayer in Scripture"
+      },
+      {
+        "t": 96,
+        "heading": "Invitation and Instruction to Pray"
+      },
+      {
+        "t": 288,
+        "heading": "Neglect of Prayer and Its Dangers"
+      },
+      {
+        "t": 663,
+        "heading": "Priority Placed on Prayer in 1 Timothy 2:1"
+      },
+      {
+        "t": 1225,
+        "heading": "Biblical Examples of a Time and Place for Prayer"
+      },
+      {
+        "t": 1462,
+        "heading": "Pattern for Prayer: The Four Elements of Verse 1"
+      },
+      {
+        "t": 2275,
+        "heading": "George Mueller and Prayer in Faith"
+      }
+    ]
+  }
 }

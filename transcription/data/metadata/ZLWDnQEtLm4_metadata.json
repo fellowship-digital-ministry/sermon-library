@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZLWDnQEtLm4.vtt",
   "duration": 2028,
   "transcription_timestamp": "2025-04-15T06:17:35.310996",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 23:26 on the constant observation others give to a believer's conduct, drawing on Acts 1:1, 1 Peter 2:21, Philippians 4:9, and the account of Manasseh and Amon in 2 Chronicles 33 to examine the weight of personal example.",
+    "themes": [
+      "personal example",
+      "influence on others",
+      "doing and teaching",
+      "parental influence",
+      "watching and being watched",
+      "consistency of life and message"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Illustrations on Being Watched"
+      },
+      {
+        "t": 184,
+        "heading": "Proverbs 23:26 Introduced"
+      },
+      {
+        "t": 371,
+        "heading": "Jesus: Doing and Teaching (Acts 1:1)"
+      },
+      {
+        "t": 559,
+        "heading": "Peter, Paul, and the Call to Follow (1 Peter 2:21, Philippians 4:9)"
+      },
+      {
+        "t": 1166,
+        "heading": "Manasseh's Wickedness and Restoration (2 Chronicles 33)"
+      },
+      {
+        "t": 1683,
+        "heading": "Amon Follows Manasseh's Evil Example"
+      },
+      {
+        "t": 1871,
+        "heading": "Closing Application on Observed Example"
+      }
+    ]
+  }
 }

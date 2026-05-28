@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YAT9vFKbcNs.vtt",
   "duration": 2895,
   "transcription_timestamp": "2025-04-16T09:45:20.424741",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 28:1-10 on the resurrection of Christ, tracing Mary Magdalene and the other Mary from their approach to the tomb through their encounter with the risen Jesus and the assignment given to them. Romans 1:1-7, 1 Corinthians 15, and Revelation 4-5 are drawn in alongside the primary passage.",
+    "themes": [
+      "resurrection",
+      "the empty tomb",
+      "gospel witness",
+      "obedience to assignment",
+      "fear and joy",
+      "urgency in evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Scriptures and Context"
+      },
+      {
+        "t": 462,
+        "heading": "Approach to the Tomb"
+      },
+      {
+        "t": 833,
+        "heading": "Arrival at the Tomb"
+      },
+      {
+        "t": 1447,
+        "heading": "Assignment Given by the Angel"
+      },
+      {
+        "t": 1733,
+        "heading": "Encounter with the Risen Christ"
+      },
+      {
+        "t": 2057,
+        "heading": "Significance of the Assignment"
+      },
+      {
+        "t": 2335,
+        "heading": "The Ongoing Assignment and Urgency"
+      }
+    ]
+  }
 }

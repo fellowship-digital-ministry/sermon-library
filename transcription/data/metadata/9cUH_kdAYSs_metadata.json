@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9cUH_kdAYSs.vtt",
   "duration": 2671,
   "transcription_timestamp": "2025-04-14T20:10:58.713749",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 11:17-31 on self-examination and worthy participation in the Lord's Supper, addressed to a local church preparing to observe the ordinance. The passage is set against the backdrop of Paul's correction of the carnal church at Corinth, with extended treatment of unconfessed sin as the barrier to worthy partaking.",
+    "themes": [
+      "lord's supper",
+      "self-examination",
+      "unconfessed sin",
+      "holiness",
+      "fellowship with god",
+      "confession and forgiveness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Paul's Correction at Corinth"
+      },
+      {
+        "t": 195,
+        "heading": "The Lord's Supper as Ordinance and Memorial"
+      },
+      {
+        "t": 389,
+        "heading": "Remembrance and Expectation of Christ's Return"
+      },
+      {
+        "t": 670,
+        "heading": "Eating and Drinking Unworthily"
+      },
+      {
+        "t": 953,
+        "heading": "Sin in the Believer's Life: OT and NT Examples"
+      },
+      {
+        "t": 1430,
+        "heading": "Putting Off and Putting On: Ephesians 4-5"
+      },
+      {
+        "t": 1761,
+        "heading": "Secret Faults and Presumptuous Sins: Psalm 19"
+      },
+      {
+        "t": 2233,
+        "heading": "Covering vs. Confessing Sin: Proverbs 28 and 1 John 1"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WhaPo-g3nqA.vtt",
   "duration": 2969,
   "transcription_timestamp": "2025-04-16T14:34:29.993911",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 3:4-10 on the contrast between the one who does righteousness and the one who commits sin, addressed to believers within a verse-by-verse study of 1 John organized around the themes of sin, the Savior, and sanctification.",
+    "themes": [
+      "sin and lawlessness",
+      "the work of christ at calvary",
+      "sanctification",
+      "abiding in christ",
+      "false teaching about sin",
+      "children of god versus children of the devil"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of 1 John 3:1-3"
+      },
+      {
+        "t": 228,
+        "heading": "Introduction to the Passage and Its Litmus Test"
+      },
+      {
+        "t": 510,
+        "heading": "Warning Against Deception About Sin"
+      },
+      {
+        "t": 797,
+        "heading": "John on Sin: Definition and Author"
+      },
+      {
+        "t": 1089,
+        "heading": "John on the Savior: Work at Calvary"
+      },
+      {
+        "t": 1908,
+        "heading": "John on Sanctification: Verb Tense and Abiding"
+      },
+      {
+        "t": 2242,
+        "heading": "The Litmus Test: Children of God and Children of the Devil"
+      },
+      {
+        "t": 2570,
+        "heading": "Abiding in Christ and Its Effect on Behavior"
+      }
+    ]
+  }
 }

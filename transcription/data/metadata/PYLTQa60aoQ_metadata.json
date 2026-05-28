@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PYLTQa60aoQ.vtt",
   "duration": 2578,
   "transcription_timestamp": "2025-04-17T07:07:31.655047",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An Easter exposition of Luke 24:36-53 on the bodily resurrection, post-resurrection appearances, and ascension of Jesus Christ, tracing the disciples' encounter with the risen Savior from the road to Emmaus through the commission to preach repentance and remission of sins to all nations.",
+    "themes": [
+      "bodily resurrection",
+      "post-resurrection appearances",
+      "the great commission",
+      "peace of god",
+      "ascension of christ",
+      "witness and evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Resurrection as Cornerstone of Faith"
+      },
+      {
+        "t": 93,
+        "heading": "Road to Emmaus: Setting the Scene"
+      },
+      {
+        "t": 505,
+        "heading": "Appearance of the Risen Savior"
+      },
+      {
+        "t": 1170,
+        "heading": "Assignment Given to the Disciples"
+      },
+      {
+        "t": 1940,
+        "heading": "Ascension of the Risen Savior"
+      },
+      {
+        "t": 2135,
+        "heading": "Impact on the Early Church"
+      }
+    ]
+  }
 }

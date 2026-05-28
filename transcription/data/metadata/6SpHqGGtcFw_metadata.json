@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6SpHqGGtcFw.vtt",
   "duration": 2381,
   "transcription_timestamp": "2025-04-17T02:18:14.882928",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 23:1-20 on the death and burial of Sarah, tracing Abraham's mourning, his negotiation with the sons of Heth for the cave of Machpelah, and what the passage reveals about his love, perspective, and character. Supporting texts from Ecclesiastes 7, Hebrews 2, Hebrews 11, and 1 Thessalonians 4 frame the chapter within a broader biblical theology of mortality and Christian hope.",
+    "themes": [
+      "death and mourning",
+      "christian hope",
+      "eternal perspective",
+      "character under trial",
+      "burial and property negotiation",
+      "the patriarchs"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Timeline of Sarah's Death"
+      },
+      {
+        "t": 236,
+        "heading": "Human Mortality and the House of Mourning"
+      },
+      {
+        "t": 590,
+        "heading": "Freedom from Fear of Death"
+      },
+      {
+        "t": 682,
+        "heading": "Abraham's Response: Mourning and Weeping"
+      },
+      {
+        "t": 963,
+        "heading": "Abraham's Request for a Burial Place"
+      },
+      {
+        "t": 1106,
+        "heading": "Negotiation and Transaction with Ephron"
+      },
+      {
+        "t": 1389,
+        "heading": "What the Passage Reveals: Love, Perspective, and Character"
+      }
+    ]
+  }
 }

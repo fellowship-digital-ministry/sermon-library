@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ae5Ae4szuGI.vtt",
   "duration": 3288.0,
   "transcription_timestamp": "2026-05-27T16:00:45.039628",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:16-18 on the sources of blessing and the new birth, framed as the second part of a study on the warning 'do not err.' The passage is read alongside 1 Thessalonians 2:13, Deuteronomy 8, 1 Corinthians 4, Romans 10, and John 17 to address erring with respect to God's benevolence, the origin of salvation, and the expectation of gospel harvest.",
+    "themes": [
+      "god's benevolence",
+      "immutability of god",
+      "the new birth",
+      "the gospel and preaching",
+      "firstfruits and harvest",
+      "biblical worldview"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Church at Thessalonica as Model"
+      },
+      {
+        "t": 324,
+        "heading": "Receiving God's Word as Authority"
+      },
+      {
+        "t": 599,
+        "heading": "Erring About the Source of Blessing"
+      },
+      {
+        "t": 883,
+        "heading": "Old and New Testament Warnings on Forgetting God"
+      },
+      {
+        "t": 1252,
+        "heading": "God's Immutability and Benevolence Exalted"
+      },
+      {
+        "t": 1625,
+        "heading": "James's Experience of the New Birth"
+      },
+      {
+        "t": 1994,
+        "heading": "The Word of God and Gospel Preaching"
+      },
+      {
+        "t": 2456,
+        "heading": "Firstfruits and the Expected Harvest"
+      }
+    ]
+  }
 }

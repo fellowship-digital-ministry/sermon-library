@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Itg0q1dr6jY.vtt",
   "duration": 2578.0,
   "transcription_timestamp": "2026-05-27T15:16:49.291070",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 6:3-4 on the second seal judgment, the red horse and its rider, set within a verse-by-verse series through Revelation. The passage is examined in relation to the tribulation period, the removal of peace from the earth, and the church's present responsibility to preach the gospel.",
+    "themes": [
+      "seal judgments",
+      "tribulation period",
+      "war and peace",
+      "rapture of the church",
+      "gospel urgency",
+      "eschatology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Series Context"
+      },
+      {
+        "t": 97,
+        "heading": "Introductory Passages on Gospel and Peace"
+      },
+      {
+        "t": 479,
+        "heading": "The Rapture and Post-Rapture Chaos"
+      },
+      {
+        "t": 714,
+        "heading": "Debate Over Seal Judgments as God's Wrath"
+      },
+      {
+        "t": 988,
+        "heading": "John's Eyewitness Account of the Second Seal"
+      },
+      {
+        "t": 1366,
+        "heading": "What the Rider Is Given: Power and a Great Sword"
+      },
+      {
+        "t": 1693,
+        "heading": "What the Rider Does: Peace Taken from the Earth"
+      },
+      {
+        "t": 1972,
+        "heading": "The Resulting Chaos and Application to Gospel Witness"
+      }
+    ]
+  }
 }

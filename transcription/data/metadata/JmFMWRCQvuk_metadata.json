@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JmFMWRCQvuk.vtt",
   "duration": 2624,
   "transcription_timestamp": "2025-04-17T14:22:13.803917",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 12:10-20 on Abram's journey into Egypt during a famine, tracing the difficulty in Canaan, the decisions Abram makes under pressure, and God's intervention on behalf of Sarai. Part of a continuing series through Genesis, set against the prior study of Genesis 12:1-9.",
+    "themes": [
+      "faith and obedience",
+      "difficulty in the christian life",
+      "relying on human understanding",
+      "god's providence",
+      "god's power",
+      "decision-making"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 238,
+        "heading": "The Difficulty in Canaan"
+      },
+      {
+        "t": 528,
+        "heading": "Obedience Leading Into Hardship"
+      },
+      {
+        "t": 821,
+        "heading": "The Decisions of Abram"
+      },
+      {
+        "t": 1297,
+        "heading": "The Demonstration of God's Power"
+      },
+      {
+        "t": 1850,
+        "heading": "Lessons From the Passage"
+      },
+      {
+        "t": 2446,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
 }

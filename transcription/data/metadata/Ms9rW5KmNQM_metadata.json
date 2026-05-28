@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ms9rW5KmNQM.vtt",
   "duration": 3026,
   "transcription_timestamp": "2025-04-15T08:53:04.162692",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:4-7 on God's revealed will for humanity, situated within Paul's broader exhortation on prayer. Three aspects of that will are drawn from the passage: the salvation of the lost, the spiritual growth of believers, and the responsibility of believers to share the gospel.",
+    "themes": [
+      "god's will",
+      "salvation",
+      "spiritual growth",
+      "evangelism and gospel witness",
+      "prayer",
+      "calvinism refuted"
+    ],
+    "sections": [
+      {
+        "t": 50,
+        "heading": "Context: Prayer Exhortation in 1 Timothy 2"
+      },
+      {
+        "t": 100,
+        "heading": "God's Will Revealed in Scripture"
+      },
+      {
+        "t": 295,
+        "heading": "God's Will: Lost People Saved"
+      },
+      {
+        "t": 484,
+        "heading": "Calvinism and the Meaning of 'All'"
+      },
+      {
+        "t": 1223,
+        "heading": "God's Will: Saved People Grow Spiritually"
+      },
+      {
+        "t": 2069,
+        "heading": "God's Will: Saved People Share the Gospel"
+      },
+      {
+        "t": 2650,
+        "heading": "Prayer Shaped by God's Will"
+      }
+    ]
+  }
 }

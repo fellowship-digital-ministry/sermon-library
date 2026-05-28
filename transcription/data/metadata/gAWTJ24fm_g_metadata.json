@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gAWTJ24fm_g.vtt",
   "duration": 2944,
   "transcription_timestamp": "2025-04-17T08:10:33.696165",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 17:1 on the name El Shaddai, the first occurrence of that divine name in the Old Testament, tracing God's self-revelation to Abram as the Almighty God and the corresponding demand for a complete, wholehearted walk before Him. The study extends into Ephesians 4-5 to draw out five descriptions of the believer's walk as a practical outworking of salvation.",
+    "themes": [
+      "names of god",
+      "divine revelation",
+      "the believer's walk",
+      "the abrahamic covenant",
+      "completeness in christ",
+      "faith in god's omnipotence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Return to Genesis 17"
+      },
+      {
+        "t": 47,
+        "heading": "El Shaddai: First Occurrence and Meaning"
+      },
+      {
+        "t": 190,
+        "heading": "Thirteen Silent Years Before the Greeting"
+      },
+      {
+        "t": 380,
+        "heading": "What God Declares: Revelation of the Almighty"
+      },
+      {
+        "t": 999,
+        "heading": "What God Demands: Walk and Be Perfect"
+      },
+      {
+        "t": 1472,
+        "heading": "Five Aspects of the Believer's Walk in Ephesians"
+      },
+      {
+        "t": 2361,
+        "heading": "Meditating on God's Identity Amid Present Chaos"
+      }
+    ]
+  }
 }

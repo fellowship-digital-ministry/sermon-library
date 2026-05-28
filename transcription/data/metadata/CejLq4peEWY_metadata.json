@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CejLq4peEWY.vtt",
   "duration": 2884,
   "transcription_timestamp": "2025-04-15T08:47:56.092725",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 48:1-22 on Jacob's blessing of Joseph's two sons, Ephraim and Manasseh, read alongside Hebrews 11:21 as a record of dying worship. The passage is treated in three movements: Jacob's praise for God's past provision, his present rejoicing at seeing Joseph and his sons, and his prophetic blessing placing Ephraim above the firstborn Manasseh.",
+    "themes": [
+      "worship",
+      "blessing of the next generation",
+      "faith at death",
+      "god's providence",
+      "passing faith to children and grandchildren",
+      "the firstborn reversed"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 279,
+        "heading": "Hebrews 11:21 and Jacob's Worship"
+      },
+      {
+        "t": 511,
+        "heading": "Jacob's Praise for God's Past Blessings"
+      },
+      {
+        "t": 838,
+        "heading": "The Present: Adoption of Ephraim and Manasseh"
+      },
+      {
+        "t": 1069,
+        "heading": "The Prophecy: Crossing of Hands and Ephraim's Blessing"
+      },
+      {
+        "t": 1398,
+        "heading": "Numbers 1 and 2: Fulfillment of the Prophecy"
+      },
+      {
+        "t": 1535,
+        "heading": "Worship in Scripture: 2 Chronicles 29, Malachi 1, Revelation 4 and 5"
+      },
+      {
+        "t": 2617,
+        "heading": "Application: Worshiping God Past, Present, and Future"
+      }
+    ]
+  }
 }

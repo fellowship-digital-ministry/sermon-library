@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Fa2tycL8Slk.vtt",
   "duration": 2889,
   "transcription_timestamp": "2025-04-17T09:17:22.002378",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 11:19-26, with readings drawn through Acts 13-14, on the church at Antioch as a model of establishment, instruction, obedience, and missionary sending. The phrase 'the disciples were called Christians first in Antioch' anchors an examination of what characterized these believers as followers of Christ.",
+    "themes": [
+      "the early church",
+      "discipleship",
+      "missionary sending",
+      "spiritual growth",
+      "obedience to god",
+      "christian identity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to the Church at Antioch"
+      },
+      {
+        "t": 382,
+        "heading": "Establishment of the Church"
+      },
+      {
+        "t": 855,
+        "heading": "Instruction by Barnabas and Saul"
+      },
+      {
+        "t": 1180,
+        "heading": "Individual and Corporate Spiritual Growth"
+      },
+      {
+        "t": 1641,
+        "heading": "The Name Christian and Living the Faith"
+      },
+      {
+        "t": 1781,
+        "heading": "The Church's Obedience and Missionary Sending"
+      },
+      {
+        "t": 2297,
+        "heading": "Reunion and Rehearsal of God's Work"
+      },
+      {
+        "t": 2677,
+        "heading": "The Church at Antioch as a Corporate Pattern"
+      }
+    ]
+  }
 }

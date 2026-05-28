@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iMFOWiAni18.vtt",
   "duration": 3213,
   "transcription_timestamp": "2025-04-14T19:25:02.138473",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:10-13 on the judgment seat of Christ, addressed to believers, covering the certainty of this future event, its distinction from judgment for sin, and the evaluation of works for reward or loss.",
+    "themes": [
+      "judgment seat of christ",
+      "eternal accountability",
+      "rewards and loss",
+      "motives for service",
+      "eternal perspective",
+      "pleasing god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in 2 Corinthians 4-5"
+      },
+      {
+        "t": 341,
+        "heading": "Reality and Certainty of the Judgment"
+      },
+      {
+        "t": 633,
+        "heading": "Two Judgments: Saved and Lost"
+      },
+      {
+        "t": 1009,
+        "heading": "What the Judgment Is Not"
+      },
+      {
+        "t": 1437,
+        "heading": "Works Tried by Fire: Rewards and Loss"
+      },
+      {
+        "t": 2256,
+        "heading": "The Believer's Response"
+      },
+      {
+        "t": 2853,
+        "heading": "Crowns Cast Before the Throne"
+      }
+    ]
+  }
 }

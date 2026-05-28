@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/RNHeQGD_erM.vtt",
   "duration": 3035.0,
   "transcription_timestamp": "2026-05-27T17:31:07.663356",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 23:4 on the phrase 'thou art with me,' examining God's presence as a source of comfort and courage for believers. Old and New Testament figures including Jacob, Joshua, and Jeremiah illustrate how the promise of divine presence equips God's people to carry out assigned tasks.",
+    "themes": [
+      "god's presence",
+      "comfort",
+      "courage",
+      "thankfulness",
+      "the great commission",
+      "the holy spirit as comforter"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Call to Thankfulness"
+      },
+      {
+        "t": 275,
+        "heading": "Psalm 23 Introduced"
+      },
+      {
+        "t": 512,
+        "heading": "Focus on 'Thou Art With Me'"
+      },
+      {
+        "t": 558,
+        "heading": "God's Presence Brings Comfort"
+      },
+      {
+        "t": 1217,
+        "heading": "God's Presence Brings Courage"
+      },
+      {
+        "t": 1262,
+        "heading": "Jacob, Joshua, and Jeremiah: Presence Promised"
+      },
+      {
+        "t": 2375,
+        "heading": "The Great Commission and God's Presence"
+      }
+    ]
+  }
 }

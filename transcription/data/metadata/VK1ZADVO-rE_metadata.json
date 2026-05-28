@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VK1ZADVO-rE.vtt",
   "duration": 2879,
   "transcription_timestamp": "2025-04-16T14:54:46.554099",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 8:1-4 on the scattering of the Jerusalem church under persecution and the resulting spread of the gospel, set within a survey of church growth from Acts 1 through 7. The sovereignty of God in using opposition to advance the gospel is traced through the narrative of Saul's persecution, the dispersion of believers, and the parallel of Joseph in Genesis 45 and 50.",
+    "themes": [
+      "persecution of the early church",
+      "scattering and gospel advancement",
+      "sovereignty of god",
+      "witnessing and evangelism",
+      "missions",
+      "the great commission"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Survey of Acts 1 Through 7"
+      },
+      {
+        "t": 570,
+        "heading": "Acts 8:1-4 Introduced in Context"
+      },
+      {
+        "t": 806,
+        "heading": "Reason for the Scattering: Great Persecution"
+      },
+      {
+        "t": 947,
+        "heading": "Saul Making Havoc of the Church"
+      },
+      {
+        "t": 1135,
+        "heading": "Result of the Scattering: Preaching Everywhere"
+      },
+      {
+        "t": 1184,
+        "heading": "Joseph in Genesis 45 and 50: God's Sovereign Purpose"
+      },
+      {
+        "t": 1692,
+        "heading": "World Turned Upside Down: Acts 17"
+      },
+      {
+        "t": 2017,
+        "heading": "Go and Tell: Mark 5 and Missions Application"
+      }
+    ]
+  }
 }

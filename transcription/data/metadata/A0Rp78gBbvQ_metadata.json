@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\A0Rp78gBbvQ.vtt",
   "duration": 3197,
   "transcription_timestamp": "2025-04-14T20:26:34.568949",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 14:1-3 on the promise of Christ's return, tracing the rapture and its implications through 1 Thessalonians 4, 1 Corinthians 15, 2 Peter 3, and related passages. The sermon examines how belief in the imminent return of Christ should shape the daily conduct of believers.",
+    "themes": [
+      "second coming of christ",
+      "the rapture",
+      "evangelism",
+      "christian service",
+      "expectancy and readiness",
+      "eschatology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Praise and Context"
+      },
+      {
+        "t": 373,
+        "heading": "John 14:1-3 and the Promise of Return"
+      },
+      {
+        "t": 696,
+        "heading": "1 Thessalonians 4 and the Rapture"
+      },
+      {
+        "t": 976,
+        "heading": "Belief Impacting Behavior"
+      },
+      {
+        "t": 1356,
+        "heading": "Service Energized by Christ's Return"
+      },
+      {
+        "t": 1599,
+        "heading": "Engagement in Evangelism"
+      },
+      {
+        "t": 2596,
+        "heading": "Living with Expectancy"
+      },
+      {
+        "t": 3029,
+        "heading": "Call to Salvation and Closing"
+      }
+    ]
+  }
 }

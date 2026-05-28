@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\otLjEpBz9Rk.vtt",
   "duration": 1842,
   "transcription_timestamp": "2025-04-17T10:06:55.606243",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition anchored in John 20:28-29 on the identity and power of Jesus Christ, drawing on Thomas's confession 'My Lord and my God' as a springboard for a multi-part study of why Christ holds supreme worth for the believer.",
+    "themes": [
+      "deity of christ",
+      "humanity of christ",
+      "miracles and power of jesus",
+      "incarnation",
+      "the great commission",
+      "knowing who jesus is"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Thomas's Confession"
+      },
+      {
+        "t": 138,
+        "heading": "Confusion About Christ's Identity"
+      },
+      {
+        "t": 233,
+        "heading": "Series Title and Song Introduced"
+      },
+      {
+        "t": 421,
+        "heading": "Reason One: Who Jesus Is, His Deity and Humanity"
+      },
+      {
+        "t": 658,
+        "heading": "Evidence of Christ's Deity: Forgiveness and Miracles"
+      },
+      {
+        "t": 994,
+        "heading": "Reason Two: The Mighty Power of Christ"
+      },
+      {
+        "t": 1600,
+        "heading": "All Power and the Great Commission"
+      }
+    ]
+  }
 }

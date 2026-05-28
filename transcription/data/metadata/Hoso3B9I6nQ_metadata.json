@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Hoso3B9I6nQ.vtt",
   "duration": 1367,
   "transcription_timestamp": "2025-04-17T06:09:05.787409",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 14:21-28 on the return of Paul and Barnabas to the church at Antioch after the first missionary journey, focusing on the practice of missionaries reporting to their sending church and the congregation's response. Delivered as a preparatory message before a local church missions conference.",
+    "themes": [
+      "missionary reporting",
+      "sending church",
+      "missions conference",
+      "co-laboring in missions",
+      "church assembly",
+      "missionary follow-up"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "First Missionary Journey Overview"
+      },
+      {
+        "t": 96,
+        "heading": "Follow-Up Work and Church Establishment"
+      },
+      {
+        "t": 240,
+        "heading": "The Missionaries Return to Antioch"
+      },
+      {
+        "t": 429,
+        "heading": "The Church Gathered to Hear the Report"
+      },
+      {
+        "t": 673,
+        "heading": "Co-Laboring and God Giving the Increase"
+      },
+      {
+        "t": 816,
+        "heading": "Upcoming Missions Conference and Missionary Updates"
+      },
+      {
+        "t": 913,
+        "heading": "The People Rejoice Over God's Work"
+      }
+    ]
+  }
 }

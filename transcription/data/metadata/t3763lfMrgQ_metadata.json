@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\t3763lfMrgQ.vtt",
   "duration": 1505,
   "transcription_timestamp": "2025-04-16T15:42:17.848889",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philippians 4:10-12 on contentment as a learned disposition, situated within a Wednesday evening series titled 'Teach Me.' Paul's statement 'I have learned in whatsoever state I am therewith to be content,' written from a Roman prison, serves as the anchor for examining what contentment is, why it must be learned, and what works against it.",
+    "themes": [
+      "contentment",
+      "covetousness",
+      "sovereignty of god",
+      "want and abundance",
+      "joy",
+      "learning from circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 94,
+        "heading": "Joy and Contentment in Philippians"
+      },
+      {
+        "t": 192,
+        "heading": "Definition of Contentment"
+      },
+      {
+        "t": 338,
+        "heading": "Contentment Not a Default Setting"
+      },
+      {
+        "t": 526,
+        "heading": "The Classroom of Want"
+      },
+      {
+        "t": 666,
+        "heading": "Proper View of God and Sovereignty"
+      },
+      {
+        "t": 1176,
+        "heading": "Hebrews 13 and the Warning Against Covetousness"
+      },
+      {
+        "t": 1273,
+        "heading": "Covetousness as the Enemy of Contentment"
+      }
+    ]
+  }
 }

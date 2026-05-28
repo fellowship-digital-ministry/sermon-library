@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\20HHrsvLvZg.vtt",
   "duration": 3079,
   "transcription_timestamp": "2025-04-17T01:24:53.008093",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 4:10 on the gift of God as eternal life through Jesus Christ, developed through Jesus's encounter with the Samaritan woman at the well and supported by Romans 6:23, 2 Corinthians 9:15, and 1 Peter 1:17-19.",
+    "themes": [
+      "eternal life as gift",
+      "salvation by grace",
+      "the blood of christ",
+      "witness and testimony",
+      "praise and gratitude",
+      "the woman at the well"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Christmas Gifts and Commercialism"
+      },
+      {
+        "t": 184,
+        "heading": "John 4: Jesus and the Woman at the Well"
+      },
+      {
+        "t": 416,
+        "heading": "His Gift to Me: Eternal Life"
+      },
+      {
+        "t": 1125,
+        "heading": "The Gift Available to All"
+      },
+      {
+        "t": 1643,
+        "heading": "My Gift to Him: Praise and Life"
+      },
+      {
+        "t": 2214,
+        "heading": "The Woman Receives and Shares the Gift"
+      },
+      {
+        "t": 2729,
+        "heading": "Bringing Others to Jesus"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6dYI_cEbDbI.vtt",
   "duration": 3452.0,
   "transcription_timestamp": "2026-05-27T15:09:25.887145",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 2:21-24 on the relationship between faith and works, using Abraham as the primary illustration. Examines two distinct Old Testament events in Abraham's life to argue that visible behavior is the evidence of genuine saving faith.",
+    "themes": [
+      "faith and works",
+      "genuine conversion",
+      "abraham as illustration",
+      "justification",
+      "living by faith",
+      "behavior as evidence of belief"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 49,
+        "heading": "Review of the Principle from James 2:14-20"
+      },
+      {
+        "t": 343,
+        "heading": "Definition of Justified in James 2:21"
+      },
+      {
+        "t": 585,
+        "heading": "Considering the Two Events: Genesis 15 and Genesis 22"
+      },
+      {
+        "t": 1139,
+        "heading": "Romans 4 and Imputed Righteousness"
+      },
+      {
+        "t": 2155,
+        "heading": "Abraham's Faith on Display in Genesis 22"
+      },
+      {
+        "t": 2550,
+        "heading": "Hebrews 11 and the Faith Behind the Works"
+      },
+      {
+        "t": 2879,
+        "heading": "The Emphasis: Faith Made Evident Through Works"
+      }
+    ]
+  }
 }

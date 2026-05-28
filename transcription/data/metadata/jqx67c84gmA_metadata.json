@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jqx67c84gmA.vtt",
   "duration": 2824,
   "transcription_timestamp": "2025-04-16T13:08:27.383468",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 24:16 on Paul's stated goal of maintaining a conscience void of offense toward God and toward men, presented as the third message in a series on preparation for revival. The sermon draws on multiple New Testament and Old Testament passages to outline practical steps toward unobstructed fellowship with God.",
+    "themes": [
+      "revival preparation",
+      "conscience",
+      "self-examination",
+      "obedience to scripture",
+      "the temple of the holy spirit",
+      "proving what pleases god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival's Cost and Context"
+      },
+      {
+        "t": 322,
+        "heading": "Acts 24:16 Introduced"
+      },
+      {
+        "t": 464,
+        "heading": "Paul's Conscience Before the Sanhedrin and Felix"
+      },
+      {
+        "t": 696,
+        "heading": "First Practice: Examine Yourself"
+      },
+      {
+        "t": 1122,
+        "heading": "Second Practice: Prove What Is Acceptable"
+      },
+      {
+        "t": 1585,
+        "heading": "The Temple of God and Defilement"
+      },
+      {
+        "t": 2146,
+        "heading": "Third Practice: Be Doers of the Word"
+      }
+    ]
+  }
 }

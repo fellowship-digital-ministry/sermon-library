@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KksZiwr6dhM.vtt",
   "duration": 2704,
   "transcription_timestamp": "2025-04-15T01:19:21.014585",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A practical study in Matthew 4:19 and 1 Corinthians 1-3 and 9 on the methods and mindset of personal evangelism, forming part two of a series on being fishers of men. The sermon moves from the theology of gospel proclamation in 1 Corinthians to seven practical steps for steering conversations toward the gospel.",
+    "themes": [
+      "personal evangelism",
+      "gospel proclamation",
+      "dependence on the holy spirit",
+      "door-to-door witnessing",
+      "humility in witness",
+      "leaving doors open for follow-up"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Matthew 4:19 and Series Context"
+      },
+      {
+        "t": 94,
+        "heading": "1 Corinthians 1-2 on Preaching the Gospel"
+      },
+      {
+        "t": 522,
+        "heading": "Preparation Versus Dependence on the Spirit"
+      },
+      {
+        "t": 712,
+        "heading": "1 Corinthians 9 and Becoming All Things to All Men"
+      },
+      {
+        "t": 1046,
+        "heading": "Seven Practical Steps Toward the Gospel"
+      },
+      {
+        "t": 1787,
+        "heading": "Sharing Personal Testimony"
+      },
+      {
+        "t": 2109,
+        "heading": "Leaving the Door Open, 1 Corinthians 3"
+      }
+    ]
+  }
 }

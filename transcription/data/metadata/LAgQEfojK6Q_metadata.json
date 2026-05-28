@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LAgQEfojK6Q.vtt",
   "duration": 2647,
   "transcription_timestamp": "2025-04-17T09:39:02.145226",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 2:10 on the meaning of being 'complete in Christ,' used as the annual theme verse for a congregation entering its tenth year under the same pastor. The message traces human incompleteness from Genesis through the Fall, the new birth as the basis of completeness, and the warnings and encouragements of Colossians 2:6-10.",
+    "themes": [
+      "completeness in christ",
+      "the new birth",
+      "human nature as trichotomy",
+      "spiritual death and sin",
+      "false teaching and warnings",
+      "identity and acceptance in christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Scriptures and Introduction"
+      },
+      {
+        "t": 97,
+        "heading": "Annual Church Themes in Review"
+      },
+      {
+        "t": 424,
+        "heading": "2021 Theme Verse: Colossians 2:10"
+      },
+      {
+        "t": 616,
+        "heading": "What It Means to Be Complete in Him"
+      },
+      {
+        "t": 1123,
+        "heading": "Why Paul Calls the Colossians Complete"
+      },
+      {
+        "t": 1370,
+        "heading": "The Question of Personal Salvation"
+      },
+      {
+        "t": 1660,
+        "heading": "How This Truth Should Impact Believers"
+      }
+    ]
+  }
 }

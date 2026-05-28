@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Mg6Jl4Z1Y9c.vtt",
   "duration": 3533,
   "transcription_timestamp": "2025-04-17T10:03:49.871288",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 15:51-58 on the certainty of the bodily resurrection and its bearing on present Christian conduct, with supporting passages drawn from 2 Corinthians 5, Philippians 1, 2 Timothy 4, Hebrews 2, Galatians 6, and Malachi 3.",
+    "themes": [
+      "resurrection",
+      "rapture",
+      "immortality",
+      "living by faith",
+      "stewardship and giving",
+      "gospel witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Reading"
+      },
+      {
+        "t": 141,
+        "heading": "Resurrection as Cornerstone of Faith"
+      },
+      {
+        "t": 286,
+        "heading": "Certainty of the Promise: Verses 51-57"
+      },
+      {
+        "t": 1075,
+        "heading": "Paul's Life Shaped by the Promise"
+      },
+      {
+        "t": 1553,
+        "heading": "Conduct in the Present: Verse 58"
+      },
+      {
+        "t": 2074,
+        "heading": "Three Present Opportunities: Faith, Gospel, Giving"
+      },
+      {
+        "t": 3117,
+        "heading": "C.T. Studd Poem and Closing Appeal"
+      }
+    ]
+  }
 }

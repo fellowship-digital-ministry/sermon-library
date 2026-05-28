@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ufw5LOw3rkA.vtt",
   "duration": 3219,
   "transcription_timestamp": "2025-04-17T14:27:32.047875",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 10:26-39 concluding the book's section on the superiority of Christ's priesthood, covering willful sin and judgment, the sufferings of early believers, and encouragement through the promise of Christ's return and the principle of living by faith.",
+    "themes": [
+      "superiority of christ's priesthood",
+      "efficacy of christ's blood",
+      "perseverance under persecution",
+      "the return of christ",
+      "living by faith",
+      "judgment for rejecting the gospel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 464,
+        "heading": "What Is Explained: Efficacy of Christ's Blood"
+      },
+      {
+        "t": 844,
+        "heading": "Old Testament Examples of Judgment"
+      },
+      {
+        "t": 1265,
+        "heading": "Rejecting Christ and Fearful Judgment"
+      },
+      {
+        "t": 1501,
+        "heading": "What They Endured: Afflictions and Compassion"
+      },
+      {
+        "t": 2022,
+        "heading": "How They Were Encouraged: Promise of Christ's Return"
+      },
+      {
+        "t": 2439,
+        "heading": "Encouragement by Principle: The Just Shall Live by Faith"
+      }
+    ]
+  }
 }

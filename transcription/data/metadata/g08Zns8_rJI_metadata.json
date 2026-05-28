@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\g08Zns8_rJI.vtt",
   "duration": 2000,
   "transcription_timestamp": "2025-04-15T06:28:37.530329",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:25 on the ministry of intercessory prayer, organized around Paul's request 'brethren, pray for us' and what it reveals about the practice and purpose of praying for fellow believers.",
+    "themes": [
+      "intercessory prayer",
+      "prayer for missionaries",
+      "prayer as privilege of the redeemed",
+      "boldness in ministry",
+      "praying specifically for others"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Paul's Call to Prayer"
+      },
+      {
+        "t": 95,
+        "heading": "The Simplicity of the Request"
+      },
+      {
+        "t": 144,
+        "heading": "Paul's Own Prayer for the Thessalonians"
+      },
+      {
+        "t": 470,
+        "heading": "The Sincerity of the Request"
+      },
+      {
+        "t": 561,
+        "heading": "Specific Prayer Requests in Ephesians and Colossians"
+      },
+      {
+        "t": 1030,
+        "heading": "The Supplication of the Recipients"
+      },
+      {
+        "t": 1219,
+        "heading": "Second Thessalonians: Evidence of Their Prayers"
+      }
+    ]
+  }
 }

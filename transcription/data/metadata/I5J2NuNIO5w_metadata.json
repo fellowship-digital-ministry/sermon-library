@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I5J2NuNIO5w.vtt",
   "duration": 3530,
   "transcription_timestamp": "2025-04-17T16:45:50.506357",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 7:1-28 on the priesthood of Jesus Christ as superior to the Levitical order, structured around the figure of Melchizedek as an Old Testament type and the messianic prophecy of Psalm 110:4. Parallel passages in Galatians 3 and Romans 10 are drawn in to address the insufficiency of the law alongside the insufficiency of the Aaronic priesthood.",
+    "themes": [
+      "priesthood of christ",
+      "melchizedek typology",
+      "levitical priesthood",
+      "superiority of christ",
+      "old testament types and fulfillment",
+      "intercession"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context from Prior Chapters"
+      },
+      {
+        "t": 197,
+        "heading": "Description of Melchizedek"
+      },
+      {
+        "t": 1096,
+        "heading": "Insufficiency of the Levitical Priesthood"
+      },
+      {
+        "t": 1329,
+        "heading": "The Law Also Cannot Perfect"
+      },
+      {
+        "t": 1672,
+        "heading": "The Priesthood and Tribe of Christ"
+      },
+      {
+        "t": 2098,
+        "heading": "Superiority of Christ's Priesthood"
+      },
+      {
+        "t": 2616,
+        "heading": "The One Sacrifice and Intercession"
+      },
+      {
+        "t": 3036,
+        "heading": "Application to Living Witness"
+      }
+    ]
+  }
 }

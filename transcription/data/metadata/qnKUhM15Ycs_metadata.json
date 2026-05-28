@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qnKUhM15Ycs.vtt",
   "duration": 2172,
   "transcription_timestamp": "2025-04-17T08:55:23.090199",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Leviticus 18:1-5 on God's authority as the basis for holy living, set against the backdrop of contemporary legislation and social change. The passage is read alongside Deuteronomy 6 and 10 to frame obedience to God's statutes as both commanded and beneficial for his people in every generation.",
+    "themes": [
+      "holy living",
+      "biblical authority",
+      "worldly influence",
+      "obedience to god's word",
+      "family and generational faithfulness",
+      "church and society"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Leviticus as Relevant Scripture"
+      },
+      {
+        "t": 47,
+        "heading": "Wicked Society, Last Days Context"
+      },
+      {
+        "t": 477,
+        "heading": "Leviticus 18:1-5 Introduced"
+      },
+      {
+        "t": 528,
+        "heading": "God's Authority and Covenant Position"
+      },
+      {
+        "t": 619,
+        "heading": "What Is Forbidden: Egypt and Canaan"
+      },
+      {
+        "t": 1109,
+        "heading": "What Is Commanded: God's Judgments and Statutes"
+      },
+      {
+        "t": 1482,
+        "heading": "Knowing the Word to Instruct Children"
+      },
+      {
+        "t": 1806,
+        "heading": "Prayer, the Gospel, and Being Lights"
+      }
+    ]
+  }
 }

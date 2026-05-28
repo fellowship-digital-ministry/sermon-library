@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/JfrAhHAmdbY.vtt",
   "duration": 3113.0,
   "transcription_timestamp": "2026-05-28T16:03:15.104992",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 3:20-21 on the unlimited power of God set against the poverty of human thinking, using the Israelites at the Red Sea and the annunciation to Mary as primary illustrations of divine possibility exceeding human conception.",
+    "themes": [
+      "the power of god",
+      "prayer",
+      "the holy spirit",
+      "human limitation",
+      "faith",
+      "glorifying god"
+    ],
+    "sections": [
+      {
+        "t": 137,
+        "heading": "Israel at the Red Sea"
+      },
+      {
+        "t": 644,
+        "heading": "The Possibilities of God"
+      },
+      {
+        "t": 793,
+        "heading": "Mary and the Supernatural"
+      },
+      {
+        "t": 1081,
+        "heading": "The Poverty of Human Thinking"
+      },
+      {
+        "t": 1598,
+        "heading": "The Spirit Working Within"
+      },
+      {
+        "t": 2212,
+        "heading": "The Purpose of Human Existence"
+      },
+      {
+        "t": 2449,
+        "heading": "Limiting God Examined"
+      },
+      {
+        "t": 2740,
+        "heading": "Call to Prayer for Impossible Things"
+      }
+    ]
+  }
 }

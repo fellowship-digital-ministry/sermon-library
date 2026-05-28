@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vbzVT4V_Mu8.vtt",
   "duration": 2222,
   "transcription_timestamp": "2025-04-15T08:14:13.934579",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:16 on the command to rejoice evermore, organized around three reasons God's people should rejoice at all times: God's power, God's purpose, and God's plan.",
+    "themes": [
+      "joy and rejoicing",
+      "god's power",
+      "god's purpose",
+      "god's plan",
+      "murmuring and complaining",
+      "obedience"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Introduction to Rejoice Evermore"
+      },
+      {
+        "t": 188,
+        "heading": "The Command and Its Meaning"
+      },
+      {
+        "t": 471,
+        "heading": "Reason One: God Has All Power"
+      },
+      {
+        "t": 978,
+        "heading": "Reason Two: God Has a Purpose"
+      },
+      {
+        "t": 1162,
+        "heading": "Reason Three: God Has a Plan"
+      },
+      {
+        "t": 1677,
+        "heading": "Old Testament Example: Exodus 13-14"
+      },
+      {
+        "t": 1904,
+        "heading": "New Testament Example: John 11"
+      }
+    ]
+  }
 }

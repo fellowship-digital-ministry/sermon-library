@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\CECxpbAod2A.vtt",
   "duration": 2853,
   "transcription_timestamp": "2025-04-15T23:24:23.750113",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 41:44-53 on Joseph's elevation to second-in-command in Egypt, covering the seven years of plenty and the naming of his two sons, Manasseh and Ephraim, as a lens for examining preparation and perspective in seasons of affliction.",
+    "themes": [
+      "preparation",
+      "affliction",
+      "fruitfulness",
+      "perspective",
+      "faithfulness",
+      "bitterness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Joseph's Rise in Egypt"
+      },
+      {
+        "t": 144,
+        "heading": "Overview of the Seven Years of Plenty"
+      },
+      {
+        "t": 425,
+        "heading": "Principle of Preparation: Joseph at 30"
+      },
+      {
+        "t": 804,
+        "heading": "Faithfulness in Little Things: Luke 16 and 19"
+      },
+      {
+        "t": 1181,
+        "heading": "Principle of Perspective: Naming the Two Sons"
+      },
+      {
+        "t": 1466,
+        "heading": "Forgetting the Past: Philippians 3"
+      },
+      {
+        "t": 1812,
+        "heading": "Fruitfulness in Affliction: John 15"
+      },
+      {
+        "t": 2289,
+        "heading": "The Thessalonian Church: Fruitful Under Persecution"
+      }
+    ]
+  }
 }

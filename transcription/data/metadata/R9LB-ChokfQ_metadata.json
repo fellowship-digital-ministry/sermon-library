@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R9LB-ChokfQ.vtt",
   "duration": 2032,
   "transcription_timestamp": "2025-04-15T01:39:40.842151",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Thessalonians 3:14-15 on the purpose and process of church discipline, set within a series on walking worthy. The passage is examined to distinguish restoration as the goal of discipline from excommunication as a final outcome.",
+    "themes": [
+      "church discipline",
+      "restoration",
+      "separation from disorderly members",
+      "the heart of god",
+      "admonition",
+      "obedience to instruction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 138,
+        "heading": "Instruction Rejected in Scripture"
+      },
+      {
+        "t": 326,
+        "heading": "Text Introduced: 2 Thessalonians 3:14-15"
+      },
+      {
+        "t": 462,
+        "heading": "Instruction to Believers: Identify and Separate"
+      },
+      {
+        "t": 931,
+        "heading": "Impact on the Offender: Shame"
+      },
+      {
+        "t": 1165,
+        "heading": "Intended Purpose: Brother, Not Enemy"
+      },
+      {
+        "t": 1395,
+        "heading": "Galatians 6 and the Spirit of Restoration"
+      },
+      {
+        "t": 1694,
+        "heading": "Psalm 23 and God as Restorer"
+      }
+    ]
+  }
 }

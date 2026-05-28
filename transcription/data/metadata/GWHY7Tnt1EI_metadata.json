@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GWHY7Tnt1EI.vtt",
   "duration": 1865,
   "transcription_timestamp": "2025-04-16T10:23:51.487020",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 33:1-20 on Jacob's reunion with Esau, tracing Jacob's embrace of his brother, his testimony of God's gracious blessing, and his erection of an altar named El Elohi Israel. Forgiveness, reconciliation, and acknowledgment of divine provision are drawn from the narrative.",
+    "themes": [
+      "forgiveness and reconciliation",
+      "god's blessing and provision",
+      "giving god glory",
+      "worship and altars",
+      "god's omnipotence",
+      "restoration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 141,
+        "heading": "Jacob Embraces Esau"
+      },
+      {
+        "t": 232,
+        "heading": "Forgiveness and Reconciliation"
+      },
+      {
+        "t": 516,
+        "heading": "Jacob Explains God's Blessing"
+      },
+      {
+        "t": 934,
+        "heading": "God's Daily Benefits"
+      },
+      {
+        "t": 1312,
+        "heading": "Jacob's Departure and Journey"
+      },
+      {
+        "t": 1453,
+        "heading": "Jacob Erects an Altar"
+      }
+    ]
+  }
 }

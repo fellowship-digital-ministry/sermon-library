@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/oWFAJx32eUI.vtt",
   "duration": 2952.0,
   "transcription_timestamp": "2026-05-28T16:37:15.425825",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 8:16-17 on the nature of God's work in the human heart, centered on Paul's recognition of and thanksgiving for what God placed in the heart of Titus. Supporting passages from 2 Chronicles 16, 17, and 34, Jeremiah 17, Psalm 119, and Nehemiah 2 illustrate the kinds of hearts in which God works.",
+    "themes": [
+      "the heart",
+      "sensitivity and submission to god",
+      "recognizing god's work in others",
+      "response to god's word",
+      "earnest care",
+      "revival and spiritual readiness"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Series Context: 2 Corinthians 8"
+      },
+      {
+        "t": 323,
+        "heading": "What Paul Recognized in Verse 16"
+      },
+      {
+        "t": 462,
+        "heading": "How Paul Rejoiced Over Titus"
+      },
+      {
+        "t": 698,
+        "heading": "How Titus Responded: Sensitivity and Submission"
+      },
+      {
+        "t": 1125,
+        "heading": "God's Emphasis on the Heart in Scripture"
+      },
+      {
+        "t": 1406,
+        "heading": "Hearts God Works In: Examples from 2 Chronicles"
+      },
+      {
+        "t": 2550,
+        "heading": "Nehemiah: Recognizing What God Put in the Heart"
+      }
+    ]
+  }
 }

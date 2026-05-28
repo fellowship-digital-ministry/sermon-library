@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/npp6nsROFsk.vtt",
   "duration": 3421.0,
   "transcription_timestamp": "2026-05-27T17:14:22.099942",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 13:1-10 on self-examination, spiritual maturity, and the unchanging standard of God's truth, addressed to believers who have spent more time scrutinizing the apostle Paul than their own lives.",
+    "themes": [
+      "self-examination",
+      "salvation assurance",
+      "spiritual maturity",
+      "the unchanging truth of scripture",
+      "church discipline",
+      "accountability before god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Introduction"
+      },
+      {
+        "t": 278,
+        "heading": "Original Recipients and the Question of Response"
+      },
+      {
+        "t": 557,
+        "heading": "The Reminder: Paul's Visits and Unchanging Truth"
+      },
+      {
+        "t": 837,
+        "heading": "The Crucifixion, Resurrection, and Weakness"
+      },
+      {
+        "t": 1025,
+        "heading": "The Demand: Examine Yourselves"
+      },
+      {
+        "t": 1876,
+        "heading": "Paul's Concern for Their Deeds and Honesty"
+      },
+      {
+        "t": 2107,
+        "heading": "Paul's Concern for Their Spiritual Maturity"
+      },
+      {
+        "t": 2666,
+        "heading": "How Spiritual Maturity Is Accomplished Through Scripture"
+      }
+    ]
+  }
 }

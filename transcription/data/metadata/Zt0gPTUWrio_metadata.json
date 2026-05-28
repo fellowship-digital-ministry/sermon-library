@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Zt0gPTUWrio.vtt",
   "duration": 2766,
   "transcription_timestamp": "2025-04-17T04:23:53.043668",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 21:8-21 on the weaning of Isaac and the casting out of Hagar and Ishmael, read alongside Galatians 4:21-31 as the New Testament allegorical interpretation of the two covenants and two natures.",
+    "themes": [
+      "law and grace",
+      "two covenants",
+      "flesh and spirit",
+      "obedience",
+      "allegory in scripture",
+      "the old and new nature"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Timeline of Ages"
+      },
+      {
+        "t": 187,
+        "heading": "The Historical Account Introduced"
+      },
+      {
+        "t": 237,
+        "heading": "Ishmael Mocking and Family Conflict"
+      },
+      {
+        "t": 427,
+        "heading": "God Speaks and Abraham Obeys"
+      },
+      {
+        "t": 802,
+        "heading": "Hagar and Ishmael in the Wilderness"
+      },
+      {
+        "t": 1034,
+        "heading": "Galatians 4 and the Spiritual Application"
+      },
+      {
+        "t": 1469,
+        "heading": "The Two Covenants: Bondage and Freedom"
+      },
+      {
+        "t": 2002,
+        "heading": "The Two Natures: Flesh and Spirit"
+      }
+    ]
+  }
 }

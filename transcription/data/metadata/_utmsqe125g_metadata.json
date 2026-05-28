@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_utmsqe125g.vtt",
   "duration": 3358,
   "transcription_timestamp": "2025-04-16T01:14:37.464952",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:1-9 on the believer's confidence in eternity and the call to live in light of that hope, set within a broader series on the greatness of God revealed through his plan of redemption, individual purpose, and eternal destiny.",
+    "themes": [
+      "eternity",
+      "assurance of salvation",
+      "the return of christ",
+      "living in light of eternity",
+      "longing for heaven",
+      "god's plan"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 468,
+        "heading": "Survey of Eternity Passages"
+      },
+      {
+        "t": 977,
+        "heading": "What God Has Revealed to His People"
+      },
+      {
+        "t": 1254,
+        "heading": "Confidence, Fear of Death, and the Earnest of the Spirit"
+      },
+      {
+        "t": 1674,
+        "heading": "How God's People Should Respond"
+      },
+      {
+        "t": 2055,
+        "heading": "Longing for Heaven and Eternal Perspective"
+      },
+      {
+        "t": 2476,
+        "heading": "Living in Light of Eternity"
+      },
+      {
+        "t": 2948,
+        "heading": "Diligence, Acceptance, and Not Being Ashamed"
+      }
+    ]
+  }
 }

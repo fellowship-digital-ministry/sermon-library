@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\317YMHnIXHg.vtt",
   "duration": 3658,
   "transcription_timestamp": "2025-04-17T13:33:03.725011",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:32-40 on the concluding figures and events of the faith chapter, tracing both the accomplishments and adversities of Old Testament believers and connecting their unfulfilled expectation of Messiah to the position of those now living on the post-Calvary side of redemptive history.",
+    "themes": [
+      "living by faith",
+      "adversity and suffering",
+      "old testament heroes of faith",
+      "god's definition of success",
+      "the coming of messiah",
+      "faithfulness under persecution"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in Hebrews 10-12"
+      },
+      {
+        "t": 286,
+        "heading": "Two Principles Introduced"
+      },
+      {
+        "t": 666,
+        "heading": "The Accomplishments: Faith on the Mountaintop"
+      },
+      {
+        "t": 1225,
+        "heading": "The Adversities: Faith in the Valley"
+      },
+      {
+        "t": 1457,
+        "heading": "Old Testament Examples of Faithful Suffering"
+      },
+      {
+        "t": 2630,
+        "heading": "These All: A Good Report Through Faith"
+      },
+      {
+        "t": 2921,
+        "heading": "The Promise Received Not: Messiah and God's Timeline"
+      },
+      {
+        "t": 3112,
+        "heading": "Better Thing for Us: Living on This Side of Calvary"
+      }
+    ]
+  }
 }

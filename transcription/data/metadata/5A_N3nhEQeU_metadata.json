@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5A_N3nhEQeU.vtt",
   "duration": 2586.0,
   "transcription_timestamp": "2026-05-27T15:25:53.088527",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 118:1-29 on the reasons for praise found throughout the psalm, organized around the psalmist's declaration in verse 28 that God is personal, knowable, and worthy of exaltation.",
+    "themes": [
+      "praise and thanksgiving",
+      "mercy of god",
+      "personal relationship with god",
+      "answered prayer",
+      "chastisement",
+      "god's power and strength"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Verses 28-29"
+      },
+      {
+        "t": 95,
+        "heading": "Personal Knowledge of God"
+      },
+      {
+        "t": 375,
+        "heading": "God's Mercy Endures Forever"
+      },
+      {
+        "t": 664,
+        "heading": "Answered Prayer and God's Faithfulness"
+      },
+      {
+        "t": 1151,
+        "heading": "God's Strength, Song, and Salvation"
+      },
+      {
+        "t": 1960,
+        "heading": "Rejoicing in Chastisement"
+      },
+      {
+        "t": 2195,
+        "heading": "Future Expectation and Messianic Verses"
+      },
+      {
+        "t": 2384,
+        "heading": "Call to Personal Praise"
+      }
+    ]
+  }
 }

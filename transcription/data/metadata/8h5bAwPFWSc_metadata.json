@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8h5bAwPFWSc.vtt",
   "duration": 2608,
   "transcription_timestamp": "2025-04-16T01:03:27.938226",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 18:1-12 on Jethro's visit to Moses in the wilderness, tracing the reunion, Moses's firsthand account of God's works in Egypt and the desert, and Jethro's verbal and sacrificial response. Situated within a three-phase annual theme built on Psalm 48:1, Psalm 135:5, and Psalm 145:6, with phase two focused on declaring God's greatness.",
+    "themes": [
+      "declaring god's greatness",
+      "testimony and witness",
+      "god's provision and deliverance",
+      "personal experience of god",
+      "belief and behavior",
+      "proclamation to unbelievers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Annual Theme: Phase Two Introduced"
+      },
+      {
+        "t": 183,
+        "heading": "Exodus 18:1-12 Read"
+      },
+      {
+        "t": 274,
+        "heading": "Reunion with Jethro"
+      },
+      {
+        "t": 510,
+        "heading": "Moses's Report to Jethro"
+      },
+      {
+        "t": 1211,
+        "heading": "Jethro's Response: Rejoicing and Declaration"
+      },
+      {
+        "t": 1679,
+        "heading": "Jethro's Offering and Action"
+      },
+      {
+        "t": 1956,
+        "heading": "Closing Application: Personal Experience and Declaration"
+      }
+    ]
+  }
 }

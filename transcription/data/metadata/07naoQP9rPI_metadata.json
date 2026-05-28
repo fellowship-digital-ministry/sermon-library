@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\07naoQP9rPI.vtt",
   "duration": 2154,
   "transcription_timestamp": "2025-04-14T19:16:00.281881",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 3:18-22 on the counsel, chastening, and choice presented to the church of the Laodiceans, continuing a two-part study of that letter. The passage is read against the church's self-described condition in verses 14-17 and interpreted through supporting texts in Psalms, Proverbs, and Hebrews 12.",
+    "themes": [
+      "church condition",
+      "divine counsel",
+      "chastening",
+      "repentance",
+      "fellowship with christ",
+      "self-reliance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part One"
+      },
+      {
+        "t": 186,
+        "heading": "Reading of Revelation 3:18-22"
+      },
+      {
+        "t": 280,
+        "heading": "The Counsel: Gold, Raiment, and Eyesalve"
+      },
+      {
+        "t": 700,
+        "heading": "Psalm 19 and the Value of God's Word"
+      },
+      {
+        "t": 934,
+        "heading": "The Chastening: Proverbs, Psalms, and Hebrews 12"
+      },
+      {
+        "t": 1410,
+        "heading": "The Choice: Repentance and Opening the Door"
+      },
+      {
+        "t": 1603,
+        "heading": "Christ Standing Outside His Church"
+      },
+      {
+        "t": 1975,
+        "heading": "The Promise and Closing Appeal"
+      }
+    ]
+  }
 }

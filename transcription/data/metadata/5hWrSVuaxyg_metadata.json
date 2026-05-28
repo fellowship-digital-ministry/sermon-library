@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5hWrSVuaxyg.vtt",
   "duration": 2841,
   "transcription_timestamp": "2025-04-16T13:42:52.492737",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Samuel 15:22 on the principle that obedience to God surpasses sacrifice, set against the account of Saul's failure to carry out God's command against the Amalekites and Samuel's confrontation of that disobedience.",
+    "themes": [
+      "obedience",
+      "disobedience and its consequences",
+      "commitment to god's commands",
+      "authority of scripture",
+      "partial obedience",
+      "persecution and faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: God's Command to Saul"
+      },
+      {
+        "t": 333,
+        "heading": "Saul's Disobedience and Samuel's Grief"
+      },
+      {
+        "t": 528,
+        "heading": "Saul's Self-Deception and Blame-Shifting"
+      },
+      {
+        "t": 666,
+        "heading": "Samuel's Principle: Obedience Over Sacrifice"
+      },
+      {
+        "t": 1130,
+        "heading": "Obedience Is Critical: Blessing and Curse"
+      },
+      {
+        "t": 1598,
+        "heading": "Obedience Requires Commitment"
+      },
+      {
+        "t": 1880,
+        "heading": "Acts 5: Apostles' Commitment Under Pressure"
+      }
+    ]
+  }
 }

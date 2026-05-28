@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7yncUIBU7z4.vtt",
   "duration": 2242,
   "transcription_timestamp": "2025-04-14T23:10:25.833827",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 5:11-14 on spiritual growth and maturity, contrasting the dullness of hearing rebuked in the Hebrews passage with the receptive faith commended in the Thessalonian church, and drawing a parallel comparison from 1 Corinthians 3:1-3. Part of a short series on doing what believers ought to do.",
+    "themes": [
+      "spiritual growth",
+      "spiritual maturity",
+      "hearing and receiving god's word",
+      "carnality as a hindrance to growth",
+      "milk and meat of the word",
+      "biblical discernment"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 229,
+        "heading": "Corinth and Thessalonica Contrasted"
+      },
+      {
+        "t": 507,
+        "heading": "Believers at Different Stages of Growth"
+      },
+      {
+        "t": 882,
+        "heading": "The Condition of Those Addressed in Hebrews 5"
+      },
+      {
+        "t": 1436,
+        "heading": "The Call to Grow Spiritually"
+      },
+      {
+        "t": 2039,
+        "heading": "Desiring and Planning for Spiritual Growth"
+      }
+    ]
+  }
 }

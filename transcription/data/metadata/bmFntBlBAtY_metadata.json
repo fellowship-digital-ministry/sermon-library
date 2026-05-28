@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/bmFntBlBAtY.vtt",
   "duration": 2891.0,
   "transcription_timestamp": "2026-05-28T16:49:12.198608",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 4:4 on the phrase 'stand in awe and sin not,' tracing a direct correlation between a believer's view of God and the presence and handling of sin in the Christian life. Draws on Isaiah 6, Genesis 39, Romans 7, 1 John 1-2, Proverbs 28:13, and related passages to examine how God is to be viewed, how sin is to be viewed, and how sin is to be dealt with personally.",
+    "themes": [
+      "view of god",
+      "sin in the believer's life",
+      "confession and repentance",
+      "holiness",
+      "covering versus confessing sin",
+      "sanctification"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Psalm 4:4 Text"
+      },
+      {
+        "t": 97,
+        "heading": "Prior Series Context: Responding to God's Word"
+      },
+      {
+        "t": 144,
+        "heading": "Sin, Its Penalty, and the Believer's Ongoing Struggle"
+      },
+      {
+        "t": 333,
+        "heading": "The Meaning of Awe and the Correlation to Sin"
+      },
+      {
+        "t": 380,
+        "heading": "How We View God: Psalm 33, Psalm 119, and Isaiah 6"
+      },
+      {
+        "t": 963,
+        "heading": "How We View Sin: Joseph, Paul, and Israel"
+      },
+      {
+        "t": 1498,
+        "heading": "How We Deal With Sin: Confession Versus Covering"
+      },
+      {
+        "t": 2452,
+        "heading": "Closing Passages: Acts 24 and 1 Corinthians 15"
+      }
+    ]
+  }
 }

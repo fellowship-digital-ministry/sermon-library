@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\NDFKzTPUOA0.vtt",
   "duration": 3190,
   "transcription_timestamp": "2025-04-17T09:23:01.203353",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An expository study of Colossians 1:1-8 introducing the believers at Colossae, the authorship of Paul, the role of Epaphras, and the spread of the gospel through Asia Minor, with attention to how the recipients are described, their love for fellow believers, and their grounding in discipleship.",
+    "themes": [
+      "the church at colossae",
+      "the gospel spreading",
+      "saints and faithful brethren",
+      "brotherly love",
+      "discipleship",
+      "faithful ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Colossians and Paul's Authorship"
+      },
+      {
+        "t": 138,
+        "heading": "Geography and Background of Colossae"
+      },
+      {
+        "t": 378,
+        "heading": "Paul's Indirect Relationship to Colossae"
+      },
+      {
+        "t": 571,
+        "heading": "Epaphras, False Teaching, and the Word of God"
+      },
+      {
+        "t": 990,
+        "heading": "How the Believers Are Described"
+      },
+      {
+        "t": 1642,
+        "heading": "The Love of the Colossian Believers Displayed"
+      },
+      {
+        "t": 2298,
+        "heading": "The Believers Discipled by Epaphras"
+      },
+      {
+        "t": 2721,
+        "heading": "The Great Commission and Discipleship"
+      }
+    ]
+  }
 }

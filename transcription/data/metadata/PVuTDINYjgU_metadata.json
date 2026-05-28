@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PVuTDINYjgU.vtt",
   "duration": 1539,
   "transcription_timestamp": "2025-04-16T16:20:02.599304",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 10:5-11 on learning from Old Testament historical accounts, framed within a miniseries on teachability. Four examples of behavior displeasing to God are drawn from Israel's wilderness history, with a contrasting example of obedience from Exodus 40.",
+    "themes": [
+      "learning from scripture",
+      "old testament history as instruction",
+      "behavior displeasing to god",
+      "idolatry",
+      "murmuring and complaining",
+      "obedience"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Miniseries Context and Evening's Focus"
+      },
+      {
+        "t": 233,
+        "heading": "Ephesians 5:10 and Proving Acceptable Behavior"
+      },
+      {
+        "t": 325,
+        "heading": "Paul's Use of Israel's History in 1 Corinthians 10"
+      },
+      {
+        "t": 464,
+        "heading": "Four Examples of Behavior to Be Avoided"
+      },
+      {
+        "t": 978,
+        "heading": "Exodus 40 as Example of Pleasing Obedience"
+      },
+      {
+        "t": 1262,
+        "heading": "Application of History as a Classroom"
+      }
+    ]
+  }
 }

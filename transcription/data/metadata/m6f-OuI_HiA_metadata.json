@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/m6f-OuI_HiA.vtt",
   "duration": 3427.0,
   "transcription_timestamp": "2026-05-28T15:46:50.034608",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 9:1-15 on biblical giving, tracing the priority, principles, promises, and perspective that govern a cheerful giver, with supporting references to Malachi 3, 1 Chronicles 29, Deuteronomy 8, and Philippians 4.",
+    "themes": [
+      "giving and stewardship",
+      "tithing",
+      "worship through giving",
+      "god's provision",
+      "biblical finances",
+      "cheerful giver"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 50,
+        "heading": "Giving as a Taboo Subject"
+      },
+      {
+        "t": 437,
+        "heading": "Priority on Giving and Stewardship"
+      },
+      {
+        "t": 860,
+        "heading": "Malachi 3 and Robbing God"
+      },
+      {
+        "t": 1464,
+        "heading": "Principles for Giving"
+      },
+      {
+        "t": 1695,
+        "heading": "Promises to the Giver"
+      },
+      {
+        "t": 2305,
+        "heading": "Perspective from the Unspeakable Gift"
+      },
+      {
+        "t": 2685,
+        "heading": "Old Testament Illustrations of Cheerful Giving"
+      }
+    ]
+  }
 }

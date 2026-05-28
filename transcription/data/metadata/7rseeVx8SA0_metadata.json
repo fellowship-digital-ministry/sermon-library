@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7rseeVx8SA0.vtt",
   "duration": 2846,
   "transcription_timestamp": "2025-04-17T04:38:08.454338",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 21:1-7 on the birth of Isaac as the fulfillment of God's promise to Abraham and Sarah, tracing the repeated covenant promises across Genesis 12 through 18 and drawing out the themes of divine faithfulness, obedience, and waiting on the Lord.",
+    "themes": [
+      "faithfulness of god",
+      "waiting on the lord",
+      "obedience",
+      "covenant promises",
+      "the birth of isaac",
+      "patience in waiting"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Introduction: 25 Years of Waiting"
+      },
+      {
+        "t": 143,
+        "heading": "God's Twofold Promise to Abraham"
+      },
+      {
+        "t": 337,
+        "heading": "Expressions of Faithfulness in Verses 1 and 2"
+      },
+      {
+        "t": 482,
+        "heading": "The Promise Repeated Across Genesis"
+      },
+      {
+        "t": 1192,
+        "heading": "Actions of Obedience in Verses 3 and 4"
+      },
+      {
+        "t": 1584,
+        "heading": "Sarah's Response in Verses 5 Through 7"
+      },
+      {
+        "t": 1618,
+        "heading": "Waiting on the Lord Is Not Always Easy"
+      },
+      {
+        "t": 1966,
+        "heading": "Waiting on the Lord Is Always Worth It"
+      }
+    ]
+  }
 }

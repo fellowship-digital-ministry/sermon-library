@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JrmIhisZf_M.vtt",
   "duration": 2509,
   "transcription_timestamp": "2025-04-17T09:58:00.388449",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 16:1-16 on the birth of Ishmael, tracing the barrenness of Sarai, the decisions of Abram and Sarai, and the immediate and long-term consequences of those decisions, with reference to Galatians 6:7-9 on the law of sowing and reaping.",
+    "themes": [
+      "faith and patience",
+      "consequences of decisions",
+      "sowing and reaping",
+      "barrenness and the promise of god",
+      "domestic conflict",
+      "humanity of biblical figures"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Introduction to the Passage"
+      },
+      {
+        "t": 288,
+        "heading": "Background: Sarai's Barrenness and Hagar's Origin"
+      },
+      {
+        "t": 574,
+        "heading": "The Reasoning of Sarai"
+      },
+      {
+        "t": 996,
+        "heading": "The Response of Abram"
+      },
+      {
+        "t": 1182,
+        "heading": "The Law of Sowing and Reaping"
+      },
+      {
+        "t": 1414,
+        "heading": "Immediate Consequences of the Decision"
+      },
+      {
+        "t": 1600,
+        "heading": "The Angel of the Lord and Hagar"
+      },
+      {
+        "t": 1836,
+        "heading": "Long-Term Consequences: Ishmael's Descendants"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\StOoWZioV1U.vtt",
   "duration": 2955,
   "transcription_timestamp": "2025-04-17T07:02:59.404568",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 62:1-12 on waiting upon God, pouring out the heart in prayer, and trusting God through adversity, drawing on David's experiences of opposition and deliverance and the encouragement of verse 8 as its organizing center.",
+    "themes": [
+      "waiting on god",
+      "prayer and lament",
+      "trust in adversity",
+      "god as refuge",
+      "omnipotence of god",
+      "mercy of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 62"
+      },
+      {
+        "t": 191,
+        "heading": "Background: David and Absalom's Rebellion"
+      },
+      {
+        "t": 380,
+        "heading": "The Experience of the Psalmist (vv. 1-7)"
+      },
+      {
+        "t": 1097,
+        "heading": "Encouragement from the Psalmist: Trust and Pour Out Your Heart (v. 8)"
+      },
+      {
+        "t": 1614,
+        "heading": "Hannah as an Example of Pouring Out the Heart"
+      },
+      {
+        "t": 1943,
+        "heading": "Explanation: God as Refuge, Power, and Mercy (vv. 8-12)"
+      },
+      {
+        "t": 2550,
+        "heading": "Application to Storms of Life"
+      }
+    ]
+  }
 }

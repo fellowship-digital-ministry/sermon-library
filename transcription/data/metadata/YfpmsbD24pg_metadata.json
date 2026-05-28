@@ -8,5 +8,42 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YfpmsbD24pg.vtt",
   "duration": 1884,
   "transcription_timestamp": "2025-04-17T13:55:30.864386",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 9:17-29 on the disciples' failure to cast out an unclean spirit, examining the account of a father's desperate plea, Jesus's rebuke of faithlessness, and the instruction that this kind comes forth only by prayer and fasting.",
+    "themes": [
+      "prayer and fasting",
+      "faith and dependence on god",
+      "discipleship",
+      "spiritual inability",
+      "teachable spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Context"
+      },
+      {
+        "t": 191,
+        "heading": "Inability of the Disciples"
+      },
+      {
+        "t": 570,
+        "heading": "The Interaction Recorded"
+      },
+      {
+        "t": 1075,
+        "heading": "The Delivered Son"
+      },
+      {
+        "t": 1172,
+        "heading": "Inquiry of the Disciples"
+      },
+      {
+        "t": 1406,
+        "heading": "Instruction of Jesus on Prayer and Fasting"
+      }
+    ]
+  }
 }

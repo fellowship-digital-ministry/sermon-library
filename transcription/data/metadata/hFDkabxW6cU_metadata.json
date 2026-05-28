@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hFDkabxW6cU.vtt",
   "duration": 2558,
   "transcription_timestamp": "2025-04-17T03:31:05.217579",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A topical study on prayer as the essential source of spiritual power, drawing from Luke 18:1-8, James 5:16, and Matthew 26:36-44, with supporting references to Moses, Elijah, and Hezekiah. The sermon argues that weak prayer lives, not inadequate programs or intellect, account for the absence of revival in homes, churches, and communities.",
+    "themes": [
+      "prayer",
+      "intercession",
+      "revival",
+      "spiritual power",
+      "christian discipline",
+      "the prayer life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Defining Power with God"
+      },
+      {
+        "t": 194,
+        "heading": "Prayer as the Missing Element"
+      },
+      {
+        "t": 337,
+        "heading": "The Parable of the Persistent Widow"
+      },
+      {
+        "t": 629,
+        "heading": "Why Prayer Is Neglected"
+      },
+      {
+        "t": 1030,
+        "heading": "Effectual Fervent Prayer and Intercession"
+      },
+      {
+        "t": 1278,
+        "heading": "Old Testament Examples of Intercessory Prayer"
+      },
+      {
+        "t": 1811,
+        "heading": "Gethsemane and the Sleeping Disciples"
+      },
+      {
+        "t": 2239,
+        "heading": "The Call to Committed, Disciplined Prayer"
+      }
+    ]
+  }
 }

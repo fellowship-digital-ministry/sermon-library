@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\R9o268hePTY.vtt",
   "duration": 2749,
   "transcription_timestamp": "2025-04-17T02:23:04.545456",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 4:7-11 on the named companions of the Apostle Paul, examining their descriptions, their shared labor, and the nature of collaborative service in the work of God.",
+    "themes": [
+      "fellow workers",
+      "faithfulness in service",
+      "the body of christ",
+      "comfort and encouragement",
+      "rewards and crowns",
+      "recognition of co-laborers"
+    ],
+    "sections": [
+      {
+        "t": 50,
+        "heading": "Introduction to Fellow Workers"
+      },
+      {
+        "t": 428,
+        "heading": "Recognition of Named Fellow Workers"
+      },
+      {
+        "t": 755,
+        "heading": "Onesimus, Mark, and Forgiveness"
+      },
+      {
+        "t": 1272,
+        "heading": "Role of the Fellow Workers"
+      },
+      {
+        "t": 1642,
+        "heading": "Comfort Brought to Colossae"
+      },
+      {
+        "t": 1969,
+        "heading": "Five Crowns as Reward for Service"
+      },
+      {
+        "t": 2457,
+        "heading": "Crowns Cast Before the Throne"
+      }
+    ]
+  }
 }

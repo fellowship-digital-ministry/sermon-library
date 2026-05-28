@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OL3xd5kHCD0.vtt",
   "duration": 2351,
   "transcription_timestamp": "2025-04-17T06:13:05.780889",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jude 22-23 on compassion and urgency in personal evangelism, developed through hymn histories, Old Testament narrative, and Pauline epistles to frame the believer's responsibility to share the gospel with the lost.",
+    "themes": [
+      "personal evangelism",
+      "compassion for the lost",
+      "eternity and judgment",
+      "gospel witness",
+      "missions",
+      "overcoming excuses in witnessing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Introduction: Jude 22-23"
+      },
+      {
+        "t": 97,
+        "heading": "Hymn Stories: Rescue the Perishing and Throw Out the Lifeline"
+      },
+      {
+        "t": 518,
+        "heading": "Context: Missions Conference and Local Responsibility"
+      },
+      {
+        "t": 852,
+        "heading": "Point One: The Reality of Eternity"
+      },
+      {
+        "t": 995,
+        "heading": "Point Two: The Responsibility to Evangelize"
+      },
+      {
+        "t": 1231,
+        "heading": "2 Kings 7: The Four Lepers and Holding Our Peace"
+      },
+      {
+        "t": 1706,
+        "heading": "Proverbs 24: Forbearing to Deliver and Making Excuses"
+      },
+      {
+        "t": 1891,
+        "heading": "Acts 20: Paul Pure from the Blood of All Men"
+      }
+    ]
+  }
 }

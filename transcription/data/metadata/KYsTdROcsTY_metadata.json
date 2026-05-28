@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KYsTdROcsTY.vtt",
   "duration": 2195,
   "transcription_timestamp": "2025-04-16T11:25:49.029720",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A topical message anchored in 2 Samuel 15:15, using the response of David's servants to their king as a springboard for examining three areas of readiness expected of believers: gospel proclamation, answering for the faith, and preparedness to meet the Lord.",
+    "themes": [
+      "gospel readiness",
+      "evangelism",
+      "answering for the faith",
+      "surrender and service",
+      "assurance of salvation",
+      "the lordship of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Absalom's Revolt Against David"
+      },
+      {
+        "t": 234,
+        "heading": "The Servants' Response in 2 Samuel 15:15"
+      },
+      {
+        "t": 463,
+        "heading": "Ezra and Peter as Contrasting Examples of Readiness"
+      },
+      {
+        "t": 652,
+        "heading": "Ready to Preach the Gospel: Romans 1:14-16"
+      },
+      {
+        "t": 930,
+        "heading": "Ready to Give an Answer: 1 Peter 3:15"
+      },
+      {
+        "t": 1495,
+        "heading": "Ready to Meet the Lord: Acts 21 and Paul's Confidence"
+      },
+      {
+        "t": 1820,
+        "heading": "Assurance of Salvation and Steadfast Service"
+      }
+    ]
+  }
 }

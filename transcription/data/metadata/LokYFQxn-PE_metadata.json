@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LokYFQxn-PE.vtt",
   "duration": 3343.0,
   "transcription_timestamp": "2026-05-27T15:30:41.744310",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 12:1-19 on the corporate prayer of the early church, tracing the pattern of prayer throughout Acts, the peril facing Peter, and God's miraculous deliverance in response to the church's intercession.",
+    "themes": [
+      "corporate prayer",
+      "spiritual warfare",
+      "the praying church",
+      "god's sovereignty",
+      "persecution",
+      "priority of prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text"
+      },
+      {
+        "t": 327,
+        "heading": "Pattern of Prayer in Acts"
+      },
+      {
+        "t": 697,
+        "heading": "Peril Facing the Church"
+      },
+      {
+        "t": 1356,
+        "heading": "Church Prays, God Delivers Peter"
+      },
+      {
+        "t": 2174,
+        "heading": "Peter Arrives at the Prayer Meeting"
+      },
+      {
+        "t": 2738,
+        "heading": "Soldiers and Herod Confounded"
+      },
+      {
+        "t": 2790,
+        "heading": "Prayer as Pastoral Priority (Acts 6)"
+      },
+      {
+        "t": 3157,
+        "heading": "Call to Be a Praying Church"
+      }
+    ]
+  }
 }

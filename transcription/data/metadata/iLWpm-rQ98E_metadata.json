@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iLWpm-rQ98E.vtt",
   "duration": 3343,
   "transcription_timestamp": "2025-04-17T10:40:27.432033",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 13:7-17 presenting five of ten reasons for believers to rejoice and give thanks, drawn from the closing chapter of Hebrews and preached in the context of Thanksgiving week.",
+    "themes": [
+      "thanksgiving and praise",
+      "spiritual leadership",
+      "immutability of christ",
+      "the word of god",
+      "substitutionary atonement",
+      "heaven as the believer's home"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Sermon Introduction"
+      },
+      {
+        "t": 234,
+        "heading": "Reason One: Spiritual Leaders"
+      },
+      {
+        "t": 809,
+        "heading": "Reason Two: Immutability of Christ"
+      },
+      {
+        "t": 948,
+        "heading": "Reason Three: The Word of God"
+      },
+      {
+        "t": 1697,
+        "heading": "Reason Four: Substitutionary Atonement"
+      },
+      {
+        "t": 2220,
+        "heading": "Continual Praise as the Unifying Call"
+      },
+      {
+        "t": 2455,
+        "heading": "Reason Five: Home in Heaven"
+      }
+    ]
+  }
 }

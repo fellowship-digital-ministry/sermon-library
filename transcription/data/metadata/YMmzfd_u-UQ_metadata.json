@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YMmzfd_u-UQ.vtt",
   "duration": 2195,
   "transcription_timestamp": "2025-04-17T14:53:20.006867",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Leviticus 25:1-7 and 18-22 on the Sabbath year law, examining God's plan for the land, the faith required to obey it, and the promise of divine blessing in the sixth year. The lesson is set alongside a prior study of Exodus 16 on the manna, with 2 Chronicles 36:21 cited as the historical record of Israel's failure to keep the Sabbath years.",
+    "themes": [
+      "faith and obedience",
+      "divine provision",
+      "the sabbath year",
+      "god's preparation of his people",
+      "trusting god's promises",
+      "blessing conditioned on obedience"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Prior Lesson Recap"
+      },
+      {
+        "t": 188,
+        "heading": "God's Plan for the Seventh Year"
+      },
+      {
+        "t": 657,
+        "heading": "God's Preparation of His People"
+      },
+      {
+        "t": 1136,
+        "heading": "The Promise of Commanded Blessing"
+      },
+      {
+        "t": 1516,
+        "heading": "Israel's Failure and the Babylonian Captivity"
+      },
+      {
+        "t": 1844,
+        "heading": "Illustration of Simple Faith"
+      },
+      {
+        "t": 2074,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

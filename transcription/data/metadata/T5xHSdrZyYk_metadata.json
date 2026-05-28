@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\T5xHSdrZyYk.vtt",
   "duration": 2988,
   "transcription_timestamp": "2025-04-17T15:40:20.215344",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 8:6-13 on the new covenant, tracing its superiority over the Mosaic covenant, its specific promises drawn from Jeremiah 31:31-34, its future fulfillment in the millennial reign of Christ for national Israel, and its present application to individual Gentile believers grafted in through salvation.",
+    "themes": [
+      "new covenant",
+      "superiority of christ's priesthood",
+      "israel and the church distinguished",
+      "millennial reign of christ",
+      "old testament prophecy and fulfillment",
+      "gospel proclamation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Overview"
+      },
+      {
+        "t": 190,
+        "heading": "Overview of the Old Covenant in Exodus"
+      },
+      {
+        "t": 523,
+        "heading": "Superiority of the New Covenant"
+      },
+      {
+        "t": 1039,
+        "heading": "Specifics of the New Covenant and Israel"
+      },
+      {
+        "t": 1229,
+        "heading": "Jeremiah 31 and Romans 11 on Israel's Future"
+      },
+      {
+        "t": 2029,
+        "heading": "The New Covenant and Individual Believers Today"
+      },
+      {
+        "t": 2594,
+        "heading": "Application to Gospel Ministry"
+      }
+    ]
+  }
 }

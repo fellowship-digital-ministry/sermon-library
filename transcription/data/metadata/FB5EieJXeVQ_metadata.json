@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/FB5EieJXeVQ.vtt",
   "duration": 2635.0,
   "transcription_timestamp": "2026-05-27T15:42:55.159535",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 6:1-2 on the identity and activity of the rider of the white horse at the opening of the first seal, set within a broader study of Daniel's 70th week and the sequence of end-times events leading into the Tribulation period.",
+    "themes": [
+      "the first seal",
+      "the antichrist",
+      "daniel's 70th week",
+      "the tribulation",
+      "replacement theology",
+      "the rapture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Daniel's 70th Week"
+      },
+      {
+        "t": 292,
+        "heading": "Rapture and Start of Tribulation"
+      },
+      {
+        "t": 534,
+        "heading": "John's Eyewitness Account Introduced"
+      },
+      {
+        "t": 633,
+        "heading": "Authority of the Lamb"
+      },
+      {
+        "t": 871,
+        "heading": "Identity of the Rider"
+      },
+      {
+        "t": 1721,
+        "heading": "Activity of the Rider"
+      },
+      {
+        "t": 2297,
+        "heading": "Gospel Responsibility in Light of Prophecy"
+      }
+    ]
+  }
 }

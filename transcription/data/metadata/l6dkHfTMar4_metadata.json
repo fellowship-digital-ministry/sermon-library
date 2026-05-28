@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\l6dkHfTMar4.vtt",
   "duration": 2869,
   "transcription_timestamp": "2025-04-16T13:17:57.792038",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hosea 10:12 on the conditions for revival, framed as the second message in a mini-series on preparation for revival. The sermon traces three movements drawn from the verse: breaking up fallow ground, sowing in righteousness, and seeking the Lord, with supporting texts from 2 Chronicles 34, Psalm 51, Psalm 42, and Galatians 6.",
+    "themes": [
+      "revival",
+      "heart preparation",
+      "sowing and reaping",
+      "seeking god",
+      "humility before god",
+      "hindrances to revival"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Revival Series"
+      },
+      {
+        "t": 90,
+        "heading": "Hindrances on the Pathway"
+      },
+      {
+        "t": 322,
+        "heading": "Hosea 10:12 Introduced"
+      },
+      {
+        "t": 369,
+        "heading": "Time to Plow: Fallow Ground and the Heart"
+      },
+      {
+        "t": 1208,
+        "heading": "Time to Plant: Sowing and Reaping"
+      },
+      {
+        "t": 1719,
+        "heading": "Time to Pursue: Seeking God, Not Just Blessing"
+      },
+      {
+        "t": 2572,
+        "heading": "Contrast of Two Paths in Hosea 10"
+      }
+    ]
+  }
 }

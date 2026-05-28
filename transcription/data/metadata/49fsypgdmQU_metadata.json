@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\49fsypgdmQU.vtt",
   "duration": 1806,
   "transcription_timestamp": "2025-04-17T07:48:15.470894",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 11:23-31 on the Lord's Supper as an ordinance of the local church, covering the elements, proper participants, frequency of observance, and three purposes: remembrance, expectation, and self-examination.",
+    "themes": [
+      "lord's supper",
+      "church ordinances",
+      "self-examination",
+      "remembrance of christ's sacrifice",
+      "second coming of christ",
+      "local church membership"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Two Ordinances of the Local Church"
+      },
+      {
+        "t": 240,
+        "heading": "The Elements and What They Represent"
+      },
+      {
+        "t": 431,
+        "heading": "Who Should Participate"
+      },
+      {
+        "t": 573,
+        "heading": "Frequency of Observance"
+      },
+      {
+        "t": 710,
+        "heading": "A Table of Remembrance"
+      },
+      {
+        "t": 1136,
+        "heading": "A Table of Expectation"
+      },
+      {
+        "t": 1329,
+        "heading": "A Table of Examination"
+      },
+      {
+        "t": 1627,
+        "heading": "Preparation to Partake"
+      }
+    ]
+  }
 }

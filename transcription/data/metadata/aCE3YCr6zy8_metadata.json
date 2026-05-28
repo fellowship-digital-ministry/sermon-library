@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aCE3YCr6zy8.vtt",
   "duration": 3343,
   "transcription_timestamp": "2025-04-17T01:04:40.010223",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philippians 4:9 on the observable nature of living faith, structured around three spiritual goal areas for the new year 2022: prayer, Bible reading, and witnessing. Paul's phrase 'seen in me' anchors a practical call for believers to evaluate and commit to specific, measurable habits in each area.",
+    "themes": [
+      "observable faith",
+      "prayer",
+      "bible reading",
+      "witnessing and evangelism",
+      "spiritual goal-setting",
+      "christian accountability"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Faith Observed by Others"
+      },
+      {
+        "t": 92,
+        "heading": "Paul as Model of Living Faith"
+      },
+      {
+        "t": 185,
+        "heading": "Philippians 4:9 as Text Anchor"
+      },
+      {
+        "t": 418,
+        "heading": "First Goal: Prayer"
+      },
+      {
+        "t": 1065,
+        "heading": "Second Goal: Bible Reading"
+      },
+      {
+        "t": 1852,
+        "heading": "Third Goal: Witnessing"
+      },
+      {
+        "t": 2804,
+        "heading": "SMART Goals Framework Applied"
+      },
+      {
+        "t": 2994,
+        "heading": "Commitment Cards and Accountability"
+      }
+    ]
+  }
 }

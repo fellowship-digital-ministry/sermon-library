@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\346_VFj2Pb0.vtt",
   "duration": 2826,
   "transcription_timestamp": "2025-04-15T06:53:39.003316",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 5:1-16 on relationships within the local church, covering proper conduct toward elderly and younger members and detailed instruction on the care of widows.",
+    "themes": [
+      "church relationships",
+      "care for widows",
+      "honoring the elderly",
+      "family responsibility",
+      "idle and disorderly behavior",
+      "roles in the home"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Overview of 1 Timothy 5:1-16"
+      },
+      {
+        "t": 372,
+        "heading": "Relating to Elderly and Younger Members"
+      },
+      {
+        "t": 1033,
+        "heading": "Widows Indeed: Family and Church Responsibility"
+      },
+      {
+        "t": 1599,
+        "heading": "Criteria and Qualifications for Widow Support"
+      },
+      {
+        "t": 1782,
+        "heading": "Younger Widows: Behavior and Concerns"
+      },
+      {
+        "t": 2162,
+        "heading": "Pattern Established for Younger Women"
+      },
+      {
+        "t": 2484,
+        "heading": "Closing Summary and Application"
+      }
+    ]
+  }
 }

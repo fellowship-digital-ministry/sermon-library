@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4j6miDNAqs4.vtt",
   "duration": 2920,
   "transcription_timestamp": "2025-04-14T20:57:17.759261",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 2:1-12 on the visit of the wise men to the young Christ, organized around the wise men's stated purpose of worship and what their journey reveals about desire, determination, and delight in worship.",
+    "themes": [
+      "worship",
+      "corporate worship",
+      "the wise men",
+      "the birth of christ",
+      "determination in the christian life",
+      "witnessing after worship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Matthew 2:1-12"
+      },
+      {
+        "t": 425,
+        "heading": "The Wise Men's Desire to Worship"
+      },
+      {
+        "t": 953,
+        "heading": "The Wise Men's Determination to Travel"
+      },
+      {
+        "t": 1560,
+        "heading": "The Wise Men's Delight at the Star"
+      },
+      {
+        "t": 1844,
+        "heading": "The Wise Men Worship and Present Gifts"
+      },
+      {
+        "t": 2411,
+        "heading": "Returning Home Changed After Worship"
+      }
+    ]
+  }
 }

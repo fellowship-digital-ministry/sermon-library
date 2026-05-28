@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\P9IertNJ6kQ.vtt",
   "duration": 2775,
   "transcription_timestamp": "2025-04-17T15:48:22.774229",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 10:1-32, the table of nations, tracing the descendants of Noah's three sons (Shem, Ham, and Japheth) as the origin of all post-flood people groups, with particular attention to Nimrod, the Canaanite nations, and the Shemite line leading to Abram and the Messianic lineage.",
+    "themes": [
+      "table of nations",
+      "global flood",
+      "one human race",
+      "biblical authority",
+      "nimrod and early empires",
+      "messianic lineage"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Chapter Overview"
+      },
+      {
+        "t": 231,
+        "heading": "Sons of Japheth (vv. 1-5)"
+      },
+      {
+        "t": 278,
+        "heading": "Sons of Ham: Nimrod and Canaan (vv. 6-20)"
+      },
+      {
+        "t": 905,
+        "heading": "Sons of Shem and the Line to Abram (vv. 21-31)"
+      },
+      {
+        "t": 1338,
+        "heading": "The Global Flood and Eight Survivors"
+      },
+      {
+        "t": 2003,
+        "heading": "One Human Race and Acts 17"
+      },
+      {
+        "t": 2339,
+        "heading": "God's Order Versus Human Confusion"
+      }
+    ]
+  }
 }

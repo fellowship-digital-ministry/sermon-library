@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\X0_tae_rdlg.vtt",
   "duration": 3043,
   "transcription_timestamp": "2025-04-15T10:13:48.272213",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory message to a 2024 church theme drawn from 2 Timothy 3:14, surveying the call to persevere in the Christian life against the backdrop of last-days peril described in 2 Timothy 3 and 1 Timothy 4. Frames a planned verse-by-verse study through 1 and 2 Timothy for the coming year.",
+    "themes": [
+      "perseverance",
+      "last days",
+      "spiritual warfare",
+      "christian living",
+      "church theme",
+      "exhortation to continue"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Annual Theme Introduction"
+      },
+      {
+        "t": 92,
+        "heading": "Review of Past Church Themes"
+      },
+      {
+        "t": 511,
+        "heading": "The Word Continue Defined"
+      },
+      {
+        "t": 837,
+        "heading": "The Explanation: Perilous Last Days"
+      },
+      {
+        "t": 1310,
+        "heading": "The Exhortation: Continue"
+      },
+      {
+        "t": 1753,
+        "heading": "Twelve Areas to Continue"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yKUQA_1zUE4.vtt",
   "duration": 3009,
   "transcription_timestamp": "2025-04-16T10:33:15.143205",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 12:6-7 on the biblical doctrine of the preservation of Scripture, arguing that God's promise to keep His Word intact from generation to generation reveals His greatness. Draws supporting texts from across both Testaments to establish the promise, process, and principles of preservation as a companion truth to inspiration.",
+    "themes": [
+      "preservation of scripture",
+      "inspiration of scripture",
+      "the word of god",
+      "the greatness of god",
+      "faith in god's promises",
+      "biblical authority"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Introduction: Preservation and God's Greatness"
+      },
+      {
+        "t": 231,
+        "heading": "Definition and Necessity of Preservation"
+      },
+      {
+        "t": 371,
+        "heading": "The Promise of Preservation in Psalm 12"
+      },
+      {
+        "t": 693,
+        "heading": "Christ's Declarations About Preservation"
+      },
+      {
+        "t": 1018,
+        "heading": "The Apostles' Teaching on Preservation"
+      },
+      {
+        "t": 1302,
+        "heading": "The Process of Preservation"
+      },
+      {
+        "t": 1965,
+        "heading": "Principles Linking Preservation to God's Character"
+      },
+      {
+        "t": 2633,
+        "heading": "Questioning Preservation as the Start of Apostasy"
+      }
+    ]
+  }
 }

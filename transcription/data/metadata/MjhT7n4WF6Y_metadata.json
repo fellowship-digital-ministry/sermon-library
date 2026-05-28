@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/MjhT7n4WF6Y.vtt",
   "duration": 2625.0,
   "transcription_timestamp": "2026-05-27T14:41:08.123205",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Joshua 4:1-24 on the two stone memorials erected after Israel's crossing of the Jordan River, with application to the church ordinances of the Lord's Supper and baptism as memorials of Christ's death and resurrection. Preached on Memorial Day weekend, drawing a parallel between national memorials and the responsibility to instruct future generations in the works of God.",
+    "themes": [
+      "memorials and remembrance",
+      "generational instruction",
+      "the ordinances of the church",
+      "the power of god in miracles",
+      "parental and church responsibility",
+      "memorial day"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Memorial Day and the Jordan Crossing"
+      },
+      {
+        "t": 514,
+        "heading": "The Place of the Two Memorials"
+      },
+      {
+        "t": 840,
+        "heading": "The Purpose of the Memorials"
+      },
+      {
+        "t": 1359,
+        "heading": "Teaching Future Generations"
+      },
+      {
+        "t": 1874,
+        "heading": "Psalm 78 and Generational Faithfulness"
+      },
+      {
+        "t": 2058,
+        "heading": "The Danger of a Generation That Forgot"
+      },
+      {
+        "t": 2105,
+        "heading": "Church Ordinances as Memorials"
+      }
+    ]
+  }
 }

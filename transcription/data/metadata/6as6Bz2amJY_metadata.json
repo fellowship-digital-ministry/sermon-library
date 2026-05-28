@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6as6Bz2amJY.vtt",
   "duration": 2933,
   "transcription_timestamp": "2025-04-17T00:21:37.340573",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 26:1-35 tracing Isaac's sojourn in Gerar, organized around six recurring patterns: problem, promise, protection, provision, pact, and pain. The chapter is set within a timeline placing Isaac at roughly 100 years old and Esau at 40 by its close.",
+    "themes": [
+      "famine and adversity",
+      "promises of god",
+      "fear and deception",
+      "divine provision and blessing",
+      "covenant and treaty",
+      "grief over ungodly marriages"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Timeline"
+      },
+      {
+        "t": 189,
+        "heading": "The Problem: Famine in the Land"
+      },
+      {
+        "t": 330,
+        "heading": "The Promise: God Appears to Isaac"
+      },
+      {
+        "t": 844,
+        "heading": "God's Protection: Isaac's Deception Exposed"
+      },
+      {
+        "t": 1222,
+        "heading": "God's Provision: Wells, Blessing, and Contention"
+      },
+      {
+        "t": 1890,
+        "heading": "The Pact: Treaty with Abimelech"
+      },
+      {
+        "t": 2275,
+        "heading": "The Pain: Esau's Hittite Wives"
+      }
+    ]
+  }
 }

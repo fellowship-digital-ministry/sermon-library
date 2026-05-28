@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\14-YoafCO5U.vtt",
   "duration": 2805,
   "transcription_timestamp": "2025-05-12T15:47:34.939315",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 4:1 establishing the structural outline of Revelation and its three divisions, with particular focus on the phrases 'after this,' 'come up hither,' and 'things which must be hereafter' as markers of the timeline from the church age through the tribulation, the millennium, and eternity.",
+    "themes": [
+      "book of revelation outline",
+      "rapture of the church",
+      "end-times timeline",
+      "church age",
+      "tribulation",
+      "biblical prophecy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text"
+      },
+      {
+        "t": 92,
+        "heading": "Three-Part Outline of Revelation"
+      },
+      {
+        "t": 282,
+        "heading": "Chapters 4 Through 22 Overview"
+      },
+      {
+        "t": 421,
+        "heading": "Confusion and Importance of Prophecy Study"
+      },
+      {
+        "t": 610,
+        "heading": "Three Phrases in Revelation 4:1"
+      },
+      {
+        "t": 1027,
+        "heading": "Shortly vs. Hereafter: Timeline Clarified"
+      },
+      {
+        "t": 1346,
+        "heading": "Rapture Timing and Tribulation Positions"
+      },
+      {
+        "t": 1849,
+        "heading": "1 Thessalonians 4 and 1 Corinthians 15 on the Rapture"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y0rICXkoJFs.vtt",
   "duration": 1663,
   "transcription_timestamp": "2025-04-17T00:13:16.043246",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 10:13-17 on the chain of sending, preaching, hearing, believing, and calling upon the Lord, framed around the local church's role in supporting and financing missionary work worldwide.",
+    "themes": [
+      "missions",
+      "the sending church",
+      "missionary support",
+      "faith and the word of god",
+      "the great commission",
+      "prayer for missionaries"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Bookend Verses"
+      },
+      {
+        "t": 98,
+        "heading": "The Great Commission and Acts Missions History"
+      },
+      {
+        "t": 378,
+        "heading": "Two Bookend Promises: Romans 10:13 and 10:17"
+      },
+      {
+        "t": 750,
+        "heading": "The Four Questions of Romans 10:14-15"
+      },
+      {
+        "t": 936,
+        "heading": "Financial Support and the Sending Process"
+      },
+      {
+        "t": 1077,
+        "heading": "Prayer as Missionary Support"
+      },
+      {
+        "t": 1352,
+        "heading": "Philippians 4 and Fruit on the Givers Account"
+      }
+    ]
+  }
 }

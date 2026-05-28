@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-sLfVr4caDI.vtt",
   "duration": 2913,
   "transcription_timestamp": "2025-04-16T15:51:36.302735",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 11:1-3 on the complaining spirit of the children of Israel and its relevance to contemporary Christian life, tracing the pattern of murmuring through Exodus and Numbers and drawing on Philippians 2:14 and 1 Thessalonians 5:18 for the possibility of overcoming it.",
+    "themes": [
+      "complaining and murmuring",
+      "thankfulness",
+      "divine judgment",
+      "contentment",
+      "the sovereignty of god",
+      "the children of israel in the wilderness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Unthankfulness in Society"
+      },
+      {
+        "t": 283,
+        "heading": "The Tendency to Complain: Israel's Record"
+      },
+      {
+        "t": 1125,
+        "heading": "Israel's Inconsistency in Numbers 21"
+      },
+      {
+        "t": 1222,
+        "heading": "The Tragedy of Complaining: Divine Displeasure and Judgment"
+      },
+      {
+        "t": 1593,
+        "heading": "Complaining's Impact on Others"
+      },
+      {
+        "t": 1785,
+        "heading": "Triumph Over Complaining: Philippians 2 and 1 Thessalonians 5"
+      },
+      {
+        "t": 2489,
+        "heading": "Complaints Against Leaders as Complaints Against God"
+      },
+      {
+        "t": 2720,
+        "heading": "Closing Prayer and Altar Call"
+      }
+    ]
+  }
 }

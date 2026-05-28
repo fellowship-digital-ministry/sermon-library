@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZWhiVzLFfxc.vtt",
   "duration": 2044,
   "transcription_timestamp": "2025-04-17T02:52:47.448682",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 6:7-8 on the principle of sowing and reaping, situated within a series on the danger of deception. The passage is read against the backdrop of Amos 8:11-12 and 2 Timothy 4:3-4 to frame a broader discussion of spiritual deception and its consequences.",
+    "themes": [
+      "deception",
+      "sowing and reaping",
+      "the flesh versus the spirit",
+      "consequences of sin",
+      "warnings in scripture",
+      "absolute truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Amos 8 Famine"
+      },
+      {
+        "t": 137,
+        "heading": "2 Timothy 4 and Rejection of Sound Doctrine"
+      },
+      {
+        "t": 327,
+        "heading": "Why Deception Spreads: Absence of Truth"
+      },
+      {
+        "t": 374,
+        "heading": "The Warning: Be Not Deceived"
+      },
+      {
+        "t": 563,
+        "heading": "The Principle of Sowing and Reaping"
+      },
+      {
+        "t": 1085,
+        "heading": "Sowing to the Flesh Versus the Spirit"
+      },
+      {
+        "t": 1272,
+        "heading": "Reaping More Than You Sow"
+      },
+      {
+        "t": 1512,
+        "heading": "Reaping Is Not Always Immediate"
+      }
+    ]
+  }
 }

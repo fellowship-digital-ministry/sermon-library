@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6MLW_MPF-wo.vtt",
   "duration": 1751,
   "transcription_timestamp": "2025-04-17T00:16:29.833897",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 8:26-39 on the Ethiopian eunuch's encounter with Philip as an illustration of a teachable spirit, situated within a multi-week series titled 'Teach Me.' Humility and desire are examined as the foundational qualities that open a person to spiritual instruction, with the eunuch's questions, invitation, and subsequent profession and baptism serving as the primary evidence.",
+    "themes": [
+      "teachable spirit",
+      "humility",
+      "desire to learn",
+      "spiritual growth",
+      "believers' baptism",
+      "the role of the teacher"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Eunuch's Question and Humility"
+      },
+      {
+        "t": 199,
+        "heading": "The Invitation Revealing Desire"
+      },
+      {
+        "t": 394,
+        "heading": "Further Questions and Acknowledged Ignorance"
+      },
+      {
+        "t": 541,
+        "heading": "Philip Preaches Jesus from Isaiah 53"
+      },
+      {
+        "t": 733,
+        "heading": "Baptism and the Candidate Question"
+      },
+      {
+        "t": 1010,
+        "heading": "Profession, Baptism, and Rejoicing"
+      },
+      {
+        "t": 1290,
+        "heading": "God's Desire for His People to Know Him"
+      },
+      {
+        "t": 1584,
+        "heading": "The Danger of Failing to Grow"
+      }
+    ]
+  }
 }

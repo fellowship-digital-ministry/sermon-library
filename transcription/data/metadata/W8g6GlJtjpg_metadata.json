@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\W8g6GlJtjpg.vtt",
   "duration": 2190,
   "transcription_timestamp": "2025-04-14T21:49:22.341168",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:6 on walking as Christ walked, focusing on purposeful living as the third installment in a series on New Testament 'ought to' statements. Gospel accounts and selected epistles illustrate Christ's purposeful movement and are applied to the believer's call to bear fruit and glorify God.",
+    "themes": [
+      "walking as christ walked",
+      "purposeful living",
+      "bearing fruit",
+      "the great commission",
+      "abiding in christ",
+      "glory of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Review"
+      },
+      {
+        "t": 232,
+        "heading": "Recap of Part One: Wise and Humble Walk"
+      },
+      {
+        "t": 280,
+        "heading": "Christ's Purposeful Walk in the Gospels"
+      },
+      {
+        "t": 696,
+        "heading": "John 4: Purpose Through Samaria"
+      },
+      {
+        "t": 933,
+        "heading": "The Believer's Purpose and 1 Corinthians 10:31"
+      },
+      {
+        "t": 1494,
+        "heading": "John 15: Abiding, Fruit, and the Father's Glory"
+      },
+      {
+        "t": 1865,
+        "heading": "Colossians 1: Christ's Preeminence in All Things"
+      },
+      {
+        "t": 2097,
+        "heading": "Self-Examination: Walking with Purpose"
+      }
+    ]
+  }
 }

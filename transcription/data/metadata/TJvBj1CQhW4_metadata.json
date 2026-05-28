@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TJvBj1CQhW4.vtt",
   "duration": 2746,
   "transcription_timestamp": "2025-04-17T07:39:50.797584",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 17:2-27 on the reaffirmation of the Abrahamic covenant, covering the name change from Abram to Abraham, the token of circumcision, Abraham's plea for Ishmael, and God's promise of Isaac within a specified year.",
+    "themes": [
+      "abrahamic covenant",
+      "circumcision as covenant sign",
+      "faith and obedience",
+      "the seed of abraham",
+      "waiting on god",
+      "name changes"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 17:1 and El Shaddai"
+      },
+      {
+        "t": 229,
+        "heading": "The Plan: Seed and Land"
+      },
+      {
+        "t": 419,
+        "heading": "Physical and Spiritual Seed"
+      },
+      {
+        "t": 652,
+        "heading": "Token of the Covenant: Circumcision"
+      },
+      {
+        "t": 1027,
+        "heading": "The Plea: Abraham and Ishmael"
+      },
+      {
+        "t": 1546,
+        "heading": "The Promises: Isaac and Ishmael"
+      },
+      {
+        "t": 2066,
+        "heading": "The Obedience of Abraham"
+      }
+    ]
+  }
 }

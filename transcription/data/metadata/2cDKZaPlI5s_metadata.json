@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2cDKZaPlI5s.vtt",
   "duration": 2510,
   "transcription_timestamp": "2025-04-15T10:59:43.232736",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 41:53-57 on the onset of the seven-year famine in Egypt, tracing the cry of the famished people to Pharaoh, Pharaoh's direction to Joseph, and the typological significance of Joseph as a figure of Christ and Egypt as a figure of the world system.",
+    "themes": [
+      "famine and crisis",
+      "typology of joseph and christ",
+      "egypt as a type of the world",
+      "seeking god versus worldly counsel",
+      "obedience to god's word",
+      "prayer and dependence on god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 41 and Seven Years of Plenty"
+      },
+      {
+        "t": 332,
+        "heading": "The Seven Years of Dearth Begin"
+      },
+      {
+        "t": 515,
+        "heading": "The Cry of the People to Pharaoh"
+      },
+      {
+        "t": 801,
+        "heading": "The Counsel of Pharaoh: Go to Joseph"
+      },
+      {
+        "t": 1048,
+        "heading": "Joseph as a Type of Christ, Egypt as a Type of the World"
+      },
+      {
+        "t": 1287,
+        "heading": "Isaiah 30 and 31: Indictment Against Seeking Egypt"
+      },
+      {
+        "t": 2077,
+        "heading": "John 2:5 and Whatsoever He Saith, Do It"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9jvqkwGu6J0.vtt",
   "duration": 1971,
   "transcription_timestamp": "2025-04-17T20:09:12.097666",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 7:3-10 on the four leprous men who discover the abandoned Syrian camp during the siege of Samaria, set within a continuing series on the lives of Elijah and Elisha. The passage is read through four movements: the men's discussion of their options, their decision to approach the Syrian camp, their discovery of the abandoned spoil, and their declaration of good tidings to the city.",
+    "themes": [
+      "evangelism",
+      "gospel witness",
+      "providence",
+      "decision-making",
+      "death and eternity",
+      "the siege of samaria"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prior Prophecy"
+      },
+      {
+        "t": 197,
+        "heading": "The Lepers' Discussion of Options"
+      },
+      {
+        "t": 433,
+        "heading": "The Decision to Go to the Syrians"
+      },
+      {
+        "t": 576,
+        "heading": "God's Work and the Discovery of the Camp"
+      },
+      {
+        "t": 1062,
+        "heading": "\"We Do Not Well\": Application to Gospel Witness"
+      },
+      {
+        "t": 1584,
+        "heading": "The Declaration of Glad Tidings"
+      }
+    ]
+  }
 }

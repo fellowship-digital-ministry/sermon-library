@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/vc7GUAlgbGA.vtt",
   "duration": 3220.0,
   "transcription_timestamp": "2026-05-27T15:04:23.318493",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 2:25-26 on Rahab as a biblical illustration of faith evidenced by works, completing the argument of James 2:14-26 that genuine conversion produces observable fruit. The account in Joshua 2 and 6 is examined alongside the genealogy in Matthew 1 and Ruth 4 to trace the immediate, historical, and eternal dimensions of Rahab's reward.",
+    "themes": [
+      "faith and works",
+      "genuine conversion",
+      "obedience",
+      "biblical examples of faith",
+      "persecution and public witness",
+      "reward for faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Central Principle"
+      },
+      {
+        "t": 189,
+        "heading": "Hymns Illustrating Faith and Obedience"
+      },
+      {
+        "t": 381,
+        "heading": "Rahab's Place in James 2 Argument"
+      },
+      {
+        "t": 660,
+        "heading": "What Rahab Received: Joshua 2 Account"
+      },
+      {
+        "t": 1228,
+        "heading": "How Rahab Responded to What She Heard"
+      },
+      {
+        "t": 2000,
+        "heading": "How Rahab Was Rewarded: Immediate Deliverance"
+      },
+      {
+        "t": 2487,
+        "heading": "Rahab's Historical and Eternal Reward"
+      }
+    ]
+  }
 }

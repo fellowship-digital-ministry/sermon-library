@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YEDoYu2HKC8.vtt",
   "duration": 2944,
   "transcription_timestamp": "2025-04-17T03:40:21.889833",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 63:1-11 on seeking God as the foundation of personal revival, set against the backdrop of David in the wilderness of Judah during Absalom's rebellion. The sermon addresses the displacement of God as first priority by the pressures and pace of modern life.",
+    "themes": [
+      "seeking god",
+      "personal revival",
+      "spiritual priorities",
+      "satisfaction in god",
+      "daily devotion",
+      "pressure and stress"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening and Psalm 63 Reading"
+      },
+      {
+        "t": 280,
+        "heading": "Stress and Misdirected Priorities"
+      },
+      {
+        "t": 425,
+        "heading": "Revival as Renewed Seeking"
+      },
+      {
+        "t": 708,
+        "heading": "David in the Wilderness Context"
+      },
+      {
+        "t": 955,
+        "heading": "What It Means to Seek God"
+      },
+      {
+        "t": 1956,
+        "heading": "How a Believer Seeks God"
+      },
+      {
+        "t": 2440,
+        "heading": "David's Praise and Satisfaction in Loss"
+      }
+    ]
+  }
 }

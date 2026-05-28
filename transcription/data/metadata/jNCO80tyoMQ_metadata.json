@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jNCO80tyoMQ.vtt",
   "duration": 3191,
   "transcription_timestamp": "2025-04-17T06:38:53.508032",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Nehemiah 6:1-19 on the escalating opposition faced by Nehemiah and the workers rebuilding the walls of Jerusalem, tracing four methods of enemy deception and Nehemiah's responses to each, with supporting passages from the New Testament on spiritual warfare and the promises of God.",
+    "themes": [
+      "spiritual warfare",
+      "deception and discernment",
+      "fear as a weapon",
+      "prayer",
+      "steadfastness in god's work",
+      "recognizing the enemy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Nehemiah and the Wall"
+      },
+      {
+        "t": 324,
+        "heading": "Point 1: Recognizing the Enemy"
+      },
+      {
+        "t": 602,
+        "heading": "Four Methods of Enemy Deception"
+      },
+      {
+        "t": 1215,
+        "heading": "The Enemy's Use of Fear"
+      },
+      {
+        "t": 1452,
+        "heading": "Point 2: Resisting the Enemy"
+      },
+      {
+        "t": 2020,
+        "heading": "Point 3: Rejoicing in the Work of the Lord"
+      },
+      {
+        "t": 2346,
+        "heading": "Promises of God for the People of God"
+      }
+    ]
+  }
 }

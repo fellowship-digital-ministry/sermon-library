@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9KxM021cU1c.vtt",
   "duration": 2833,
   "transcription_timestamp": "2025-04-14T21:25:33.888944",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:1-7 on the letter to the church of Ephesus, covering the historical background of that church through Acts, 1-2 Timothy, and Ephesians, and examining Christ's commendation of the church for its labor, faithfulness, separation, and doctrinal soundness.",
+    "themes": [
+      "letters to the seven churches",
+      "church history and background",
+      "pastoral responsibility",
+      "separation and church purity",
+      "sound doctrine",
+      "christian service and labor"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Book Outline"
+      },
+      {
+        "t": 138,
+        "heading": "Background of the Church at Ephesus"
+      },
+      {
+        "t": 323,
+        "heading": "Paul's Charges to Ephesian Leaders"
+      },
+      {
+        "t": 785,
+        "heading": "Nature and Interpretation of the Seven Letters"
+      },
+      {
+        "t": 1108,
+        "heading": "Christ's Introduction in Verse One"
+      },
+      {
+        "t": 1531,
+        "heading": "Commendation for Labor and Faithfulness"
+      },
+      {
+        "t": 1988,
+        "heading": "Commendation for Separation and Doctrinal Soundness"
+      },
+      {
+        "t": 2636,
+        "heading": "Preview of the Correction to Come"
+      }
+    ]
+  }
 }

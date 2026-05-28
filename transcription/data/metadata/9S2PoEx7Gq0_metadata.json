@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9S2PoEx7Gq0.vtt",
   "duration": 2510,
   "transcription_timestamp": "2025-04-16T00:09:16.580838",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Deuteronomy 6:1-9 and Revelation 3:14-20 on wholehearted versus halfhearted devotion to God, drawing on the Shema and the letter to the church at Laodicea to examine the condition of lukewarmness in individual Christians and local churches.",
+    "themes": [
+      "wholehearted devotion",
+      "lukewarmness",
+      "zeal in christian service",
+      "the church at laodicea",
+      "backsliding",
+      "worship and congregational singing"
+    ],
+    "sections": [
+      {
+        "t": 282,
+        "heading": "Reading of Deuteronomy 6:1-9"
+      },
+      {
+        "t": 470,
+        "heading": "Halfhearted Christianity Described"
+      },
+      {
+        "t": 661,
+        "heading": "Congregational Singing as a Litmus Test"
+      },
+      {
+        "t": 1144,
+        "heading": "The Church at Laodicea Examined"
+      },
+      {
+        "t": 1522,
+        "heading": "Lukewarmness Defined from the Greek"
+      },
+      {
+        "t": 1989,
+        "heading": "Scripture Passages on Wholehearted Praise and Backsliding"
+      },
+      {
+        "t": 2132,
+        "heading": "The Cure for Halfheartedness and Its Effect on Future Generations"
+      },
+      {
+        "t": 2364,
+        "heading": "Children, Zeal, and the Call to Be All In"
+      }
+    ]
+  }
 }

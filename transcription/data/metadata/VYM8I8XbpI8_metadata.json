@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VYM8I8XbpI8.vtt",
   "duration": 3268,
   "transcription_timestamp": "2025-04-14T23:24:53.703526",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:3 and 2:8-13 on the first of five characteristics of a good soldier of Jesus Christ: enduring hardness. Drawing on Hebrews 12, 1 Peter 2, Hebrews 11, and 2 Corinthians 1 and 4, the message examines the expectation, the examples, and the six means by which God equips believers to endure.",
+    "themes": [
+      "enduring hardness",
+      "spiritual warfare",
+      "the believer as soldier",
+      "equipping for trials",
+      "perseverance",
+      "eternal perspective"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Overview"
+      },
+      {
+        "t": 93,
+        "heading": "Five Characteristics Introduced"
+      },
+      {
+        "t": 230,
+        "heading": "Expectation: Enduring Hardness"
+      },
+      {
+        "t": 789,
+        "heading": "Example of Christ and Paul"
+      },
+      {
+        "t": 1488,
+        "heading": "Examples from Hebrews 11"
+      },
+      {
+        "t": 1818,
+        "heading": "Six Ways God Equips Soldiers"
+      }
+    ]
+  }
 }

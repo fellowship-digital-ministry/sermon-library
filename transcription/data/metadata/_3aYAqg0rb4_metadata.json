@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_3aYAqg0rb4.vtt",
   "duration": 2101,
   "transcription_timestamp": "2025-04-15T06:25:10.523423",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Thessalonians 3:11-12 on the identification and correction of busybodies within the church at Thessalonica, situated as the twentieth lesson in a series through 1 and 2 Thessalonians. The passage is read against the backdrop of false teaching, idleness, and disorderly conduct addressed in the surrounding verses.",
+    "themes": [
+      "busybodies",
+      "disorderly behavior",
+      "idleness and work",
+      "self-examination",
+      "the word of god as confrontation and correction",
+      "local church life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: The Church at Thessalonica"
+      },
+      {
+        "t": 140,
+        "heading": "Text Introduced: Verses 11-12"
+      },
+      {
+        "t": 466,
+        "heading": "The Exposure of Busybodies"
+      },
+      {
+        "t": 884,
+        "heading": "The Exhortation to Busybodies"
+      },
+      {
+        "t": 1174,
+        "heading": "God's Word Confronts"
+      },
+      {
+        "t": 1323,
+        "heading": "God's Word Convicts"
+      },
+      {
+        "t": 1463,
+        "heading": "God's Word Corrects"
+      }
+    ]
+  }
 }

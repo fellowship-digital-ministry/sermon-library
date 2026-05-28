@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1AnI1m5Yp2c.vtt",
   "duration": 3358,
   "transcription_timestamp": "2025-04-16T01:27:03.680303",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 2:10 on God's individual plan for each believer, set within a year-long series on the greatness of God. Biblical examples from Exodus, the historical books, and the New Testament epistles illustrate how God calls, equips, and enables specific individuals to fulfill distinct roles within his larger purposes.",
+    "themes": [
+      "god's plan for the individual believer",
+      "workmanship and calling",
+      "spiritual gifts and equipping",
+      "fulfilling one's ministry",
+      "biblical examples of divine calling",
+      "god's greatness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 144,
+        "heading": "Ephesians 2:10 and Individual Divine Plans"
+      },
+      {
+        "t": 480,
+        "heading": "Old Testament Examples: Moses, Aaron, Bezalel"
+      },
+      {
+        "t": 949,
+        "heading": "Further Examples: Joshua, David, Elijah, Paul, Timothy"
+      },
+      {
+        "t": 1413,
+        "heading": "Finding God's Plan: Asking and Submitting"
+      },
+      {
+        "t": 2068,
+        "heading": "God's Equipping Through Gifts"
+      },
+      {
+        "t": 2499,
+        "heading": "Fulfilling God's Plan: Paul as Model"
+      },
+      {
+        "t": 2777,
+        "heading": "The Charge to Archippus and Hebrews 12"
+      }
+    ]
+  }
 }

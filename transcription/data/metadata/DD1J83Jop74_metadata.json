@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DD1J83Jop74.vtt",
   "duration": 2824,
   "transcription_timestamp": "2025-04-17T02:36:44.201660",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 4:5-6 on three aspects of godly conduct toward unbelievers: the believer's testimony, the use of time, and the character of speech. Supporting passages include 1 Samuel 18, James 4:13-14, Psalm 90, and 1 Peter 3:15.",
+    "themes": [
+      "christian testimony",
+      "redeeming the time",
+      "speech and the tongue",
+      "witnessing to unbelievers",
+      "godly conduct",
+      "complaining and thankfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Scripture as Revelation and Instruction"
+      },
+      {
+        "t": 280,
+        "heading": "Introduction to Colossians 4:5-6"
+      },
+      {
+        "t": 325,
+        "heading": "Testimony Toward Unbelievers"
+      },
+      {
+        "t": 788,
+        "heading": "Time as a Precious Commodity"
+      },
+      {
+        "t": 1345,
+        "heading": "Introduction to the Tongue"
+      },
+      {
+        "t": 1667,
+        "heading": "Speech Seasoned with Salt"
+      },
+      {
+        "t": 2288,
+        "heading": "Answering Questions and Readiness"
+      }
+    ]
+  }
 }

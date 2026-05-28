@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x6r4JdehzQM.vtt",
   "duration": 2772,
   "transcription_timestamp": "2025-04-16T08:51:42.082405",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 13:1 on the love of Christ, tracing the phrase 'he loved them unto the end' through the Gospel of John, the Pauline epistles, and the narrative of Lazarus to examine how God's love is to be remembered, rested in, and celebrated.",
+    "themes": [
+      "love of god",
+      "assurance of salvation",
+      "doubt and the believer",
+      "resting in god",
+      "rejoicing in scripture",
+      "the cross of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Year Theme and Prior Message Review"
+      },
+      {
+        "t": 378,
+        "heading": "John 13:1 and the Hour of Christ"
+      },
+      {
+        "t": 611,
+        "heading": "Doubting God's Love"
+      },
+      {
+        "t": 795,
+        "heading": "Reminding Ourselves of God's Love"
+      },
+      {
+        "t": 1589,
+        "heading": "Resting in God's Love"
+      },
+      {
+        "t": 2145,
+        "heading": "Rejoicing in God's Love"
+      },
+      {
+        "t": 2469,
+        "heading": "The Cycle of Reminding, Resting, and Rejoicing"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6ujPxedm1ss.vtt",
   "duration": 3178,
   "transcription_timestamp": "2025-04-16T14:03:41.719111",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jonah 4:1-2 addressing the question of whether God's judgment on ancient people groups is consistent with a loving and merciful God, drawing on examples from both Testaments to examine the harmony of God's attributes of grace, mercy, justice, and righteousness.",
+    "themes": [
+      "attributes of god",
+      "divine judgment",
+      "grace and mercy",
+      "old testament versus new testament god",
+      "repentance and consequence",
+      "apologetics"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Question Introduced from Jonah 4"
+      },
+      {
+        "t": 279,
+        "heading": "Approach to Scripture and Faulty Conclusions"
+      },
+      {
+        "t": 463,
+        "heading": "The Egyptians: Plagues and Warning"
+      },
+      {
+        "t": 793,
+        "heading": "The Amorites and Amalekites: Context of Judgment"
+      },
+      {
+        "t": 1363,
+        "heading": "Nineveh: Repentance and Spared Judgment"
+      },
+      {
+        "t": 1595,
+        "heading": "God's Judgment on Israel Itself"
+      },
+      {
+        "t": 2246,
+        "heading": "Judgment in the New Testament"
+      },
+      {
+        "t": 2912,
+        "heading": "Return to Jonah 4 and Answering Skeptics"
+      }
+    ]
+  }
 }

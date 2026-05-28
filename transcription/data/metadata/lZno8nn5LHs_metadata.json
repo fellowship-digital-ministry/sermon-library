@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/lZno8nn5LHs.vtt",
   "duration": 2712.0,
   "transcription_timestamp": "2026-05-28T16:11:32.421459",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 31:14-16 on the nature of trust in God during changing and difficult seasons of life, drawn from David's declaration 'But I trusted in Thee' against the backdrop of his troubles, likely the rebellion of Absalom.",
+    "themes": [
+      "trust in god",
+      "seasons of life",
+      "sovereignty of god",
+      "immutability of god",
+      "personal faith",
+      "trouble and difficulty"
+    ],
+    "sections": [
+      {
+        "t": 139,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 280,
+        "heading": "David's Trouble Described"
+      },
+      {
+        "t": 435,
+        "heading": "Seasons of Stress in Human Life"
+      },
+      {
+        "t": 626,
+        "heading": "Life Lived in Changing Seasons"
+      },
+      {
+        "t": 1006,
+        "heading": "God's Immutability and Sovereignty"
+      },
+      {
+        "t": 1246,
+        "heading": "God as Personal and the Call to Trust"
+      },
+      {
+        "t": 1662,
+        "heading": "Preparation Before Trouble Arrives"
+      },
+      {
+        "t": 1989,
+        "heading": "Trusting God When Overwhelmed"
+      }
+    ]
+  }
 }

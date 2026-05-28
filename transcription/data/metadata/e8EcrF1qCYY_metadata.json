@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\e8EcrF1qCYY.vtt",
   "duration": 2732,
   "transcription_timestamp": "2025-04-16T15:31:41.042148",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 5:1 on Peter's self-description as 'a witness of the sufferings of Christ,' tracing the record, reason, and result of Christ's suffering through the Gospels, Acts, Isaiah 53, and selected epistles, set against the approach of Easter.",
+    "themes": [
+      "sufferings of christ",
+      "crucifixion",
+      "redemption",
+      "eyewitness testimony",
+      "peter",
+      "witnessing and evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Peter as a Relatable Witness"
+      },
+      {
+        "t": 274,
+        "heading": "The Record of Christ's Suffering"
+      },
+      {
+        "t": 508,
+        "heading": "Arrest, Mockery, and Crucifixion in Luke"
+      },
+      {
+        "t": 937,
+        "heading": "The Reason for Suffering in 1 Peter and Isaiah 53"
+      },
+      {
+        "t": 1281,
+        "heading": "Peter's Testimony in Acts 3"
+      },
+      {
+        "t": 1518,
+        "heading": "The Result of Suffering: Redemption and Resurrection"
+      },
+      {
+        "t": 2039,
+        "heading": "Hebrews 12 and Enduring the Cross"
+      },
+      {
+        "t": 2180,
+        "heading": "Rejoicing and Sharing the Message"
+      }
+    ]
+  }
 }

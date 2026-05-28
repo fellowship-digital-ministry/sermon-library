@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\12L3c81JzTQ.vtt",
   "duration": 1989,
   "transcription_timestamp": "2025-04-17T01:28:24.563917",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 3:5-6 on the rest and peace David experienced after prayer during Absalom's rebellion, the third in a series through Psalm 3. Draws on Philippians 4:6-7, Psalm 27, Psalm 56, Psalm 118, Isaiah 26:3-4, and Hebrews 13:5-6 to examine the relationship between trust in God and freedom from worry.",
+    "themes": [
+      "peace and rest in god",
+      "worry and fear",
+      "trust and faith",
+      "prayer",
+      "god as sustainer",
+      "resolve against fear"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Psalm 3:1-4"
+      },
+      {
+        "t": 231,
+        "heading": "Introduction to Verses 5-6"
+      },
+      {
+        "t": 276,
+        "heading": "Worry Versus Leaving Burdens with God"
+      },
+      {
+        "t": 509,
+        "heading": "Philippians 4 and the Peace of God"
+      },
+      {
+        "t": 833,
+        "heading": "David's Resolve: I Will Not Fear"
+      },
+      {
+        "t": 1064,
+        "heading": "Parallel Psalms on Fearing and Trusting"
+      },
+      {
+        "t": 1397,
+        "heading": "Hebrews 13 and Isaiah 26 on God's Faithfulness"
+      },
+      {
+        "t": 1646,
+        "heading": "Illustration of Trust: Mailing a Letter"
+      }
+    ]
+  }
 }

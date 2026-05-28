@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4BBfiBe_jzw.vtt",
   "duration": 1457,
   "transcription_timestamp": "2025-04-16T16:07:53.831796",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:71 on affliction as a divinely appointed means of spiritual instruction, set within a broader Wednesday evening series on teachability and the methods God uses to teach His children.",
+    "themes": [
+      "affliction",
+      "divine teaching",
+      "suffering",
+      "spiritual growth",
+      "teachable spirit",
+      "god's sovereignty"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 143,
+        "heading": "The Classroom of Affliction Introduced"
+      },
+      {
+        "t": 243,
+        "heading": "Testimony of the Psalmist: Psalm 119"
+      },
+      {
+        "t": 489,
+        "heading": "Testimony of Paul: 2 Corinthians 4"
+      },
+      {
+        "t": 769,
+        "heading": "Paul's Thorn in the Flesh: 2 Corinthians 12"
+      },
+      {
+        "t": 1016,
+        "heading": "Psalm 34 and the Afflictions of the Righteous"
+      },
+      {
+        "t": 1113,
+        "heading": "Closing Quotes and Application"
+      }
+    ]
+  }
 }

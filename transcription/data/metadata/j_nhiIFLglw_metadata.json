@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/j_nhiIFLglw.vtt",
   "duration": 2225.0,
   "transcription_timestamp": "2026-05-27T14:24:17.543193",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 40:1-38 on the completion of the tabernacle and the filling of the Lord's glory, tracing the relationship between God's specific commands, Moses' obedience, and the resulting divine presence. Parallel passages in 2 Chronicles 5 and John 2 are drawn in to reinforce the pattern of instruction followed by obedience followed by blessing.",
+    "themes": [
+      "obedience to god's word",
+      "the tabernacle",
+      "divine instruction",
+      "the glory of god",
+      "faithfulness in completing a task",
+      "doing versus hearing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Title Verse"
+      },
+      {
+        "t": 47,
+        "heading": "Background: Tabernacle Instructions and Construction"
+      },
+      {
+        "t": 144,
+        "heading": "The Word \"Then\" and the Desired Result"
+      },
+      {
+        "t": 245,
+        "heading": "God's Specific Commands: \"And Thou Shalt\""
+      },
+      {
+        "t": 726,
+        "heading": "Moses' Complete Obedience: \"As the Lord Commanded Moses\""
+      },
+      {
+        "t": 1049,
+        "heading": "John 2: Whatsoever He Saith, Do It"
+      },
+      {
+        "t": 1521,
+        "heading": "2 Chronicles 5: Solomon's Temple and the Same Pattern"
+      },
+      {
+        "t": 1842,
+        "heading": "Application: Obedience as the Path to \"Then\""
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\blAWZntFW5E.vtt",
   "duration": 1897,
   "transcription_timestamp": "2025-04-17T15:30:29.222772",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Samuel 23:16-18 on Jonathan's visit to David in the wilderness of Ziph, set within the broader context of Saul's pursuit of David across 1 Samuel 18-23. Job 4:3-4 and the figure of Barnabas are drawn in as parallel examples of encouragement.",
+    "themes": [
+      "encouragement",
+      "friendship",
+      "awareness of others' trials",
+      "taking action",
+      "god's protection",
+      "god's promises"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: David Fleeing Saul"
+      },
+      {
+        "t": 91,
+        "heading": "1 Samuel 23: Keilah and Saul's Plan"
+      },
+      {
+        "t": 381,
+        "heading": "Passage Introduction and Sermon Title"
+      },
+      {
+        "t": 432,
+        "heading": "Jonathan Aware of the Situation"
+      },
+      {
+        "t": 819,
+        "heading": "Jonathan Takes Action to Strengthen David"
+      },
+      {
+        "t": 1057,
+        "heading": "What Jonathan Said to David"
+      },
+      {
+        "t": 1572,
+        "heading": "Job 4 and Other Biblical Encouragers"
+      }
+    ]
+  }
 }

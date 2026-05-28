@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ryn7Axm_fJs.vtt",
   "duration": 0.0,
   "transcription_timestamp": "2026-05-27T14:32:22.889365",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 6:1-10 on the partnership, urgency, and conduct required of those engaged in the ministry of reconciliation, framed around the calling of believers as co-laborers with God.",
+    "themes": [
+      "ministry of reconciliation",
+      "co-laboring with god",
+      "urgency of evangelism",
+      "conduct of the minister",
+      "endurance in ministry",
+      "filling of the holy spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Prior Ministry Themes"
+      },
+      {
+        "t": 138,
+        "heading": "Partnership of the Ministry"
+      },
+      {
+        "t": 791,
+        "heading": "Urgency of the Ministry"
+      },
+      {
+        "t": 1120,
+        "heading": "Conduct of the Minister Introduced"
+      },
+      {
+        "t": 1411,
+        "heading": "Hardships the Minister Endures"
+      },
+      {
+        "t": 1599,
+        "heading": "Four Means of Endurance"
+      },
+      {
+        "t": 2028,
+        "heading": "Honor, Dishonor, and Perspective"
+      }
+    ]
+  }
 }

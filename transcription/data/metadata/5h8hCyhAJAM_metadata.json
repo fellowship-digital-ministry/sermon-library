@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5h8hCyhAJAM.vtt",
   "duration": 2939,
   "transcription_timestamp": "2025-04-15T10:03:37.815214",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 43:1-44:34 tracing the second journey of Joseph's brothers to Egypt, with sustained focus on God's pursuit of the brothers through famine, feast, and the discovery of Joseph's silver cup in Benjamin's sack, culminating in Judah's plea and brokenness before Joseph.",
+    "themes": [
+      "conviction of sin",
+      "covering versus confessing sin",
+      "brokenness and repentance",
+      "god's pursuit of sinners",
+      "mercy and forgiveness",
+      "obedience"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 42 and Context"
+      },
+      {
+        "t": 467,
+        "heading": "The Famine: Pressure to Return to Egypt"
+      },
+      {
+        "t": 886,
+        "heading": "The Feast: Brothers Received at Joseph's House"
+      },
+      {
+        "t": 1224,
+        "heading": "The Cup Planted and Brothers Sent Away"
+      },
+      {
+        "t": 1368,
+        "heading": "The Cup Found in Benjamin's Sack"
+      },
+      {
+        "t": 1654,
+        "heading": "Judah's Plea Before Joseph"
+      },
+      {
+        "t": 2027,
+        "heading": "Covering Sin Versus Confessing Sin"
+      },
+      {
+        "t": 2612,
+        "heading": "Psalm 51 and Brokenness Before God"
+      }
+    ]
+  }
 }

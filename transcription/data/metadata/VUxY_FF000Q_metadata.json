@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VUxY_FF000Q.vtt",
   "duration": 3062,
   "transcription_timestamp": "2025-04-15T01:24:43.503997",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 6:11-12 on three commands given to Timothy as a man of God: to flee temporal and money-driven pursuits, to follow after six named virtues, and to fight the good fight of faith. The address 'O man of God' frames a broader discussion of what marks a genuine man or woman of God.",
+    "themes": [
+      "the man of god",
+      "fleeing worldly pursuits",
+      "christian virtues",
+      "faith and spiritual growth",
+      "spiritual warfare",
+      "christian testimony"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Context and Prior Passage"
+      },
+      {
+        "t": 137,
+        "heading": "The Address 'Man of God'"
+      },
+      {
+        "t": 467,
+        "heading": "Instruction to Flee"
+      },
+      {
+        "t": 711,
+        "heading": "Instruction to Follow Six Virtues"
+      },
+      {
+        "t": 2128,
+        "heading": "Instruction to Fight the Good Fight"
+      },
+      {
+        "t": 2366,
+        "heading": "Lay Hold on Eternal Life"
+      },
+      {
+        "t": 2599,
+        "heading": "Timothy's Testimony Before Witnesses"
+      }
+    ]
+  }
 }

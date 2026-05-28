@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B2bISRh1PFo.vtt",
   "duration": 3568,
   "transcription_timestamp": "2025-04-17T14:11:05.317308",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 1:13-15 on self-examination as a discipline of the Christian life, framed around preparation for revival and the coming accountability at the judgment seat of Christ. The sermon draws supporting passages from 2 Corinthians 6-7, Philippians 4:8, Ephesians 4-5, and Acts 19 to survey specific areas of conduct subject to review.",
+    "themes": [
+      "self-examination",
+      "revival preparation",
+      "holiness",
+      "christian conduct",
+      "accountability before god",
+      "separation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening and Revival Context"
+      },
+      {
+        "t": 144,
+        "heading": "Old Testament Revivals and Temple Cleansing"
+      },
+      {
+        "t": 336,
+        "heading": "Self-Examination Introduced"
+      },
+      {
+        "t": 575,
+        "heading": "The Audit Analogy and the Four R Framework"
+      },
+      {
+        "t": 760,
+        "heading": "Review: Standard and Purpose"
+      },
+      {
+        "t": 1272,
+        "heading": "Recognize: Areas of Conduct Examined"
+      },
+      {
+        "t": 2622,
+        "heading": "Resolve: Dealing with Identified Sin"
+      },
+      {
+        "t": 3045,
+        "heading": "Result: Prepared to Give Account"
+      }
+    ]
+  }
 }

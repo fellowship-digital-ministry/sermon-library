@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KskHW1EZsM8.vtt",
   "duration": 2675,
   "transcription_timestamp": "2025-04-16T11:30:23.556498",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:14-15 on confident prayer, situated within a series through 1 John and centered on the believer's access to God, the condition of praying according to God's will, and the resulting closer walk with Him.",
+    "themes": [
+      "prayer",
+      "confidence in prayer",
+      "will of god",
+      "fellowship with god",
+      "abiding in christ",
+      "answered prayer"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 227,
+        "heading": "John as Eyewitness and Observer of Prayer"
+      },
+      {
+        "t": 506,
+        "heading": "Confidence in Prayer Defined"
+      },
+      {
+        "t": 835,
+        "heading": "God as Willing Answerer of Prayer"
+      },
+      {
+        "t": 1130,
+        "heading": "The Condition: Praying According to His Will"
+      },
+      {
+        "t": 1607,
+        "heading": "Examples of Praying According to His Will"
+      },
+      {
+        "t": 1894,
+        "heading": "The Product: A Closer Walk with God"
+      },
+      {
+        "t": 2079,
+        "heading": "Bowing the Ear and the Cycle of Prayer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d8tHudo0_3I.vtt",
   "duration": 2941,
   "transcription_timestamp": "2025-04-17T06:18:28.173626",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 1:14-16 on the apostle Paul's sense of obligation, readiness, and unashamed passion for the gospel, framed around three phrases: 'I am debtor,' 'I am ready,' and 'I am not ashamed.' Supporting texts from Acts, 1 Corinthians, 2 Corinthians, 1 Thessalonians, and Galatians illustrate Paul's perspective and practice.",
+    "themes": [
+      "gospel witness",
+      "personal evangelism",
+      "shame and boldness",
+      "spiritual passion",
+      "obligation to the lost",
+      "preparation for witnessing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: The Gospel Entrusted"
+      },
+      {
+        "t": 99,
+        "heading": "Acts: Opposition Testifies to Gospel Power"
+      },
+      {
+        "t": 333,
+        "heading": "Verse 14: Paul's Perspective, 'I Am Debtor'"
+      },
+      {
+        "t": 984,
+        "heading": "Verse 15: Paul's Preparation, 'I Am Ready'"
+      },
+      {
+        "t": 1648,
+        "heading": "Verse 16: Paul's Passion, 'I Am Not Ashamed'"
+      },
+      {
+        "t": 2069,
+        "heading": "Acts 17-20: Paul's Manner and Tears in Witness"
+      },
+      {
+        "t": 2546,
+        "heading": "Closing Appeal: Perspective, Preparation, and Passion"
+      }
+    ]
+  }
 }

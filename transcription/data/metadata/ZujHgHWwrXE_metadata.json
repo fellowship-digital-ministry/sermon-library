@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZujHgHWwrXE.vtt",
   "duration": 2091,
   "transcription_timestamp": "2025-04-15T06:38:38.404526",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:23 on sanctification, situated as the culminating lesson in a series through 1 Thessalonians 5:12-22 titled 'Walk Worthy, Please God.' Positional and practical sanctification are distinguished, with supporting texts drawn from 1 Corinthians, Ephesians, 1 Peter, and 1 Thessalonians 4.",
+    "themes": [
+      "sanctification",
+      "positional vs. practical sanctification",
+      "holiness",
+      "conformity to christ",
+      "the example of paul",
+      "the return of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 135,
+        "heading": "Sanctification as the Goal of the Instruction"
+      },
+      {
+        "t": 229,
+        "heading": "Positional Sanctification Defined"
+      },
+      {
+        "t": 370,
+        "heading": "Practical and Progressive Sanctification"
+      },
+      {
+        "t": 837,
+        "heading": "Paul as an Example of Sanctification"
+      },
+      {
+        "t": 1347,
+        "heading": "God's Expectation of Sanctification"
+      },
+      {
+        "t": 1812,
+        "heading": "Prayer, Preservation, and the Return of Christ"
+      }
+    ]
+  }
 }

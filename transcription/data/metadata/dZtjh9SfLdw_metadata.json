@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\dZtjh9SfLdw.vtt",
   "duration": 3117,
   "transcription_timestamp": "2025-04-14T23:50:19.325154",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 1:3-15 on Paul's concern for Timothy, his confidence in God, and his charge to hold fast to sound doctrine, set against the backdrop of Timothy's pressures in Ephesus and Paul's impending martyrdom. Verse 12 serves as the organizing text: 'I know whom I have believed.'",
+    "themes": [
+      "perseverance in ministry",
+      "concern for fellow believers",
+      "confidence in god",
+      "sound doctrine",
+      "suffering for christ",
+      "assurance of salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 330,
+        "heading": "Verse 12 as Organizing Text"
+      },
+      {
+        "t": 470,
+        "heading": "Paul's Concern for Timothy"
+      },
+      {
+        "t": 1409,
+        "heading": "Paul's Confidence in the Lord"
+      },
+      {
+        "t": 2323,
+        "heading": "Paul's Charge to Timothy"
+      },
+      {
+        "t": 2799,
+        "heading": "Closing Application and Invitation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/MODJ0wQftRk.vtt",
   "duration": 3112.0,
   "transcription_timestamp": "2026-05-27T16:22:49.192387",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Samuel 12, focused on Samuel's farewell charge to Israel to serve the Lord with all their heart, tracing the theme of service from the Old Testament priesthood through New Testament passages in Ephesians 2, 1 Peter 2, Titus 2-3, and Hebrews 13. The sermon develops two organizing principles: serving God as a privilege and serving God as a responsibility, grounded in the believer's identity as a royal priesthood.",
+    "themes": [
+      "serving the lord",
+      "royal priesthood of believers",
+      "spiritual gifts",
+      "good works",
+      "church ministry involvement",
+      "privilege and responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 277,
+        "heading": "Samuel's Farewell Address in 1 Samuel 12"
+      },
+      {
+        "t": 602,
+        "heading": "Samuel's Call to Serve the Lord"
+      },
+      {
+        "t": 925,
+        "heading": "Serving God: Privilege and Responsibility"
+      },
+      {
+        "t": 1395,
+        "heading": "Old Testament Priesthood and Eligibility to Serve"
+      },
+      {
+        "t": 1815,
+        "heading": "New Testament Royal Priesthood and Good Works"
+      },
+      {
+        "t": 2571,
+        "heading": "Practical Ministry Opportunities in the Local Church"
+      }
+    ]
+  }
 }

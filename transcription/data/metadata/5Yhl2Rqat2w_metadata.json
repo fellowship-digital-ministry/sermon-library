@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5Yhl2Rqat2w.vtt",
   "duration": 2601,
   "transcription_timestamp": "2025-04-17T15:07:51.494689",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An expository study of Genesis 11:10-32, tracing the genealogy from Shem to Abram as the thirty-fifth lesson in an ongoing series through Genesis. The passage is examined as the scriptural lens narrowing toward Abraham and the messianic line, with chronological calculations anchoring events to years after the flood.",
+    "themes": [
+      "genealogy and chronology",
+      "messianic line",
+      "attacks on genesis",
+      "longevity before and after the flood",
+      "abraham and the patriarchs",
+      "scripture interpreting scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Overview"
+      },
+      {
+        "t": 96,
+        "heading": "Genesis 1-11 as Foundational Narrative"
+      },
+      {
+        "t": 388,
+        "heading": "Generations of Shem: Post-Flood Timeline"
+      },
+      {
+        "t": 809,
+        "heading": "Generations of Terah and Birth of Abram"
+      },
+      {
+        "t": 1045,
+        "heading": "Acts 7 and the Age of Terah at Abram's Birth"
+      },
+      {
+        "t": 1373,
+        "heading": "Introduction to Abram: Family, Origins, and Sarai"
+      },
+      {
+        "t": 1838,
+        "heading": "Journey from Ur of the Chaldees to Haran"
+      },
+      {
+        "t": 2025,
+        "heading": "Survey of Genesis 1-11 and Focus on Abraham"
+      }
+    ]
+  }
 }

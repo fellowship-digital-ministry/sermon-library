@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\C4vnJdsfZok.vtt",
   "duration": 2904,
   "transcription_timestamp": "2025-04-14T21:02:04.819728",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 4:14-22 on the strength and security God provides for Christian service, drawn from Paul's closing testimony to Timothy and tracing three aspects of Paul's experience: salvation, divine strengthening, and security in God's hand.",
+    "themes": [
+      "salvation",
+      "divine strength",
+      "security in christ",
+      "opposition and perseverance",
+      "the family of god",
+      "glorifying god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Theme and Context"
+      },
+      {
+        "t": 137,
+        "heading": "Reading of 2 Timothy 4:14-22"
+      },
+      {
+        "t": 230,
+        "heading": "Greeting Brothers and Sisters by Name"
+      },
+      {
+        "t": 464,
+        "heading": "Paul's Testimony in Verses 17-18"
+      },
+      {
+        "t": 653,
+        "heading": "Paul Was Saved"
+      },
+      {
+        "t": 1360,
+        "heading": "Paul Was Strengthened"
+      },
+      {
+        "t": 1875,
+        "heading": "Paul Was Secure"
+      },
+      {
+        "t": 2686,
+        "heading": "Closing Application and Invitation"
+      }
+    ]
+  }
 }

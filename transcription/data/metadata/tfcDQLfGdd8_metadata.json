@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\tfcDQLfGdd8.vtt",
   "duration": 2350,
   "transcription_timestamp": "2025-04-17T13:42:39.281704",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 14 on the capture of Lot and Abram's military rescue, set within a series through Genesis (lesson 39). The narrative of a regional coalition war and its effect on Lot serves as the basis for parallel lessons on spiritual desensitization and spiritual warfare drawn from Ephesians 6 and 2 Corinthians 10.",
+    "themes": [
+      "spiritual warfare",
+      "desensitization to worldliness",
+      "dependence on god",
+      "the armor of god",
+      "lot's gradual compromise",
+      "abram's faith and victory"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "The Coalition War and Its Combatants"
+      },
+      {
+        "t": 431,
+        "heading": "Lot Captured in Battle"
+      },
+      {
+        "t": 576,
+        "heading": "Lot's Drift from Canaan into Sodom"
+      },
+      {
+        "t": 805,
+        "heading": "Abram Prepares and Pursues"
+      },
+      {
+        "t": 1131,
+        "heading": "Abram Victorious, Goods Restored"
+      },
+      {
+        "t": 1414,
+        "heading": "Application: Incremental Desensitization"
+      },
+      {
+        "t": 1600,
+        "heading": "Application: Spiritual Warfare and the Armor of God"
+      }
+    ]
+  }
 }

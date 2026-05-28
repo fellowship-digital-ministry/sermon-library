@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eKXXb-CvsCo.vtt",
   "duration": 2506,
   "transcription_timestamp": "2025-04-14T21:06:14.992256",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 21:15-19 on Peter's post-denial restoration and the call to love God wholeheartedly, set against the backdrop of the Revelation 2 correction to the church at Ephesus for leaving their first love. Supporting passages from Deuteronomy, Isaiah, and Jeremiah develop the theme of heart-centered devotion versus outward religious form.",
+    "themes": [
+      "loving god with all the heart",
+      "leaving the first love",
+      "self-examination",
+      "restoration",
+      "divided heart",
+      "personal interaction with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Connection to Ephesus and First Love"
+      },
+      {
+        "t": 187,
+        "heading": "Reading of John 21:15-19"
+      },
+      {
+        "t": 327,
+        "heading": "Peter's Background and Denials"
+      },
+      {
+        "t": 516,
+        "heading": "The Interaction Was Personal"
+      },
+      {
+        "t": 940,
+        "heading": "The Interaction Was Purposed: Examination and Restoration"
+      },
+      {
+        "t": 1716,
+        "heading": "The Interaction Was Productive"
+      },
+      {
+        "t": 2095,
+        "heading": "Isaiah and Jeremiah on Heart Devotion"
+      },
+      {
+        "t": 2329,
+        "heading": "Warning Against a Divided Heart"
+      }
+    ]
+  }
 }

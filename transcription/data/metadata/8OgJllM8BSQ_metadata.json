@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8OgJllM8BSQ.vtt",
   "duration": 2148,
   "transcription_timestamp": "2025-04-14T23:06:27.967264",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 12:3 on humility within the context of spiritual gifts, drawing on Old Testament examples, Pauline epistles, and the warning that pride precedes destruction and divine resistance.",
+    "themes": [
+      "humility",
+      "pride",
+      "spiritual gifts",
+      "the flesh",
+      "proper view of god",
+      "proper view of self"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 92,
+        "heading": "Romans 12:3 and the Charge to Every Man"
+      },
+      {
+        "t": 235,
+        "heading": "Acknowledging the Desire of the Flesh"
+      },
+      {
+        "t": 586,
+        "heading": "Acknowledging the Danger of Pride"
+      },
+      {
+        "t": 1007,
+        "heading": "Maintaining a Proper View of God"
+      },
+      {
+        "t": 1342,
+        "heading": "Maintaining a Proper View of Self"
+      },
+      {
+        "t": 1725,
+        "heading": "Paul in 2 Corinthians 12 on Refusing Glory"
+      }
+    ]
+  }
 }

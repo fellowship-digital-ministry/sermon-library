@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hwLKY1FAuwU.vtt",
   "duration": 3246,
   "transcription_timestamp": "2025-04-15T06:08:50.002945",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 5:17-25 on the compensation and conduct expected of church elders, set within a verse-by-verse study of 1 Timothy at Fellowship Baptist Church. Supporting texts from Romans 15, 1 Corinthians 9, Galatians 6, Proverbs 24 and 28, and James 2 are drawn in to address pastoral support, partiality, and the interpretation of verse 23 on wine.",
+    "themes": [
+      "pastoral compensation",
+      "elder conduct",
+      "pursuing purity",
+      "rejecting partiality",
+      "alcohol and abstinence",
+      "church responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to 1 Timothy Series"
+      },
+      {
+        "t": 413,
+        "heading": "Transition to Elders in Chapter 5"
+      },
+      {
+        "t": 552,
+        "heading": "Compensation for an Elder"
+      },
+      {
+        "t": 1119,
+        "heading": "Supporting Texts on Pastoral Support"
+      },
+      {
+        "t": 1588,
+        "heading": "Conduct of an Elder: Pursuing Purity"
+      },
+      {
+        "t": 2152,
+        "heading": "Rejecting Partiality"
+      },
+      {
+        "t": 2476,
+        "heading": "The Matter of Wine in Verse 23"
+      }
+    ]
+  }
 }

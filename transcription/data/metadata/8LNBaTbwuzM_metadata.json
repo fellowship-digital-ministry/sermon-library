@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8LNBaTbwuzM.vtt",
   "duration": 2207,
   "transcription_timestamp": "2025-04-16T15:35:29.661761",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 30:18-24 and 35:16-20 tracing the births of Jacob's final sons, with attention to the spiritual and carnal patterns reflected in the names given by Leah and Rachel. Part two of a series on the sons of Jacob, drawing application from the rivalry between the two mothers to the dangers of external influences on personal spiritual walk.",
+    "themes": [
+      "carnality vs. spirituality",
+      "envy and competition",
+      "the names of the sons of jacob",
+      "external influences on the christian walk",
+      "spiritual gifts",
+      "life as a story being written"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Sons One Through Eight"
+      },
+      {
+        "t": 333,
+        "heading": "Son Nine: Issachar and Carnality"
+      },
+      {
+        "t": 523,
+        "heading": "Son Ten: Zebulun and Leah's Longing"
+      },
+      {
+        "t": 615,
+        "heading": "Son Eleven: Joseph and Rachel's Faith"
+      },
+      {
+        "t": 1175,
+        "heading": "Psalm 90 and the Life Story Illustration"
+      },
+      {
+        "t": 1660,
+        "heading": "Son Twelve: Benjamin and Rachel's Death"
+      },
+      {
+        "t": 1800,
+        "heading": "Corinth and Carnal Competition Among Believers"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/thHbuJ_uXzw.vtt",
   "duration": 3427.0,
   "transcription_timestamp": "2026-05-27T16:18:22.011004",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:12 on the blessing and reward promised to the believer who endures trials, situated as the concluding verse of the trials section (James 1:2-12) in an ongoing study through the book of James.",
+    "themes": [
+      "trials and suffering",
+      "endurance",
+      "spiritual maturity",
+      "the crown of life",
+      "loving god",
+      "eternal reward"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Remarks and Context"
+      },
+      {
+        "t": 189,
+        "heading": "Review of Trials Principles in James 1"
+      },
+      {
+        "t": 376,
+        "heading": "James 1:12 Introduced and Clarified"
+      },
+      {
+        "t": 515,
+        "heading": "The Conduct: Enduring and Loving God"
+      },
+      {
+        "t": 1395,
+        "heading": "The Condition: Being in a Trial"
+      },
+      {
+        "t": 2088,
+        "heading": "The Confidence: Blessed and Rewarded"
+      },
+      {
+        "t": 2980,
+        "heading": "Crowns and Eternal Perspective in 1 Corinthians 9"
+      },
+      {
+        "t": 3217,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

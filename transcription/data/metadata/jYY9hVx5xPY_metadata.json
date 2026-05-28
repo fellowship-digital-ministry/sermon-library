@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jYY9hVx5xPY.vtt",
   "duration": 2398,
   "transcription_timestamp": "2025-04-15T09:45:44.290853",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 1:18-20 on the charge Paul gives Timothy to war a good warfare, covering the nature of spiritual battle, doctrinal steadfastness, righteous living, and the case of Hymenaeus and Alexander as examples of shipwrecked faith.",
+    "themes": [
+      "spiritual warfare",
+      "sound doctrine",
+      "conscience and righteous living",
+      "church discipline",
+      "false teaching",
+      "the christian soldier"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Charge to Timothy"
+      },
+      {
+        "t": 285,
+        "heading": "Understanding the Spiritual Battle"
+      },
+      {
+        "t": 430,
+        "heading": "Ephesians 6 and the Armor of God"
+      },
+      {
+        "t": 715,
+        "heading": "Unwavering in Belief and Sound Doctrine"
+      },
+      {
+        "t": 1197,
+        "heading": "Shipwreck and Church Discipline"
+      },
+      {
+        "t": 1667,
+        "heading": "A Good Conscience and Upright Behavior"
+      },
+      {
+        "t": 2145,
+        "heading": "Summary of the Three Charges"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G5YRE5OaH7s.vtt",
   "duration": 2080,
   "transcription_timestamp": "2025-04-15T07:32:31.313852",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:22 on the command to abstain from all appearance of evil, tracing the biblical progression from Old Testament prohibitions against doing evil to the higher standard placed on New Testament believers.",
+    "themes": [
+      "abstaining from evil",
+      "christian testimony",
+      "holiness",
+      "separation",
+      "christian conduct",
+      "grace and holy living"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "Old Testament Commands Against Evil"
+      },
+      {
+        "t": 376,
+        "heading": "New Testament Higher Standard"
+      },
+      {
+        "t": 515,
+        "heading": "Defining Evil and the Word Abstain"
+      },
+      {
+        "t": 1030,
+        "heading": "Applying the Principle in Daily Life"
+      },
+      {
+        "t": 1270,
+        "heading": "Two Questions for Examining Activities"
+      },
+      {
+        "t": 1600,
+        "heading": "Abstaining as a Guard Against Doing Evil"
+      }
+    ]
+  }
 }

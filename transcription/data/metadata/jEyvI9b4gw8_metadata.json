@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jEyvI9b4gw8.vtt",
   "duration": 2795,
   "transcription_timestamp": "2025-04-17T14:00:09.070792",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 13 on the return of Abram from Egypt to Canaan, tracing his walk back to the promised land, his wisdom in resolving strife with Lot's herdmen, and his worship through altar-building after God renews the covenant promise of land and seed.",
+    "themes": [
+      "strife and unity among brethren",
+      "wisdom from god",
+      "worship and altar-building",
+      "the promises of god",
+      "walking with god",
+      "humility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 12 and Egypt"
+      },
+      {
+        "t": 236,
+        "heading": "Abram's Walk Back to Canaan"
+      },
+      {
+        "t": 707,
+        "heading": "Strife Between the Herdmen"
+      },
+      {
+        "t": 892,
+        "heading": "Abram's Wisdom and Lot's Choice"
+      },
+      {
+        "t": 938,
+        "heading": "Solomon and the Wisdom of God"
+      },
+      {
+        "t": 1460,
+        "heading": "New Testament Call Against Strife"
+      },
+      {
+        "t": 1896,
+        "heading": "God Speaks to Abram and Renews the Promise"
+      },
+      {
+        "t": 2322,
+        "heading": "Abram's Worship and Altar at Hebron"
+      }
+    ]
+  }
 }

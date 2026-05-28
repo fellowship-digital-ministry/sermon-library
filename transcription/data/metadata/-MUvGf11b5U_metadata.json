@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\-MUvGf11b5U.vtt",
   "duration": 2461,
   "transcription_timestamp": "2025-04-16T08:12:08.169546",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 37:12-30 on Joseph's journey to find his brothers, their conspiracy against him, and his sale into slavery, tracing the concern of Jacob, the cruelty of the brothers, and the confusion of Joseph as he is cast into a pit and sold to the Ishmaelites for twenty pieces of silver.",
+    "themes": [
+      "obedience to a mission",
+      "submission to god's will",
+      "betrayal and suffering",
+      "god's sovereignty",
+      "unexpected trials",
+      "trust in god's plan"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Prior Context"
+      },
+      {
+        "t": 276,
+        "heading": "The Concern of Jacob"
+      },
+      {
+        "t": 505,
+        "heading": "Joseph's Obedience to the Mission"
+      },
+      {
+        "t": 933,
+        "heading": "The Conspiracy of the Brothers"
+      },
+      {
+        "t": 1316,
+        "heading": "Sale of Joseph to the Ishmaelites"
+      },
+      {
+        "t": 1547,
+        "heading": "The Confusion of Joseph"
+      },
+      {
+        "t": 1825,
+        "heading": "God's Sovereignty Over the Story"
+      },
+      {
+        "t": 2259,
+        "heading": "Points of Application"
+      }
+    ]
+  }
 }

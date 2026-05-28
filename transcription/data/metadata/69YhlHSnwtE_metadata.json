@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\69YhlHSnwtE.vtt",
   "duration": 1845,
   "transcription_timestamp": "2025-04-17T20:29:22.115281",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 9:8-17 on the Noahic Covenant, covering its terms, its recipients, and the rainbow as its token, situated within a verse-by-verse Sunday evening series through Genesis.",
+    "themes": [
+      "noahic covenant",
+      "global flood",
+      "rainbow as covenant sign",
+      "god as covenant initiator",
+      "unconditional covenant",
+      "second coming of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 8-9:1-7"
+      },
+      {
+        "t": 287,
+        "heading": "Introduction to the Noahic Covenant"
+      },
+      {
+        "t": 475,
+        "heading": "Details of the Covenant"
+      },
+      {
+        "t": 707,
+        "heading": "The Global Flood and Covenant Promise"
+      },
+      {
+        "t": 983,
+        "heading": "The Rainbow as Covenant Token"
+      },
+      {
+        "t": 1168,
+        "heading": "Duration of the Covenant"
+      },
+      {
+        "t": 1352,
+        "heading": "Isaiah 54 and 2 Peter 3 Cross-References"
+      },
+      {
+        "t": 1582,
+        "heading": "Future Destruction and Gospel Appeal"
+      }
+    ]
+  }
 }

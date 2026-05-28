@@ -8,5 +8,55 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mGFBKSQ9gYE.vtt",
   "duration": 3195.0,
   "transcription_timestamp": "2026-05-27T15:47:23.257714",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 2:1-13 on partiality within the assembly, tracing the meaning, manifestations, and remedy of favoritism based on economic status, race, religion, and politics, with supporting passages from Leviticus, Deuteronomy, Acts, Romans, and Revelation.",
+    "themes": [
+      "partiality",
+      "respecter of persons",
+      "economic status and class",
+      "race and ethnicity",
+      "biblical christianity as remedy",
+      "spiritual maturity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to James 2:1"
+      },
+      {
+        "t": 138,
+        "heading": "Context: Faith Lived Out"
+      },
+      {
+        "t": 381,
+        "heading": "Partiality Explained: Verses 2-3"
+      },
+      {
+        "t": 764,
+        "heading": "Forms of Partiality: Economic, Religious, Political, Racial"
+      },
+      {
+        "t": 1045,
+        "heading": "Partiality Exposed: Verses 4-7"
+      },
+      {
+        "t": 1458,
+        "heading": "Partiality Expelled: Old and New Testament Grounds"
+      },
+      {
+        "t": 1969,
+        "heading": "Old Testament Witness: Leviticus and Deuteronomy"
+      },
+      {
+        "t": 2062,
+        "heading": "New Testament Witness: Acts, Romans, and Revelation"
+      },
+      {
+        "t": 2717,
+        "heading": "Return to Verse 1 and John 4"
+      }
+    ]
+  }
 }

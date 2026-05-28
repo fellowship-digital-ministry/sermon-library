@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HkgfNx0SoXk.vtt",
   "duration": 2751,
   "transcription_timestamp": "2025-04-17T20:05:38.230624",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 2:1-9 on the mindset, motive, and method of gospel proclamation, drawn from Paul's brief ministry in Thessalonica during his second missionary journey and set alongside supporting passages in Romans, 2 Corinthians, and Philippians.",
+    "themes": [
+      "gospel proclamation",
+      "evangelism",
+      "the apostle paul",
+      "humility in ministry",
+      "motives in ministry",
+      "passion for the lost"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Background"
+      },
+      {
+        "t": 145,
+        "heading": "Paul's Ministry in Thessalonica"
+      },
+      {
+        "t": 284,
+        "heading": "The Church in Thessalonica as a Model"
+      },
+      {
+        "t": 477,
+        "heading": "Paul's Mindset Toward the Gospel"
+      },
+      {
+        "t": 1042,
+        "heading": "Paul's Motive: Pleasing and Glorifying God"
+      },
+      {
+        "t": 1731,
+        "heading": "Paul's Method: Humility, Gentleness, and Faithfulness"
+      },
+      {
+        "t": 2150,
+        "heading": "Grace Received and Grace Extended"
+      },
+      {
+        "t": 2429,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

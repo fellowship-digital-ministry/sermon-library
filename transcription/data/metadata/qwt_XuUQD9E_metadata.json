@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qwt_XuUQD9E.vtt",
   "duration": 2947,
   "transcription_timestamp": "2025-04-15T23:54:35.884006",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 1:3-9 on rejoicing through trials, drawing three enabling truths for believers: their position in Christ, the power of God, and the purpose of God in suffering. Supporting passages from Habakkuk 3, Acts 5, Acts 16, John 11, James 1, and Job 23 illustrate the theme across both Testaments.",
+    "themes": [
+      "rejoicing in trials",
+      "position in christ",
+      "power of god",
+      "purpose of suffering",
+      "spiritual growth",
+      "perseverance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 193,
+        "heading": "The Central Question: Response to Trials"
+      },
+      {
+        "t": 241,
+        "heading": "Biblical Examples of Rejoicing in Trials"
+      },
+      {
+        "t": 767,
+        "heading": "Text Reading: 1 Peter 1:3-9"
+      },
+      {
+        "t": 817,
+        "heading": "First Truth: Position in Christ"
+      },
+      {
+        "t": 1423,
+        "heading": "Second Truth: Power of God"
+      },
+      {
+        "t": 1662,
+        "heading": "Third Truth: Purpose of God"
+      },
+      {
+        "t": 2623,
+        "heading": "Closing Scriptures and Summary"
+      }
+    ]
+  }
 }

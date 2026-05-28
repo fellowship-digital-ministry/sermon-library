@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yV-HhfyMF_o.vtt",
   "duration": 2626,
   "transcription_timestamp": "2025-04-16T10:20:43.236936",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:97 on the psalmist's declared love for God's Word, situated within a series titled 'Great is the Lord.' Multiple verses from Psalm 119 are surveyed to identify reasons for the psalmist's declaration and ways the Bible functions in the believer's life.",
+    "themes": [
+      "love for scripture",
+      "the bible's sufficiency",
+      "wisdom and understanding",
+      "conviction and conversion",
+      "the bible as comfort",
+      "spiritual change"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and God's Greatness"
+      },
+      {
+        "t": 93,
+        "heading": "The Psalmist's Declaration Introduced"
+      },
+      {
+        "t": 376,
+        "heading": "Expressions of Love for God's Word"
+      },
+      {
+        "t": 994,
+        "heading": "Why the Psalmist Loved God's Word"
+      },
+      {
+        "t": 1558,
+        "heading": "How the Bible Convicts and Converts"
+      },
+      {
+        "t": 1893,
+        "heading": "The Bible Corrects, Comforts, and Changes"
+      }
+    ]
+  }
 }

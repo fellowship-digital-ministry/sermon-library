@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9aMxxX-X0kc.vtt",
   "duration": 2521,
   "transcription_timestamp": "2025-04-14T19:12:22.055516",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:14-16 on the competing claims of self and Christ on the believer's daily life, situated within a series on 2 Corinthians 5 that has previously covered the certainty of heaven, pleasing God, and the judgment seat of Christ.",
+    "themes": [
+      "living for christ",
+      "self-denial",
+      "the love of christ",
+      "the crucified life",
+      "eternal perspective",
+      "christian motivation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 232,
+        "heading": "The Central Question Posed"
+      },
+      {
+        "t": 330,
+        "heading": "The Conflict: Living for Self"
+      },
+      {
+        "t": 573,
+        "heading": "The Pattern of Self-Denial in Mark 8"
+      },
+      {
+        "t": 1147,
+        "heading": "Considerations: Christ's Love, Death, and Our View of Him"
+      },
+      {
+        "t": 1892,
+        "heading": "The Choice Before Every Believer"
+      },
+      {
+        "t": 2218,
+        "heading": "Living With Christ Versus Living for Christ"
+      }
+    ]
+  }
 }

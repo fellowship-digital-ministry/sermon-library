@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\obVssEzUYgQ.vtt",
   "duration": 2649,
   "transcription_timestamp": "2025-04-16T15:01:23.573372",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 1:5 on the nature and transmission of genuine faith across generations, centered on the example of Timothy, his mother Eunice, and his grandmother Lois. The sermon draws on supporting passages in 2 Timothy 3:15, Deuteronomy 6:6-9, and 1 Corinthians 15:33 to address how an unfeigned faith is described, modeled, and delivered to the next generation.",
+    "themes": [
+      "generational faith",
+      "motherhood and grandmotherhood",
+      "unfeigned faith",
+      "teaching children scripture",
+      "guarding against evil influences",
+      "consistency in the home"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Honoring Mothers"
+      },
+      {
+        "t": 100,
+        "heading": "Timothy, Eunice, and Lois in 2 Timothy 1:5"
+      },
+      {
+        "t": 341,
+        "heading": "How the Faith Is Described: Unfeigned"
+      },
+      {
+        "t": 762,
+        "heading": "How the Faith Is Delivered"
+      },
+      {
+        "t": 997,
+        "heading": "Scripture from Childhood: 2 Timothy 3:15"
+      },
+      {
+        "t": 1553,
+        "heading": "Consistency as a Means of Delivery"
+      },
+      {
+        "t": 1784,
+        "heading": "Guarding Against Evil Influences"
+      },
+      {
+        "t": 2364,
+        "heading": "Summary and Closing Prayer"
+      }
+    ]
+  }
 }

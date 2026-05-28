@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\14-lQQNG7W8.vtt",
   "duration": 2555,
   "transcription_timestamp": "2025-04-15T07:50:46.344328",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 49:29-50:14 on Jacob's final request to be buried at Machpelah and the fulfillment of that request by his sons, the 101st message in a series through Genesis. Practical observations on death, mourning, and end-of-life preparation are drawn from the narrative.",
+    "themes": [
+      "death and burial",
+      "end-of-life preparation",
+      "mourning and grief",
+      "christian hope in death",
+      "making desires known",
+      "assurance of salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "Jacob's Request Given (Gen. 49:29-33)"
+      },
+      {
+        "t": 565,
+        "heading": "Mourning and Christian Hope (Gen. 50:1-6)"
+      },
+      {
+        "t": 803,
+        "heading": "The Request Granted and Fulfilled (Gen. 50:6-14)"
+      },
+      {
+        "t": 1094,
+        "heading": "Readiness for Death and Assurance of Salvation"
+      },
+      {
+        "t": 1470,
+        "heading": "Having No Regrets with Loved Ones"
+      },
+      {
+        "t": 1661,
+        "heading": "Making Funeral Desires Known to Family"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qw84YBHvTq4.vtt",
   "duration": 2918,
   "transcription_timestamp": "2025-04-16T00:54:06.848221",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Joshua 2:8-21 on Rahab's declaration of God's supremacy to the two Israelite spies, set within the broader narrative of Israel's preparation to enter Canaan. Part of a series on declaring the greatness of God, the message traces what Rahab heard, what she concluded, what she proclaimed, and what she requested, with extended comparison to Old Testament typologies of salvation and refuge.",
+    "themes": [
+      "declaring the greatness of god",
+      "faith evidenced by action",
+      "one place of safety",
+      "old testament typology",
+      "concern for family salvation",
+      "proclamation of god's identity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 190,
+        "heading": "Background: Spies Sent to Jericho"
+      },
+      {
+        "t": 427,
+        "heading": "What Rahab Revealed: Heard and Knew"
+      },
+      {
+        "t": 1093,
+        "heading": "What Rahab Declared: God of Heaven and Earth"
+      },
+      {
+        "t": 1522,
+        "heading": "What Rahab Requested: Plea for Protection"
+      },
+      {
+        "t": 1900,
+        "heading": "The Scarlet Thread and One Place of Safety"
+      },
+      {
+        "t": 2323,
+        "heading": "Rahab's Immediate Faith and Its Evidence"
+      },
+      {
+        "t": 2509,
+        "heading": "Joshua 6: Rahab and Her Household Delivered"
+      }
+    ]
+  }
 }

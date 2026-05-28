@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4We4-x8cwIg.vtt",
   "duration": 1693,
   "transcription_timestamp": "2025-04-15T09:30:09.496153",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:13b ('be at peace among yourselves') on the subject of unity within the local church, drawing on Romans 12, 1 Corinthians 1, Philippians 2, Ephesians 4, and 1 Timothy 3 to trace God's design for church unity and the means by which it is achieved.",
+    "themes": [
+      "church unity",
+      "division and schism",
+      "the mind of christ",
+      "scripture as standard",
+      "pride as disruptor",
+      "satan's tactics against the church"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Text and Topic Introduced"
+      },
+      {
+        "t": 94,
+        "heading": "Satan's Attacks on the Church"
+      },
+      {
+        "t": 236,
+        "heading": "God's Plan for Unity"
+      },
+      {
+        "t": 699,
+        "heading": "The Path to Unity"
+      },
+      {
+        "t": 837,
+        "heading": "Humility and the Mind of Christ"
+      },
+      {
+        "t": 1403,
+        "heading": "The Bible as Common Standard"
+      }
+    ]
+  }
 }

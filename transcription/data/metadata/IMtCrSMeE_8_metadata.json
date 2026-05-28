@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\IMtCrSMeE_8.vtt",
   "duration": 2527,
   "transcription_timestamp": "2025-04-16T15:46:30.292796",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 29:31-30:13 tracing the births and names of the first eight sons of Jacob, with attention to the rivalry between Leah and Rachel and the pattern of spiritual recognition and carnality visible in each naming account. Part 1 of a two-part series on the sons of Jacob, identified as message 67 in a consecutive study of Genesis.",
+    "themes": [
+      "carnality and fleshly living",
+      "sibling and family rivalry",
+      "acknowledgment of god",
+      "the names of the sons of jacob",
+      "walking in the spirit",
+      "dysfunctional families"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 285,
+        "heading": "Reuben and Simeon: God Sees and Hears"
+      },
+      {
+        "t": 779,
+        "heading": "Levi: Omission of God's Name"
+      },
+      {
+        "t": 977,
+        "heading": "Judah: Praise of Jehovah"
+      },
+      {
+        "t": 1166,
+        "heading": "Rachel's Envy and Jacob's Response"
+      },
+      {
+        "t": 1356,
+        "heading": "Dan and Naphtali: Rachel's Carnal Approach"
+      },
+      {
+        "t": 1789,
+        "heading": "Leah Responds in Kind: Gad and Asher"
+      }
+    ]
+  }
 }

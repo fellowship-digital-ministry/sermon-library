@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RFprzdBEilQ.vtt",
   "duration": 2887,
   "transcription_timestamp": "2025-04-16T15:40:30.415826",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 10:25 and Ezekiel 38-39 on the Gog and Magog prophecy in relation to Russia's invasion of Ukraine, examining the players, timing, and divine purpose of the prophecy within the broader context of end-times events and the church's present responsibility.",
+    "themes": [
+      "bible prophecy",
+      "gog and magog",
+      "the rapture",
+      "israel in prophecy",
+      "evangelism and witnessing",
+      "assembling together"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Hebrews 10:25 and Imminence of the Rapture"
+      },
+      {
+        "t": 136,
+        "heading": "Purpose and Limits of Prophetic Study"
+      },
+      {
+        "t": 229,
+        "heading": "Ezekiel 38-39: The Players Identified"
+      },
+      {
+        "t": 834,
+        "heading": "Timing of the Gog and Magog Invasion"
+      },
+      {
+        "t": 1399,
+        "heading": "God's Miraculous Intervention and Complete Victory"
+      },
+      {
+        "t": 1816,
+        "heading": "The Purpose Revealed: God Making Himself Known"
+      },
+      {
+        "t": 2142,
+        "heading": "The Church's Present Responsibility to Make Christ Known"
+      }
+    ]
+  }
 }

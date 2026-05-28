@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RqUUXQZpy28.vtt",
   "duration": 2406,
   "transcription_timestamp": "2025-04-17T20:41:41.798021",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 9:1-7 on God's post-flood instructions to Noah and his sons, covering reproduction, dietary changes, and the value of human life as the basis for capital punishment. Part of a series through Genesis, this is the 30th lesson.",
+    "themes": [
+      "post-flood life",
+      "reproduction and replenishing the earth",
+      "dietary law",
+      "sanctity of human life",
+      "capital punishment",
+      "human government"
+    ],
+    "sections": [
+      {
+        "t": 96,
+        "heading": "Introduction to Genesis 9"
+      },
+      {
+        "t": 190,
+        "heading": "Worship After Leaving the Ark"
+      },
+      {
+        "t": 380,
+        "heading": "Instruction on Reproduction"
+      },
+      {
+        "t": 767,
+        "heading": "Dietary Changes and Restrictions"
+      },
+      {
+        "t": 1153,
+        "heading": "The Value of Life and Murder"
+      },
+      {
+        "t": 1386,
+        "heading": "Grounds for Capital Punishment"
+      },
+      {
+        "t": 1574,
+        "heading": "Murder in Genesis and the Cities of Refuge"
+      },
+      {
+        "t": 2229,
+        "heading": "Preview of the Noahic Covenant"
+      }
+    ]
+  }
 }

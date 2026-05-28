@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ptmZhTOqic0.vtt",
   "duration": 3353,
   "transcription_timestamp": "2025-04-17T04:29:46.089598",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:10-14 on the Christian's call to 'put on' virtues that correspond to the vices addressed in the preceding verses, set within a broader series on Colossians 3 and the ongoing process of sanctification.",
+    "themes": [
+      "sanctification",
+      "christian virtues",
+      "humility",
+      "forgiveness",
+      "love and charity",
+      "no partiality in christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of 'Put Off' Passage"
+      },
+      {
+        "t": 381,
+        "heading": "Introduction to 'Put On' List"
+      },
+      {
+        "t": 427,
+        "heading": "The Plan: Conformed to Christ's Image"
+      },
+      {
+        "t": 806,
+        "heading": "The Principle: No Partiality in Christ"
+      },
+      {
+        "t": 1140,
+        "heading": "The Process: Five Virtues in Verse 12"
+      },
+      {
+        "t": 1897,
+        "heading": "Forbearing and Forgiving One Another"
+      },
+      {
+        "t": 2700,
+        "heading": "Charity as the Bond of Perfectness"
+      }
+    ]
+  }
 }

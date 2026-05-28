@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Qr15eY1HTgY.vtt",
   "duration": 2666,
   "transcription_timestamp": "2025-04-16T10:28:18.704039",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Peter 1:12-21 on the sufficiency and superiority of Scripture, with Peter's approaching death as the occasion for his appeal to the written Word over personal experience and apostolic authority.",
+    "themes": [
+      "sufficiency of scripture",
+      "superiority of scripture",
+      "inspiration and preservation",
+      "experience versus biblical authority",
+      "pastoral leadership and the word",
+      "the reliability of god's word"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Inspiration and Preservation Reviewed"
+      },
+      {
+        "t": 276,
+        "heading": "Peter's Approaching Death and Purpose"
+      },
+      {
+        "t": 558,
+        "heading": "The Sufficiency of God's Word"
+      },
+      {
+        "t": 1075,
+        "heading": "Luke 16 and the Finality of Scripture"
+      },
+      {
+        "t": 1558,
+        "heading": "The Superiority of Scripture Introduced"
+      },
+      {
+        "t": 1698,
+        "heading": "Scripture Superior to Leadership"
+      },
+      {
+        "t": 1978,
+        "heading": "Scripture Superior to Experience"
+      }
+    ]
+  }
 }

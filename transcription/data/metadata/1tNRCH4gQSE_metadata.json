@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\1tNRCH4gQSE.vtt",
   "duration": 2960,
   "transcription_timestamp": "2025-04-17T01:33:36.084354",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 25:19-26 on the birth of Jacob and Esau, tracing the supplication of Isaac and Rebekah, the divine oracle of two nations, and the prophetic declaration that the elder shall serve the younger. The passage is read through two lenses: the historical conflict between the Israelites and the Edomites, and a spiritual application drawn from the symbolism of two natures in the believer.",
+    "themes": [
+      "prayer and divine response",
+      "the messianic line",
+      "israel and edom",
+      "the old man and the new man",
+      "bearing spiritual fruit",
+      "victory over the flesh"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Orientation to Genesis 25 and Ishmael"
+      },
+      {
+        "t": 235,
+        "heading": "God's Promise to Abraham Fulfilled in Ishmael's Descendants"
+      },
+      {
+        "t": 427,
+        "heading": "Isaac and Rebekah: Barrenness and Supplication"
+      },
+      {
+        "t": 755,
+        "heading": "Bearing Fruit and Abiding in the Vine"
+      },
+      {
+        "t": 991,
+        "heading": "The Struggle in the Womb and Rebekah's Inquiry"
+      },
+      {
+        "t": 1366,
+        "heading": "Symbolism of Two Nations: Israel and Edom"
+      },
+      {
+        "t": 1648,
+        "heading": "Romans 9, Election, and the Messianic Line"
+      },
+      {
+        "t": 2063,
+        "heading": "Symbolism of Two Natures: Old Man and New Man"
+      }
+    ]
+  }
 }

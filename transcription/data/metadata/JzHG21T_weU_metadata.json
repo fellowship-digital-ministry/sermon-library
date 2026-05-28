@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JzHG21T_weU.vtt",
   "duration": 2828,
   "transcription_timestamp": "2025-04-17T05:47:43.009935",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 2:11 on the phrase 'as a father doth his children,' surveying the whole of 1 Thessalonians to identify the first two of five principles for helping believers walk worthy of God: imparting biblical truth and modeling biblical truth, examined from both a father-to-child and a mature-believer-to-growing-believer perspective.",
+    "themes": [
+      "imparting biblical truth",
+      "modeling biblical truth",
+      "spiritual mentorship",
+      "the local church",
+      "parental responsibility",
+      "the value of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Paul and Thessalonica"
+      },
+      {
+        "t": 139,
+        "heading": "Title Text and Five Principles Overview"
+      },
+      {
+        "t": 324,
+        "heading": "Principle One: Impart Biblical Truth"
+      },
+      {
+        "t": 466,
+        "heading": "The Value of Scripture in Psalms and Proverbs"
+      },
+      {
+        "t": 707,
+        "heading": "Paul's Imparting of Truth in 1 Thessalonians"
+      },
+      {
+        "t": 1228,
+        "heading": "Specific Biblical Truth in Chapters 4 and 5"
+      },
+      {
+        "t": 1559,
+        "heading": "Principle Two: Model Biblical Truth"
+      },
+      {
+        "t": 2277,
+        "heading": "Christ as the Supreme Example"
+      }
+    ]
+  }
 }

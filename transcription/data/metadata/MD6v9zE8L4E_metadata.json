@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MD6v9zE8L4E.vtt",
   "duration": 1769,
   "transcription_timestamp": "2025-04-15T07:05:09.237188",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 6:1-3 on the fifth commandment, tracing the instruction to honor father and mother from Exodus 20 and Deuteronomy 5 through the Gospels and into the New Testament, with practical application drawn from Proverbs on obedience, wisdom, and the consequences of dishonoring parents. Delivered on Mother's Day with particular attention to young people.",
+    "themes": [
+      "honoring parents",
+      "obedience",
+      "the fifth commandment",
+      "family and home",
+      "wisdom",
+      "revival in the home"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Being Filled with the Spirit"
+      },
+      {
+        "t": 137,
+        "heading": "Children and the Sixth Chapter"
+      },
+      {
+        "t": 229,
+        "heading": "Origin and Repetition of the Command"
+      },
+      {
+        "t": 506,
+        "heading": "Practical Tips from Proverbs"
+      },
+      {
+        "t": 923,
+        "heading": "The Promise Attached to the Command"
+      },
+      {
+        "t": 1064,
+        "heading": "Warning from Proverbs 30 and 20"
+      },
+      {
+        "t": 1537,
+        "heading": "Closing Reflections and Prayer"
+      }
+    ]
+  }
 }

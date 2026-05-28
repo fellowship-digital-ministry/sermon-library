@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cZ76dCVG9Gg.vtt",
   "duration": 1949,
   "transcription_timestamp": "2025-04-16T09:11:59.222626",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 15:1 on the power of words to build up or harm, organized around the acronym THINK as a framework for evaluating speech before it is spoken. Supporting passages from Proverbs, Ephesians, Psalms, Colossians, and Zechariah are drawn in throughout.",
+    "themes": [
+      "the tongue and speech",
+      "soft answer versus grievous words",
+      "truth-telling",
+      "edification",
+      "kindness in communication",
+      "necessary but difficult words"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Opening Contrast"
+      },
+      {
+        "t": 94,
+        "heading": "Soft Answer Versus Grievous Words"
+      },
+      {
+        "t": 233,
+        "heading": "Supporting Proverbs on the Tongue"
+      },
+      {
+        "t": 467,
+        "heading": "THINK Acronym Introduced: T and H"
+      },
+      {
+        "t": 656,
+        "heading": "I and N: Inspiring and Necessary Speech"
+      },
+      {
+        "t": 998,
+        "heading": "Necessary but Difficult Words"
+      },
+      {
+        "t": 1439,
+        "heading": "K: Kindness and Personal Illustration"
+      },
+      {
+        "t": 1775,
+        "heading": "Closing Appeal and Psalm 19:14"
+      }
+    ]
+  }
 }

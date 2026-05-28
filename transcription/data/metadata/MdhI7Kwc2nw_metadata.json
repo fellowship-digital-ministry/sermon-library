@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\MdhI7Kwc2nw.vtt",
   "duration": 1887,
   "transcription_timestamp": "2025-04-16T00:44:39.302024",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 39:7-19 on Joseph's response to repeated sexual temptation and his subsequent false accusation by Potiphar's wife, the second part of a three-part series on Genesis 39. The passage is treated as a case study in resisting temptation, with supporting references to 1 Corinthians 10:13, Hebrews 13:4, and the contrasting examples of Judah (Genesis 38) and King David.",
+    "themes": [
+      "temptation and resistance",
+      "false accusation",
+      "sexual purity",
+      "the deceitfulness of sin",
+      "fleeing temptation",
+      "god's faithfulness in adversity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 39 and Series Context"
+      },
+      {
+        "t": 138,
+        "heading": "The Temptation Recorded: Initial and Repeated"
+      },
+      {
+        "t": 419,
+        "heading": "Temptation as a Continuing Pattern"
+      },
+      {
+        "t": 513,
+        "heading": "1 Corinthians 10:13 and the Escape Route"
+      },
+      {
+        "t": 653,
+        "heading": "Joseph's Refusal and Recognition of Sin Against God"
+      },
+      {
+        "t": 985,
+        "heading": "Hebrews 13:4, Fornication, and Adultery"
+      },
+      {
+        "t": 1124,
+        "heading": "Joseph Flees and the False Accusation"
+      },
+      {
+        "t": 1595,
+        "heading": "God at Work Through False Accusation and Imprisonment"
+      }
+    ]
+  }
 }

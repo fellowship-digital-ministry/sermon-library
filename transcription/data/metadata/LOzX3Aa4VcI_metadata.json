@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LOzX3Aa4VcI.vtt",
   "duration": 2401,
   "transcription_timestamp": "2025-04-15T09:04:45.724955",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:2-3 on the command to pray for kings and all those in authority, addressed to a congregation amid contemporary American political tension. Proverbs 21:1, Ezra 7:27, 2 Chronicles 36:22, Matthew 5:43-48, and James 5:16 are drawn in to support the case for sovereign divine control over rulers and the spiritual nature of intercession for leaders.",
+    "themes": [
+      "prayer for leaders",
+      "obedience to scripture",
+      "god's sovereignty",
+      "intercession",
+      "political tension and the church",
+      "consistency in prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prayer Structure"
+      },
+      {
+        "t": 137,
+        "heading": "The Specific Command: Kings and Authority"
+      },
+      {
+        "t": 418,
+        "heading": "The Command to Pray for Leaders Is Clear"
+      },
+      {
+        "t": 942,
+        "heading": "God's Sovereignty Over Rulers"
+      },
+      {
+        "t": 1455,
+        "heading": "Spiritual Maturity and Loving Enemies"
+      },
+      {
+        "t": 1692,
+        "heading": "The Failure to Pray Is Common"
+      },
+      {
+        "t": 2035,
+        "heading": "Three Responses: Acknowledge, Accept, Analyze"
+      }
+    ]
+  }
 }

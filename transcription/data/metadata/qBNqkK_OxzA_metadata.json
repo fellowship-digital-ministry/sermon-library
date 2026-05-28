@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qBNqkK_OxzA.vtt",
   "duration": 2101,
   "transcription_timestamp": "2025-04-14T22:13:12.707633",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of a study in Hebrews 2:1-4 on the obligation to give earnest heed to God's word, focusing on how believers can develop a practical plan for listening to and obeying Scripture.",
+    "themes": [
+      "authority of scripture",
+      "bible reading",
+      "hearing and obeying god",
+      "preservation of scripture",
+      "distraction and preparation",
+      "agreeing with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Part One"
+      },
+      {
+        "t": 93,
+        "heading": "The 'Therefore' of Hebrews 2:1"
+      },
+      {
+        "t": 337,
+        "heading": "Inspiration and Preservation of Scripture"
+      },
+      {
+        "t": 436,
+        "heading": "Developing a Plan to Listen"
+      },
+      {
+        "t": 483,
+        "heading": "Remembering the Authority of God's Word"
+      },
+      {
+        "t": 816,
+        "heading": "Desiring and Expecting to Hear from God"
+      },
+      {
+        "t": 1138,
+        "heading": "Preparing Heart and Mind to Hear"
+      },
+      {
+        "t": 1461,
+        "heading": "Predetermining to Agree with God: Jeremiah 42-43"
+      }
+    ]
+  }
 }

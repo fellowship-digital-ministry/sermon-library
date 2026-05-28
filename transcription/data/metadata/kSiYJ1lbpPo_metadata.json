@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kSiYJ1lbpPo.vtt",
   "duration": 2607,
   "transcription_timestamp": "2025-04-14T23:44:32.917830",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hosea 2:14-23 on the meaning of 'the valley of Achor for a door of hope,' set within the historical and prophetic context of Hosea's ministry to the northern tribes of Israel. The passage is traced from its background in Joshua 7 and the sin of Achan through to its anticipated fulfillment in the millennial reign of Christ.",
+    "themes": [
+      "valley of achor",
+      "israel's idolatry and judgment",
+      "prophetic fulfillment",
+      "the millennial kingdom",
+      "hope in scripture",
+      "the day of the lord"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Hosea and His Ministry"
+      },
+      {
+        "t": 139,
+        "heading": "Jeroboam II and the Setting in 2 Kings 14"
+      },
+      {
+        "t": 513,
+        "heading": "Hosea's Call and Israel's Spiritual Adultery"
+      },
+      {
+        "t": 803,
+        "heading": "Reading and Overview of Hosea 2:14-23"
+      },
+      {
+        "t": 1135,
+        "heading": "The Valley of Achor: Achan and Joshua 7"
+      },
+      {
+        "t": 1365,
+        "heading": "The Meaning of Hope: No Hope, Lively Hope, Blessed Hope"
+      },
+      {
+        "t": 1785,
+        "heading": "Israel's Present Blindness and Future Promise"
+      },
+      {
+        "t": 2068,
+        "heading": "That Day: The Tribulation and the Millennial Fulfillment"
+      }
+    ]
+  }
 }

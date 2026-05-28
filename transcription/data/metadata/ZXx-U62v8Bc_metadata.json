@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZXx-U62v8Bc.vtt",
   "duration": 2825,
   "transcription_timestamp": "2025-04-16T14:23:56.246174",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jeremiah 5:1 and Ezekiel 22:30 on the attributes God seeks in a man, set against the backdrop of fatherlessness in America and the historical decline of Judah before the Babylonian captivity. Three characteristics drawn from both passages are examined: standing in the gap, executing judgment, and seeking truth.",
+    "themes": [
+      "fatherlessness",
+      "standing for truth",
+      "intercessory prayer",
+      "authority of scripture",
+      "spiritual warfare",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Fatherlessness and the Home Under Attack"
+      },
+      {
+        "t": 146,
+        "heading": "Background: Jeremiah and Ezekiel in Context"
+      },
+      {
+        "t": 713,
+        "heading": "First Attribute: Standing in the Gap"
+      },
+      {
+        "t": 807,
+        "heading": "The Whole Armor of God and Intercessory Prayer"
+      },
+      {
+        "t": 1273,
+        "heading": "Second Attribute: Executing Judgment"
+      },
+      {
+        "t": 1597,
+        "heading": "Scripture as the Standard for Right and Wrong"
+      },
+      {
+        "t": 1882,
+        "heading": "Third Attribute: Seeking Truth"
+      },
+      {
+        "t": 2502,
+        "heading": "The Three Attributes Reviewed in Reverse Order"
+      }
+    ]
+  }
 }

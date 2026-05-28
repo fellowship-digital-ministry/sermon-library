@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ldE7ASGe8fY.vtt",
   "duration": 2774,
   "transcription_timestamp": "2025-04-17T19:55:31.451754",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A Memorial Day message on the theme of remembrance, drawn from Deuteronomy 6:10-12 and 2 Peter 1:12-15, presenting four biblical truths the congregation is called to keep in mind during a period of pandemic-related disruption and uncertainty.",
+    "themes": [
+      "remembrance",
+      "sovereignty of god",
+      "the local church",
+      "salvation and the gospel",
+      "return of christ",
+      "biblical memorials"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Biblical Memorials in Israel's History"
+      },
+      {
+        "t": 185,
+        "heading": "Deuteronomy 6 Warning Against Forgetting"
+      },
+      {
+        "t": 373,
+        "heading": "Peter's Purpose in Stirring Remembrance"
+      },
+      {
+        "t": 654,
+        "heading": "First Reminder: God Still on His Throne"
+      },
+      {
+        "t": 1080,
+        "heading": "Second Reminder: Christ Still Building His Church"
+      },
+      {
+        "t": 1370,
+        "heading": "Third Reminder: God Still Saving Sinners"
+      },
+      {
+        "t": 1700,
+        "heading": "Fourth Reminder: Christ's Return Is Coming"
+      },
+      {
+        "t": 2367,
+        "heading": "Closing Application and Prayer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/gEWKQ2I0a2I.vtt",
   "duration": 2255.0,
   "transcription_timestamp": "2026-05-27T14:56:03.588390",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 6:7-8 on the fourth seal judgment, covering the pale horse, the rider named Death, and the devastation of a fourth part of the earth, set within the broader sequence of the first four seals and the 70th week of Daniel.",
+    "themes": [
+      "fourth seal",
+      "tribulation judgments",
+      "death and hell",
+      "urgency in evangelism",
+      "divine wrath",
+      "imminence of christ's return"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of the Four Seals"
+      },
+      {
+        "t": 183,
+        "heading": "Transition to Esther: Urgency Introduced"
+      },
+      {
+        "t": 324,
+        "heading": "The Counter Decree and the Timeline in Esther"
+      },
+      {
+        "t": 603,
+        "heading": "Imminence and the Early Church's Urgency"
+      },
+      {
+        "t": 794,
+        "heading": "Description of the Pale Horse and Rider"
+      },
+      {
+        "t": 1033,
+        "heading": "The Devastation: Means and Magnitude of Death"
+      },
+      {
+        "t": 1781,
+        "heading": "The Numbers: A Fourth Part of the Earth Calculated"
+      },
+      {
+        "t": 1970,
+        "heading": "Urgency as the Closing Application"
+      }
+    ]
+  }
 }

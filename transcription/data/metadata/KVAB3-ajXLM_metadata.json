@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\KVAB3-ajXLM.vtt",
   "duration": 2979,
   "transcription_timestamp": "2025-04-17T05:52:35.691244",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Daniel 3:1-30 on the three Hebrew men who refused to bow to Nebuchadnezzar's golden image, framed around the question of whether believers in any generation will stand against cultural and ideological pressure to conform. Ephesians 6 and Proverbs 24:10 are drawn in as supporting texts.",
+    "themes": [
+      "standing for convictions",
+      "spiritual warfare",
+      "obedience to god",
+      "faith under pressure",
+      "god's deliverance",
+      "cultural conformity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Ephesians 6 and Standing"
+      },
+      {
+        "t": 96,
+        "heading": "Generational Pressure to Conform"
+      },
+      {
+        "t": 334,
+        "heading": "Circumstances the Three Hebrews Faced"
+      },
+      {
+        "t": 1055,
+        "heading": "Confidence the Three Hebrews Displayed"
+      },
+      {
+        "t": 1545,
+        "heading": "Communion Enjoyed in the Furnace"
+      },
+      {
+        "t": 2159,
+        "heading": "Consequences and Impact of Their Stand"
+      }
+    ]
+  }
 }

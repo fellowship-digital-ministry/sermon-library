@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bADTYZtvU4s.vtt",
   "duration": 1611,
   "transcription_timestamp": "2025-04-16T15:26:47.389595",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 16:15 and related passages on the individual believer's responsibility within world missions, organized around three duties: prayer, financial giving, and going locally and globally.",
+    "themes": [
+      "great commission",
+      "world missions",
+      "missionary prayer",
+      "giving to missions",
+      "local evangelism",
+      "sending church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Great Commission Introduced"
+      },
+      {
+        "t": 97,
+        "heading": "Finding a Place in Missions"
+      },
+      {
+        "t": 193,
+        "heading": "First Duty: Prayer for Missions"
+      },
+      {
+        "t": 681,
+        "heading": "Second Duty: Giving to Missions"
+      },
+      {
+        "t": 1105,
+        "heading": "Third Duty: Going Locally and Globally"
+      },
+      {
+        "t": 1379,
+        "heading": "Call to Commitment and Invitation"
+      }
+    ]
+  }
 }

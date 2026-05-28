@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2lrMTFH91C8.vtt",
   "duration": 2673,
   "transcription_timestamp": "2025-04-15T23:44:44.113531",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 41:1-32 on Joseph's summons before Pharaoh, tracing the two years of imprisonment after the butler's forgetfulness, Pharaoh's two dreams, the failure of Egypt's magicians and wise men, and Joseph's interpretation crediting God rather than himself.",
+    "themes": [
+      "divine providence",
+      "waiting and preparation",
+      "god's timing",
+      "giving god the glory",
+      "unique opportunity",
+      "faithfulness in adversity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Recap of Joseph and the Butler"
+      },
+      {
+        "t": 94,
+        "heading": "Two Years of Waiting in Prison"
+      },
+      {
+        "t": 368,
+        "heading": "Pharaoh's Two Troubling Dreams"
+      },
+      {
+        "t": 550,
+        "heading": "Magicians and Wise Men Fail"
+      },
+      {
+        "t": 826,
+        "heading": "The Butler Remembers Joseph"
+      },
+      {
+        "t": 1151,
+        "heading": "Joseph Brought Before Pharaoh"
+      },
+      {
+        "t": 1481,
+        "heading": "Joseph Interprets the Dreams"
+      }
+    ]
+  }
 }

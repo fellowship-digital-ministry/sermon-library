@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CckF-My3-to.vtt",
   "duration": 2226.0,
   "transcription_timestamp": "2026-05-27T17:04:14.011899",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:33, 44, and 112 on the theme of perseverance in obedience to God's Word until the end of life, set alongside Acts 20:24, 2 Timothy 4:6-7, and 1 Corinthians 15:51-58. The unknown timing of death and Christ's return frames the psalmist's repeated resolve to keep God's statutes continually and unto the end.",
+    "themes": [
+      "perseverance",
+      "obedience to scripture",
+      "uncertainty of death",
+      "the return of christ",
+      "finishing the christian life",
+      "daily faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 119 and the Finish Well Theme"
+      },
+      {
+        "t": 48,
+        "heading": "The Race Analogy and the Unknown Finish Line"
+      },
+      {
+        "t": 141,
+        "heading": "Scripture Witnesses to Life's Brevity and Christ's Return"
+      },
+      {
+        "t": 373,
+        "heading": "The Danger of Assuming Future Time"
+      },
+      {
+        "t": 560,
+        "heading": "Psalm 119 Verses 33, 44, and 112 Examined"
+      },
+      {
+        "t": 1231,
+        "heading": "Paul in Acts 20 on Finishing the Course with Joy"
+      },
+      {
+        "t": 1510,
+        "heading": "2 Timothy 4 and Paul's Completed Race"
+      },
+      {
+        "t": 1793,
+        "heading": "1 Corinthians 15 on Victory, Steadfastness, and Abounding Labor"
+      }
+    ]
+  }
 }

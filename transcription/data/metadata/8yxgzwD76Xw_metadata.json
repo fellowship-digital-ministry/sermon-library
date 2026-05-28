@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8yxgzwD76Xw.vtt",
   "duration": 2012,
   "transcription_timestamp": "2025-04-17T08:27:52.379917",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 9:16-27 on the Christian's responsibility and privilege of gospel witness, drawn from Paul's stated priority, philosophy, and prize in preaching. The passage is read against the backdrop of a local church missions program and the urgency of two eternal destinations.",
+    "themes": [
+      "gospel witness",
+      "evangelism",
+      "missions",
+      "paul's call to preach",
+      "eternal destiny",
+      "tract distribution"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Missions Map and Church Context"
+      },
+      {
+        "t": 232,
+        "heading": "Paul's Surrender and Gospel Priority"
+      },
+      {
+        "t": 562,
+        "heading": "The Priority of Preaching (vv. 16-18)"
+      },
+      {
+        "t": 845,
+        "heading": "Paul's Philosophy of Ministry (vv. 19-22)"
+      },
+      {
+        "t": 1362,
+        "heading": "For the Gospel's Sake (v. 23)"
+      },
+      {
+        "t": 1407,
+        "heading": "The Prize: Corruptible vs. Incorruptible Crown (vv. 24-27)"
+      },
+      {
+        "t": 1788,
+        "heading": "Call to Faithful Witness and Tract Distribution"
+      }
+    ]
+  }
 }

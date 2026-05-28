@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TljookEyMZU.vtt",
   "duration": 3152,
   "transcription_timestamp": "2025-04-17T15:27:16.071939",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 9:1-14 on the superiority of Christ's priestly offering over the Old Testament sacrificial system, tracing the pattern and purpose of the tabernacle through to the payment for sin accomplished by Christ's self-offering.",
+    "themes": [
+      "superiority of christ's priesthood",
+      "tabernacle typology",
+      "day of atonement",
+      "eternal redemption",
+      "old covenant versus new covenant",
+      "fellowship with god and sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context in Hebrews"
+      },
+      {
+        "t": 287,
+        "heading": "Pattern of the Tabernacle (vv. 1-5)"
+      },
+      {
+        "t": 799,
+        "heading": "Purpose of the Tabernacle (vv. 6-10)"
+      },
+      {
+        "t": 1267,
+        "heading": "Payment for Sin: Christ's Offering (vv. 11-14)"
+      },
+      {
+        "t": 2377,
+        "heading": "Application: Rejoicing and Fellowship with God"
+      },
+      {
+        "t": 2801,
+        "heading": "Closing Scripture and Prayer (1 Peter 1:13-16)"
+      }
+    ]
+  }
 }

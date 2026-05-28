@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sn_vh6-Qfx0.vtt",
   "duration": 2548,
   "transcription_timestamp": "2025-04-16T10:16:24.918373",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 7:1-20 on the four leprous men who discovered the abandoned Syrian camp during the siege of Samaria, with spiritual application to the New Testament believer's responsibility to share the gospel rather than withhold it.",
+    "themes": [
+      "evangelism",
+      "gospel witness",
+      "the siege of samaria",
+      "spiritual application of old testament narrative",
+      "holding peace versus proclaiming good news",
+      "personal soul-winning"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Setting: Siege and Famine in Samaria"
+      },
+      {
+        "t": 231,
+        "heading": "Elisha's Prophecy and the Doubting Lord"
+      },
+      {
+        "t": 427,
+        "heading": "The Four Lepers: Their Reasoning and Departure"
+      },
+      {
+        "t": 565,
+        "heading": "The Empty Syrian Camp: What They Received"
+      },
+      {
+        "t": 803,
+        "heading": "Conviction: What They Recognized"
+      },
+      {
+        "t": 991,
+        "heading": "Their Response: Going and Telling"
+      },
+      {
+        "t": 1411,
+        "heading": "Spiritual Application for New Testament Believers"
+      },
+      {
+        "t": 2302,
+        "heading": "The Call to Go and Tell"
+      }
+    ]
+  }
 }

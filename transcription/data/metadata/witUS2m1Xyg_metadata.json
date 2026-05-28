@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/witUS2m1Xyg.vtt",
   "duration": 2609.0,
   "transcription_timestamp": "2026-05-27T16:04:38.436982",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Daniel 9:24-27 on the prophecy of the seventy weeks, tracing the 490-year framework, the gap between the 69th and 70th weeks, and the structure of the coming seven-year tribulation as background for a continuing study through the book of Revelation.",
+    "themes": [
+      "daniel's seventy weeks",
+      "tribulation",
+      "antichrist",
+      "biblical prophecy and fulfillment",
+      "israel in prophecy",
+      "rapture and second coming"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introductory Remarks and Context"
+      },
+      {
+        "t": 231,
+        "heading": "Overview of the 70 Weeks Prophecy"
+      },
+      {
+        "t": 464,
+        "heading": "The 490 Years Defined"
+      },
+      {
+        "t": 651,
+        "heading": "Starting the Clock: Nehemiah and Artaxerxes"
+      },
+      {
+        "t": 1065,
+        "heading": "The 69 Weeks and Messiah Cut Off"
+      },
+      {
+        "t": 1489,
+        "heading": "The Gap Between the 69th and 70th Weeks"
+      },
+      {
+        "t": 1831,
+        "heading": "The 70th Week: Structure and the Antichrist"
+      },
+      {
+        "t": 2312,
+        "heading": "Rapture, Return, and Tribulation Judgments"
+      }
+    ]
+  }
 }

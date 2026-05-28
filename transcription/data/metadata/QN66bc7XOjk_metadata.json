@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QN66bc7XOjk.vtt",
   "duration": 2838,
   "transcription_timestamp": "2025-04-16T09:40:37.634525",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 105:23-28 on God's display of power through the ten plagues in Egypt, tracing the plagues as recorded in Exodus 7-11 and connecting them to the themes of divine purpose, the Passover, and the blood of Christ.",
+    "themes": [
+      "the ten plagues",
+      "omnipotence of god",
+      "the passover and the blood",
+      "god making himself known",
+      "trust in god",
+      "glorifying god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 237,
+        "heading": "The Plagues as Wonders and Miracles"
+      },
+      {
+        "t": 330,
+        "heading": "Ten Devastating Plagues Surveyed"
+      },
+      {
+        "t": 801,
+        "heading": "God's Divine Power on Display"
+      },
+      {
+        "t": 1372,
+        "heading": "God's Divine Purpose in the Plagues"
+      },
+      {
+        "t": 1942,
+        "heading": "Perpetuity of Truth and Knowing God Personally"
+      },
+      {
+        "t": 2330,
+        "heading": "Praising and Trusting God Fully"
+      }
+    ]
+  }
 }

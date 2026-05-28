@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UJuC0OTu5_I.vtt",
   "duration": 2931,
   "transcription_timestamp": "2025-04-17T01:47:39.656419",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 25:1-11 on the death and burial of Abraham, tracing his descendants through Keturah and Ishmael, the quality and quantity of his life, and the transfer of the covenant line to Isaac as the distinct heir in the messianic genealogy.",
+    "themes": [
+      "death and burial",
+      "covenant inheritance",
+      "obedience and blessing",
+      "the messianic line",
+      "life testimony",
+      "mortality and eternity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 25"
+      },
+      {
+        "t": 187,
+        "heading": "Descendants of Abraham"
+      },
+      {
+        "t": 622,
+        "heading": "Death and Eulogy of Abraham"
+      },
+      {
+        "t": 1155,
+        "heading": "Obedience Tied to Blessing"
+      },
+      {
+        "t": 1588,
+        "heading": "Burial of Abraham at Machpelah"
+      },
+      {
+        "t": 2019,
+        "heading": "Brevity of Life and Eternity"
+      },
+      {
+        "t": 2308,
+        "heading": "Isaac as the Distinct Heir"
+      },
+      {
+        "t": 2692,
+        "heading": "Closing Reflection on a Life Well Lived"
+      }
+    ]
+  }
 }

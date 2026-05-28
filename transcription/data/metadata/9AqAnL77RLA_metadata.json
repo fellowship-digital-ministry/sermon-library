@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9AqAnL77RLA.vtt",
   "duration": 2145,
   "transcription_timestamp": "2025-04-15T09:23:39.795436",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:14 on the phrase 'comfort the feeble-minded,' part of a midweek series on the closing verses of 1 Thessalonians. Drawing also from 2 Thessalonians, 2 Corinthians, and Colossians, the study examines causes of faint-heartedness in the Thessalonian congregation and the responsibility of believers to comfort the discouraged.",
+    "themes": [
+      "discouragement",
+      "comfort and encouragement",
+      "the feeble-minded",
+      "the role of believers in the local church",
+      "the return of christ",
+      "the enemy's activity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Purpose"
+      },
+      {
+        "t": 188,
+        "heading": "Defining the Feeble-Minded"
+      },
+      {
+        "t": 424,
+        "heading": "Causes of Feeble-Mindedness in Thessalonica"
+      },
+      {
+        "t": 749,
+        "heading": "Death of Loved Ones and False Teaching as Causes"
+      },
+      {
+        "t": 1123,
+        "heading": "God as the Source of All Comfort"
+      },
+      {
+        "t": 1363,
+        "heading": "How Believers Comfort One Another"
+      },
+      {
+        "t": 1791,
+        "heading": "Pointing the Discouraged to Christ and His Word"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Mxme6byM7mw.vtt",
   "duration": 3143,
   "transcription_timestamp": "2025-04-14T21:34:52.498271",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 3:10-12 on persecution as a normal expectation for godly living, drawing on Paul's example to Timothy and tracing the pattern of difficulty and divine deliverance across Paul's first missionary journey and other episodes in Acts.",
+    "themes": [
+      "persecution",
+      "endurance",
+      "paul as example to timothy",
+      "divine deliverance",
+      "preparation",
+      "godly living"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Timothy in Ephesus"
+      },
+      {
+        "t": 92,
+        "heading": "Paul's List: Doctrine Through Afflictions"
+      },
+      {
+        "t": 279,
+        "heading": "The Concept of Preparation"
+      },
+      {
+        "t": 698,
+        "heading": "Persecution in the Early Church"
+      },
+      {
+        "t": 1071,
+        "heading": "Paul's Persecutions at Antioch, Iconium, and Lystra"
+      },
+      {
+        "t": 1532,
+        "heading": "Deliverance Alongside Difficulty"
+      },
+      {
+        "t": 1809,
+        "heading": "The Expectation of Persecution for the Godly"
+      },
+      {
+        "t": 2564,
+        "heading": "The Question of Enduring"
+      }
+    ]
+  }
 }

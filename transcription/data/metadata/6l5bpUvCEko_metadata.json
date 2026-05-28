@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6l5bpUvCEko.vtt",
   "duration": 3049.0,
   "transcription_timestamp": "2026-05-27T16:40:13.152471",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:5-8 on the believer's need for divine wisdom, set within the context of trials, with extended illustration from Solomon's request for wisdom in 1 Kings 3.",
+    "themes": [
+      "wisdom",
+      "prayer and asking god",
+      "dependence on god",
+      "scripture as the source of wisdom",
+      "faith without wavering",
+      "trials"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of James 1:2-4 on Trials"
+      },
+      {
+        "t": 97,
+        "heading": "Introduction to James 1:5-8 and Wisdom Defined"
+      },
+      {
+        "t": 480,
+        "heading": "Recognizing Our Lack of Wisdom and God's Abundance"
+      },
+      {
+        "t": 715,
+        "heading": "The Request: Asking God Directly in Faith"
+      },
+      {
+        "t": 1272,
+        "heading": "What Is Received: God Gives Liberally"
+      },
+      {
+        "t": 1417,
+        "heading": "Scripture as the Means of Receiving Wisdom"
+      },
+      {
+        "t": 1838,
+        "heading": "Solomon's Request for Wisdom in 1 Kings 3"
+      },
+      {
+        "t": 2628,
+        "heading": "God's Wisdom Versus the World's Wisdom"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/faPvPJvS9rU.vtt",
   "duration": 2884.0,
   "transcription_timestamp": "2026-05-27T16:48:14.361551",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 4:10-11 and Romans 12:3-8 on spiritual gifts, their definitions, purposes, and governing principles for the local church, with supporting reference to 1 Corinthians 12. Part one of a two-part series focused on defining the seven gifts listed in Romans 12 that remain in operation today.",
+    "themes": [
+      "spiritual gifts",
+      "stewardship",
+      "church body",
+      "humility in service",
+      "edification",
+      "temporary versus permanent gifts"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Text"
+      },
+      {
+        "t": 189,
+        "heading": "1 Peter 4:10-11 Examined"
+      },
+      {
+        "t": 524,
+        "heading": "Temporary Sign Gifts Addressed"
+      },
+      {
+        "t": 711,
+        "heading": "Principles from 1 Corinthians 12"
+      },
+      {
+        "t": 1133,
+        "heading": "Romans 12:3-8 and Gifts Defined"
+      },
+      {
+        "t": 1553,
+        "heading": "Seven Gifts Surveyed One by One"
+      },
+      {
+        "t": 2604,
+        "heading": "Bezalel and Aholiab as Illustration"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rgxWazCupLU.vtt",
   "duration": 1887,
   "transcription_timestamp": "2025-04-17T02:43:53.166650",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 11:23-31 on the Lord's Supper as a local church ordinance, organized around four things the observance is meant to call to mind: the suffering at Calvary, the resurrection, the promised return of Christ, and the coming judgment seat of Christ.",
+    "themes": [
+      "lord's supper",
+      "ordinances",
+      "the resurrection",
+      "second coming",
+      "judgment seat of christ",
+      "self-examination"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text Reading"
+      },
+      {
+        "t": 140,
+        "heading": "The Agony of Calvary"
+      },
+      {
+        "t": 565,
+        "heading": "The Glory of the Resurrection"
+      },
+      {
+        "t": 800,
+        "heading": "The Promise of His Return"
+      },
+      {
+        "t": 1168,
+        "heading": "Self-Examination and the Judgment Seat"
+      },
+      {
+        "t": 1770,
+        "heading": "Summary and Closing Prayer"
+      }
+    ]
+  }
 }

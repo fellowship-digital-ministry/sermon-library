@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DSAVnV2bHaY.vtt",
   "duration": 2376,
   "transcription_timestamp": "2025-04-16T08:24:18.773891",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 37:5-11 on the two dreams of Joseph, their content, and the reactions of his brothers and father, with extended application to the completed canon of Scripture as God's revelation of things to come.",
+    "themes": [
+      "dreams and divine revelation",
+      "the completed canon of scripture",
+      "prophetic events",
+      "witnessing and boldness",
+      "hatred and family conflict",
+      "the holy spirit as guide into truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Joseph's Character and Family Context"
+      },
+      {
+        "t": 93,
+        "heading": "The Two Dreams Described"
+      },
+      {
+        "t": 239,
+        "heading": "What God Was Revealing Through the Dreams"
+      },
+      {
+        "t": 565,
+        "heading": "God Speaking Through His Completed Word"
+      },
+      {
+        "t": 1142,
+        "heading": "What the Family Recognized"
+      },
+      {
+        "t": 1324,
+        "heading": "How the Brothers Responded"
+      },
+      {
+        "t": 1566,
+        "heading": "Application to Witnessing About Things to Come"
+      }
+    ]
+  }
 }

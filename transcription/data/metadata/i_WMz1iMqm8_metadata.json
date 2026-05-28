@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\i_WMz1iMqm8.vtt",
   "duration": 1679,
   "transcription_timestamp": "2025-04-17T08:24:14.284314",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:2 on the opening phrase of the model prayer, 'Our Father which art in heaven,' examining the relationship and access to God that grounds Christian prayer. Part of a mini-series on Luke 11:1-several verses, focused on the framework Jesus gave His disciples in response to their request to be taught to pray.",
+    "themes": [
+      "prayer",
+      "relationship with god",
+      "access to god",
+      "fatherhood of god",
+      "adoption into god's family",
+      "revival of prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Disciple Request"
+      },
+      {
+        "t": 190,
+        "heading": "Model Prayer vs. Lord's Prayer"
+      },
+      {
+        "t": 329,
+        "heading": "The Phrase 'Our Father': Relationship and Access"
+      },
+      {
+        "t": 564,
+        "heading": "Sonship and Adoption in Scripture"
+      },
+      {
+        "t": 711,
+        "heading": "The Father's Goodness Toward Children"
+      },
+      {
+        "t": 949,
+        "heading": "God's Position and Authority in Heaven"
+      },
+      {
+        "t": 1237,
+        "heading": "Prayer as Privilege of the Children of God"
+      },
+      {
+        "t": 1425,
+        "heading": "Awareness of Whom We Pray To"
+      }
+    ]
+  }
 }

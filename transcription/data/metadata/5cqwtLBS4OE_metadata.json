@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5cqwtLBS4OE.vtt",
   "duration": 2863,
   "transcription_timestamp": "2025-04-14T19:29:50.976985",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:9 on the believer's labor to be well-pleasing to God, set against the backdrop of the certainty of heaven and the coming judgment seat of Christ. Paul's desire and dedication to please his Savior are traced through supporting passages in Philippians, 1 Thessalonians, 2 Timothy, Romans, Ephesians, Acts, and Hebrews.",
+    "themes": [
+      "pleasing god",
+      "christian living",
+      "dedication and labor",
+      "self-examination",
+      "certainty of salvation",
+      "accountability before god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 192,
+        "heading": "Wherefore: Salvation as Foundation for Labor"
+      },
+      {
+        "t": 335,
+        "heading": "Sermon Introduction: Striving to Please the Savior"
+      },
+      {
+        "t": 382,
+        "heading": "Point 1: The Desire of Paul"
+      },
+      {
+        "t": 992,
+        "heading": "Meaning of Acceptable: Supporting Passages"
+      },
+      {
+        "t": 1509,
+        "heading": "Point 2: The Dedication of Paul"
+      },
+      {
+        "t": 1610,
+        "heading": "Paul Before Felix: Exercising a Clear Conscience"
+      },
+      {
+        "t": 2229,
+        "heading": "Frailty of Life and Urgency of Readiness"
+      }
+    ]
+  }
 }

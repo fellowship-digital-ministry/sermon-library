@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qmma5NLlSAk.vtt",
   "duration": 3004,
   "transcription_timestamp": "2025-04-15T23:34:38.604150",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 34:1-8, 17 on prayer as shaped by knowledge of God's character, drawing on David's personal testimony of crying to the Lord and being delivered from fears and troubles. Part of a year-long series on the greatness of God and its practical impact on Christian behavior.",
+    "themes": [
+      "prayer",
+      "the greatness of god",
+      "fear and peace",
+      "god's deliverance",
+      "belief shaping behavior"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Belief Shaping Behavior"
+      },
+      {
+        "t": 194,
+        "heading": "God's Greatness and the Prayer Life"
+      },
+      {
+        "t": 488,
+        "heading": "To Whom David Cried"
+      },
+      {
+        "t": 949,
+        "heading": "Why David Cried to the Lord"
+      },
+      {
+        "t": 1234,
+        "heading": "Deliverance from Fears and Troubles"
+      },
+      {
+        "t": 2177,
+        "heading": "God's Deliverance in 1 Samuel 23"
+      },
+      {
+        "t": 2558,
+        "heading": "The Righteous Cry in Psalm 34:17"
+      }
+    ]
+  }
 }

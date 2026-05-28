@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XmrMnXINE5Q.vtt",
   "duration": 3098,
   "transcription_timestamp": "2025-04-14T23:30:15.220367",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 13:8 on the cessation of the gift of tongues, tracing the purpose and biblical usage of tongues through 1 Corinthians 12-14, Acts 10-11 and 15, and related New Testament passages to argue that tongues ceased with the completion of the New Testament canon.",
+    "themes": [
+      "gift of tongues",
+      "sign gifts",
+      "cessation of spiritual gifts",
+      "jewish and gentile relations in the early church",
+      "canon of scripture",
+      "charismatic movement critique"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Series Context and Question Posed"
+      },
+      {
+        "t": 231,
+        "heading": "Framework: Purpose and Biblical Usage"
+      },
+      {
+        "t": 419,
+        "heading": "Tongues in the Three Gift Passages"
+      },
+      {
+        "t": 559,
+        "heading": "Purpose of Tongues: A Sign to Unbelieving Jews"
+      },
+      {
+        "t": 1023,
+        "heading": "Tongues as Evidence for Gentile Salvation: Acts 10-15"
+      },
+      {
+        "t": 2140,
+        "heading": "Biblical Regulations for Tongues: 1 Corinthians 14"
+      },
+      {
+        "t": 2519,
+        "heading": "When Tongues Ceased: Completion of the Canon"
+      }
+    ]
+  }
 }

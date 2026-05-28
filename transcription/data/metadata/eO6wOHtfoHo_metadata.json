@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eO6wOHtfoHo.vtt",
   "duration": 3658,
   "transcription_timestamp": "2025-04-17T08:40:54.214336",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 1:15-23 on the person and work of Jesus Christ, set against the backdrop of false teaching at Colossae. The passage is treated under four descriptions of Christ (image of the invisible God, Creator, Redeemer, and head of the church) and the appropriate response those descriptions demand.",
+    "themes": [
+      "deity of christ",
+      "creation",
+      "redemption",
+      "false teaching",
+      "the church",
+      "spiritual maturity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Series Context"
+      },
+      {
+        "t": 148,
+        "heading": "False Teachers and the Person of Christ"
+      },
+      {
+        "t": 476,
+        "heading": "Christ as Image of the Invisible God"
+      },
+      {
+        "t": 1130,
+        "heading": "Christ as Creator"
+      },
+      {
+        "t": 1755,
+        "heading": "Christ as Redeemer"
+      },
+      {
+        "t": 2410,
+        "heading": "Christ as Head of the Church"
+      },
+      {
+        "t": 2787,
+        "heading": "The Preeminence of Christ"
+      },
+      {
+        "t": 3018,
+        "heading": "Continuing in the Faith Against False Teaching"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LFE-u6qoIJg.vtt",
   "duration": 2631,
   "transcription_timestamp": "2025-04-16T11:38:35.246940",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 7:1-5 on the proper understanding of judgment, examining the mote-and-beam illustration alongside 1 Corinthians 5-6 to address a commonly misquoted verse. Part of an Ask the Pastor series on misunderstood Bible passages.",
+    "themes": [
+      "judgment",
+      "self-examination",
+      "hypocrisy",
+      "biblical interpretation",
+      "church discipline",
+      "forgiveness and restoration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Question and Passage Introduced"
+      },
+      {
+        "t": 49,
+        "heading": "Principles of Biblical Interpretation"
+      },
+      {
+        "t": 287,
+        "heading": "Common Susceptibility Exposed"
+      },
+      {
+        "t": 524,
+        "heading": "Mote and Beam Illustration"
+      },
+      {
+        "t": 997,
+        "heading": "Consistent Standard of Judgment"
+      },
+      {
+        "t": 1287,
+        "heading": "Judgment in 1 Corinthians 5"
+      },
+      {
+        "t": 1615,
+        "heading": "Believers Judging in 1 Corinthians 6"
+      },
+      {
+        "t": 2234,
+        "heading": "Conclusion on Righteous Judgment"
+      }
+    ]
+  }
 }

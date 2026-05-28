@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\u8q4Sw4sIWQ.vtt",
   "duration": 3203,
   "transcription_timestamp": "2025-04-17T06:47:36.813127",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 19:2-38 on the destruction of Sodom and Gomorrah, tracing how the surrounding culture corrupted Lot's thinking and family, with application to believers living in a similarly wicked society. Proverbs 14:34, Luke 17:28-32, 2 Peter 2:6-9, Jude 7, James 4:4, 1 John 2:15-17, Romans 12:1-2, and James 1:27 are drawn in as supporting texts.",
+    "themes": [
+      "judgment of god",
+      "cultural influence on believers",
+      "separation from the world",
+      "the family",
+      "long-suffering of god",
+      "sin and its consequences"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Lot's Progression Toward Sodom"
+      },
+      {
+        "t": 199,
+        "heading": "How Culture Influenced Lot's Thinking"
+      },
+      {
+        "t": 538,
+        "heading": "Lot's Moral Compromise and Lingering"
+      },
+      {
+        "t": 818,
+        "heading": "How Culture Influenced Lot's Family"
+      },
+      {
+        "t": 1190,
+        "heading": "Lot's Wife and Daughters: Immediate and Long-Term Consequences"
+      },
+      {
+        "t": 1524,
+        "heading": "New Testament Warnings Drawn from Sodom and Gomorrah"
+      },
+      {
+        "t": 2183,
+        "heading": "Application: No Friendship, Love, or Spot from the World"
+      },
+      {
+        "t": 2991,
+        "heading": "The Church Called to Influence Culture, Not Be Influenced"
+      }
+    ]
+  }
 }

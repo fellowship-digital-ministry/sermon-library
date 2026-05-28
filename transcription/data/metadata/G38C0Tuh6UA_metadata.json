@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\G38C0Tuh6UA.vtt",
   "duration": 3104,
   "transcription_timestamp": "2025-04-14T19:47:59.815000",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 4:8-18 on the pressures, provision, and perspective that mark ministry and Christian life, organized around the phrase 'we faint not' as it appears twice in the chapter.",
+    "themes": [
+      "pressures of ministry",
+      "grace of god",
+      "eternal perspective",
+      "discouragement",
+      "inner man renewal",
+      "thankfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in 2 Corinthians 4"
+      },
+      {
+        "t": 465,
+        "heading": "The Pressures Paul Faced"
+      },
+      {
+        "t": 1217,
+        "heading": "God's Provision: Grace"
+      },
+      {
+        "t": 2064,
+        "heading": "God's Provision: Power and Inner Renewal"
+      },
+      {
+        "t": 2305,
+        "heading": "Paul's Perspective: Knowing and Confidence"
+      },
+      {
+        "t": 2492,
+        "heading": "Temporal vs. Eternal Focus"
+      },
+      {
+        "t": 2632,
+        "heading": "Light Affliction and Weight of Glory"
+      }
+    ]
+  }
 }

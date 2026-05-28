@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iQq15jU_zqs.vtt",
   "duration": 1563,
   "transcription_timestamp": "2025-04-17T14:17:56.489886",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 139:23-24 on the personal, passionate, and purposed nature of David's prayer inviting God to search his heart, preached as preparation for an upcoming revival meeting.",
+    "themes": [
+      "self-examination",
+      "humility",
+      "personal prayer",
+      "revival preparation",
+      "the heart",
+      "fellowship with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Hymn and Text Introduction"
+      },
+      {
+        "t": 50,
+        "heading": "Background of the Hymn 'Cleanse Me'"
+      },
+      {
+        "t": 189,
+        "heading": "A Personal Plea: Pronouns and Self-Focus"
+      },
+      {
+        "t": 530,
+        "heading": "Danger of Praying for Others Instead of Self"
+      },
+      {
+        "t": 822,
+        "heading": "A Passionate Plea: David's Desire and God's Omniscience"
+      },
+      {
+        "t": 1107,
+        "heading": "A Purposed Plea: Being Right with God"
+      },
+      {
+        "t": 1403,
+        "heading": "Application to Revival Preparation and Closing Prayer"
+      }
+    ]
+  }
 }

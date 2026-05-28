@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ZWX3NCZ1bvc.vtt",
   "duration": 2414.0,
   "transcription_timestamp": "2026-05-27T14:59:42.662349",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 11:1-3 on the courage of Jehosheba, a largely overlooked Bible character who rescued the infant Joash from the murderous queen Athaliah, framed as a Mother's Day message on initiative, intentional living, and parental influence.",
+    "themes": [
+      "courage",
+      "motherhood and parenting",
+      "intentional living",
+      "worldview formation",
+      "influence",
+      "remnant faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Mother's Day Context and Text Introduction"
+      },
+      {
+        "t": 230,
+        "heading": "Setting the Scene: Athaliah's Wickedness"
+      },
+      {
+        "t": 415,
+        "heading": "Jehosheba Takes Initiative"
+      },
+      {
+        "t": 689,
+        "heading": "Jehosheba Acts with Intentionality and Wisdom"
+      },
+      {
+        "t": 1292,
+        "heading": "Jehosheba's Influence on Joash"
+      },
+      {
+        "t": 1477,
+        "heading": "Worldview and Moral Formation in Children"
+      },
+      {
+        "t": 2034,
+        "heading": "Applying Initiative, Intentionality, and Influence"
+      }
+    ]
+  }
 }

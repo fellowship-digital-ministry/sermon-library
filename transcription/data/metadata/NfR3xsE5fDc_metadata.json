@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/NfR3xsE5fDc.vtt",
   "duration": 2126.0,
   "transcription_timestamp": "2026-05-28T16:40:25.248933",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 4:10-11 on the worthiness of God to receive praise, set within a multi-week study of Revelation 4 and the throne room of heaven. The passage is read alongside Hebrews 13:15, Ephesians 3:20-21, Luke 19:28-40, and Numbers 21 to examine what God receives from his people.",
+    "themes": [
+      "worship and praise",
+      "worthiness of god",
+      "murmuring and complaining",
+      "the throne room of heaven",
+      "gratitude",
+      "the redeemed as givers of praise"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 142,
+        "heading": "The Phrase 'Thou Art Worthy' in Revelation 4-5"
+      },
+      {
+        "t": 420,
+        "heading": "God on the Receiving End of Praise"
+      },
+      {
+        "t": 610,
+        "heading": "Israel's Murmuring in Numbers 21"
+      },
+      {
+        "t": 1247,
+        "heading": "Hebrews 13:15 and Continual Praise"
+      },
+      {
+        "t": 1439,
+        "heading": "Ephesians 3:20-21 and Glory to God"
+      },
+      {
+        "t": 1584,
+        "heading": "Luke 19 and the Triumphal Entry"
+      },
+      {
+        "t": 1878,
+        "heading": "The Question of What God Receives from His People"
+      }
+    ]
+  }
 }

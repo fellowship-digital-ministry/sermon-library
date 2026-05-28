@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\B-Ma1zievsk.vtt",
   "duration": 2101,
   "transcription_timestamp": "2025-04-16T09:22:57.449056",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 1:10-11 on divisions and contentions within the church at Corinth, examining how conflict arises among believers and how it is to be resolved through five biblical principles.",
+    "themes": [
+      "church unity",
+      "conflict resolution",
+      "spiritual warfare",
+      "the flesh",
+      "division and contention",
+      "local church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Conflict in Relationships Introduced"
+      },
+      {
+        "t": 142,
+        "heading": "Problems in the Church at Corinth"
+      },
+      {
+        "t": 236,
+        "heading": "The Text: Divisions and Contentions"
+      },
+      {
+        "t": 559,
+        "heading": "God's Desire for Unity"
+      },
+      {
+        "t": 899,
+        "heading": "Recognize and Resist the Real Enemy"
+      },
+      {
+        "t": 1272,
+        "heading": "Review Truth and Refuse to Replay the Conflict"
+      },
+      {
+        "t": 1600,
+        "heading": "Resolve Conflict Quickly"
+      }
+    ]
+  }
 }

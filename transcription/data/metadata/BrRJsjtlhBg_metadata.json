@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BrRJsjtlhBg.vtt",
   "duration": 2867,
   "transcription_timestamp": "2025-04-14T20:40:00.137086",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 1:1-11 on suffering and divine comfort in the Christian life, tracing Paul's personal experience of affliction in Asia alongside the principle that God comforts His people so they may comfort others.",
+    "themes": [
+      "suffering and affliction",
+      "divine comfort",
+      "practical christian living",
+      "trust in god",
+      "prayer",
+      "praise"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Salutation (vv. 1-2)"
+      },
+      {
+        "t": 325,
+        "heading": "Principle of Comfort Stated (v. 4)"
+      },
+      {
+        "t": 564,
+        "heading": "Paul's Experience of Suffering and Comfort (vv. 3-5)"
+      },
+      {
+        "t": 887,
+        "heading": "Affliction and Encouragement for Corinth (vv. 6-7)"
+      },
+      {
+        "t": 934,
+        "heading": "Paul's Trouble in Asia (vv. 8-9)"
+      },
+      {
+        "t": 2013,
+        "heading": "Expectation for Every Believer (vv. 8-10)"
+      },
+      {
+        "t": 2339,
+        "heading": "Past, Present, and Future Deliverance (v. 10)"
+      },
+      {
+        "t": 2480,
+        "heading": "Power of Praise and Prayer as Bookends (vv. 3, 11)"
+      }
+    ]
+  }
 }

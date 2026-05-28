@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\LXUyl5whAVc.vtt",
   "duration": 2909,
   "transcription_timestamp": "2025-04-15T06:14:15.452407",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Judges 13 on parental responsibility and dependence on God, centered on Manoah's prayer for direction in raising the promised child Samson. Draws supporting passages from James 1:5, Deuteronomy 6, Proverbs 4, Proverbs 22:6, and Ephesians 6:4 to address the duty of fathers and all believers to seek divine wisdom.",
+    "themes": [
+      "parenting and child-rearing",
+      "humility and pride",
+      "seeking god's wisdom",
+      "dependence on god",
+      "teaching and training children",
+      "sphere of influence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Weight of Parenting"
+      },
+      {
+        "t": 197,
+        "heading": "Manoah and His Wife: The Text Introduced"
+      },
+      {
+        "t": 336,
+        "heading": "Recognition of Deficiency"
+      },
+      {
+        "t": 579,
+        "heading": "Request for Direction"
+      },
+      {
+        "t": 1040,
+        "heading": "James 1:5: Asking God for Wisdom"
+      },
+      {
+        "t": 1270,
+        "heading": "The Robust Directive: God's Answer to Manoah"
+      },
+      {
+        "t": 1689,
+        "heading": "Application: Training Children in Scripture"
+      }
+    ]
+  }
 }

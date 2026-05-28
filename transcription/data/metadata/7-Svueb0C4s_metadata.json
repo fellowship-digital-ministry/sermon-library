@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\7-Svueb0C4s.vtt",
   "duration": 1350,
   "transcription_timestamp": "2025-04-17T07:35:17.167820",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:3 on the phrase 'give us day by day our daily bread,' treating it as part of a model framework for prayer rather than a memorized recitation. The passage is examined for how praying for provision shapes a believer's perspective on God as provider and cultivates genuine praise.",
+    "themes": [
+      "prayer",
+      "god as provider",
+      "daily provision",
+      "gratitude and praise",
+      "model prayer",
+      "taking provision for granted"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Model Prayer"
+      },
+      {
+        "t": 96,
+        "heading": "Model Prayer vs. Memorized Recitation"
+      },
+      {
+        "t": 239,
+        "heading": "Introduction to Prayer for Provision"
+      },
+      {
+        "t": 384,
+        "heading": "Provision and Perspective"
+      },
+      {
+        "t": 575,
+        "heading": "God as Ultimate Provider"
+      },
+      {
+        "t": 767,
+        "heading": "Provision and Praise"
+      },
+      {
+        "t": 1053,
+        "heading": "Illustration: Hope Children's Home"
+      }
+    ]
+  }
 }

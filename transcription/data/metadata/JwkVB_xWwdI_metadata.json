@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\JwkVB_xWwdI.vtt",
   "duration": 2076,
   "transcription_timestamp": "2025-04-17T14:44:09.698189",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A topical study on faith and unbelief drawn primarily from Mark 6:4-6, with supporting passages from Matthew, Luke, Numbers, and Psalms. The sermon examines occasions when Jesus marveled at great faith and at unbelief, tracing the recognition, results, and remedy of unbelief in the life of the believer.",
+    "themes": [
+      "faith and unbelief",
+      "trusting god",
+      "the word of god as faith builder",
+      "results of doubt",
+      "prayer",
+      "god's faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage"
+      },
+      {
+        "t": 95,
+        "heading": "Jesus Marveling at Faith and Unbelief"
+      },
+      {
+        "t": 327,
+        "heading": "God's Question to Moses on Unbelief"
+      },
+      {
+        "t": 715,
+        "heading": "Recognizing Unbelief"
+      },
+      {
+        "t": 1054,
+        "heading": "Results of Unbelief"
+      },
+      {
+        "t": 1335,
+        "heading": "Remedy for Unbelief: The Word of God"
+      },
+      {
+        "t": 1658,
+        "heading": "Prayer as an Exercise of Faith"
+      }
+    ]
+  }
 }

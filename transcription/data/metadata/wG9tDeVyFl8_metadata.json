@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\wG9tDeVyFl8.vtt",
   "duration": 2756,
   "transcription_timestamp": "2025-04-17T09:43:57.242514",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Samuel 14:1-23 on Jonathan and his armor bearer's assault on the Philistine garrison, tracing the expectation, plan, execution, and evidence of divine intervention. Psalm 119:126 and Psalm 109:26-27 frame the passage as a study in God working through yielded individuals.",
+    "themes": [
+      "faith and action",
+      "divine intervention",
+      "availability to god",
+      "god's glory",
+      "courage against overwhelming odds",
+      "expectation of god working"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Psalm 119:126 and God at Work"
+      },
+      {
+        "t": 245,
+        "heading": "Jonathan's Expectation (vv. 1-7)"
+      },
+      {
+        "t": 762,
+        "heading": "Explanation of the Plan (vv. 8-10)"
+      },
+      {
+        "t": 899,
+        "heading": "Execution of the Plan (vv. 11-14)"
+      },
+      {
+        "t": 1371,
+        "heading": "Evidence of God Working (vv. 15-23)"
+      },
+      {
+        "t": 2141,
+        "heading": "God Using Available People"
+      },
+      {
+        "t": 2519,
+        "heading": "Surrender and Availability"
+      }
+    ]
+  }
 }

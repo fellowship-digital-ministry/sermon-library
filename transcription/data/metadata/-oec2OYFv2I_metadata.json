@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/-oec2OYFv2I.vtt",
   "duration": 2797.0,
   "transcription_timestamp": "2026-05-27T14:17:45.722182",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 50:15 on calling upon God in times of trouble, his promise of deliverance, and the response of praise, drawing on biblical examples from Joseph, David, Hezekiah, Daniel, Stephen, and Paul.",
+    "themes": [
+      "prayer in adversity",
+      "divine deliverance",
+      "trouble and affliction",
+      "glorifying god",
+      "testimony of the saints",
+      "trust in god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context of Psalm 50"
+      },
+      {
+        "t": 283,
+        "heading": "The Presence of Trouble"
+      },
+      {
+        "t": 615,
+        "heading": "The Promise of Deliverance"
+      },
+      {
+        "t": 799,
+        "heading": "Testimony of the Saints"
+      },
+      {
+        "t": 1774,
+        "heading": "Deliverance Through Difficulty"
+      },
+      {
+        "t": 2293,
+        "heading": "The Praise of the Delivered"
+      },
+      {
+        "t": 2573,
+        "heading": "Calling Upon God and Glorifying Him"
+      }
+    ]
+  }
 }

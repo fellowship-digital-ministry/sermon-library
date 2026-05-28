@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jGOucUG9qOI.vtt",
   "duration": 3564,
   "transcription_timestamp": "2025-04-17T08:16:20.170131",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 2:1-3 on Paul's expressed concern for believers in Colossae, Laodicea, and beyond, set within the broader context of false teaching threatening early churches. The passage is examined under three headings: the conflict Paul reveals, the reasons behind it, and the means by which it may be addressed.",
+    "themes": [
+      "false teaching",
+      "pastoral concern",
+      "spiritual growth and maturity",
+      "unity in the church",
+      "the sufficiency of scripture",
+      "the activity of the enemy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Colossians 1 and Ministry Philosophy"
+      },
+      {
+        "t": 373,
+        "heading": "Paul Reveals His Great Conflict"
+      },
+      {
+        "t": 468,
+        "heading": "The Nature and Scope of the Conflict"
+      },
+      {
+        "t": 1087,
+        "heading": "The Reason for the Conflict: False Teaching and Enemy Activity"
+      },
+      {
+        "t": 1333,
+        "heading": "The Church at Laodicea: A Contrasting Threat"
+      },
+      {
+        "t": 1958,
+        "heading": "Resolving the Conflict Through Spiritual Growth"
+      },
+      {
+        "t": 2149,
+        "heading": "Comfort, Unity, and Maturity in Colossians 2:2-3"
+      },
+      {
+        "t": 2992,
+        "heading": "Practical Warning Against False Teachers Infiltrating the Church"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bPt92Z2dPIg.vtt",
   "duration": 2611,
   "transcription_timestamp": "2025-04-15T10:34:15.784460",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 12:1-2 on absolute surrender to God, framed as the concluding message of a year-long series on the greatness of God. The sermon draws on supporting passages throughout Romans, 2 Corinthians, and Daniel to examine why believers should live surrendered lives and what results from that surrender.",
+    "themes": [
+      "surrender",
+      "the love of christ",
+      "obedience and submission",
+      "god being magnified",
+      "the mercies of god",
+      "yielding to god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Subject Introduced"
+      },
+      {
+        "t": 95,
+        "heading": "Responses to the Idea of Surrender"
+      },
+      {
+        "t": 191,
+        "heading": "Definition of Surrender"
+      },
+      {
+        "t": 389,
+        "heading": "Reason for a Surrendered Life: The Love of Christ"
+      },
+      {
+        "t": 814,
+        "heading": "Foundation in Romans: Guilt, Penalty, and the Gift"
+      },
+      {
+        "t": 1560,
+        "heading": "Result of Surrender: Obedience and Submission"
+      },
+      {
+        "t": 1698,
+        "heading": "Example of the Macedonian Churches"
+      },
+      {
+        "t": 2041,
+        "heading": "Outcomes: God Magnified, Brethren Edified, Lost Impacted"
+      }
+    ]
+  }
 }

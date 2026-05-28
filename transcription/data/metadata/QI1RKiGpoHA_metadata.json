@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QI1RKiGpoHA.vtt",
   "duration": 2348,
   "transcription_timestamp": "2025-04-14T19:19:42.790595",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 3:14-17 on the seventh letter to the churches, addressed to the church of the Laodiceans. The sermon examines the significance of the letter's address, Christ's self-identification in verse 14, and the church's lukewarm condition and self-deceived perspective as described in verses 15-17, presented as the first of two parts.",
+    "themes": [
+      "lukewarmness",
+      "church identity and purpose",
+      "self-deception",
+      "worldly influence on the church",
+      "stewardship",
+      "christ as head of the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to the Laodicean Letter"
+      },
+      {
+        "t": 46,
+        "heading": "\"Church of the Laodiceans\" vs. Church in Laodicea"
+      },
+      {
+        "t": 195,
+        "heading": "Christ as Head and Owner of the Church"
+      },
+      {
+        "t": 571,
+        "heading": "Christ's Self-Description in Verse 14"
+      },
+      {
+        "t": 1003,
+        "heading": "A Faulty Path: Lukewarmness and Compromise"
+      },
+      {
+        "t": 1335,
+        "heading": "A Faulty Perspective: The Church's Self-Assessment vs. Christ's Assessment"
+      },
+      {
+        "t": 1862,
+        "heading": "A Frequent Problem in Church History"
+      }
+    ]
+  }
 }

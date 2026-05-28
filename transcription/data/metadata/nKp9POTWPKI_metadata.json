@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nKp9POTWPKI.vtt",
   "duration": 3130,
   "transcription_timestamp": "2025-04-15T06:59:00.068244",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 4:1-16 on the spiritual diet of the believer, framed around what Christians should receive and what they should refuse in their intake of teaching and doctrine.",
+    "themes": [
+      "spiritual diet",
+      "false teaching",
+      "sound doctrine",
+      "discernment",
+      "scripture as spiritual nourishment",
+      "continuing in the faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 136,
+        "heading": "The Spiritual Diet Defined"
+      },
+      {
+        "t": 410,
+        "heading": "Being Selective: Unhealthy Spiritual Food"
+      },
+      {
+        "t": 870,
+        "heading": "Being Selective: Healthy Spiritual Food"
+      },
+      {
+        "t": 1730,
+        "heading": "Being Scriptural: The Bible as Unique Standard"
+      },
+      {
+        "t": 2311,
+        "heading": "Being Sound: The Result of a Healthy Diet"
+      },
+      {
+        "t": 2828,
+        "heading": "Verse 16 and the Call to Continue"
+      }
+    ]
+  }
 }

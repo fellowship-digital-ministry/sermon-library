@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/X_Uu37pLEd0.vtt",
   "duration": 3104.0,
   "transcription_timestamp": "2026-05-28T16:19:32.219617",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 8:18-24 on the character qualities of those entrusted with delivering the Corinthian offering, framed around the concept of being 'meet for the master's use' drawn from 2 Timothy 2:21. The passage is examined for what it reveals about being recommended, reputable, and resolved in Christian service.",
+    "themes": [
+      "christian service",
+      "integrity",
+      "reputation",
+      "cooperation",
+      "finishing well",
+      "usefulness to god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 333,
+        "heading": "Meet for the Master's Use Defined"
+      },
+      {
+        "t": 573,
+        "heading": "Recommended for the Task"
+      },
+      {
+        "t": 759,
+        "heading": "Reputable in the Gospel"
+      },
+      {
+        "t": 1221,
+        "heading": "Resolved to Honor the Lord and Operate with Integrity"
+      },
+      {
+        "t": 1647,
+        "heading": "Resolved to Cooperate with One Another"
+      },
+      {
+        "t": 2253,
+        "heading": "Resolved to Complete the Task"
+      }
+    ]
+  }
 }

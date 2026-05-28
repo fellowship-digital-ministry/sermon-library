@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aG_nBkVcOeE.vtt",
   "duration": 2862,
   "transcription_timestamp": "2025-04-16T10:07:08.946612",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 34:1-31 on the dangers of taking personal vengeance, using the account of Dinah's defilement and the retaliatory slaughter carried out by Simeon and Levi as a case study in the consequences of self-directed retaliation. Supporting passages from Romans 12, 1 Samuel 24, 25, and 26, and Genesis 49 develop the application toward trusting God's providence rather than avenging personal wrongs.",
+    "themes": [
+      "personal vengeance",
+      "god's providence",
+      "spiritual maturity",
+      "restraint under offense",
+      "trusting god",
+      "self-justification"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 34"
+      },
+      {
+        "t": 191,
+        "heading": "The Recorded Offense Against Dinah"
+      },
+      {
+        "t": 485,
+        "heading": "The Deceitful Proposal and Agreement"
+      },
+      {
+        "t": 822,
+        "heading": "The Slaughter and Jacob's Fear"
+      },
+      {
+        "t": 966,
+        "heading": "Jacob's Deathbed Words on Simeon and Levi"
+      },
+      {
+        "t": 1103,
+        "heading": "Application: Romans 12 on Vengeance"
+      },
+      {
+        "t": 1496,
+        "heading": "David's Restraint Toward Saul"
+      },
+      {
+        "t": 2085,
+        "heading": "Abigail Restrains David from Avenging Himself"
+      }
+    ]
+  }
 }

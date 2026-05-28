@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M0Dw4IAWMLg.vtt",
   "duration": 2744,
   "transcription_timestamp": "2025-04-16T15:19:06.833370",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 15 on the resurrection of Jesus Christ and its practical impact on the life of the believer, preached on Easter Sunday. Drawing on Paul's defense of the resurrection against false teaching at Corinth, the sermon traces three ways the reality of a risen Savior shapes Christian conduct, using supporting passages from 2 Corinthians, Philippians, Galatians, and the Gospels.",
+    "themes": [
+      "resurrection of christ",
+      "preaching the gospel",
+      "enduring hardship",
+      "living for christ",
+      "false teaching",
+      "christian identity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening and Scripture Context"
+      },
+      {
+        "t": 138,
+        "heading": "Paul's Defense of the Resurrection"
+      },
+      {
+        "t": 414,
+        "heading": "Witnesses to the Risen Christ"
+      },
+      {
+        "t": 508,
+        "heading": "The Gospel: Death, Burial, and Resurrection"
+      },
+      {
+        "t": 1121,
+        "heading": "Enduring Hardship Because He Lives"
+      },
+      {
+        "t": 1843,
+        "heading": "Living for Christ, Not for Self"
+      },
+      {
+        "t": 2425,
+        "heading": "Closing Appeal and Invitation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2laf56evDRY.vtt",
   "duration": 2933,
   "transcription_timestamp": "2025-04-14T21:39:55.528842",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 1:9-20 on John's vision of the glorified Christ on the isle of Patmos, covering the identification of John, the detailed description of Christ among the seven candlesticks, and the three-part outline of the book of Revelation drawn from verse 19.",
+    "themes": [
+      "vision of the glorified christ",
+      "suffering for christ",
+      "the book of revelation outline",
+      "judgment beginning at the house of god",
+      "the seven churches of asia",
+      "the authority and eternality of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Scripture Reading and Book Outline"
+      },
+      {
+        "t": 480,
+        "heading": "John Identified: Brother and Companion in Tribulation"
+      },
+      {
+        "t": 893,
+        "heading": "John in the Spirit on the Lord's Day"
+      },
+      {
+        "t": 1124,
+        "heading": "John Instructed: The Voice and the Vision"
+      },
+      {
+        "t": 1215,
+        "heading": "Description of the Glorified Christ"
+      },
+      {
+        "t": 2335,
+        "heading": "John Impacted: Falling at His Feet"
+      },
+      {
+        "t": 2477,
+        "heading": "Judgment at the House of God and the World"
+      }
+    ]
+  }
 }

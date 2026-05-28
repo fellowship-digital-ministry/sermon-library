@@ -8,5 +8,43 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/E31QXOicGRA.vtt",
   "duration": 2553.0,
   "transcription_timestamp": "2026-05-27T17:26:37.324584",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 86:10-11 on the greatness of God and the practical response of the believer, drawing on David's three declarations in verse 10 and his three corresponding requests in verse 11.",
+    "themes": [
+      "greatness of god",
+      "fear of god",
+      "teachability and submission",
+      "walking in truth",
+      "undivided heart",
+      "worship"
+    ],
+    "sections": [
+      {
+        "t": 183,
+        "heading": "Psalm 86:10-11 Introduced"
+      },
+      {
+        "t": 324,
+        "heading": "God's Greatness in Scripture"
+      },
+      {
+        "t": 415,
+        "heading": "What the Psalmist Recognized"
+      },
+      {
+        "t": 1176,
+        "heading": "How the Psalmist Responds"
+      },
+      {
+        "t": 1417,
+        "heading": "Walking in Truth"
+      },
+      {
+        "t": 1857,
+        "heading": "The United Heart and Fear of God"
+      }
+    ]
+  }
 }

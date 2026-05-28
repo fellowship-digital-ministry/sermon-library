@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qOjc4Iw2qz8.vtt",
   "duration": 2942,
   "transcription_timestamp": "2025-04-17T06:07:16.358039",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 103:1-2 on remembering and rehearsing the benefits of God, preached on Memorial Day weekend with parallel attention to national memory and the danger of forgetting God across generations.",
+    "themes": [
+      "gratitude and praise",
+      "the benefits of god",
+      "memory and forgetting",
+      "generational faithfulness",
+      "national heritage",
+      "worship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Memorial Day and National Forgetting"
+      },
+      {
+        "t": 239,
+        "heading": "Biblical Memorials and the Call to Remember"
+      },
+      {
+        "t": 583,
+        "heading": "Recognizing God's Daily Benefits"
+      },
+      {
+        "t": 822,
+        "heading": "Rehearsing the Benefits: Seven in Psalm 103"
+      },
+      {
+        "t": 1951,
+        "heading": "Response of Praise and Thanksgiving"
+      },
+      {
+        "t": 2248,
+        "heading": "A Generation That Has Forgotten"
+      },
+      {
+        "t": 2490,
+        "heading": "Passing Benefits to the Next Generation"
+      }
+    ]
+  }
 }

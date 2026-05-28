@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b0asT7EEcLU.vtt",
   "duration": 2977,
   "transcription_timestamp": "2025-04-17T11:38:51.960318",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 12:4-17 on the chastening of the Lord, examining what divine discipline proves about God's love and a believer's sonship, what it produces in the life of the Christian, and how believers ought to respond to it. Proverbs 3:11-12, Revelation 3:19, and the Old Testament account of Esau in Genesis 27 are drawn in as supporting texts.",
+    "themes": [
+      "chastening and discipline",
+      "love of god",
+      "sonship and belonging to god",
+      "holiness",
+      "bitterness",
+      "repentance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 46,
+        "heading": "Defining Chastening and Scourging"
+      },
+      {
+        "t": 390,
+        "heading": "What Chastening Proves: God's Love and Sonship"
+      },
+      {
+        "t": 1184,
+        "heading": "What Chastening Produces: Holiness and Righteousness"
+      },
+      {
+        "t": 1737,
+        "heading": "Responding to Chastisement: Continuing in Holiness"
+      },
+      {
+        "t": 2021,
+        "heading": "Responding to Chastisement: Refusing Bitterness"
+      },
+      {
+        "t": 2351,
+        "heading": "Responding to Chastisement: Repentance and the Example of Esau"
+      },
+      {
+        "t": 2683,
+        "heading": "Summary and Closing Application"
+      }
+    ]
+  }
 }

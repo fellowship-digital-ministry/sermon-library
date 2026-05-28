@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BCxBtTx1Rfs.vtt",
   "duration": 2695,
   "transcription_timestamp": "2025-04-16T09:53:53.164903",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 3:18 on the substitutionary atonement of Christ, preached on Palm Sunday. Traces the record, reason, and result of Christ's suffering through Old Testament typology and Gospel passion narratives.",
+    "themes": [
+      "substitutionary atonement",
+      "the suffering of christ",
+      "sin and its penalty",
+      "reconciliation to god",
+      "old testament sacrifice and fulfillment",
+      "the gospel offer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Subject Introduced"
+      },
+      {
+        "t": 338,
+        "heading": "The Record of His Suffering"
+      },
+      {
+        "t": 1001,
+        "heading": "The Reason for His Suffering"
+      },
+      {
+        "t": 1283,
+        "heading": "Old Testament Sacrifice and Its Limits"
+      },
+      {
+        "t": 1707,
+        "heading": "The Result of His Suffering: Reconciliation"
+      },
+      {
+        "t": 1948,
+        "heading": "Ephesians 1 and the How of Salvation"
+      },
+      {
+        "t": 2419,
+        "heading": "Invitation and Appeal"
+      }
+    ]
+  }
 }

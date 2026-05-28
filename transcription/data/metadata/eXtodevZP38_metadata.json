@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eXtodevZP38.vtt",
   "duration": 2865,
   "transcription_timestamp": "2025-04-16T00:41:26.584674",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 5:1-19 on the healing of Naaman the Syrian leper and his subsequent declaration that the Lord alone is God, tracing the roles of an unnamed captive servant girl and the prophet Elisha in bringing Naaman to that confession.",
+    "themes": [
+      "proclamation of the gospel",
+      "humility and obedience",
+      "sovereignty of god",
+      "idolatry and conversion",
+      "witnessing",
+      "the exclusivity of salvation"
+    ],
+    "sections": [
+      {
+        "t": 95,
+        "heading": "Introduction to Naaman and His Condition"
+      },
+      {
+        "t": 381,
+        "heading": "The Captive Servant Girl Speaks"
+      },
+      {
+        "t": 658,
+        "heading": "The King of Syria, the Letter, and Elisha"
+      },
+      {
+        "t": 842,
+        "heading": "What Naaman Expected"
+      },
+      {
+        "t": 1302,
+        "heading": "What Naaman Experienced"
+      },
+      {
+        "t": 1683,
+        "heading": "What Naaman Exclaimed"
+      },
+      {
+        "t": 2114,
+        "heading": "Naaman's Request and Pledge to Worship the Lord"
+      },
+      {
+        "t": 2352,
+        "heading": "Application: Declaring the Greatness of God"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9G6aYNGlUN8.vtt",
   "duration": 2240,
   "transcription_timestamp": "2025-04-17T10:44:08.611643",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:7 and supporting Old and New Testament passages on the doctrine of the Trinity, presented as part of a series on sound doctrine. Old Testament plural names and pronouns, New Testament Trinitarian passages, and the deity of Christ are examined in sequence.",
+    "themes": [
+      "trinity",
+      "deity of christ",
+      "deity of the holy spirit",
+      "sound doctrine",
+      "progressive revelation",
+      "cults and false teaching"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Why the Trinity Matters"
+      },
+      {
+        "t": 95,
+        "heading": "Key Terms and Defining the Trinity"
+      },
+      {
+        "t": 341,
+        "heading": "Old Testament Evidence: Names and Pronouns"
+      },
+      {
+        "t": 631,
+        "heading": "Old Testament Examples: Creation, Babel, Isaiah"
+      },
+      {
+        "t": 918,
+        "heading": "New Testament: The Father and Son as God"
+      },
+      {
+        "t": 1349,
+        "heading": "Christ Receiving Worship and Forgiving Sin"
+      },
+      {
+        "t": 1679,
+        "heading": "The Holy Spirit as God: Ananias and Scripture"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\35c77xaGibc.vtt",
   "duration": 3378,
   "transcription_timestamp": "2025-04-14T21:59:25.010363",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition anchored in Psalm 10:16 on the kingship of God as the governing framework for Christian civic engagement, covering biblical principles for voting and for responding to election outcomes in the context of a U.S. presidential election.",
+    "themes": [
+      "sovereignty of god",
+      "christian civic responsibility",
+      "biblical authority over political issues",
+      "sanctity of life and family",
+      "justice and partiality",
+      "trusting god amid political uncertainty"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "God's Eternal Kingship Established"
+      },
+      {
+        "t": 184,
+        "heading": "Israel's Rejection of Theocracy"
+      },
+      {
+        "t": 419,
+        "heading": "Christian Identity and Civic Duty"
+      },
+      {
+        "t": 1007,
+        "heading": "Biblical Issues Politicized: Life, Gender, Marriage, Family, Justice, Partiality, Debt"
+      },
+      {
+        "t": 2267,
+        "heading": "Biblical Principles for Coping with Election Results"
+      },
+      {
+        "t": 2655,
+        "heading": "Trust, Rejoice, and Continue"
+      }
+    ]
+  }
 }

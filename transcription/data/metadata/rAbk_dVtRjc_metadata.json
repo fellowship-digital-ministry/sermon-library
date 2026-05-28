@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rAbk_dVtRjc.vtt",
   "duration": 2688,
   "transcription_timestamp": "2025-04-14T19:08:24.324156",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A summary exposition of Revelation 2-3 drawing seven lessons from the seven churches of Asia Minor, concluding an 11-week series on those letters. The value of the local church, doctrinal fidelity, separation, faithfulness under trial, and heeding God's counsel are treated in turn.",
+    "themes": [
+      "the local church",
+      "doctrine",
+      "separation",
+      "faithfulness",
+      "spiritual growth",
+      "heeding god's word"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Overview and Church Value"
+      },
+      {
+        "t": 328,
+        "heading": "The Church Deemed Non-Essential"
+      },
+      {
+        "t": 938,
+        "heading": "Lesson One: God Knows Our Works"
+      },
+      {
+        "t": 1029,
+        "heading": "Lesson Two: Activity and Spirituality"
+      },
+      {
+        "t": 1316,
+        "heading": "Lessons Three and Four: Doctrine and Separation"
+      },
+      {
+        "t": 1837,
+        "heading": "Lesson Five: Faithfulness in Difficulty"
+      },
+      {
+        "t": 2033,
+        "heading": "Lesson Six: Fellowship with the Lord"
+      },
+      {
+        "t": 2275,
+        "heading": "Lesson Seven: Heeding God's Counsel"
+      }
+    ]
+  }
 }

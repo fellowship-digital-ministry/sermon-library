@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rwlS36WfLm8.vtt",
   "duration": 2744,
   "transcription_timestamp": "2025-04-16T15:09:38.397405",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 8:7-15 on the weeping of Elisha the prophet upon receiving divine revelation of the destruction Hazael would bring upon Israel, set against the contrasting absence of tears in Hezekiah (Isaiah 39) and applied to the subject of compassion for lost souls in light of the great white throne judgment (Revelation 20).",
+    "themes": [
+      "tears and weeping",
+      "compassion for lost souls",
+      "divine revelation and prophecy",
+      "the great white throne judgment",
+      "evangelism",
+      "self-centeredness versus outward concern"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Biblical examples of weeping"
+      },
+      {
+        "t": 140,
+        "heading": "The passage: Elisha and Hazael"
+      },
+      {
+        "t": 323,
+        "heading": "What Elisha recognized: coming destruction"
+      },
+      {
+        "t": 516,
+        "heading": "Fulfillment of the prophecy against Israel"
+      },
+      {
+        "t": 896,
+        "heading": "Hezekiah and the absence of tears"
+      },
+      {
+        "t": 1326,
+        "heading": "The great white throne judgment applied"
+      },
+      {
+        "t": 1753,
+        "heading": "Paul's sorrow and desire for souls"
+      },
+      {
+        "t": 2209,
+        "heading": "Psalm 126 and the call to weep for the lost"
+      }
+    ]
+  }
 }

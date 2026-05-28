@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9Lj9S26ifeI.vtt",
   "duration": 3689,
   "transcription_timestamp": "2025-04-17T13:13:47.773217",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jeremiah 37-40, tracing Jeremiah's ministry on the eve of the Babylonian captivity, his imprisonment and deliverance from the dungeon, and the fulfillment of his prophecies at the fall of Jerusalem. The passage is read alongside 2 Timothy 3-4 on faithfulness and perseverance in perilous times.",
+    "themes": [
+      "coming judgment",
+      "faithfulness under persecution",
+      "god's providence and care",
+      "trust in god",
+      "last days",
+      "perseverance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Jeremiah and Uncertain Times"
+      },
+      {
+        "t": 334,
+        "heading": "Jeremiah's Ministry and the Coming Judgment"
+      },
+      {
+        "t": 805,
+        "heading": "Circumstances Jeremiah Faced"
+      },
+      {
+        "t": 1358,
+        "heading": "Deliverance from the Dungeon: Ebed-Melech"
+      },
+      {
+        "t": 1957,
+        "heading": "Nebuchadnezzar's Command Concerning Jeremiah"
+      },
+      {
+        "t": 2611,
+        "heading": "2 Timothy 3-4: Perilous Times and the Call to Continue"
+      },
+      {
+        "t": 3370,
+        "heading": "Paul's Preservation and Closing Appeal"
+      }
+    ]
+  }
 }

@@ -8,5 +8,42 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\UNpT0Mg8wG8.vtt",
   "duration": 2023,
   "transcription_timestamp": "2025-04-15T06:35:12.283655",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:26-28 on three marks of a healthy local church, presented as the eighteenth lesson in a series on walking worthy and pleasing God through the closing verses of 1 Thessalonians 5.",
+    "themes": [
+      "church unity",
+      "priority of scripture",
+      "grace of god",
+      "local church health",
+      "brotherly love"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 45,
+        "heading": "Three Elements of a Healthy Church"
+      },
+      {
+        "t": 141,
+        "heading": "A Unified Church (v. 26)"
+      },
+      {
+        "t": 561,
+        "heading": "Priority on Scripture (v. 27)"
+      },
+      {
+        "t": 1121,
+        "heading": "Acknowledging the Need for Grace (v. 28)"
+      },
+      {
+        "t": 1640,
+        "heading": "Sufficiency of Grace and Closing Summary"
+      }
+    ]
+  }
 }

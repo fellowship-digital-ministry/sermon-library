@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/aMhTQy-Fsac.vtt",
   "duration": 3269.0,
   "transcription_timestamp": "2026-05-27T14:28:36.099161",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 6:1-8, set within the third warning passage of Hebrews (5:11-6:20), on the call to move from spiritual immaturity to spiritual maturity, with close attention to pronoun usage, hermeneutical method, and the debated question of whether verses 4-6 teach loss of salvation.",
+    "themes": [
+      "spiritual maturity",
+      "eternal security",
+      "biblical interpretation",
+      "false profession",
+      "the holy spirit",
+      "spiritual immaturity"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Context of the Third Warning Passage"
+      },
+      {
+        "t": 193,
+        "heading": "The Call to Go On to Maturity"
+      },
+      {
+        "t": 439,
+        "heading": "Pronoun Usage as Interpretive Key"
+      },
+      {
+        "t": 970,
+        "heading": "Interpreting the Obscure by the Obvious"
+      },
+      {
+        "t": 1114,
+        "heading": "Eternal Security in Scripture"
+      },
+      {
+        "t": 1768,
+        "heading": "First Century Examples of False Profession"
+      },
+      {
+        "t": 2718,
+        "heading": "The Illustration of Earth and Rain"
+      },
+      {
+        "t": 2855,
+        "heading": "Broader Warning and Closing Application"
+      }
+    ]
+  }
 }

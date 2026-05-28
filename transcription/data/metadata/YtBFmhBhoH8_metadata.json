@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YtBFmhBhoH8.vtt",
   "duration": 1737,
   "transcription_timestamp": "2025-04-17T03:52:18.662915",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Lamentations 5:19-22, centered on verse 21, treating Jeremiah's closing prayer as a model for returning to God after spiritual wandering. Draws supporting passages from Hosea and Revelation 2 to develop the themes of turning, repentance, and renewal.",
+    "themes": [
+      "returning to god",
+      "revival",
+      "spiritual wandering",
+      "repentance",
+      "prayer",
+      "first love"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Historical Context of Lamentations"
+      },
+      {
+        "t": 95,
+        "heading": "Reading and Overview of Lamentations 5:19-22"
+      },
+      {
+        "t": 287,
+        "heading": "Tozer Quote and Desire for God"
+      },
+      {
+        "t": 378,
+        "heading": "Israel's Straying and God's Constancy"
+      },
+      {
+        "t": 710,
+        "heading": "Hosea on Returning to God"
+      },
+      {
+        "t": 987,
+        "heading": "The Church at Ephesus and First Love"
+      },
+      {
+        "t": 1310,
+        "heading": "Repentance, Renewal, and Call to Prayer"
+      }
+    ]
+  }
 }

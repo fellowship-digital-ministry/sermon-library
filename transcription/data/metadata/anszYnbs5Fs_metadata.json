@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\anszYnbs5Fs.vtt",
   "duration": 3818,
   "transcription_timestamp": "2025-04-17T15:13:55.080019",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 9:15-28 on the necessity and accomplishment of Christ's death as testator of the New Covenant, tracing the blood atonement from Old Testament type to its fulfillment in Christ, and closing with the promise of his second appearing.",
+    "themes": [
+      "blood atonement",
+      "the new covenant",
+      "christ's second coming",
+      "sin and forgiveness",
+      "the high priestly work of christ",
+      "sanctification"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading and Introduction of Passage"
+      },
+      {
+        "t": 462,
+        "heading": "The Atonement of Christ"
+      },
+      {
+        "t": 696,
+        "heading": "Old Testament Blood Types and Necessity of Death"
+      },
+      {
+        "t": 1066,
+        "heading": "What the Atonement Accomplished"
+      },
+      {
+        "t": 2149,
+        "heading": "Freedom from Sin's Penalty and Power"
+      },
+      {
+        "t": 2288,
+        "heading": "Appointment with Death and Judgment"
+      },
+      {
+        "t": 2520,
+        "heading": "The Appearing of Christ"
+      },
+      {
+        "t": 3081,
+        "heading": "The Appearing's Effect on Believers"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/wNJkNLf9kaY.vtt",
   "duration": 3283.0,
   "transcription_timestamp": "2026-05-27T14:52:35.828719",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 3:1-12 on the power and dangers of the tongue, set within a verse-by-verse study of James. Proverbs, Psalms, Ephesians, and Colossians are drawn in to develop the practical call to guard spoken and written words.",
+    "themes": [
+      "the tongue",
+      "words and speech",
+      "inconsistency in speech",
+      "spiritual maturity",
+      "dependence on god",
+      "practical christian living"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to James 3"
+      },
+      {
+        "t": 292,
+        "heading": "Acknowledging the Impact of Words"
+      },
+      {
+        "t": 582,
+        "heading": "Proverbs on the Power of Words"
+      },
+      {
+        "t": 1095,
+        "heading": "Avoiding Inconsistencies in Speech"
+      },
+      {
+        "t": 1381,
+        "heading": "Analyzing the Four Illustrations"
+      },
+      {
+        "t": 2292,
+        "heading": "Psalm and New Testament Applications"
+      }
+    ]
+  }
 }

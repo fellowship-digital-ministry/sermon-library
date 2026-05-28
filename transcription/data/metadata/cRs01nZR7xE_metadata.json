@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cRs01nZR7xE.vtt",
   "duration": 2559,
   "transcription_timestamp": "2025-04-16T13:12:54.871023",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:7 on the doctrine of the Trinity, tracing the biblical basis for one God revealed in three distinct persons across both Testaments and addressing common objections, including charges of polytheism.",
+    "themes": [
+      "trinity",
+      "deity of christ",
+      "deity of the holy spirit",
+      "biblical authority",
+      "polytheism contrasted with trinitarianism",
+      "god's transcendence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Question Introduced"
+      },
+      {
+        "t": 51,
+        "heading": "God's Transcendence and Human Limits"
+      },
+      {
+        "t": 196,
+        "heading": "1 John 5:7 and Textual Attacks"
+      },
+      {
+        "t": 635,
+        "heading": "Definition and Old Testament Evidence"
+      },
+      {
+        "t": 963,
+        "heading": "Three Old Testament Illustrations"
+      },
+      {
+        "t": 1429,
+        "heading": "New Testament Acknowledgment of Each Person"
+      },
+      {
+        "t": 2085,
+        "heading": "Trinity Distinguished from Polytheism"
+      },
+      {
+        "t": 2322,
+        "heading": "Creation and Closing Appeal to Faith"
+      }
+    ]
+  }
 }

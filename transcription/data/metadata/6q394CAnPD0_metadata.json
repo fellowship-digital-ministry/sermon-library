@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6q394CAnPD0.vtt",
   "duration": 2141,
   "transcription_timestamp": "2025-04-16T15:05:04.066251",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 31:17-37 on Rachel's theft of Laban's household idols during Jacob's departure from Paddan Aram, with parallel examination of Achan's concealment in Joshua 7 and David's sin with Bathsheba, set against the backdrop of the Lord's Supper and self-examination.",
+    "themes": [
+      "concealment of sin",
+      "idolatry",
+      "self-examination",
+      "confession and forsaking sin",
+      "god's omniscience",
+      "the lord's supper"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context of Jacob's Departure"
+      },
+      {
+        "t": 238,
+        "heading": "Jacob's Ignorance of the Theft"
+      },
+      {
+        "t": 519,
+        "heading": "Laban's Persistent Search"
+      },
+      {
+        "t": 710,
+        "heading": "Rachel's Deception and Concealment"
+      },
+      {
+        "t": 1086,
+        "heading": "Achan's Hidden Spoils in Joshua 7"
+      },
+      {
+        "t": 1569,
+        "heading": "Psalm 69 and David's Covered Sin"
+      },
+      {
+        "t": 1826,
+        "heading": "Proverbs 28 and the Lord's Supper Examination"
+      }
+    ]
+  }
 }

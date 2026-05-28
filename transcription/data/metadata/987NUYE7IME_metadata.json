@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\987NUYE7IME.vtt",
   "duration": 3393,
   "transcription_timestamp": "2025-04-17T07:33:37.416494",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Chronicles 22:1-19, with supporting passages in 2 Chronicles 2, 3, 5, and 7, on David's charge to Solomon to build the temple and the application of that charge to the Great Commission responsibility of the New Testament church.",
+    "themes": [
+      "the great commission",
+      "obedience to god's revealed will",
+      "the local church's mission",
+      "witnessing and evangelism",
+      "responding to god's call",
+      "preparation versus action"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening: God as Refuge in Trouble"
+      },
+      {
+        "t": 229,
+        "heading": "Background: David's Desire and God's Refusal"
+      },
+      {
+        "t": 414,
+        "heading": "Lessons from 1 Chronicles 17"
+      },
+      {
+        "t": 550,
+        "heading": "David's Charge to Solomon (1 Chronicles 22)"
+      },
+      {
+        "t": 1194,
+        "heading": "Solomon's Response in 2 Chronicles 2 and 3"
+      },
+      {
+        "t": 1684,
+        "heading": "The Work Finished and God's Glory Fills the Temple"
+      },
+      {
+        "t": 2121,
+        "heading": "Application: The Church's Commission and Responsibility"
+      },
+      {
+        "t": 2680,
+        "heading": "Believers as Participants, Witnesses, and Laborers"
+      }
+    ]
+  }
 }

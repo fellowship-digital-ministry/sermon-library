@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iLbP529uYUM.vtt",
   "duration": 2888,
   "transcription_timestamp": "2025-04-16T12:02:34.943295",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 4:11-21 on the command to love one another, tracing the basis of that love in God's love toward believers and its expression through the indwelling Holy Spirit, with supporting texts from Romans 5, Galatians 5, Philippians 1, Ephesians 4-5, and 3 John.",
+    "themes": [
+      "brotherly love",
+      "the indwelling holy spirit",
+      "prayer for one another",
+      "serving one another",
+      "forgiveness",
+      "christian conduct"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 230,
+        "heading": "The Thessalonian Church as Example"
+      },
+      {
+        "t": 368,
+        "heading": "Why We Love: God's Love Toward Us"
+      },
+      {
+        "t": 555,
+        "heading": "God's Love Working Through Us"
+      },
+      {
+        "t": 944,
+        "heading": "The Impact and Observable Nature of Love"
+      },
+      {
+        "t": 1692,
+        "heading": "Philemon and Gaius as Examples"
+      },
+      {
+        "t": 1935,
+        "heading": "Practical Application: Pray, Serve, Forgive"
+      }
+    ]
+  }
 }

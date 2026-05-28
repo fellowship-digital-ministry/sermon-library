@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mkxrJUvuFss.vtt",
   "duration": 1952,
   "transcription_timestamp": "2025-04-16T11:16:59.431747",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 1:21 on the name Jesus, its meaning ('Jehovah is salvation'), and its announcement by the angel of the Lord to Joseph at the birth of Christ. The sermon develops three descriptive qualities of the name Jesus drawn from Matthew 1, Philippians 2, and supporting New Testament texts.",
+    "themes": [
+      "the name of jesus",
+      "incarnation",
+      "salvation from sin",
+      "redemption through the blood of christ",
+      "universal confession of christ",
+      "the virgin birth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: God Revealed Through Names"
+      },
+      {
+        "t": 142,
+        "heading": "The Angel's Message to Joseph"
+      },
+      {
+        "t": 381,
+        "heading": "Jesus as a Prophetic Name"
+      },
+      {
+        "t": 633,
+        "heading": "Sin as a Universal Condition and Its Remedy"
+      },
+      {
+        "t": 1057,
+        "heading": "Jesus as a Precious Name"
+      },
+      {
+        "t": 1249,
+        "heading": "Jesus as a Powerful Name"
+      },
+      {
+        "t": 1401,
+        "heading": "When Every Knee Bows: Now or at Judgment"
+      }
+    ]
+  }
 }

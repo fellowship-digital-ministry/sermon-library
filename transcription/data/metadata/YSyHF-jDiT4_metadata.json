@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\YSyHF-jDiT4.vtt",
   "duration": 2206,
   "transcription_timestamp": "2025-04-15T07:43:13.247884",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:18 on the command to give thanks in everything as the will of God, set within a Wednesday night series on walking worthy and pleasing God. Draws on Psalm 100, Ephesians 5:18-20, Philippians 1:12, and Philippians 2:13-15 to address the conditions and scope of thankfulness for believers.",
+    "themes": [
+      "thankfulness",
+      "will of god",
+      "being filled with the spirit",
+      "sovereignty of god",
+      "murmuring and complaining",
+      "witnessing through adversity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 236,
+        "heading": "Psalm 100 on Thanksgiving and God's Goodness"
+      },
+      {
+        "t": 515,
+        "heading": "Ephesians 5 on Being Filled with the Spirit"
+      },
+      {
+        "t": 800,
+        "heading": "How Believers Are Instructed to Behave"
+      },
+      {
+        "t": 988,
+        "heading": "Experiences as Gospel Ministry Opportunities"
+      },
+      {
+        "t": 1550,
+        "heading": "What God Informs Us of in the Verse"
+      },
+      {
+        "t": 1737,
+        "heading": "Philippians 2 on Murmuring and God's Enabling"
+      }
+    ]
+  }
 }

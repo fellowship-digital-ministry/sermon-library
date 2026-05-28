@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\d-1B6rYpHbw.vtt",
   "duration": 3138,
   "transcription_timestamp": "2025-04-16T16:05:49.972303",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:18-27 on the internal threat of false teaching to the church, covering the description, doctrine, and desire of antichrists, the enabling role of the Holy Spirit for believers, and the coming of the future Antichrist in relation to end-times prophecy.",
+    "themes": [
+      "false teaching",
+      "antichrist",
+      "holy spirit discernment",
+      "end times prophecy",
+      "the rapture",
+      "the tribulation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 293,
+        "heading": "Exposure of False Teachers"
+      },
+      {
+        "t": 493,
+        "heading": "Doctrine of the Antichrists"
+      },
+      {
+        "t": 1159,
+        "heading": "Enabling of the Believer"
+      },
+      {
+        "t": 1866,
+        "heading": "The Coming Antichrist and the Rapture"
+      },
+      {
+        "t": 2198,
+        "heading": "The Seal Judgments in Revelation 6"
+      },
+      {
+        "t": 2528,
+        "heading": "Current Events and End-Times Urgency"
+      },
+      {
+        "t": 2910,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

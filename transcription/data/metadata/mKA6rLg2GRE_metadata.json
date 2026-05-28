@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mKA6rLg2GRE.vtt",
   "duration": 2337,
   "transcription_timestamp": "2025-04-15T07:29:04.879386",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 50:15-21 on Joseph's response to his brothers' fear after Jacob's death, tracing the concern of the brothers, Joseph's confidence in God's sovereignty, and his compassion toward those who wronged him. Romans 8:28 and 2 Corinthians 5:1-8 are brought alongside the Genesis text.",
+    "themes": [
+      "forgiveness",
+      "god's sovereignty",
+      "bitterness",
+      "confidence in god",
+      "compassion",
+      "speech and kindness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 190,
+        "heading": "Concern of Joseph's Brothers"
+      },
+      {
+        "t": 478,
+        "heading": "The Brothers' Message and Plea"
+      },
+      {
+        "t": 622,
+        "heading": "Confidence of Joseph in God"
+      },
+      {
+        "t": 1047,
+        "heading": "Romans 8:28 and 2 Corinthians 5 Considered"
+      },
+      {
+        "t": 1703,
+        "heading": "Compassion of Joseph"
+      },
+      {
+        "t": 1933,
+        "heading": "Kindness of Speech in Ephesians and Colossians"
+      }
+    ]
+  }
 }

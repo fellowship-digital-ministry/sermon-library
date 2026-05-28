@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4xuA6rZOsH8.vtt",
   "duration": 1791,
   "transcription_timestamp": "2025-04-17T02:56:11.774513",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 15:33 on the corrupting influence of ungodly associations, set within a series titled 'The Danger of Deception.' Psalm 106, Psalm 1, and 2 Corinthians 6 are drawn in to develop the case for biblical separation as the practical response to the warning.",
+    "themes": [
+      "separation",
+      "deception",
+      "ungodly associations",
+      "biblical warnings",
+      "delighting in scripture",
+      "influence of the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 94,
+        "heading": "Social Distancing as Sermon Springboard"
+      },
+      {
+        "t": 188,
+        "heading": "Exposition of 1 Corinthians 15:33"
+      },
+      {
+        "t": 374,
+        "heading": "Israel's Downfall in Psalm 106"
+      },
+      {
+        "t": 893,
+        "heading": "2 Corinthians 6 on Separation"
+      },
+      {
+        "t": 1218,
+        "heading": "Psalm 1 on Avoiding Ungodly Counsel"
+      },
+      {
+        "t": 1311,
+        "heading": "Delighting in the Word as Remedy for Deception"
+      }
+    ]
+  }
 }

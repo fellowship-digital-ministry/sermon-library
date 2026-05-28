@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uGo1HL4c1vk.vtt",
   "duration": 3077,
   "transcription_timestamp": "2025-04-17T01:38:57.785777",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 4:14-18 on the charge to fulfill one's God-given ministry, centered on the command to Archippus in verse 17 and closing out a year-long study of Colossians.",
+    "themes": [
+      "fulfilling ministry",
+      "perseverance in service",
+      "discouragement in ministry",
+      "calling and accountability",
+      "cloud of witnesses",
+      "dependence on christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Closing the Colossians Series"
+      },
+      {
+        "t": 92,
+        "heading": "Luke, Demas, and Laodicea"
+      },
+      {
+        "t": 366,
+        "heading": "Nymphas, Archippus, and Paul's Salutation"
+      },
+      {
+        "t": 645,
+        "heading": "The Charge to Archippus"
+      },
+      {
+        "t": 1349,
+        "heading": "A Cloud of Witnesses"
+      },
+      {
+        "t": 2090,
+        "heading": "Four Ways to Fulfill Your Ministry"
+      }
+    ]
+  }
 }

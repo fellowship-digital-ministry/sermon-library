@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BB7NHySh5dQ.vtt",
   "duration": 2405,
   "transcription_timestamp": "2025-04-15T06:21:33.257673",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 18:1-11 on Paul's ministry in Corinth, framed around the divine promise 'I have much people in this city' as preparation for a church missions conference. The passage is treated as a model of evangelistic passion, divine encouragement, and persistent discipleship.",
+    "themes": [
+      "missions and world evangelization",
+      "evangelistic passion",
+      "divine promises",
+      "persistence in ministry",
+      "discipleship",
+      "soul-winning"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Preparing for Missions Conference"
+      },
+      {
+        "t": 280,
+        "heading": "Paul's Journey to Corinth"
+      },
+      {
+        "t": 602,
+        "heading": "The Passion of Paul"
+      },
+      {
+        "t": 1372,
+        "heading": "The Promises of God"
+      },
+      {
+        "t": 1945,
+        "heading": "The Persistence of Paul"
+      },
+      {
+        "t": 2087,
+        "heading": "Discipleship and the Great Commission"
+      },
+      {
+        "t": 2230,
+        "heading": "Local and Global Responsibility"
+      }
+    ]
+  }
 }

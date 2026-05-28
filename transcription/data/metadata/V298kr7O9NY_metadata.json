@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\V298kr7O9NY.vtt",
   "duration": 2850,
   "transcription_timestamp": "2025-04-14T21:11:09.936258",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:1-7 on the correction given to the church at Ephesus for leaving its first love, set against the backdrop of the church's commendation for faithful service, doctrinal soundness, and separation from evil. The passage is examined alongside supporting texts from Ephesians, Luke, 1 John, and Colossians.",
+    "themes": [
+      "first love",
+      "backsliding",
+      "self-examination",
+      "repentance",
+      "motives for service",
+      "correction and commendation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Last Week's Commendation"
+      },
+      {
+        "t": 236,
+        "heading": "Introduction to the Correction"
+      },
+      {
+        "t": 375,
+        "heading": "The Problem: Leaving the First Love"
+      },
+      {
+        "t": 797,
+        "heading": "Love as the Required Motive"
+      },
+      {
+        "t": 1218,
+        "heading": "The Choice: Remember and Repent"
+      },
+      {
+        "t": 2237,
+        "heading": "Consequences of Ignoring the Correction"
+      },
+      {
+        "t": 2569,
+        "heading": "The Promise to the Overcomer"
+      }
+    ]
+  }
 }

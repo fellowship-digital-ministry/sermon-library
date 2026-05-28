@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8a6mW0kuSNU.vtt",
   "duration": 2073,
   "transcription_timestamp": "2025-04-14T20:52:14.176291",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 12:7-10 on the sufficiency of God's grace, centered on Paul's thorn in the flesh, his threefold prayer for its removal, and God's response. Presented as the opening message for a year-long study of 2 Corinthians, with the passage's promise treated as a present, personal reality for believers.",
+    "themes": [
+      "grace of god",
+      "suffering and infirmity",
+      "prayer and god's will",
+      "weakness and divine strength",
+      "embracing god's promises"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Paul's Visions and Caution"
+      },
+      {
+        "t": 141,
+        "heading": "The Thorn Given on Purpose"
+      },
+      {
+        "t": 233,
+        "heading": "Paul's Threefold Prayer for Removal"
+      },
+      {
+        "t": 325,
+        "heading": "The Promise Explained: Grace and Strength"
+      },
+      {
+        "t": 942,
+        "heading": "Significance of the Present Tense 'Is'"
+      },
+      {
+        "t": 1082,
+        "heading": "The Promise Embraced by Paul"
+      },
+      {
+        "t": 1552,
+        "heading": "Glorying in Infirmities and Distresses"
+      }
+    ]
+  }
 }

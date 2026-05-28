@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QmqNwJEHxfw.vtt",
   "duration": 1851,
   "transcription_timestamp": "2025-04-17T20:12:12.384225",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 5:7 on casting care upon God, set alongside Philippians 4:6-7 and Luke 10:38-41, addressing worry and anxiety among believers during a period of widespread hardship.",
+    "themes": [
+      "worry and anxiety",
+      "prayer and supplication",
+      "peace of god",
+      "god's care for the individual",
+      "casting care upon god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Martha: Careful and Troubled"
+      },
+      {
+        "t": 145,
+        "heading": "Philippians 4: Be Careful for Nothing"
+      },
+      {
+        "t": 344,
+        "heading": "Prayer as the Alternative to Worry"
+      },
+      {
+        "t": 682,
+        "heading": "1 Peter 5:7 Introduced"
+      },
+      {
+        "t": 866,
+        "heading": "Context: Believers Under Persecution"
+      },
+      {
+        "t": 1186,
+        "heading": "God's Care for the Individual"
+      },
+      {
+        "t": 1618,
+        "heading": "Casting Care and Leaving It with God"
+      }
+    ]
+  }
 }

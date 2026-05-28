@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VXXPWmtdQok.vtt",
   "duration": 2954,
   "transcription_timestamp": "2025-04-16T00:26:21.177016",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Lamentations 3:22-23, Psalm 103:1-14, Micah 7:18-19, and Luke 15:11-32 on the mercy of God as the basis for personal and corporate revival, tracing God's character as forgiver, healer, redeemer, and restorer through the parable of the prodigal son.",
+    "themes": [
+      "mercy of god",
+      "revival",
+      "backsliding",
+      "repentance",
+      "restoration",
+      "redeeming the time"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Lamentations 3: God's Mercies"
+      },
+      {
+        "t": 232,
+        "heading": "Distraction and Wasted Time"
+      },
+      {
+        "t": 464,
+        "heading": "Psalm 103: God's Benefits and Attributes"
+      },
+      {
+        "t": 1068,
+        "heading": "God's Delight in Mercy, Not Wrath"
+      },
+      {
+        "t": 1440,
+        "heading": "Luke 15: The Prodigal's Departure and Fall"
+      },
+      {
+        "t": 2148,
+        "heading": "The Prodigal's Return: Repentance and Restoration"
+      },
+      {
+        "t": 2671,
+        "heading": "Call to Stop Running and Come Back"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\c02Czidq-Fk.vtt",
   "duration": 2845,
   "transcription_timestamp": "2025-04-16T13:38:10.645416",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 9:9-13 on the call and immediate response of Matthew the tax collector, tracing the simplicity and seriousness of Christ's call to follow Him and the resulting changes in profession, perspective, and priorities.",
+    "themes": [
+      "the call to follow christ",
+      "surrender and obedience",
+      "discipleship",
+      "full-time ministry",
+      "evangelism",
+      "self-denial"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Matthew 9:9-13 Read and Introduced"
+      },
+      {
+        "t": 279,
+        "heading": "The Simplicity of the Call"
+      },
+      {
+        "t": 611,
+        "heading": "The Seriousness of the Call"
+      },
+      {
+        "t": 800,
+        "heading": "General and Specific Calls to Follow"
+      },
+      {
+        "t": 1515,
+        "heading": "The Surrender of Matthew"
+      },
+      {
+        "t": 1894,
+        "heading": "Profession, Perspective, and Priorities Changed"
+      },
+      {
+        "t": 2319,
+        "heading": "Jesus Eating with Publicans and Sinners"
+      },
+      {
+        "t": 2604,
+        "heading": "2 Corinthians 5 and Closing Application"
+      }
+    ]
+  }
 }

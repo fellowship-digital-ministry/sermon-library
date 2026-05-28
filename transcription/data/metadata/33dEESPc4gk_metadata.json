@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\33dEESPc4gk.vtt",
   "duration": 1886,
   "transcription_timestamp": "2025-04-17T00:29:59.616587",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 7:29 and Matthew 11:28-29 on two purposes for learning Scripture: the application of truth (doing) and the dissemination of truth (teaching). Part of a series titled 'Teach Me,' drawing on Deuteronomy 4-5 and 17, Ezra 7:10, 2 Chronicles 17, Acts 20, Philippians 4:9, and 2 Timothy 2:2.",
+    "themes": [
+      "learning scripture",
+      "application of truth",
+      "teaching others",
+      "knowledge and wisdom",
+      "the holy spirit as teacher",
+      "dissemination of truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Jesus as Teacher"
+      },
+      {
+        "t": 93,
+        "heading": "Matthew 7:29 and the Authority of Christ"
+      },
+      {
+        "t": 287,
+        "heading": "First Purpose: Application of Truth"
+      },
+      {
+        "t": 432,
+        "heading": "Deuteronomy on Learning and Doing"
+      },
+      {
+        "t": 761,
+        "heading": "Knowledge Versus Wisdom"
+      },
+      {
+        "t": 905,
+        "heading": "Second Purpose: Dissemination of Truth"
+      },
+      {
+        "t": 1514,
+        "heading": "Ezra 7:10 as Summary of Both Purposes"
+      },
+      {
+        "t": 1608,
+        "heading": "Matthew 5:19 and Doing and Teaching"
+      }
+    ]
+  }
 }

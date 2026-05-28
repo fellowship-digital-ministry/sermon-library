@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nS3pAoxKMb4.vtt",
   "duration": 1702,
   "transcription_timestamp": "2025-04-17T06:57:50.097788",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:4 on the closing petition of the model prayer, focusing on the twofold request for direction away from temptation and deliverance from evil, set within a mini-series on the Lord's Prayer framework.",
+    "themes": [
+      "prayer",
+      "temptation",
+      "spiritual warfare",
+      "deliverance from evil",
+      "the model prayer",
+      "fleeing sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of the Model Prayer Framework"
+      },
+      {
+        "t": 230,
+        "heading": "The Twofold Request Introduced"
+      },
+      {
+        "t": 329,
+        "heading": "Lead Us Not Into Temptation"
+      },
+      {
+        "t": 470,
+        "heading": "God's Faithfulness and the Way of Escape"
+      },
+      {
+        "t": 1053,
+        "heading": "Proverbs 1 on Enticement to Sin"
+      },
+      {
+        "t": 1148,
+        "heading": "Joseph in Genesis 39 as Illustration"
+      },
+      {
+        "t": 1485,
+        "heading": "Concluding Application and Prayer"
+      }
+    ]
+  }
 }

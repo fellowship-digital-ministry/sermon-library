@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BhyhczSVZM0.vtt",
   "duration": 2297.0,
   "transcription_timestamp": "2026-05-27T14:20:59.120740",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jeremiah 10 and supporting passages in Isaiah on the doctrine of God (theology proper), presented as the second installment in a series on sound doctrine drawn from Titus 2:1. The sermon surveys atheism, pantheism, polytheism, and monotheism before establishing Scripture as the sole source for knowing who God is.",
+    "themes": [
+      "theology proper",
+      "the existence of god",
+      "idolatry",
+      "scripture as the source of doctrine",
+      "attributes of god",
+      "sound doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 96,
+        "heading": "Confusion and Denial of God in Society"
+      },
+      {
+        "t": 240,
+        "heading": "Declaring God to the World"
+      },
+      {
+        "t": 530,
+        "heading": "Jeremiah 10 as Outline for Three-Part Study"
+      },
+      {
+        "t": 576,
+        "heading": "Competing Belief Systems About God"
+      },
+      {
+        "t": 812,
+        "heading": "Scripture as the Source of Theology"
+      },
+      {
+        "t": 1429,
+        "heading": "Isaiah 40 to 46 on the Incomparability of God"
+      },
+      {
+        "t": 1898,
+        "heading": "God's Character, Immutability, and the Responsibility to Proclaim Him"
+      }
+    ]
+  }
 }

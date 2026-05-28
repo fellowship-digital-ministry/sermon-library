@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sJAMffvnci8.vtt",
   "duration": 1511,
   "transcription_timestamp": "2025-04-17T06:33:22.358193",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 6:45-52 on the account of Jesus walking on the water, organized around three observations drawn from verse 48: that Christ saw the disciples toiling against a contrary wind, came to them, and went up into the ship until the wind ceased.",
+    "themes": [
+      "omniscience of god",
+      "storms and trials",
+      "obedience",
+      "christ walking on water",
+      "god's provision",
+      "fear and reassurance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Setting: Feeding of the 5,000"
+      },
+      {
+        "t": 96,
+        "heading": "Disciples Sent Across the Sea"
+      },
+      {
+        "t": 191,
+        "heading": "First Observation: He Knows Where You Are"
+      },
+      {
+        "t": 383,
+        "heading": "Second Observation: He Knows What You Face"
+      },
+      {
+        "t": 723,
+        "heading": "Third Observation: He Knows What You Need"
+      },
+      {
+        "t": 912,
+        "heading": "John 6 Compared: Willingly Received"
+      },
+      {
+        "t": 1104,
+        "heading": "He Went Up Into the Ship, Wind Ceased"
+      },
+      {
+        "t": 1250,
+        "heading": "Application to the Congregation"
+      }
+    ]
+  }
 }

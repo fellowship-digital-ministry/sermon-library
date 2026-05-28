@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pFAgp4Aw-l4.vtt",
   "duration": 2708,
   "transcription_timestamp": "2025-04-17T16:01:21.813389",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 5:1-20 on the conversion and commission of the demoniac of Gadara, centered on Christ's instruction in v. 19 to go home and tell friends what the Lord has done. Personal testimony as a mode of witness is examined alongside parallel passages in Luke 1, John 17, Matthew 28, and Philippians.",
+    "themes": [
+      "personal testimony",
+      "evangelism and witnessing",
+      "the great commission",
+      "conversion",
+      "the power of christ over demons",
+      "purpose of the believer in the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Go and Tell"
+      },
+      {
+        "t": 240,
+        "heading": "The Demoniac: Condition and Encounter"
+      },
+      {
+        "t": 574,
+        "heading": "The Swine and the Crowd's Response"
+      },
+      {
+        "t": 854,
+        "heading": "The Man Converted: Sitting Clothed and Calm"
+      },
+      {
+        "t": 1088,
+        "heading": "The Man Commissioned: Go Home and Tell"
+      },
+      {
+        "t": 1426,
+        "heading": "Personal Testimony as a Witness Method"
+      },
+      {
+        "t": 1995,
+        "heading": "Christ's Prayer and the Believer Left in the World"
+      },
+      {
+        "t": 2366,
+        "heading": "This Life as the Only Time to Tell"
+      }
+    ]
+  }
 }

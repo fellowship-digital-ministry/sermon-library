@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5_TnEW9T9GI.vtt",
   "duration": 3146.0,
   "transcription_timestamp": "2026-05-28T16:45:08.295567",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 8:7-15 on the grace of giving, addressed to the church at Corinth, set within a broader series on spiritual maturity and completeness in Christ. Paul's commendation of the Corinthians, his challenge to fulfill their giving commitment, and the example of Christ's sacrifice frame the passage.",
+    "themes": [
+      "christian giving",
+      "spiritual maturity",
+      "completeness in christ",
+      "the example of christ",
+      "stewardship",
+      "fulfilling commitments"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 283,
+        "heading": "Abounding in All Things: Overview"
+      },
+      {
+        "t": 328,
+        "heading": "Spiritual Growth and 2 Peter 1"
+      },
+      {
+        "t": 713,
+        "heading": "Paul Commends the Corinthians"
+      },
+      {
+        "t": 1377,
+        "heading": "Paul Challenges the Corinthians"
+      },
+      {
+        "t": 1468,
+        "heading": "The Example of Christ in Giving"
+      },
+      {
+        "t": 2001,
+        "heading": "Fulfilling the Commitment to Give"
+      },
+      {
+        "t": 2336,
+        "heading": "Recognizing the Opportunity: Equality and Need"
+      }
+    ]
+  }
 }

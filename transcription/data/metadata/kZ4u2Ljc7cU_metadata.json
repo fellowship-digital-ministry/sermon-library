@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kZ4u2Ljc7cU.vtt",
   "duration": 2087,
   "transcription_timestamp": "2025-04-17T02:40:30.151972",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Obadiah 3-4 on pride as a source of self-deception, part of a series on the danger of deception. The judgment pronounced on Edom serves as a springboard for tracing the destructive and deceptive nature of pride through Old and New Testament examples and closing with scriptural remedies.",
+    "themes": [
+      "pride",
+      "self-deception",
+      "humility",
+      "divine judgment",
+      "spiritual self-sufficiency",
+      "grace of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background on Edom and Obadiah"
+      },
+      {
+        "t": 144,
+        "heading": "Pride as Deception: Obadiah 3-4"
+      },
+      {
+        "t": 283,
+        "heading": "Nature and Definition of Pride"
+      },
+      {
+        "t": 466,
+        "heading": "Old Testament Example: King Uzziah"
+      },
+      {
+        "t": 789,
+        "heading": "New Testament Warnings: 1 Corinthians and Galatians"
+      },
+      {
+        "t": 1306,
+        "heading": "The Church of Laodicea: Pride and Ignorance"
+      },
+      {
+        "t": 1550,
+        "heading": "Remedy for Pride: Scriptural Answers"
+      }
+    ]
+  }
 }

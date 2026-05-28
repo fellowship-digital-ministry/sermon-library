@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\q3MX1Go2qSk.vtt",
   "duration": 2610,
   "transcription_timestamp": "2025-04-17T01:14:00.390882",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 17:1-7 on Israel's water crisis at Rephidim, tracing the congregation's murmuring, Moses' cry to God, and God's command to strike the rock, set within a broader study of obedience and faith-building obstacles in the wilderness journey.",
+    "themes": [
+      "murmuring and complaint",
+      "obedience to god's command",
+      "faith under trial",
+      "prayer and dependence on god",
+      "obstacles and spiritual growth",
+      "leadership and dependence on god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Prior Message"
+      },
+      {
+        "t": 234,
+        "heading": "Circumstances at Rephidim"
+      },
+      {
+        "t": 611,
+        "heading": "Complaint and Murmuring of Israel"
+      },
+      {
+        "t": 1026,
+        "heading": "Moses Cries to the Lord"
+      },
+      {
+        "t": 1364,
+        "heading": "God's Command to Strike the Rock"
+      },
+      {
+        "t": 1862,
+        "heading": "Moses Obeys in Sight of the Elders"
+      },
+      {
+        "t": 2109,
+        "heading": "Application to Present Obstacles"
+      }
+    ]
+  }
 }

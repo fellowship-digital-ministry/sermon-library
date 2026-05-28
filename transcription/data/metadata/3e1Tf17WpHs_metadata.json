@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\3e1Tf17WpHs.vtt",
   "duration": 2931,
   "transcription_timestamp": "2025-04-17T15:22:00.741085",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 8:26-40 on the encounter between Philip and the Ethiopian eunuch, organized around four questions in the text and used to instruct on the proper candidate and proper mode for believer's baptism, delivered on an evening when three men were to be baptized.",
+    "themes": [
+      "believer's baptism",
+      "baptismal regeneration refuted",
+      "immersion",
+      "evangelism",
+      "obedience to the holy spirit",
+      "salvation as prerequisite to baptism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context in Acts 8"
+      },
+      {
+        "t": 235,
+        "heading": "Philip Directed to the Eunuch"
+      },
+      {
+        "t": 473,
+        "heading": "First Two Questions: Understanding and Guidance"
+      },
+      {
+        "t": 768,
+        "heading": "Third Question: Who Is Isaiah 53 About"
+      },
+      {
+        "t": 1010,
+        "heading": "Fourth Question: What Hinders Baptism"
+      },
+      {
+        "t": 1102,
+        "heading": "Proper Candidate for Baptism"
+      },
+      {
+        "t": 1586,
+        "heading": "Proper Mode for Baptism"
+      },
+      {
+        "t": 2149,
+        "heading": "The Eunuch's Condition: Lost to Rejoicing"
+      }
+    ]
+  }
 }

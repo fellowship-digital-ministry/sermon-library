@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ovhq5P2teKg.vtt",
   "duration": 2758,
   "transcription_timestamp": "2025-04-16T10:46:35.648469",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 4:23-31 on the early disciples' prayer response to threats from the Sanhedrin, set alongside Hezekiah's response to the Assyrians in Isaiah 37 and Psalm 146:1-6, tracing how recognition of God as Creator shaped the disciples' request for boldness rather than removal of opposition.",
+    "themes": [
+      "creator god as helper",
+      "prayer in adversity",
+      "boldness in gospel witness",
+      "opposition to the church",
+      "dependence on god",
+      "creation and the power of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Hezekiah and the Assyrians"
+      },
+      {
+        "t": 93,
+        "heading": "Context of Opposition in Acts 4"
+      },
+      {
+        "t": 187,
+        "heading": "The Sanhedrin's Threat and Command"
+      },
+      {
+        "t": 511,
+        "heading": "The Disciples' Response: Prayer with One Accord"
+      },
+      {
+        "t": 1178,
+        "heading": "The Content of the Disciples' Request"
+      },
+      {
+        "t": 1374,
+        "heading": "James, John, and the Contrast in Luke 9"
+      },
+      {
+        "t": 1810,
+        "heading": "What the Disciples Received: Boldness and the Spirit"
+      },
+      {
+        "t": 2225,
+        "heading": "Psalm 146 and the Creator as Helper"
+      }
+    ]
+  }
 }

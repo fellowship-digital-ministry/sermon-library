@@ -8,5 +8,50 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jIT6eZVTo_c.vtt",
   "duration": 1962,
   "transcription_timestamp": "2025-04-17T08:44:12.643986",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Leviticus 25:1-7 and 18-22 on the Sabbath year law given to Israel, tracing the twin themes of faith and obedience through God's command to rest the land every seventh year and his promise of a threefold harvest in the sixth year.",
+    "themes": [
+      "faith and obedience",
+      "the sabbath year",
+      "god's provision",
+      "trusting god's promises",
+      "consequences of disobedience"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Scripture Reading"
+      },
+      {
+        "t": 140,
+        "heading": "Faith and Obedience as Biblical Themes"
+      },
+      {
+        "t": 327,
+        "heading": "The Plan of God: The Sabbath Year"
+      },
+      {
+        "t": 560,
+        "heading": "The Manna Parallel: Obedience and Supply"
+      },
+      {
+        "t": 851,
+        "heading": "The Promise of God: Threefold Harvest"
+      },
+      {
+        "t": 1295,
+        "heading": "Manna Ceasing at Entry into Canaan"
+      },
+      {
+        "t": 1524,
+        "heading": "Israel's Disobedience and the Babylonian Captivity"
+      },
+      {
+        "t": 1712,
+        "heading": "Principles of Faith and Obedience Applied"
+      }
+    ]
+  }
 }

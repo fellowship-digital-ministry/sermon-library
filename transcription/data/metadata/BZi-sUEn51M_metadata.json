@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BZi-sUEn51M.vtt",
   "duration": 1663,
   "transcription_timestamp": "2025-04-15T09:07:28.687605",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:14 on the command to be patient toward all men, the seventh installment in a series on closing instructions to the Thessalonian church. The sermon treats patience as a fruit of the Spirit requiring Spirit-filled living rather than natural human effort.",
+    "themes": [
+      "patience",
+      "long-suffering",
+      "fruit of the spirit",
+      "local church instruction",
+      "forgiveness",
+      "walking in the spirit"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Series Context and Verse Introduction"
+      },
+      {
+        "t": 96,
+        "heading": "Review of Prior Commands in the Verse"
+      },
+      {
+        "t": 193,
+        "heading": "The Command to Be Patient Toward All Men"
+      },
+      {
+        "t": 430,
+        "heading": "Long-Suffering as Fruit of the Spirit"
+      },
+      {
+        "t": 619,
+        "heading": "Love and Patience Linked in Scripture"
+      },
+      {
+        "t": 763,
+        "heading": "Matthew 18 Parable of the Unforgiving Servant"
+      },
+      {
+        "t": 1196,
+        "heading": "Application to the Local Church Context"
+      }
+    ]
+  }
 }

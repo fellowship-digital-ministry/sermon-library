@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\__bA4Uw99tw.vtt",
   "duration": 2997,
   "transcription_timestamp": "2025-04-15T23:29:26.720034",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Daniel 2:7-23 on prayer as the immediate response to crisis, tracing Daniel's intercession with his companions, God's revelation of Nebuchadnezzar's dream, and Daniel's subsequent worship. Situated within a year-long series on the greatness of God, the passage is used to examine how belief in God's greatness shapes the practice and content of prayer.",
+    "themes": [
+      "prayer",
+      "dependence on god",
+      "corporate prayer",
+      "gratitude and worship",
+      "god's greatness",
+      "crisis and faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Year-Long Theme and Series Context"
+      },
+      {
+        "t": 280,
+        "heading": "Daniel as a Man of Prayer"
+      },
+      {
+        "t": 421,
+        "heading": "The Situation in Daniel 2"
+      },
+      {
+        "t": 845,
+        "heading": "Daniel's Prayer Meeting with Companions"
+      },
+      {
+        "t": 1028,
+        "heading": "New Testament Principles on Prayer"
+      },
+      {
+        "t": 1885,
+        "heading": "The Secret Revealed and God's Answer"
+      },
+      {
+        "t": 2115,
+        "heading": "Daniel's Worship and Thanksgiving"
+      },
+      {
+        "t": 2679,
+        "heading": "Prayer Life as Reflection of Belief"
+      }
+    ]
+  }
 }

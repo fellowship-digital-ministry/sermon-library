@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/EmHoC0CRw6w.vtt",
   "duration": 2348.0,
   "transcription_timestamp": "2026-05-27T15:13:00.936431",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 6:5-6 on the third seal judgment, presenting the black horse and its rider as a picture of catastrophic famine and economic collapse during the tribulation period, set within a series on the sealed judgments of Daniel's seventieth week.",
+    "themes": [
+      "tribulation judgments",
+      "famine as divine judgment",
+      "the four horsemen",
+      "desperation and human suffering",
+      "evangelism and urgency",
+      "prophecy and eschatology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Scripture: Titus 2"
+      },
+      {
+        "t": 97,
+        "heading": "Series Context: Revelation and the Tribulation"
+      },
+      {
+        "t": 192,
+        "heading": "The Third Seal: Black Horse and Famine"
+      },
+      {
+        "t": 564,
+        "heading": "Famine as Divine Judgment in Scripture"
+      },
+      {
+        "t": 943,
+        "heading": "Famine Resulting in Desperation"
+      },
+      {
+        "t": 1598,
+        "heading": "Esther and the Heart for Endangered People"
+      },
+      {
+        "t": 2067,
+        "heading": "Prophecy Study and the Call to Soul-Winning"
+      }
+    ]
+  }
 }

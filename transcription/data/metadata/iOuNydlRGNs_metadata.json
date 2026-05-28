@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iOuNydlRGNs.vtt",
   "duration": 2508,
   "transcription_timestamp": "2025-04-14T21:53:57.338903",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 1:4-8 on the person, atoning work, and promised return of Jesus Christ, addressed to a congregation in the context of adversity and persecution under the Roman emperor Domitian.",
+    "themes": [
+      "eternality of christ",
+      "faithfulness of god",
+      "the blood of christ",
+      "the return of christ",
+      "grace and peace",
+      "the believer's position in christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Reading and Context"
+      },
+      {
+        "t": 92,
+        "heading": "Grace and Peace in Adversity"
+      },
+      {
+        "t": 322,
+        "heading": "Recognizing His Person"
+      },
+      {
+        "t": 876,
+        "heading": "Remembering His Passion"
+      },
+      {
+        "t": 1709,
+        "heading": "Recalling His Promise of Return"
+      },
+      {
+        "t": 2310,
+        "heading": "Worship as the Result"
+      }
+    ]
+  }
 }

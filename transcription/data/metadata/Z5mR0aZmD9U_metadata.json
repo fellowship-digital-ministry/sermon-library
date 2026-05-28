@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Z5mR0aZmD9U.vtt",
   "duration": 2979,
   "transcription_timestamp": "2025-04-15T23:59:43.578760",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Joshua 24:14-16 on the call to choose whom Israel will serve, set within Joshua's final address to the assembled nation at Shechem. Parallel passages in Deuteronomy 11 and 30 frame the sermon's argument that preaching is intended to bring individuals to a point of decision rather than merely to convey information.",
+    "themes": [
+      "individual responsibility",
+      "idolatry",
+      "decision and response to preaching",
+      "accountability",
+      "obedience and blessing",
+      "resolve in following god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Purpose of Preaching Introduced"
+      },
+      {
+        "t": 186,
+        "heading": "Joshua's Three Final Messages"
+      },
+      {
+        "t": 467,
+        "heading": "What Joshua Recognized About Choice"
+      },
+      {
+        "t": 832,
+        "heading": "The Influence of Idolatry"
+      },
+      {
+        "t": 1066,
+        "heading": "The Resolve of Joshua"
+      },
+      {
+        "t": 1665,
+        "heading": "The Response of the People"
+      },
+      {
+        "t": 2243,
+        "heading": "Deuteronomy: Blessing and Curse Set Before Israel"
+      }
+    ]
+  }
 }

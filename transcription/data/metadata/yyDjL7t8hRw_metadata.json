@@ -8,5 +8,50 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yyDjL7t8hRw.vtt",
   "duration": 2133,
   "transcription_timestamp": "2025-04-14T23:19:18.081625",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:25 on the nature and necessity of intercessory prayer, developed through Paul's prayer requests to the Thessalonians and applied to a specific upcoming missions trip to Panama.",
+    "themes": [
+      "intercessory prayer",
+      "missionary work",
+      "spiritual warfare",
+      "the word of god",
+      "church support of missions"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Introduced: Brethren, Pray For Us"
+      },
+      {
+        "t": 93,
+        "heading": "Prayer as Communion with God"
+      },
+      {
+        "t": 281,
+        "heading": "Circumstances as God's Classroom for Prayer"
+      },
+      {
+        "t": 509,
+        "heading": "The Church at Antioch and Missionary Prayer"
+      },
+      {
+        "t": 649,
+        "heading": "Paul's Request: Free Course for the Word"
+      },
+      {
+        "t": 928,
+        "heading": "Paul's Sufferings and Spiritual Opposition"
+      },
+      {
+        "t": 1209,
+        "heading": "The Thessalonians' Response and Paul's Confidence"
+      },
+      {
+        "t": 1393,
+        "heading": "Specific Prayer Requests for the Panama Trip"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XvhHqfgy1Xg.vtt",
   "duration": 2684,
   "transcription_timestamp": "2025-04-17T03:49:13.844476",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 89:1-8 and related verses on the faithfulness of God, drawn from the historical context of the kingdom split under Rehoboam and addressed to believers navigating uncertainty, personal failure, and spiritual discouragement.",
+    "themes": [
+      "faithfulness of god",
+      "complaining spirit",
+      "fear and uncertainty",
+      "restoration after failure",
+      "salvation",
+      "human disappointment versus divine constancy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Remarks and Scripture Reading"
+      },
+      {
+        "t": 372,
+        "heading": "Background on Psalm 89 and Ethan the Ezraite"
+      },
+      {
+        "t": 605,
+        "heading": "Historical Context: Kingdom Split"
+      },
+      {
+        "t": 789,
+        "heading": "Response One: Rejoicing Spirit"
+      },
+      {
+        "t": 1123,
+        "heading": "Response Two: Faith Resting on God's Faithfulness"
+      },
+      {
+        "t": 1502,
+        "heading": "Response Three: No Human Faithfulness Compares"
+      },
+      {
+        "t": 1733,
+        "heading": "Sin Does Not Cancel God's Faithfulness"
+      },
+      {
+        "t": 2122,
+        "heading": "God's Faithfulness to Save: Personal Testimony"
+      }
+    ]
+  }
 }

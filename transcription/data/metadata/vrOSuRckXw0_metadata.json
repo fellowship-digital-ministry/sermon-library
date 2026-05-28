@@ -8,5 +8,42 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vrOSuRckXw0.vtt",
   "duration": 1691,
   "transcription_timestamp": "2025-04-17T13:26:40.169094",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 15:1 on God's greeting to Abram, 'Fear not, I am thy shield and thy exceeding great reward,' examined in light of the events of Genesis 14 and supported by parallel passages in 2 Samuel 22 and the Psalms.",
+    "themes": [
+      "fear",
+      "god as shield and protector",
+      "divine reward",
+      "the character of god",
+      "abraham"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Abram After Genesis 14"
+      },
+      {
+        "t": 140,
+        "heading": "The Phrase 'After These Things'"
+      },
+      {
+        "t": 282,
+        "heading": "First Mention of 'Fear Not' in Scripture"
+      },
+      {
+        "t": 512,
+        "heading": "God as Shield: 2 Samuel 22 and the Psalms"
+      },
+      {
+        "t": 1022,
+        "heading": "God as Exceeding Great Reward"
+      },
+      {
+        "t": 1490,
+        "heading": "Blessings Versus the Giver of Blessings"
+      }
+    ]
+  }
 }

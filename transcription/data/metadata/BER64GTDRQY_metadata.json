@@ -8,5 +8,39 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\BER64GTDRQY.vtt",
   "duration": 3139,
   "transcription_timestamp": "2025-04-15T07:19:54.981841",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 3:16 on the six-phrase summary of the mystery of godliness, tracing the incarnation, resurrection, gospel proclamation, and ascension of Christ as settled, uncontroverted truth for the local church.",
+    "themes": [
+      "incarnation of christ",
+      "resurrection of christ",
+      "gospel proclamation",
+      "ascension of christ",
+      "the local church",
+      "return of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Local Church and Settled Truth"
+      },
+      {
+        "t": 428,
+        "heading": "The Incarnation of Christ"
+      },
+      {
+        "t": 901,
+        "heading": "The Resurrection of Christ"
+      },
+      {
+        "t": 1327,
+        "heading": "Proclamation of the Gospel"
+      },
+      {
+        "t": 2256,
+        "heading": "The Ascension and Return of Christ"
+      }
+    ]
+  }
 }

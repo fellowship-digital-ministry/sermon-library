@@ -8,5 +8,43 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LE1qkzND4b0.vtt",
   "duration": 2584.0,
   "transcription_timestamp": "2026-05-27T16:44:02.864988",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:2-4 on the nature, purpose, and product of trials in the Christian life, set within an ongoing study of the book of James and drawing connections to 1 Peter and 2 Corinthians.",
+    "themes": [
+      "trials and testing",
+      "spiritual maturity",
+      "patience and endurance",
+      "perspective in suffering",
+      "faith and behavior",
+      "sanctification"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Introduction to the James Series"
+      },
+      {
+        "t": 283,
+        "heading": "The Text: James 1:2-4 Introduced"
+      },
+      {
+        "t": 376,
+        "heading": "Perspective in Trials"
+      },
+      {
+        "t": 840,
+        "heading": "Purpose of Trials"
+      },
+      {
+        "t": 1074,
+        "heading": "Product of Trials: Patience and Maturity"
+      },
+      {
+        "t": 2115,
+        "heading": "Process Versus Product"
+      }
+    ]
+  }
 }

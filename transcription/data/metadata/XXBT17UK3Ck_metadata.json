@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XXBT17UK3Ck.vtt",
   "duration": 3491,
   "transcription_timestamp": "2025-04-17T14:49:41.970563",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 10:1-18 on the insufficiency of the Old Testament sacrificial system and the finality of Christ's atoning sacrifice, set within a series on the superiority of Christ's priesthood in the book of Hebrews.",
+    "themes": [
+      "atonement",
+      "old testament sacrificial system",
+      "remission of sins",
+      "superiority of christ's priesthood",
+      "the new covenant",
+      "gospel proclamation"
+    ],
+    "sections": [
+      {
+        "t": 49,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 281,
+        "heading": "The Remembrance of Sin (vv. 1-4)"
+      },
+      {
+        "t": 706,
+        "heading": "The Law's Inability to Give Life"
+      },
+      {
+        "t": 799,
+        "heading": "The Remission of Sins: The Plan (vv. 5-9)"
+      },
+      {
+        "t": 1418,
+        "heading": "The Payment: Christ's One Offering (vv. 10-13)"
+      },
+      {
+        "t": 1940,
+        "heading": "The Pardon: Perfected Forever (vv. 14-18)"
+      },
+      {
+        "t": 2778,
+        "heading": "Application: Rejoicing and Proclaiming the Gospel"
+      }
+    ]
+  }
 }

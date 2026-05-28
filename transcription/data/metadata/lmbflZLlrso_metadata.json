@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lmbflZLlrso.vtt",
   "duration": 2184,
   "transcription_timestamp": "2025-04-14T22:58:36.704254",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 6:19-20 on Paul's prayer request for boldness in proclaiming the gospel, set within a Wednesday evening series on Christian duty. Three reasons drawn from Paul's writings and Acts ground the case that believers ought to proclaim the gospel.",
+    "themes": [
+      "gospel proclamation",
+      "boldness in witness",
+      "the great commission",
+      "eternity and judgment",
+      "the condition of humanity",
+      "prayer"
+    ],
+    "sections": [
+      {
+        "t": 48,
+        "heading": "Paul's Prayer Request in Ephesians 6"
+      },
+      {
+        "t": 322,
+        "heading": "Paul as Active Gospel Proclaimer"
+      },
+      {
+        "t": 509,
+        "heading": "Reason One: The Command of Christ"
+      },
+      {
+        "t": 921,
+        "heading": "Reason Two: The Certainty of Eternity"
+      },
+      {
+        "t": 1389,
+        "heading": "Reason Three: The Condition of Humanity"
+      },
+      {
+        "t": 1631,
+        "heading": "Practical Ways the Church Proclaims the Gospel"
+      },
+      {
+        "t": 1962,
+        "heading": "The Watchman's Accountability"
+      }
+    ]
+  }
 }

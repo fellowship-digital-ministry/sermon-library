@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kzv3wDfEoZY.vtt",
   "duration": 2778,
   "transcription_timestamp": "2025-04-16T09:27:10.179366",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory exposition on Ephesians 2:4 concerning the love of God, surveying its declaration, demonstration, and description across multiple passages including John 3:16, Romans 5:8, 1 John 3-4, Jeremiah 31:3, and Revelation 1:4-8. Part of a series on the greatness of God, this message treats God's love as the motivating force behind redemption and as the basis for biblical commandments.",
+    "themes": [
+      "love of god",
+      "redemption and salvation",
+      "sacrifice of christ",
+      "calvary",
+      "biblical descriptions of divine love",
+      "god's word as protective"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 143,
+        "heading": "Transition to God's Great Love"
+      },
+      {
+        "t": 393,
+        "heading": "The Love of God Declared"
+      },
+      {
+        "t": 630,
+        "heading": "The Love of God Demonstrated"
+      },
+      {
+        "t": 1412,
+        "heading": "The Love of God Described"
+      },
+      {
+        "t": 1841,
+        "heading": "God's Love as Protective"
+      },
+      {
+        "t": 2047,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
 }

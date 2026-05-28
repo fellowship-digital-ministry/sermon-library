@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\sj1i3zQpYXc.vtt",
   "duration": 2683,
   "transcription_timestamp": "2025-04-17T15:35:07.377842",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 11:1-9 on the Tower of Babel, tracing the place, plan, and punishment of mankind's post-flood rebellion, with cross-references to Genesis 9-10, 2 Thessalonians 2, Daniel 5, Psalm 2, and Revelation 17-18.",
+    "themes": [
+      "tower of babel",
+      "humanism",
+      "biblical authority",
+      "divine judgment",
+      "one-world systems",
+      "origin of languages"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Context"
+      },
+      {
+        "t": 47,
+        "heading": "Attacks on Genesis 1-11"
+      },
+      {
+        "t": 235,
+        "heading": "The Place: Shinar and Babel"
+      },
+      {
+        "t": 335,
+        "heading": "The Plan: City, Tower, and a Name"
+      },
+      {
+        "t": 571,
+        "heading": "Humanism and the Rejection of God"
+      },
+      {
+        "t": 947,
+        "heading": "The Punishment: God Confounds the Languages"
+      },
+      {
+        "t": 1038,
+        "heading": "Timeline: Noah, Peleg, and the Flood"
+      },
+      {
+        "t": 2082,
+        "heading": "Babylon in Revelation, Daniel, and Psalm 2"
+      }
+    ]
+  }
 }

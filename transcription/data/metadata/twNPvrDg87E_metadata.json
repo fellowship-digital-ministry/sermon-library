@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\twNPvrDg87E.vtt",
   "duration": 2785,
   "transcription_timestamp": "2025-04-16T08:56:20.940517",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Chronicles 28:9-15 on the prophet Oded, who confronted the returning army of Israel over the unlawful captivity of 200,000 people from Judah. The passage is examined against the backdrop of King Ahaz's wickedness and the resulting divine judgment, with reference to John 3:16-36 and Jude 22.",
+    "themes": [
+      "courage and boldness",
+      "divine judgment on sin",
+      "god using individuals",
+      "obedience to god",
+      "fear of god",
+      "captivity and restoration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: God Using Individuals"
+      },
+      {
+        "t": 230,
+        "heading": "Historical Setting: Divided Kingdom"
+      },
+      {
+        "t": 463,
+        "heading": "The Wickedness of Ahaz and Judah"
+      },
+      {
+        "t": 691,
+        "heading": "Israel's Victory and the Captives"
+      },
+      {
+        "t": 925,
+        "heading": "Oded Confronts the Host at Samaria"
+      },
+      {
+        "t": 1392,
+        "heading": "The Outcome: Response of Leaders and Armed Men"
+      },
+      {
+        "t": 1808,
+        "heading": "Release and Return of the Captives"
+      },
+      {
+        "t": 2272,
+        "heading": "Application: Courage, God's Wrath, and Making a Difference"
+      }
+    ]
+  }
 }

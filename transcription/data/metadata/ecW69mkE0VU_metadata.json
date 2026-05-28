@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ecW69mkE0VU.vtt",
   "duration": 2407,
   "transcription_timestamp": "2025-04-16T00:30:52.370618",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A Sunday school session opening a fall revival week, centered on Haggai 1 and the call to self-examination and self-confrontation as preconditions for revival. Draws on 2 Chronicles 7:14, 1 Corinthians 11, and a catalog of scriptural passages on examining one's ways, with application to the spiritual state of American churches.",
+    "themes": [
+      "revival",
+      "self-examination",
+      "spiritual apathy",
+      "the lord's supper",
+      "tithing",
+      "prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introductions and Revival Context"
+      },
+      {
+        "t": 229,
+        "heading": "Formula for Revival: 2 Chronicles 7:14"
+      },
+      {
+        "t": 324,
+        "heading": "Haggai 1: Neglecting God's House"
+      },
+      {
+        "t": 835,
+        "heading": "Consequences of Disobedience and Tithing"
+      },
+      {
+        "t": 1176,
+        "heading": "1 Corinthians 11: Self-Examination at the Lord's Table"
+      },
+      {
+        "t": 1358,
+        "heading": "Scriptural Calls to Examine One's Ways"
+      },
+      {
+        "t": 1683,
+        "heading": "Oswald J. Smith's Self-Examination List"
+      },
+      {
+        "t": 2112,
+        "heading": "Revival, Joy, and Reliance on the Holy Spirit"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rsDeJmgGGS8.vtt",
   "duration": 2992,
   "transcription_timestamp": "2025-04-16T09:00:54.010582",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 16:9-10 and Philippians 4:10-19 on the nature and obligations of missionary work, tracing Paul's call to Macedonia, the founding of the church at Philippi, and that church's financial partnership with Paul as a model for missionary support.",
+    "themes": [
+      "missionary call",
+      "church support of missions",
+      "sacrifice and giving",
+      "contentment in hardship",
+      "debt owed for the gospel",
+      "fruit abounding to the giver's account"
+    ],
+    "sections": [
+      {
+        "t": 93,
+        "heading": "Paul's Vision and Call to Macedonia"
+      },
+      {
+        "t": 416,
+        "heading": "Philippi: History and Significance"
+      },
+      {
+        "t": 705,
+        "heading": "Gospel Preaching and Opposition at Philippi"
+      },
+      {
+        "t": 1137,
+        "heading": "Philippians 4: Paul Writes from Ephesus"
+      },
+      {
+        "t": 1385,
+        "heading": "The Missionary's Role and Dependence on God"
+      },
+      {
+        "t": 1679,
+        "heading": "The Supporting Church's Debt and Giving"
+      },
+      {
+        "t": 1965,
+        "heading": "How God Views Missions Giving"
+      },
+      {
+        "t": 2492,
+        "heading": "Jim Elliot and the Cost of Missions"
+      }
+    ]
+  }
 }

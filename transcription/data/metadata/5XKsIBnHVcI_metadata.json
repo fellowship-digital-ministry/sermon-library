@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5XKsIBnHVcI.vtt",
   "duration": 2147,
   "transcription_timestamp": "2025-04-16T01:30:26.434544",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 37:31-35 on Jacob's grief over the apparent death of Joseph, set within the brothers' deception and its long-term consequences. The passage is read alongside Psalm 69:5, Proverbs 28:13, and Genesis 42 and 44 to trace the theme of covering versus confessing sin.",
+    "themes": [
+      "covering sin",
+      "deception",
+      "grief and mourning",
+      "confession and forgiveness",
+      "guilty conscience",
+      "fellowship with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 194,
+        "heading": "The Brothers' Elaborate Deception"
+      },
+      {
+        "t": 338,
+        "heading": "Biblical Examples of Covering Sin"
+      },
+      {
+        "t": 534,
+        "heading": "Covering vs. Confessing Sin"
+      },
+      {
+        "t": 1052,
+        "heading": "Jacob's Belief and the Coat"
+      },
+      {
+        "t": 1333,
+        "heading": "Jacob's Brokenness and Mourning"
+      },
+      {
+        "t": 1565,
+        "heading": "The Brothers' Haunted Conscience in Later Chapters"
+      },
+      {
+        "t": 1756,
+        "heading": "Transition to Lord's Supper and Closing Prayer"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\frq7AqJtgGY.vtt",
   "duration": 2494,
   "transcription_timestamp": "2025-04-16T09:36:02.532113",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Thessalonians 2:1 on the phrase 'our gathering together unto him,' tracing a single Greek word used only twice in the New Testament to connect the present assembling of the local church (Hebrews 10:24-25) with the future rapture gathering described in 1 Thessalonians 4:13-17.",
+    "themes": [
+      "local church assembly",
+      "the rapture",
+      "encouragement in persecution",
+      "faithfulness in gathering",
+      "the return of christ",
+      "church transience and continuity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Paul and the Thessalonian Church"
+      },
+      {
+        "t": 472,
+        "heading": "A Greek Word Used Only Twice"
+      },
+      {
+        "t": 572,
+        "heading": "The Current Gathering: Purpose and Practice"
+      },
+      {
+        "t": 804,
+        "heading": "Provoking to Love and Good Works"
+      },
+      {
+        "t": 1319,
+        "heading": "The Coming Gathering: Christ's Return"
+      },
+      {
+        "t": 1758,
+        "heading": "Reunion, Transience, and the Permanent Gathering"
+      }
+    ]
+  }
 }

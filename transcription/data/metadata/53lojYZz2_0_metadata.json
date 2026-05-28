@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\53lojYZz2_0.vtt",
   "duration": 3140,
   "transcription_timestamp": "2025-04-15T01:36:04.658899",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 6:1-10 on forming a biblically grounded worldview, organized around three areas: conversion, contending for the faith, and contentment. Survey data on the decline of biblical worldview among American adults, pastors, and youth workers frames the passage's practical teaching.",
+    "themes": [
+      "biblical worldview",
+      "conversion and the gospel",
+      "contending for the faith",
+      "contentment",
+      "the love of money",
+      "false teaching"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Bible as Worldview Foundation"
+      },
+      {
+        "t": 234,
+        "heading": "Worldview Survey Data Presented"
+      },
+      {
+        "t": 702,
+        "heading": "Biblical Perspective on Conversion"
+      },
+      {
+        "t": 1549,
+        "heading": "Biblical Perspective on Contending"
+      },
+      {
+        "t": 2165,
+        "heading": "Biblical Perspective on Contentment"
+      },
+      {
+        "t": 2496,
+        "heading": "Wealth, Covetousness, and Contentment"
+      },
+      {
+        "t": 3016,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
 }

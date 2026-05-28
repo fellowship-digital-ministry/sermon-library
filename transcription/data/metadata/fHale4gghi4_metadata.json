@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\fHale4gghi4.vtt",
   "duration": 3020,
   "transcription_timestamp": "2025-04-17T00:09:59.912692",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:7-11 on brotherly love as an external test of walking in the light, drawing on parallel passages in John 13 and 15, Romans, Ephesians, 1 Thessalonians, and 1 Peter to examine the commandment's Old Testament roots, its renewal by Christ, and its role as evidence of genuine Christian fellowship.",
+    "themes": [
+      "brotherly love",
+      "walking in the light",
+      "the love commandment",
+      "fruit of the spirit",
+      "self-examination",
+      "fellowship among believers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Prior Study"
+      },
+      {
+        "t": 93,
+        "heading": "Introduction to the Love Commandment"
+      },
+      {
+        "t": 570,
+        "heading": "Old and New Commandment Compared"
+      },
+      {
+        "t": 864,
+        "heading": "The Truth Imparted: Scripture Survey"
+      },
+      {
+        "t": 1251,
+        "heading": "The Truth Illustrated: Christ and Stephen"
+      },
+      {
+        "t": 1809,
+        "heading": "The Truth Implemented: Holy Spirit and Love"
+      },
+      {
+        "t": 2653,
+        "heading": "Impact of Love on the World"
+      }
+    ]
+  }
 }

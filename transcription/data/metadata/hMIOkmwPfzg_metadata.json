@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hMIOkmwPfzg.vtt",
   "duration": 2603,
   "transcription_timestamp": "2025-04-16T15:24:05.912145",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 30:25 through 31:16 on the circumstances surrounding Jacob's departure from Laban and return to Canaan, tracing God's fulfillment of promises made in Genesis 28 through Jacob's increase, the hostility of Laban's household, and divine instruction to return.",
+    "themes": [
+      "promises of god",
+      "god's presence",
+      "divine providence",
+      "opposition and adversity",
+      "obedience to god's direction",
+      "god's awareness of human circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context and Passage Introduction"
+      },
+      {
+        "t": 189,
+        "heading": "Jacob's Request and Laban's Response"
+      },
+      {
+        "t": 329,
+        "heading": "The Agreement and Selective Breeding"
+      },
+      {
+        "t": 424,
+        "heading": "Jacob's Increase and Fulfilled Promises"
+      },
+      {
+        "t": 1079,
+        "heading": "Hostility from Laban's Household"
+      },
+      {
+        "t": 1355,
+        "heading": "Divine Instruction to Return"
+      },
+      {
+        "t": 1401,
+        "heading": "Jacob Rehearses God's Plan and Presence to Rachel and Leah"
+      },
+      {
+        "t": 2193,
+        "heading": "Rachel and Leah's Response"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\F4JChKWGeUg.vtt",
   "duration": 3019,
   "transcription_timestamp": "2025-04-16T10:56:45.747078",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Isaiah 37:14-20 on Hezekiah's response to the Assyrian threat under Sennacherib, set within a series on God's greatness and its practical impact on believers. The passage is read alongside Psalm 121:1-2 and Psalm 109:26-27 to develop the theme that the creator God serves as a personal helper in times of adversity.",
+    "themes": [
+      "creator god as helper",
+      "adversity and trial",
+      "prayer",
+      "faith and expectation",
+      "god's greatness",
+      "divine deliverance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 185,
+        "heading": "Psalm 121 and the Creator as Helper"
+      },
+      {
+        "t": 371,
+        "heading": "The Record of Great Adversity"
+      },
+      {
+        "t": 889,
+        "heading": "What Hezekiah Recognized About God"
+      },
+      {
+        "t": 1168,
+        "heading": "Hezekiah's Response: Prayer in the House of the Lord"
+      },
+      {
+        "t": 2002,
+        "heading": "Praying for God Alone to Be Glorified"
+      },
+      {
+        "t": 2298,
+        "heading": "God's Promise and Its Fulfillment"
+      }
+    ]
+  }
 }

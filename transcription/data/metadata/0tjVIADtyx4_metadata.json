@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0tjVIADtyx4.vtt",
   "duration": 2636,
   "transcription_timestamp": "2025-04-16T09:31:40.656173",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 14:1-31 on the crossing of the Red Sea, tracing the dilemma, distress, and deliverance of the children of Israel as eyewitnesses of God's power, with a closing turn to Psalm 119:126 and Exodus 15:22-25.",
+    "themes": [
+      "witnessing god's power",
+      "faith in difficulty",
+      "fear and trust",
+      "god's deliverance",
+      "murmuring and forgetting",
+      "giving god glory"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Eyewitnesses of God's Work"
+      },
+      {
+        "t": 278,
+        "heading": "The Dilemma: Israel Trapped"
+      },
+      {
+        "t": 603,
+        "heading": "The Distress: Israel's Fear and Complaint"
+      },
+      {
+        "t": 884,
+        "heading": "God's Promises to Moses and Israel"
+      },
+      {
+        "t": 1166,
+        "heading": "The Deliverance: Parting of the Red Sea"
+      },
+      {
+        "t": 1488,
+        "heading": "The Egyptians Pursued and Destroyed"
+      },
+      {
+        "t": 1800,
+        "heading": "Israel's Song of Praise in Exodus 15"
+      },
+      {
+        "t": 2196,
+        "heading": "Marah: Forgetting God's Power at the Next Trial"
+      }
+    ]
+  }
 }

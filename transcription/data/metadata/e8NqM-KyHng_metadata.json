@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\e8NqM-KyHng.vtt",
   "duration": 3477,
   "transcription_timestamp": "2025-04-16T13:28:53.438388",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 10:22-30 on the deity of Christ, addressing the question of why the Gospels refer to Jesus by titles other than God rather than stating his divinity explicitly. Drawing on passages across the Gospels and Revelation, the sermon marshals textual evidence that Jesus plainly revealed himself as God throughout his earthly ministry.",
+    "themes": [
+      "deity of christ",
+      "titles of jesus",
+      "witness and evidence",
+      "worship of christ",
+      "claims of jesus",
+      "revelation of divine truth"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "The Question and Its Context"
+      },
+      {
+        "t": 508,
+        "heading": "Defining Deity and Key Titles"
+      },
+      {
+        "t": 843,
+        "heading": "The Threefold Witness in John 5"
+      },
+      {
+        "t": 1640,
+        "heading": "Jesus Forgiving Sin"
+      },
+      {
+        "t": 1828,
+        "heading": "Jesus Receiving Worship"
+      },
+      {
+        "t": 2301,
+        "heading": "Direct Claims of Jesus"
+      },
+      {
+        "t": 2938,
+        "heading": "The Confession of Thomas"
+      }
+    ]
+  }
 }

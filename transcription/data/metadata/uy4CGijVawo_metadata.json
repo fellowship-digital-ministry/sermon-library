@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\uy4CGijVawo.vtt",
   "duration": 1764,
   "transcription_timestamp": "2025-04-17T07:23:27.557082",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:4 on the phrase 'forgive us our sins' within the Lord's Prayer, treated as a model for confessional prayer rather than a rote formula. Part of an ongoing Wednesday evening series through Luke 11:1-4 on the disciples' request to be taught to pray.",
+    "themes": [
+      "confession of sin",
+      "prayer",
+      "fellowship with god",
+      "forgiveness",
+      "repentance",
+      "the lord's prayer as model"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Overview"
+      },
+      {
+        "t": 185,
+        "heading": "Introduction to 'Forgive Us Our Sins'"
+      },
+      {
+        "t": 279,
+        "heading": "Awareness of Ongoing Sinfulness"
+      },
+      {
+        "t": 512,
+        "heading": "Sin Hindering Fellowship with God"
+      },
+      {
+        "t": 742,
+        "heading": "Joseph and the Wickedness of Sin"
+      },
+      {
+        "t": 973,
+        "heading": "Awareness of God's Forgiveness"
+      },
+      {
+        "t": 1347,
+        "heading": "Confessing Rather Than Covering Sin"
+      },
+      {
+        "t": 1575,
+        "heading": "Confession in the Framework of Prayer"
+      }
+    ]
+  }
 }

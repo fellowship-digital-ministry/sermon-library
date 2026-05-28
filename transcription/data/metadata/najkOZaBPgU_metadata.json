@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\najkOZaBPgU.vtt",
   "duration": 2268,
   "transcription_timestamp": "2025-04-14T20:30:33.584782",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:18-19 on the commendable qualities of the church at Thyatira, the first part of a multi-part series on the longest of the seven letters in Revelation 2-3. The letter's description of Christ as having eyes like flame of fire and feet like fine brass frames an examination of five areas of growth: works, charity, service, faith, and patience.",
+    "themes": [
+      "church evaluation",
+      "spiritual growth",
+      "works and service",
+      "faith",
+      "balance in ministry",
+      "steadfastness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Thyatira: City and Letter Background"
+      },
+      {
+        "t": 93,
+        "heading": "Christ's Eyes and Feet: Seeing and Judging All"
+      },
+      {
+        "t": 139,
+        "heading": "The Longest Letter and the Need for Balance"
+      },
+      {
+        "t": 325,
+        "heading": "Growth Expected: The Last More Than the First"
+      },
+      {
+        "t": 609,
+        "heading": "Five Areas of Commended Growth"
+      },
+      {
+        "t": 1703,
+        "heading": "Patience, Steadfastness, and Endurance"
+      },
+      {
+        "t": 2039,
+        "heading": "Preview of Coming Charges Against Thyatira"
+      }
+    ]
+  }
 }

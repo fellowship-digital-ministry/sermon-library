@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/rfig1qBBXnc.vtt",
   "duration": 2552.0,
   "transcription_timestamp": "2026-05-28T16:15:06.207976",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 66:18-20 on the Hebrew concept of 'regarding iniquity' as the deliberate retention and approval of sin in the heart, and its effect on a believer's prayer life and relationship with God.",
+    "themes": [
+      "prayer",
+      "sin in the heart",
+      "revival",
+      "self-examination",
+      "confession",
+      "unanswered prayer"
+    ],
+    "sections": [
+      {
+        "t": 90,
+        "heading": "Reading of Psalm 66:18-20"
+      },
+      {
+        "t": 231,
+        "heading": "Revival and the Primacy of Prayer"
+      },
+      {
+        "t": 513,
+        "heading": "The Hebrew Meaning of 'Hear'"
+      },
+      {
+        "t": 658,
+        "heading": "What It Means to Regard Iniquity"
+      },
+      {
+        "t": 1004,
+        "heading": "Consequences of Retained Sin"
+      },
+      {
+        "t": 1636,
+        "heading": "Specific Sins Believers Excuse and Retain"
+      },
+      {
+        "t": 2268,
+        "heading": "The Psalmist's Restoration and God's Mercy"
+      }
+    ]
+  }
 }

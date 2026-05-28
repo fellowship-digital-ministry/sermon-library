@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EetmC5JSFHc.vtt",
   "duration": 3139,
   "transcription_timestamp": "2025-04-17T02:05:57.453720",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of a study on 1 Peter 2:7 and the preciousness of Christ, focusing on fifteen promises drawn from Scripture and arranged from salvation through eternity, grounded in 2 Peter 1:3-4 on the exceeding great and precious promises of God.",
+    "themes": [
+      "promises of god",
+      "preservation and power of scripture",
+      "salvation and eternal security",
+      "sanctification",
+      "christian living",
+      "eschatology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Review of Text"
+      },
+      {
+        "t": 45,
+        "heading": "Foundation: God's Promises in Scripture"
+      },
+      {
+        "t": 277,
+        "heading": "Promises Concerning the Word of God"
+      },
+      {
+        "t": 700,
+        "heading": "Promises at and After Salvation"
+      },
+      {
+        "t": 1033,
+        "heading": "Promises of Keeping, Victory, and Sanctification"
+      },
+      {
+        "t": 1782,
+        "heading": "Promises of Provision and Fruitful Labor"
+      },
+      {
+        "t": 2203,
+        "heading": "Promises Concerning Death, Return, and Glorification"
+      },
+      {
+        "t": 2628,
+        "heading": "Promises of Reigning and Eternity with Christ"
+      }
+    ]
+  }
 }

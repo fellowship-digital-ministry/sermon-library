@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\FNdJ1k9QVCA.vtt",
   "duration": 2968,
   "transcription_timestamp": "2025-04-14T23:15:45.619794",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:4, 14-19 on the second characteristic of a good soldier, focusing on the command that no soldier entangles himself with the affairs of this life. The passage is read alongside Acts 20:22-24 and 1 Corinthians 9:23-27 to develop the theme of avoiding spiritual distractions.",
+    "themes": [
+      "spiritual distraction",
+      "the good soldier",
+      "christian focus and discipline",
+      "false teachers",
+      "finishing the course",
+      "the believer's calling"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Scriptures and Introduction"
+      },
+      {
+        "t": 94,
+        "heading": "Series Context and Verse 4 Introduced"
+      },
+      {
+        "t": 378,
+        "heading": "Understanding Distractions"
+      },
+      {
+        "t": 801,
+        "heading": "Identifying Distractions in the Text"
+      },
+      {
+        "t": 1838,
+        "heading": "Avoiding Distractions"
+      },
+      {
+        "t": 2024,
+        "heading": "Paul's Example in Acts 20"
+      },
+      {
+        "t": 2688,
+        "heading": "1 Corinthians 9 and Finishing the Course"
+      }
+    ]
+  }
 }

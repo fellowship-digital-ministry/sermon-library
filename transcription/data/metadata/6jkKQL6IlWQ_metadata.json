@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6jkKQL6IlWQ.vtt",
   "duration": 2898,
   "transcription_timestamp": "2025-04-17T10:11:45.284096",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 15:7-21 on the Lord's covenant with Abram, tracing Abram's request for a sign regarding the promised land, the covenant ritual of divided animals, and God's unilateral passing through the pieces as the basis of the unconditional Abrahamic covenant.",
+    "themes": [
+      "abrahamic covenant",
+      "promised land",
+      "covenant ritual",
+      "biblical inerrancy",
+      "omniscience of god",
+      "unconditional promises"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 15 So Far"
+      },
+      {
+        "t": 185,
+        "heading": "Abram's Request for a Sign"
+      },
+      {
+        "t": 419,
+        "heading": "God's Requirements: The Divided Animals"
+      },
+      {
+        "t": 702,
+        "heading": "What God Reveals to Abram"
+      },
+      {
+        "t": 890,
+        "heading": "Egyptian Bondage and the 400 vs. 430 Years"
+      },
+      {
+        "t": 1463,
+        "heading": "Abram's Death and Judgment on the Amorites"
+      },
+      {
+        "t": 1809,
+        "heading": "God Passes Through: The Unconditional Covenant"
+      },
+      {
+        "t": 2287,
+        "heading": "The Seed, the Land, and Millennial Fulfillment"
+      }
+    ]
+  }
 }

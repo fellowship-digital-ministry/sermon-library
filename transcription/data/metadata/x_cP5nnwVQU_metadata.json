@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\x_cP5nnwVQU.vtt",
   "duration": 2165,
   "transcription_timestamp": "2025-04-14T22:25:38.362702",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 2:1-4 on the obligation to give earnest heed to the Word of God, set within the broader context of Hebrews 1 and the superiority of Christ. Part one of a two-part study in a Wednesday evening series titled 'Doing What We Ought to Do,' focusing on the danger of neglecting to hear and obey Scripture.",
+    "themes": [
+      "hearing and obeying scripture",
+      "neglect of the word",
+      "bible reading",
+      "preaching and the pastor's responsibility",
+      "famine of the word",
+      "old testament warnings"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series and Book of Hebrews Introduced"
+      },
+      {
+        "t": 325,
+        "heading": "Hebrews 1: Christ Superior to Angels"
+      },
+      {
+        "t": 836,
+        "heading": "Hebrews 2:1-4: The Call to Listen Up"
+      },
+      {
+        "t": 929,
+        "heading": "The Meaning of Hearing to Obey"
+      },
+      {
+        "t": 1071,
+        "heading": "Dangers of Neglecting Bible Reading and Preaching"
+      },
+      {
+        "t": 1258,
+        "heading": "Old Testament Examples of Not Hearing"
+      },
+      {
+        "t": 1975,
+        "heading": "Preview of Part Two and Closing"
+      }
+    ]
+  }
 }

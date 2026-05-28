@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/V2g6GN4mySo.vtt",
   "duration": 3004.0,
   "transcription_timestamp": "2026-05-28T16:27:51.596568",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hosea 10:12 on spiritual preparation for revival, drawing on the agricultural image of fallow ground as a call for heart examination before an upcoming church revival meeting. Supporting passages from Hosea 4, 7, 8, and 9, along with Judges 19, frame a sustained indictment of Israel's divided heart and its parallels to the contemporary church.",
+    "themes": [
+      "revival preparation",
+      "heart examination",
+      "sin and judgment",
+      "seeking god",
+      "sowing and reaping",
+      "spiritual hardness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival Cannot Be Scheduled"
+      },
+      {
+        "t": 377,
+        "heading": "Introduction to Hosea 10:12-13"
+      },
+      {
+        "t": 525,
+        "heading": "The Indictment: Israel as an Empty Vine"
+      },
+      {
+        "t": 801,
+        "heading": "Israel's History and the Days of Gibeah"
+      },
+      {
+        "t": 1280,
+        "heading": "Further Indictment in Hosea 4, 7, and 8"
+      },
+      {
+        "t": 1702,
+        "heading": "God Knows: Application to the Present Church"
+      },
+      {
+        "t": 2214,
+        "heading": "The Instruction: Break Up Your Fallow Ground"
+      },
+      {
+        "t": 2542,
+        "heading": "Seeking the Lord and Heart Preparation"
+      }
+    ]
+  }
 }

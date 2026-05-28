@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0bvsCvT1aho.vtt",
   "duration": 2351,
   "transcription_timestamp": "2025-04-14T21:20:34.049938",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:6 on walking compassionately as Christ walked, the fifth installment in a series on imitating Christ. Drawing from Mark 1:40-42, Matthew 9:36-38, Luke 10:30-37, and Jude 22-23, the sermon examines Christ's compassion toward physical and spiritual need and its implications for Christian witness and ministry.",
+    "themes": [
+      "compassion in christian walk",
+      "physical versus spiritual need",
+      "evangelism and gospel witness",
+      "position and disposition in ministry",
+      "the good samaritan",
+      "walking in the spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review and Introduction"
+      },
+      {
+        "t": 94,
+        "heading": "Christ's Compassion Over Physical Need"
+      },
+      {
+        "t": 416,
+        "heading": "Christ's Compassion Over Spiritual Need"
+      },
+      {
+        "t": 786,
+        "heading": "The Good Samaritan and Compassionate Action"
+      },
+      {
+        "t": 1213,
+        "heading": "Jude 22-23 and Compassion Toward the Lost"
+      },
+      {
+        "t": 1769,
+        "heading": "Paul's Ministry in Thessalonica as a Model"
+      },
+      {
+        "t": 2264,
+        "heading": "Walking Compassionately Requires Abiding in Christ"
+      }
+    ]
+  }
 }

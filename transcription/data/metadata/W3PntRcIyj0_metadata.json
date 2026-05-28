@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\W3PntRcIyj0.vtt",
   "duration": 2260,
   "transcription_timestamp": "2025-04-17T16:50:02.108526",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 8:7-15 on the prophet Elisha's encounter with Hazael and the dying Ben-Hadad in Damascus, centering on Elisha's weeping over the future destruction Hazael would bring upon Israel.",
+    "themes": [
+      "prophetic knowledge",
+      "witnessing and gospel testimony",
+      "compassion for the lost",
+      "judgment and eschatology",
+      "the ministry of elisha",
+      "syria and israel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Elisha in Damascus"
+      },
+      {
+        "t": 145,
+        "heading": "Ben-Hadad's Sickness and Seeking"
+      },
+      {
+        "t": 333,
+        "heading": "Hazael Sent to the Man of God"
+      },
+      {
+        "t": 771,
+        "heading": "Elisha's Answer About Ben-Hadad"
+      },
+      {
+        "t": 955,
+        "heading": "Elisha Weeps Over Israel's Future"
+      },
+      {
+        "t": 1328,
+        "heading": "Hazael's False Report and Ben-Hadad's Death"
+      },
+      {
+        "t": 1662,
+        "heading": "Fulfillment of the Prophecy Against Israel"
+      },
+      {
+        "t": 1904,
+        "heading": "Application to Future Judgment and Gospel Witness"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\RDBub5zwffE.vtt",
   "duration": 2883,
   "transcription_timestamp": "2025-04-15T08:10:18.423270",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 27:27-50 on the crucifixion of Christ, organized around four characteristics of his death: violent, voluntary, vicarious, and victorious. Supporting passages from Genesis, Galatians, Hebrews, John, and 1 Peter frame the cross as the fulfillment of the Abrahamic promise and the necessary basis for salvation.",
+    "themes": [
+      "crucifixion",
+      "substitutionary atonement",
+      "the suffering of christ",
+      "salvation and redemption",
+      "evangelism and witnessing",
+      "resurrection"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Abrahamic Promise"
+      },
+      {
+        "t": 333,
+        "heading": "Reading of Matthew 27:27-50"
+      },
+      {
+        "t": 562,
+        "heading": "The Death of Christ: Violent"
+      },
+      {
+        "t": 893,
+        "heading": "The Death of Christ: Voluntary"
+      },
+      {
+        "t": 1508,
+        "heading": "The Death of Christ: Vicarious"
+      },
+      {
+        "t": 1901,
+        "heading": "The Death of Christ: Victorious"
+      },
+      {
+        "t": 2484,
+        "heading": "Closing Appeal and Invitation"
+      }
+    ]
+  }
 }

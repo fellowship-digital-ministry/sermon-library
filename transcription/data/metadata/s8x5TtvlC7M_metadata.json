@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\s8x5TtvlC7M.vtt",
   "duration": 3430,
   "transcription_timestamp": "2025-04-17T16:18:38.739334",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Samuel 17 on the account of David and Goliath, focused on the recorded statements of David as windows into his character, his Godward perspective, and his understanding of divine power in the face of a formidable enemy.",
+    "themes": [
+      "faith and courage",
+      "perspective on problems",
+      "the greatness of god",
+      "fear versus trust",
+      "god-centered motivation",
+      "spiritual warfare"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to a Familiar Passage"
+      },
+      {
+        "t": 233,
+        "heading": "David's Character and Background"
+      },
+      {
+        "t": 470,
+        "heading": "The Problem Israel Faced"
+      },
+      {
+        "t": 983,
+        "heading": "David's Statements and Perspective"
+      },
+      {
+        "t": 1554,
+        "heading": "David's Testimony Before Saul"
+      },
+      {
+        "t": 2024,
+        "heading": "David's Declaration to Goliath"
+      },
+      {
+        "t": 2601,
+        "heading": "Application to Present Problems"
+      },
+      {
+        "t": 2999,
+        "heading": "Closing from Psalm 115"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DzfYEJzAihI.vtt",
   "duration": 2730,
   "transcription_timestamp": "2025-04-16T11:05:25.112128",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:14-19 and Psalm 147:3-6 on the stars as evidence of God's power and knowledge, set within a series on recognizing God's greatness through creation. The five words 'He made the stars also' (Genesis 1:16) anchor a study of God's omnipotence and omniscience alongside three promises of personal care for his people.",
+    "themes": [
+      "creation",
+      "greatness of god",
+      "omnipotence",
+      "omniscience",
+      "god's care for individuals",
+      "healing and restoration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Scripture Reading"
+      },
+      {
+        "t": 236,
+        "heading": "Focus on Five Words: Stars as Subject"
+      },
+      {
+        "t": 515,
+        "heading": "The Stars: Number and Distance"
+      },
+      {
+        "t": 662,
+        "heading": "Psalm 147: God Knows the Stars"
+      },
+      {
+        "t": 1094,
+        "heading": "Precious Promises Surrounding the Proclamation"
+      },
+      {
+        "t": 1234,
+        "heading": "Three Promises: Healing, Binding, Restoring"
+      },
+      {
+        "t": 2219,
+        "heading": "Salvation as God's Greatest Work"
+      }
+    ]
+  }
 }

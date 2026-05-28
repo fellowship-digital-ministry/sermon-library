@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZqunktIJ8Vc.vtt",
   "duration": 2132,
   "transcription_timestamp": "2025-04-15T09:19:25.519748",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:12-13 on the mutual responsibilities of a local church and its pastor, set within a Wednesday evening series titled 'Walk Worthy, Please God' through the Thessalonian epistles.",
+    "themes": [
+      "pastoral responsibility",
+      "church and pastor relationship",
+      "pastoral support and compensation",
+      "church leadership",
+      "local church"
+    ],
+    "sections": [
+      {
+        "t": 140,
+        "heading": "Series and Church Context"
+      },
+      {
+        "t": 278,
+        "heading": "God's Design for the Local Church"
+      },
+      {
+        "t": 465,
+        "heading": "Responsibility of the Pastor"
+      },
+      {
+        "t": 700,
+        "heading": "Supporting Scriptures on Pastoral Duty"
+      },
+      {
+        "t": 1177,
+        "heading": "Responsibility of the Church"
+      },
+      {
+        "t": 1361,
+        "heading": "Supporting Scriptures on Church Obligation"
+      },
+      {
+        "t": 1774,
+        "heading": "Closing Remarks and Commendation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Q6ieKE6HJbM.vtt",
   "duration": 1937,
   "transcription_timestamp": "2025-04-17T21:01:43.187355",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:7 on God's deliverance in response to prayer, traced through the historical account of Israel at Rephidim in Exodus 17, set within a series on the power of prayer and God's ability to help.",
+    "themes": [
+      "prayer",
+      "god's provision",
+      "faith in difficulty",
+      "murmuring and complaining",
+      "obedience",
+      "remembering past blessings"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm 81:7 Introduced"
+      },
+      {
+        "t": 139,
+        "heading": "Israel's First Trials After the Red Sea"
+      },
+      {
+        "t": 329,
+        "heading": "The Problem at Rephidim: No Water"
+      },
+      {
+        "t": 659,
+        "heading": "God's Leading Into Difficulty"
+      },
+      {
+        "t": 796,
+        "heading": "The People's Complaint and Moses's Prayer"
+      },
+      {
+        "t": 1077,
+        "heading": "God's Specific Instruction and Provision"
+      },
+      {
+        "t": 1358,
+        "heading": "Remembering Past Blessings as Faith Builders"
+      },
+      {
+        "t": 1737,
+        "heading": "Calling on God Rather Than Struggling Alone"
+      }
+    ]
+  }
 }

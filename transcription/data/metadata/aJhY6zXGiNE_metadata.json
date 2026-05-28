@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aJhY6zXGiNE.vtt",
   "duration": 1506,
   "transcription_timestamp": "2025-04-17T07:09:34.382066",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 11:4 on the phrase 'for we also forgive everyone that is indebted to us,' examined as part of a slow phrase-by-phrase series through the model prayer. The passage is set alongside Matthew 18, Luke 17, Ephesians 4, and Hebrews 12 to address the necessity of a forgiving spirit and the danger of bitterness among believers.",
+    "themes": [
+      "forgiveness",
+      "bitterness",
+      "the model prayer",
+      "prayer framework",
+      "offenses among believers",
+      "forgiving spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prayer Framework"
+      },
+      {
+        "t": 286,
+        "heading": "Introduction of the Phrase"
+      },
+      {
+        "t": 332,
+        "heading": "The Problem of Being Sinned Against"
+      },
+      {
+        "t": 377,
+        "heading": "Peter's Inquiry and Christ's Answer"
+      },
+      {
+        "t": 718,
+        "heading": "Forgiving as Those Forgiven"
+      },
+      {
+        "t": 960,
+        "heading": "Continual Forgiveness and Its Scope"
+      },
+      {
+        "t": 1148,
+        "heading": "The Danger of Bitterness"
+      }
+    ]
+  }
 }

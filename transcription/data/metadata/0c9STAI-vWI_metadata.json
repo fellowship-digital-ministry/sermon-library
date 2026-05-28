@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\0c9STAI-vWI.vtt",
   "duration": 2614,
   "transcription_timestamp": "2025-04-16T12:06:44.854639",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 4:7-10 on the nature and revelation of God's love, situated within a series through 1 John tracing the recurring theme of love as evidence of genuine Christian life.",
+    "themes": [
+      "god is love",
+      "love for the brethren",
+      "propitiation",
+      "recipients of divine love",
+      "obedience as love's response",
+      "walking in the light"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Series Context and Chapter Overview"
+      },
+      {
+        "t": 383,
+        "heading": "God's Love Revealed"
+      },
+      {
+        "t": 629,
+        "heading": "Manifestation Through the Incarnation"
+      },
+      {
+        "t": 1156,
+        "heading": "Believers as Recipients of God's Love"
+      },
+      {
+        "t": 1393,
+        "heading": "God's Love Distinct from Other Religions"
+      },
+      {
+        "t": 1958,
+        "heading": "Response to God's Love: Obedience and Love for God"
+      },
+      {
+        "t": 2283,
+        "heading": "Response to God's Love: Love for the Brethren"
+      }
+    ]
+  }
 }

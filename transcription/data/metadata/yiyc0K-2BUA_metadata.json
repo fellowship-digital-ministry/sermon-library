@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yiyc0K-2BUA.vtt",
   "duration": 2595,
   "transcription_timestamp": "2025-04-16T00:58:44.854495",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Chronicles 24:1-27 on the life of Joash, tracing the contrast between his faithful years under the influence of the priest Jehoiada and his subsequent moral collapse after Jehoiada's death. Six lessons are drawn from the narrative for application to Christian living, with particular address to two young women departing for college.",
+    "themes": [
+      "spiritual mentorship",
+      "personal walk with god",
+      "influence and accountability",
+      "sensitivity to scripture",
+      "disobedience and judgment",
+      "faithfulness of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 140,
+        "heading": "Lesson 1: Spiritual Mentors and Accountability"
+      },
+      {
+        "t": 645,
+        "heading": "Lesson 2: Developing a Personal Walk with God"
+      },
+      {
+        "t": 1016,
+        "heading": "Lesson 3: Caution About Influences"
+      },
+      {
+        "t": 1393,
+        "heading": "Lesson 4: The Faithfulness of God"
+      },
+      {
+        "t": 1582,
+        "heading": "Lesson 5: Remaining Sensitive to God's Word"
+      },
+      {
+        "t": 2097,
+        "heading": "Lesson 6: Disobedience and Judgment"
+      }
+    ]
+  }
 }

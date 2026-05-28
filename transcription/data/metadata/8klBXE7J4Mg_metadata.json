@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\8klBXE7J4Mg.vtt",
   "duration": 1986,
   "transcription_timestamp": "2025-04-15T07:02:12.452285",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 3:7-12 on God's awareness of human suffering, his promises of deliverance, and his use of human instruments to accomplish his purposes, centered on the declaration 'I know their sorrows.'",
+    "themes": [
+      "god's omniscience",
+      "god's promises",
+      "divine presence",
+      "calling and surrender",
+      "god's use of people",
+      "the shortage of ministry workers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 191,
+        "heading": "The Perspective of God: He Knows and Sees"
+      },
+      {
+        "t": 480,
+        "heading": "The Promise of God: Bringing Out and Bringing In"
+      },
+      {
+        "t": 899,
+        "heading": "The Plan of God: Using His People"
+      },
+      {
+        "t": 1281,
+        "heading": "The Shortage of Ministry Workers Today"
+      },
+      {
+        "t": 1660,
+        "heading": "The Promise of God's Presence"
+      }
+    ]
+  }
 }

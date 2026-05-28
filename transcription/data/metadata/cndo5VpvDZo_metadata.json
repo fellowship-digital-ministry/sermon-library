@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cndo5VpvDZo.vtt",
   "duration": 2638,
   "transcription_timestamp": "2025-04-17T02:14:07.292872",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 2:7 on the preciousness of Christ, developed as a Thanksgiving-season survey of His person and presence drawn from passages across both Testaments. Part one of a two-part series, with a second part on His promises announced for the evening service.",
+    "themes": [
+      "attributes of christ",
+      "thankfulness",
+      "presence of god",
+      "names and titles of christ",
+      "the person of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text Established"
+      },
+      {
+        "t": 277,
+        "heading": "Definition of 'Precious' Applied to Christ"
+      },
+      {
+        "t": 464,
+        "heading": "Thankfulness for His Person: Attributes Listed"
+      },
+      {
+        "t": 1339,
+        "heading": "Christ as Victorious and Faithful"
+      },
+      {
+        "t": 1891,
+        "heading": "Transition to Thankfulness for His Presence"
+      },
+      {
+        "t": 2028,
+        "heading": "Biblical Accounts of God's Presence with His People"
+      },
+      {
+        "t": 2399,
+        "heading": "Closing Summary and Evening Service Preview"
+      }
+    ]
+  }
 }

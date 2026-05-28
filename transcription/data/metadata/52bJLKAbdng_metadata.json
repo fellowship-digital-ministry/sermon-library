@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\52bJLKAbdng.vtt",
   "duration": 3055,
   "transcription_timestamp": "2025-04-14T22:36:28.337203",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 2:5 and 2:22-23 on the discipline required of a good soldier of Jesus Christ, treating the athlete's lawful striving in the Isthmian games as an illustration of ordered, rule-bound Christian living. Part four of a series through 2 Timothy chapter two.",
+    "themes": [
+      "christian discipline",
+      "fleeing temptation",
+      "following righteousness",
+      "avoiding foolish controversies",
+      "the judgment seat of christ",
+      "accountability"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series recap: four soldier attributes"
+      },
+      {
+        "t": 325,
+        "heading": "Verse 5: the disciplined soldier"
+      },
+      {
+        "t": 650,
+        "heading": "1 Corinthians 9: parallel athletic illustration"
+      },
+      {
+        "t": 791,
+        "heading": "Doing God's work God's way"
+      },
+      {
+        "t": 1168,
+        "heading": "Verses 22-23 introduced: flee, follow, avoid"
+      },
+      {
+        "t": 1218,
+        "heading": "What the disciplined soldier flees"
+      },
+      {
+        "t": 1593,
+        "heading": "What the disciplined soldier follows"
+      },
+      {
+        "t": 2478,
+        "heading": "What the disciplined soldier avoids"
+      }
+    ]
+  }
 }

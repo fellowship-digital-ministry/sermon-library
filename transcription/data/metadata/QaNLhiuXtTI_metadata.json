@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QaNLhiuXtTI.vtt",
   "duration": 1400,
   "transcription_timestamp": "2025-04-16T14:56:45.152662",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 14:1a on the wise woman building her house, broadened through New Testament teaching on edification to address how believers promote spiritual growth in one another's lives. Delivered on Mother's Day, the message draws on Proverbs, Ephesians 4, 2 Peter 1, and Philippians 1.",
+    "themes": [
+      "edification",
+      "speech and the tongue",
+      "intercessory prayer",
+      "spiritual growth",
+      "the home and family",
+      "one another commands"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Proverbs 14:1 Introduced"
+      },
+      {
+        "t": 94,
+        "heading": "Edification Defined"
+      },
+      {
+        "t": 188,
+        "heading": "Broad Application to Believers"
+      },
+      {
+        "t": 327,
+        "heading": "First Way: Offering Praise Through Speech"
+      },
+      {
+        "t": 663,
+        "heading": "Second Way: Reminding of God's Promises"
+      },
+      {
+        "t": 943,
+        "heading": "Third Way: Intercessory Prayer"
+      },
+      {
+        "t": 1276,
+        "heading": "Closing Summary and Application"
+      }
+    ]
+  }
 }

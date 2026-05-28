@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bdcBSlwEZJw.vtt",
   "duration": 2237,
   "transcription_timestamp": "2025-04-16T09:15:32.764001",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 31:1 on the role of the mother of King Lemuel as instructor, examining the vision of the instructor and the value of instruction. The familiar virtuous-woman passage is framed by its opening verse, which attributes the prophecy to a mother's teaching.",
+    "themes": [
+      "motherhood",
+      "instruction",
+      "wisdom",
+      "receiving counsel",
+      "parenting",
+      "the book of proverbs"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Mother's Day Background"
+      },
+      {
+        "t": 141,
+        "heading": "Proverbs 31:1 and King Lemuel"
+      },
+      {
+        "t": 338,
+        "heading": "Vision of the Instructor"
+      },
+      {
+        "t": 623,
+        "heading": "Cautions and Counsel in Instruction"
+      },
+      {
+        "t": 1007,
+        "heading": "The Value of Instruction"
+      },
+      {
+        "t": 1296,
+        "heading": "Hearing, Receiving, and Loving Instruction"
+      },
+      {
+        "t": 1979,
+        "heading": "Closing Reflection and Application"
+      }
+    ]
+  }
 }

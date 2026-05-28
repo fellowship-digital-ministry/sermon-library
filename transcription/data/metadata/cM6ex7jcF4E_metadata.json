@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cM6ex7jcF4E.vtt",
   "duration": 2056,
   "transcription_timestamp": "2025-04-17T11:32:13.737131",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of ten Old Testament names of God, covering five in this first part: Elohim, Yahweh/Jehovah, Adonai, El Shaddai, and Jehovah-Ra. Drawn from Proverbs 18:10 as a springboard, with supporting texts across Genesis, Exodus, Psalms, and Isaiah, as part of a broader series on theology and the attributes of God.",
+    "themes": [
+      "names of god",
+      "old testament theology",
+      "attributes of god",
+      "god as creator",
+      "god as shepherd",
+      "divine self-revelation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prior Attributes"
+      },
+      {
+        "t": 91,
+        "heading": "Proverbs 18:10 and the Study's Scope"
+      },
+      {
+        "t": 275,
+        "heading": "Elohim: God the Strong Creator"
+      },
+      {
+        "t": 421,
+        "heading": "Yahweh/Jehovah: The Self-Existent One"
+      },
+      {
+        "t": 991,
+        "heading": "Adonai: Lord and Master"
+      },
+      {
+        "t": 1326,
+        "heading": "El Shaddai: The Lord God Almighty"
+      },
+      {
+        "t": 1706,
+        "heading": "Jehovah-Ra: The Lord My Shepherd"
+      }
+    ]
+  }
 }

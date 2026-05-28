@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bONI-IK_A_Y.vtt",
   "duration": 1619,
   "transcription_timestamp": "2025-04-16T13:57:23.551047",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philemon 15-17 on forgiveness and reconciliation, tracing Paul's appeal to Philemon to receive the returning runaway slave Onesimus as a saved brother and as he would receive Paul himself. The sixth lesson in a series through Philemon.",
+    "themes": [
+      "forgiveness",
+      "reconciliation",
+      "christian brotherhood",
+      "conversion",
+      "walking in the spirit",
+      "receiving fellow believers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prior Verses"
+      },
+      {
+        "t": 140,
+        "heading": "Forgiveness as Practice, Not Theory"
+      },
+      {
+        "t": 281,
+        "heading": "Paul's Perspective on Circumstances (v. 15)"
+      },
+      {
+        "t": 656,
+        "heading": "Onesimus Returning as Brother, Not Servant (v. 16)"
+      },
+      {
+        "t": 898,
+        "heading": "The Sincerity of Paul's Appeal (v. 17)"
+      },
+      {
+        "t": 1243,
+        "heading": "Receive Him as Myself: What That Demands"
+      },
+      {
+        "t": 1481,
+        "heading": "The Spirit's Role in Enabling Forgiveness"
+      }
+    ]
+  }
 }

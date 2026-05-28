@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\PgcjaAnGexU.vtt",
   "duration": 3269,
   "transcription_timestamp": "2025-04-17T01:19:41.707796",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 14:15 on the command to go forward, preached on the last Sunday of 2021 as a year-end message. The crossing of the Red Sea serves as the central event, with supporting passages from Hebrews 10, Matthew 28, Philippians 3, and 1 Corinthians 15 applied to the life and mission of the New Testament church.",
+    "themes": [
+      "obedience",
+      "faith",
+      "the great commission",
+      "doubt and fear as hindrances",
+      "seeing god work",
+      "going forward"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context"
+      },
+      {
+        "t": 193,
+        "heading": "Exodus 14 Passage Read"
+      },
+      {
+        "t": 336,
+        "heading": "The People, Moses, and God Speak"
+      },
+      {
+        "t": 618,
+        "heading": "Why Go Forward: Obedience"
+      },
+      {
+        "t": 1223,
+        "heading": "How to Go Forward: By Faith"
+      },
+      {
+        "t": 1973,
+        "heading": "What Hinders Going Forward"
+      },
+      {
+        "t": 2387,
+        "heading": "What Happens When We Go Forward"
+      }
+    ]
+  }
 }

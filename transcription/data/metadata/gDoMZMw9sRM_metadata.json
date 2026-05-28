@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\gDoMZMw9sRM.vtt",
   "duration": 1796,
   "transcription_timestamp": "2025-04-17T20:37:46.351979",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 6:8-23 on Elisha, the Syrian siege of Dothan, and the protection of God made visible to a fearful servant. The passage is traced verse by verse through Ben-Hadad's failed military strategy, the surrounding of Dothan, and the miraculous events that follow Elisha's prayer.",
+    "themes": [
+      "divine protection",
+      "spiritual sight",
+      "fear and faith",
+      "prayer and answered prayer",
+      "god's omniscience",
+      "spiritual warfare"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 190,
+        "heading": "Ben-Hadad's Plans Repeatedly Spoiled"
+      },
+      {
+        "t": 429,
+        "heading": "Ben-Hadad Suspects a Traitor"
+      },
+      {
+        "t": 567,
+        "heading": "Syrians Surround Dothan"
+      },
+      {
+        "t": 765,
+        "heading": "Elisha Instructs the Fearful Servant"
+      },
+      {
+        "t": 1089,
+        "heading": "The Servant's Eyes Opened"
+      },
+      {
+        "t": 1368,
+        "heading": "Elisha Prays Blindness on the Syrian Host"
+      },
+      {
+        "t": 1459,
+        "heading": "Syrians Led to Samaria, Fed, and Released"
+      }
+    ]
+  }
 }

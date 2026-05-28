@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\rmcjjZFliXA.vtt",
   "duration": 2887,
   "transcription_timestamp": "2025-04-16T12:58:09.585428",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 78:1-8 on the responsibility of believers to pass faith and knowledge of God's works to the next generation, set against the backdrop of cultural and ideological efforts to shape children away from biblical belief.",
+    "themes": [
+      "generational faithfulness",
+      "christian education",
+      "parental responsibility",
+      "works of god",
+      "cultural opposition to faith",
+      "active engagement in ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Context"
+      },
+      {
+        "t": 231,
+        "heading": "The Battle for the Next Generation"
+      },
+      {
+        "t": 323,
+        "heading": "Opposing Forces Targeting Youth"
+      },
+      {
+        "t": 602,
+        "heading": "Our Responsibility: Not Hiding Truth"
+      },
+      {
+        "t": 696,
+        "heading": "Showing God's Praises, Strength, and Works"
+      },
+      {
+        "t": 879,
+        "heading": "Biblical and Personal Works of God"
+      },
+      {
+        "t": 2099,
+        "heading": "The Results: Hope, Memory, and Obedience"
+      },
+      {
+        "t": 2519,
+        "heading": "God's Eternal Throne Across Generations"
+      }
+    ]
+  }
 }

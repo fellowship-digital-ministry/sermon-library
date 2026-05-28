@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TFJvlz_mzCo.vtt",
   "duration": 2678,
   "transcription_timestamp": "2025-04-16T14:14:12.231168",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 8:32-36 on freedom from the dominion of sin through Christ, set against the backdrop of American Independence Day and contrasting civil liberty with spiritual liberty. Supporting passages from Romans 6, Romans 8, Galatians 5, 2 Corinthians 4, Genesis 3, and Jude 3-4 develop three movements: the blinding from truth, the battle for truth, and the blessing of truth.",
+    "themes": [
+      "spiritual freedom",
+      "bondage of sin",
+      "truth and the gospel",
+      "spiritual blindness",
+      "proclaiming the gospel",
+      "civil liberty versus christian liberty"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "American Freedom Introduced"
+      },
+      {
+        "t": 92,
+        "heading": "Freedom in Christ Contrasted"
+      },
+      {
+        "t": 185,
+        "heading": "John 8 Text and Key Terms"
+      },
+      {
+        "t": 596,
+        "heading": "Blinding from Truth"
+      },
+      {
+        "t": 1062,
+        "heading": "Battle for Truth"
+      },
+      {
+        "t": 1678,
+        "heading": "Blessing of Truth"
+      },
+      {
+        "t": 2145,
+        "heading": "Purpose to Proclaim Truth"
+      }
+    ]
+  }
 }

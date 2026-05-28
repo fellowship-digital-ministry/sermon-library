@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/e396uX_Hgc0.vtt",
   "duration": 3374.0,
   "transcription_timestamp": "2026-05-28T15:54:44.667863",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 6:8 through 7:60 on the life, message, and death of Stephen, the first Christian martyr, framed within a broader treatment of spiritual warfare and the believer's response to opposition and persecution.",
+    "themes": [
+      "spiritual warfare",
+      "persecution of believers",
+      "stephen as first martyr",
+      "courage and character",
+      "compassion toward opponents",
+      "the mission field versus the enemy"
+    ],
+    "sections": [
+      {
+        "t": 96,
+        "heading": "Spiritual Warfare as Context"
+      },
+      {
+        "t": 522,
+        "heading": "Recent Events and the Real Enemy"
+      },
+      {
+        "t": 989,
+        "heading": "The Character of Stephen"
+      },
+      {
+        "t": 1412,
+        "heading": "The Courage of Stephen"
+      },
+      {
+        "t": 1910,
+        "heading": "The Content of Stephen's Message"
+      },
+      {
+        "t": 2253,
+        "heading": "The Conviction of His Hearers"
+      },
+      {
+        "t": 2689,
+        "heading": "The Compassion of Stephen"
+      }
+    ]
+  }
 }

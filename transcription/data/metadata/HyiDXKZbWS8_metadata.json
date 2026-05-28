@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HyiDXKZbWS8.vtt",
   "duration": 3187,
   "transcription_timestamp": "2025-04-14T21:45:12.889822",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 3:1-9 on the characteristics, deception, and doom associated with the perilous times of the last days, set within a year-long study of 1 and 2 Timothy.",
+    "themes": [
+      "last days",
+      "apostasy and false teaching",
+      "depravity of man",
+      "deception",
+      "gospel and salvation",
+      "separation from evil"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to 2 Timothy 3:1"
+      },
+      {
+        "t": 463,
+        "heading": "20 Characteristics of Perilous Times"
+      },
+      {
+        "t": 1189,
+        "heading": "Form of Godliness and Gross Immorality"
+      },
+      {
+        "t": 1532,
+        "heading": "Deception: Ever Learning, Never Knowing Truth"
+      },
+      {
+        "t": 1769,
+        "heading": "Jannes and Jambres as an Illustration"
+      },
+      {
+        "t": 2608,
+        "heading": "The Doom of Error and the Enemy"
+      },
+      {
+        "t": 2897,
+        "heading": "Responsibility to Proclaim Truth in the Last Days"
+      }
+    ]
+  }
 }

@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\iYsTC-osByQ.vtt",
   "duration": 3081,
   "transcription_timestamp": "2025-05-12T15:58:08.832085",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:20 and Proverbs 13:17 on the nature and responsibility of the Christian as a faithful ambassador for Christ, with supporting texts from Isaiah 6, Luke 16, Acts 8, Matthew 9, and Romans 1 and 9-10.",
+    "themes": [
+      "ambassadorship",
+      "evangelism",
+      "burden for the lost",
+      "the great commission",
+      "hell and eternity",
+      "faithfulness in witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Prior Message"
+      },
+      {
+        "t": 141,
+        "heading": "Proverbs 13:17 Introduced"
+      },
+      {
+        "t": 467,
+        "heading": "Plea from the Loving Savior"
+      },
+      {
+        "t": 798,
+        "heading": "Plea from a Lost Sinner"
+      },
+      {
+        "t": 1365,
+        "heading": "Pattern of Faithful Ambassadors"
+      },
+      {
+        "t": 2513,
+        "heading": "Prize for Faithful Ambassadors"
+      }
+    ]
+  }
 }

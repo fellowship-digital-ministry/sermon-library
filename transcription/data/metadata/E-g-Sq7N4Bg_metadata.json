@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\E-g-Sq7N4Bg.vtt",
   "duration": 2902,
   "transcription_timestamp": "2025-04-14T22:21:54.606298",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory exposition of Revelation 1:1-3 on the purpose, precise record, and promised blessing of the book of Revelation, establishing interpretive principles for a verse-by-verse study of the book.",
+    "themes": [
+      "book of revelation",
+      "biblical interpretation",
+      "revelation of jesus christ",
+      "scripture reading and hearing",
+      "end times prophecy",
+      "blessing of obedience to scripture"
+    ],
+    "sections": [
+      {
+        "t": 92,
+        "heading": "Principles for Studying Revelation"
+      },
+      {
+        "t": 645,
+        "heading": "Historical Background: Domitian and Patmos"
+      },
+      {
+        "t": 832,
+        "heading": "Purpose of the Book: Revelation 1:1"
+      },
+      {
+        "t": 1821,
+        "heading": "Precise Record of the Book: Revelation 1:2"
+      },
+      {
+        "t": 2099,
+        "heading": "Promise of Blessing: Revelation 1:3"
+      },
+      {
+        "t": 2613,
+        "heading": "Closing: Seeing Christ, Not Just a Timeline"
+      }
+    ]
+  }
 }

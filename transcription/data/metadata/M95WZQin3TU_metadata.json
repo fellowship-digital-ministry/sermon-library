@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\M95WZQin3TU.vtt",
   "duration": 2105,
   "transcription_timestamp": "2025-04-14T18:55:27.694459",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 62:1-12 on waiting upon God and pouring out the heart before him in the midst of trials, drawn from David's testimony of trust and his instruction to those who would read the psalm.",
+    "themes": [
+      "trials and testing",
+      "waiting on god",
+      "prayer and transparency before god",
+      "trust in god versus trust in riches",
+      "the power and mercy of god",
+      "the testimony of faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 62"
+      },
+      {
+        "t": 233,
+        "heading": "The Trial of the Psalmist"
+      },
+      {
+        "t": 416,
+        "heading": "Trials in Scripture: Hebrews and 1 Peter"
+      },
+      {
+        "t": 742,
+        "heading": "The Testimony of the Psalmist"
+      },
+      {
+        "t": 1300,
+        "heading": "The Teaching of the Psalmist"
+      },
+      {
+        "t": 1395,
+        "heading": "Pouring Out the Heart Before God"
+      },
+      {
+        "t": 1718,
+        "heading": "What Not to Trust: Oppression and Riches"
+      },
+      {
+        "t": 1855,
+        "heading": "Power and Mercy Belonging to God"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Gtm8IYhepio.vtt",
   "duration": 2823,
   "transcription_timestamp": "2025-04-17T04:06:47.770998",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Joel 1:1-14 on the withering of national and personal joy, tracing the destruction described in Joel 1 to the covenant consequences of sin laid out in Leviticus 26, with application to Psalm 51 on the loss and restoration of joy.",
+    "themes": [
+      "joy and its loss",
+      "sin and judgment",
+      "national repentance",
+      "backsliding",
+      "restoration",
+      "covenant consequences"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background and Date of Joel"
+      },
+      {
+        "t": 140,
+        "heading": "The Situation in Joel 1"
+      },
+      {
+        "t": 524,
+        "heading": "Extent of the Destruction"
+      },
+      {
+        "t": 767,
+        "heading": "Leviticus 26: The If-Then Covenant"
+      },
+      {
+        "t": 1605,
+        "heading": "Sin as the Cause: National Application"
+      },
+      {
+        "t": 1976,
+        "heading": "The Solution: Repentance and Returning"
+      },
+      {
+        "t": 2119,
+        "heading": "Personal Joy Lost and Restored: Psalm 51"
+      },
+      {
+        "t": 2554,
+        "heading": "God as Restorer: Joel 2:25"
+      }
+    ]
+  }
 }

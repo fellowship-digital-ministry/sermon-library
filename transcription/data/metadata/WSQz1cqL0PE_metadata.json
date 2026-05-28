@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WSQz1cqL0PE.vtt",
   "duration": 2647,
   "transcription_timestamp": "2025-04-15T07:14:46.478834",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 50:22-26 on the death of Joseph at 110 years old, tracing four characteristics of his life as a concluding study of the book of Genesis after 103 messages in the series. Psalm 116:15, 1 Samuel 15:22, Psalm 34, Hebrews 11:22, and Joshua 24:32 are drawn in alongside the Genesis text.",
+    "themes": [
+      "obedience",
+      "faith",
+      "trials and troubles",
+      "blessing",
+      "the life of joseph",
+      "end of genesis"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Read"
+      },
+      {
+        "t": 183,
+        "heading": "Overview of Joseph's Life and Death"
+      },
+      {
+        "t": 418,
+        "heading": "A Life Marked by Obedience"
+      },
+      {
+        "t": 886,
+        "heading": "A Life Marked by Troubles"
+      },
+      {
+        "t": 1401,
+        "heading": "A Life Marked by Blessing"
+      },
+      {
+        "t": 2018,
+        "heading": "A Life Marked by Faith"
+      },
+      {
+        "t": 2503,
+        "heading": "Closing Reflection and Invitation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/M2Y9NUNOjZA.vtt",
   "duration": 3387.0,
   "transcription_timestamp": "2026-05-28T15:38:31.242053",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 10:1-18 on the apostle Paul's approach, authority, and aspiration in ministry, set against the backdrop of Judaizers who criticized Paul to the church at Corinth. Paul's desire for God's commendation rather than self-commendation serves as the organizing theme.",
+    "themes": [
+      "god's approval versus self-commendation",
+      "spiritual versus carnal warfare",
+      "meekness and gentleness in ministry",
+      "authority in ministry",
+      "comparison as a spiritual hindrance",
+      "preaching the gospel"
+    ],
+    "sections": [
+      {
+        "t": 137,
+        "heading": "Introduction to 2 Corinthians 10"
+      },
+      {
+        "t": 367,
+        "heading": "Salvation and Desiring God's Approval"
+      },
+      {
+        "t": 604,
+        "heading": "Paul's Approach: Being Like Jesus"
+      },
+      {
+        "t": 840,
+        "heading": "Spiritual Versus Carnal Warfare"
+      },
+      {
+        "t": 1545,
+        "heading": "Paul's Authority: Source and Purpose"
+      },
+      {
+        "t": 1971,
+        "heading": "Paul's Aspiration and the Hindrance of Comparison"
+      },
+      {
+        "t": 2487,
+        "heading": "Goals: Preaching the Gospel and Glorying in the Lord"
+      },
+      {
+        "t": 2959,
+        "heading": "Seeking the Lord's Commendation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9Ptr_tzZBXA.vtt",
   "duration": 2103,
   "transcription_timestamp": "2025-04-17T15:57:00.922688",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 13:14-25 on the death of Elisha, covering his final meeting with King Joash, his final prophecy concerning Syria, and a posthumous miracle at his tomb. The passage is set within a concluding lesson in a series tracing the lives of Elijah and Elisha.",
+    "themes": [
+      "faithfulness unto death",
+      "prophetic ministry",
+      "spiritual warfare",
+      "standing for truth",
+      "fulfilled prophecy",
+      "perseverance in wickedness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Elisha's Death"
+      },
+      {
+        "t": 190,
+        "heading": "Final Meeting: Joash and Elisha"
+      },
+      {
+        "t": 573,
+        "heading": "Final Message: Two Object Lessons"
+      },
+      {
+        "t": 944,
+        "heading": "Fulfillment of the Prophecy"
+      },
+      {
+        "t": 991,
+        "heading": "Final Miracle at Elisha's Tomb"
+      },
+      {
+        "t": 1131,
+        "heading": "Elisha's Decades of Faithful Ministry"
+      },
+      {
+        "t": 1368,
+        "heading": "New Testament Call to Stand and Continue"
+      }
+    ]
+  }
 }

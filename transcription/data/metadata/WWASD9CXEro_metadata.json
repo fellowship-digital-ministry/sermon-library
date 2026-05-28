@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WWASD9CXEro.vtt",
   "duration": 2133,
   "transcription_timestamp": "2025-04-14T22:17:03.140291",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:6 on the obligation of professing believers to walk as Christ walked, drawing on the Gospel accounts and epistles to examine two aspects of Christ's manner of life: wisdom and humility. Part one of a multi-week series.",
+    "themes": [
+      "walking as christ walked",
+      "wisdom",
+      "humility",
+      "christian testimony",
+      "abiding in christ",
+      "evidence of belief"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Series Introduction"
+      },
+      {
+        "t": 142,
+        "heading": "The Claim and Its Required Evidence"
+      },
+      {
+        "t": 379,
+        "heading": "Christ as the Example to Follow"
+      },
+      {
+        "t": 661,
+        "heading": "Jesus Walked Wisely"
+      },
+      {
+        "t": 845,
+        "heading": "Instruction to Walk in Wisdom"
+      },
+      {
+        "t": 1276,
+        "heading": "Jesus Walked Humbly"
+      },
+      {
+        "t": 1714,
+        "heading": "Instruction to Walk in Humility"
+      }
+    ]
+  }
 }

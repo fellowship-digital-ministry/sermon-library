@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\L3JbLyIPp5M.vtt",
   "duration": 2327,
   "transcription_timestamp": "2025-04-16T11:13:51.865313",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory exposition of Psalm 48:1-2 on the greatness of God, framing an annual sermon theme titled 'Great Is The Lord' for Fellowship Baptist Church. The message surveys how Scripture declares and demonstrates divine greatness, drawing supporting texts from Psalms 135, 145, and Deuteronomy 3 and 5.",
+    "themes": [
+      "greatness of god",
+      "praise and worship",
+      "witnessing",
+      "sovereignty of god",
+      "annual church theme",
+      "generational faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Annual Theme History Reviewed"
+      },
+      {
+        "t": 467,
+        "heading": "Theme Defined and Series Outlined"
+      },
+      {
+        "t": 662,
+        "heading": "Recognizing His Greatness"
+      },
+      {
+        "t": 858,
+        "heading": "God Declares and Demonstrates Greatness"
+      },
+      {
+        "t": 1200,
+        "heading": "Rejoicing in His Greatness"
+      },
+      {
+        "t": 1896,
+        "heading": "Reporting His Greatness to Others"
+      }
+    ]
+  }
 }

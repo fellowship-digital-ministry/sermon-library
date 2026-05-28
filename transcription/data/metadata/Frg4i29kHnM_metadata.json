@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Frg4i29kHnM.vtt",
   "duration": 3070,
   "transcription_timestamp": "2025-04-17T07:14:40.569824",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 18:16-33 on Abraham's intercession before God over the pending judgment of Sodom and Gomorrah, set within the broader narrative of Lot's presence in Sodom and God's covenant relationship with Abraham. The passage is read alongside Old Testament and New Testament texts to trace how recipients of divine information have responded to knowledge of coming judgment.",
+    "themes": [
+      "intercession",
+      "divine judgment",
+      "evangelism and gospel proclamation",
+      "compassion for the lost",
+      "the friend of god",
+      "eternity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 91,
+        "heading": "Background: Lot, Sodom, and Prior Events"
+      },
+      {
+        "t": 185,
+        "heading": "Information Provided: Why God Tells Abraham"
+      },
+      {
+        "t": 372,
+        "heading": "The Sin and Pending Judgment of Sodom"
+      },
+      {
+        "t": 842,
+        "heading": "Abraham's Intercession: From Fifty to Ten"
+      },
+      {
+        "t": 1316,
+        "heading": "Old Testament Responses to Divine Information: Elisha and Jonah"
+      },
+      {
+        "t": 1884,
+        "heading": "Paul's Response: Sorrow, Warning, and Active Proclamation"
+      },
+      {
+        "t": 2501,
+        "heading": "The Great White Throne and the Call to Respond"
+      }
+    ]
+  }
 }

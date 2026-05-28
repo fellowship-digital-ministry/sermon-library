@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\bsk8iNEnRVo.vtt",
   "duration": 2796,
   "transcription_timestamp": "2025-04-17T03:01:16.137924",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 21:22-34 on Abimelech's observation that God was with Abraham, tracing the covenant at Beersheba and Abraham's worship of El Olam, the everlasting God, as the 55th lesson in a verse-by-verse study of Genesis.",
+    "themes": [
+      "testimony before unbelievers",
+      "worship as priority",
+      "faith and doubt",
+      "covenant",
+      "names of god",
+      "the presence of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter Overview"
+      },
+      {
+        "t": 187,
+        "heading": "Abimelech's Perception of God's Presence"
+      },
+      {
+        "t": 282,
+        "heading": "Backdrop from Genesis 20"
+      },
+      {
+        "t": 798,
+        "heading": "Abimelech's Proposal and the Covenant"
+      },
+      {
+        "t": 937,
+        "heading": "The Disputed Well at Beersheba"
+      },
+      {
+        "t": 1737,
+        "heading": "Abraham's Worship and the Name El Olam"
+      },
+      {
+        "t": 1935,
+        "heading": "God's Everlasting Promises to Abraham"
+      },
+      {
+        "t": 2263,
+        "heading": "Worship as the Priority Behind the Testimony"
+      }
+    ]
+  }
 }

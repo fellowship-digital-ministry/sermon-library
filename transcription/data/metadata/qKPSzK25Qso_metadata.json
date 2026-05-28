@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\qKPSzK25Qso.vtt",
   "duration": 2768,
   "transcription_timestamp": "2025-04-14T22:41:19.953211",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Kings 19:1-18 on the low point, flight, and divine questioning of the prophet Elijah, tracing the threat from Jezebel, Elijah's journey to Horeb, God's provision and probing question, and the threefold task God assigns him to complete.",
+    "themes": [
+      "spiritual low points",
+      "the provision of god",
+      "hearing the voice of god",
+      "divine purpose and calling",
+      "fear and flight",
+      "fulfilling god's task"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Elijah in 1 Kings 17-18"
+      },
+      {
+        "t": 415,
+        "heading": "The Threat from Jezebel"
+      },
+      {
+        "t": 553,
+        "heading": "Elijah's Flight and God's Provision"
+      },
+      {
+        "t": 927,
+        "heading": "God's Probing Question at the Cave"
+      },
+      {
+        "t": 1111,
+        "heading": "The Still Small Voice and Hearing God"
+      },
+      {
+        "t": 1625,
+        "heading": "The Threefold Task Revealed"
+      },
+      {
+        "t": 1947,
+        "heading": "Joseph and Mordecai as Parallel Examples"
+      },
+      {
+        "t": 2364,
+        "heading": "Application: Purpose and Bringing Glory to God"
+      }
+    ]
+  }
 }

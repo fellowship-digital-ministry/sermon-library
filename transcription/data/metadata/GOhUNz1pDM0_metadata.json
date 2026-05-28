@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\GOhUNz1pDM0.vtt",
   "duration": 1495,
   "transcription_timestamp": "2025-05-12T15:38:36.746572",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 7:7-11 on the nature and practice of prayer, treating the passage's three imperatives (ask, seek, knock) as the basis for recognizing prayer as a privilege, maintaining persistence, and resting in God's promises.",
+    "themes": [
+      "prayer",
+      "persistence in prayer",
+      "god's promises",
+      "privilege of access to god",
+      "christian discipline"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 48,
+        "heading": "Prayer as a Challenging Discipline"
+      },
+      {
+        "t": 193,
+        "heading": "Recognizing the Privilege of Prayer"
+      },
+      {
+        "t": 490,
+        "heading": "Resolving to Be Persistent in Prayer"
+      },
+      {
+        "t": 730,
+        "heading": "Resting in God's Promises"
+      },
+      {
+        "t": 825,
+        "heading": "The Illustration of a Father and Son"
+      },
+      {
+        "t": 1228,
+        "heading": "Prayer Not as a Spare Tire"
+      }
+    ]
+  }
 }

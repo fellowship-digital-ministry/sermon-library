@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nCFMKjd4qOQ.vtt",
   "duration": 2673,
   "transcription_timestamp": "2025-04-17T01:09:32.647671",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory topical message on 1 John 1:7 launching a year-long series through 1 John, organized around the theme 'Walking in the Light' as a description of the obedient Christian life. The passage is examined under four aspects: the relationship required, the obedience revealed, the progress indicated, and the fellowship produced.",
+    "themes": [
+      "walking in the light",
+      "christian obedience",
+      "fellowship",
+      "spiritual growth and progress",
+      "salvation as basis for christian living",
+      "church unity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Annual Theme Series Introduced"
+      },
+      {
+        "t": 338,
+        "heading": "Theme Verse and Series Overview"
+      },
+      {
+        "t": 576,
+        "heading": "Walking in the Light Requires Relationship"
+      },
+      {
+        "t": 854,
+        "heading": "Walking in the Light Reveals Obedience"
+      },
+      {
+        "t": 1177,
+        "heading": "Walking in the Light Reveals Progress"
+      },
+      {
+        "t": 1791,
+        "heading": "Walking in the Light Results in Fellowship"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oOFjt9BwwsE.vtt",
   "duration": 2928,
   "transcription_timestamp": "2025-04-17T00:49:33.454480",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 25:27-34 on Esau selling his birthright to Jacob, set within the broader narrative of Isaac and Rebekah's family and the two-nations prophecy of Genesis 25:23. The passage is read alongside Hebrews 12:16-17, Deuteronomy 21:17, and Genesis 43:33 to establish the value and significance of the birthright in Scripture.",
+    "themes": [
+      "birthright and firstborn",
+      "flesh versus spirit",
+      "family dysfunction",
+      "scheming versus trusting god",
+      "immediate versus eternal priorities",
+      "two natures"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Previous Passage"
+      },
+      {
+        "t": 99,
+        "heading": "Two Nations and Two Natures"
+      },
+      {
+        "t": 293,
+        "heading": "Distinct Differences Between Esau and Jacob"
+      },
+      {
+        "t": 481,
+        "heading": "Dysfunction in Isaac's Family"
+      },
+      {
+        "t": 813,
+        "heading": "Value and Significance of the Birthright"
+      },
+      {
+        "t": 1232,
+        "heading": "Esau Sells His Birthright"
+      },
+      {
+        "t": 1702,
+        "heading": "Hebrews 12 Description of Esau"
+      },
+      {
+        "t": 1891,
+        "heading": "Jacob's Scheming and Trusting God Instead"
+      }
+    ]
+  }
 }

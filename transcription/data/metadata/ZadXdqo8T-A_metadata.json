@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ZadXdqo8T-A.vtt",
   "duration": 1960,
   "transcription_timestamp": "2025-04-15T09:33:36.431241",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory study to a series on 1 and 2 Thessalonians, anchored in 1 Thessalonians 2:12 and 4:1-2, surveying the church at Thessalonica as a model church and establishing the theme of walking worthy and pleasing God as the framework for examining the concluding principles of both letters.",
+    "themes": [
+      "walking worthy",
+      "pleasing god",
+      "the local church",
+      "spiritual growth",
+      "persecution and perseverance",
+      "brotherly love"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Theme Verses"
+      },
+      {
+        "t": 189,
+        "heading": "Background: Paul in Thessalonica (Acts 17)"
+      },
+      {
+        "t": 381,
+        "heading": "Thessalonica as a Model Church"
+      },
+      {
+        "t": 764,
+        "heading": "First Mark: Spiritual Growth"
+      },
+      {
+        "t": 954,
+        "heading": "Second and Third Marks: Examples and Gospel Witness"
+      },
+      {
+        "t": 1283,
+        "heading": "Fourth Mark: Continuing Through Opposition"
+      },
+      {
+        "t": 1566,
+        "heading": "Fifth Mark: Love for the Brethren"
+      },
+      {
+        "t": 1755,
+        "heading": "Purpose of the Series and Closing"
+      }
+    ]
+  }
 }

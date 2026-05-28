@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Y0-l4gNtmLw.vtt",
   "duration": 1712,
   "transcription_timestamp": "2025-04-17T19:47:13.591600",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ezra 8:21-23, 31-32 on the journey of Ezra and the returning remnant from the river Ahava to Jerusalem, focusing on the danger they faced, their decision to fast and pray rather than seek a military escort, and the protection of God on their departure.",
+    "themes": [
+      "faith and action",
+      "prayer and fasting",
+      "dependence on god",
+      "living what is proclaimed",
+      "divine protection",
+      "the journey to jerusalem"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Ezra 7 and 8 Introduced"
+      },
+      {
+        "t": 145,
+        "heading": "The Danger They Faced"
+      },
+      {
+        "t": 387,
+        "heading": "Ezra's Shame to Request an Escort"
+      },
+      {
+        "t": 570,
+        "heading": "Their Declared Dependence on God"
+      },
+      {
+        "t": 802,
+        "heading": "Fasting and Seeking Direction and Protection"
+      },
+      {
+        "t": 1035,
+        "heading": "Departure from the River Ahava"
+      },
+      {
+        "t": 1220,
+        "heading": "Living What Is Proclaimed"
+      }
+    ]
+  }
 }

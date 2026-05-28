@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\vVjqEYUgWc4.vtt",
   "duration": 3348,
   "transcription_timestamp": "2025-05-12T15:53:09.326494",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:21 on the imputed righteousness of Christ, tracing the necessity and completion of salvation's exchange from Genesis 3 through the New Testament epistles, as the final message in a series through 2 Corinthians 5.",
+    "themes": [
+      "imputed righteousness",
+      "substitutionary atonement",
+      "salvation by grace through faith",
+      "the sinlessness of christ",
+      "works versus grace",
+      "the fall and its consequences"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Recap: 2 Corinthians 5"
+      },
+      {
+        "t": 469,
+        "heading": "Introduction to the Great Transaction"
+      },
+      {
+        "t": 704,
+        "heading": "Basis of the Transaction: Why It Was Necessary"
+      },
+      {
+        "t": 1237,
+        "heading": "How the Transaction Was Completed"
+      },
+      {
+        "t": 2230,
+        "heading": "Blessings of the Transaction: Imputed Righteousness"
+      },
+      {
+        "t": 2855,
+        "heading": "Paul's Testimony: Righteousness Not by Law"
+      },
+      {
+        "t": 3045,
+        "heading": "Appeal: Receiving the Transaction"
+      }
+    ]
+  }
 }

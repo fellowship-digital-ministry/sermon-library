@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ka9pI-oYLw8.vtt",
   "duration": 2778,
   "transcription_timestamp": "2025-04-14T19:35:01.603684",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:1-8 on the certainty of heaven for the believer, treating the passage as a direct continuation of the eternal perspective introduced at the close of 2 Corinthians 4. Paul's language of knowing, confidence, and expectation is examined alongside supporting texts from Ephesians 1, 1 Corinthians 15, 1 Thessalonians 4, and John 14.",
+    "themes": [
+      "certainty of salvation",
+      "heaven",
+      "eternal perspective",
+      "the indwelling holy spirit",
+      "joy of the believer",
+      "the resurrection body"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Chapter 4 Review"
+      },
+      {
+        "t": 93,
+        "heading": "Transition from Temporal to Eternal Focus"
+      },
+      {
+        "t": 185,
+        "heading": "Authority of Scripture on Heaven"
+      },
+      {
+        "t": 600,
+        "heading": "The Meaning of 'We Know' in Verse 1"
+      },
+      {
+        "t": 829,
+        "heading": "The Earthly Tabernacle and the Heavenly Building"
+      },
+      {
+        "t": 1177,
+        "heading": "The Earnest of the Spirit as Guarantee"
+      },
+      {
+        "t": 1695,
+        "heading": "The Excitement and Joy of the Believer's Expectation"
+      }
+    ]
+  }
 }

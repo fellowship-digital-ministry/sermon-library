@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\nAg0uoCzhe8.vtt",
   "duration": 2091,
   "transcription_timestamp": "2025-04-15T10:49:42.557265",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A continuation of a two-part exposition of Psalm 23:5 on the declaration 'my cup runneth over,' presenting five additional biblical reasons a child of God can maintain a perspective of overflowing blessing amid trials, drawn from Psalm 23, John 10, John 14, Hebrews 7, Acts 1, 1 Thessalonians 4, and Titus 2.",
+    "themes": [
+      "the goodness of god",
+      "the shepherd and sheep",
+      "divine protection",
+      "intercession of christ",
+      "the second coming",
+      "christian gratitude"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Recap of Part 1 and Psalm 23 Reading"
+      },
+      {
+        "t": 234,
+        "heading": "Purpose of the Ten Truths"
+      },
+      {
+        "t": 326,
+        "heading": "The Shepherd Leads His Sheep"
+      },
+      {
+        "t": 514,
+        "heading": "The Shepherd Protects His Sheep"
+      },
+      {
+        "t": 750,
+        "heading": "The Shepherd Intercedes for His Sheep"
+      },
+      {
+        "t": 943,
+        "heading": "The Shepherd Prepares a Place"
+      },
+      {
+        "t": 1175,
+        "heading": "The Shepherd's Promised Return"
+      },
+      {
+        "t": 1726,
+        "heading": "Poem and Closing Call to Gratitude"
+      }
+    ]
+  }
 }

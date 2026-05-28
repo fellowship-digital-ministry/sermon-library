@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\5gWVxtcarvc.vtt",
   "duration": 2537,
   "transcription_timestamp": "2025-04-14T19:52:05.882894",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 3:1-6 on the letter to the church at Sardis, the fifth of seven churches addressed in Revelation 2-3, examining a congregation Christ describes as having a name for life while being spiritually dead.",
+    "themes": [
+      "local church purpose",
+      "spiritual deadness",
+      "works and motives",
+      "repentance",
+      "divine counsel and warning",
+      "remnant faithfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of Revelation 3:1-6"
+      },
+      {
+        "t": 98,
+        "heading": "The Local Church and Its Purpose"
+      },
+      {
+        "t": 337,
+        "heading": "Sardis: Condition of the Church"
+      },
+      {
+        "t": 528,
+        "heading": "Works, Motives, and God's Knowledge"
+      },
+      {
+        "t": 1111,
+        "heading": "Five Points of Counsel to Sardis"
+      },
+      {
+        "t": 1703,
+        "heading": "Joshua 7: God Exposes and Expects Response"
+      },
+      {
+        "t": 1889,
+        "heading": "Consequences: Judgment and the Faithful Remnant"
+      },
+      {
+        "t": 2178,
+        "heading": "Assurance in Verse 5 and Closing Appeal"
+      }
+    ]
+  }
 }

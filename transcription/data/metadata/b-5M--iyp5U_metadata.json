@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\b-5M--iyp5U.vtt",
   "duration": 2558,
   "transcription_timestamp": "2025-04-17T06:55:01.418213",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 19:1 on the progressive spiritual decline of Lot, tracing his movement from pitching his tent toward Sodom (Genesis 13) to dwelling in Sodom (Genesis 14) to sitting in the gate of Sodom, with supporting passages from Hebrews 3, 1 Corinthians 15, and 2 Chronicles 28 on the deceitfulness of sin and desensitization to wickedness.",
+    "themes": [
+      "desensitization to sin",
+      "spiritual decline",
+      "worldly influence",
+      "deceitfulness of sin",
+      "godly living in a wicked culture",
+      "parental responsibility"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context from Genesis 18-19"
+      },
+      {
+        "t": 238,
+        "heading": "Two New Testament Principles on Sin"
+      },
+      {
+        "t": 474,
+        "heading": "Lot's Progression Toward Sodom"
+      },
+      {
+        "t": 705,
+        "heading": "Lot Sitting in the Gate"
+      },
+      {
+        "t": 1178,
+        "heading": "King Ahaz and the Downward Spiral"
+      },
+      {
+        "t": 2072,
+        "heading": "Psalm 1 and Living Right in a Wrong World"
+      },
+      {
+        "t": 2219,
+        "heading": "Desensitization in the Home and Culture"
+      }
+    ]
+  }
 }

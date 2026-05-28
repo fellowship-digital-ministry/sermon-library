@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\kWms8xmaBZ4.vtt",
   "duration": 1637,
   "transcription_timestamp": "2025-04-17T17:03:34.932379",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 8:1-6 on the Shunammite woman's obedience to Elisha's warning of a seven-year famine, her sojourn in Philistia, and her restoration upon return, set within the continuing study of the life of Elisha.",
+    "themes": [
+      "divine judgment",
+      "famine",
+      "obedience",
+      "sovereignty of god",
+      "providence",
+      "restoration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: The Shunammite Woman"
+      },
+      {
+        "t": 190,
+        "heading": "Elisha's Declaration of Famine"
+      },
+      {
+        "t": 330,
+        "heading": "The Woman's Obedience and Departure"
+      },
+      {
+        "t": 659,
+        "heading": "Discussion with the King and Gehazi"
+      },
+      {
+        "t": 892,
+        "heading": "Providence in the Timing of Her Return"
+      },
+      {
+        "t": 1076,
+        "heading": "The King's Decree and Restoration"
+      }
+    ]
+  }
 }

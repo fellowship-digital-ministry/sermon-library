@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\giwhcbMIrNo.vtt",
   "duration": 2829,
   "transcription_timestamp": "2025-04-14T20:15:44.420651",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 2:12-17 on the victory available to believers through Christ, tracing Paul's interrupted travel narrative through Troas and Macedonia into a sustained treatment of triumph, gospel witness, and ministry integrity.",
+    "themes": [
+      "victory in christ",
+      "gospel witness",
+      "sufficiency of god",
+      "ministry integrity",
+      "spiritual defeat and dependence",
+      "the roman triumph as illustration"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Context: vv. 5-13"
+      },
+      {
+        "t": 287,
+        "heading": "Introduction: Victory in Jesus"
+      },
+      {
+        "t": 521,
+        "heading": "Source of Victory: God in Christ"
+      },
+      {
+        "t": 1034,
+        "heading": "Scene of Victory: The Roman Triumph Picture"
+      },
+      {
+        "t": 1594,
+        "heading": "Christ's Defeat of Principalities"
+      },
+      {
+        "t": 1833,
+        "heading": "Strategy for Victory: Dependence and Integrity"
+      },
+      {
+        "t": 2296,
+        "heading": "Old Testament Warnings Against Self-Dependence"
+      },
+      {
+        "t": 2623,
+        "heading": "Closing Appeal: Living Victoriously"
+      }
+    ]
+  }
 }

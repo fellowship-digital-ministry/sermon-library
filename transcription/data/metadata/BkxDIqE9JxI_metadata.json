@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BkxDIqE9JxI.vtt",
   "duration": 3159.0,
   "transcription_timestamp": "2026-05-27T14:37:08.179100",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 8:32-36 on freedom from the bondage of sin, set against a Memorial Day weekend context and drawing supporting passages from Romans 5, 6, 8, and 10, Galatians 5, Acts 17, and 2 Peter 2. The sermon traces the condition of humanity under the law of sin and death, the provision made through Christ, the individual choice to receive or reject the gospel, and the consequences of that choice.",
+    "themes": [
+      "bondage to sin",
+      "salvation and freedom in christ",
+      "the gospel offer",
+      "individual choice and accountability",
+      "false teaching",
+      "christian liberty"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Memorial Day and Freedom Introduced"
+      },
+      {
+        "t": 139,
+        "heading": "John 8 Context: Jesus Teaching at the Temple"
+      },
+      {
+        "t": 417,
+        "heading": "The Condition of Humanity: Sin and Bondage"
+      },
+      {
+        "t": 1072,
+        "heading": "The Compassion of Christ: The Cost of Freedom"
+      },
+      {
+        "t": 1398,
+        "heading": "The Choice of the Individual: Receive or Reject"
+      },
+      {
+        "t": 2102,
+        "heading": "The Consequence of the Choice"
+      },
+      {
+        "t": 2528,
+        "heading": "Freedom in Christ for Believers: Galatians 5"
+      }
+    ]
+  }
 }

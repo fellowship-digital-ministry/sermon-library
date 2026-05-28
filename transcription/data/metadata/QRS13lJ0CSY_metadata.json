@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\QRS13lJ0CSY.vtt",
   "duration": 2991,
   "transcription_timestamp": "2025-04-16T11:22:02.611357",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 5:16-21 on sin, divine protection, and God's provision as the concluding message in a year-long series through 1 John, organized around three movements: the peril of sin as a hindrance to fellowship, the protection God gives the born-again believer, and the provision God supplies through the incarnation, truth, and understanding.",
+    "themes": [
+      "fellowship with god",
+      "sin and chastisement",
+      "security of the believer",
+      "intercessory prayer",
+      "idolatry",
+      "knowing god through scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Fellowship Theme"
+      },
+      {
+        "t": 506,
+        "heading": "Introduction to Passage and Title"
+      },
+      {
+        "t": 599,
+        "heading": "Peril of Sin: Sin Not Unto Death"
+      },
+      {
+        "t": 1018,
+        "heading": "Sin Unto Death: Biblical Examples"
+      },
+      {
+        "t": 1587,
+        "heading": "Further Hindrances: Worldliness and Idolatry"
+      },
+      {
+        "t": 1823,
+        "heading": "Protection of God for the Born-Again"
+      },
+      {
+        "t": 2302,
+        "heading": "Provision of God: Incarnation, Truth, and Understanding"
+      }
+    ]
+  }
 }

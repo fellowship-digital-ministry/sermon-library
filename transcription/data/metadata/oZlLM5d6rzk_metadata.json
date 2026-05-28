@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oZlLM5d6rzk.vtt",
   "duration": 3111,
   "transcription_timestamp": "2025-04-15T10:55:12.780295",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 23:5 on the phrase 'my cup runneth over,' presenting five biblical reasons a child of God should declare abundance and gratitude, with supporting texts drawn from John 10, Romans 8, 1 Peter 3 and 5, Psalm 55, and 2 Corinthians 5. Part one of a two-part series preached in the context of the Thanksgiving season.",
+    "themes": [
+      "gratitude and thanksgiving",
+      "the good shepherd",
+      "god's love",
+      "salvation and reconciliation",
+      "god's provision",
+      "assurance of heaven"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 23"
+      },
+      {
+        "t": 91,
+        "heading": "Bookends of the Psalm"
+      },
+      {
+        "t": 321,
+        "heading": "The Cup Runneth Over Image"
+      },
+      {
+        "t": 459,
+        "heading": "Reason 1: My Shepherd Loves Me"
+      },
+      {
+        "t": 829,
+        "heading": "Reason 2: My Shepherd Died for Me"
+      },
+      {
+        "t": 1389,
+        "heading": "Reason 3: My Shepherd Found Me"
+      },
+      {
+        "t": 1618,
+        "heading": "Reason 4: My Shepherd Cares for Me"
+      },
+      {
+        "t": 2131,
+        "heading": "Reason 5: My Shepherd Provides for Me"
+      }
+    ]
+  }
 }

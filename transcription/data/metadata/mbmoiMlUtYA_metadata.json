@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/mbmoiMlUtYA.vtt",
   "duration": 3074.0,
   "transcription_timestamp": "2026-05-27T15:55:56.771375",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:19-27 on the obligation of believers to receive and act upon Scripture, structured around the distinction between hearing and doing the Word. Draws on Matthew 7:24-29, Psalm 119, Joshua 1, and Psalm 1 to develop the contrast between those who fail to apply God's Word and those who faithfully do so.",
+    "themes": [
+      "authority of scripture",
+      "hearing and doing",
+      "applying the word",
+      "worldliness and separation",
+      "sanctification",
+      "pure religion"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Theme"
+      },
+      {
+        "t": 139,
+        "heading": "Matthew 7: Wise and Foolish Builders"
+      },
+      {
+        "t": 370,
+        "heading": "James and the Exhortation Introduced"
+      },
+      {
+        "t": 511,
+        "heading": "Accepting the Bible as Authoritative"
+      },
+      {
+        "t": 798,
+        "heading": "Aligning Behavior with the Bible"
+      },
+      {
+        "t": 1602,
+        "heading": "Explanation: Hearers Who Fail to Apply"
+      },
+      {
+        "t": 1927,
+        "heading": "Explanation: Those Who Faithfully Apply"
+      },
+      {
+        "t": 2440,
+        "heading": "Example: Vain Religion versus Pure Religion"
+      }
+    ]
+  }
 }

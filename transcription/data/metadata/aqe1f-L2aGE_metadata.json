@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aqe1f-L2aGE.vtt",
   "duration": 2969,
   "transcription_timestamp": "2025-04-16T13:22:56.713240",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Nehemiah 1:1-11 on the need for revival, using Nehemiah's receipt of the report on Jerusalem and his fourfold response as a framework for examining the current condition of the American church. The first message in a three-part preparatory series preceding a scheduled revival meeting.",
+    "themes": [
+      "revival",
+      "church health",
+      "biblical worldview",
+      "bible reading",
+      "church attendance",
+      "confession of sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series and Revival Defined"
+      },
+      {
+        "t": 427,
+        "heading": "Nehemiah's Report Received"
+      },
+      {
+        "t": 613,
+        "heading": "Nehemiah's Fourfold Response"
+      },
+      {
+        "t": 711,
+        "heading": "Nehemiah's Prayer Examined"
+      },
+      {
+        "t": 1127,
+        "heading": "Report on the American Church"
+      },
+      {
+        "t": 1416,
+        "heading": "Statistics on Attendance and Bible Reading"
+      },
+      {
+        "t": 1796,
+        "heading": "Statistics on Pastoral and Congregational Worldview"
+      },
+      {
+        "t": 2313,
+        "heading": "The Church's Lost Voice and Way"
+      }
+    ]
+  }
 }

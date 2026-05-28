@@ -8,5 +8,46 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eY8FG8i08DM.vtt",
   "duration": 2034,
   "transcription_timestamp": "2025-04-17T15:17:12.766617",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 16 on the manna narrative as a divine test of faith and obedience, examining which Israelites passed or failed God's proving of His people in the wilderness.",
+    "themes": [
+      "faith and obedience",
+      "divine testing",
+      "murmuring and complaint",
+      "god's provision",
+      "living by faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage and Test Introduced"
+      },
+      {
+        "t": 98,
+        "heading": "Backdrop: Israel's Prior Miracles"
+      },
+      {
+        "t": 337,
+        "heading": "The Problem: Murmuring in the Wilderness"
+      },
+      {
+        "t": 576,
+        "heading": "The Provision: Manna and Quail"
+      },
+      {
+        "t": 899,
+        "heading": "The Proving: Instructions as a Test"
+      },
+      {
+        "t": 1037,
+        "heading": "Those Who Passed the Test"
+      },
+      {
+        "t": 1378,
+        "heading": "Those Who Failed the Test"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Bub30LEwKyg.vtt",
   "duration": 1715,
   "transcription_timestamp": "2025-04-17T20:26:15.201399",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 6:24-33 on the Syrian siege of Samaria, covering the famine conditions inside the besieged city, the cannibalism reported to King Jehoram, and Jehoram's irrational response against the prophet Elisha. Part 28 of a series through the lives of Elijah and Elisha.",
+    "themes": [
+      "siege warfare in the old testament",
+      "famine and desperation",
+      "idolatry and divine judgment",
+      "the character of king jehoram",
+      "elisha and prophetic knowledge",
+      "helplessness of human leadership"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Title"
+      },
+      {
+        "t": 46,
+        "heading": "Recap of Previous Passage"
+      },
+      {
+        "t": 190,
+        "heading": "Record of the Siege Begins"
+      },
+      {
+        "t": 382,
+        "heading": "Results of the Siege: Famine and Inflation"
+      },
+      {
+        "t": 614,
+        "heading": "Helplessness of King and People"
+      },
+      {
+        "t": 807,
+        "heading": "Cannibalism Reported to the King"
+      },
+      {
+        "t": 952,
+        "heading": "Jehoram's Response and Threat Against Elisha"
+      },
+      {
+        "t": 1196,
+        "heading": "Elisha's Calm and the King's Arrival"
+      }
+    ]
+  }
 }

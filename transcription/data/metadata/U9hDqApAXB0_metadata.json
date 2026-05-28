@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\U9hDqApAXB0.vtt",
   "duration": 2663,
   "transcription_timestamp": "2025-04-16T08:33:07.723993",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 3 John 1-8 on the character and testimony of Gaius, examining five traits drawn from John's commendation of him as 'well-beloved': obedience, servanthood, generosity, involvement in God's work, and exemplary Christian living.",
+    "themes": [
+      "obedience to scripture",
+      "christian service",
+      "generosity and giving",
+      "participation in ministry",
+      "spiritual testimony",
+      "fellow helpers to the truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to 3 John and Gaius"
+      },
+      {
+        "t": 325,
+        "heading": "Gaius Obedient to God's Word"
+      },
+      {
+        "t": 978,
+        "heading": "Gaius as a Faithful Servant"
+      },
+      {
+        "t": 1211,
+        "heading": "Gaius as a Generous Giver"
+      },
+      {
+        "t": 1859,
+        "heading": "Gaius Involved in God's Work"
+      },
+      {
+        "t": 2325,
+        "heading": "Gaius as an Exemplary Believer"
+      }
+    ]
+  }
 }

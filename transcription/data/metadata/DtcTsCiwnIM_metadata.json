@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DtcTsCiwnIM.vtt",
   "duration": 2445,
   "transcription_timestamp": "2025-04-14T19:42:37.673182",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:97 on loving the word of God, drawing on multiple verses from Psalm 119 alongside Joshua 1:8, Jeremiah 23:28-29, and 2 Timothy 2:15 to examine what genuine love for Scripture looks like in daily life.",
+    "themes": [
+      "love for scripture",
+      "bible reading",
+      "bible study",
+      "scripture memorization",
+      "meditation on the word",
+      "preservation of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 119 and Having a Bible"
+      },
+      {
+        "t": 227,
+        "heading": "Psalmist's Declarations of Love for the Word"
+      },
+      {
+        "t": 504,
+        "heading": "Purity, Perfection, and Preservation of Scripture"
+      },
+      {
+        "t": 837,
+        "heading": "Joshua 1:8 and Meditating Day and Night"
+      },
+      {
+        "t": 1264,
+        "heading": "Reading the Bible as Evidence of Love"
+      },
+      {
+        "t": 1639,
+        "heading": "Studying and Memorizing Scripture"
+      },
+      {
+        "t": 2061,
+        "heading": "Meditating and Thinking Biblically"
+      },
+      {
+        "t": 2155,
+        "heading": "Sharing the Word as Overflow of Love"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\TeWW6mhl9W8.vtt",
   "duration": 3084,
   "transcription_timestamp": "2025-04-17T14:05:12.031925",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:4-7 on three Old Testament figures (Abel, Enoch, and Noah) as examples of living by faith, set within a multi-part series on Hebrews 11. Genesis 3-8 is drawn upon extensively to supply the background for each figure.",
+    "themes": [
+      "living by faith",
+      "worship",
+      "walking with god",
+      "obedience",
+      "salvation by grace",
+      "old testament typology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 235,
+        "heading": "Reading of Hebrews 11:4-7"
+      },
+      {
+        "t": 329,
+        "heading": "The Worship of Abel"
+      },
+      {
+        "t": 706,
+        "heading": "Abel and Cain in Genesis 4"
+      },
+      {
+        "t": 1501,
+        "heading": "The Walk of Enoch"
+      },
+      {
+        "t": 2068,
+        "heading": "The Work of Noah"
+      },
+      {
+        "t": 2623,
+        "heading": "Twofold Result of Noah's Work"
+      },
+      {
+        "t": 2809,
+        "heading": "Closing Summary and Application"
+      }
+    ]
+  }
 }

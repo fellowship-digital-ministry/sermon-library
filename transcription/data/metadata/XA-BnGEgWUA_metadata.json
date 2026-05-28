@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XA-BnGEgWUA.vtt",
   "duration": 2570,
   "transcription_timestamp": "2025-04-16T01:34:52.580465",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 4:4-5 on God's plan of redemption, tracing its necessity, its revelation of divine grace and love, the opposition it faced, and its universal reach. Part of a year-long series on the greatness of God, drawing also from Ephesians 1, 1 Timothy 1-2, Matthew 2, Matthew 26-27, and 2 Peter 3:9.",
+    "themes": [
+      "redemption",
+      "sin and its consequences",
+      "grace and love of god",
+      "opposition to god's plan",
+      "salvation by faith alone",
+      "universal offer of the gospel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 327,
+        "heading": "Why the Plan Was Required"
+      },
+      {
+        "t": 845,
+        "heading": "What the Plan Reveals"
+      },
+      {
+        "t": 1126,
+        "heading": "Opposition to the Plan"
+      },
+      {
+        "t": 1737,
+        "heading": "Who the Plan Reaches"
+      },
+      {
+        "t": 1973,
+        "heading": "Personal Application and the New Birth"
+      },
+      {
+        "t": 2350,
+        "heading": "Call to Share the Plan"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/B7qA98qbh00.vtt",
   "duration": 2229.0,
   "transcription_timestamp": "2026-05-27T14:44:21.789288",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:17-19 on Abraham's trial at Moriah as a model for navigating trials through obedience, fact-based faith, and expectation of God's working. Three practical principles are drawn from verses 17, 18, and 19 in the context of a Wednesday evening study series on living by faith.",
+    "themes": [
+      "trials and faith",
+      "obedience under trial",
+      "facts versus feelings",
+      "expecting god to work",
+      "abraham as example",
+      "spiritual development through suffering"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Text Introduced: Hebrews 11:17-19"
+      },
+      {
+        "t": 91,
+        "heading": "Trials as Part of Life"
+      },
+      {
+        "t": 326,
+        "heading": "Three Principles Previewed"
+      },
+      {
+        "t": 422,
+        "heading": "Principle One: Continued Obedience"
+      },
+      {
+        "t": 980,
+        "heading": "Principle Two: Facts Over Feelings"
+      },
+      {
+        "t": 1732,
+        "heading": "Principle Three: Expecting God to Work"
+      },
+      {
+        "t": 2149,
+        "heading": "Closing Summary and Prayer"
+      }
+    ]
+  }
 }

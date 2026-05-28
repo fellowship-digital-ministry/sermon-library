@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ufTU8EXV5N8.vtt",
   "duration": 1758,
   "transcription_timestamp": "2025-04-17T04:33:01.391597",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Peter 1:3-9 on the nature and purpose of trials in the believer's life, set against the backdrop of persecution faced by scattered first-century Christians. Draws supporting material from 1 Peter 4-5, James 1, Job 23, and 2 Corinthians 4 to address perspective and spiritual fruit produced through testing.",
+    "themes": [
+      "trials and suffering",
+      "faith tested",
+      "eternal perspective",
+      "spiritual maturity",
+      "perseverance",
+      "the temporary nature of affliction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in 1 Peter 1:3-5"
+      },
+      {
+        "t": 143,
+        "heading": "Transition to Trials in vv. 6-9"
+      },
+      {
+        "t": 291,
+        "heading": "The Question of Why Trials"
+      },
+      {
+        "t": 579,
+        "heading": "Perspective on Trials: Temporary, Necessary, Common"
+      },
+      {
+        "t": 950,
+        "heading": "Paul's Example in 2 Corinthians 4"
+      },
+      {
+        "t": 1088,
+        "heading": "What Trials Produce: Refining, Patience, Maturity"
+      },
+      {
+        "t": 1467,
+        "heading": "Closing: Eternal vs. Temporal Focus"
+      }
+    ]
+  }
 }

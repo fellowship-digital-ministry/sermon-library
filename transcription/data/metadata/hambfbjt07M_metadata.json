@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\hambfbjt07M.vtt",
   "duration": 2960,
   "transcription_timestamp": "2025-04-17T20:54:46.534449",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 28:1-10 on the resurrection of Jesus Christ, drawing also on 1 Corinthians 15, Acts 1, and Acts 17 to establish the historical evidence and doctrinal centrality of the bodily resurrection.",
+    "themes": [
+      "resurrection of christ",
+      "evidence for the resurrection",
+      "the gospel",
+      "worship of christ",
+      "prophecy fulfilled",
+      "salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Texts on the Risen Christ"
+      },
+      {
+        "t": 194,
+        "heading": "Resurrection as Cornerstone of Faith"
+      },
+      {
+        "t": 435,
+        "heading": "The Angel's Interaction with the Women"
+      },
+      {
+        "t": 1042,
+        "heading": "Christ's Prior Predictions of His Resurrection"
+      },
+      {
+        "t": 1505,
+        "heading": "Invitation to See the Empty Tomb"
+      },
+      {
+        "t": 1918,
+        "heading": "Instruction to Tell the Disciples"
+      },
+      {
+        "t": 2386,
+        "heading": "Paul at Mars Hill and Threefold Response"
+      },
+      {
+        "t": 2573,
+        "heading": "Call to Personal Response and Salvation"
+      }
+    ]
+  }
 }

@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DoWaLkMdeTk.vtt",
   "duration": 3140,
   "transcription_timestamp": "2025-04-15T06:43:57.444474",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 2:1-12 on the healing of the paralytic at Capernaum, used as a framework for examining the responsibility of believers to bring lost people to Christ, preached as preparation for an annual missions conference.",
+    "themes": [
+      "evangelism and outreach",
+      "missions",
+      "concern for the lost",
+      "confidence in the gospel",
+      "cooperation in gospel work",
+      "forgiveness of sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Missions Conference Context"
+      },
+      {
+        "t": 235,
+        "heading": "Reading of Mark 2:1-12"
+      },
+      {
+        "t": 465,
+        "heading": "The Concern of the Four Friends"
+      },
+      {
+        "t": 799,
+        "heading": "Confidence in Christ's Power"
+      },
+      {
+        "t": 1223,
+        "heading": "Cooperation and Determination"
+      },
+      {
+        "t": 1737,
+        "heading": "The Compassion of Christ and Forgiveness"
+      },
+      {
+        "t": 2126,
+        "heading": "Scriptural Basis for Forgiveness"
+      },
+      {
+        "t": 2750,
+        "heading": "Closing Testimony and Application"
+      }
+    ]
+  }
 }

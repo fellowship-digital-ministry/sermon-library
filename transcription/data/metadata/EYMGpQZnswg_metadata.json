@@ -8,5 +8,50 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EYMGpQZnswg.vtt",
   "duration": 1773,
   "transcription_timestamp": "2025-04-17T01:50:39.848752",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 3:1-2 on the reality of opposition faced by David during Absalom's rebellion, set against the historical background of 2 Samuel 15-16. Part one of a four-part series through Psalm 3, focusing on the psalmist's acknowledgment that enemies are multiplied and that many deny God's ability to help.",
+    "themes": [
+      "opposition and persecution",
+      "the rebellion of absalom",
+      "spiritual warfare",
+      "the reality of adversity",
+      "biblical christianity under attack"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Psalm 3 Overview"
+      },
+      {
+        "t": 141,
+        "heading": "Historical Setting: Absalom's Rebellion"
+      },
+      {
+        "t": 233,
+        "heading": "2 Samuel 15: The Conspiracy Against David"
+      },
+      {
+        "t": 516,
+        "heading": "Psalm 3:1-2: The Reality of the Situation"
+      },
+      {
+        "t": 795,
+        "heading": "New Testament Parallels: Opposition to the Gospel"
+      },
+      {
+        "t": 984,
+        "heading": "John 15-16: Jesus Prepares Disciples for Hatred"
+      },
+      {
+        "t": 1215,
+        "heading": "Acts 5: Rejoicing Under Persecution"
+      },
+      {
+        "t": 1356,
+        "heading": "Preview of Response in Psalm 3:3-4"
+      }
+    ]
+  }
 }

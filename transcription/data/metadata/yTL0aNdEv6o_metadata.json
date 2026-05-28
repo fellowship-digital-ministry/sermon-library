@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\yTL0aNdEv6o.vtt",
   "duration": 3309,
   "transcription_timestamp": "2025-04-17T03:27:08.790702",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 14:1-3 on the promise of Christ's return, tracing the phrase 'I will come again' through Acts 1, 2 Peter 3, 1 Thessalonians 4, and 2 Corinthians 5 to examine the simplicity and significance of that promise for believers and unbelievers alike.",
+    "themes": [
+      "second coming of christ",
+      "blessed hope",
+      "evangelism and soul-winning",
+      "divine promise and faithfulness",
+      "rapture",
+      "judgment and salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Christ's Return in View"
+      },
+      {
+        "t": 139,
+        "heading": "John 14 Context: Troubled Disciples"
+      },
+      {
+        "t": 325,
+        "heading": "Simplicity of the Promise"
+      },
+      {
+        "t": 691,
+        "heading": "Acts 1: Ascension and Angelic Confirmation"
+      },
+      {
+        "t": 1062,
+        "heading": "2 Peter 3: Scoffers, Patience, and Delay"
+      },
+      {
+        "t": 1804,
+        "heading": "1 Thessalonians 4: Significance for Believers"
+      },
+      {
+        "t": 2368,
+        "heading": "Significance for the Unsaved and Gospel Appeal"
+      }
+    ]
+  }
 }

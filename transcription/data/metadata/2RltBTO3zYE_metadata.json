@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2RltBTO3zYE.vtt",
   "duration": 3092,
   "transcription_timestamp": "2025-04-15T23:40:06.162962",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 12:3 on the command to 'consider Christ,' tracing the portrait of Christ through the book of Hebrews and examining how that meditation should shape the believer's love, service, speech, and obedience.",
+    "themes": [
+      "the person of christ",
+      "meditation on scripture",
+      "the high priesthood of christ",
+      "substitutionary atonement",
+      "christian obedience",
+      "eternal salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Annual Theme"
+      },
+      {
+        "t": 229,
+        "heading": "The Command to Consider Christ"
+      },
+      {
+        "t": 461,
+        "heading": "Christ in Hebrews 1 and 2"
+      },
+      {
+        "t": 1017,
+        "heading": "Christ as Great High Priest"
+      },
+      {
+        "t": 1432,
+        "heading": "Christ's Blood and Eternal Redemption"
+      },
+      {
+        "t": 2125,
+        "heading": "Christ's Presence, Immutability, and Return"
+      },
+      {
+        "t": 2401,
+        "heading": "Four Responses to Considering Christ"
+      }
+    ]
+  }
 }

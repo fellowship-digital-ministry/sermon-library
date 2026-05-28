@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/1PzvpRN8FKE.vtt",
   "duration": 2440.0,
   "transcription_timestamp": "2026-05-27T16:08:06.364285",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 5:1-14 on the sealed scroll, the identity and worthiness of Christ as the Lamb, and the heavenly worship scene in the throne room. Draws on Daniel 12, Genesis 49, Isaiah 9 and 11, Colossians 2, and Hebrews 2 to establish Christ's prevailing authority and the redemptive basis of the new song sung by the assembled heavenly choir.",
+    "themes": [
+      "the sealed scroll",
+      "worthiness of christ",
+      "heavenly worship",
+      "redemption by the blood",
+      "tribulation and the 70th week of daniel",
+      "the redeemed in heaven"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Book of Revelation Outline"
+      },
+      {
+        "t": 276,
+        "heading": "The Scroll: Description and Despair"
+      },
+      {
+        "t": 372,
+        "heading": "Connection to Daniel's Sealed Book"
+      },
+      {
+        "t": 556,
+        "heading": "The Tribulation, the 70th Week, and Israel"
+      },
+      {
+        "t": 742,
+        "heading": "The Savior: Announcement and Appearance"
+      },
+      {
+        "t": 1353,
+        "heading": "The Savior's Authority: Taking the Book"
+      },
+      {
+        "t": 1491,
+        "heading": "The Song: Choir, Lyrics, and Redemption"
+      },
+      {
+        "t": 2192,
+        "heading": "The Response: Elders Worship the Lamb"
+      }
+    ]
+  }
 }

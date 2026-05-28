@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\eoPrxxfMgiw.vtt",
   "duration": 2476,
   "transcription_timestamp": "2025-04-16T15:55:51.010823",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:28 through 3:3 on the certainty of Christ's return and its practical effect on the believer's daily life, drawing on parallel passages in John 14, John 21, and Acts 1 to establish the eyewitness foundation of John's confidence.",
+    "themes": [
+      "return of christ",
+      "abiding in christ",
+      "purity and holiness",
+      "sonship and the love of god",
+      "readiness and accountability",
+      "certainty of biblical promises"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Context"
+      },
+      {
+        "t": 92,
+        "heading": "Present Responsibility Amid Prophecy"
+      },
+      {
+        "t": 326,
+        "heading": "Certainty of Christ's Return"
+      },
+      {
+        "t": 465,
+        "heading": "John as Eyewitness of the Promise"
+      },
+      {
+        "t": 1024,
+        "heading": "Impact of the Return on the Believer"
+      },
+      {
+        "t": 1215,
+        "heading": "Sonship and the Love of God"
+      },
+      {
+        "t": 1689,
+        "heading": "Purifying Effect of the Hope of His Appearing"
+      },
+      {
+        "t": 1876,
+        "heading": "Warning from Jeremiah and Closing Application"
+      }
+    ]
+  }
 }

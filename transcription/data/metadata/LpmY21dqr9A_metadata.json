@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/LpmY21dqr9A.vtt",
   "duration": 2492.0,
   "transcription_timestamp": "2026-05-27T17:55:36.977348",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 10:38-42 on the danger of busyness crowding out time with Christ, drawn from the contrasting responses of Martha and Mary to Jesus's presence in their home.",
+    "themes": [
+      "busyness",
+      "sitting at the feet of jesus",
+      "bible reading and church attendance",
+      "the lord's day",
+      "priorities",
+      "serving versus hearing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Busy Lives, Familiar Passage"
+      },
+      {
+        "t": 282,
+        "heading": "Reading of Luke 10:38-42"
+      },
+      {
+        "t": 563,
+        "heading": "Martha Received Him"
+      },
+      {
+        "t": 704,
+        "heading": "Martha Served Him"
+      },
+      {
+        "t": 1025,
+        "heading": "Mary Heard Him"
+      },
+      {
+        "t": 1356,
+        "heading": "One Thing Is Needful"
+      },
+      {
+        "t": 1974,
+        "heading": "Isaiah 58 and the Lord's Day"
+      }
+    ]
+  }
 }

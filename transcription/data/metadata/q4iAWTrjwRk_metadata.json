@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/q4iAWTrjwRk.vtt",
   "duration": 3136.0,
   "transcription_timestamp": "2026-05-27T17:52:02.545818",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 11:16-33 on the trials and testimony of the Apostle Paul, set against the boasting of Judaizing false teachers at Corinth. Paul's catalog of sufferings is examined alongside Philippians 3:10 on the fellowship of Christ's sufferings.",
+    "themes": [
+      "suffering for the gospel",
+      "trials and persecution",
+      "boasting and humility",
+      "faithfulness in ministry",
+      "the care of the churches",
+      "god's deliverance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Paul and the Corinthian Climate"
+      },
+      {
+        "t": 188,
+        "heading": "Paul's Reluctant Boasting Explained"
+      },
+      {
+        "t": 375,
+        "heading": "Philippians 3:10 and the Fellowship of Sufferings"
+      },
+      {
+        "t": 608,
+        "heading": "Trials to Be Expected"
+      },
+      {
+        "t": 977,
+        "heading": "External and Internal Trials Cataloged"
+      },
+      {
+        "t": 1995,
+        "heading": "Glorying in Infirmities: The Testimony Introduced"
+      },
+      {
+        "t": 2135,
+        "heading": "The Damascus Basket: First Trial, First Deliverance"
+      },
+      {
+        "t": 2684,
+        "heading": "Trials Endured by God's Power"
+      }
+    ]
+  }
 }

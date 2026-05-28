@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\WWyt51Xo6PQ.vtt",
   "duration": 2841,
   "transcription_timestamp": "2025-04-17T03:06:20.114000",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:22-4:1 on Christian conduct in the workplace, drawing the servant-master relationship into the context of modern employment and evangelism.",
+    "themes": [
+      "workplace conduct",
+      "integrity",
+      "obedience to authority",
+      "impartiality",
+      "workplace evangelism",
+      "sanctification in daily life"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Review of Colossians 3 So Far"
+      },
+      {
+        "t": 279,
+        "heading": "Applying Servant-Master Text to Employment"
+      },
+      {
+        "t": 464,
+        "heading": "The Principle: Obedience and Integrity"
+      },
+      {
+        "t": 742,
+        "heading": "The Perspective: Working as unto the Lord"
+      },
+      {
+        "t": 1302,
+        "heading": "Eliminating Partiality in the Workplace"
+      },
+      {
+        "t": 1671,
+        "heading": "The Workplace as a Mission Field"
+      }
+    ]
+  }
 }

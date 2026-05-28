@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ih2lvcJJaCE.vtt",
   "duration": 2979,
   "transcription_timestamp": "2025-04-17T05:09:43.472627",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:4 on the phrase 'Christ who is our life' and the promised appearing of believers with Christ at his second advent, with extended treatment of pretribulation rapture, the tribulation period, and the distinction between Israel and the church.",
+    "themes": [
+      "preeminence of christ",
+      "second coming of christ",
+      "rapture of the church",
+      "israel and the church",
+      "eschatology and prophecy",
+      "eternal life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Colossians 3:1-3"
+      },
+      {
+        "t": 137,
+        "heading": "Nature and Prophecy of Scripture"
+      },
+      {
+        "t": 377,
+        "heading": "The Parenthetical Phrase: Christ Who Is Our Life"
+      },
+      {
+        "t": 1122,
+        "heading": "The Declared Promise of His Appearing"
+      },
+      {
+        "t": 1362,
+        "heading": "Rapture Versus Second Advent Distinguished"
+      },
+      {
+        "t": 2032,
+        "heading": "Israel and the Church as Distinct Entities"
+      },
+      {
+        "t": 2364,
+        "heading": "Purpose and Scope of the Tribulation"
+      },
+      {
+        "t": 2600,
+        "heading": "Motivation and Application of the Promise"
+      }
+    ]
+  }
 }

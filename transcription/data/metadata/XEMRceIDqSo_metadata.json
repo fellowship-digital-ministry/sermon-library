@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\XEMRceIDqSo.vtt",
   "duration": 2417,
   "transcription_timestamp": "2025-04-16T08:16:02.804728",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Kings 17:8-16 on God's care for his people, tracing Elijah's journey from the Brook Cherith to Zarephath and the miraculous provision for Elijah, a widow, and her son during a drought.",
+    "themes": [
+      "god's care for his people",
+      "divine provision",
+      "obedience to god's direction",
+      "promises of god",
+      "faith",
+      "god's power"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 415,
+        "heading": "God's Plan: Direction to Zarephath"
+      },
+      {
+        "t": 509,
+        "heading": "Elijah as a Marked Man"
+      },
+      {
+        "t": 833,
+        "heading": "God's Promise to Sustain Elijah"
+      },
+      {
+        "t": 1161,
+        "heading": "Elijah Arrives and Meets the Widow"
+      },
+      {
+        "t": 1720,
+        "heading": "God's Power: The Meal and Oil Sustained"
+      }
+    ]
+  }
 }

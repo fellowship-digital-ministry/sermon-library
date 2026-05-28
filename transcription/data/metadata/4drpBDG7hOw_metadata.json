@@ -8,5 +8,47 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/4drpBDG7hOw.vtt",
   "duration": 2617.0,
   "transcription_timestamp": "2026-05-27T17:47:34.042131",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 12:1-10 on humility as a priority in the Christian life, tracing Paul's visions and revelations, his thorn in the flesh, and God's answer that His grace is sufficient. The passage is set against the backdrop of pride and contention in the Corinthian church caused by boasting false teachers.",
+    "themes": [
+      "humility",
+      "pride",
+      "suffering and thorns",
+      "dependence on god",
+      "god's grace",
+      "visions and revelation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context in 2 Corinthians 11-12"
+      },
+      {
+        "t": 237,
+        "heading": "Pride and Contention in Corinth"
+      },
+      {
+        "t": 378,
+        "heading": "Paul Given Visions and Revelations"
+      },
+      {
+        "t": 844,
+        "heading": "Sufficiency of Scripture Over New Revelations"
+      },
+      {
+        "t": 1032,
+        "heading": "Paul Given a Thorn in the Flesh"
+      },
+      {
+        "t": 1541,
+        "heading": "Paul Given an Answer: Grace Is Sufficient"
+      },
+      {
+        "t": 2111,
+        "heading": "Call to Be Clothed with Humility"
+      }
+    ]
+  }
 }

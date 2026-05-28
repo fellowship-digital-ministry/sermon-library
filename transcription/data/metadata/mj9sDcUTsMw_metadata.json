@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\mj9sDcUTsMw.vtt",
   "duration": 1608,
   "transcription_timestamp": "2025-04-15T00:03:11.433240",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A practical walkthrough of gospel presentation verses and conversational method, built on Matthew 4:19, forming part three of a series on personal evangelism. Covers the specific scriptures used when leading someone through the gospel step by step, from establishing sin to accepting salvation.",
+    "themes": [
+      "personal evangelism",
+      "gospel presentation",
+      "soul winning",
+      "salvation by grace",
+      "scripture memory",
+      "door-to-door witnessing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Scripture Memory"
+      },
+      {
+        "t": 93,
+        "heading": "Opening Verses: John 14:6 and John 3:16"
+      },
+      {
+        "t": 186,
+        "heading": "Asking Questions vs. Arguing Religion"
+      },
+      {
+        "t": 375,
+        "heading": "Focusing on Assurance of Heaven"
+      },
+      {
+        "t": 796,
+        "heading": "Step One: Recognizing Sin (Romans 3)"
+      },
+      {
+        "t": 933,
+        "heading": "Step Two: The Penalty for Sin (Romans 6:23)"
+      },
+      {
+        "t": 1164,
+        "heading": "Step Three: Christ's Death and Resurrection"
+      },
+      {
+        "t": 1260,
+        "heading": "Step Four: Accepting the Free Gift (Romans 10)"
+      }
+    ]
+  }
 }

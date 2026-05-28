@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\_-JIAWqr-ME.vtt",
   "duration": 3386,
   "transcription_timestamp": "2025-04-17T07:20:19.086642",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 1:12-17 on the purpose of Christ's incarnation to save sinners, tracing Paul's testimony of mercy received and the pattern that testimony establishes for all who believe, with supporting passages from Genesis 3, Genesis 22, Exodus 12, Isaiah 53, Romans 10, and 1 Peter 1.",
+    "themes": [
+      "substitutionary atonement",
+      "salvation",
+      "paul's conversion",
+      "mercy and grace",
+      "gospel witness",
+      "praise and worship"
+    ],
+    "sections": [
+      {
+        "t": 48,
+        "heading": "Reading of 1 Timothy 1:12-17"
+      },
+      {
+        "t": 144,
+        "heading": "Paul's Conversion and Ministry Background"
+      },
+      {
+        "t": 341,
+        "heading": "The Purpose: Christ Came to Save Sinners"
+      },
+      {
+        "t": 676,
+        "heading": "Substitutionary Atonement Through Scripture"
+      },
+      {
+        "t": 1859,
+        "heading": "The Pattern: Paul as Chief of Sinners"
+      },
+      {
+        "t": 2186,
+        "heading": "Romans 10 and the Call to Gospel Witness"
+      },
+      {
+        "t": 2603,
+        "heading": "The Praise: Response to Redemption"
+      }
+    ]
+  }
 }

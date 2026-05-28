@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\aTSM21mPzc0.vtt",
   "duration": 2636,
   "transcription_timestamp": "2025-04-14T18:59:34.449425",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 5:18-20 on the believer's role as an ambassador for Christ, centered on the twin themes of privilege and purpose in the ministry of reconciliation.",
+    "themes": [
+      "ambassadorship",
+      "reconciliation",
+      "evangelism",
+      "gospel witness",
+      "citizenship in heaven",
+      "urgency for souls"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Introduction to the Ambassador Title"
+      },
+      {
+        "t": 429,
+        "heading": "Reading of 2 Corinthians 5:18-20"
+      },
+      {
+        "t": 478,
+        "heading": "The Privilege of Being an Ambassador"
+      },
+      {
+        "t": 1076,
+        "heading": "The Purpose of the Ambassador"
+      },
+      {
+        "t": 1541,
+        "heading": "Reconciliation Defined in Romans 5 and Ephesians 2"
+      },
+      {
+        "t": 2099,
+        "heading": "Active Pleading as the Ambassador's Duty"
+      }
+    ]
+  }
 }

@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\2-7TNtHtf_0.vtt",
   "duration": 2769,
   "transcription_timestamp": "2025-05-12T15:43:05.840341",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ruth 3:11 on the description of Ruth as a virtuous woman, paired with Proverbs 12:4 and Proverbs 31:10, delivered on Mother's Day. The sermon traces the phrase 'virtuous woman' across its three biblical occurrences and examines Ruth's character as a model of value, testimony, and generational influence.",
+    "themes": [
+      "virtuous woman",
+      "testimony",
+      "motherhood",
+      "influence",
+      "the book of ruth",
+      "mother's day"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Ruth and the Kinsman Redeemer"
+      },
+      {
+        "t": 91,
+        "heading": "History of Mother's Day"
+      },
+      {
+        "t": 231,
+        "heading": "The Phrase 'Virtuous Woman' in Scripture"
+      },
+      {
+        "t": 459,
+        "heading": "A Virtuous Woman Is Invaluable"
+      },
+      {
+        "t": 876,
+        "heading": "A Virtuous Woman Is Identifiable"
+      },
+      {
+        "t": 1663,
+        "heading": "A Virtuous Woman Is Influential"
+      },
+      {
+        "t": 2217,
+        "heading": "Timothy, Lois, and Eunice"
+      }
+    ]
+  }
 }

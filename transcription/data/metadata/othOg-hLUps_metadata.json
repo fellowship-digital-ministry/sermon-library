@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\othOg-hLUps.vtt",
   "duration": 2780,
   "transcription_timestamp": "2025-04-14T20:35:14.147453",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 1:12-2:4 on how the apostle Paul responded to criticism and accusations of inconsistency arising from a change in his travel plans to Corinth, set within a series on 2 Corinthians under the theme of God's sufficient grace.",
+    "themes": [
+      "misunderstanding and conflict",
+      "self-examination",
+      "conscience",
+      "integrity",
+      "christian unity",
+      "pastoral concern"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Background: Paul's Changed Plans and the Resulting Criticism"
+      },
+      {
+        "t": 510,
+        "heading": "First Response: Paul Examines Himself"
+      },
+      {
+        "t": 649,
+        "heading": "A Clear Conscience Before God and Men"
+      },
+      {
+        "t": 984,
+        "heading": "Accountability to God and the Judgment Seat"
+      },
+      {
+        "t": 1450,
+        "heading": "Second Response: Paul Explains Himself"
+      },
+      {
+        "t": 1543,
+        "heading": "Explanation by Character, Concern, and Charity"
+      },
+      {
+        "t": 2523,
+        "heading": "Examination Before Explanation: Summary of the Pattern"
+      }
+    ]
+  }
 }

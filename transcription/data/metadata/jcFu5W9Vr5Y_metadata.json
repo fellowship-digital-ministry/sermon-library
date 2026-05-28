@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\jcFu5W9Vr5Y.vtt",
   "duration": 2622,
   "transcription_timestamp": "2025-04-15T09:15:39.163396",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 47:1-12 and 28-31 on Jacob's final seventeen years in Egypt, tracing the place and provision given to Jacob's family in Goshen and Jacob's reflection on his life as a pilgrimage near the time of his death.",
+    "themes": [
+      "providence",
+      "forgiveness",
+      "god's will",
+      "provision",
+      "pilgrimage and mortality",
+      "joseph and his brothers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Jacob and Joseph Reunited"
+      },
+      {
+        "t": 232,
+        "heading": "Joseph Presents Family to Pharaoh"
+      },
+      {
+        "t": 375,
+        "heading": "A Place in the Best of the Land"
+      },
+      {
+        "t": 892,
+        "heading": "Provision for Jacob's Household"
+      },
+      {
+        "t": 1170,
+        "heading": "Joseph's Forgiveness Illustrated"
+      },
+      {
+        "t": 1871,
+        "heading": "Jacob Reflects on His Pilgrimage"
+      },
+      {
+        "t": 2200,
+        "heading": "Self-Examination and Life as a Vapor"
+      }
+    ]
+  }
 }

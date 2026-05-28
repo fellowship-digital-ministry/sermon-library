@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Du5TlyOkMiw.vtt",
   "duration": 2935,
   "transcription_timestamp": "2025-04-17T05:19:52.463778",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 3:1-3 on the believer's identity and priorities in Christ, set within a series through the book of Colossians. The passage is read against supporting texts in John, Romans, Galatians, Matthew, and 1 John to develop two organizing concerns: the Christian's position as one risen with Christ, and the pursuits that should follow from that position.",
+    "themes": [
+      "position in christ",
+      "eternal perspective",
+      "worldly pursuits versus heavenly pursuits",
+      "identity of the believer",
+      "affections and priorities",
+      "dead to sin, alive to god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Colossians 3"
+      },
+      {
+        "t": 376,
+        "heading": "Colossians 3:1-3 Read and Introduced"
+      },
+      {
+        "t": 423,
+        "heading": "Mindful of Position: Risen with Christ"
+      },
+      {
+        "t": 799,
+        "heading": "Dead to Sin, Alive to God"
+      },
+      {
+        "t": 1126,
+        "heading": "In the World but Not of the World"
+      },
+      {
+        "t": 1499,
+        "heading": "Mindful of Pursuits: Seeking Things Above"
+      },
+      {
+        "t": 2215,
+        "heading": "Earthly Treasure Versus Heavenly Treasure"
+      },
+      {
+        "t": 2550,
+        "heading": "Eternal Focus and Closing Appeal"
+      }
+    ]
+  }
 }

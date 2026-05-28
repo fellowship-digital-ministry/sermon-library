@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\k6oXir_mJ3I.vtt",
   "duration": 2765,
   "transcription_timestamp": "2025-04-16T14:18:58.047128",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 3:19-24 on three blessings identified as resulting from obedience: assurance of heart, answered prayer, and the abiding presence of the Holy Spirit. The passage is treated as a continuation of the preceding study on loving the brethren (vv. 11-18), with the dual commandment of believing on Christ and loving one another as its doctrinal center.",
+    "themes": [
+      "obedience and blessing",
+      "assurance of salvation",
+      "answered prayer",
+      "the holy spirit",
+      "love for the brethren",
+      "the indwelling spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Obedience and Blessing in Scripture"
+      },
+      {
+        "t": 324,
+        "heading": "The Dual Commandment of 1 John 3:23"
+      },
+      {
+        "t": 791,
+        "heading": "First Blessing: Assurance of Heart"
+      },
+      {
+        "t": 1204,
+        "heading": "Second Blessing: Answered Prayer"
+      },
+      {
+        "t": 1930,
+        "heading": "Third Blessing: The Abiding Presence"
+      },
+      {
+        "t": 2411,
+        "heading": "Self-Examination and Obedience"
+      }
+    ]
+  }
 }

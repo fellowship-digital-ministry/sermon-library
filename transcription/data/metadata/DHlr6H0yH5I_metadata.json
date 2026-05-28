@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\DHlr6H0yH5I.vtt",
   "duration": 2213,
   "transcription_timestamp": "2025-04-17T14:31:15.043424",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 4:13 on the phrase 'they had been with Jesus,' examining what the religious leaders observed in Peter and John and what consistent fellowship with God produces in the believer. Supporting passages include 1 John 1, Acts 5, Romans 15:13, Isaiah 26:3, and Colossians 3:15.",
+    "themes": [
+      "fellowship with god",
+      "prayer and bible reading",
+      "boldness",
+      "hardship and preparation",
+      "the holy spirit",
+      "daily walk with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Context and Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "Acts 4 Background: Peter and John Questioned"
+      },
+      {
+        "t": 189,
+        "heading": "Verse 13 and Sermon Focus"
+      },
+      {
+        "t": 558,
+        "heading": "The Privilege of Fellowship"
+      },
+      {
+        "t": 950,
+        "heading": "Fellowship Prepares for Hardship"
+      },
+      {
+        "t": 1330,
+        "heading": "The Products of Fellowship"
+      },
+      {
+        "t": 1794,
+        "heading": "Boldness as a Product of Fellowship"
+      },
+      {
+        "t": 1933,
+        "heading": "Intentionality in Seeking Fellowship"
+      }
+    ]
+  }
 }

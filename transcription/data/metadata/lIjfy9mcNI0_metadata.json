@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lIjfy9mcNI0.vtt",
   "duration": 2258,
   "transcription_timestamp": "2025-04-15T08:43:16.559618",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 11:23-31 on the Lord's Supper as a local church ordinance, organized around three aspects of observance: reflection on Christ's sacrifice, rejoicing in his resurrection and return, and self-examination as a call to refocus.",
+    "themes": [
+      "lord's supper",
+      "church ordinances",
+      "self-examination",
+      "substitutionary atonement",
+      "resurrection",
+      "second coming of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Two Church Ordinances"
+      },
+      {
+        "t": 95,
+        "heading": "Reading of 1 Corinthians 11:23-31"
+      },
+      {
+        "t": 234,
+        "heading": "Reflection on Christ's Body and Blood"
+      },
+      {
+        "t": 705,
+        "heading": "Rejoicing in Resurrection and Exaltation"
+      },
+      {
+        "t": 992,
+        "heading": "Rejoicing in Christ's Promised Return"
+      },
+      {
+        "t": 1332,
+        "heading": "Refocusing Through Self-Examination"
+      },
+      {
+        "t": 1771,
+        "heading": "Position in Christ and Eternal Purpose"
+      }
+    ]
+  }
 }

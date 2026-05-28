@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\EOBB4xsyduY.vtt",
   "duration": 2241,
   "transcription_timestamp": "2025-04-17T13:06:30.497374",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of the moral attributes of God, part two of a series on theology drawn from a mid-week detour within an exposition of Titus 2:1, framed by Psalm 150:2 and Jeremiah 10:6. Seven moral attributes are surveyed: holiness, righteousness, faithfulness, love, compassion, grace, and mercy.",
+    "themes": [
+      "attributes of god",
+      "theology",
+      "holiness",
+      "grace and mercy",
+      "the love of god",
+      "sound doctrine"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Titus 2:1"
+      },
+      {
+        "t": 93,
+        "heading": "Moral Attributes Introduced via Psalm 150"
+      },
+      {
+        "t": 237,
+        "heading": "God Is Holy: Isaiah 6 and Related Texts"
+      },
+      {
+        "t": 429,
+        "heading": "God Is Righteous and Faithful"
+      },
+      {
+        "t": 859,
+        "heading": "God Is Love: Definition and Protective Nature"
+      },
+      {
+        "t": 1197,
+        "heading": "God Is Compassionate and Gracious"
+      },
+      {
+        "t": 1689,
+        "heading": "God Is Merciful: Grace and Mercy Distinguished"
+      },
+      {
+        "t": 1830,
+        "heading": "How the Attributes Impact Daily Life"
+      }
+    ]
+  }
 }

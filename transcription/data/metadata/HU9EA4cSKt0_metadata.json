@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\HU9EA4cSKt0.vtt",
   "duration": 3963,
   "transcription_timestamp": "2025-04-17T08:51:14.013603",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Colossians 1:9-14 on Paul's intercessory prayer for the believers at Colossae, covering the content of the prayer, the spiritual knowledge that shaped it, and the results Paul expected it to produce.",
+    "themes": [
+      "intercessory prayer",
+      "will of god",
+      "spiritual growth",
+      "false teaching",
+      "redemption",
+      "gratitude"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Isaiah 26 Context"
+      },
+      {
+        "t": 93,
+        "heading": "Background: What Paul Knew About Colossae"
+      },
+      {
+        "t": 630,
+        "heading": "Paul's Prayer Introduced"
+      },
+      {
+        "t": 724,
+        "heading": "Knowing and Doing the Will of God"
+      },
+      {
+        "t": 2182,
+        "heading": "Divine Strength for Obedience"
+      },
+      {
+        "t": 2509,
+        "heading": "Results: Spiritual Maturity and Patience"
+      },
+      {
+        "t": 2990,
+        "heading": "Results: Gratitude and Redemption"
+      },
+      {
+        "t": 3496,
+        "heading": "The Blood of Christ and Bible Translation"
+      }
+    ]
+  }
 }

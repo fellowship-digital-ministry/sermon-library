@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ld2OYHMMVWc.vtt",
   "duration": 2753,
   "transcription_timestamp": "2025-04-17T03:57:09.293562",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Romans 8:35-39, 2 Corinthians 5:9-15, and Ephesians 3:14-19 on the believer's calling to convey the love of Christ, organized around three occurrences of the phrase 'love of Christ' in Scripture. Delivered by a missionary to the Samoan Islands during an evening service at a supporting church.",
+    "themes": [
+      "love of christ",
+      "evangelism and witness",
+      "christian confidence",
+      "constraint by the spirit",
+      "comprehension of scripture",
+      "missions"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Introduction: Three Occurrences of 'Love of Christ'"
+      },
+      {
+        "t": 232,
+        "heading": "Romans 1 to 8: Depth of Sin to Mountaintop"
+      },
+      {
+        "t": 462,
+        "heading": "The Conveyor Belt Illustration"
+      },
+      {
+        "t": 786,
+        "heading": "First Question: Confidence in the Love of Christ"
+      },
+      {
+        "t": 1339,
+        "heading": "Second Question: Constraint by the Love of Christ"
+      },
+      {
+        "t": 1818,
+        "heading": "Third Question: Comprehension of the Love of Christ"
+      },
+      {
+        "t": 2188,
+        "heading": "Four Dimensions of Love in Ephesians 2 and 3"
+      }
+    ]
+  }
 }

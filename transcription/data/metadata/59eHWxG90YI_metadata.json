@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\59eHWxG90YI.vtt",
   "duration": 1896,
   "transcription_timestamp": "2025-04-17T11:02:25.510616",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of five Old Testament names of God (Jehovah Rapha, Jehovah Jireh, Jehovah Shalom, El Olam, and El Elyon), using Proverbs 18:10 and Jeremiah 10:6 as framing texts. The second part of a series on the names of God, each name examined in its original scriptural context to show how God revealed particular aspects of his character to his people.",
+    "themes": [
+      "names of god",
+      "old testament theology",
+      "god's provision",
+      "healing",
+      "peace",
+      "god's eternality"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review and Framework"
+      },
+      {
+        "t": 282,
+        "heading": "Jehovah Rapha: The Lord That Heals"
+      },
+      {
+        "t": 514,
+        "heading": "Jehovah Jireh: The Lord Will Provide"
+      },
+      {
+        "t": 747,
+        "heading": "Jehovah Shalom: The Lord Is Peace"
+      },
+      {
+        "t": 1042,
+        "heading": "El Olam: The Everlasting God"
+      },
+      {
+        "t": 1233,
+        "heading": "El Elyon: The Most High God"
+      },
+      {
+        "t": 1521,
+        "heading": "Application and Closing Doxology"
+      }
+    ]
+  }
 }

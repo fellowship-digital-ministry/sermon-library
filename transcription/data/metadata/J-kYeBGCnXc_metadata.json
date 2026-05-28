@@ -8,5 +8,43 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\J-kYeBGCnXc.vtt",
   "duration": 3080,
   "transcription_timestamp": "2025-04-17T20:46:48.361874",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 5:1-10 on the high priesthood of Jesus Christ, tracing the pattern of the Levitical priesthood, two messianic prophecies from Psalms 2 and 110, and five reasons Christ's priesthood is superior to the Aaronic order. Part of a verse-by-verse series through Hebrews.",
+    "themes": [
+      "high priesthood of christ",
+      "levitical priesthood",
+      "melchizedek",
+      "superiority of christ",
+      "old testament types and prophecy",
+      "intercession"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 462,
+        "heading": "Pattern of the Old Testament Priest"
+      },
+      {
+        "t": 1241,
+        "heading": "Prophecy of a Greater Priest"
+      },
+      {
+        "t": 1855,
+        "heading": "Christ Presented as Fulfillment"
+      },
+      {
+        "t": 2273,
+        "heading": "Five Reasons Christ's Priesthood Is Superior"
+      },
+      {
+        "t": 2839,
+        "heading": "Closing Application and Encouragement"
+      }
+    ]
+  }
 }

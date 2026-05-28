@@ -8,5 +8,51 @@
   "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Y0jwhAYMarc.vtt",
   "duration": 2725.0,
   "transcription_timestamp": "2026-05-27T16:56:51.477346",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A closing message in a year-long series through 2 Corinthians, anchored in 2 Corinthians 12:9, presenting a third point to a sermon preached one year earlier. Draws on Acts 14, 16, 23, and 25 and 2 Timothy 4 to illustrate the Apostle Paul experiencing the sufficiency of God's grace across repeated trials, stonings, imprisonments, and assassination plots.",
+    "themes": [
+      "sufficiency of grace",
+      "paul's missionary trials",
+      "god's providence and protection",
+      "weakness and divine strength",
+      "promise and faith",
+      "year-end reflection"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 135,
+        "heading": "Review of Part One: Promise Explained and Embraced"
+      },
+      {
+        "t": 329,
+        "heading": "Third Point Introduced: Grace Experienced"
+      },
+      {
+        "t": 429,
+        "heading": "Acts 14: Stoning at Lystra"
+      },
+      {
+        "t": 860,
+        "heading": "Acts 16: Imprisonment at Philippi"
+      },
+      {
+        "t": 1195,
+        "heading": "Acts 23: Conspiracy to Kill Paul in Jerusalem"
+      },
+      {
+        "t": 1757,
+        "heading": "Acts 25 and 2 Timothy 4: Further Deliverances and Paul's Summary"
+      },
+      {
+        "t": 2128,
+        "heading": "Application to the Congregation and Transition to 2026"
+      }
+    ]
+  }
 }

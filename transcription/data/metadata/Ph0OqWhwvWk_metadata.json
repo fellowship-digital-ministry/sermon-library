@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\Ph0OqWhwvWk.vtt",
   "duration": 3073,
   "transcription_timestamp": "2025-04-17T16:55:28.700138",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Timothy 2:1-8 on prayer as the believer's primary response to need, tracing the priority, description, recipients, and manner of prayer as Paul instructs Timothy, with supporting passages from Hebrews 9, 1 John 5, and several Pauline epistles.",
+    "themes": [
+      "prayer",
+      "intercessory prayer",
+      "praying for authorities",
+      "dependence on god",
+      "the mediating work of christ",
+      "the will of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context of 1 Timothy and Paul's Relationship with Timothy"
+      },
+      {
+        "t": 94,
+        "heading": "Prayer as Privilege and Common Failure"
+      },
+      {
+        "t": 468,
+        "heading": "Definition and Description of Prayer"
+      },
+      {
+        "t": 560,
+        "heading": "Priority and Four Categories of Prayer"
+      },
+      {
+        "t": 936,
+        "heading": "Praying for Kings and Those in Authority"
+      },
+      {
+        "t": 1312,
+        "heading": "Parenthetical: God's Will, Christ as Mediator, Paul's Apostolic Call"
+      },
+      {
+        "t": 1959,
+        "heading": "Paul's Own Practice of Prayer"
+      },
+      {
+        "t": 2473,
+        "heading": "Confidence in Prayer: 1 John 5:14-15"
+      }
+    ]
+  }
 }

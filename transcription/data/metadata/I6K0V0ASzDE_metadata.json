@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\I6K0V0ASzDE.vtt",
   "duration": 1822,
   "transcription_timestamp": "2025-04-17T03:17:29.741461",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory message in a series on deception, anchored in Mark 13:5-6, surveying multiple New Testament passages on the prevalence, methods, and remedy of deception in the present age.",
+    "themes": [
+      "deception",
+      "false teachers",
+      "truth as remedy",
+      "discernment",
+      "education of children",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Mark 13:5-6"
+      },
+      {
+        "t": 45,
+        "heading": "Definition of Deceive and Take Heed"
+      },
+      {
+        "t": 144,
+        "heading": "Satan as Originator of Deception"
+      },
+      {
+        "t": 284,
+        "heading": "Reality of Deception Across Scripture"
+      },
+      {
+        "t": 1238,
+        "heading": "Deception Targeting Children Through Education"
+      },
+      {
+        "t": 1467,
+        "heading": "Truth as the Remedy for Deception"
+      },
+      {
+        "t": 1749,
+        "heading": "Closing Prayer"
+      }
+    ]
+  }
 }

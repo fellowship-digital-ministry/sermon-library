@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\m8brTCKD0fk.vtt",
   "duration": 2863,
   "transcription_timestamp": "2025-04-17T03:44:53.843279",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hosea 7:8-14 on spiritual decay in the life of a believer and a church, organized around four 'gray hairs' that Hosea identifies in the northern kingdom of Israel and applied to contemporary Christian life.",
+    "themes": [
+      "spiritual decay",
+      "revival",
+      "self-examination",
+      "false testimony",
+      "callousness",
+      "fruitlessness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revival as Self-Examination"
+      },
+      {
+        "t": 143,
+        "heading": "Reading of Hosea 7:8-14"
+      },
+      {
+        "t": 351,
+        "heading": "Gray Hair as Decay, Not Wisdom"
+      },
+      {
+        "t": 710,
+        "heading": "First Gray Hair: False Testimony"
+      },
+      {
+        "t": 1420,
+        "heading": "Second Gray Hair: Fruitless Life"
+      },
+      {
+        "t": 2037,
+        "heading": "Third Gray Hair: Callousness"
+      },
+      {
+        "t": 2224,
+        "heading": "Fourth Gray Hair: Silliness and Misdirected Solutions"
+      },
+      {
+        "t": 2423,
+        "heading": "The Progressive Nature of Spiritual Decay"
+      }
+    ]
+  }
 }

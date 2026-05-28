@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\oGfQDeDvcH0.vtt",
   "duration": 3075,
   "transcription_timestamp": "2025-04-17T10:17:03.208597",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Chronicles 20:1-30 on Jehoshaphat's response to a military coalition formed by Moab, Ammon, and allied peoples, tracing his prayer, his declaration of dependence on God, and the subsequent deliverance of Judah without battle.",
+    "themes": [
+      "dependence on god",
+      "prayer and fasting",
+      "fear and trust",
+      "seeking god in crisis",
+      "divine deliverance",
+      "praise before and after victory"
+    ],
+    "sections": [
+      {
+        "t": 146,
+        "heading": "Introduction to Jehoshaphat and the Passage"
+      },
+      {
+        "t": 334,
+        "heading": "The Dilemma: Coalition Against Judah"
+      },
+      {
+        "t": 716,
+        "heading": "Jehoshaphat's Declaration: Prayer and Fasting"
+      },
+      {
+        "t": 1604,
+        "heading": "Recognition of Inability and Dependence"
+      },
+      {
+        "t": 1888,
+        "heading": "God's Answer Through the Prophet"
+      },
+      {
+        "t": 2170,
+        "heading": "Praise Before the Deliverance"
+      },
+      {
+        "t": 2310,
+        "heading": "The Victory and Gathering of Spoils"
+      },
+      {
+        "t": 2543,
+        "heading": "Return to Jerusalem and Impact on Surrounding Nations"
+      }
+    ]
+  }
 }

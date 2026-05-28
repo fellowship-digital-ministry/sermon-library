@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\pYa-HqXUOv8.vtt",
   "duration": 2851,
   "transcription_timestamp": "2025-04-15T01:30:09.849507",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory study on Matthew 4:19 and the believer's responsibility to evangelize, covering the mission, motivation, and personal testimony as foundations for sharing the gospel. Part one of a planned three-to-four-part series on being fishers of men.",
+    "themes": [
+      "evangelism",
+      "the great commission",
+      "personal testimony",
+      "motivation for outreach",
+      "soul liberty",
+      "church outreach"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Text"
+      },
+      {
+        "t": 548,
+        "heading": "The Mission: Matthew 28 and the Great Commission"
+      },
+      {
+        "t": 699,
+        "heading": "Soul Liberty and Forced Belief"
+      },
+      {
+        "t": 885,
+        "heading": "Organized Church Outreach"
+      },
+      {
+        "t": 1119,
+        "heading": "Motivation: Obedience and Love for God"
+      },
+      {
+        "t": 1360,
+        "heading": "Secondary Motivation: Condition of Mankind"
+      },
+      {
+        "t": 1594,
+        "heading": "Making It Personal: Responsibility and Testimony"
+      },
+      {
+        "t": 2105,
+        "heading": "Personal Testimony in Scripture: John 4 and John 9"
+      }
+    ]
+  }
 }

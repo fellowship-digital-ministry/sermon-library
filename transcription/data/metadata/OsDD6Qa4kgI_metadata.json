@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\OsDD6Qa4kgI.vtt",
   "duration": 1771,
   "transcription_timestamp": "2025-04-17T06:50:41.046343",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 100:4 on thanksgiving as the proper posture for entering prayer, situated within a Wednesday evening series on the Lord's Prayer from Luke 11. The sermon draws on Psalm 150:2 as a framework for cataloging the attributes of God and His acts as subjects of gratitude.",
+    "themes": [
+      "thanksgiving in prayer",
+      "attributes of god",
+      "prayer life",
+      "praise and worship",
+      "gratitude",
+      "revival of prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context: The Lord's Prayer"
+      },
+      {
+        "t": 141,
+        "heading": "Psalm 100 Read and Introduced"
+      },
+      {
+        "t": 187,
+        "heading": "Unthankfulness as a Last Days Trait"
+      },
+      {
+        "t": 287,
+        "heading": "Corporate Prayer and Its Neglect"
+      },
+      {
+        "t": 519,
+        "heading": "Thanking God for Who He Is: His Attributes"
+      },
+      {
+        "t": 1072,
+        "heading": "Thanking God for What He Does: His Acts"
+      },
+      {
+        "t": 1585,
+        "heading": "Call to Cultivate an Attitude of Gratitude"
+      }
+    ]
+  }
 }

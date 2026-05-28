@@ -8,5 +8,47 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\4ytTjjDvj2k.vtt",
   "duration": 2930,
   "transcription_timestamp": "2025-04-14T23:35:07.368589",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 16:33 on the command to 'be of good cheer,' set within Jesus's final private instruction to his disciples in John 13-16 before the crucifixion. The verse is treated as a concluding summary of that instruction, examined under three headings: embracing God's Word, expecting peace and tribulation, and exalting Christ as overcomer.",
+    "themes": [
+      "the word of god",
+      "peace in tribulation",
+      "joy",
+      "christ's victory",
+      "persecution",
+      "the holy spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Context Introduced"
+      },
+      {
+        "t": 235,
+        "heading": "Jesus Preparing His Disciples"
+      },
+      {
+        "t": 465,
+        "heading": "Something to Embrace: God's Word"
+      },
+      {
+        "t": 1205,
+        "heading": "Something to Expect: Peace and Tribulation"
+      },
+      {
+        "t": 1970,
+        "heading": "Someone to Exalt: Christ the Overcomer"
+      },
+      {
+        "t": 2305,
+        "heading": "Revelation 5 and the Worthy Lamb"
+      },
+      {
+        "t": 2779,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
 }

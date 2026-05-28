@@ -8,5 +8,51 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\lhZ-3s-pM4Q.vtt",
   "duration": 2261,
   "transcription_timestamp": "2025-04-15T07:36:21.836849",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:20-21 on the three-part formula for soundness in the faith: despise not prophesying, prove all things, and hold fast that which is good. The passage is treated within a series on instructions to the church at Thessalonica, with extended discussion of the completed canon, the cessation of the prophetic office, and the role of Scripture and the Holy Spirit in testing doctrine.",
+    "themes": [
+      "soundness in the faith",
+      "the prophetic office",
+      "cessation of sign gifts",
+      "testing doctrine",
+      "the completed canon",
+      "holding fast to truth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "Meaning of Sound in the Faith"
+      },
+      {
+        "t": 376,
+        "heading": "The Ministry of Prophets Explained"
+      },
+      {
+        "t": 750,
+        "heading": "Cessation of Prophecy and Tongues"
+      },
+      {
+        "t": 1124,
+        "heading": "Prove All Things: Testing Doctrine"
+      },
+      {
+        "t": 1497,
+        "heading": "Trying the Spirits and False Prophets"
+      },
+      {
+        "t": 1636,
+        "heading": "Hold Fast That Which Is Good"
+      },
+      {
+        "t": 1823,
+        "heading": "Generational Transmission of Truth"
+      }
+    ]
+  }
 }

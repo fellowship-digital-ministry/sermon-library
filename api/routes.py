@@ -315,11 +315,16 @@ async def answer(
         
         # Format search results 
         search_results = []
-        
+
         for match in search_response.matches:
-            if match.score < 0.5:  # Minimum threshold for relevance
+            # Threshold matches the /search endpoint default (0.6). The old
+            # 0.5 was loose enough that off-topic queries (e.g. "where's
+            # the nearest restaurant") picked up weak food/hunger matches
+            # that misleadingly populated the sources panel. 0.6 keeps
+            # legitimate borderline questions while dropping the noise.
+            if match.score < 0.6:
                 continue
-                
+
             metadata = match.metadata
             video_id = metadata.get("video_id", "")
             
@@ -488,7 +493,8 @@ async def answer_stream(
 
         search_results = []
         for match in search_response.matches:
-            if match.score < 0.5:
+            # See /answer above for rationale on the 0.6 floor.
+            if match.score < 0.6:
                 continue
             metadata = match.metadata
             video_id = metadata.get("video_id", "")

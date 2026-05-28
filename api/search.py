@@ -21,6 +21,7 @@ from .utils import (
     SearchResult,
     load_metadata,
     compute_cost,
+    log_and_500,
 )
 
 def preprocess_query(query: str) -> Tuple[str, Optional[int], Optional[str]]:
@@ -506,7 +507,7 @@ def generate_embedding(text: str) -> List[float]:
         )
         return response.data[0].embedding
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error generating embedding: {str(e)}")
+        log_and_500("Error generating embedding", e)
 
 def format_time(seconds: float) -> str:
     """Format time in seconds to MM:SS format."""
@@ -678,7 +679,7 @@ IMPORTANT REMINDERS:
         cost_usd = compute_cost(response.usage, ANSWER_MODEL)
         return answer_text, cost_usd
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error generating AI answer: {str(e)}")
+        log_and_500("Error generating AI answer", e)
 
 
 def generate_enhanced_ai_answer_streaming(query: str, search_results: List[SearchResult], language: str = "en", client=None, cost_holder: Optional[dict] = None):
@@ -798,6 +799,6 @@ IMPORTANT REMINDERS:
             if delta:
                 yield delta
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error streaming AI answer: {str(e)}")
+        log_and_500("Error streaming AI answer", e)
 
 

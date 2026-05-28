@@ -27,6 +27,7 @@ from .utils import (
     AnswerResponse,
     BibleReferenceStats,
     build_openrouter_client,
+    log_and_500,
 )
 
 from .rate_limit import (
@@ -235,7 +236,7 @@ async def search(
         )
         
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Search error: {str(e)}")
+        log_and_500("Search error", e)
 
 @router.post("/answer", response_model=AnswerResponse)
 async def answer(
@@ -411,7 +412,7 @@ async def answer(
     except Exception as e:
         if not byok and not settled:
             release_reservation()
-        raise HTTPException(status_code=500, detail=f"Answer generation error: {str(e)}")
+        log_and_500("Answer generation error", e)
 
 
 def _format_sse(event: str, data: dict) -> str:
@@ -528,7 +529,7 @@ async def answer_stream(
     except Exception as e:
         if not byok:
             release_reservation()
-        raise HTTPException(status_code=500, detail=f"Stream prep error: {str(e)}")
+        log_and_500("Stream prep error", e)
 
     # === Now generate the SSE stream ===
     # `cost_holder` gets populated by the generator's final usage chunk; we
@@ -568,7 +569,10 @@ async def answer_stream(
         except Exception as e:
             if not byok and not settled:
                 release_reservation()
-            yield _format_sse('error', {'message': str(e)})
+            # Log the real cause server-side; send a generic message
+            # to the client so SDK error strings can't leak via SSE.
+            print(f"[error] Answer stream error: {e!r}", flush=True)
+            yield _format_sse('error', {'message': 'Stream error. Please try again.'})
 
     return StreamingResponse(
         event_stream(),
@@ -766,7 +770,7 @@ async def get_transcript(
     except HTTPException:
         raise
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving transcript: {str(e)}")
+        log_and_500("Error retrieving transcript", e)
 
 @router.get("/sermons")
 async def list_sermons(
@@ -814,7 +818,7 @@ async def list_sermons(
         }
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error listing sermons: {str(e)}")
+        log_and_500("Error listing sermons", e)
 
 @router.get("/sermons/{video_id}")
 async def get_sermon(video_id: str):
@@ -884,7 +888,7 @@ async def get_sermon(video_id: str):
     except HTTPException:
         raise
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving sermon: {str(e)}")
+        log_and_500("Error retrieving sermon", e)
 
 # Bible reference endpoints
 @router.get("/bible/stats", response_model=BibleReferenceStats)
@@ -894,7 +898,7 @@ async def get_bible_reference_stats():
         stats = get_bible_stats()
         return stats
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error generating Bible stats: {str(e)}")
+        log_and_500("Error generating Bible stats", e)
 
 @router.get("/bible/books")
 async def list_bible_books():
@@ -918,7 +922,7 @@ async def list_bible_books():
             "total_references": sum(book["count"] for book in books)
         }
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error listing Bible books: {str(e)}")
+        log_and_500("Error listing Bible books", e)
 
 @router.get("/bible/books/{book}")
 async def get_book_references(book: str):
@@ -980,7 +984,7 @@ async def get_book_references(book: str):
     except HTTPException:
         raise
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving book references: {str(e)}")
+        log_and_500("Error retrieving book references", e)
 
 @router.get("/bible/references/{reference_id}")
 async def get_reference(reference_id: str):
@@ -1088,6 +1092,6 @@ async def get_reference(reference_id: str):
     except HTTPException:
         raise
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving reference: {str(e)}")
+        log_and_500("Error retrieving reference", e)
 
 

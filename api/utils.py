@@ -253,3 +253,19 @@ def build_openrouter_client(api_key: str) -> "openai.OpenAI":
         },
     )
 
+
+def log_and_500(context: str, exc: BaseException) -> None:
+    """Log the full exception server-side, then raise a sanitized 500.
+
+    SDK exceptions can occasionally include credentials, internal paths,
+    or stack details in their string form. Interpolating `str(e)` into
+    the HTTPException detail would echo any of that to the client (and,
+    via the frontend, to a user-visible error bubble). Logging keeps the
+    diagnostic value for the operator while the client sees only a
+    generic message.
+
+    Always raises HTTPException — never returns.
+    """
+    print(f"[error] {context}: {exc!r}", flush=True)
+    raise HTTPException(status_code=500, detail=f"{context}. Please try again.")
+

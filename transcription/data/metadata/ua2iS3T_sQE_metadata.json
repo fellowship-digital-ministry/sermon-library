@@ -8,5 +8,16 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\ua2iS3T_sQE.vtt",
   "duration": 3593,
   "transcription_timestamp": "2025-04-17T09:12:13.679993",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 1,
+  "notes": {
+    "introduction": "A midweek sermon from Romans 1:14-16 in which the preacher uses Paul's three statements — 'I am debtor,' 'I am ready,' and 'I am not ashamed' — to call believers to recognize the privilege, priority, and power of telling the gospel story.",
+    "outline": [
+      "I. Recognize the Privilege (v. 14 — 'I am debtor') — God has allowed us to be put in trust with the gospel; it is a privilege to be bearers of the good news, as Paul states in 1 Corinthians 9:16-17 and 1 Thessalonians 2:4",
+      "II. Make It a Priority (v. 15 — 'I am ready') — Paul's manner was to go immediately to where people were assembled and preach Christ; the church at Thessalonica likewise sounded out the word (1 Thessalonians 1:7-8); we must plan and look for opportunities",
+      "III. Recognize the Power (v. 16 — 'I am not ashamed') — the gospel is the power of God unto salvation; Paul's own conversion in Acts 9 and his testimony in Galatians 1:22-23 demonstrate that the gospel changes lives"
+    ],
+    "conclusion": "The preacher closed by tying all three points together — the gospel is a privilege, must be a priority, and is powerful — and prayed that God would help the congregation take the gospel to every creature and see many souls saved that year.",
+    "application": "Grab a handful of gospel tracts from the church lobby and distribute them. Take John and Romans booklets to share with neighbors. Sit down after the message, ask the Lord to help you devise a plan for getting the gospel out, and make witnessing a scheduled priority in your life. Participate in the church's organized outreach to reach the community."
+  }
 }

@@ -8,5 +8,18 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\9sPgxyftngs.vtt",
   "duration": 2622,
   "transcription_timestamp": "2025-04-16T00:49:06.931157",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 1,
+  "notes": {
+    "introduction": "A study of Genesis 39:1-6 examining the repeated statement 'the Lord was with Joseph' and what it meant for Joseph to live in the presence of God while serving as a slave and overseer in Potiphar's house in Egypt.",
+    "outline": [
+      "I. Joseph the Overseer (Genesis 39:1-6) — the Lord was with Joseph, Potiphar observed it, and God's blessing was upon all that Joseph did",
+      "II. The Presence of God: Comforting and Convicting — 'the Lord was with Joseph' appears four times in Genesis 39; God's presence brings comfort (Psalm 23, Hebrews 13, Matthew 28) but also should convict and shape behavior",
+      "III. Potiphar's Observation — an unsaved Egyptian saw that the Lord was with Joseph, raising the question of whether others can see the Lord with us (Acts 4:13)",
+      "IV. Joseph's Service as Overseer — Joseph served cheerfully and wholeheartedly, was promoted to overseer over all Potiphar had, and God blessed Potiphar's house for Joseph's sake",
+      "V. New Testament Principles for the Believer's Work (Ephesians 6:5-6; Colossians 3:22-23) — do all work as unto Christ, not with eye service as men pleasers, but heartily as to the Lord"
+    ],
+    "conclusion": "The preacher closed by noting that Joseph's next appearance in the chapter will be as 'the accused,' and that even there Joseph kept his eyes on God. He stated that God's blessing and favor do not come by accident or random chance but come as we humbly follow the Lord in obedience to His Word. He also cautioned that what looks like a blessing may be a curse and vice versa, and that we need God's perspective rather than the world's. He then prayed that the congregation would serve as unto Christ, that others would see the difference of Christ in their lives, and that God's blessing and favor would be upon them.",
+    "application": "Live daily in keen awareness that the Lord is with you, because that awareness will impact the way you live. Work in whatever position God has placed you — as unto Christ, not as men pleasers and not with eye service — doing it heartily and wholeheartedly so that your testimony at work reflects the Lord. Seek to have a life that others can observe and say 'the Lord is with them.' Walk in obedience to God's Word in order to have God's blessing and favor upon your life."
+  }
 }

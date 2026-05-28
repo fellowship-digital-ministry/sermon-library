@@ -8,5 +8,16 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\6otwUivoq0w.vtt",
   "duration": 2666,
   "transcription_timestamp": "2025-04-16T10:42:15.277634",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 1,
+  "notes": {
+    "introduction": "Message 71 in a verse-by-verse study of Genesis, this sermon from Genesis 32:1-23 examines Jacob's preparation to reunite with his brother Esau after 20 years of separation, tracing his actions, his prayer, and his attempt to appease Esau with a large present.",
+    "outline": [
+      "I. The Preparation of Jacob (vv. 1-8) — Jacob sends messengers to Esau with a humble message, referring to Esau as 'my lord' and himself as 'thy servant'; upon hearing Esau is coming with 400 men, Jacob is greatly afraid and distressed, and divides his company into two bands",
+      "II. The Prayer of Jacob (vv. 9-12) — Jacob prays to the God of Abraham and Isaac, acknowledging he is unworthy of God's mercies, recalling God's specific command to return and God's promise to deal well with him, and asking God to deliver him from Esau's hand",
+      "III. The Present for Esau (vv. 13-23) — After praying, Jacob prepares an enormous gift of livestock sent in successive droves ahead of him to appease Esau; he then rises at night and sends his wives, servants, and eleven sons over the ford Jabbok to protect them"
+    ],
+    "conclusion": "The preacher closed by noting that though Jacob prayed, he still kept his own hand in the situation by preparing the present — something the congregation can relate to. He pointed forward to Genesis 32:24-32, where God meets Jacob alone, and to the reconciliation with Esau in chapter 33, as evidence that God can work in hearts no human effort or gift can reach. He urged the congregation to trust God, leave matters with Him, and remember that God is able. He closed in prayer asking God to help the people trust and obey Him rather than taking matters into their own hands.",
+    "application": "The preacher explicitly called for the following: (1) When fear comes, take it to the Lord as Jacob did — be transparent with God about your fears. (2) In moments of real or perceived adversity, do not forget God's leadership and do not forget God's promises. (3) When you pray and cast your burden on the Lord, actually leave it with Him rather than trying to keep your own hand in the situation. (4) Trust God to do what only He can do, because He is able."
+  }
 }

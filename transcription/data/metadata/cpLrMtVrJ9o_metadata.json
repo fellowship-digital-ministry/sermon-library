@@ -8,5 +8,16 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\cpLrMtVrJ9o.vtt",
   "duration": 2917,
   "transcription_timestamp": "2025-04-14T20:20:58.722689",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 1,
+  "notes": {
+    "introduction": "Preaching from 2 Corinthians 2:5-11, this sermon examines the subject of forgiveness within the church, using the Apostle Paul's counsel to the conflicted church at Corinth as the framework for understanding how believers are to forgive, comfort, and restore one another.",
+    "outline": [
+      "I. The Conflict in Corinth (vv. 5-6) — An offender in gross immoral sin (referenced in 1 Corinthians 5) had been punished by the church; though he repented, he had not been restored, and some in the church resisted restoration, creating ongoing conflict that kept the church from doing the will of God.",
+      "II. Paul's Counsel (vv. 7-10) — A three-step plan for the church: (1) Forgive him; (2) Comfort him — come alongside to encourage and strengthen; (3) Confirm your love toward him. Paul tests their obedience, noting they obeyed in judgment and must equally obey in forgiveness and restoration. The goal of church discipline is restoration, not excommunication.",
+      "III. Paul's Concern (v. 11) — Failure to forgive gives Satan an advantage; Paul warns that unforgiveness leads to bitterness and division, and that the church must not give place to the devil by leaving the matter unresolved."
+    ],
+    "conclusion": "The preacher closed by declaring forgiveness a pillar of biblical Christianity, reminding the congregation that God's grace is sufficient to do what God has commanded. He prayed for any unsaved to come to salvation, and for those with an unforgiving spirit to be helped by God to forgive, comfort, and confirm their love — being biblical in practice, with restoration as the goal.",
+    "application": "Believers who have been offended are to: (1) forgive the offender, (2) comfort the offender by coming alongside to encourage and strengthen them, and (3) confirm their love toward the offender — not stopping at step one. Do not let anger simmer; deal with it and do not give place to the devil. Remember that you yourself have been forgiven by God, which should move you to forgive others. If you are holding an unforgiving spirit, recognize that bitterness destroys the one who holds it and gives Satan an advantage over the church."
+  }
 }

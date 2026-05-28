@@ -8,5 +8,16 @@
   "vtt_file": "C:\\Users\\rdw71\\Documents\\Python\\sermon-library\\transcription\\data\\subtitles\\VAwhGyZS5VU.vtt",
   "duration": 2542,
   "transcription_timestamp": "2025-04-16T15:14:00.254839",
-  "model": "whisper-1"
+  "model": "whisper-1",
+  "notes_schema_version": 1,
+  "notes": {
+    "introduction": "Preaching from Psalm 119:97, this sermon calls believers to love, learn, and live the Scriptures, arguing that the Bible is a treasure more precious than gold that every follower of Jesus Christ should cherish, study, and obey.",
+    "outline": [
+      "I. As a follower of Jesus, I should LOVE the Scriptures — Psalm 119:97, 140, 159, 163, 165, 167: the psalmist repeatedly declares love for God's Word, and that love should be proven by behavior, not merely claimed",
+      "II. As a follower of Jesus, I should LEARN the Scriptures — through (1) personal devotions and Bible study (1 Peter 2:2; 2 Timothy 2:15), (2) faithful church attendance where the Word is preached (Acts 20:28; 1 Timothy 4:6; 1 Peter 5:2), and (3) discipleship (Matthew 28:18-20); the more we love the Word the more we learn it, and the more we learn it the more we love it",
+      "III. As a follower of Jesus, I should LIVE the Scriptures — Joshua 1:8 commands meditating day and night in order to do all that is written, with the result of true prosperity and success; Psalm 19:7-11 shows the Word warns and rewards obedience; Psalm 86:11 expresses the desire to walk in God's truth; 2 Peter 1:19 presents the Word as a light in a dark place that we do well to heed"
+    ],
+    "conclusion": "The preacher closed by asking whether each person could stand with the psalmist and say 'I love the Word of God — I love it exceedingly,' with that love producing daily devotion, learning, and living of the Scriptures. He prayed that the Spirit would move each individual to examine their devotion life and church attendance, and extended an invitation to any present who had never trusted Christ as Savior.",
+    "application": "Maintain a daily personal devotion and Bible study time — do not rely solely on church services for spiritual sustenance. Attend church faithfully so as not to miss the spiritual meals provided through preaching and teaching. Get involved in discipleship with humility, acknowledging the need to learn God's Word. Go to the Word daily asking what God is showing you to apply and how to be a doer of the Word, not a hearer only."
+  }
 }

@@ -19,7 +19,11 @@ def load_bible_references() -> Dict[str, List[Dict[str, Any]]]:
             book_name = os.path.basename(file_path).split('.')[0]
             with open(file_path, 'r', encoding='utf-8') as f:
                 book_references = json.load(f)
-                references[book_name] = book_references
+            # Real book files are JSON arrays of refs. The extractor's
+            # processed_files.json ledger is a dict and must not be served.
+            if not isinstance(book_references, list):
+                continue
+            references[book_name] = book_references
         except Exception as e:
             print(f"Error loading reference file {file_path}: {str(e)}")
     

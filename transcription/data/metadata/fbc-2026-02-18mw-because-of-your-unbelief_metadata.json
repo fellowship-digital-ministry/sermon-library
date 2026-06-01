@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-02-18mw-because-of-your-unbelief",
+  "title": "Because Of Your Unbelief",
+  "publish_date": "20260218",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-02-18MW-Because_Of_Your_Unbelief.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-02-18MW-Because_Of_Your_Unbelief.mp3",
+  "url": "https://fbcministries.net/sermons/2026-02-18MW-Because_Of_Your_Unbelief.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-02-18MW-Because_Of_Your_Unbelief.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-02-18mw-because-of-your-unbelief.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-02-18mw-because-of-your-unbelief.json",
+  "duration": 2470,
+  "transcription_timestamp": "2026-06-01T08:09:12.610631",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 9:28-29 and Matthew 17:19-21 on the disciples' failure to cast out a devil, focusing on Christ's diagnosis of unbelief and his instruction on prayer and fasting as expressions of faith.",
+    "themes": [
+      "unbelief",
+      "faith",
+      "prayer",
+      "fasting",
+      "biblical authority (king james bible)",
+      "spiritual discipline"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of the Preceding Miracle"
+      },
+      {
+        "t": 242,
+        "heading": "The Disciples' Private Inquiry"
+      },
+      {
+        "t": 340,
+        "heading": "Authority Given in Mark 3"
+      },
+      {
+        "t": 533,
+        "heading": "The Indictment: Because of Your Unbelief"
+      },
+      {
+        "t": 958,
+        "heading": "The Insight: Prayer and Fasting"
+      },
+      {
+        "t": 1098,
+        "heading": "Fasting in Scripture and Its Spiritual Character"
+      },
+      {
+        "t": 1517,
+        "heading": "Modern Translations, Culture, and the Removal of Fasting"
+      }
+    ]
+  }
+}

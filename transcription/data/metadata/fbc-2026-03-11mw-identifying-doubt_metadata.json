@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-03-11mw-identifying-doubt",
+  "title": "Identifying Doubt",
+  "publish_date": "20260311",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-03-11MW-Identifying_Doubt.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-03-11MW-Identifying_Doubt.mp3",
+  "url": "https://fbcministries.net/sermons/2026-03-11MW-Identifying_Doubt.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-03-11MW-Identifying_Doubt.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-03-11mw-identifying-doubt.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-03-11mw-identifying-doubt.json",
+  "duration": 2361,
+  "transcription_timestamp": "2026-06-01T08:02:37.632213",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 13 on the causes of doubt and unbelief, set within a Wednesday series tracing Israel's failure to trust God at Kadesh-barnea. The ten spies' report serves as a case study in faulty perspective, faulty logic, and forgotten promises and works of God.",
+    "themes": [
+      "doubt and unbelief",
+      "faith",
+      "perspective on obstacles",
+      "promises of god",
+      "works of god",
+      "israel in the wilderness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Theme"
+      },
+      {
+        "t": 230,
+        "heading": "Introduction to Numbers 13 and 14"
+      },
+      {
+        "t": 460,
+        "heading": "Three-Week Outline on Doubt"
+      },
+      {
+        "t": 551,
+        "heading": "Faulty Perspective: Eyes on Obstacles"
+      },
+      {
+        "t": 871,
+        "heading": "Faulty Logic: Wrong Conclusions"
+      },
+      {
+        "t": 1477,
+        "heading": "Faulty Memory: Forgotten Promises"
+      },
+      {
+        "t": 1717,
+        "heading": "Faulty Memory: Forgotten Works of God"
+      }
+    ]
+  }
+}

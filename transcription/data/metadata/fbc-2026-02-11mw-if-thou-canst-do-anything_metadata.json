@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2026-02-11mw-if-thou-canst-do-anything",
+  "title": "If Thou Canst Do Anything",
+  "publish_date": "20260211",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-02-11MW-If_Thou_Canst_Do_Anything.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-02-11MW-If_Thou_Canst_Do_Anything.mp3",
+  "url": "https://fbcministries.net/sermons/2026-02-11MW-If_Thou_Canst_Do_Anything.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-02-11MW-If_Thou_Canst_Do_Anything.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-02-11mw-if-thou-canst-do-anything.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-02-11mw-if-thou-canst-do-anything.json",
+  "duration": 2142,
+  "transcription_timestamp": "2026-06-01T08:11:41.310903",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 9:17-27 on a father's plea for his demon-afflicted son, set within a series on unbelief as an obstacle to seeing God work. The passage is read alongside Luke 9:43, John 11, and Hebrews 13:5-6.",
+    "themes": [
+      "unbelief",
+      "faith and doubt",
+      "divine power over demons",
+      "desperation in prayer",
+      "the miracle of salvation",
+      "god as helper"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 232,
+        "heading": "The Father's Distress"
+      },
+      {
+        "t": 559,
+        "heading": "The Father's Desperation"
+      },
+      {
+        "t": 792,
+        "heading": "Belief, Faith, and John 11"
+      },
+      {
+        "t": 1164,
+        "heading": "The Father's Honest Confession of Unbelief"
+      },
+      {
+        "t": 1307,
+        "heading": "The Deliverance of the Son"
+      },
+      {
+        "t": 1637,
+        "heading": "Salvation as Miracle and the Call to Testify"
+      },
+      {
+        "t": 1828,
+        "heading": "The Need for God to Work in the Present Day"
+      }
+    ]
+  }
+}

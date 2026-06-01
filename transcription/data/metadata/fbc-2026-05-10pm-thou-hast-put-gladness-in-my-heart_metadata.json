@@ -1,0 +1,58 @@
+{
+  "video_id": "fbc-2026-05-10pm-thou-hast-put-gladness-in-my-heart",
+  "title": "Thou Hast Put Gladness In My Heart",
+  "publish_date": "20260510",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-05-10PM-Thou_Hast_Put_Gladness_In_My_Heart.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-05-10PM-Thou_Hast_Put_Gladness_In_My_Heart.mp3",
+  "url": "https://fbcministries.net/sermons/2026-05-10PM-Thou_Hast_Put_Gladness_In_My_Heart.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-05-10PM-Thou_Hast_Put_Gladness_In_My_Heart.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-05-10pm-thou-hast-put-gladness-in-my-heart.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-05-10pm-thou-hast-put-gladness-in-my-heart.json",
+  "duration": 1278,
+  "transcription_timestamp": "2026-06-01T07:45:39.896592",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 4:7 on the nature and source of gladness and joy, drawing on the psalmist David's declaration that God is the origin of heart-gladness, with supporting references to Galatians 5 and John 16.",
+    "themes": [
+      "joy and gladness",
+      "fruit of the spirit",
+      "walking in the spirit",
+      "forfeiting joy",
+      "god as source of joy"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of Psalm 4"
+      },
+      {
+        "t": 184,
+        "heading": "Hebrew Word for Gladness"
+      },
+      {
+        "t": 230,
+        "heading": "God as Source of Joy"
+      },
+      {
+        "t": 413,
+        "heading": "Joy as Fruit of the Spirit"
+      },
+      {
+        "t": 554,
+        "heading": "Joy Not Found in Absence of Trouble"
+      },
+      {
+        "t": 695,
+        "heading": "How Joy Is Forfeited"
+      },
+      {
+        "t": 882,
+        "heading": "Joyful People as Praising and Pleasant People"
+      }
+    ]
+  }
+}

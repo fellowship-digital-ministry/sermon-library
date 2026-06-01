@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-04-01mw-by-faith-abel",
+  "title": "By Faith Abel",
+  "publish_date": "20260401",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-04-01MW-By_Faith_Abel.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-04-01MW-By_Faith_Abel.mp3",
+  "url": "https://fbcministries.net/sermons/2026-04-01MW-By_Faith_Abel.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-04-01MW-By_Faith_Abel.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-04-01mw-by-faith-abel.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-04-01mw-by-faith-abel.json",
+  "duration": 2234,
+  "transcription_timestamp": "2026-06-01T07:48:21.085007",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:4 on Abel's offering, set within a series on faith through Hebrews 11. The passage is read alongside Genesis 4:1-7 and Romans 4 to examine what Abel's sacrifice reveals about faith, righteousness, and enduring testimony.",
+    "themes": [
+      "living by faith",
+      "blood sacrifice",
+      "righteousness by faith",
+      "testimony",
+      "faith and works",
+      "the hall of faith"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Hebrews 11:6"
+      },
+      {
+        "t": 237,
+        "heading": "Faith Defined and the Hall of Faith"
+      },
+      {
+        "t": 335,
+        "heading": "The Just Shall Live by Faith"
+      },
+      {
+        "t": 526,
+        "heading": "Genesis 4: Cain and Abel's Offerings"
+      },
+      {
+        "t": 812,
+        "heading": "Abel's Offering Examined"
+      },
+      {
+        "t": 1191,
+        "heading": "The Witness of Righteousness Obtained"
+      },
+      {
+        "t": 1821,
+        "heading": "He Being Dead Yet Speaketh"
+      }
+    ]
+  }
+}

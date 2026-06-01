@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-02-25mw-they-believed-not",
+  "title": "They Believed Not",
+  "publish_date": "20260225",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-02-25MW-They_Believed_Not.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-02-25MW-They_Believed_Not.mp3",
+  "url": "https://fbcministries.net/sermons/2026-02-25MW-They_Believed_Not.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-02-25MW-They_Believed_Not.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-02-25mw-they-believed-not.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-02-25mw-they-believed-not.json",
+  "duration": 2666,
+  "transcription_timestamp": "2026-06-01T08:06:25.369839",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 78:22, 32, 41 and related passages on the unbelief of Israel as a pattern for understanding why God's power goes unseen among his people, drawing on Judges 6, Psalm 106, Jude 5, and Matthew 13:53-58.",
+    "themes": [
+      "unbelief",
+      "faith and obedience",
+      "god's power",
+      "israel's history as warning",
+      "limiting god",
+      "childlike faith"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Series Context and Opening Concern"
+      },
+      {
+        "t": 186,
+        "heading": "The Question of God Not Working Today"
+      },
+      {
+        "t": 417,
+        "heading": "Gideon and Israel's Disobedience"
+      },
+      {
+        "t": 703,
+        "heading": "The Truth Revealed: Belief and Forgetting in the Psalms"
+      },
+      {
+        "t": 983,
+        "heading": "Jude and the Destruction of Unbelievers"
+      },
+      {
+        "t": 1599,
+        "heading": "The Tragic Result: Limiting the Holy One"
+      },
+      {
+        "t": 2169,
+        "heading": "Matthew 13: Unbelief in Jesus's Own Country"
+      }
+    ]
+  }
+}

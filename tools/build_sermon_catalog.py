@@ -53,15 +53,24 @@ def build() -> list:
             continue
         vid = m.get("video_id") or os.path.basename(path).replace("_metadata.json", "")
         notes = m.get("notes")
-        entries.append({
+        # Website (audio-only) sermons carry source="website" and an audio_url;
+        # they have no YouTube video, so the canonical url is the church audio.
+        # Everything else is a YouTube sermon keyed by its real video_id.
+        is_web = m.get("source") == "website"
+        entry = {
             "video_id": vid,
             "title": m.get("title", f"Sermon {vid}"),
             "date": normalize_date(m.get("publish_date")),
             "duration": m.get("duration"),
-            "url": f"https://www.youtube.com/watch?v={vid}",
+            "url": (m.get("source_url") or m.get("audio_url") or m.get("url"))
+                   if is_web else f"https://www.youtube.com/watch?v={vid}",
             "description": (notes or {}).get("introduction", "") if notes else "",
             "notes": notes or None,
-        })
+        }
+        if is_web:
+            entry["source"] = "website"
+            entry["audio_url"] = m.get("audio_url") or m.get("url")
+        entries.append(entry)
     # Newest first. YYYYMMDD strings sort correctly lexicographically; blanks last.
     entries.sort(key=lambda e: e["date"], reverse=True)
     return entries

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-03-25mw-conquering-doubt",
+  "title": "Conquering Doubt",
+  "publish_date": "20260325",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-03-25MW-Conquering_Doubt.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-03-25MW-Conquering_Doubt.mp3",
+  "url": "https://fbcministries.net/sermons/2026-03-25MW-Conquering_Doubt.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-03-25MW-Conquering_Doubt.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-03-25mw-conquering-doubt.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-03-25mw-conquering-doubt.json",
+  "duration": 2457,
+  "transcription_timestamp": "2026-06-01T07:51:31.269276",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 13-14 on conquering doubt and increasing faith, drawn from the contrasting responses of Joshua and Caleb versus the ten spies at the border of Canaan. The sermon traces causes and consequences of doubt from prior weeks and turns in this final installment to four practical means of conquering it.",
+    "themes": [
+      "doubt and unbelief",
+      "faith",
+      "the word of god",
+      "prayer",
+      "rehearsing god's faithfulness",
+      "eyes on the lord"
+    ],
+    "sections": [
+      {
+        "t": 90,
+        "heading": "Series Context and Theme"
+      },
+      {
+        "t": 275,
+        "heading": "Causes and Consequences of Doubt Reviewed"
+      },
+      {
+        "t": 505,
+        "heading": "Joshua and Caleb: Contrasting Perspective"
+      },
+      {
+        "t": 787,
+        "heading": "First and Second Means: Bible and Eyes on Jesus"
+      },
+      {
+        "t": 1438,
+        "heading": "Third Means: Rehearsing the Blessings"
+      },
+      {
+        "t": 1532,
+        "heading": "David and Goliath as Illustration of Rehearsed Faith"
+      },
+      {
+        "t": 1997,
+        "heading": "Fourth Means: Declaring and Verbalizing Faith"
+      }
+    ]
+  }
+}

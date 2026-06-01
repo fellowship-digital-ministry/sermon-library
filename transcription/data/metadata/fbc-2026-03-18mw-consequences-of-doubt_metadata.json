@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2026-03-18mw-consequences-of-doubt",
+  "title": "Consequences Of Doubt",
+  "publish_date": "20260318",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-03-18MW-Consequences_Of_Doubt.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-03-18MW-Consequences_Of_Doubt.mp3",
+  "url": "https://fbcministries.net/sermons/2026-03-18MW-Consequences_Of_Doubt.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-03-18MW-Consequences_Of_Doubt.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-03-18mw-consequences-of-doubt.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-03-18mw-consequences-of-doubt.json",
+  "duration": 2517,
+  "transcription_timestamp": "2026-06-01T07:59:48.347731",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Numbers 13-14 on the consequences of doubt and unbelief among the children of Israel, tracing how the report of ten spies spread through the entire congregation and resulted in wilderness wandering, missed blessings, and God's displeasure. Psalm 81 and selected New Testament passages are brought alongside to reinforce the pattern.",
+    "themes": [
+      "doubt and unbelief",
+      "faith",
+      "consequences of sin",
+      "moving forward in obedience",
+      "god's displeasure",
+      "missed blessings"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Garden Analogy"
+      },
+      {
+        "t": 141,
+        "heading": "Unbelief Limits God's Working"
+      },
+      {
+        "t": 376,
+        "heading": "The Twelve Spies and the Evil Report"
+      },
+      {
+        "t": 561,
+        "heading": "Doubt Impacts the Whole Congregation"
+      },
+      {
+        "t": 699,
+        "heading": "Doubt Produces Failure to Move Forward"
+      },
+      {
+        "t": 929,
+        "heading": "Doubt Prevents Seeing What God Can Do"
+      },
+      {
+        "t": 1163,
+        "heading": "Doubt Does Not Please God"
+      },
+      {
+        "t": 1598,
+        "heading": "Missed Blessings of the Promised Land"
+      }
+    ]
+  }
+}

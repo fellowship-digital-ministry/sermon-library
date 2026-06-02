@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2023-02-12pm-jacobs-encounter-with-god",
+  "title": "Jacobs Encounter With God",
+  "publish_date": "20230212",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2023-02-12PM-Jacobs_Encounter_With_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2023-02-12PM-Jacobs_Encounter_With_God.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2023-02-12PM-Jacobs_Encounter_With_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2023-02-12PM-Jacobs_Encounter_With_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2023-02-12pm-jacobs-encounter-with-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2023-02-12pm-jacobs-encounter-with-god.json",
+  "duration": 1773,
+  "transcription_timestamp": "2026-06-01T23:46:04.278003",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 32:24-32 on Jacob's all-night wrestling encounter with God, examining three tangible reminders the event left in Jacob's life: a name change, a named location, and a permanent limp.",
+    "themes": [
+      "memorials and reminders",
+      "jacob and israel",
+      "wrestling with god",
+      "physical marks of divine encounter",
+      "the sufficiency of grace",
+      "identity and name change"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 32:1-23"
+      },
+      {
+        "t": 98,
+        "heading": "Jacob Left Alone, the Wrestling Begins"
+      },
+      {
+        "t": 195,
+        "heading": "Three Reminders Introduced"
+      },
+      {
+        "t": 344,
+        "heading": "First Reminder: The Name Change"
+      },
+      {
+        "t": 629,
+        "heading": "Second Reminder: The Named Location Penuel"
+      },
+      {
+        "t": 816,
+        "heading": "Third Reminder: The Limp"
+      },
+      {
+        "t": 1278,
+        "heading": "Paul's Thorn in 2 Corinthians 12"
+      },
+      {
+        "t": 1415,
+        "heading": "Personal Memorials and Salvation"
+      }
+    ]
+  }
+}

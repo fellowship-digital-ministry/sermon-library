@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-082519pm-an-acceptable-offering",
+  "title": "An Acceptable Offering",
+  "publish_date": "20190825",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/082519PM-An_Acceptable_Offering.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/082519PM-An_Acceptable_Offering.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/082519PM-An_Acceptable_Offering.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/082519PM-An_Acceptable_Offering.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-082519pm-an-acceptable-offering.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-082519pm-an-acceptable-offering.json",
+  "duration": 2202,
+  "transcription_timestamp": "2026-06-02T01:00:30.540129",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 4:1-7 on the offerings of Cain and Abel, tracing the biblical basis for acceptable versus rejected sacrifice and situating the passage within the early chronology of Genesis. Hebrews 11:4, Romans 10:17, and Leviticus 9:3 are drawn in to establish the faith and blood requirements of an acceptable offering.",
+    "themes": [
+      "acceptable sacrifice",
+      "blood atonement",
+      "faith and works",
+      "false religion",
+      "gospel proclamation",
+      "biblical chronology"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Occupation of Cain and Abel"
+      },
+      {
+        "t": 96,
+        "heading": "Chronological Setting of Genesis 4"
+      },
+      {
+        "t": 417,
+        "heading": "Pattern of Offerings Before the Law"
+      },
+      {
+        "t": 657,
+        "heading": "New Testament Witness: Hebrews 11:4"
+      },
+      {
+        "t": 944,
+        "heading": "Accepted and Rejected Offerings"
+      },
+      {
+        "t": 1135,
+        "heading": "God Confronts Cain: Opportunity to Do Well"
+      },
+      {
+        "t": 1368,
+        "heading": "Introduction of False Religion and the One Prescribed Way"
+      },
+      {
+        "t": 1832,
+        "heading": "Generational Transmission of the Gospel"
+      }
+    ]
+  }
+}

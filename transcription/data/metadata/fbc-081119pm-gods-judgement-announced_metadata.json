@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-081119pm-gods-judgement-announced",
+  "title": "Gods Judgement Announced",
+  "publish_date": "20190811",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/081119PM-Gods_Judgement_Announced.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/081119PM-Gods_Judgement_Announced.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/081119PM-Gods_Judgement_Announced.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/081119PM-Gods_Judgement_Announced.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-081119pm-gods-judgement-announced.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-081119pm-gods-judgement-announced.json",
+  "duration": 2096,
+  "transcription_timestamp": "2026-06-02T01:06:19.259423",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 3:14-20 on the divine judgments pronounced against the serpent, the woman, and Adam following the fall, with extended treatment of Genesis 3:15 as the first announcement of the gospel and the promised Messiah.",
+    "themes": [
+      "judgment for sin",
+      "the fall of man",
+      "the proto-evangelium",
+      "the virgin birth",
+      "satan defeated",
+      "order in the home"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Series Context"
+      },
+      {
+        "t": 237,
+        "heading": "God as Righteous Judge"
+      },
+      {
+        "t": 336,
+        "heading": "Judgment on the Serpent"
+      },
+      {
+        "t": 524,
+        "heading": "Genesis 3:15 and the First Gospel Promise"
+      },
+      {
+        "t": 1221,
+        "heading": "Judgment on the Woman"
+      },
+      {
+        "t": 1454,
+        "heading": "Judgment on Adam"
+      },
+      {
+        "t": 1776,
+        "heading": "Divine Punishment and the Plan of Redemption"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-091519pm-cain-slew-abel",
+  "title": "Cain Slew Abel",
+  "publish_date": "20190915",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/091519PM-Cain_Slew_Abel.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/091519PM-Cain_Slew_Abel.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/091519PM-Cain_Slew_Abel.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/091519PM-Cain_Slew_Abel.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-091519pm-cain-slew-abel.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-091519pm-cain-slew-abel.json",
+  "duration": 2355,
+  "transcription_timestamp": "2026-06-02T00:56:01.351178",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 4:8-15 on the murder of Abel by Cain, tracing the crime, God's confrontation of Cain, and the consequences pronounced, with cross-references to 1 John 3, John 15, Hebrews 11, and Jude 11.",
+    "themes": [
+      "murder and its consequences",
+      "divine confrontation of sin",
+      "anger and misdirection",
+      "confession and repentance",
+      "the way of cain",
+      "conviction of the holy spirit"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 4:1-7"
+      },
+      {
+        "t": 144,
+        "heading": "Cain Ignores God's Instruction"
+      },
+      {
+        "t": 327,
+        "heading": "The Crime: Cain Slays Abel"
+      },
+      {
+        "t": 559,
+        "heading": "World's Hatred of the Righteous"
+      },
+      {
+        "t": 836,
+        "heading": "The Confrontation: God Questions Cain"
+      },
+      {
+        "t": 1408,
+        "heading": "The Consequences Pronounced"
+      },
+      {
+        "t": 1782,
+        "heading": "Fugitive Contrasted with Pilgrim"
+      },
+      {
+        "t": 1978,
+        "heading": "Cain's Complaint and the Mark"
+      }
+    ]
+  }
+}

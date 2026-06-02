@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-081819pm-coats-of-skins",
+  "title": "Coats Of Skins",
+  "publish_date": "20190818",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/081819PM-Coats_Of_Skins.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/081819PM-Coats_Of_Skins.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/081819PM-Coats_Of_Skins.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/081819PM-Coats_Of_Skins.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-081819pm-coats-of-skins.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-081819pm-coats-of-skins.json",
+  "duration": 2333,
+  "transcription_timestamp": "2026-06-02T01:03:30.574783",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 3:21-24 on the coats of skins God provided for Adam and Eve, read as a type of substitutionary atonement and traced through Romans 5, 1 Corinthians 15, Isaiah 53, and Revelation 21-22.",
+    "themes": [
+      "substitutionary atonement",
+      "typology",
+      "the fall and its consequences",
+      "god's mercy and grace",
+      "tree of life",
+      "adam and christ contrasted"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Reading"
+      },
+      {
+        "t": 146,
+        "heading": "What Is Provided: Coats of Skins"
+      },
+      {
+        "t": 242,
+        "heading": "Animal Sacrifice and Typology"
+      },
+      {
+        "t": 484,
+        "heading": "What Is Prohibited: Expulsion from the Garden"
+      },
+      {
+        "t": 580,
+        "heading": "God's Mercy in Barring the Tree of Life"
+      },
+      {
+        "t": 1050,
+        "heading": "What Is Pictured: Substitutionary Atonement"
+      },
+      {
+        "t": 1668,
+        "heading": "Sorrow, Pain, and Death Fulfilled in Christ"
+      },
+      {
+        "t": 1953,
+        "heading": "From Genesis 3 to Revelation 21-22"
+      }
+    ]
+  }
+}

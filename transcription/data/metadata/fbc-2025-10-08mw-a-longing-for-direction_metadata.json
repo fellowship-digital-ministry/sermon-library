@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-10-08mw-a-longing-for-direction",
+  "title": "A Longing For Direction",
+  "publish_date": "20251008",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-10-08MW-A_Longing_For_Direction.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-10-08MW-A_Longing_For_Direction.mp3",
+  "url": "https://fbcministries.net/sermons/2025-10-08MW-A_Longing_For_Direction.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-10-08MW-A_Longing_For_Direction.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-10-08mw-a-longing-for-direction.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-10-08mw-a-longing-for-direction.json",
+  "duration": 2066,
+  "transcription_timestamp": "2026-06-01T21:35:42.675922",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 25:4-14 on seeking divine direction, tracing David's posture of humility and dependence before God amid adversity. Exodus 13-14 is brought alongside the psalm to illustrate that God's leading does not guarantee an absence of difficulty.",
+    "themes": [
+      "divine guidance",
+      "humility and submission",
+      "waiting on god",
+      "obedience",
+      "fear of the lord",
+      "god's word as direction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Prior Week Review"
+      },
+      {
+        "t": 138,
+        "heading": "Introduction to Longing for Direction"
+      },
+      {
+        "t": 369,
+        "heading": "David's Approach in Psalm 25:4-5"
+      },
+      {
+        "t": 653,
+        "heading": "God's Character as Basis for Teaching"
+      },
+      {
+        "t": 1035,
+        "heading": "Conditions for Receiving Direction"
+      },
+      {
+        "t": 1175,
+        "heading": "Seeking God's Way Versus Blessing One's Own Way"
+      },
+      {
+        "t": 1471,
+        "heading": "Israel's Direction and Difficulty in Exodus 13-14"
+      },
+      {
+        "t": 1770,
+        "heading": "Storms Within God's Leading"
+      }
+    ]
+  }
+}

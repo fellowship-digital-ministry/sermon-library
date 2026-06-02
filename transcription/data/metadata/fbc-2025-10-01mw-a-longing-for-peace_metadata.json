@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-10-01mw-a-longing-for-peace",
+  "title": "A Longing For Peace",
+  "publish_date": "20251001",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-10-01MW-A_Longing_For_Peace.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-10-01MW-A_Longing_For_Peace.mp3",
+  "url": "https://fbcministries.net/sermons/2025-10-01MW-A_Longing_For_Peace.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-10-01MW-A_Longing_For_Peace.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-10-01mw-a-longing-for-peace.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-10-01mw-a-longing-for-peace.json",
+  "duration": 3435,
+  "transcription_timestamp": "2026-06-01T21:41:07.004080",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 25 on David's longing for peace amid distress, examining his posture of trust and the peace God provides, with supporting reference to Philippians 4:4-9. First in a three-part series on Psalm 25.",
+    "themes": [
+      "peace",
+      "trust in god",
+      "distress and trial",
+      "prayer versus worry",
+      "waiting on the lord",
+      "eyes on the lord"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series and Psalm 25 Introduction"
+      },
+      {
+        "t": 95,
+        "heading": "Context and Dating of the Psalm"
+      },
+      {
+        "t": 196,
+        "heading": "Three Longings: Peace, Direction, Forgiveness"
+      },
+      {
+        "t": 437,
+        "heading": "Distress of the Psalmist"
+      },
+      {
+        "t": 671,
+        "heading": "David's Posture: Soul, Eyes, and the Net"
+      },
+      {
+        "t": 1140,
+        "heading": "Desire of the Psalmist: Trust and Pleading"
+      },
+      {
+        "t": 1466,
+        "heading": "Philippians 4: Peace, Worry, and Prayer"
+      },
+      {
+        "t": 2068,
+        "heading": "Closing Application from Psalm 25:22"
+      }
+    ]
+  }
+}

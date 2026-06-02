@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-11-19mw-proved-at-meribah",
+  "title": "Proved At Meribah",
+  "publish_date": "20251119",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-11-19MW-Proved_At_Meribah.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-11-19MW-Proved_At_Meribah.mp3",
+  "url": "https://fbcministries.net/sermons/2025-11-19MW-Proved_At_Meribah.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-11-19MW-Proved_At_Meribah.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-11-19mw-proved-at-meribah.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-11-19mw-proved-at-meribah.json",
+  "duration": 2289,
+  "transcription_timestamp": "2026-06-01T21:14:02.158993",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:7 and Exodus 17:1-7 on the meaning of God proving his people at the waters of Meribah, set within the context of the Feast of Tabernacles and Israel's wilderness journey.",
+    "themes": [
+      "proving and testing",
+      "god's plan and providence",
+      "god's power",
+      "faith and unbelief",
+      "prayer and dependence on god",
+      "god's purpose in difficulty"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 81 and Feast of Tabernacles Context"
+      },
+      {
+        "t": 93,
+        "heading": "Israel's Wilderness Experiences Before Meribah"
+      },
+      {
+        "t": 381,
+        "heading": "The Meaning of Being Proved at Meribah"
+      },
+      {
+        "t": 532,
+        "heading": "God's Plan: Israel Led to Rephidim"
+      },
+      {
+        "t": 952,
+        "heading": "God's Power Demonstrated at the Rock"
+      },
+      {
+        "t": 1557,
+        "heading": "God's Purpose: Developing His Children"
+      },
+      {
+        "t": 1882,
+        "heading": "New Testament Parallel: Feeding the Five Thousand"
+      }
+    ]
+  }
+}

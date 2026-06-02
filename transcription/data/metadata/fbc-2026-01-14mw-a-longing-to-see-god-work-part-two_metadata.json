@@ -1,0 +1,55 @@
+{
+  "video_id": "fbc-2026-01-14mw-a-longing-to-see-god-work-part-two",
+  "title": "A Longing To See God Work Part Two",
+  "publish_date": "20260114",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-01-14MW-A_Longing_To_See_God_Work_Part_Two.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-01-14MW-A_Longing_To_See_God_Work_Part_Two.mp3",
+  "url": "https://fbcministries.net/sermons/2026-01-14MW-A_Longing_To_See_God_Work_Part_Two.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-01-14MW-A_Longing_To_See_God_Work_Part_Two.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-01-14mw-a-longing-to-see-god-work-part-two.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-01-14mw-a-longing-to-see-god-work-part-two.json",
+  "duration": 2267,
+  "transcription_timestamp": "2026-06-01T20:57:39.743829",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 3 on Israel's campaign against Moab, tracing how three kings strategized without seeking God, encountered crisis, and then witnessed divine provision of water and military victory through the prophet Elisha. Part two of a series rooted in Psalm 119:126 on longing to see God work.",
+    "themes": [
+      "seeking god",
+      "divine provision",
+      "prayer",
+      "human strategy versus god's direction",
+      "the power of god",
+      "faithfulness influencing others"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review and Text Introduction"
+      },
+      {
+        "t": 238,
+        "heading": "The Coalition Strategizes (vv. 1-8)"
+      },
+      {
+        "t": 802,
+        "heading": "Crisis Forces Seeking the Lord (vv. 9-14)"
+      },
+      {
+        "t": 1218,
+        "heading": "Elisha Speaks and God Directs (vv. 15-19)"
+      },
+      {
+        "t": 1592,
+        "heading": "God Provides Water and Delivers Victory (vv. 20-27)"
+      },
+      {
+        "t": 1871,
+        "heading": "Application: Seeking God Before Strategizing"
+      }
+    ]
+  }
+}

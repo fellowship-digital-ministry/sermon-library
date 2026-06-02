@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-09-10mw-my-soul-thirsteth-for-god",
+  "title": "My Soul Thirsteth For God",
+  "publish_date": "20250910",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-09-10MW-My_Soul_Thirsteth_For_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-09-10MW-My_Soul_Thirsteth_For_God.mp3",
+  "url": "https://fbcministries.net/sermons/2025-09-10MW-My_Soul_Thirsteth_For_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-09-10MW-My_Soul_Thirsteth_For_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-09-10mw-my-soul-thirsteth-for-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-09-10mw-my-soul-thirsteth-for-god.json",
+  "duration": 1577,
+  "transcription_timestamp": "2026-06-01T21:45:51.896067",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 42:1-2 on personal thirst for God, developed through parallel passages in Exodus 33, Joshua 24, Philippians 3, and Romans 14, preached as preparation for an upcoming revival meeting.",
+    "themes": [
+      "thirst for god",
+      "personal walk with god",
+      "revival preparation",
+      "the living god",
+      "accountability at the judgment seat",
+      "desire to know god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context and Revival Preparation"
+      },
+      {
+        "t": 46,
+        "heading": "Reading of Psalm 42:1-2"
+      },
+      {
+        "t": 188,
+        "heading": "The Imagery of the Thirsting Hart"
+      },
+      {
+        "t": 284,
+        "heading": "The Personal Impact of the Psalm"
+      },
+      {
+        "t": 563,
+        "heading": "Moses: Desire to Know God Personally"
+      },
+      {
+        "t": 705,
+        "heading": "Joshua 24: A Personal Choice to Serve"
+      },
+      {
+        "t": 851,
+        "heading": "Physical Thirst as Illustration"
+      },
+      {
+        "t": 1049,
+        "heading": "Paul and Romans 14: Personal Accountability to God"
+      }
+    ]
+  }
+}

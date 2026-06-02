@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-11-05mw-went-out-of-egypt",
+  "title": "Went Out Of Egypt",
+  "publish_date": "20251105",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-11-05MW-Went_Out_Of_Egypt.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-11-05MW-Went_Out_Of_Egypt.mp3",
+  "url": "https://fbcministries.net/sermons/2025-11-05MW-Went_Out_Of_Egypt.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-11-05MW-Went_Out_Of_Egypt.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-11-05mw-went-out-of-egypt.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-11-05mw-went-out-of-egypt.json",
+  "duration": 2087,
+  "transcription_timestamp": "2026-06-01T21:20:39.481164",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:4-6 on the Feast of Tabernacles as a divinely ordained statute and testimony, tracing Israel's deliverance from Egyptian bondage and drawing a parallel application to the Lord's Supper as a New Testament ordinance of remembrance.",
+    "themes": [
+      "praise and music",
+      "divine directives and ordinances",
+      "deliverance from bondage",
+      "the feast of tabernacles",
+      "the lord's supper",
+      "remembrance and gratitude"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Music and Praise"
+      },
+      {
+        "t": 295,
+        "heading": "Psalm 81 and the Feast of Tabernacles"
+      },
+      {
+        "t": 388,
+        "heading": "Remember His Directive: Statute and Law"
+      },
+      {
+        "t": 679,
+        "heading": "God's Ordinance as Testimony in Joseph"
+      },
+      {
+        "t": 823,
+        "heading": "Remember His Deliverance from Egypt"
+      },
+      {
+        "t": 1110,
+        "heading": "Parallel to New Testament Ordinances"
+      },
+      {
+        "t": 1207,
+        "heading": "The Lord's Supper in 1 Corinthians 11"
+      },
+      {
+        "t": 1679,
+        "heading": "Ongoing Reminder of Redemption"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-09-24mw-we-will-remember-the-name-of-our-god",
+  "title": "We Will Remember The Name Of Our God",
+  "publish_date": "20250924",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-09-24MW-We_Will_Remember_The_Name_Of_Our_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-09-24MW-We_Will_Remember_The_Name_Of_Our_God.mp3",
+  "url": "https://fbcministries.net/sermons/2025-09-24MW-We_Will_Remember_The_Name_Of_Our_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-09-24MW-We_Will_Remember_The_Name_Of_Our_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-09-24mw-we-will-remember-the-name-of-our-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-09-24mw-we-will-remember-the-name-of-our-god.json",
+  "duration": 2390,
+  "transcription_timestamp": "2026-06-01T21:44:04.555073",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A closing survey of a 2025 midweek series on the names of God, anchored in Psalm 20:7 and Psalm 9:10, examining how knowing the names and attributes of God produces trust, comfort, courage, and confidence in the believer.",
+    "themes": [
+      "names of god",
+      "trust in god",
+      "prayer",
+      "remembering god",
+      "forgetting god",
+      "biblical examples of faith under pressure"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review and Psalm 20:7"
+      },
+      {
+        "t": 93,
+        "heading": "Names Studied in the Series"
+      },
+      {
+        "t": 185,
+        "heading": "Remembering vs. Forgetting God"
+      },
+      {
+        "t": 373,
+        "heading": "Scriptural Warnings About Forgetting God"
+      },
+      {
+        "t": 561,
+        "heading": "Knowing God Produces Comfort, Courage, Confidence"
+      },
+      {
+        "t": 701,
+        "heading": "Old Testament Examples: Elijah, Hezekiah, Asa, Jehoshaphat"
+      },
+      {
+        "t": 1816,
+        "heading": "New Testament Example: The Disciples in Acts 4"
+      },
+      {
+        "t": 2125,
+        "heading": "Summary and Closing Application"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-11-09pm-back-to-calvary",
+  "title": "Back To Calvary",
+  "publish_date": "20251109",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-11-09PM-Back_To_Calvary.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-11-09PM-Back_To_Calvary.mp3",
+  "url": "https://fbcministries.net/sermons/2025-11-09PM-Back_To_Calvary.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-11-09PM-Back_To_Calvary.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-11-09pm-back-to-calvary.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-11-09pm-back-to-calvary.json",
+  "duration": 1986,
+  "transcription_timestamp": "2026-06-01T21:16:35.756443",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition centered on Luke 23:33 and 1 Corinthians 11:23-26, delivered as a Lord's Supper service message. The suffering and purpose of Christ's death at Calvary are traced through Luke 22-23, Colossians 1:14 and 2:13-14, and Hebrews 12:2, as a reminder of the price and reason for redemption.",
+    "themes": [
+      "lord's supper",
+      "the crucifixion",
+      "redemption through the blood",
+      "remembrance",
+      "suffering of christ",
+      "forgiveness of sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "The Lord's Supper and Remembrance"
+      },
+      {
+        "t": 91,
+        "heading": "The Price of Redemption"
+      },
+      {
+        "t": 278,
+        "heading": "Hymn at Calvary Reviewed"
+      },
+      {
+        "t": 468,
+        "heading": "What Christ Suffered Before the Cross"
+      },
+      {
+        "t": 838,
+        "heading": "Suffering on the Cross Itself"
+      },
+      {
+        "t": 1363,
+        "heading": "Why He Suffered: Colossians 1 and 2"
+      },
+      {
+        "t": 1831,
+        "heading": "Hebrews 12 and the Joy Before Him"
+      }
+    ]
+  }
+}

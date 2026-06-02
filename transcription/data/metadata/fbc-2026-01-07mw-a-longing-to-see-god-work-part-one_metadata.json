@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-01-07mw-a-longing-to-see-god-work-part-one",
+  "title": "A Longing To See God Work Part One",
+  "publish_date": "20260107",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-01-07MW-A_Longing_To_See_God_Work_Part_One.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-01-07MW-A_Longing_To_See_God_Work_Part_One.mp3",
+  "url": "https://fbcministries.net/sermons/2026-01-07MW-A_Longing_To_See_God_Work_Part_One.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-01-07MW-A_Longing_To_See_God_Work_Part_One.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-01-07mw-a-longing-to-see-god-work-part-one.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-01-07mw-a-longing-to-see-god-work-part-one.json",
+  "duration": 1888,
+  "transcription_timestamp": "2026-06-01T20:59:58.490946",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:126 on the longing for God to work in a new year, drawing also on Psalm 109:26-27, 2 Timothy 3, and Ephesians 3:20-21. Part one of a three-part series, with subsequent parts planned around events from the lives of Elisha and King Hezekiah.",
+    "themes": [
+      "prayer and dependence on god",
+      "god's power",
+      "perilous times",
+      "faith",
+      "god's glory",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "New Year and Series Introduction"
+      },
+      {
+        "t": 93,
+        "heading": "The Longing to See God Work"
+      },
+      {
+        "t": 280,
+        "heading": "The Request in Psalm 119:126"
+      },
+      {
+        "t": 514,
+        "heading": "Recognition of Peril and 2 Timothy 3"
+      },
+      {
+        "t": 892,
+        "heading": "Recognition of God's Power"
+      },
+      {
+        "t": 1132,
+        "heading": "The Result: God Alone Glorified"
+      },
+      {
+        "t": 1318,
+        "heading": "Psalm 109 and Ephesians 3:20-21"
+      }
+    ]
+  }
+}

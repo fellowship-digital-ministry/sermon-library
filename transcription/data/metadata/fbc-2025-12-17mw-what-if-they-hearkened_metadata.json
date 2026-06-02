@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-12-17mw-what-if-they-hearkened",
+  "title": "What If They Hearkened",
+  "publish_date": "20251217",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-12-17MW-What_If_They_Hearkened.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-12-17MW-What_If_They_Hearkened.mp3",
+  "url": "https://fbcministries.net/sermons/2025-12-17MW-What_If_They_Hearkened.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-12-17MW-What_If_They_Hearkened.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-12-17mw-what-if-they-hearkened.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-12-17mw-what-if-they-hearkened.json",
+  "duration": 2105,
+  "transcription_timestamp": "2026-06-01T21:06:40.652671",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:13-16 on the consequences of Israel's failure to hearken to God, framed as a study of what the nation forfeited through disobedience, with application to New Testament believers.",
+    "themes": [
+      "obedience and disobedience",
+      "consequences of unbelief",
+      "god's provision",
+      "hearkening to god's voice",
+      "blessing and judgment",
+      "israel's history"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Psalm 81 So Far"
+      },
+      {
+        "t": 231,
+        "heading": "Introduction to Verses 13-16"
+      },
+      {
+        "t": 321,
+        "heading": "God's Desire That Israel Had Hearkened"
+      },
+      {
+        "t": 598,
+        "heading": "Forfeited Subduing of Enemies"
+      },
+      {
+        "t": 1076,
+        "heading": "Forfeited Enduring Favor and Time"
+      },
+      {
+        "t": 1263,
+        "heading": "Forfeited Abundant Provision"
+      },
+      {
+        "t": 1584,
+        "heading": "Application From Hebrews"
+      }
+    ]
+  }
+}

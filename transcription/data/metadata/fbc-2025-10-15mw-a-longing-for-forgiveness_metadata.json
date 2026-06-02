@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-10-15mw-a-longing-for-forgiveness",
+  "title": "A Longing For Forgiveness",
+  "publish_date": "20251015",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-10-15MW-A_Longing_For_Forgiveness.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-10-15MW-A_Longing_For_Forgiveness.mp3",
+  "url": "https://fbcministries.net/sermons/2025-10-15MW-A_Longing_For_Forgiveness.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-10-15MW-A_Longing_For_Forgiveness.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-10-15mw-a-longing-for-forgiveness.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-10-15mw-a-longing-for-forgiveness.json",
+  "duration": 2162,
+  "transcription_timestamp": "2026-06-01T21:28:58.076818",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 25 on David's longing for forgiveness, the third installment in a series covering the psalm's themes of peace, direction, and forgiveness amid trial. God's mercy, pardon, and the removal of sin are examined through Psalm 25, Psalm 103, Hebrews 8 and 10, and Micah 7.",
+    "themes": [
+      "forgiveness",
+      "god's mercy",
+      "self-examination",
+      "divine chastening",
+      "sin and pardon",
+      "trials and affliction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Storms of Life"
+      },
+      {
+        "t": 281,
+        "heading": "Introduction of Forgiveness Theme"
+      },
+      {
+        "t": 373,
+        "heading": "Affliction and Soul Searching"
+      },
+      {
+        "t": 562,
+        "heading": "David's Request: Remember and Remember Not"
+      },
+      {
+        "t": 1233,
+        "heading": "God's Mercy and Pardon Examined"
+      },
+      {
+        "t": 1425,
+        "heading": "Scriptural Promises of Forgiveness"
+      },
+      {
+        "t": 1711,
+        "heading": "God's Removal of Sin: Psalm 103 and Micah 7"
+      },
+      {
+        "t": 2002,
+        "heading": "Summary of Three Longings in Psalm 25"
+      }
+    ]
+  }
+}

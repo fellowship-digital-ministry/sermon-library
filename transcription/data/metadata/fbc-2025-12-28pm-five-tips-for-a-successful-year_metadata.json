@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-12-28pm-five-tips-for-a-successful-year",
+  "title": "Five Tips For A Successful Year",
+  "publish_date": "20251228",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-12-28PM-Five_Tips_For_A_Successful_Year.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-12-28PM-Five_Tips_For_A_Successful_Year.mp3",
+  "url": "https://fbcministries.net/sermons/2025-12-28PM-Five_Tips_For_A_Successful_Year.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-12-28PM-Five_Tips_For_A_Successful_Year.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-12-28pm-five-tips-for-a-successful-year.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-12-28pm-five-tips-for-a-successful-year.json",
+  "duration": 2560,
+  "transcription_timestamp": "2026-06-01T21:03:08.947556",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A New Year's message built around Psalm 90:9-12 and Ephesians 6:10-18, presenting five practical priorities for living a God-glorifying year. Supporting texts include Joshua 1:8, Colossians 1:18, Matthew 6:33, 2 Timothy 2:2, Hebrews 5:11-14, and 1 Peter 5:8.",
+    "themes": [
+      "stewardship of time",
+      "spiritual growth",
+      "discipleship",
+      "spiritual warfare",
+      "goal-setting",
+      "putting god first"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Defining Success Biblically"
+      },
+      {
+        "t": 331,
+        "heading": "The Brevity of Life (Psalm 90)"
+      },
+      {
+        "t": 472,
+        "heading": "Tip One: Put God First"
+      },
+      {
+        "t": 937,
+        "heading": "Tip Two: Redeem the Time"
+      },
+      {
+        "t": 1219,
+        "heading": "Tip Three: Invest in Others"
+      },
+      {
+        "t": 1599,
+        "heading": "Tip Four: Develop Spiritual Goals"
+      },
+      {
+        "t": 1976,
+        "heading": "Tip Five: Put On the Armor"
+      }
+    ]
+  }
+}

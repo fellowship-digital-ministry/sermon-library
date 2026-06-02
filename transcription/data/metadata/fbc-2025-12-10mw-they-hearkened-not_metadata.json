@@ -1,0 +1,62 @@
+{
+  "video_id": "fbc-2025-12-10mw-they-hearkened-not",
+  "title": "They Hearkened Not",
+  "publish_date": "20251210",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-12-10MW-They_Hearkened_Not.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-12-10MW-They_Hearkened_Not.mp3",
+  "url": "https://fbcministries.net/sermons/2025-12-10MW-They_Hearkened_Not.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-12-10MW-They_Hearkened_Not.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-12-10mw-they-hearkened-not.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-12-10mw-they-hearkened-not.json",
+  "duration": 1978,
+  "transcription_timestamp": "2026-06-01T21:08:53.797452",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:11-12 on Israel's refusal to hearken to God, set against the backdrop of Deuteronomy 30 and the consequences of walking in one's own counsel rather than God's.",
+    "themes": [
+      "hearkening to god",
+      "disobedience of god's people",
+      "divine chastening",
+      "the sufficiency of scripture",
+      "consequences of self-counsel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Psalm 81:8-10"
+      },
+      {
+        "t": 189,
+        "heading": "Deuteronomy 30: God's Word Set Before Israel"
+      },
+      {
+        "t": 389,
+        "heading": "Psalm 81:11: My People Hearkened Not"
+      },
+      {
+        "t": 482,
+        "heading": "Who \"My People\" Refers To"
+      },
+      {
+        "t": 861,
+        "heading": "Psalm 81:12: Given Up to Their Own Counsels"
+      },
+      {
+        "t": 1055,
+        "heading": "Proverbs on Man's Way Versus God's Counsel"
+      },
+      {
+        "t": 1474,
+        "heading": "The Cycle of Judges as Parallel"
+      },
+      {
+        "t": 1664,
+        "heading": "2 Peter 1: The More Sure Word of Prophecy"
+      }
+    ]
+  }
+}

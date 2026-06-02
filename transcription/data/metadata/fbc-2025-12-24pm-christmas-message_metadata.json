@@ -1,0 +1,58 @@
+{
+  "video_id": "fbc-2025-12-24pm-christmas-message",
+  "title": "Christmas Message",
+  "publish_date": "20251224",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-12-24PM-Christmas_Message.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-12-24PM-Christmas_Message.mp3",
+  "url": "https://fbcministries.net/sermons/2025-12-24PM-Christmas_Message.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-12-24PM-Christmas_Message.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-12-24pm-christmas-message.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-12-24pm-christmas-message.json",
+  "duration": 682,
+  "transcription_timestamp": "2026-06-01T21:03:59.646196",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 4:14 on the identity and purpose of Christ as Savior of the world, delivered as a Christmas message. The passage frames a presentation of the gospel centered on the universal need for salvation and the gift of eternal life through Christ's shed blood.",
+    "themes": [
+      "christmas",
+      "salvation",
+      "the gift of eternal life",
+      "the need for a savior",
+      "personal faith in christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Christmas and John's Declaration"
+      },
+      {
+        "t": 45,
+        "heading": "1 John 4:14 Introduced"
+      },
+      {
+        "t": 140,
+        "heading": "Universal Need for a Savior"
+      },
+      {
+        "t": 231,
+        "heading": "Christ's Death and Payment for Sin"
+      },
+      {
+        "t": 324,
+        "heading": "The Gift of Eternal Life"
+      },
+      {
+        "t": 464,
+        "heading": "How the Savior Becomes Personal"
+      },
+      {
+        "t": 560,
+        "heading": "Closing Prayer and Gospel Invitation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "fbc-2025-12-03mw-wilt-thou-hearken",
+  "title": "Wilt Thou Hearken",
+  "publish_date": "20251203",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-12-03MW-Wilt_Thou_Hearken.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-12-03MW-Wilt_Thou_Hearken.mp3",
+  "url": "https://fbcministries.net/sermons/2025-12-03MW-Wilt_Thou_Hearken.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-12-03MW-Wilt_Thou_Hearken.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-12-03mw-wilt-thou-hearken.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-12-03mw-wilt-thou-hearken.json",
+  "duration": 1983,
+  "transcription_timestamp": "2026-06-01T21:11:12.866588",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:8-10 on the call to hearken, presented as the first of three studies on the word 'hearken' in the final nine verses of the psalm, set within the context of the Feast of Tabernacles and God's dealings with Israel.",
+    "themes": [
+      "hearkening to god",
+      "divine instruction",
+      "warnings in scripture",
+      "idolatry",
+      "god's provision and satisfaction",
+      "reminders of god's past acts"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm Overview"
+      },
+      {
+        "t": 45,
+        "heading": "The Word Hearken Defined"
+      },
+      {
+        "t": 227,
+        "heading": "The Lord Instructs"
+      },
+      {
+        "t": 509,
+        "heading": "The Lord Warns"
+      },
+      {
+        "t": 796,
+        "heading": "The Lord Reminds"
+      },
+      {
+        "t": 1312,
+        "heading": "The Lord Satisfies"
+      }
+    ]
+  }
+}

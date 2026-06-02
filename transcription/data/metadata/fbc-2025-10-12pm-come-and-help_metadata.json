@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-10-12pm-come-and-help",
+  "title": "Come And Help",
+  "publish_date": "20251012",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-10-12PM-Come_And_Help.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-10-12PM-Come_And_Help.mp3",
+  "url": "https://fbcministries.net/sermons/2025-10-12PM-Come_And_Help.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-10-12PM-Come_And_Help.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-10-12pm-come-and-help.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-10-12pm-come-and-help.json",
+  "duration": 2865,
+  "transcription_timestamp": "2026-06-01T21:33:08.143144",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 5:1-11 on the miraculous catch of fish, tracing the master's command, Peter's faith, and the ministry call, with extended application to Acts 8:1-4 on the responsibility of local church members to participate in evangelism and follow-up outreach.",
+    "themes": [
+      "faith and obedience",
+      "evangelism",
+      "the role of church members in outreach",
+      "co-laboring in ministry",
+      "the great commission",
+      "follow-up visitation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Reading"
+      },
+      {
+        "t": 232,
+        "heading": "The Master's Command to Peter"
+      },
+      {
+        "t": 470,
+        "heading": "Faith Required for Obedience"
+      },
+      {
+        "t": 942,
+        "heading": "The Miraculous Catch and Partners Called"
+      },
+      {
+        "t": 1363,
+        "heading": "The Ministry Call in Luke 5"
+      },
+      {
+        "t": 1601,
+        "heading": "Acts 8 and the Scattered Church Preaching"
+      },
+      {
+        "t": 2320,
+        "heading": "Application to Local Church Outreach Needs"
+      }
+    ]
+  }
+}

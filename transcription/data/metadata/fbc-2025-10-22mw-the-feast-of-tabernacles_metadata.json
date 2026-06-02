@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-10-22mw-the-feast-of-tabernacles",
+  "title": "The Feast Of Tabernacles",
+  "publish_date": "20251022",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-10-22MW-The_Feast_Of_Tabernacles.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-10-22MW-The_Feast_Of_Tabernacles.mp3",
+  "url": "https://fbcministries.net/sermons/2025-10-22MW-The_Feast_Of_Tabernacles.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-10-22MW-The_Feast_Of_Tabernacles.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-10-22mw-the-feast-of-tabernacles.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-10-22mw-the-feast-of-tabernacles.json",
+  "duration": 2273,
+  "transcription_timestamp": "2026-06-01T21:26:22.524349",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory study of Psalm 81 as a psalm associated with the Feast of Tabernacles, drawing on Leviticus 23, Exodus 23, John 7, and Zechariah 14 to establish the historical, legal, and prophetic background of the feast before the psalm itself is examined in subsequent sessions.",
+    "themes": [
+      "feast of tabernacles",
+      "old testament feasts",
+      "remembrance and memorials",
+      "god's provision",
+      "millennial reign of christ",
+      "obedience and forfeited blessing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Psalm 25 Series"
+      },
+      {
+        "t": 93,
+        "heading": "Introduction to Psalm 81"
+      },
+      {
+        "t": 236,
+        "heading": "Leviticus 23: Feast of Tabernacles Described"
+      },
+      {
+        "t": 619,
+        "heading": "Significance of Dwelling in Booths"
+      },
+      {
+        "t": 1041,
+        "heading": "John 7: Jesus at the Feast"
+      },
+      {
+        "t": 1669,
+        "heading": "Zechariah 14: The Feast in the Millennial Reign"
+      },
+      {
+        "t": 1997,
+        "heading": "Application and Closing Summary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-09-03mw-el-olam",
+  "title": "El Olam",
+  "publish_date": "20250903",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-09-03MW-El_Olam.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-09-03MW-El_Olam.mp3",
+  "url": "https://fbcministries.net/sermons/2025-09-03MW-El_Olam.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-09-03MW-El_Olam.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-09-03mw-el-olam.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-09-03mw-el-olam.json",
+  "duration": 2235,
+  "transcription_timestamp": "2026-06-01T21:49:00.713174",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 90:1-12 on El Olam, the everlasting God, part of a Wednesday evening series on the names of God. Isaiah 40:28, selected covenants, and New Testament passages on preservation and eternal life are drawn in to develop three ramifications of God's eternality.",
+    "themes": [
+      "names of god",
+      "eternality of god",
+      "everlasting covenants",
+      "preservation of scripture",
+      "everlasting life",
+      "brevity of human life"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and El Roy Review"
+      },
+      {
+        "t": 46,
+        "heading": "Psalm 90 and El Olam Introduced"
+      },
+      {
+        "t": 324,
+        "heading": "Brevity of Human Life Contrasted"
+      },
+      {
+        "t": 464,
+        "heading": "Isaiah 40:28 on the Everlasting God"
+      },
+      {
+        "t": 558,
+        "heading": "Everlasting Covenants: Noahic, Abrahamic, Davidic"
+      },
+      {
+        "t": 980,
+        "heading": "Preservation of God's Word"
+      },
+      {
+        "t": 1487,
+        "heading": "Everlasting Life Offered Through Christ"
+      }
+    ]
+  }
+}

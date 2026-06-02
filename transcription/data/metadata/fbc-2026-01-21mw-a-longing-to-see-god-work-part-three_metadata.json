@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2026-01-21mw-a-longing-to-see-god-work-part-three",
+  "title": "A Longing To See God Work Part Three",
+  "publish_date": "20260121",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-01-21MW-A_Longing_To_See_God_Work_Part_Three.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-01-21MW-A_Longing_To_See_God_Work_Part_Three.mp3",
+  "url": "https://fbcministries.net/sermons/2026-01-21MW-A_Longing_To_See_God_Work_Part_Three.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-01-21MW-A_Longing_To_See_God_Work_Part_Three.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-01-21mw-a-longing-to-see-god-work-part-three.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-01-21mw-a-longing-to-see-god-work-part-three.json",
+  "duration": 2065,
+  "transcription_timestamp": "2026-06-01T20:54:38.912270",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 20:1-11 on Hezekiah's illness, prayer, and the miraculous sign of the shadow reversing ten degrees, set within a three-part Wednesday evening series on longing to see God work in the life of the believer and the local church.",
+    "themes": [
+      "prayer",
+      "the power of god",
+      "signs and miracles",
+      "faith",
+      "seeking god",
+      "the promises of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Context"
+      },
+      {
+        "t": 140,
+        "heading": "Background on Hezekiah"
+      },
+      {
+        "t": 277,
+        "heading": "Isaiah's Announcement of Death"
+      },
+      {
+        "t": 368,
+        "heading": "Hezekiah's Prayer: Immediate and Fervent"
+      },
+      {
+        "t": 687,
+        "heading": "God's Promise: Healing and Fifteen Years"
+      },
+      {
+        "t": 1096,
+        "heading": "Hezekiah's Request for a Sign"
+      },
+      {
+        "t": 1385,
+        "heading": "The Supernatural Sign: Shadow Reversed"
+      },
+      {
+        "t": 1529,
+        "heading": "Application: Longing to See God Work"
+      }
+    ]
+  }
+}

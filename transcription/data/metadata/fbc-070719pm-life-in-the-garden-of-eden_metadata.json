@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-070719pm-life-in-the-garden-of-eden",
+  "title": "Life In The Garden Of Eden",
+  "publish_date": "20190707",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/070719PM-Life_In_The_Garden_Of_Eden.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/070719PM-Life_In_The_Garden_Of_Eden.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/070719PM-Life_In_The_Garden_Of_Eden.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/070719PM-Life_In_The_Garden_Of_Eden.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-070719pm-life-in-the-garden-of-eden.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-070719pm-life-in-the-garden-of-eden.json",
+  "duration": 2503,
+  "transcription_timestamp": "2026-06-02T01:21:15.766059",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 2:4-23 on the creation account, the Garden of Eden, and God's first command to mankind, situated within a continuing series through Genesis. The passage is treated as a detailed spotlight on day six of creation, covering the forming of Adam and Eve, the description of Eden, and the prohibition concerning the tree of the knowledge of good and evil.",
+    "themes": [
+      "creation",
+      "garden of eden",
+      "state of innocency",
+      "god's commands",
+      "tree of life",
+      "man as god's prized creation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Genesis 1 and 2 Compared"
+      },
+      {
+        "t": 467,
+        "heading": "Details of God's Work on Day Six"
+      },
+      {
+        "t": 892,
+        "heading": "New Testament References to Creation Order"
+      },
+      {
+        "t": 1032,
+        "heading": "Description of Man's Home in Eden"
+      },
+      {
+        "t": 1505,
+        "heading": "The Decree of God: First Command to Man"
+      },
+      {
+        "t": 2023,
+        "heading": "The Tree of Life in Revelation 22"
+      },
+      {
+        "t": 2258,
+        "heading": "The Garden of Gethsemane and the Cross"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-072119pm-sin-entered-the-world",
+  "title": "Sin Entered The World",
+  "publish_date": "20190721",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/072119PM-Sin_Entered_The_World.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/072119PM-Sin_Entered_The_World.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/072119PM-Sin_Entered_The_World.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/072119PM-Sin_Entered_The_World.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-072119pm-sin-entered-the-world.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-072119pm-sin-entered-the-world.json",
+  "duration": 2168,
+  "transcription_timestamp": "2026-06-02T01:14:42.028286",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 3:1-7 on the entrance of sin into the world, tracing the serpent's conversation with Eve, the course of sin in verse 6, and the immediate cost of sin in verse 7, with supporting references to Romans 5, 1 John 2, 1 Timothy 2, and 1 Corinthians 15.",
+    "themes": [
+      "temptation",
+      "origin of sin",
+      "satan's tactics",
+      "the fall of mankind",
+      "creator and redeemer",
+      "the word of god under attack"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Reading and Context"
+      },
+      {
+        "t": 94,
+        "heading": "Adam and Eve in the Garden"
+      },
+      {
+        "t": 380,
+        "heading": "Origin and Fall of Lucifer"
+      },
+      {
+        "t": 804,
+        "heading": "The Conversation: Satan Attacks God's Word"
+      },
+      {
+        "t": 1184,
+        "heading": "The Course of Sin in Verse 6"
+      },
+      {
+        "t": 1734,
+        "heading": "The Cost of Sin in Verse 7"
+      },
+      {
+        "t": 1969,
+        "heading": "Sin's Broken Fellowship and Satan's Tactics"
+      }
+    ]
+  }
+}

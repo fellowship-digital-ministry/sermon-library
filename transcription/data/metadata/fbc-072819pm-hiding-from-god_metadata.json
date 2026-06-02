@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-072819pm-hiding-from-god",
+  "title": "Hiding From God",
+  "publish_date": "20190728",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/072819PM-Hiding_From_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/072819PM-Hiding_From_God.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/072819PM-Hiding_From_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/072819PM-Hiding_From_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-072819pm-hiding-from-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-072819pm-hiding-from-god.json",
+  "duration": 2161,
+  "transcription_timestamp": "2026-06-02T01:11:38.022337",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 3:7-13 on the immediate aftermath of the fall, tracing Adam and Eve's shame, their attempt to hide from God, and God's pursuit of fallen humanity. Achan, David, and Proverbs 28:13 are drawn in as parallel illustrations of concealed sin.",
+    "themes": [
+      "shame and fear as consequences of sin",
+      "hiding sin from god",
+      "omniscience and omnipresence of god",
+      "god's pursuit of fallen man",
+      "confession and restoration",
+      "covering sin versus confessing sin"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 142,
+        "heading": "Satan's Lies and God's Character"
+      },
+      {
+        "t": 334,
+        "heading": "Adam and Eve Hide from God"
+      },
+      {
+        "t": 523,
+        "heading": "Shame, Fear, and Society's Loss of Shame"
+      },
+      {
+        "t": 894,
+        "heading": "Attempts to Cover Sin: Achan and David"
+      },
+      {
+        "t": 1364,
+        "heading": "God's Pursuit of Adam"
+      },
+      {
+        "t": 1739,
+        "heading": "God's Probing Questions and the Blame Game"
+      },
+      {
+        "t": 1976,
+        "heading": "Confession, Restoration, and the Danger of Hiding"
+      }
+    ]
+  }
+}

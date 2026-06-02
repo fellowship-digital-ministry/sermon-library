@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-063019pm-the-heavens-and-the-earth-were-finished",
+  "title": "The Heavens And The Earth Were Finished",
+  "publish_date": "20190630",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/063019PM-The_Heavens_And_The_Earth_Were_Finished.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/063019PM-The_Heavens_And_The_Earth_Were_Finished.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/063019PM-The_Heavens_And_The_Earth_Were_Finished.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/063019PM-The_Heavens_And_The_Earth_Were_Finished.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-063019pm-the-heavens-and-the-earth-were-finished.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-063019pm-the-heavens-and-the-earth-were-finished.json",
+  "duration": 2080,
+  "transcription_timestamp": "2026-06-02T01:23:56.448324",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 2:1-3 on the completion of creation and the designation of the seventh day, tracing the Creator's identity and the Sabbath pattern across both Testaments.",
+    "themes": [
+      "creation",
+      "the seventh day and sabbath",
+      "jesus christ as creator",
+      "six literal days",
+      "adaptation within created kinds",
+      "biblical authority"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Series Context"
+      },
+      {
+        "t": 47,
+        "heading": "The Week of Creation Reviewed"
+      },
+      {
+        "t": 377,
+        "heading": "God Declares Creative Work Complete"
+      },
+      {
+        "t": 708,
+        "heading": "New Testament Witness to Christ as Creator"
+      },
+      {
+        "t": 1382,
+        "heading": "Designation of the Seventh Day"
+      },
+      {
+        "t": 1571,
+        "heading": "The Sabbath Pattern in Exodus"
+      },
+      {
+        "t": 1902,
+        "heading": "The Sabbath Sign and New Testament Worship"
+      }
+    ]
+  }
+}

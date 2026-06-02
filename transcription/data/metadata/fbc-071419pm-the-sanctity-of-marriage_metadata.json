@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-071419pm-the-sanctity-of-marriage",
+  "title": "The Sanctity Of Marriage",
+  "publish_date": "20190714",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/071419PM-The_Sanctity_Of_Marriage.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/071419PM-The_Sanctity_Of_Marriage.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/071419PM-The_Sanctity_Of_Marriage.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/071419PM-The_Sanctity_Of_Marriage.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-071419pm-the-sanctity-of-marriage.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-071419pm-the-sanctity-of-marriage.json",
+  "duration": 2188,
+  "transcription_timestamp": "2026-06-02T01:17:38.987227",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 2:22-25 on the divine origin and pattern of marriage, with cross-references to Matthew 19:4-6, 1 Corinthians 6:18, and Hebrews 13:4, examining the biblical definition of marriage and contrasting it with practices the preacher argues the text requires rejecting.",
+    "themes": [
+      "marriage",
+      "biblical authority",
+      "sexual ethics",
+      "gender",
+      "cultural engagement",
+      "family"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Genesis 2 Text Introduced"
+      },
+      {
+        "t": 282,
+        "heading": "Marriage as God's Design, Not Man's"
+      },
+      {
+        "t": 516,
+        "heading": "Jesus Cites Genesis in Matthew 19"
+      },
+      {
+        "t": 796,
+        "heading": "Polygamy and Sologamy Addressed"
+      },
+      {
+        "t": 1032,
+        "heading": "Same-Sex Marriage and Cultural Influence"
+      },
+      {
+        "t": 1548,
+        "heading": "Fornication and Adultery Rejected"
+      },
+      {
+        "t": 1787,
+        "heading": "Hebrews 13 on Marriage's Honor"
+      },
+      {
+        "t": 1877,
+        "heading": "Embracing Biblical Truth Requires Rejection of Alternatives"
+      }
+    ]
+  }
+}

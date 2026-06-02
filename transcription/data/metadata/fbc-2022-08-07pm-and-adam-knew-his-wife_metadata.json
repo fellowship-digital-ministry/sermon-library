@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2022-08-07pm-and-adam-knew-his-wife",
+  "title": "And Adam Knew His Wife",
+  "publish_date": "20220807",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2022-08-07PM-And_Adam_Knew_His_Wife.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2022-08-07PM-And_Adam_Knew_His_Wife.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2022-08-07PM-And_Adam_Knew_His_Wife.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2022-08-07PM-And_Adam_Knew_His_Wife.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2022-08-07pm-and-adam-knew-his-wife.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2022-08-07pm-and-adam-knew-his-wife.json",
+  "duration": 2708,
+  "transcription_timestamp": "2026-06-01T23:57:01.881298",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 4:16-17 addressing the question of where Cain obtained his wife, set within a Sunday evening 'Ask the Pastor' series. The study defends the sole creation of Adam and Eve as the origin of the human race and traces the doctrinal consequences of alternative views for the biblical gospel.",
+    "themes": [
+      "authority and sufficiency of scripture",
+      "origins of the human race",
+      "cain's wife",
+      "answering skeptics",
+      "sin and redemption through adam and christ",
+      "discipleship and doctrinal grounding"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Question Introduced"
+      },
+      {
+        "t": 45,
+        "heading": "Skeptics and the Attack on Scripture"
+      },
+      {
+        "t": 229,
+        "heading": "The Claim of Multiple Human Origins"
+      },
+      {
+        "t": 513,
+        "heading": "Scripture's Singular Account of Adam and Eve"
+      },
+      {
+        "t": 1214,
+        "heading": "Cain's Wife Identified as a Sister"
+      },
+      {
+        "t": 1593,
+        "heading": "Adam and Eve's Many Descendants"
+      },
+      {
+        "t": 1972,
+        "heading": "Gospel Implications in Romans 5 and 1 Corinthians 15"
+      },
+      {
+        "t": 2506,
+        "heading": "Conclusion and Closing Application"
+      }
+    ]
+  }
+}

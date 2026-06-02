@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-042819pm-the-fifth-day",
+  "title": "The Fifth Day",
+  "publish_date": "20190428",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/042819PM-The_Fifth_Day.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/042819PM-The_Fifth_Day.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/042819PM-The_Fifth_Day.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/042819PM-The_Fifth_Day.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-042819pm-the-fifth-day.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-042819pm-the-fifth-day.json",
+  "duration": 1670,
+  "transcription_timestamp": "2026-06-02T01:37:46.581690",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:20-23 on the fifth day of creation, covering the origin of sea life and birds, with attention to biological design as evidence of divine wisdom and power.",
+    "themes": [
+      "creation",
+      "sea life",
+      "birds and feathers",
+      "design and creator",
+      "kinds in creation",
+      "fossil record"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Day Five"
+      },
+      {
+        "t": 94,
+        "heading": "Creation Ready for Life"
+      },
+      {
+        "t": 192,
+        "heading": "Reading of Genesis 1:20-23"
+      },
+      {
+        "t": 286,
+        "heading": "Sea Life Created Abundantly"
+      },
+      {
+        "t": 570,
+        "heading": "Design of Gills and Breathing"
+      },
+      {
+        "t": 952,
+        "heading": "Fowl Created on Day Five"
+      },
+      {
+        "t": 1141,
+        "heading": "Marvel of Feathers and Evolution"
+      },
+      {
+        "t": 1427,
+        "heading": "Purpose, Place, and God's Assessment"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-033119pm-the-second-day",
+  "title": "The Second Day",
+  "publish_date": "20190331",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/033119PM-The_Second_Day.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/033119PM-The_Second_Day.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/033119PM-The_Second_Day.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/033119PM-The_Second_Day.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-033119pm-the-second-day.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-033119pm-the-second-day.json",
+  "duration": 2067,
+  "transcription_timestamp": "2026-06-02T01:44:31.456725",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:6-8 on the second day of creation, examining the firmament God created to divide the waters above from the waters below. The passage is read alongside Psalm 104:24, Genesis 7:4, 2 Peter 3:3-7, and Isaiah 40:22 to address atmospheric and climatic differences between the pre-flood and present world.",
+    "themes": [
+      "creation",
+      "the firmament",
+      "biblical worldview vs. evolution",
+      "the global flood",
+      "longevity of life",
+      "omniscience of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 143,
+        "heading": "The Firmament as Demonstration of God's Wisdom"
+      },
+      {
+        "t": 237,
+        "heading": "Atmospheric and Climatic Effects of the Firmament"
+      },
+      {
+        "t": 665,
+        "heading": "Longevity of Life Before and After the Flood"
+      },
+      {
+        "t": 945,
+        "heading": "Fossil Record and Scientific Evidence"
+      },
+      {
+        "t": 1176,
+        "heading": "The Flood and the Removal of the Firmament"
+      },
+      {
+        "t": 1324,
+        "heading": "Peter's Answer to Scoffers (2 Peter 3)"
+      },
+      {
+        "t": 1807,
+        "heading": "Modern Physics, God's Word, and Closing Verses"
+      }
+    ]
+  }
+}

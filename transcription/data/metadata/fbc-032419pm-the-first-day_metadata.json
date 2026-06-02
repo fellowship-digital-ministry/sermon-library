@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-032419pm-the-first-day",
+  "title": "The First Day",
+  "publish_date": "20190324",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/032419PM-The_First_Day.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/032419PM-The_First_Day.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/032419PM-The_First_Day.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/032419PM-The_First_Day.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-032419pm-the-first-day.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-032419pm-the-first-day.json",
+  "duration": 2137,
+  "transcription_timestamp": "2026-06-02T01:47:35.264201",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:1-5 on the events of the first day of creation, read alongside Hebrews 11:3, examining the sequential record of creation, the stability of the earth, and its suitability for life.",
+    "themes": [
+      "creation",
+      "days of creation",
+      "stability of the universe",
+      "earth suited for life",
+      "god as creator",
+      "literal genesis account"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Hebrews 11:3 and Faith in Creation"
+      },
+      {
+        "t": 244,
+        "heading": "Sequential Structure of Genesis 1"
+      },
+      {
+        "t": 387,
+        "heading": "Earth in Its Elemental Form"
+      },
+      {
+        "t": 580,
+        "heading": "Stability of Creation Established"
+      },
+      {
+        "t": 857,
+        "heading": "Light Created and the Sun Distinct"
+      },
+      {
+        "t": 1095,
+        "heading": "Solar Day Cycle and Ongoing Stability"
+      },
+      {
+        "t": 1282,
+        "heading": "Earth Positioned Suitable for Life"
+      },
+      {
+        "t": 1614,
+        "heading": "Other Planets Compared to Earth"
+      }
+    ]
+  }
+}

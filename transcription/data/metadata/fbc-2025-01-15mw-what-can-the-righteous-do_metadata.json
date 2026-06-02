@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-01-15mw-what-can-the-righteous-do",
+  "title": "What Can The Righteous Do",
+  "publish_date": "20250115",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-01-15MW-What_Can_The_Righteous_Do.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-01-15MW-What_Can_The_Righteous_Do.mp3",
+  "url": "https://fbcministries.net/sermons/2025-01-15MW-What_Can_The_Righteous_Do.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-01-15MW-What_Can_The_Righteous_Do.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-01-15mw-what-can-the-righteous-do.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-01-15mw-what-can-the-righteous-do.json",
+  "duration": 1523,
+  "transcription_timestamp": "2026-06-01T22:47:18.642610",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 11:3-4 on the question 'What can the righteous do?' when societal foundations erode, set within a five-week series on Psalm 11 and illustrated from David's flight from Saul in 1 Samuel 22.",
+    "themes": [
+      "trust in god",
+      "societal decay",
+      "divine sovereignty",
+      "discouragement",
+      "perspective and focus",
+      "obedience"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series recap: Psalm 11 so far"
+      },
+      {
+        "t": 194,
+        "heading": "Verse 3: the question introduced"
+      },
+      {
+        "t": 239,
+        "heading": "Circumstances: foundations being destroyed"
+      },
+      {
+        "t": 337,
+        "heading": "Illustration from 1 Samuel 22: slaughter of the priests"
+      },
+      {
+        "t": 709,
+        "heading": "Effect of circumstances on the righteous"
+      },
+      {
+        "t": 803,
+        "heading": "Verse 4: confidence in God on his throne"
+      },
+      {
+        "t": 1175,
+        "heading": "What the righteous can do: a proper perspective"
+      }
+    ]
+  }
+}

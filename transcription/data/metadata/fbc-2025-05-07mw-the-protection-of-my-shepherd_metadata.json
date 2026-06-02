@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-05-07mw-the-protection-of-my-shepherd",
+  "title": "The Protection Of My Shepherd",
+  "publish_date": "20250507",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-05-07MW-The_Protection_Of_My_Shepherd.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-05-07MW-The_Protection_Of_My_Shepherd.mp3",
+  "url": "https://fbcministries.net/sermons/2025-05-07MW-The_Protection_Of_My_Shepherd.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-05-07MW-The_Protection_Of_My_Shepherd.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-05-07mw-the-protection-of-my-shepherd.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-05-07mw-the-protection-of-my-shepherd.json",
+  "duration": 2094,
+  "transcription_timestamp": "2026-06-01T22:18:10.376768",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 23:4 on the protection provided by God as shepherd, drawing on the name Jehovah-Ra and tracing the theme through David's own experience as a shepherd, selected Psalms, John 10, and 2 Timothy 4.",
+    "themes": [
+      "divine protection",
+      "jehovah-ra",
+      "the good shepherd",
+      "security of the believer",
+      "fear and danger",
+      "shepherd and sheep"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm 23 Review"
+      },
+      {
+        "t": 184,
+        "heading": "David as Shepherd: Protecting the Flock"
+      },
+      {
+        "t": 324,
+        "heading": "God as Keeper: Psalm 121 and Related Psalms"
+      },
+      {
+        "t": 508,
+        "heading": "Shield, Rock, and Fortress in the Psalms"
+      },
+      {
+        "t": 924,
+        "heading": "Expecting Protection: John 10 and the Good Shepherd"
+      },
+      {
+        "t": 1450,
+        "heading": "Experiencing Protection: Paul's Testimony in 2 Timothy 4"
+      },
+      {
+        "t": 1690,
+        "heading": "Accounts of Supernatural Protection"
+      },
+      {
+        "t": 1839,
+        "heading": "Psalm 34: God's Eyes, Ears, and Deliverance"
+      }
+    ]
+  }
+}

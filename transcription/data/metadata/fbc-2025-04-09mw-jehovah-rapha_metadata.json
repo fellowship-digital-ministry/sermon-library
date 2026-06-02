@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-04-09mw-jehovah-rapha",
+  "title": "Jehovah Rapha",
+  "publish_date": "20250409",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-04-09MW-Jehovah_Rapha.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-04-09MW-Jehovah_Rapha.mp3",
+  "url": "https://fbcministries.net/sermons/2025-04-09MW-Jehovah_Rapha.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-04-09MW-Jehovah_Rapha.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-04-09mw-jehovah-rapha.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-04-09mw-jehovah-rapha.json",
+  "duration": 2101,
+  "transcription_timestamp": "2026-06-01T22:30:43.008213",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 15:22-27 on the name Jehovah Rapha, the Lord who heals, tracing physical, spiritual, and national dimensions of divine healing through Old and New Testament passages and examining both exemplary and negative responses to God as healer.",
+    "themes": [
+      "names of god",
+      "divine healing",
+      "prayer in sickness",
+      "conditional promises",
+      "backsliding and restoration",
+      "ultimate healing in eternity"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context: Israel After the Red Sea"
+      },
+      {
+        "t": 191,
+        "heading": "Exodus 15: Marah and Jehovah Rapha"
+      },
+      {
+        "t": 337,
+        "heading": "Conditional Promise and Its Scope"
+      },
+      {
+        "t": 431,
+        "heading": "Healing in Chronicles, Psalms, and Jeremiah"
+      },
+      {
+        "t": 715,
+        "heading": "Positive Responses: Moses, Nehemiah, Hezekiah"
+      },
+      {
+        "t": 1288,
+        "heading": "Negative Responses: Ahaziah and Asa"
+      },
+      {
+        "t": 1585,
+        "heading": "Unanswered Healing and Sufficient Grace"
+      },
+      {
+        "t": 1725,
+        "heading": "Ultimate Healing in Revelation 21"
+      }
+    ]
+  }
+}

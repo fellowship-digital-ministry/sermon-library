@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-06-25mw-beware-of-false-teachers",
+  "title": "Beware Of False Teachers",
+  "publish_date": "20250625",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-06-25MW-Beware_Of_False_Teachers.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-06-25MW-Beware_Of_False_Teachers.mp3",
+  "url": "https://fbcministries.net/sermons/2025-06-25MW-Beware_Of_False_Teachers.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-06-25MW-Beware_Of_False_Teachers.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-06-25mw-beware-of-false-teachers.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-06-25mw-beware-of-false-teachers.json",
+  "duration": 2460,
+  "transcription_timestamp": "2026-06-01T22:10:34.152211",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Peter 2:1-3 on the existence and danger of false teaching, drawing also from 1 Timothy, Titus, Jude, Ephesians, Colossians, Acts 20, and 2 Peter 3 to survey the biblical warnings against false teachers and the role of Scripture as protection against doctrinal deception.",
+    "themes": [
+      "false teaching",
+      "biblical authority",
+      "spiritual discernment",
+      "scripture as protection",
+      "sound doctrine",
+      "spiritual blindness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Observations on False Teaching"
+      },
+      {
+        "t": 97,
+        "heading": "Scripture as Personal Protective Equipment"
+      },
+      {
+        "t": 341,
+        "heading": "Reality of False Teaching"
+      },
+      {
+        "t": 991,
+        "heading": "Reasons for False Teaching: Deception and Blindness"
+      },
+      {
+        "t": 1548,
+        "heading": "Scripture as the Remedy"
+      },
+      {
+        "t": 1777,
+        "heading": "The Pastor's Role in Feeding the Flock"
+      },
+      {
+        "t": 2065,
+        "heading": "Warning Against Being Led Astray"
+      }
+    ]
+  }
+}

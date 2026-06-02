@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-05-14mw-the-presence-of-my-shepherd",
+  "title": "The Presence Of My Shepherd",
+  "publish_date": "20250514",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-05-14MW-The_Presence_Of_My_Shepherd.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-05-14MW-The_Presence_Of_My_Shepherd.mp3",
+  "url": "https://fbcministries.net/sermons/2025-05-14MW-The_Presence_Of_My_Shepherd.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-05-14MW-The_Presence_Of_My_Shepherd.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-05-14mw-the-presence-of-my-shepherd.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-05-14mw-the-presence-of-my-shepherd.json",
+  "duration": 1987,
+  "transcription_timestamp": "2026-06-01T22:15:37.988762",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 23:4 on the presence of God as shepherd, tracing the phrase 'thou art with me' through David, Joshua, Jeremiah, and the disciples, with supporting references to Hebrews 13:5-6, Joshua 1, Jeremiah 1 and 20, and Matthew 28:18-20. Part of a series on the names of God, specifically Jehovah-Raah.",
+    "themes": [
+      "presence of god",
+      "confidence in god",
+      "fear and courage",
+      "the shepherd and sheep",
+      "names of god",
+      "living in awareness of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm 23 Overview"
+      },
+      {
+        "t": 143,
+        "heading": "Verse 4: Thou Art With Me"
+      },
+      {
+        "t": 332,
+        "heading": "God's Omnipresence and Hebrews 13"
+      },
+      {
+        "t": 655,
+        "heading": "Impact on Joshua"
+      },
+      {
+        "t": 943,
+        "heading": "Impact on Jeremiah"
+      },
+      {
+        "t": 1182,
+        "heading": "Impact on the Disciples"
+      },
+      {
+        "t": 1557,
+        "heading": "Comfort and Conviction in Daily Life"
+      },
+      {
+        "t": 1794,
+        "heading": "Hebrews 13:6 and Closing Application"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-05-21mw-jesus-our-shepherd",
+  "title": "Jesus Our Shepherd",
+  "publish_date": "20250521",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-05-21MW-Jesus_Our_Shepherd.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-05-21MW-Jesus_Our_Shepherd.mp3",
+  "url": "https://fbcministries.net/sermons/2025-05-21MW-Jesus_Our_Shepherd.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-05-21MW-Jesus_Our_Shepherd.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-05-21mw-jesus-our-shepherd.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-05-21mw-jesus-our-shepherd.json",
+  "duration": 2232,
+  "transcription_timestamp": "2026-06-01T22:13:13.718831",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Jesus as shepherd across John 10, Hebrews 13, and 1 Peter 5, tracing three New Testament titles (Good Shepherd, Great Shepherd, Chief Shepherd) in parallel with Psalms 22, 23, and 24. Part of a series on the divine name Jehovah-Raah introduced in Psalm 23.",
+    "themes": [
+      "jesus as shepherd",
+      "the resurrection",
+      "the second coming",
+      "fear of death",
+      "god working in believers",
+      "names of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and 1 Peter 2"
+      },
+      {
+        "t": 231,
+        "heading": "The Good Shepherd: John 10 and Psalm 22"
+      },
+      {
+        "t": 610,
+        "heading": "The Great Shepherd: Hebrews 13 and Resurrection"
+      },
+      {
+        "t": 946,
+        "heading": "Conquering Death: Hebrews 2 and Psalm 23"
+      },
+      {
+        "t": 1371,
+        "heading": "The Chief Shepherd: 1 Peter 5 and Return of Christ"
+      },
+      {
+        "t": 1787,
+        "heading": "Psalm 24 and the King of Glory"
+      },
+      {
+        "t": 1884,
+        "heading": "Rapture, Tribulation, and Millennial Reign"
+      },
+      {
+        "t": 2026,
+        "heading": "Summary of Three Shepherd Titles"
+      }
+    ]
+  }
+}

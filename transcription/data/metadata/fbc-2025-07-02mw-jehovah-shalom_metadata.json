@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-07-02mw-jehovah-shalom",
+  "title": "Jehovah Shalom",
+  "publish_date": "20250702",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-07-02MW-Jehovah_Shalom.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-07-02MW-Jehovah_Shalom.mp3",
+  "url": "https://fbcministries.net/sermons/2025-07-02MW-Jehovah_Shalom.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-07-02MW-Jehovah_Shalom.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-07-02mw-jehovah-shalom.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-07-02mw-jehovah-shalom.json",
+  "duration": 2364,
+  "transcription_timestamp": "2026-06-01T22:07:53.204619",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Judges 6:23-24 on the name Jehovah Shalom, tracing the absence, announcement, and assurance of peace through the account of Gideon and connecting that name to New Testament teaching on peace with God and the peace of God.",
+    "themes": [
+      "names of god",
+      "peace with god",
+      "peace of god",
+      "salvation and reconciliation",
+      "assurance of salvation",
+      "evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Name Introduced"
+      },
+      {
+        "t": 139,
+        "heading": "Definition of Peace Presented"
+      },
+      {
+        "t": 277,
+        "heading": "Absence of Peace: Gideon and Israel"
+      },
+      {
+        "t": 374,
+        "heading": "Absence of Peace: Humanity Without Christ"
+      },
+      {
+        "t": 709,
+        "heading": "Announcement of Peace: Gideon and Messianic Prophecy"
+      },
+      {
+        "t": 1410,
+        "heading": "Assurance of Peace With God"
+      },
+      {
+        "t": 1832,
+        "heading": "The Peace of God in Daily Life"
+      },
+      {
+        "t": 1971,
+        "heading": "Peace in Tribulation: John 14 and 16"
+      }
+    ]
+  }
+}

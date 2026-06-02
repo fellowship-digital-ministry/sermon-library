@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-08-06mw-when-they-had-fasted-and-prayed",
+  "title": "When They Had Fasted And Prayed",
+  "publish_date": "20250806",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-08-06MW-When_They_Had_Fasted_And_Prayed.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-08-06MW-When_They_Had_Fasted_And_Prayed.mp3",
+  "url": "https://fbcministries.net/sermons/2025-08-06MW-When_They_Had_Fasted_And_Prayed.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-08-06MW-When_They_Had_Fasted_And_Prayed.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-08-06mw-when-they-had-fasted-and-prayed.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-08-06mw-when-they-had-fasted-and-prayed.json",
+  "duration": 2219,
+  "transcription_timestamp": "2026-06-01T21:59:02.537775",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of Acts 13:1-3 on the role of intercessory prayer in missionary work, tracing Paul's repeated prayer requests across Romans 15, Ephesians 6, Colossians 4, 1 Thessalonians 5, and 2 Thessalonians 3 as a framework for enlisting a congregation to pray for an upcoming church-planting trip to Idaho.",
+    "themes": [
+      "intercessory prayer",
+      "missionary support",
+      "fasting",
+      "gospel proclamation",
+      "spiritual warfare",
+      "church planting"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Acts 13 and the Sending Church"
+      },
+      {
+        "t": 187,
+        "heading": "Prayer as the Basis for God's Work"
+      },
+      {
+        "t": 279,
+        "heading": "William Carey and Holding the Ropes"
+      },
+      {
+        "t": 425,
+        "heading": "Paul's Prayer Requests: Romans and Ephesians"
+      },
+      {
+        "t": 1028,
+        "heading": "Paul's Prayer Requests: Colossians"
+      },
+      {
+        "t": 1401,
+        "heading": "Paul's Prayer Requests: Thessalonians"
+      },
+      {
+        "t": 2003,
+        "heading": "The Idaho Trip: Plans and Prayer Needs"
+      }
+    ]
+  }
+}

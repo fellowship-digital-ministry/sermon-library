@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-08-27mw-el-roi",
+  "title": "El Roi",
+  "publish_date": "20250827",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-08-27MW-El_Roi.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-08-27MW-El_Roi.mp3",
+  "url": "https://fbcministries.net/sermons/2025-08-27MW-El_Roi.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-08-27MW-El_Roi.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-08-27mw-el-roi.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-08-27mw-el-roi.json",
+  "duration": 2014,
+  "transcription_timestamp": "2026-06-01T21:56:07.523535",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 16:13 on the name El Roi ('the God who sees me'), drawn from Hagar's encounter with the angel of the Lord in the wilderness. Lesson 15 in a Wednesday night series on the names of God, tracing the theme of divine sight through Psalms, Proverbs, Jeremiah, John, 1 Peter, and Matthew.",
+    "themes": [
+      "names of god",
+      "divine omniscience",
+      "god's care in suffering",
+      "comfort in adversity",
+      "omnipresence",
+      "trust in god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Purpose"
+      },
+      {
+        "t": 140,
+        "heading": "Genesis 16: Hagar's Circumstances"
+      },
+      {
+        "t": 415,
+        "heading": "The Angel's Appearance and El Roi Named"
+      },
+      {
+        "t": 553,
+        "heading": "Old and New Testament Witness to God's Sight"
+      },
+      {
+        "t": 1169,
+        "heading": "Nathanael and Jesus Seeing Him"
+      },
+      {
+        "t": 1415,
+        "heading": "1 Peter: God's Eyes on the Suffering"
+      },
+      {
+        "t": 1611,
+        "heading": "Matthew 10: Sparrows and God's Awareness"
+      }
+    ]
+  }
+}

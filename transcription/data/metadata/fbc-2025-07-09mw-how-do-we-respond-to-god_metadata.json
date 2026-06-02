@@ -1,0 +1,58 @@
+{
+  "video_id": "fbc-2025-07-09mw-how-do-we-respond-to-god",
+  "title": "How Do We Respond To God",
+  "publish_date": "20250709",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-07-09MW-How_Do_We_Respond_To_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-07-09MW-How_Do_We_Respond_To_God.mp3",
+  "url": "https://fbcministries.net/sermons/2025-07-09MW-How_Do_We_Respond_To_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-07-09MW-How_Do_We_Respond_To_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-07-09mw-how-do-we-respond-to-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-07-09mw-how-do-we-respond-to-god.json",
+  "duration": 2308,
+  "transcription_timestamp": "2026-06-01T22:04:50.408026",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 9:18-25 on human response to divine warning, drawn from the seventh plague of hail in Egypt. Two contrasting responses among Pharaoh's servants, one of fearful obedience and one of disregard, serve as the organizing framework for examining how believers respond to God's word.",
+    "themes": [
+      "response to god's word",
+      "obedience and disobedience",
+      "fear of god",
+      "divine warning and judgment",
+      "hearing versus doing"
+    ],
+    "sections": [
+      {
+        "t": 48,
+        "heading": "Expectation of Hearing from God"
+      },
+      {
+        "t": 187,
+        "heading": "Introduction to Exodus 9 and the Seventh Plague"
+      },
+      {
+        "t": 326,
+        "heading": "What God Revealed: Verses 18-19"
+      },
+      {
+        "t": 563,
+        "heading": "How the People Responded: Verses 20-21"
+      },
+      {
+        "t": 1324,
+        "heading": "The Recorded Results: Verses 22-25"
+      },
+      {
+        "t": 1854,
+        "heading": "Ananias and Sapphira: Fear in the Church"
+      },
+      {
+        "t": 2085,
+        "heading": "Application: Responding to God Now"
+      }
+    ]
+  }
+}

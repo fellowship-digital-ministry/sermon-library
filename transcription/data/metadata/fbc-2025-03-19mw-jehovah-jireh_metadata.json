@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-03-19mw-jehovah-jireh",
+  "title": "Jehovah Jireh",
+  "publish_date": "20250319",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-03-19MW-Jehovah_Jireh.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-03-19MW-Jehovah_Jireh.mp3",
+  "url": "https://fbcministries.net/sermons/2025-03-19MW-Jehovah_Jireh.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-03-19MW-Jehovah_Jireh.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-03-19mw-jehovah-jireh.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-03-19mw-jehovah-jireh.json",
+  "duration": 2249,
+  "transcription_timestamp": "2026-06-01T22:35:59.646726",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 22 on the name Jehovah Jireh, drawn from Abraham's offering of Isaac on Mount Moriah and the provision of a substitute ram. The name, coined by Abraham in verse 14, anchors a survey of eight categories of divine provision extending beyond finances to direction, instruction, peace, comfort, wisdom, encouragement, and redemption.",
+    "themes": [
+      "names of god",
+      "divine provision",
+      "faith and obedience",
+      "abraham and isaac",
+      "substitutionary atonement",
+      "needs of the believer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 22 and Series Context"
+      },
+      {
+        "t": 244,
+        "heading": "Abraham's Obedience and the Test"
+      },
+      {
+        "t": 435,
+        "heading": "Abraham's Faith in Hebrews 11"
+      },
+      {
+        "t": 529,
+        "heading": "The Provision of the Ram"
+      },
+      {
+        "t": 812,
+        "heading": "Abraham's Proclamation: Jehovah Jireh"
+      },
+      {
+        "t": 955,
+        "heading": "Matthew 6 and God's Awareness of Need"
+      },
+      {
+        "t": 1142,
+        "heading": "Eight Areas of Divine Provision"
+      },
+      {
+        "t": 2017,
+        "heading": "Redemption as the Greatest Need"
+      }
+    ]
+  }
+}

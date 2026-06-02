@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-03-26mw-jehovah",
+  "title": "Jehovah",
+  "publish_date": "20250326",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-03-26MW-Jehovah.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-03-26MW-Jehovah.mp3",
+  "url": "https://fbcministries.net/sermons/2025-03-26MW-Jehovah.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-03-26MW-Jehovah.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-03-26mw-jehovah.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-03-26mw-jehovah.json",
+  "duration": 2164,
+  "transcription_timestamp": "2026-06-01T22:33:19.187832",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 3:13-14 and Exodus 6:1-6 on the name Jehovah as the proper name of God, tracing its meaning as 'the self-existent one' through the Old Testament and into the seven 'I am' declarations of Jesus in the Gospel of John. Part of an ongoing Wednesday evening series on the names of God.",
+    "themes": [
+      "names of god",
+      "deity of christ",
+      "redemption",
+      "the trinity",
+      "progressive revelation",
+      "covenant"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Jehovah Introduced"
+      },
+      {
+        "t": 139,
+        "heading": "Meaning and Translation of Jehovah"
+      },
+      {
+        "t": 374,
+        "heading": "Moses, Pharaoh, and Exodus 6 Revelation"
+      },
+      {
+        "t": 559,
+        "heading": "Jehovah as Covenant and Redeeming God"
+      },
+      {
+        "t": 699,
+        "heading": "Day of Atonement and Hebrews Fulfillment"
+      },
+      {
+        "t": 885,
+        "heading": "I Am Declarations in John 8 and John 18"
+      },
+      {
+        "t": 1262,
+        "heading": "Seven I Am Statements in the Gospel of John"
+      },
+      {
+        "t": 1879,
+        "heading": "Jehovah as the Self-Existent Present God"
+      }
+    ]
+  }
+}

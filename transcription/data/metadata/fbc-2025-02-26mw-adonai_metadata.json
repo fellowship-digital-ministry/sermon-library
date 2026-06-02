@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-02-26mw-adonai",
+  "title": "Adonai",
+  "publish_date": "20250226",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-02-26MW-Adonai.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-02-26MW-Adonai.mp3",
+  "url": "https://fbcministries.net/sermons/2025-02-26MW-Adonai.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-02-26MW-Adonai.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-02-26mw-adonai.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-02-26mw-adonai.json",
+  "duration": 1939,
+  "transcription_timestamp": "2026-06-01T22:38:17.978946",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 15:1-8 and related passages on the Hebrew name Adonai (Lord, Master), tracing the name through Isaiah 6, Malachi 1, and Luke 6:46 to examine what God's lordship over Abram and over believers entails.",
+    "themes": [
+      "lordship of god",
+      "submission to authority",
+      "surrender",
+      "sacrifice",
+      "service",
+      "the name adonai"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Genesis 15: God Speaks to Abram"
+      },
+      {
+        "t": 235,
+        "heading": "God's Promise and Abrahamic Covenant"
+      },
+      {
+        "t": 472,
+        "heading": "Adonai Defined: Lordship and Authority"
+      },
+      {
+        "t": 523,
+        "heading": "First Point: Surrender (Isaiah 6)"
+      },
+      {
+        "t": 857,
+        "heading": "Second Point: Sacrifice (Malachi 1)"
+      },
+      {
+        "t": 1232,
+        "heading": "Third Point: Service"
+      },
+      {
+        "t": 1508,
+        "heading": "Luke 6:46 and the Centurion: Calling Christ Lord"
+      }
+    ]
+  }
+}

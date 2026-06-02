@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-04-16mw-jehovah-raah",
+  "title": "Jehovah Raah",
+  "publish_date": "20250416",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-04-16MW-Jehovah_Raah.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-04-16MW-Jehovah_Raah.mp3",
+  "url": "https://fbcministries.net/sermons/2025-04-16MW-Jehovah_Raah.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-04-16MW-Jehovah_Raah.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-04-16mw-jehovah-raah.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-04-16mw-jehovah-raah.json",
+  "duration": 2126,
+  "transcription_timestamp": "2026-06-01T22:28:09.521490",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 23:1 on the name Jehovah Raah (the Lord my shepherd), part of a series on the names of God, focusing on David as the human vessel chosen to communicate this name and what his experience as a literal shepherd reveals about its meaning.",
+    "themes": [
+      "names of god",
+      "shepherding",
+      "david as shepherd",
+      "god's care for his people",
+      "humility and faithfulness",
+      "pastoral leadership"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm 23 Introduced"
+      },
+      {
+        "t": 230,
+        "heading": "David as the Chosen Human Vessel"
+      },
+      {
+        "t": 376,
+        "heading": "David's Life as a Shepherd in 1 Samuel 16"
+      },
+      {
+        "t": 751,
+        "heading": "David Shepherding in 1 Samuel 17"
+      },
+      {
+        "t": 1175,
+        "heading": "The Davidic Covenant and Shepherd Origins"
+      },
+      {
+        "t": 1455,
+        "heading": "Psalm 78 on God Leading and David's Shepherding"
+      },
+      {
+        "t": 1977,
+        "heading": "Sheep Knowing the Shepherd's Voice"
+      }
+    ]
+  }
+}

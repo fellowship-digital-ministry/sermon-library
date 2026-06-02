@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-02-05mw-elohim",
+  "title": "Elohim",
+  "publish_date": "20250205",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-02-05MW-Elohim.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-02-05MW-Elohim.mp3",
+  "url": "https://fbcministries.net/sermons/2025-02-05MW-Elohim.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-02-05MW-Elohim.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-02-05mw-elohim.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-02-05mw-elohim.json",
+  "duration": 2161,
+  "transcription_timestamp": "2026-06-01T22:43:21.518610",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:1-31 on the Hebrew name Elohim as the first name of God appearing in scripture, part of a Wednesday evening series on the names of God. The name, meaning 'strong one' or 'mighty one,' is examined in connection with God as creator and its practical bearing on prayer and trust.",
+    "themes": [
+      "names of god",
+      "creation",
+      "god as creator",
+      "prayer",
+      "old testament names and attributes",
+      "trinity in genesis"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Elohim Introduced"
+      },
+      {
+        "t": 138,
+        "heading": "Meaning and Frequency of Elohim"
+      },
+      {
+        "t": 231,
+        "heading": "Elohim and Creation in Genesis 1"
+      },
+      {
+        "t": 797,
+        "heading": "Plurality of Elohim and the Trinity"
+      },
+      {
+        "t": 991,
+        "heading": "Impact of Knowing Elohim"
+      },
+      {
+        "t": 1132,
+        "heading": "Hezekiah and Jeremiah as Examples"
+      },
+      {
+        "t": 1794,
+        "heading": "New Testament Parallel in Acts 4"
+      }
+    ]
+  }
+}

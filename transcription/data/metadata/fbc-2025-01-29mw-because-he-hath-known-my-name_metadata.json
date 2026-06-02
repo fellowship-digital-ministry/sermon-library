@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-01-29mw-because-he-hath-known-my-name",
+  "title": "Because He Hath Known My Name",
+  "publish_date": "20250129",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-01-29MW-Because_He_Hath_Known_My_Name.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-01-29MW-Because_He_Hath_Known_My_Name.mp3",
+  "url": "https://fbcministries.net/sermons/2025-01-29MW-Because_He_Hath_Known_My_Name.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-01-29MW-Because_He_Hath_Known_My_Name.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-01-29mw-because-he-hath-known-my-name.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-01-29mw-because-he-hath-known-my-name.json",
+  "duration": 1841,
+  "transcription_timestamp": "2026-06-01T22:45:24.080676",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory study on the names of God, anchored in Psalm 91 and drawing on Exodus 3 and selected Psalms, examining how God reveals his nature and character through his names and why that knowledge matters for trust and prayer.",
+    "themes": [
+      "names of god",
+      "knowledge of god",
+      "trust in god",
+      "divine protection",
+      "prayer",
+      "old testament revelation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Psalm 91 Overview"
+      },
+      {
+        "t": 276,
+        "heading": "Four Names of God in Verses 1-2"
+      },
+      {
+        "t": 371,
+        "heading": "The Psalmist's Confidence in God's Protection"
+      },
+      {
+        "t": 651,
+        "heading": "God Speaks: Five Promises in Verses 14-16"
+      },
+      {
+        "t": 790,
+        "heading": "God's Desire for His Name to Be Known"
+      },
+      {
+        "t": 884,
+        "heading": "Moses and the Revelation of God's Name in Exodus 3"
+      },
+      {
+        "t": 1163,
+        "heading": "The Importance of Knowing God's Names"
+      },
+      {
+        "t": 1490,
+        "heading": "The Impact of Knowing God's Names"
+      }
+    ]
+  }
+}

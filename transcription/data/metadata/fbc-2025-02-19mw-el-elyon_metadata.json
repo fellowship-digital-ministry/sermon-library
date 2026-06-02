@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-02-19mw-el-elyon",
+  "title": "El Elyon",
+  "publish_date": "20250219",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-02-19MW-El_Elyon.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-02-19MW-El_Elyon.mp3",
+  "url": "https://fbcministries.net/sermons/2025-02-19MW-El_Elyon.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-02-19MW-El_Elyon.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-02-19mw-el-elyon.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-02-19mw-el-elyon.json",
+  "duration": 2014,
+  "transcription_timestamp": "2026-06-01T22:40:48.510342",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 14 on the name El Elyon (Most High God), tracing the encounter between Abraham and Melchizedek and the revelation that God is possessor of heaven and earth. Part of a series on the names of God, with supporting references from Exodus 9, Deuteronomy 32, 1 Corinthians 10, and Psalms 57, 83, and 91.",
+    "themes": [
+      "names of god",
+      "el elyon",
+      "god as possessor of heaven and earth",
+      "abraham and melchizedek",
+      "trust and dependence on god",
+      "making god known"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Elohim and Series Context"
+      },
+      {
+        "t": 46,
+        "heading": "Genesis 14 Background: Battle and Lot's Captivity"
+      },
+      {
+        "t": 189,
+        "heading": "Melchizedek Reveals El Elyon to Abraham"
+      },
+      {
+        "t": 466,
+        "heading": "God as Possessor of Heaven and Earth"
+      },
+      {
+        "t": 928,
+        "heading": "Abraham's Response: Tithes and Refusal of Sodom's Offer"
+      },
+      {
+        "t": 1395,
+        "heading": "El Elyon in the Psalms"
+      },
+      {
+        "t": 1579,
+        "heading": "Desire for Others to Know God"
+      }
+    ]
+  }
+}

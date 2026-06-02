@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2025-07-16mw-i-will-rain-bread-from-heaven",
+  "title": "I Will Rain Bread From Heaven",
+  "publish_date": "20250716",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-07-16MW-I_Will_Rain_Bread_From_Heaven.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-07-16MW-I_Will_Rain_Bread_From_Heaven.mp3",
+  "url": "https://fbcministries.net/sermons/2025-07-16MW-I_Will_Rain_Bread_From_Heaven.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-07-16MW-I_Will_Rain_Bread_From_Heaven.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-07-16mw-i-will-rain-bread-from-heaven.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-07-16mw-i-will-rain-bread-from-heaven.json",
+  "duration": 2311,
+  "transcription_timestamp": "2026-06-01T22:02:03.801259",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 16:1-28 on the provision of manna in the wilderness, tracing Israel's murmuring, God's detailed instructions for gathering, and the pattern of obedience and disobedience among the people as God proves whether they will walk in his law.",
+    "themes": [
+      "obedience and disobedience",
+      "provision",
+      "murmuring",
+      "walking by faith",
+      "testing and proving",
+      "god's order and detail"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Prior Context"
+      },
+      {
+        "t": 90,
+        "heading": "Israel's Murmuring in the Wilderness"
+      },
+      {
+        "t": 368,
+        "heading": "The Miraculous Provision Promised"
+      },
+      {
+        "t": 643,
+        "heading": "The Meticulous Process of Gathering"
+      },
+      {
+        "t": 1058,
+        "heading": "The Sabbath Exception and Day Six Instructions"
+      },
+      {
+        "t": 1338,
+        "heading": "The Master's Proving of the People"
+      },
+      {
+        "t": 1715,
+        "heading": "Disobedience on the Sabbath Day"
+      },
+      {
+        "t": 1955,
+        "heading": "Application to Walking in God's Ways"
+      }
+    ]
+  }
+}

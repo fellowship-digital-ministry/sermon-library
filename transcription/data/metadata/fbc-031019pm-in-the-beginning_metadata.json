@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-031019pm-in-the-beginning",
+  "title": "In The Beginning",
+  "publish_date": "20190310",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/031019PM-In_The_Beginning.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/031019PM-In_The_Beginning.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/031019PM-In_The_Beginning.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/031019PM-In_The_Beginning.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-031019pm-in-the-beginning.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-031019pm-in-the-beginning.json",
+  "duration": 2218,
+  "transcription_timestamp": "2026-06-02T01:55:44.325656",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An introductory study of Genesis 1:1 launching a series through the book of Genesis, covering the foundational importance of the creation account, the authority of God as Creator, and the doctrinal consequences of rejecting the Genesis record.",
+    "themes": [
+      "authority of scripture",
+      "creation account",
+      "opposition to evolution",
+      "eternality of god",
+      "omnipotence and omniscience of god",
+      "genesis as biblical foundation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Introduction and Purpose"
+      },
+      {
+        "t": 92,
+        "heading": "Genesis as Book of Beginnings"
+      },
+      {
+        "t": 185,
+        "heading": "Attacks on the Creation Account"
+      },
+      {
+        "t": 325,
+        "heading": "Authority of God and Scripture"
+      },
+      {
+        "t": 653,
+        "heading": "Genesis 1:1 and the Summary of Creation"
+      },
+      {
+        "t": 793,
+        "heading": "Eternality of God Before Creation"
+      },
+      {
+        "t": 1165,
+        "heading": "Bara: Creation From Nothing"
+      },
+      {
+        "t": 1306,
+        "heading": "Fallen Man, Accountability, and Romans 1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-031719pm-god-created",
+  "title": "God Created",
+  "publish_date": "20190317",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/031719PM-God_Created.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/031719PM-God_Created.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/031719PM-God_Created.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/031719PM-God_Created.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-031719pm-god-created.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-031719pm-god-created.json",
+  "duration": 2315,
+  "transcription_timestamp": "2026-06-02T01:52:06.508964",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of Genesis 1:1 and supporting passages throughout Scripture on the doctrine of divine creation, surveying biblical testimony from Genesis through Revelation and evaluating three theories that attempt to reconcile evolutionary timelines with the biblical account.",
+    "themes": [
+      "creation",
+      "biblical authority",
+      "six-day creation",
+      "theistic evolution",
+      "gap theory",
+      "death and the fall"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Lesson Aim"
+      },
+      {
+        "t": 92,
+        "heading": "Biblical Witness to God as Creator"
+      },
+      {
+        "t": 515,
+        "heading": "New Testament Testimony on Creation"
+      },
+      {
+        "t": 1287,
+        "heading": "Six Literal 24-Hour Days"
+      },
+      {
+        "t": 1672,
+        "heading": "Science Versus Scripture"
+      },
+      {
+        "t": 1766,
+        "heading": "Three Theories Examined and Rejected"
+      },
+      {
+        "t": 2091,
+        "heading": "Death, Sin, and the Problem with Long Ages"
+      },
+      {
+        "t": 2186,
+        "heading": "The Global Flood as Geological Explanation"
+      }
+    ]
+  }
+}

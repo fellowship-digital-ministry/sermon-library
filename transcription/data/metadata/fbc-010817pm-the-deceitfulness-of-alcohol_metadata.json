@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-010817pm-the-deceitfulness-of-alcohol",
+  "title": "The Deceitfulness Of Alcohol",
+  "publish_date": "20170108",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/010817PM-The_Deceitfulness_Of_Alcohol.mp3",
+  "source_url": "https://fbcministries.net/sermons/010817PM-The_Deceitfulness_Of_Alcohol.mp3",
+  "url": "https://fbcministries.net/sermons/010817PM-The_Deceitfulness_Of_Alcohol.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/010817PM-The_Deceitfulness_Of_Alcohol.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-010817pm-the-deceitfulness-of-alcohol.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-010817pm-the-deceitfulness-of-alcohol.json",
+  "duration": 3195,
+  "transcription_timestamp": "2026-06-02T01:59:42.094378",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition on total abstinence from alcohol versus moderation, drawing primarily from Proverbs 20:1, Proverbs 23:29-35, Proverbs 31:4-7, John 2, Leviticus 10:8-11, 1 Timothy 5:23, and 1 Peter 2:5-9, with supporting reference to science and medicine.",
+    "themes": [
+      "alcohol and abstinence",
+      "temperance versus total abstinence",
+      "biblical interpretation and context",
+      "priesthood of the believer",
+      "social drinking",
+      "deceitfulness of alcohol"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Passage and the Word Wine"
+      },
+      {
+        "t": 238,
+        "heading": "Proverbs on Alcohol's Effects"
+      },
+      {
+        "t": 626,
+        "heading": "Proverbs 31 on Judgment and Anesthetic Use"
+      },
+      {
+        "t": 901,
+        "heading": "What Science and Medicine Say"
+      },
+      {
+        "t": 1227,
+        "heading": "Did Jesus Drink Wine at Cana"
+      },
+      {
+        "t": 1793,
+        "heading": "Paul's Instruction to Timothy"
+      },
+      {
+        "t": 2176,
+        "heading": "Temperance or Abstinence Considered"
+      },
+      {
+        "t": 2416,
+        "heading": "The Believer as Priest and Noah's Example"
+      }
+    ]
+  }
+}

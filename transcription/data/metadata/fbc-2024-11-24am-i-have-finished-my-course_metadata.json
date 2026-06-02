@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2024-11-24am-i-have-finished-my-course",
+  "title": "I Have Finished My Course",
+  "publish_date": "20241124",
+  "source": "website",
+  "service": "AM",
+  "series": "Timothy Series",
+  "audio_url": "https://fbcministries.net/sermons/Timothy_Series/2024-11-24AM-I_Have_Finished_My_Course.mp3",
+  "source_url": "https://fbcministries.net/sermons/Timothy_Series/2024-11-24AM-I_Have_Finished_My_Course.mp3",
+  "url": "https://fbcministries.net/sermons/Timothy_Series/2024-11-24AM-I_Have_Finished_My_Course.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Timothy_Series/2024-11-24AM-I_Have_Finished_My_Course.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-11-24am-i-have-finished-my-course.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-11-24am-i-have-finished-my-course.json",
+  "duration": 2951,
+  "transcription_timestamp": "2026-06-01T23:12:19.563093",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 4:6-8 on the Apostle Paul's declaration that he has finished his course, kept the faith, and fought a good fight, set within a series preaching through 1 and 2 Timothy. The passage is examined through three organizing words: recognize, rejoice, and resolve, with supporting texts drawn from Acts 7, Acts 20, Acts 26, and Galatians 5.",
+    "themes": [
+      "finishing the christian life well",
+      "perseverance and resolve",
+      "surrender and availability to god",
+      "rewards and the judgment seat of christ",
+      "encouragement across generations",
+      "the course of the individual believer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 186,
+        "heading": "The Passage: 2 Timothy 4:6-8"
+      },
+      {
+        "t": 372,
+        "heading": "Recognize: Every Believer Runs a Course"
+      },
+      {
+        "t": 650,
+        "heading": "Rejoice: Seeing the Lord and Receiving Crowns"
+      },
+      {
+        "t": 1497,
+        "heading": "Resolve: The Decision to Finish Well"
+      },
+      {
+        "t": 1881,
+        "heading": "Acts 20: Finishing the Course with Joy"
+      },
+      {
+        "t": 2453,
+        "heading": "Acts 26 and Galatians 5: Obedience and Hindrances"
+      },
+      {
+        "t": 2697,
+        "heading": "Closing Appeal and Prayer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2023-09-24pm-they-beckoned-unto-their-partners",
+  "title": "They Beckoned Unto Their Partners",
+  "publish_date": "20230924",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2023-09-24PM-They_Beckoned_Unto_Their_Partners.mp3",
+  "source_url": "https://fbcministries.net/sermons/2023-09-24PM-They_Beckoned_Unto_Their_Partners.mp3",
+  "url": "https://fbcministries.net/sermons/2023-09-24PM-They_Beckoned_Unto_Their_Partners.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2023-09-24PM-They_Beckoned_Unto_Their_Partners.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2023-09-24pm-they-beckoned-unto-their-partners.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2023-09-24pm-they-beckoned-unto-their-partners.json",
+  "duration": 1716,
+  "transcription_timestamp": "2026-06-01T23:35:32.810055",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 5:6-7 on cooperative labor in the local church, framed by 1 Corinthians 3:9 and 2 Corinthians 6:1 on believers as co-laborers with God. The account of Peter and his partners hauling a miraculous catch serves as the basis for examining how individual members of a local church work together under God's power to accomplish a shared mission.",
+    "themes": [
+      "co-laboring with god",
+      "church ministry roles",
+      "partnership in service",
+      "dependence on god's power",
+      "the local church as a body",
+      "children's ministry"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Context and Occasion"
+      },
+      {
+        "t": 96,
+        "heading": "Laborers Together with God: 1 and 2 Corinthians"
+      },
+      {
+        "t": 242,
+        "heading": "Background: Luke 5 and the Fishing Account"
+      },
+      {
+        "t": 665,
+        "heading": "What They Recognized: Task Too Great Alone"
+      },
+      {
+        "t": 992,
+        "heading": "What They Requested: Calling for Help"
+      },
+      {
+        "t": 1178,
+        "heading": "What They Received: Partners Respond"
+      },
+      {
+        "t": 1270,
+        "heading": "Application: Working Together, Seeing God's Work"
+      }
+    ]
+  }
+}

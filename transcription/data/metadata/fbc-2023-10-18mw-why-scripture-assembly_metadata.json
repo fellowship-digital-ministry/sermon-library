@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2023-10-18mw-why-scripture-assembly",
+  "title": "Why Scripture Assembly",
+  "publish_date": "20231018",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2023-10-18MW-Why_Scripture_Assembly.mp3",
+  "source_url": "https://fbcministries.net/sermons/2023-10-18MW-Why_Scripture_Assembly.mp3",
+  "url": "https://fbcministries.net/sermons/2023-10-18MW-Why_Scripture_Assembly.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2023-10-18MW-Why_Scripture_Assembly.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2023-10-18mw-why-scripture-assembly.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2023-10-18mw-why-scripture-assembly.json",
+  "duration": 1874,
+  "transcription_timestamp": "2026-06-01T23:33:18.568008",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An address to a local congregation on the purpose and motivation behind their recurring Scripture assembly ministry, anchored in 2 Timothy 3:14-17 and Acts 1:8, with reference to Beacon of Truth, a gospel literature printing and distribution ministry.",
+    "themes": [
+      "scripture distribution",
+      "great commission",
+      "gospel literature ministry",
+      "the sufficiency and value of scripture",
+      "local church missions involvement",
+      "volunteerism and financial support"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Scripture Assembly"
+      },
+      {
+        "t": 49,
+        "heading": "Beacon of Truth Ministry Described"
+      },
+      {
+        "t": 332,
+        "heading": "2 Timothy 3: The Holy Scriptures"
+      },
+      {
+        "t": 708,
+        "heading": "Acts 1:8 and the Great Commission Command"
+      },
+      {
+        "t": 937,
+        "heading": "Applying the Commission Locally and Globally"
+      },
+      {
+        "t": 1219,
+        "heading": "The Content of Scripture as Motivation"
+      },
+      {
+        "t": 1500,
+        "heading": "Ways to Participate: Funding and Volunteering"
+      },
+      {
+        "t": 1734,
+        "heading": "Closing Prayer"
+      }
+    ]
+  }
+}

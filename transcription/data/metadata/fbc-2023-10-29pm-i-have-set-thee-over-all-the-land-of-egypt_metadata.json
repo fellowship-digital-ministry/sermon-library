@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2023-10-29pm-i-have-set-thee-over-all-the-land-of-egypt",
+  "title": "I Have Set Thee Over All The Land Of Egypt",
+  "publish_date": "20231029",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2023-10-29PM-I_Have_Set_Thee_Over_All_The_Land_Of_Egypt.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2023-10-29PM-I_Have_Set_Thee_Over_All_The_Land_Of_Egypt.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2023-10-29PM-I_Have_Set_Thee_Over_All_The_Land_Of_Egypt.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2023-10-29PM-I_Have_Set_Thee_Over_All_The_Land_Of_Egypt.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2023-10-29pm-i-have-set-thee-over-all-the-land-of-egypt.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2023-10-29pm-i-have-set-thee-over-all-the-land-of-egypt.json",
+  "duration": 2554,
+  "transcription_timestamp": "2026-06-01T23:30:49.411370",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 41:33-43 on Joseph's counsel to Pharaoh, Pharaoh's recognition of Joseph, and Joseph's promotion to ruler over Egypt, set within a continuing series through the life of Joseph. Psalm 75:6-7, Psalm 105:17-24, Daniel 4:17, Acts 7:9, and Genesis 45 and 50 are drawn in to establish that God, not Pharaoh, was the agent of Joseph's elevation.",
+    "themes": [
+      "divine sovereignty",
+      "promotion and leadership",
+      "faithfulness in adversity",
+      "wisdom from god",
+      "the life of joseph",
+      "trusting god in uncertain circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Genesis 41:1-32"
+      },
+      {
+        "t": 287,
+        "heading": "Joseph's Plan Explained to Pharaoh"
+      },
+      {
+        "t": 474,
+        "heading": "Leadership and Delegation in the Plan"
+      },
+      {
+        "t": 845,
+        "heading": "Pharaoh's Perception of Joseph"
+      },
+      {
+        "t": 1124,
+        "heading": "Joseph's Promotion to Ruler of Egypt"
+      },
+      {
+        "t": 1401,
+        "heading": "God as the True Source of Joseph's Promotion"
+      },
+      {
+        "t": 1921,
+        "heading": "Scripture Testimony on God's Sovereign Rule"
+      }
+    ]
+  }
+}

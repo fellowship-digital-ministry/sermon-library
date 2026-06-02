@@ -1,0 +1,55 @@
+{
+  "video_id": "fbc-2024-08-04am-he-oft-refreshed-me",
+  "title": "He Oft Refreshed Me",
+  "publish_date": "20240804",
+  "source": "website",
+  "service": "AM",
+  "series": "Timothy Series",
+  "audio_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-04AM-He_Oft_Refreshed_Me.mp3",
+  "source_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-04AM-He_Oft_Refreshed_Me.mp3",
+  "url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-04AM-He_Oft_Refreshed_Me.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-04AM-He_Oft_Refreshed_Me.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-08-04am-he-oft-refreshed-me.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-08-04am-he-oft-refreshed-me.json",
+  "duration": 2188,
+  "transcription_timestamp": "2026-06-01T23:21:50.673192",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 1:16-18 on the ministry of Onesiphorus to the apostle Paul, drawing also on 2 Corinthians 7, Galatians 6:10, and Hebrews 6:10 to examine what it means to refresh and minister to a fellow believer.",
+    "themes": [
+      "encouraging fellow believers",
+      "effort in christian service",
+      "consistency in ministry",
+      "example of onesiphorus",
+      "effectiveness in ministry",
+      "visiting and supporting those in hardship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context of 2 Timothy"
+      },
+      {
+        "t": 187,
+        "heading": "Onesiphorus Introduced"
+      },
+      {
+        "t": 327,
+        "heading": "The Effort of Onesiphorus"
+      },
+      {
+        "t": 650,
+        "heading": "The Effectiveness of Onesiphorus"
+      },
+      {
+        "t": 1236,
+        "heading": "The Example of Onesiphorus"
+      },
+      {
+        "t": 1608,
+        "heading": "Galatians 6 and Hebrews 6 Applied"
+      }
+    ]
+  }
+}

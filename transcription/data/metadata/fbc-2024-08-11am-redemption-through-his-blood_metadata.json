@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-08-11am-redemption-through-his-blood",
+  "title": "Redemption Through His Blood",
+  "publish_date": "20240811",
+  "source": "website",
+  "service": "AM",
+  "series": "Timothy Series",
+  "audio_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-11AM-Redemption_Through_His_Blood.mp3",
+  "source_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-11AM-Redemption_Through_His_Blood.mp3",
+  "url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-11AM-Redemption_Through_His_Blood.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Timothy_Series/2024-08-11AM-Redemption_Through_His_Blood.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-08-11am-redemption-through-his-blood.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-08-11am-redemption-through-his-blood.json",
+  "duration": 2844,
+  "transcription_timestamp": "2026-06-01T23:19:06.316930",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 1:3-14 on the doctrine of redemption through the blood of Christ, tracing the plan, price, and proof of redemption with supporting texts from Ephesians 2, Galatians, 1 Peter, and Colossians.",
+    "themes": [
+      "redemption",
+      "the blood of christ",
+      "salvation by grace through faith",
+      "adoption into god's family",
+      "assurance of salvation",
+      "universal sinfulness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Ephesians"
+      },
+      {
+        "t": 235,
+        "heading": "Definition of Redemption"
+      },
+      {
+        "t": 371,
+        "heading": "The Plan of Redemption"
+      },
+      {
+        "t": 835,
+        "heading": "The Price of Redemption"
+      },
+      {
+        "t": 1158,
+        "heading": "Redemption Cannot Be Earned"
+      },
+      {
+        "t": 1998,
+        "heading": "The Proof of Redemption"
+      },
+      {
+        "t": 2523,
+        "heading": "Invitation and Closing Appeal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2023-09-13mw-revive-us-again",
+  "title": "Revive Us Again",
+  "publish_date": "20230913",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2023-09-13MW-Revive_Us_Again.mp3",
+  "source_url": "https://fbcministries.net/sermons/2023-09-13MW-Revive_Us_Again.mp3",
+  "url": "https://fbcministries.net/sermons/2023-09-13MW-Revive_Us_Again.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2023-09-13MW-Revive_Us_Again.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2023-09-13mw-revive-us-again.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2023-09-13mw-revive-us-again.json",
+  "duration": 1911,
+  "transcription_timestamp": "2026-06-01T23:38:04.823653",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A preparatory message on Psalm 85:6 addressing personal and corporate readiness for an upcoming revival meeting, organized around four steps: contemplation, confession, cultivation, and communion.",
+    "themes": [
+      "revival readiness",
+      "self-examination",
+      "confession of sin",
+      "prayer",
+      "the heart as soil",
+      "fellowship with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Revival Context"
+      },
+      {
+        "t": 231,
+        "heading": "Four Steps to Revival Readiness"
+      },
+      {
+        "t": 278,
+        "heading": "Contemplation: Self-Examination"
+      },
+      {
+        "t": 648,
+        "heading": "Confession: Agreeing with God"
+      },
+      {
+        "t": 936,
+        "heading": "Cultivation: Preparing the Heart"
+      },
+      {
+        "t": 1365,
+        "heading": "Communion: Time Alone with God"
+      },
+      {
+        "t": 1805,
+        "heading": "Closing Prayer"
+      }
+    ]
+  }
+}

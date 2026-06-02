@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-12-04mw-the-declaration-of-the-psalmist",
+  "title": "The Declaration Of The Psalmist",
+  "publish_date": "20241204",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2024-12-04MW-The_Declaration_Of_The_Psalmist.mp3",
+  "source_url": "https://fbcministries.net/sermons/2024-12-04MW-The_Declaration_Of_The_Psalmist.mp3",
+  "url": "https://fbcministries.net/sermons/2024-12-04MW-The_Declaration_Of_The_Psalmist.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2024-12-04MW-The_Declaration_Of_The_Psalmist.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-12-04mw-the-declaration-of-the-psalmist.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-12-04mw-the-declaration-of-the-psalmist.json",
+  "duration": 1838,
+  "transcription_timestamp": "2026-06-01T23:08:33.311273",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 11:1 on the declaration 'In the Lord put I my trust,' surveying nine parallel occurrences of the phrase across the Psalms and examining the deliberate, volitional nature of placing trust in God rather than in chariots, weapons, wealth, or human leaders.",
+    "themes": [
+      "trust in god",
+      "misplaced trust",
+      "the will and decision-making",
+      "the psalms",
+      "god's trustworthiness",
+      "david's circumstances"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Psalm 11 Series"
+      },
+      {
+        "t": 185,
+        "heading": "The Declaration and Its Setting"
+      },
+      {
+        "t": 278,
+        "heading": "Nine Occurrences of the Phrase"
+      },
+      {
+        "t": 421,
+        "heading": "Trust as an Act of the Will"
+      },
+      {
+        "t": 657,
+        "heading": "Knowing God's Name and Trusting Him"
+      },
+      {
+        "t": 933,
+        "heading": "Misplaced Trust: Chariots, Weapons, Wealth, and Princes"
+      },
+      {
+        "t": 1458,
+        "heading": "The Deliberate Decision to Put Trust in God"
+      }
+    ]
+  }
+}

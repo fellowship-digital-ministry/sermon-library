@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-01-08mw-under-attack",
+  "title": "Under Attack",
+  "publish_date": "20250108",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-01-08MW-Under_Attack.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-01-08MW-Under_Attack.mp3",
+  "url": "https://fbcministries.net/sermons/2025-01-08MW-Under_Attack.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-01-08MW-Under_Attack.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-01-08mw-under-attack.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-01-08mw-under-attack.json",
+  "duration": 1975,
+  "transcription_timestamp": "2026-06-01T22:55:35.008870",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 11:2 on the conflict between the wicked and the upright in heart, set within a brief series on Psalm 11. The verse is read alongside passages from John 3, John 15, John 17, Psalm 7, Psalm 64, and 1 Samuel 18 and 23 to illustrate the principle that the wicked attack while God defends.",
+    "themes": [
+      "spiritual warfare",
+      "trust in god",
+      "the wicked versus the righteous",
+      "divine defense",
+      "persecution of believers",
+      "david and saul"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Psalm 11 Review"
+      },
+      {
+        "t": 138,
+        "heading": "Psalm 11:2 Introduced"
+      },
+      {
+        "t": 276,
+        "heading": "The Plan of the Wicked Uncovered"
+      },
+      {
+        "t": 459,
+        "heading": "The Principle: The Wicked Attack, the Lord Defends"
+      },
+      {
+        "t": 505,
+        "heading": "Gospel of John on World Hatred of the Righteous"
+      },
+      {
+        "t": 882,
+        "heading": "Psalm 7 and Psalm 64 on Divine Defense"
+      },
+      {
+        "t": 976,
+        "heading": "The Principle Illustrated in the Life of David"
+      }
+    ]
+  }
+}

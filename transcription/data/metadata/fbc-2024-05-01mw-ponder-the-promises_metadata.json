@@ -1,0 +1,55 @@
+{
+  "video_id": "fbc-2024-05-01mw-ponder-the-promises",
+  "title": "Ponder The Promises",
+  "publish_date": "20240501",
+  "source": "website",
+  "service": "MW",
+  "series": "Walk Worthy Series",
+  "audio_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-05-01MW-Ponder_The_Promises.mp3",
+  "source_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-05-01MW-Ponder_The_Promises.mp3",
+  "url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-05-01MW-Ponder_The_Promises.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-05-01MW-Ponder_The_Promises.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-05-01mw-ponder-the-promises.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-05-01mw-ponder-the-promises.json",
+  "duration": 1961,
+  "transcription_timestamp": "2026-06-01T23:27:01.651664",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Thessalonians 5:24 on the two promises closing Paul's concise instructions to the Thessalonians: the faithfulness of God and God's active work in believers. Part of a series titled 'Walk Worthy, Please God,' the message draws supporting references from 1 Corinthians 1:9, 1 Corinthians 10:13, Philippians 1:6, and Philippians 2:13.",
+    "themes": [
+      "faithfulness of god",
+      "promises of god",
+      "sanctification",
+      "god's enabling grace",
+      "christian walk",
+      "self-examination"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Verse Introduction"
+      },
+      {
+        "t": 142,
+        "heading": "1 Thessalonians 5:24 Introduced"
+      },
+      {
+        "t": 191,
+        "heading": "Knowing, Praying, and Claiming God's Promises"
+      },
+      {
+        "t": 339,
+        "heading": "First Promise: God Is Faithful"
+      },
+      {
+        "t": 663,
+        "heading": "Second Promise: God Is at Work"
+      },
+      {
+        "t": 1087,
+        "heading": "Impact of the Promises on Believers"
+      }
+    ]
+  }
+}

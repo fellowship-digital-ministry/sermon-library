@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-07-03mw-the-totality-of-scripture",
+  "title": "The Totality Of Scripture",
+  "publish_date": "20240703",
+  "source": "website",
+  "service": "MW",
+  "series": "Walk Worthy Series",
+  "audio_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-07-03MW-The_Totality_Of_Scripture.mp3",
+  "source_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-07-03MW-The_Totality_Of_Scripture.mp3",
+  "url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-07-03MW-The_Totality_Of_Scripture.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Walk_Worthy_Series/2024-07-03MW-The_Totality_Of_Scripture.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-07-03mw-the-totality-of-scripture.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-07-03mw-the-totality-of-scripture.json",
+  "duration": 2095,
+  "transcription_timestamp": "2026-06-01T23:24:32.249937",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 24:14-16 on Paul's confession before Felix, examining his declaration of belief in all scripture and the behavioral consequences of that belief. Serves as a concluding message to a six-month Wednesday study of 1 Thessalonians 5 and 2 Thessalonians 3 on walking worthy and pleasing God.",
+    "themes": [
+      "totality of scripture",
+      "belief and behavior",
+      "old testament and new testament",
+      "conscience",
+      "biblical worldview",
+      "walking worthy"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Review of Six-Month Study"
+      },
+      {
+        "t": 280,
+        "heading": "Setting of Acts 24: Paul Before Felix"
+      },
+      {
+        "t": 420,
+        "heading": "Paul's Confession: Believing All Scripture"
+      },
+      {
+        "t": 694,
+        "heading": "Old Testament and New Testament Together"
+      },
+      {
+        "t": 1063,
+        "heading": "Paul Reveals How He Behaves"
+      },
+      {
+        "t": 1344,
+        "heading": "A Conscience Void of Offense"
+      },
+      {
+        "t": 1723,
+        "heading": "God's Concern With Behavior"
+      }
+    ]
+  }
+}

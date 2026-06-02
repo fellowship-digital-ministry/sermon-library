@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2024-09-01pm-consecrated-for-service",
+  "title": "Consecrated For Service",
+  "publish_date": "20240901",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2024-09-01PM-Consecrated_For_Service.mp3",
+  "source_url": "https://fbcministries.net/sermons/2024-09-01PM-Consecrated_For_Service.mp3",
+  "url": "https://fbcministries.net/sermons/2024-09-01PM-Consecrated_For_Service.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2024-09-01PM-Consecrated_For_Service.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-09-01pm-consecrated-for-service.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-09-01pm-consecrated-for-service.json",
+  "duration": 2694,
+  "transcription_timestamp": "2026-06-01T23:15:46.240047",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Exodus 29 on the consecration of Aaron and his sons into the Aaronic priesthood, with application to the New Testament priesthood of the believer drawn from 1 Peter 2, Romans 12, and related passages. The sermon centers on a submitted question about the significance of blood applied to the right ear, right thumb, and great toe in the consecration ceremony.",
+    "themes": [
+      "consecration for service",
+      "priesthood of the believer",
+      "sanctification",
+      "surrender and sacrifice",
+      "old testament typology",
+      "the tabernacle"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Background: Exodus and the Tabernacle"
+      },
+      {
+        "t": 139,
+        "heading": "The Submitted Question Introduced"
+      },
+      {
+        "t": 233,
+        "heading": "The Believer as Royal Priesthood (1 Peter 2)"
+      },
+      {
+        "t": 613,
+        "heading": "First: Washing Before Consecration"
+      },
+      {
+        "t": 1266,
+        "heading": "Second: Clothing and the Put Off and Put On"
+      },
+      {
+        "t": 1693,
+        "heading": "Third: The Blood Applied to Ear, Thumb, and Toe"
+      },
+      {
+        "t": 2164,
+        "heading": "Romans 12 and the Living Sacrifice"
+      },
+      {
+        "t": 2440,
+        "heading": "Closing Hymn and Call to Surrender"
+      }
+    ]
+  }
+}

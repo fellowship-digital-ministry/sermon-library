@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-12-22pm-let-me-not-wander-from-thy-commandments",
+  "title": "Let Me Not Wander From Thy Commandments",
+  "publish_date": "20241222",
+  "source": "website",
+  "service": "PM",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2024-12-22PM-Let_Me_Not_Wander_From_Thy_Commandments.mp3",
+  "source_url": "https://fbcministries.net/sermons/2024-12-22PM-Let_Me_Not_Wander_From_Thy_Commandments.mp3",
+  "url": "https://fbcministries.net/sermons/2024-12-22PM-Let_Me_Not_Wander_From_Thy_Commandments.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2024-12-22PM-Let_Me_Not_Wander_From_Thy_Commandments.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-12-22pm-let-me-not-wander-from-thy-commandments.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-12-22pm-let-me-not-wander-from-thy-commandments.json",
+  "duration": 2300,
+  "transcription_timestamp": "2026-06-01T22:58:27.849824",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 119:9-16 on the believer's relationship to Scripture, organized around four actions and three resolutions the psalmist takes in answer to the question of how a young man cleanses his way.",
+    "themes": [
+      "scripture memory",
+      "seeking god",
+      "wandering from god",
+      "meditation on scripture",
+      "the word of god",
+      "christian perseverance"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 119 and Its Structure"
+      },
+      {
+        "t": 140,
+        "heading": "The Danger of Wandering"
+      },
+      {
+        "t": 371,
+        "heading": "The Question and Its Answer"
+      },
+      {
+        "t": 649,
+        "heading": "Peter on Taking Heed to Scripture"
+      },
+      {
+        "t": 885,
+        "heading": "Four Actions of the Psalmist"
+      },
+      {
+        "t": 1618,
+        "heading": "Three Resolutions of the Psalmist"
+      },
+      {
+        "t": 2086,
+        "heading": "Application and Self-Examination"
+      }
+    ]
+  }
+}

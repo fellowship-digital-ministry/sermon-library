@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-12-08pm-unto-the-church-in-smyrna",
+  "title": "Unto The Church In Smyrna",
+  "publish_date": "20241208",
+  "source": "website",
+  "service": "PM",
+  "series": "Revelation Series",
+  "audio_url": "https://fbcministries.net/sermons/Revelation_Series/2024-12-08PM-Unto_The_Church_In_Smyrna.mp3",
+  "source_url": "https://fbcministries.net/sermons/Revelation_Series/2024-12-08PM-Unto_The_Church_In_Smyrna.mp3",
+  "url": "https://fbcministries.net/sermons/Revelation_Series/2024-12-08PM-Unto_The_Church_In_Smyrna.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Revelation_Series/2024-12-08PM-Unto_The_Church_In_Smyrna.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-12-08pm-unto-the-church-in-smyrna.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-12-08pm-unto-the-church-in-smyrna.json",
+  "duration": 2701,
+  "transcription_timestamp": "2026-06-01T23:02:16.093325",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 2:8-11, the letter to the church at Smyrna, examining Christ's self-identification as the eternal and risen Lord and his words of knowledge, encouragement, and counsel to a suffering congregation in a hostile first-century city.",
+    "themes": [
+      "suffering and persecution",
+      "eternal perspective versus temporal perspective",
+      "christ's omniscience and compassion",
+      "spiritual riches in poverty",
+      "faithfulness under trial",
+      "the second death"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and City of Smyrna"
+      },
+      {
+        "t": 232,
+        "heading": "Letters Addressed to All Churches"
+      },
+      {
+        "t": 504,
+        "heading": "Our Conquering Savior: Eternal and Risen"
+      },
+      {
+        "t": 964,
+        "heading": "Our Compassionate Savior: He Knows"
+      },
+      {
+        "t": 1532,
+        "heading": "Poverty, Perspective, and Being Rich in Christ"
+      },
+      {
+        "t": 2000,
+        "heading": "Our Counseling Savior: Fear Not, Be Faithful"
+      },
+      {
+        "t": 2413,
+        "heading": "The Second Death Has No Power"
+      }
+    ]
+  }
+}

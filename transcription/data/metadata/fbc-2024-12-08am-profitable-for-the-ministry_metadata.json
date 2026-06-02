@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+  "title": "Profitable For The Ministry",
+  "publish_date": "20241208",
+  "source": "website",
+  "service": "AM",
+  "series": "Timothy Series",
+  "audio_url": "https://fbcministries.net/sermons/Timothy_Series/2024-12-08AM-Profitable_For_The_Ministry.mp3",
+  "source_url": "https://fbcministries.net/sermons/Timothy_Series/2024-12-08AM-Profitable_For_The_Ministry.mp3",
+  "url": "https://fbcministries.net/sermons/Timothy_Series/2024-12-08AM-Profitable_For_The_Ministry.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Timothy_Series/2024-12-08AM-Profitable_For_The_Ministry.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-12-08am-profitable-for-the-ministry.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-12-08am-profitable-for-the-ministry.json",
+  "duration": 3299,
+  "transcription_timestamp": "2026-06-01T23:06:12.921689",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 4:9-13 on the phrase 'he is profitable to me for the ministry,' tracing the story of John Mark from his departure in Acts 13 through Paul's later commendation, and drawing on supporting passages to define the ministry and the role of spiritual gifts in it.",
+    "themes": [
+      "spiritual gifts",
+      "the ministry",
+      "availability and faithfulness",
+      "restoration and second chances",
+      "stewardship",
+      "the word of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Introduction"
+      },
+      {
+        "t": 184,
+        "heading": "Paul's Request to Timothy"
+      },
+      {
+        "t": 416,
+        "heading": "The Four Things Paul Requests"
+      },
+      {
+        "t": 609,
+        "heading": "The Word Profitable and Its Meaning"
+      },
+      {
+        "t": 988,
+        "heading": "John Mark: Departure and Restoration"
+      },
+      {
+        "t": 1410,
+        "heading": "Defining the Ministry"
+      },
+      {
+        "t": 2125,
+        "heading": "Discovering Your Place in the Ministry"
+      },
+      {
+        "t": 2635,
+        "heading": "Spiritual Gifts in 1 Corinthians 12"
+      }
+    ]
+  }
+}

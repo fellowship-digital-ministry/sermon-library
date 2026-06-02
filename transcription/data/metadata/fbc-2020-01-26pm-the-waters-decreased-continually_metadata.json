@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2020-01-26pm-the-waters-decreased-continually",
+  "title": "The Waters Decreased Continually",
+  "publish_date": "20200126",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2020-01-26PM-The_Waters_Decreased_Continually.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2020-01-26PM-The_Waters_Decreased_Continually.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2020-01-26PM-The_Waters_Decreased_Continually.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2020-01-26PM-The_Waters_Decreased_Continually.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2020-01-26pm-the-waters-decreased-continually.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2020-01-26pm-the-waters-decreased-continually.json",
+  "duration": 2225,
+  "transcription_timestamp": "2026-06-02T00:18:38.855281",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 8:1-14 on the geological aftermath of Noah's flood, using observed natural events to address secular explanations for canyon formation and earth's physical features.",
+    "themes": [
+      "noah's flood",
+      "biblical geology",
+      "creation and genesis",
+      "uniformitarianism",
+      "flood timeline",
+      "defense of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Flood Timeline Reviewed"
+      },
+      {
+        "t": 147,
+        "heading": "Catastrophic Impact on Earth"
+      },
+      {
+        "t": 478,
+        "heading": "Grand Canyon and Secular Explanations"
+      },
+      {
+        "t": 757,
+        "heading": "Burlingame Canyon: Observed Formation"
+      },
+      {
+        "t": 989,
+        "heading": "Providence Canyon: Recorded History"
+      },
+      {
+        "t": 1180,
+        "heading": "Mount St. Helens: Geology Observed"
+      },
+      {
+        "t": 1602,
+        "heading": "Spirit Lake and Post-Eruption Recovery"
+      },
+      {
+        "t": 2077,
+        "heading": "Waters Decreased Continually: Summary"
+      }
+    ]
+  }
+}

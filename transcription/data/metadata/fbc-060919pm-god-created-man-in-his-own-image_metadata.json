@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-060919pm-god-created-man-in-his-own-image",
+  "title": "God Created Man In His Own Image",
+  "publish_date": "20190609",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/060919PM-God_Created_Man_In_His_Own_Image.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/060919PM-God_Created_Man_In_His_Own_Image.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/060919PM-God_Created_Man_In_His_Own_Image.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/060919PM-God_Created_Man_In_His_Own_Image.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-060919pm-god-created-man-in-his-own-image.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-060919pm-god-created-man-in-his-own-image.json",
+  "duration": 2420,
+  "transcription_timestamp": "2026-06-02T01:30:06.019269",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:26-27 on the creation of mankind as the climax of the six-day creation account, with supporting references to Hebrews 11, Psalm 8, Matthew 19, and Acts 17 on the origin, image, and accountability of man.",
+    "themes": [
+      "creation of mankind",
+      "image of god",
+      "trinity",
+      "origin of man",
+      "gender",
+      "authority of scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Genesis 1:26-27"
+      },
+      {
+        "t": 237,
+        "heading": "Faith and the Creation Account"
+      },
+      {
+        "t": 512,
+        "heading": "Mankind as God's Treasured Creation"
+      },
+      {
+        "t": 701,
+        "heading": "God's Announcement and the Trinity"
+      },
+      {
+        "t": 1033,
+        "heading": "The Act of Creating Man and Woman"
+      },
+      {
+        "t": 1413,
+        "heading": "Scripture's Witness to Creation"
+      },
+      {
+        "t": 1653,
+        "heading": "Questions Settled by Genesis 1:26-27"
+      }
+    ]
+  }
+}

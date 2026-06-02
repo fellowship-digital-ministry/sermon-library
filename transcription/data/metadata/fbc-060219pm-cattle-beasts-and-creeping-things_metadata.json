@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-060219pm-cattle-beasts-and-creeping-things",
+  "title": "Cattle Beasts And Creeping Things",
+  "publish_date": "20190602",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/060219PM-Cattle_Beasts_And_Creeping_Things.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/060219PM-Cattle_Beasts_And_Creeping_Things.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/060219PM-Cattle_Beasts_And_Creeping_Things.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/060219PM-Cattle_Beasts_And_Creeping_Things.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-060219pm-cattle-beasts-and-creeping-things.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-060219pm-cattle-beasts-and-creeping-things.json",
+  "duration": 2282,
+  "transcription_timestamp": "2026-06-02T01:33:24.478779",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 1:24-25 on the sixth day of creation, focusing on the three broad categories of land animals: cattle, creeping things, and beasts of the earth. The passage is examined within the sequential order of the creation week, with attention to the phrase 'after his kind' and its bearing on questions of evolution and adaptation.",
+    "themes": [
+      "creation",
+      "land animals",
+      "kinds and reproduction",
+      "evolution and adaptation",
+      "the power of god's word",
+      "creation apologetics"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Day Six"
+      },
+      {
+        "t": 92,
+        "heading": "Review of the Creation Week"
+      },
+      {
+        "t": 417,
+        "heading": "The Declaration: God Said"
+      },
+      {
+        "t": 743,
+        "heading": "Three Categories of Land Animals"
+      },
+      {
+        "t": 1220,
+        "heading": "Beasts of the Earth and Dinosaurs"
+      },
+      {
+        "t": 1503,
+        "heading": "After His Kind: Reproduction Within Kinds"
+      },
+      {
+        "t": 1700,
+        "heading": "Horizontal Variation Versus Vertical Evolution"
+      },
+      {
+        "t": 1943,
+        "heading": "Creation, Spiritual Discernment, and Apologetics"
+      }
+    ]
+  }
+}

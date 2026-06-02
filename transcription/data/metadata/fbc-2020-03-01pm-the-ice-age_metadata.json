@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2020-03-01pm-the-ice-age",
+  "title": "The Ice Age",
+  "publish_date": "20200301",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2020-03-01PM-The_Ice_Age.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2020-03-01PM-The_Ice_Age.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2020-03-01PM-The_Ice_Age.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2020-03-01PM-The_Ice_Age.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2020-03-01pm-the-ice-age.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2020-03-01pm-the-ice-age.json",
+  "duration": 2316,
+  "transcription_timestamp": "2026-06-02T00:11:05.631667",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of the Ice Age as interpreted through a biblical creationist framework, anchored in Genesis 7-8 and 1 Thessalonians 5:21, examining the geological and climatic conditions produced by the Genesis flood as a sufficient cause for a single Ice Age.",
+    "themes": [
+      "genesis flood",
+      "biblical creationism",
+      "ice age origins",
+      "volcanic activity and climate",
+      "interpreting evidence",
+      "secular science versus scripture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Genesis Series Context and Foundation"
+      },
+      {
+        "t": 238,
+        "heading": "Ice Age Evidence and Scripture's Silence"
+      },
+      {
+        "t": 680,
+        "heading": "Job 38 and Ice References"
+      },
+      {
+        "t": 772,
+        "heading": "Conditions Required for an Ice Age"
+      },
+      {
+        "t": 1185,
+        "heading": "Lake Effect Snow and Moisture Dynamics"
+      },
+      {
+        "t": 1472,
+        "heading": "Secular Theories Examined and Rejected"
+      },
+      {
+        "t": 1663,
+        "heading": "Lost Squadron of Greenland as Illustration"
+      },
+      {
+        "t": 2182,
+        "heading": "Closing Application and Preview of Dinosaurs"
+      }
+    ]
+  }
+}

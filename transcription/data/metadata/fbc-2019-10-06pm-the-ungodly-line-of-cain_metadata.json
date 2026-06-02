@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2019-10-06pm-the-ungodly-line-of-cain",
+  "title": "The Ungodly Line Of Cain",
+  "publish_date": "20191006",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-06PM-The_Ungodly_Line_Of_Cain.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-06PM-The_Ungodly_Line_Of_Cain.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-06PM-The_Ungodly_Line_Of_Cain.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-06PM-The_Ungodly_Line_Of_Cain.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-10-06pm-the-ungodly-line-of-cain.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-10-06pm-the-ungodly-line-of-cain.json",
+  "duration": 2609,
+  "transcription_timestamp": "2026-06-02T00:50:46.440335",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 4:16-24 on the genealogy and character of Cain's descendants, tracing the line from Cain's departure from God's presence through the generation of Lamech, with reference to Matthew 24 and Genesis 6 on the conditions preceding the flood.",
+    "themes": [
+      "ungodly lineage",
+      "departure from god",
+      "corruption of marriage",
+      "early civilization",
+      "murder and pride",
+      "society without god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Context"
+      },
+      {
+        "t": 236,
+        "heading": "Purpose of the Genealogy: Days Before the Flood"
+      },
+      {
+        "t": 519,
+        "heading": "Cain's Departure from God's Presence"
+      },
+      {
+        "t": 708,
+        "heading": "Cain's Wife and Early Population"
+      },
+      {
+        "t": 1000,
+        "heading": "Description of the Society: Marriage, Arts, and Metallurgy"
+      },
+      {
+        "t": 1483,
+        "heading": "Lamech: Murder and Pride"
+      },
+      {
+        "t": 1814,
+        "heading": "Parallels to Contemporary Society"
+      }
+    ]
+  }
+}

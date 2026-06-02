@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2019-11-03pm-the-wickedness-of-man-was-great",
+  "title": "The Wickedness Of Man Was Great",
+  "publish_date": "20191103",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-03PM-The_Wickedness_Of_Man_Was_Great.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-03PM-The_Wickedness_Of_Man_Was_Great.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-03PM-The_Wickedness_Of_Man_Was_Great.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-03PM-The_Wickedness_Of_Man_Was_Great.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-11-03pm-the-wickedness-of-man-was-great.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-11-03pm-the-wickedness-of-man-was-great.json",
+  "duration": 2632,
+  "transcription_timestamp": "2026-06-02T00:42:44.769479",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 6:1-7 on the corruption of mankind and God's announcement of coming judgment before the flood, set within a verse-by-verse study of Genesis and connected to Jesus's words in Matthew 24 about the days of Noah as a sign of his return.",
+    "themes": [
+      "corruption of mankind",
+      "ungodly marriages",
+      "coming judgment",
+      "days of noah",
+      "long-suffering of god",
+      "separation from unbelievers"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text Reading"
+      },
+      {
+        "t": 93,
+        "heading": "Context: Lines of Cain and Seth"
+      },
+      {
+        "t": 140,
+        "heading": "Matthew 24 and the Days of Noah"
+      },
+      {
+        "t": 527,
+        "heading": "Corruption Through Ungodly Marriages"
+      },
+      {
+        "t": 671,
+        "heading": "Identity of Sons of God and Daughters of Men"
+      },
+      {
+        "t": 1667,
+        "heading": "Corruption Through Unbridled Lust"
+      },
+      {
+        "t": 1854,
+        "heading": "Coming Judgment Announced"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2019-11-10pm-noah-walked-with-god",
+  "title": "Noah Walked With God",
+  "publish_date": "20191110",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-10PM-Noah_Walked_With_God.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-10PM-Noah_Walked_With_God.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-10PM-Noah_Walked_With_God.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-10PM-Noah_Walked_With_God.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-11-10pm-noah-walked-with-god.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-11-10pm-noah-walked-with-god.json",
+  "duration": 2448,
+  "transcription_timestamp": "2026-06-02T00:39:06.655588",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 6:8-13 on the character and testimony of Noah, set against the backdrop of a corrupt antediluvian society, with extended application to New Testament calls for godly living in a wicked age.",
+    "themes": [
+      "walking with god",
+      "separation from the world",
+      "godly character",
+      "corruption of society",
+      "perseverance in wickedness",
+      "the last days"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Society of Noah"
+      },
+      {
+        "t": 283,
+        "heading": "Characteristics of Noah"
+      },
+      {
+        "t": 759,
+        "heading": "Corruption and Coming Destruction"
+      },
+      {
+        "t": 1045,
+        "heading": "Call to Holiness and Separation"
+      },
+      {
+        "t": 1604,
+        "heading": "New Testament Passages on Walking With God"
+      },
+      {
+        "t": 1740,
+        "heading": "Last Days Description in 2 Timothy 3"
+      },
+      {
+        "t": 2019,
+        "heading": "The Charge to Continue"
+      }
+    ]
+  }
+}

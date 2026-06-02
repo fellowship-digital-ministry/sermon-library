@@ -1,0 +1,67 @@
+{
+  "video_id": "fbc-2019-10-13pm-the-godly-line-of-seth",
+  "title": "The Godly Line Of Seth",
+  "publish_date": "20191013",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-13PM-The_Godly_Line_Of_Seth.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-13PM-The_Godly_Line_Of_Seth.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-13PM-The_Godly_Line_Of_Seth.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-10-13PM-The_Godly_Line_Of_Seth.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-10-13pm-the-godly-line-of-seth.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-10-13pm-the-godly-line-of-seth.json",
+  "duration": 2165,
+  "transcription_timestamp": "2026-06-02T00:47:08.366267",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 4:25 through 5:32 on the godly line of Seth, tracing ten generations from Adam to Noah and contrasting them with the ungodly line of Cain studied the previous week.",
+    "themes": [
+      "godly lineage",
+      "calling upon the name of the lord",
+      "walking with god",
+      "temporal versus eternal values",
+      "the promised seed of messiah",
+      "longevity of the patriarchs"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review of Cain's Line"
+      },
+      {
+        "t": 94,
+        "heading": "Seth's Line and the Messianic Promise"
+      },
+      {
+        "t": 426,
+        "heading": "Adam Created in God's Image"
+      },
+      {
+        "t": 523,
+        "heading": "Seth Born in Adam's Likeness"
+      },
+      {
+        "t": 809,
+        "heading": "Longevity of the Patriarchs"
+      },
+      {
+        "t": 1044,
+        "heading": "Enos and Calling on the Lord"
+      },
+      {
+        "t": 1284,
+        "heading": "Enoch Walking with God"
+      },
+      {
+        "t": 1621,
+        "heading": "Noah Finding Grace"
+      },
+      {
+        "t": 1858,
+        "heading": "Contrast Between the Two Lines"
+      }
+    ]
+  }
+}

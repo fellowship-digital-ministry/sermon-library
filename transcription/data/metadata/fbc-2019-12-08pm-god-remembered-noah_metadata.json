@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2019-12-08pm-god-remembered-noah",
+  "title": "God Remembered Noah",
+  "publish_date": "20191208",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-08PM-God_Remembered_Noah.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-08PM-God_Remembered_Noah.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-08PM-God_Remembered_Noah.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-08PM-God_Remembered_Noah.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-12-08pm-god-remembered-noah.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-12-08pm-god-remembered-noah.json",
+  "duration": 1708,
+  "transcription_timestamp": "2026-06-02T00:26:46.523603",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 8:1-19 on the recession of the flood waters, the resting of the ark, and Noah's obedience in waiting for God's direction before exiting the ark. The passage is traced with attention to its detailed chronological timeline and the theme of waiting on divine instruction.",
+    "themes": [
+      "flood narrative",
+      "waiting on god",
+      "obedience",
+      "divine direction",
+      "god's sovereignty",
+      "timeline of the ark"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Waters Receding"
+      },
+      {
+        "t": 93,
+        "heading": "God Remembered Noah"
+      },
+      {
+        "t": 233,
+        "heading": "Two Sources of Water Cease"
+      },
+      {
+        "t": 467,
+        "heading": "Noah Sends the Raven and Dove"
+      },
+      {
+        "t": 653,
+        "heading": "The Ground Dries and the Ark's Timeline"
+      },
+      {
+        "t": 838,
+        "heading": "Waiting for God's Direction"
+      },
+      {
+        "t": 1068,
+        "heading": "God Speaks and Noah Obeys"
+      },
+      {
+        "t": 1399,
+        "heading": "Lesson on Waiting on the Lord"
+      }
+    ]
+  }
+}

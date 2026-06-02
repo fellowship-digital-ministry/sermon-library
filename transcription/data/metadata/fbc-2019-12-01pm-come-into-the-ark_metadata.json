@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2019-12-01pm-come-into-the-ark",
+  "title": "Come Into The Ark",
+  "publish_date": "20191201",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-01PM-Come_Into_The_Ark.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-01PM-Come_Into_The_Ark.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-01PM-Come_Into_The_Ark.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-01PM-Come_Into_The_Ark.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-12-01pm-come-into-the-ark.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-12-01pm-come-into-the-ark.json",
+  "duration": 2674,
+  "transcription_timestamp": "2026-06-02T00:30:25.328310",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 7:1-24 on the flood narrative, tracing God's instruction to Noah, Noah's obedience and family influence, and the catastrophic scope of the global flood, with parallel references to Hebrews 11:7, Proverbs 23:26, and New Testament passages on salvation and coming judgment.",
+    "themes": [
+      "obedience to god",
+      "parental and family influence",
+      "the global flood",
+      "divine judgment",
+      "salvation",
+      "the ark as type of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Review and Chapter Introduction"
+      },
+      {
+        "t": 146,
+        "heading": "God's Instruction to Noah"
+      },
+      {
+        "t": 335,
+        "heading": "The Seven-Day Warning"
+      },
+      {
+        "t": 572,
+        "heading": "Noah's Obedience and Family Influence"
+      },
+      {
+        "t": 1183,
+        "heading": "Animals Boarding and the Lord Shutting the Ark"
+      },
+      {
+        "t": 1517,
+        "heading": "Impact and Scope of the Flood"
+      },
+      {
+        "t": 2397,
+        "heading": "The Extent of Death and Parallel to Eternal Judgment"
+      }
+    ]
+  }
+}

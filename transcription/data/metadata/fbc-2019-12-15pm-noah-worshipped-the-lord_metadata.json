@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2019-12-15pm-noah-worshipped-the-lord",
+  "title": "Noah Worshipped The Lord",
+  "publish_date": "20191215",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-15PM-Noah_Worshipped_The_Lord.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-15PM-Noah_Worshipped_The_Lord.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-15PM-Noah_Worshipped_The_Lord.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-12-15PM-Noah_Worshipped_The_Lord.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-12-15pm-noah-worshipped-the-lord.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-12-15pm-noah-worshipped-the-lord.json",
+  "duration": 1812,
+  "transcription_timestamp": "2026-06-02T00:24:04.310763",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 8:18-22 on Noah's act of worship immediately after leaving the ark, examining the priority and nature of worship that pleases God, with supporting passages from Leviticus, Hebrews, Zechariah, Malachi, and Matthew. The twenty-seventh lesson in an ongoing Genesis series.",
+    "themes": [
+      "worship",
+      "burnt offerings",
+      "pleasing god",
+      "priority of worship",
+      "false or empty worship",
+      "noah and the ark"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Noah's Testimony"
+      },
+      {
+        "t": 236,
+        "heading": "Leaving the Ark After a Year and Ten Days"
+      },
+      {
+        "t": 374,
+        "heading": "Worship as the First Priority"
+      },
+      {
+        "t": 614,
+        "heading": "Burnt Offerings and Their Meaning"
+      },
+      {
+        "t": 899,
+        "heading": "Worship That Pleases God"
+      },
+      {
+        "t": 1044,
+        "heading": "Old Testament Examples of False Worship"
+      },
+      {
+        "t": 1328,
+        "heading": "New Testament Teaching on Prayer and Fasting"
+      },
+      {
+        "t": 1615,
+        "heading": "The Sacrifice of Praise in Hebrews 13"
+      }
+    ]
+  }
+}

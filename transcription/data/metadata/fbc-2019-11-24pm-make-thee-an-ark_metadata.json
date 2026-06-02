@@ -1,0 +1,55 @@
+{
+  "video_id": "fbc-2019-11-24pm-make-thee-an-ark",
+  "title": "Make Thee An Ark",
+  "publish_date": "20191124",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-24PM-Make_Thee_An_Ark.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-24PM-Make_Thee_An_Ark.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-24PM-Make_Thee_An_Ark.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2019-11-24PM-Make_Thee_An_Ark.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2019-11-24pm-make-thee-an-ark.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2019-11-24pm-make-thee-an-ark.json",
+  "duration": 2500,
+  "transcription_timestamp": "2026-06-02T00:34:16.255880",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 6:14-22 on God's instructions to Noah for building the ark, tracing the dimensions and design of the ark, the announced flood judgment, and Noah's complete obedience as an expression of faith.",
+    "themes": [
+      "the ark",
+      "judgment and grace",
+      "faith and obedience",
+      "the flood",
+      "the word of god",
+      "salvation"
+    ],
+    "sections": [
+      {
+        "t": 49,
+        "heading": "Reading of Genesis 6:14-22"
+      },
+      {
+        "t": 188,
+        "heading": "God's Righteous Judgment Revealed"
+      },
+      {
+        "t": 288,
+        "heading": "God's Grace and Mercy Revealed"
+      },
+      {
+        "t": 381,
+        "heading": "The Fashion of the Ark"
+      },
+      {
+        "t": 1179,
+        "heading": "The Flood of Waters: Destruction and Deliverance"
+      },
+      {
+        "t": 1785,
+        "heading": "The Faith and Obedience of Noah"
+      }
+    ]
+  }
+}

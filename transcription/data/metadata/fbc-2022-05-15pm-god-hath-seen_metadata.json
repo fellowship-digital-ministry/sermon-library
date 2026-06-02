@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2022-05-15pm-god-hath-seen",
+  "title": "God Hath Seen",
+  "publish_date": "20220515",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2022-05-15PM-God_Hath_Seen.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2022-05-15PM-God_Hath_Seen.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2022-05-15PM-God_Hath_Seen.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2022-05-15PM-God_Hath_Seen.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2022-05-15pm-god-hath-seen.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2022-05-15pm-god-hath-seen.json",
+  "duration": 2549,
+  "transcription_timestamp": "2026-06-02T00:03:04.410080",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 31:38-55 on Jacob's confrontation with Laban after twenty years in Paddan Aram, centering on Jacob's declaration in verse 42 that God has seen his affliction and rebuked Laban, with supporting passages from Genesis 28, Exodus 2-3, and Psalm 121.",
+    "themes": [
+      "god's presence",
+      "affliction and trials",
+      "divine protection",
+      "god's knowledge of suffering",
+      "covenant making",
+      "adversity and character"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Context and Background Review"
+      },
+      {
+        "t": 240,
+        "heading": "Jacob Rehearses His Circumstances"
+      },
+      {
+        "t": 718,
+        "heading": "Recognition of God's Character and Presence"
+      },
+      {
+        "t": 1093,
+        "heading": "God Sees Affliction: Exodus Parallel"
+      },
+      {
+        "t": 1599,
+        "heading": "God's Protection of Jacob from Laban"
+      },
+      {
+        "t": 1836,
+        "heading": "Laban's Request for a Covenant"
+      },
+      {
+        "t": 2076,
+        "heading": "Jacob's Sacrifice and Departure to Canaan"
+      }
+    ]
+  }
+}

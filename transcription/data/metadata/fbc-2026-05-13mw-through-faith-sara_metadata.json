@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2026-05-13mw-through-faith-sara",
+  "title": "Through Faith Sara",
+  "publish_date": "20260513",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2026-05-13MW-Through_Faith_Sara.mp3",
+  "source_url": "https://fbcministries.net/sermons/2026-05-13MW-Through_Faith_Sara.mp3",
+  "url": "https://fbcministries.net/sermons/2026-05-13MW-Through_Faith_Sara.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2026-05-13MW-Through_Faith_Sara.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2026-05-13mw-through-faith-sara.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2026-05-13mw-through-faith-sara.json",
+  "duration": 2275,
+  "transcription_timestamp": "2026-06-02T19:55:13.348133",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Hebrews 11:11 on the faith of Sarah, tracing her journey from barrenness and doubt to belief through Genesis 11, 12, 15, 17, 18, and 21. Part of a Wednesday series on faith and seeing God work, the message centers on the question of when Sarah's doubt turned to faith and what that transition reveals about trusting God's promises.",
+    "themes": [
+      "faith and doubt",
+      "the promises of god",
+      "biblical womanhood",
+      "scripture as the word of god",
+      "barrenness and miraculous birth",
+      "perspective and unbelief"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Abraham Review"
+      },
+      {
+        "t": 234,
+        "heading": "Sarah's Barrenness Established"
+      },
+      {
+        "t": 464,
+        "heading": "The Promise Given to Sarah"
+      },
+      {
+        "t": 695,
+        "heading": "The Problem: Doubt and Perspective"
+      },
+      {
+        "t": 981,
+        "heading": "When Sarah's Doubt Turned to Faith"
+      },
+      {
+        "t": 1272,
+        "heading": "God's Promises and the Word of God"
+      },
+      {
+        "t": 1751,
+        "heading": "The Promise Fulfilled in Genesis 21"
+      }
+    ]
+  }
+}

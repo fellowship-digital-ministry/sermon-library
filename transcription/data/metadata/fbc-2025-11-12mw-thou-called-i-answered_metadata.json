@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2025-11-12mw-thou-called-i-answered",
+  "title": "Thou Called I Answered",
+  "publish_date": "20251112",
+  "source": "website",
+  "service": "MW",
+  "series": "",
+  "audio_url": "https://fbcministries.net/sermons/2025-11-12MW-Thou_Called_I_Answered.mp3",
+  "source_url": "https://fbcministries.net/sermons/2025-11-12MW-Thou_Called_I_Answered.mp3",
+  "url": "https://fbcministries.net/sermons/2025-11-12MW-Thou_Called_I_Answered.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/2025-11-12MW-Thou_Called_I_Answered.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2025-11-12mw-thou-called-i-answered.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2025-11-12mw-thou-called-i-answered.json",
+  "duration": 2077,
+  "transcription_timestamp": "2026-06-02T19:57:44.397315",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 81:7a on God's responsiveness to prayer in times of trouble, tracing the pattern of Israel calling to God and receiving deliverance, with supporting passages from Psalms 34, 50, 60, Nehemiah 9, and 2 Chronicles 15.",
+    "themes": [
+      "prayer",
+      "trouble and affliction",
+      "divine deliverance",
+      "dependence on god",
+      "thanksgiving for answered prayer",
+      "god's mercy toward israel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 81 and Series Context"
+      },
+      {
+        "t": 290,
+        "heading": "Israel's Difficulty and Trouble"
+      },
+      {
+        "t": 525,
+        "heading": "The Plea: Calling Out to God"
+      },
+      {
+        "t": 915,
+        "heading": "Supporting Psalms on Crying to God"
+      },
+      {
+        "t": 1214,
+        "heading": "The Deliverance: God's Answer"
+      },
+      {
+        "t": 1534,
+        "heading": "Psalm 50 and the Call to Glorify God"
+      },
+      {
+        "t": 1674,
+        "heading": "2 Chronicles 15 and Nehemiah 9: Israel's Pattern of Trouble and Rescue"
+      }
+    ]
+  }
+}

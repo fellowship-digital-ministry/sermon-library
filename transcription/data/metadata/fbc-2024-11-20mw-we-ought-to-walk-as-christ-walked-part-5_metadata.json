@@ -1,0 +1,59 @@
+{
+  "video_id": "fbc-2024-11-20mw-we-ought-to-walk-as-christ-walked-part-5",
+  "title": "We Ought To Walk As Christ Walked Part 5",
+  "publish_date": "20241120",
+  "source": "website",
+  "service": "MW",
+  "series": "Doing What We Ought Series",
+  "audio_url": "https://fbcministries.net/sermons/Doing_What_We_Ought_Series/2024-11-20MW-We_Ought_To_Walk_As_Christ_Walked_Part_5.mp3",
+  "source_url": "https://fbcministries.net/sermons/Doing_What_We_Ought_Series/2024-11-20MW-We_Ought_To_Walk_As_Christ_Walked_Part_5.mp3",
+  "url": "https://fbcministries.net/sermons/Doing_What_We_Ought_Series/2024-11-20MW-We_Ought_To_Walk_As_Christ_Walked_Part_5.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Doing_What_We_Ought_Series/2024-11-20MW-We_Ought_To_Walk_As_Christ_Walked_Part_5.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-11-20mw-we-ought-to-walk-as-christ-walked-part-5.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-11-20mw-we-ought-to-walk-as-christ-walked-part-5.json",
+  "duration": 1966,
+  "transcription_timestamp": "2026-06-02T20:02:19.757418",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 John 2:6 on walking obediently as Christ walked, the fifth and concluding installment of a series on doing what Christians ought to do. Draws on John 8, Philippians 2, Luke 6:46, Ezekiel 3 and 33, and John 2:5 to establish Christ's obedience as the pattern for the believer's life.",
+    "themes": [
+      "obedience",
+      "lordship of christ",
+      "hearing versus doing",
+      "walking as christ walked",
+      "the example of christ",
+      "disobedience and its consequences"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Review and Introduction"
+      },
+      {
+        "t": 139,
+        "heading": "Christ's Obedience in John 8"
+      },
+      {
+        "t": 558,
+        "heading": "Philippians 2 and Obedience unto Death"
+      },
+      {
+        "t": 831,
+        "heading": "Luke 6:46 and Calling Christ Lord"
+      },
+      {
+        "t": 1157,
+        "heading": "Ezekiel 3 and 33 on Hearing Without Doing"
+      },
+      {
+        "t": 1618,
+        "heading": "John 2:5 and the Command to Do It"
+      },
+      {
+        "t": 1759,
+        "heading": "Closing Application on Obedience"
+      }
+    ]
+  }
+}

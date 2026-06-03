@@ -1,0 +1,63 @@
+{
+  "video_id": "fbc-2024-04-07pm-jacob-blesses-his-sons-part-3",
+  "title": "Jacob Blesses His Sons Part 3",
+  "publish_date": "20240407",
+  "source": "website",
+  "service": "PM",
+  "series": "Genesis Series",
+  "audio_url": "https://fbcministries.net/sermons/Genesis_Series/2024-04-07PM-Jacob_Blesses_His_Sons_Part_3.mp3",
+  "source_url": "https://fbcministries.net/sermons/Genesis_Series/2024-04-07PM-Jacob_Blesses_His_Sons_Part_3.mp3",
+  "url": "https://fbcministries.net/sermons/Genesis_Series/2024-04-07PM-Jacob_Blesses_His_Sons_Part_3.mp3",
+  "webpage_url": "https://fbcministries.net/sermons/Genesis_Series/2024-04-07PM-Jacob_Blesses_His_Sons_Part_3.mp3",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fbc-2024-04-07pm-jacob-blesses-his-sons-part-3.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fbc-2024-04-07pm-jacob-blesses-his-sons-part-3.json",
+  "duration": 2677,
+  "transcription_timestamp": "2026-06-02T20:05:34.421129",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Genesis 49:20-27 on Jacob's final words to Asher, Naphtali, Joseph, and Benjamin, the third installment in a series on Jacob blessing his twelve sons. Extended attention is given to Joseph (vv. 22-26), with supporting passages drawn from the Psalms, James, John 15, and 1 Peter 2.",
+    "themes": [
+      "fruitfulness",
+      "opposition in the christian life",
+      "god as source of strength",
+      "speech and words",
+      "blessing and obedience",
+      "god as shepherd and stone"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Overview"
+      },
+      {
+        "t": 98,
+        "heading": "Asher: Fertile Inheritance"
+      },
+      {
+        "t": 198,
+        "heading": "Naphtali: Goodly Words and Speech"
+      },
+      {
+        "t": 586,
+        "heading": "Benjamin: Warrior Tribe"
+      },
+      {
+        "t": 679,
+        "heading": "Joseph: Fruitfulness and Opposition"
+      },
+      {
+        "t": 1236,
+        "heading": "Joseph: God as Source of Strength, Shepherd, and Stone"
+      },
+      {
+        "t": 1698,
+        "heading": "Joseph: God as Helper and Blesser"
+      },
+      {
+        "t": 2220,
+        "heading": "Summary Applications and Closing"
+      }
+    ]
+  }
+}

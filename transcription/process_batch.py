@@ -202,8 +202,12 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
         
         # Filter videos based on status if not processing all
         if not process_all:
-            # Process videos that are pending or failed
-            df = df[df['processing_status'].isin(['pending', 'failed', ''])]
+            # Process videos that are pending or failed. 'in_progress' is
+            # included so a row stranded by an interrupted/crashed run (status
+            # set to in_progress but never flipped to processed/failed) gets
+            # retried instead of being stuck forever. A single-runner ingest
+            # (systemd timer, no overlap) makes this safe.
+            df = df[df['processing_status'].isin(['pending', 'failed', 'in_progress', ''])]
         
         # Convert to list of dictionaries
         video_list = df.to_dict('records')

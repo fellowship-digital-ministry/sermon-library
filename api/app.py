@@ -7,7 +7,7 @@ from .utils import OPENAI_API_KEY
 app = FastAPI(
     title="Sermon Search API",
     description="API for searching sermon transcripts and generating answers from the content",
-    version="1.1.0",
+    version="1.1.1",
 )
 
 app.add_middleware(

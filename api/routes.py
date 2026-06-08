@@ -67,7 +67,7 @@ async def root():
     return {
         "message": "Sermon Search API is running",
         "documentation": "/docs",
-        "version": "1.1.0"  # Updated version number
+        "version": "1.1.1"  # Updated version number
     }
 
 @router.get("/health")
@@ -817,8 +817,15 @@ async def list_sermons(
                 "url": f"https://www.youtube.com/watch?v={vid}",
             })
 
-        # Newest first by publish_date (YYYYMMDD integers compare correctly as strings).
-        sermons.sort(key=lambda s: str(s.get("publish_date") or ""), reverse=True)
+        # Newest first by publish_date. Normalize to an 8-digit YYYYMMDD string
+        # so that real dates compare correctly and missing/"nan"/partial values
+        # sink to the bottom instead of floating to the top (a bare "nan" string
+        # sorts ABOVE "2026..." in plain string order, which mis-ordered the
+        # "recent sermons" widget). 62 back-catalog sermons have no known date.
+        def _date_key(s):
+            digits = re.sub(r"\D", "", str(s.get("publish_date") or ""))[:8]
+            return digits.ljust(8, "0") if digits else "00000000"
+        sermons.sort(key=_date_key, reverse=True)
 
         paginated = sermons[offset:offset + limit]
         return {

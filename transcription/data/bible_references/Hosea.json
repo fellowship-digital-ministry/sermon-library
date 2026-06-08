@@ -1129,5 +1129,57 @@
     "end_time": 152.5800018310547,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hosea",
+    "chapter": 12,
+    "verse": 4,
+    "reference_text": "Hosea 12:4",
+    "context": "the book of Hosea",
+    "is_implicit": true,
+    "video_id": "fbc-2023-02-12pm-jacobs-encounter-with-god",
+    "start_time": 778.4999847412109,
+    "end_time": 851.4999847412109,
+    "point_summary": "Jacob's limp after Penuel—cited through Hosea 12's reference to this encounter—is presented as the most significant and lasting mark of his wrestling with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hosea",
+    "chapter": 10,
+    "verse": null,
+    "reference_text": "Hosea 10",
+    "context": "But I want you to notice what the Bible says in the book of Hosea. Turn to the book of Hosea if you will in chapter number 10.",
+    "is_implicit": false,
+    "video_id": "fbc-2023-09-13mw-revive-us-again",
+    "start_time": 1048.0599975585938,
+    "end_time": 1112.0599975585938,
+    "point_summary": "Spiritual receptivity requires deliberate preparation of the heart, illustrated by the agricultural command in Hosea 10:12 to break up fallow ground before seed can bear fruit.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hosea",
+    "chapter": 10,
+    "verse": 12,
+    "reference_text": "Hosea 10:12",
+    "context": "in Hosea chapter 10 and verse number 12, the Bible says this Sow to yourselves in righteousness reap in mercy",
+    "is_implicit": false,
+    "video_id": "fbc-2023-09-13mw-revive-us-again",
+    "start_time": 1112.0599975585938,
+    "end_time": 1180.0599975585938,
+    "point_summary": "Hosea 10:12's call to \"break up your fallow ground\" frames spiritual revival as deliberate soil preparation—cultivating the heart so that seed sown in righteousness yields a harvest of mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hosea",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Hosea 10:13",
+    "context": "Verse 13, you have plowed wickedness, you have reaped iniquity",
+    "is_implicit": false,
+    "video_id": "fbc-2023-09-13mw-revive-us-again",
+    "start_time": 1112.0599975585938,
+    "end_time": 1180.0599975585938,
+    "point_summary": "Hosea 10:13 illustrates the inescapable law of sowing and reaping—wickedness planted yields iniquity harvested—set against verse 12's call to sow righteousness and reap mercy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

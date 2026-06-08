@@ -1,0 +1,54 @@
+{
+  "video_id": "WgcJ55Xe4pA",
+  "title": "\"Exemplary Giving\"   II Corinthians 8:1-6",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/WgcJ55Xe4pA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/WgcJ55Xe4pA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/WgcJ55Xe4pA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/WgcJ55Xe4pA.vtt",
+  "duration": 3222.0,
+  "transcription_timestamp": "2026-06-07T16:41:07.516150",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 8:1-6 on the giving practices of the Macedonian churches (Philippi, Thessalonica, and Berea), set within the context of Paul's collection for suffering saints in Judea during his third missionary journey.",
+    "themes": [
+      "giving",
+      "surrender to god",
+      "suffering and generosity",
+      "sensitivity to the holy spirit",
+      "selfless sacrifice",
+      "grace of god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Series Context"
+      },
+      {
+        "t": 92,
+        "heading": "Background in Acts and 1 Corinthians"
+      },
+      {
+        "t": 788,
+        "heading": "Text of 2 Corinthians 8:1-6"
+      },
+      {
+        "t": 926,
+        "heading": "The Macedonians Suffering in Affliction and Poverty"
+      },
+      {
+        "t": 1250,
+        "heading": "The Macedonians Surrendered to God"
+      },
+      {
+        "t": 1829,
+        "heading": "Sensitivity to God and to the Saints"
+      },
+      {
+        "t": 2850,
+        "heading": "Philippians 4 and the Macedonian Example"
+      }
+    ]
+  }
+}

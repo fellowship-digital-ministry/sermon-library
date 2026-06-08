@@ -1,0 +1,54 @@
+{
+  "video_id": "cPlriQ1DHTs",
+  "title": "\"Biblical Separation\"   II Corinthians 6:11-7:1",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/cPlriQ1DHTs.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/cPlriQ1DHTs.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/cPlriQ1DHTs.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/cPlriQ1DHTs.vtt",
+  "duration": 3327.0,
+  "transcription_timestamp": "2026-06-07T16:51:11.266741",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 6:11-7:1 on biblical separation, tracing Paul's expressed care for the Corinthian believers before presenting his counsel to be unequally yoked with unbelievers, supported by a series of rhetorical questions and Old Testament parallels.",
+    "themes": [
+      "biblical separation",
+      "ecclesiastical and personal separation",
+      "fellowship with god",
+      "worldly influence on the church",
+      "holiness and sanctification",
+      "pastoral care"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series and Text Introduction"
+      },
+      {
+        "t": 281,
+        "heading": "Paul's Care for the Corinthians"
+      },
+      {
+        "t": 1164,
+        "heading": "The Counsel: Be Not Unequally Yoked"
+      },
+      {
+        "t": 1306,
+        "heading": "Rhetorical Questions Explaining Separation"
+      },
+      {
+        "t": 1915,
+        "heading": "Believers as the Temple of the Living God"
+      },
+      {
+        "t": 2343,
+        "heading": "Conclusion: Come Out and Be Separate"
+      },
+      {
+        "t": 2812,
+        "heading": "Old and New Testament Closing Illustrations"
+      }
+    ]
+  }
+}

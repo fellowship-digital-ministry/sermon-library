@@ -87,7 +87,7 @@
     "video_id": "IEGhT2j43Rg",
     "start_time": 1798.6600341796875,
     "end_time": 1868.6600341796875,
-    "point_summary": "Paul's calling Onesimus \"my son\" illustrates that spiritual new birth\u2014being begotten in Christ\u2014creates a genuine father-son relationship in the faith, even when that gospel witness happens from a prison cell.",
+    "point_summary": "Paul's calling Onesimus \"my son\" illustrates that spiritual new birth—being begotten in Christ—creates a genuine father-son relationship in the faith, even when that gospel witness happens from a prison cell.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -100,7 +100,7 @@
     "video_id": "iLbP529uYUM",
     "start_time": 1696.0999755859375,
     "end_time": 1756.6199951171875,
-    "point_summary": "Philemon's commendation for loving \"all saints\"\u2014not merely those he connected with best\u2014illustrates that genuine love for God extends without partiality to every believer.",
+    "point_summary": "Philemon's commendation for loving \"all saints\"—not merely those he connected with best—illustrates that genuine love for God extends without partiality to every believer.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -113,7 +113,7 @@
     "video_id": "iLbP529uYUM",
     "start_time": 1756.6199951171875,
     "end_time": 1827.0999736785889,
-    "point_summary": "Philemon's commendation for loving \"all saints\"\u2014not merely those he connected with best\u2014is used to illustrate that genuine love for God extends without partiality to every believer, including the formerly estranged Onesimus.",
+    "point_summary": "Philemon's commendation for loving \"all saints\"—not merely those he connected with best—is used to illustrate that genuine love for God extends without partiality to every believer, including the formerly estranged Onesimus.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -165,7 +165,7 @@
     "video_id": "OcBw3vCuyDU",
     "start_time": 114.76000213623047,
     "end_time": 172.0399932861328,
-    "point_summary": "Philemon 1:2 is noted as establishing the letter's recipients\u2014Apphia, Archippus, and the house church\u2014and its historical context as one of Paul's prison epistles written during his first Roman confinement.",
+    "point_summary": "Philemon 1:2 is noted as establishing the letter's recipients—Apphia, Archippus, and the house church—and its historical context as one of Paul's prison epistles written during his first Roman confinement.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -191,7 +191,7 @@
     "video_id": "OcBw3vCuyDU",
     "start_time": 1001.7000122070312,
     "end_time": 1074.3400268554688,
-    "point_summary": "Philemon 1:2 is one of only two biblical references to Archippus, leaving his ministry circumstances\u2014whether he quit or merely wavered\u2014historically uncertain but spiritually instructive.",
+    "point_summary": "Philemon 1:2 is one of only two biblical references to Archippus, leaving his ministry circumstances—whether he quit or merely wavered—historically uncertain but spiritually instructive.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -256,7 +256,59 @@
     "video_id": "EYFIfx9U54k",
     "start_time": 1675.1999816894531,
     "end_time": 1736.4400024414062,
-    "point_summary": "Philemon 1:4 is cited as evidence that Paul maintained consistent, habitual prayer for others\u2014not merely teaching prayer but personally practicing it without ceasing.",
+    "point_summary": "Philemon 1:4 is cited as evidence that Paul maintained consistent, habitual prayer for others—not merely teaching prayer but personally practicing it without ceasing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philemon",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "Philemon 1:11",
+    "context": "in the book of Philemon in verse number 11, the Bible speaks about Onesimus",
+    "is_implicit": false,
+    "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+    "start_time": 762.0800170898438,
+    "end_time": 829.0800170898438,
+    "point_summary": "Onesimus illustrates that God uses people regardless of their past or circumstances, with availability to God mattering more than personal ability.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philemon",
+    "chapter": 1,
+    "verse": 10,
+    "reference_text": "Philemon 1:10",
+    "context": "in verse 10, as Paul is writing to Philemon, he says this, I beseech thee for my son Onesimus",
+    "is_implicit": false,
+    "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+    "start_time": 762.0800170898438,
+    "end_time": 829.0800170898438,
+    "point_summary": "Even in imprisonment, Paul's begetting of Onesimus in the faith demonstrates that availability to God—not circumstance or ability—determines one's usefulness for the gospel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philemon",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "Philemon 1:11",
+    "context": "which in time past was to the notice unprofitable. But now profitable to thee and to me",
+    "is_implicit": true,
+    "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+    "start_time": 829.0800170898438,
+    "end_time": 898.0800170898438,
+    "point_summary": "Onesimus's transformation from \"unprofitable\" to \"profitable\" illustrates that usefulness to God and ministry only becomes possible after salvation, not before.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philemon",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "Philemon 1:11",
+    "context": "It says in verse number 11, in time past",
+    "is_implicit": false,
+    "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+    "start_time": 898.0800170898438,
+    "end_time": 961.0800170898438,
+    "point_summary": "Onesimus's transformation from \"unprofitable\" to \"profitable\" illustrates that only the regenerate are fit for God's work, since God uses saved people, not lost ones, to fulfill his ministry.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

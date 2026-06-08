@@ -1,0 +1,58 @@
+{
+  "video_id": "Y_zca3zo61U",
+  "title": "\"Go And Tell\"  II Kings 7:3-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Y_zca3zo61U.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Y_zca3zo61U.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Y_zca3zo61U.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Y_zca3zo61U.vtt",
+  "duration": 2966.0,
+  "transcription_timestamp": "2026-06-07T16:59:51.018393",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 7:3-11 on the four leprous men of Samaria, used as a spiritual application for missions and gospel proclamation, framed by the prophecy and fulfillment of Elisha in 2 Kings 7:1-16.",
+    "themes": [
+      "missions",
+      "gospel proclamation",
+      "the great commission",
+      "worldliness as a hindrance to witness",
+      "sowing the seed",
+      "missions conference preparation"
+    ],
+    "sections": [
+      {
+        "t": 96,
+        "heading": "Missions Conference Context"
+      },
+      {
+        "t": 536,
+        "heading": "Elisha's Prophecy and Its Fulfillment"
+      },
+      {
+        "t": 907,
+        "heading": "The Leprous Men: Their Discovery"
+      },
+      {
+        "t": 1183,
+        "heading": "The Leprous Men: Their Decision"
+      },
+      {
+        "t": 1654,
+        "heading": "The Leprous Men: Their Declaration"
+      },
+      {
+        "t": 2037,
+        "heading": "Spiritual Application from 1 Peter 2"
+      },
+      {
+        "t": 2376,
+        "heading": "Worldly Distractions and Holding Peace"
+      },
+      {
+        "t": 2613,
+        "heading": "The Command to Go and Tell"
+      }
+    ]
+  }
+}

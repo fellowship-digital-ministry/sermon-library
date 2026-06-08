@@ -986,5 +986,44 @@
     "end_time": 645.8999977111816,
     "point_summary": "Jonah's flight from God and subsequent pouting illustrate how deeply fretting over divine fairness—God blessing those we deem unworthy—can drive even an obedient prophet to anger and resentment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 4,
+    "reference_text": "Jonah 3:4",
+    "context": "go into Nineveh and preach 40 days and Nineveh shall be Destroyed",
+    "is_implicit": true,
+    "video_id": "fbc-2019-11-03pm-the-wickedness-of-man-was-great",
+    "start_time": 1898.6799621582031,
+    "end_time": 1968.5199584960938,
+    "point_summary": "God's announced judgment on Nineveh was genuine and certain, yet withheld when the city repented — illustrating that God's dealings with mankind are dependent upon man's actions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Jonah 3",
+    "context": "you read the book of Jonah in the third chapter and you see how they Respond to the preaching the Word of God",
+    "is_implicit": true,
+    "video_id": "fbc-2019-11-03pm-the-wickedness-of-man-was-great",
+    "start_time": 1969.6399536132812,
+    "end_time": 2030.5599670410156,
+    "point_summary": "Nineveh's repentance in response to Jonah's preaching illustrates the sermon's governing principle that God's dealings with mankind are directly dependent upon man's actions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 1,
+    "reference_text": "book of Jonah",
+    "context": "I think about the book of Jonah. We won't take time to turn there, but I believe with all my heart that in 40 days God was going to destroy Nineveh",
+    "is_implicit": false,
+    "video_id": "fbc-2025-07-09mw-how-do-we-respond-to-god",
+    "start_time": 1448.5599975585938,
+    "end_time": 1523.5,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

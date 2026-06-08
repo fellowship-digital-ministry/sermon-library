@@ -1,0 +1,58 @@
+{
+  "video_id": "zIV9O3o8Ckg",
+  "title": "\"They Were All Filled With The Holy Ghost\"  Acts 4:31",
+  "publish_date": "20260601",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/zIV9O3o8Ckg.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/zIV9O3o8Ckg.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/zIV9O3o8Ckg.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/zIV9O3o8Ckg.vtt",
+  "duration": 3200.0,
+  "transcription_timestamp": "2026-06-07T17:07:32.824577",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 4:31 on the filling of the Holy Ghost, tracing the two occurrences of the phrase in Acts 4 (vv. 8 and 31) against the backdrop of the healing in Acts 3, the disciples' arrest, and their prayer for boldness. The distinction between the indwelling and the continuous filling of the Spirit is developed through Ephesians 5:18, John 14-16, and Galatians 5.",
+    "themes": [
+      "filling of the holy spirit",
+      "indwelling versus filling",
+      "boldness in witness",
+      "self versus spirit",
+      "fruit of the spirit",
+      "the holy ghost in the church age"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "Acts 3-4 Background: Miracle and Persecution"
+      },
+      {
+        "t": 184,
+        "heading": "Two Occurrences of 'Filled with the Holy Ghost' in Acts 4"
+      },
+      {
+        "t": 651,
+        "heading": "Indwelling Versus Filling: A Distinction"
+      },
+      {
+        "t": 931,
+        "heading": "Point 1: God's Plan for Every Believer to Be Filled"
+      },
+      {
+        "t": 1397,
+        "heading": "Point 2: A Privilege Unique to New Testament Believers"
+      },
+      {
+        "t": 1914,
+        "heading": "The Holy Ghost's Work in the Lost and in Believers"
+      },
+      {
+        "t": 2424,
+        "heading": "Point 3: God Is Pleased When Believers Are Filled"
+      },
+      {
+        "t": 2888,
+        "heading": "Stephen as Example of Being Full of the Holy Ghost"
+      }
+    ]
+  }
+}

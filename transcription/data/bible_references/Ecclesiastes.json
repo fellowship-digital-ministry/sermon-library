@@ -427,5 +427,31 @@
     "end_time": 1627.1199645996094,
     "point_summary": "The moral confusion of calling evil good and good evil is nothing new — the same corruption Isaiah and Jeremiah addressed millennia ago persists today, confirming Solomon's observation that there is nothing new under the sun.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 12,
+    "verse": 5,
+    "reference_text": "Ecclesiastes 12:5",
+    "context": "Man goeth to his long home",
+    "is_implicit": true,
+    "video_id": "fbc-2025-12-28pm-five-tips-for-a-successful-year",
+    "start_time": 348.44000244140625,
+    "end_time": 406.79998779296875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 9,
+    "verse": 10,
+    "reference_text": "Ecclesiastes 9:10",
+    "context": "what sort of thy hand findeth to do, do it heartily as unto the Lord",
+    "is_implicit": true,
+    "video_id": "fbc-2024-09-01pm-consecrated-for-service",
+    "start_time": 1896.1200408935547,
+    "end_time": 1968.2200469970703,
+    "point_summary": "Consecration for service involves the whole person—including the hands—because Scripture calls believers to do whatever work they find to do wholeheartedly, as unto the Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

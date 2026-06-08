@@ -1,0 +1,54 @@
+{
+  "video_id": "nVKSqmkaEKc",
+  "title": "\"Look What God Has Done\"  Acts 14:25-28",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/nVKSqmkaEKc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/nVKSqmkaEKc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/nVKSqmkaEKc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/nVKSqmkaEKc.vtt",
+  "duration": 1876.0,
+  "transcription_timestamp": "2026-06-07T17:02:39.034737",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 14:25-28 on the return of Paul and Barnabas to the church at Antioch after the first missionary journey, used as a framework for examining the local church's role in missions. Draws on Acts 8 and Acts 13-14 to trace the spread of the gospel through Galatia and the reporting of that work back to the sending church.",
+    "themes": [
+      "missions",
+      "local church sending",
+      "missionary reporting",
+      "rejoicing in god's work",
+      "church assembly",
+      "co-laboring with god"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction to Missions Emphasis"
+      },
+      {
+        "t": 237,
+        "heading": "Scattering and Spreading of the Gospel in Acts 8"
+      },
+      {
+        "t": 329,
+        "heading": "The Church at Antioch and the First Missionary Journey"
+      },
+      {
+        "t": 712,
+        "heading": "Paul and Barnabas Return After Completing the Work"
+      },
+      {
+        "t": 908,
+        "heading": "The Church Gathers to Hear the Report"
+      },
+      {
+        "t": 1048,
+        "heading": "Rehearsing All That God Had Done"
+      },
+      {
+        "t": 1422,
+        "heading": "Rejoicing Over What God Has Accomplished"
+      }
+    ]
+  }
+}

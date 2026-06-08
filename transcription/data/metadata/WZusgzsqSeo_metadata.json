@@ -1,0 +1,50 @@
+{
+  "video_id": "WZusgzsqSeo",
+  "title": "\"What Is Your Response To The Mirror Of God's Word?\"  James 1:19-25",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/WZusgzsqSeo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/WZusgzsqSeo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/WZusgzsqSeo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/WZusgzsqSeo.vtt",
+  "duration": 2084.0,
+  "transcription_timestamp": "2026-06-07T16:32:42.977881",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 1:19-25 on the proper response to Scripture, organized around the mirror metaphor James uses to contrast those who merely hear the word with those who act on it.",
+    "themes": [
+      "hearing and doing the word",
+      "self-deception",
+      "scripture as a mirror",
+      "obedience",
+      "salvation",
+      "god's blessing"
+    ],
+    "sections": [
+      {
+        "t": 91,
+        "heading": "Passage Introduced and Read"
+      },
+      {
+        "t": 139,
+        "heading": "Snow White Mirror Illustration"
+      },
+      {
+        "t": 325,
+        "heading": "Instruction: Be a Doer, Not a Hearer Only"
+      },
+      {
+        "t": 928,
+        "heading": "The Illustration: Looker Versus Lingerer"
+      },
+      {
+        "t": 1394,
+        "heading": "The Illusion of Self-Deception"
+      },
+      {
+        "t": 1719,
+        "heading": "Gospel Application and Call to Faith"
+      }
+    ]
+  }
+}

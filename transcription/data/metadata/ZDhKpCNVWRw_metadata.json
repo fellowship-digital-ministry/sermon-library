@@ -1,0 +1,54 @@
+{
+  "video_id": "ZDhKpCNVWRw",
+  "title": "\"Shew Thyself A Man\"   I Kings 2:1-4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/ZDhKpCNVWRw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/ZDhKpCNVWRw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ZDhKpCNVWRw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ZDhKpCNVWRw.vtt",
+  "duration": 2805.0,
+  "transcription_timestamp": "2026-06-07T16:55:24.360259",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Kings 2:1-4 on David's deathbed charge to Solomon, examining what it means to be strong, to show oneself a man, and to walk in the ways of the Lord, with application drawn to godly living for all believers.",
+    "themes": [
+      "fatherhood",
+      "godly manhood",
+      "obedience to god's word",
+      "spiritual strength",
+      "god's blessing and favor",
+      "generational influence"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: The Privilege of Fatherhood"
+      },
+      {
+        "t": 194,
+        "heading": "David's Approaching Death"
+      },
+      {
+        "t": 379,
+        "heading": "The Charge from a Godly Father"
+      },
+      {
+        "t": 799,
+        "heading": "Significance of the Charge to David and Solomon"
+      },
+      {
+        "t": 1218,
+        "heading": "Characteristics of a Godly Individual"
+      },
+      {
+        "t": 2073,
+        "heading": "Consequences of Godly Living"
+      },
+      {
+        "t": 2303,
+        "heading": "Contrast: Consequences of Forsaking God's Ways"
+      }
+    ]
+  }
+}

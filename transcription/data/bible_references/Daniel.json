@@ -2754,5 +2754,70 @@
     "end_time": 2430.5600147247314,
     "point_summary": "Being drawn from the lion's den praising God illustrates that waiting on the Lord through suffering, rather than manipulating outcomes, brings deliverance at His timing.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Daniel",
+    "context": "when Daniel is reading Jeremiah and it reveals to him the fact that their 70 years are accomplished and God gives him the vision",
+    "is_implicit": false,
+    "video_id": "fbc-2025-12-17mw-what-if-they-hearkened",
+    "start_time": 782.0399780273438,
+    "end_time": 849.5199737548828,
+    "point_summary": "Daniel's reading of Jeremiah's prophecy is cited to illustrate how the 70-year Babylonian captivity was the direct consequence of Israel's disobedience, confirming that God's judgment, not abandonment, drove their exile.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 33,
+    "reference_text": "Daniel 4:33",
+    "context": "He is the leader of the world and in just a moment because of his pride, he's out in the middle of a field like a beast",
+    "is_implicit": true,
+    "video_id": "fbc-2025-04-23mw-my-shepherd-provides-for-me",
+    "start_time": 630.1599731445312,
+    "end_time": 701.7999725341797,
+    "point_summary": "Nebuchadnezzar's sudden reduction from world ruler to beast-like wanderer serves as a warning against attributing one's abilities and provision to oneself rather than to God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Daniel 4:17",
+    "context": "this matter is by the decree of the watchers and the demand by thy word of the holy ones to the intent that the living may know that the most high ruleth in the kingdom of men and giveth it to whomsoever he will",
+    "is_implicit": false,
+    "video_id": "fbc-2023-10-29pm-i-have-set-thee-over-all-the-land-of-egypt",
+    "start_time": 2053.979965209961,
+    "end_time": 2119.179962158203,
+    "point_summary": "God's sovereign appointment of rulers — including Joseph's elevation — is grounded in Daniel 4:17's declaration that the Most High rules in the kingdom of men and gives authority to whomever He wills.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Daniel 4:17",
+    "context": "the living may know that the most high ruleth in the kingdom of men and he giveth it to whomsoever he will and setteth up over it the basest of men",
+    "is_implicit": false,
+    "video_id": "fbc-2023-10-29pm-i-have-set-thee-over-all-the-land-of-egypt",
+    "start_time": 2119.179962158203,
+    "end_time": 2195.3399658203125,
+    "point_summary": "Daniel 4:17 is cited to establish that God sovereignly rules over the kingdoms of men, appointing whomever He wills—including the basest of men—so that the living may know He alone is in control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "Daniel 3:16",
+    "context": "Every time we sing the song, I think about Daniel. And then I'm reminded that he's able to deliver me from what, from anything.",
+    "is_implicit": true,
+    "video_id": "fbc-2025-07-02mw-jehovah-shalom",
+    "start_time": 2249.239959716797,
+    "end_time": 2317.0799560546875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

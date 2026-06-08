@@ -1,0 +1,58 @@
+{
+  "video_id": "jrB0HUzN1FE",
+  "title": "\"In Heaven - Part Two\"  Revelation 4:2-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/jrB0HUzN1FE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/jrB0HUzN1FE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/jrB0HUzN1FE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/jrB0HUzN1FE.vtt",
+  "duration": 2401.0,
+  "transcription_timestamp": "2026-06-07T16:36:21.687964",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 4:2-11 (part two of a three-part series) on the identity and activity of the twenty-four elders in the heavenly throne room, drawing on parallel passages in Revelation 3, 5, 19, and selected Old and New Testament texts to argue that the elders represent the redeemed church.",
+    "themes": [
+      "the twenty-four elders",
+      "heaven",
+      "worship",
+      "the church as bride of christ",
+      "rewards and crowns",
+      "the rapture"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Passage Review"
+      },
+      {
+        "t": 141,
+        "heading": "Identity of the Twenty-Four Elders Introduced"
+      },
+      {
+        "t": 280,
+        "heading": "Three Clues from Verse Four"
+      },
+      {
+        "t": 927,
+        "heading": "Crowns as Rewards, Not Royal Insignia"
+      },
+      {
+        "t": 1154,
+        "heading": "What the Elders Are Doing: Worship"
+      },
+      {
+        "t": 1294,
+        "heading": "Observations on Worship in the Passage"
+      },
+      {
+        "t": 1768,
+        "heading": "Why Twenty-Four: Representatives of the Redeemed"
+      },
+      {
+        "t": 2004,
+        "heading": "Matthew 19 and Ephesians 2 as Supporting Texts"
+      }
+    ]
+  }
+}

@@ -388,5 +388,31 @@
     "end_time": 2148.719970703125,
     "point_summary": "Receiving and supporting those who go forth for the Name's sake makes believers \"fellow helpers to the truth,\" a cooperative commitment that mirrors the partnership language Paul applies to Titus in 2 Corinthians 8.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 2,
+    "reference_text": "3 John 1:2",
+    "context": "even as thy soul prospereth",
+    "is_implicit": true,
+    "video_id": "fbc-2025-12-28pm-five-tips-for-a-successful-year",
+    "start_time": 143.75999450683594,
+    "end_time": 214.8000030517578,
+    "point_summary": "God's desire for believers to prosper, drawn from 3 John 1:2's address to Gaius, is framed here as inward, soul-level flourishing rather than material success defined by bank accounts or possessions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "3 John",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "3 John",
+    "context": "Gaius and 3 John",
+    "is_implicit": false,
+    "video_id": "fbc-2024-12-08am-profitable-for-the-ministry",
+    "start_time": 2315.2000122070312,
+    "end_time": 2381.2400512695312,
+    "point_summary": "Gaius, named in 3 John, illustrates that faithful servants of God need not hold prominent, household-name status to be profitable for the ministry as a clean vessel God uses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -61,7 +61,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 890.0399780273438,
     "end_time": 949.0399780273438,
-    "point_summary": "Ruth 1:6 is cited to establish context: Naomi returns to her homeland because she heard \u2014 not yet experienced \u2014 that God had visited His people and provided bread amid famine.",
+    "point_summary": "Ruth 1:6 is cited to establish context: Naomi returns to her homeland because she heard — not yet experienced — that God had visited His people and provided bread amid famine.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -139,7 +139,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
     "end_time": 1081.0399780273438,
-    "point_summary": "Ruth's oath in verse 17 \u2014 \"where thou diest, will I die\" \u2014 is cited as evidence of her steadfast, covenant-level commitment to Naomi, distinguishing her loyalty from Orpah's departure back to her people and false gods.",
+    "point_summary": "Ruth's oath in verse 17 — \"where thou diest, will I die\" — is cited as evidence of her steadfast, covenant-level commitment to Naomi, distinguishing her loyalty from Orpah's departure back to her people and false gods.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -152,7 +152,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
     "end_time": 1081.0399780273438,
-    "point_summary": "Ruth's steadfast resolve \u2014 seen in her clinging to Naomi even after Naomi urged her to return to her people and their false gods \u2014 marks her as a woman of unwavering loyalty and genuine faith.",
+    "point_summary": "Ruth's steadfast resolve — seen in her clinging to Naomi even after Naomi urged her to return to her people and their false gods — marks her as a woman of unwavering loyalty and genuine faith.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -165,7 +165,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1014.0399780273438,
     "end_time": 1081.0399780273438,
-    "point_summary": "Ruth's arrival in Bethlehem with Naomi stirred the whole city, marking the moment her loyal commitment to follow Naomi\u2014and Naomi's God\u2014became publicly visible.",
+    "point_summary": "Ruth's arrival in Bethlehem with Naomi stirred the whole city, marking the moment her loyal commitment to follow Naomi—and Naomi's God—became publicly visible.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -230,7 +230,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1578.0199890136719,
     "end_time": 1653.8199768066406,
-    "point_summary": "Boaz's public recognition of Ruth as a virtuous woman illustrates that a godly testimony is observable by others, calling believers to guard their conduct so Christ\u2014not themselves\u2014is seen as the source of any good in their lives.",
+    "point_summary": "Boaz's public recognition of Ruth as a virtuous woman illustrates that a godly testimony is observable by others, calling believers to guard their conduct so Christ—not themselves—is seen as the source of any good in their lives.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -243,7 +243,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1718.0799560546875,
     "end_time": 1786.4400024414062,
-    "point_summary": "Boaz's public declaration before witnesses in Ruth 4:9 illustrates that Ruth's patient waiting on God and trusting His prescribed process ultimately resulted in her redemption and marriage \u2014 a fruit of her virtuous influence.",
+    "point_summary": "Boaz's public declaration before witnesses in Ruth 4:9 illustrates that Ruth's patient waiting on God and trusting His prescribed process ultimately resulted in her redemption and marriage — a fruit of her virtuous influence.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -256,7 +256,7 @@
     "video_id": "2-7TNtHtf_0",
     "start_time": 1786.4400024414062,
     "end_time": 1861.3800048828125,
-    "point_summary": "Ruth's marriage to Boaz and the Lord's gift of conception illustrate that virtuous character\u2014demonstrated through singleness and waiting\u2014carries forward into every new phase of life God opens.",
+    "point_summary": "Ruth's marriage to Boaz and the Lord's gift of conception illustrate that virtuous character—demonstrated through singleness and waiting—carries forward into every new phase of life God opens.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -334,7 +334,7 @@
     "video_id": "vc7GUAlgbGA",
     "start_time": 2570.4200439453125,
     "end_time": 2636.4200439453125,
-    "point_summary": "Ruth's act of faith produced a lineage\u2014through Obed, Jesse, and David\u2014that culminated historically in Jesus Christ, illustrating the far-reaching generational reward of trusting God.",
+    "point_summary": "Ruth's act of faith produced a lineage—through Obed, Jesse, and David—that culminated historically in Jesus Christ, illustrating the far-reaching generational reward of trusting God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -361,6 +361,19 @@
     "start_time": 2570.4200439453125,
     "end_time": 2636.4200439453125,
     "point_summary": "Ruth 4:18's genealogy is read as historical evidence that Rahab's faith produced a lineage culminating in David and ultimately Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ruth",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Ruth",
+    "context": "cleaving unto the Lord from the book of Ruth",
+    "is_implicit": false,
+    "video_id": "Y_zca3zo61U",
+    "start_time": 2274.2999877929688,
+    "end_time": 2348.3599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -1077,5 +1077,70 @@
     "end_time": 190.0,
     "point_summary": "David's joyful giving toward a temple he would never enter stands as a scriptural model of cheerful, God-enabled generosity offered for the benefit of a future generation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 29,
+    "verse": 14,
+    "reference_text": "1 Chronicles 29:14",
+    "context": "but who am I and what is my people that we should be able to offer so willingly after this sort? Then notice this perspective. For all things come of",
+    "is_implicit": false,
+    "video_id": "fbc-2025-03-19mw-jehovah-jireh",
+    "start_time": 1153.4800415039062,
+    "end_time": 1211.840048789978,
+    "point_summary": "David's declaration that \"of thine own have we given thee\" establishes that all financial resources originate with God, making human giving an act of returning what already belongs to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 29,
+    "verse": null,
+    "reference_text": "1 Chronicles 29",
+    "context": "You study 1st Chronicles 29",
+    "is_implicit": true,
+    "video_id": "fbc-2025-03-19mw-jehovah-jireh",
+    "start_time": 1211.840048789978,
+    "end_time": 1281.5200500488281,
+    "point_summary": "David's declaration that \"all things come of thee and of thine own have we given thee\" establishes that cheerful, sacrificial giving—even for a temple he would never enter—flows from recognizing God as the source of everything.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 28,
+    "verse": 20,
+    "reference_text": "1 Chronicles 28:20",
+    "context": "be strong and of good courage and do it, fear not nor be dismayed for the Lord God, even my God, will be with thee, he will not fail thee nor forsake thee until thou hast finished all the work for the service of the house of the Lord",
+    "is_implicit": false,
+    "video_id": "fbc-2025-05-14mw-the-presence-of-my-shepherd",
+    "start_time": 453.7799987792969,
+    "end_time": 515.4600219726562,
+    "point_summary": "David's charge to Solomon in 1 Chronicles 28:20 is cited as evidence that David personally understood the confidence born from God's unfailing presence and desired that same transforming reality to take hold in Solomon's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": null,
+    "reference_text": "1 Chronicles 24",
+    "context": "the priests that were divided by King David into 24 companies",
+    "is_implicit": false,
+    "video_id": "jrB0HUzN1FE",
+    "start_time": 1848.0800170898438,
+    "end_time": 1907.0800170898438,
+    "point_summary": "David's division of Israel's priests into 24 companies with rotating service orders is offered as a possible biblical pattern explaining why the redeemed in heaven are represented by exactly 24 elders.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 1,
+    "reference_text": "1 Chronicles 24:1 (David's priests divided into 24 companies)",
+    "context": "just as David had thousands of priests divided into 24 companies, and they each had their time in which they were serving",
+    "is_implicit": true,
+    "video_id": "jrB0HUzN1FE",
+    "start_time": 1907.0800170898438,
+    "end_time": 1979.0800170898438,
+    "point_summary": "David's division of Israel's thousands of priests into 24 rotating companies is offered as a possible explanation for why the redeemed are represented by exactly 24 elders in Revelation 4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "video_id": "odsyejJ4a-0",
+  "title": "\"Restoring Strained Relationships\" II Corinthians 7:2-16",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/odsyejJ4a-0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/odsyejJ4a-0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/odsyejJ4a-0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/odsyejJ4a-0.vtt",
+  "duration": 3226.0,
+  "transcription_timestamp": "2026-06-07T16:45:48.298047",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Corinthians 7:2-16 on strained and fractured relationships, tracing the Apostle Paul's effort to restore his relationship with the church at Corinth against the backdrop of false teachers and misunderstanding. The passage is treated as practical Scripture addressing the complexity of human relationships and the biblical call toward reconciliation.",
+    "themes": [
+      "strained relationships",
+      "reconciliation",
+      "pride and contention",
+      "pastoral relationships",
+      "godly sorrow and repentance",
+      "unity in the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Overview"
+      },
+      {
+        "t": 136,
+        "heading": "Paul's Relationship with Corinth"
+      },
+      {
+        "t": 458,
+        "heading": "Titus, the Letter, and Godly Sorrow"
+      },
+      {
+        "t": 1104,
+        "heading": "Complexity of Relationships"
+      },
+      {
+        "t": 1389,
+        "heading": "Pastoral and Church Relationships"
+      },
+      {
+        "t": 2101,
+        "heading": "Craving for Restoration"
+      },
+      {
+        "t": 2435,
+        "heading": "Ministry of Reconciliation and Matthew 5"
+      },
+      {
+        "t": 2857,
+        "heading": "Pride, Unity, and Closing Appeal"
+      }
+    ]
+  }
+}

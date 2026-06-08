@@ -10554,5 +10554,18 @@
     "end_time": 229.32000732421875,
     "point_summary": "Luke 19:10 is cited to illuminate God's pursuit of fallen humanity in Genesis 3, establishing that the seeking Savior of the New Testament is the same God who came looking for Adam and Eve in the garden.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Luke",
+    "chapter": 10,
+    "verse": 20,
+    "reference_text": "Luke 10:20",
+    "context": "your names are written in heaven",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1779.3200073242188,
+    "end_time": 1840.7999954223633,
+    "point_summary": "The surest and most lasting ground for rejoicing is not spiritual power or circumstantial blessing, but that one's name is written in heaven.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

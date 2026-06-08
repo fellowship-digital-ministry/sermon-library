@@ -1,0 +1,58 @@
+{
+  "video_id": "6B69_TA9xVw",
+  "title": "\"The Rapture\"  Revelation 4:1",
+  "publish_date": 20250519.0,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/6B69_TA9xVw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/6B69_TA9xVw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6B69_TA9xVw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/6B69_TA9xVw.vtt",
+  "duration": 0.0,
+  "transcription_timestamp": "2026-06-07T21:16:02.250436",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 4:1 on the rapture of the church, tracing the biblical terminology, the purpose of the tribulation, the distinction between Christ coming for and coming with his saints, and the case for a pre-tribulation rapture drawn from Daniel, 1 and 2 Thessalonians, Romans 11, Jude, Zechariah, and Revelation.",
+    "themes": [
+      "rapture",
+      "tribulation",
+      "eschatology",
+      "israel and the church",
+      "imminence of christ's return",
+      "the restrainer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revelation 4 and the Throne Room"
+      },
+      {
+        "t": 138,
+        "heading": "Defining the Rapture"
+      },
+      {
+        "t": 275,
+        "heading": "Christ Coming With His Saints"
+      },
+      {
+        "t": 557,
+        "heading": "Purpose and Character of the Tribulation"
+      },
+      {
+        "t": 1259,
+        "heading": "Promises to the Church Regarding Wrath"
+      },
+      {
+        "t": 1494,
+        "heading": "Imminence and Specific Tribulation Events"
+      },
+      {
+        "t": 1959,
+        "heading": "The Restrainer and Strong Delusion"
+      },
+      {
+        "t": 2435,
+        "heading": "Pre-Trib, Mid-Trib, and Post-Trib Positions"
+      }
+    ]
+  }
+}

@@ -23268,5 +23268,44 @@
     "end_time": 134.0,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "2 Corinthians 6",
+    "context": "The urgency in 2 Corinthians 6 is more about the urgency of the ambassador than it is the urgency of the sinner.",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2710.2999877929688,
+    "end_time": 2780.759979248047,
+    "point_summary": "The urgency of 2 Corinthians 6 belongs primarily to the ambassador, not merely the sinner, calling believers to work with urgency in light of Christ's imminent return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "to be absent from the body is to be present with the Lord",
+    "context": "to be absent from the body is to be present with the Lord",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1705.2200012207031,
+    "end_time": 1779.3200073242188,
+    "point_summary": "Paul's assurance that to be absent from the body is to be present with the Lord grounds the sermon's claim that heaven—as John describes it in Revelation 4—is the certain destination of every believer, whether through death or rapture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "to be absent from the body is to be present with the Lord",
+    "context": "to be absent from the body is to be present with the Lord",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1705.2200012207031,
+    "end_time": 1779.3200073242188,
+    "point_summary": "Paul's confidence that death brings the believer immediately into the Lord's presence is cited as assurance that the heavenly scene of Revelation 4 is the believer's certain destination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

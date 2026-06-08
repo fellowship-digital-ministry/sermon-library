@@ -36281,5 +36281,31 @@
     "end_time": 1805.2999901771545,
     "point_summary": "John 3's \"born again\" teaching is cited as the New Testament counterpart to the spiritual death introduced in Genesis, showing that physical birth alone cannot restore what sin severed between God and man.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 9,
+    "verse": null,
+    "reference_text": "John 9",
+    "context": "miracle from John chapter number nine when Jesus healed the man that was born blind",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 917.0,
+    "end_time": 977.5199890136719,
+    "point_summary": "The miracle of John 9—where religious leaders were physically sighted yet spiritually blind—illustrates the partial, temporary spiritual blindness that has come upon Israel during the present church age.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 6,
+    "reference_text": "John 14:6",
+    "context": "Jesus said, I am the way, the truth, and the life. No man cometh unto the Father but by me.",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1840.7999954223633,
+    "end_time": 1905.5199966430664,
+    "point_summary": "Heaven is a real place with only one way of entry — Jesus Christ alone, as his own words declare and Peter's proclamation in Acts 4 confirms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

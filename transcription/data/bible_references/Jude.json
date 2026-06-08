@@ -1142,5 +1142,31 @@
     "end_time": 1522.1600341796875,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 14,
+    "reference_text": "Jude 1:14",
+    "context": "in Jude verse 14, in Enoch also the seventh from Adam, prophesied of these saying, behold, the Lord cometh with 10,000 of his saints to execute judgment upon all",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 310.1199951171875,
+    "end_time": 374.2799987792969,
+    "point_summary": "Enoch's ancient prophecy, cited in Jude 14, is used to establish that Christ's return at Armageddon includes His saints, not angels alone, riding with Him as the armies of heaven.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 15,
+    "reference_text": "Jude 1:15",
+    "context": "and to convince all that are ungodly among them of all their ungodly deeds, which they have ungodly committed and of all their hard speeches, which ungodly sinners have spoken against him",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 310.1199951171875,
+    "end_time": 374.2799987792969,
+    "point_summary": "Jude 1:15 is cited as scriptural confirmation that the armies returning with Christ in Revelation 19 include his saints, not angels alone, executing judgment on the ungodly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -5328,5 +5328,18 @@
     "end_time": 1423.1600189208984,
     "point_summary": "Peter's invocation of global judgment in 2 Peter 3 is cited as New Testament confirmation that the Genesis flood was worldwide, not a localized event.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 3,
+    "verse": 10,
+    "reference_text": "2 Peter 3:10",
+    "context": "he's gonna come like a thief in the night",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 1473.9000244140625,
+    "end_time": 1533.9200134277344,
+    "point_summary": "The phrase \"thief in the night\" from 2 Peter 3:10 is cited alongside 1 Thessalonians 5:2 as scriptural support for the doctrine of imminence—Christ's return could occur at any moment without prerequisite signs.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

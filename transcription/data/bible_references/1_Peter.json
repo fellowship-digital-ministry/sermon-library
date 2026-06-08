@@ -12049,5 +12049,18 @@
     "end_time": 934.0599670410156,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 3,
+    "verse": 20,
+    "reference_text": "1 Peter 3:20",
+    "context": "Peter confirms that, eight people",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 876.6600036621094,
+    "end_time": 938.5599975585938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

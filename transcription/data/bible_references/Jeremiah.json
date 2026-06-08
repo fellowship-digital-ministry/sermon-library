@@ -4548,5 +4548,44 @@
     "end_time": 1883.2800216674805,
     "point_summary": "God's unlimited ability to do the impossible—\"no thing is too difficult for Thee\"—grounds the sermon's call to long expectantly for works that can only be explained as God's own doing.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 30,
+    "verse": null,
+    "reference_text": "Jeremiah 30",
+    "context": "We find that Jeremiah in chapter number 30 refers to this day of",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 553.02001953125,
+    "end_time": 609.4799976348877,
+    "point_summary": "Jeremiah 30:7 identifies the tribulation period as \"the time of Jacob's trouble,\" establishing that Daniel's 70th week is entirely about Israel, not the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 30,
+    "verse": 7,
+    "reference_text": "Jeremiah 30:7",
+    "context": "the time of Jacob's trouble in Jeremiah 30 and verse number 7",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 609.4799976348877,
+    "end_time": 670.4199981689453,
+    "point_summary": "Jeremiah's phrase \"time of Jacob's trouble\" identifies the tribulation as a period specifically concerning Israel, since Jacob's name was changed to Israel.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 30,
+    "verse": 7,
+    "reference_text": "Jeremiah 30:7 (time of Jacob's trouble)",
+    "context": "Why does Jeremiah refer to it as the time of Jacob's trouble?",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2338.5999755859375,
+    "end_time": 2406.9399828910828,
+    "point_summary": "Jeremiah 30:7's designation of the Tribulation as \"the time of Jacob's trouble\" is cited as evidence that this period belongs to Israel, not the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

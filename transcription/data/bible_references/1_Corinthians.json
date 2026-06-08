@@ -19836,5 +19836,44 @@
     "end_time": 2700.6000366210938,
     "point_summary": "Carnality, not mere personality conflict, is identified as the root cause of divisions in the church at Corinth and by extension in any fractured relationship within God's household.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 52,
+    "reference_text": "1 Corinthians 15:52",
+    "context": "in a moment, in the twinkling of an eye",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 1473.9000244140625,
+    "end_time": 1533.9200134277344,
+    "point_summary": "The phrase \"in a moment, in the twinkling of an eye\" is cited as scriptural evidence that Christ's return is imminent—able to occur at any instant without prerequisite events.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 6,
+    "verse": 19,
+    "reference_text": "1 Corinthians 6:19",
+    "context": "our body is the temple of the Holy Ghost which is in you which you have of God",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2073.540008544922,
+    "end_time": 2139.8200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 52,
+    "reference_text": "1 Corinthians 15:52",
+    "context": "in a moment, in the twinkling of an eye",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2587.3799896240234,
+    "end_time": 2647.259979248047,
+    "point_summary": "The imminence of the Rapture is grounded in the \"twinkling of an eye\" language of this verse, used here to argue that mid- or post-Trib positions undermine the doctrine of imminence by allowing the timing to be calculated.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

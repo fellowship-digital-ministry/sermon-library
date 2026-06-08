@@ -2325,5 +2325,18 @@
     "end_time": 399.1600036621094,
     "point_summary": "The soul's guilt before a just God — \"the soul that sins shall die\" — is what drove the sinner trembling to Calvary for repentance and salvation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 20,
+    "verse": 33,
+    "reference_text": "Ezekiel chapter 20 in verses 33 through 44",
+    "context": "If you were to read Ezekiel chapter 20 in verses 33 through 44",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 1038.5199890136719,
+    "end_time": 1100.2799987792969,
+    "point_summary": "During the tribulation period, Ezekiel 20:33–44 is cited as one of several prophetic passages showing that God is preparing Israel to receive Messiah.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

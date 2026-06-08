@@ -18380,5 +18380,31 @@
     "end_time": 1423.1600189208984,
     "point_summary": "Jesus's reference to the days of Noah in Matthew 24:37 is cited as confirmation that the Genesis flood was a real, global historical event, not a myth.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 24,
+    "verse": null,
+    "reference_text": "Matthew 24",
+    "context": "Jesus mentions it in Matthew 24",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 1747.3400268554688,
+    "end_time": 1817.3000030517578,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 24,
+    "verse": 36,
+    "reference_text": "Matthew 24:36",
+    "context": "But no man knows the hour",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2587.3799896240234,
+    "end_time": 2647.259979248047,
+    "point_summary": "The unknowability of the Rapture's timing—\"no man knows the hour\"—is used to argue that mid- or post-Trib positions fail because they allow the date to be calculated from Tribulation events.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -17782,5 +17782,83 @@
     "end_time": 987.0799865722656,
     "point_summary": "God's omnipotence—his ability to do exceeding abundantly above all we ask or think—becomes the believer's anchor of confidence when circumstances feel overwhelming and foundations seem to erode.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 1,
+    "verse": 14,
+    "reference_text": "Ephesians 1:14",
+    "context": "He is the earnest of our inheritance. We're sealed under the day of redemption",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2073.540008544922,
+    "end_time": 2139.8200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Ephesians 3 (mystery of the church)",
+    "context": "Paul is writing to the church in Ephesus, about the mystery",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2338.5999755859375,
+    "end_time": 2406.9399828910828,
+    "point_summary": "Ephesians 3 is cited as Paul's source for the \"mystery\" that Jews and Gentiles are united in one church body, saved the same way—a distinction that separates the church from Israel and the Tribulation's purpose.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 5,
+    "verse": 16,
+    "reference_text": "Redeem the time",
+    "context": "Redeem the time. Redeem the time. That we understand time is short, life is short.",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2710.2999877929688,
+    "end_time": 2780.759979248047,
+    "point_summary": "Belief in the imminent Rapture should motivate urgent, purposeful action—redeeming the time by doing the work Christ left His people here to do.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 5,
+    "verse": 26,
+    "reference_text": "Ephesians 5:26",
+    "context": "he might sanctify and cleanse it, speaking of the church, the bride of Christ, with the washing of water by the word, that he might present it to himself a glorious church, not having spot or wrinkle or any such thing, but that it should be holy and without blemish",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1134.47998046875,
+    "end_time": 1193.4000244140625,
+    "point_summary": "The sea of glass before the throne evokes the Old Testament laver, pointing to how the Word of God cleanses the church—the bride of Christ—sanctifying and presenting her holy and without blemish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 30,
+    "reference_text": "Ephesians 4:30",
+    "context": "sealed under the day of redemption",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1779.3200073242188,
+    "end_time": 1840.7999954223633,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 1,
+    "verse": 14,
+    "reference_text": "Ephesians 1:14",
+    "context": "The Holy Spirit is the earnest of our inheritance",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1779.3200073242188,
+    "end_time": 1840.7999954223633,
+    "point_summary": "The Holy Spirit's sealing of believers \"unto the day of redemption\" is cited as the guarantee that heaven is a certain, real destination for the saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

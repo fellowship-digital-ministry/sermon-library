@@ -5900,5 +5900,57 @@
     "end_time": 799.4999694824219,
     "point_summary": "Matthew 1:22–23 presents Isaiah 7:14 as explicitly fulfilled in the virgin birth of Christ, connecting it to the proto-evangelium of Genesis 3:15 as part of God's redemptive promise.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "Isaiah 6:1",
+    "context": "in the year that King Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up and his train filled the temple",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1568.6199951171875,
+    "end_time": 1639.0199890136719,
+    "point_summary": "Isaiah's vision of the Lord enthroned, high and lifted up, with seraphim crying \"holy, holy, holy,\" is presented as a parallel prophetic glimpse of the same heavenly throne room John beholds in Revelation 4.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 2,
+    "reference_text": "Isaiah 6:2",
+    "context": "above it stood the seraphims, each one had six wings, with twain he covered his face and with twain he covered his feet",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1568.6199951171875,
+    "end_time": 1639.0199890136719,
+    "point_summary": "The seraphim's six-winged posture in Isaiah 6:2 is cited as a parallel vision of God enthroned, reinforcing the consistent biblical witness to heavenly worship surrounding God's throne.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 2,
+    "reference_text": "Isaiah 6:2",
+    "context": "with twain he did fly",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1639.0199890136719,
+    "end_time": 1705.2200012207031,
+    "point_summary": "Isaiah's vision of the seraphim covering their faces and feet before God's throne is cited as a parallel witness to the same heavenly scene John describes in Revelation 4, reinforcing the reality of God enthroned in glory.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 3,
+    "reference_text": "Isaiah 6:3",
+    "context": "holy, holy, holy is the Lord of hosts, the whole earth is full of his glory",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1639.0199890136719,
+    "end_time": 1705.2200012207031,
+    "point_summary": "Isaiah's vision of the seraphim crying \"holy, holy, holy\" is brought alongside Revelation 4 to reinforce that the heavenly throne-room scene John describes is a consistent, real picture of God's majesty across Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

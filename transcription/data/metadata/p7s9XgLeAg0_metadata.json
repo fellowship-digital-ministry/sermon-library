@@ -1,0 +1,58 @@
+{
+  "video_id": "p7s9XgLeAg0",
+  "title": "\"In Heaven - Part One\"   Revelation 4:2-11",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/p7s9XgLeAg0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/p7s9XgLeAg0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/p7s9XgLeAg0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/p7s9XgLeAg0.vtt",
+  "duration": 2020.0,
+  "transcription_timestamp": "2026-06-07T21:19:19.431412",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 4:2-11 on the throne room of heaven, tracing John's vision of the throne, its surrounding features, and the eternal Godhead, situated within the three-part outline of Revelation and set against Old Testament parallels in Genesis 9, Daniel 7, and Isaiah 6.",
+    "themes": [
+      "heaven as a real place",
+      "the throne of god",
+      "the godhead in heaven",
+      "the rainbow and divine faithfulness",
+      "the noahic covenant",
+      "eternal destiny"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Revelation's Three-Part Outline"
+      },
+      {
+        "t": 274,
+        "heading": "Scope of Revelation 4 and 5"
+      },
+      {
+        "t": 410,
+        "heading": "Heaven as a Real Place"
+      },
+      {
+        "t": 596,
+        "heading": "The Throne and Its Description"
+      },
+      {
+        "t": 691,
+        "heading": "The Rainbow and the Noahic Covenant"
+      },
+      {
+        "t": 1297,
+        "heading": "The One Seated on the Throne"
+      },
+      {
+        "t": 1534,
+        "heading": "Daniel and Isaiah Parallels"
+      },
+      {
+        "t": 1719,
+        "heading": "Heaven as Believers' Destination"
+      }
+    ]
+  }
+}

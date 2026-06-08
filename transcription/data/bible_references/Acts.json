@@ -28364,5 +28364,31 @@
     "end_time": 1254.3199729919434,
     "point_summary": "When foundations seem to be crumbling, Acts 1:8 grounds the righteous in divine empowerment—the Holy Spirit's power, not human ability, is what enables continued obedience to God's commission.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 15,
+    "verse": 1,
+    "reference_text": "Acts 15",
+    "context": "Acts 15",
+    "is_implicit": false,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 797.8800048828125,
+    "end_time": 857.0400085449219,
+    "point_summary": "Acts 15 is cited as the Jerusalem Council's authoritative settlement that Jewish people are saved the same way as Gentiles—through faith in the gospel, not by ethnic identity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Acts 4:12",
+    "context": "neither is there salvation in any other. There's no other name under heaven given among men whereby we must be saved.",
+    "is_implicit": true,
+    "video_id": "p7s9XgLeAg0",
+    "start_time": 1840.7999954223633,
+    "end_time": 1905.5199966430664,
+    "point_summary": "Salvation is exclusively through Jesus Christ, as Peter's declaration in Acts 4:12 confirms there is no other name under heaven by which we must be saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

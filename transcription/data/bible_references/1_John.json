@@ -14272,5 +14272,18 @@
     "end_time": 1240.2199668884277,
     "point_summary": "Christ's manifestation in the flesh is declared in 1 John 3:8 as purposefully aimed at destroying the devil's works, confirming the cross and resurrection as God's decisive victory over Satan.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 2,
+    "verse": 18,
+    "reference_text": "1 John 2:18",
+    "context": "John speaks about there's many antichrists",
+    "is_implicit": true,
+    "video_id": "6B69_TA9xVw",
+    "start_time": 2006.7200012207031,
+    "end_time": 2073.540008544922,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

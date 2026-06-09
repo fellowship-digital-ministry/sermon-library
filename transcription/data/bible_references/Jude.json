@@ -1168,5 +1168,18 @@
     "end_time": 374.2799987792969,
     "point_summary": "Jude 1:15 is cited as scriptural confirmation that the armies returning with Christ in Revelation 19 include his saints, not angels alone, executing judgment on the ungodly.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "Jude 1:22",
+    "context": "Some have compassion making a difference we read in the book of Jude",
+    "is_implicit": false,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 1581.2000122070312,
+    "end_time": 1653.2000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

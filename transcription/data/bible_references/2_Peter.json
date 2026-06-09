@@ -5341,5 +5341,18 @@
     "end_time": 1533.9200134277344,
     "point_summary": "The phrase \"thief in the night\" from 2 Peter 3:10 is cited alongside 1 Thessalonians 5:2 as scriptural support for the doctrine of imminence—Christ's return could occur at any moment without prerequisite signs.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 3,
+    "verse": 9,
+    "reference_text": "2 Peter 3:9",
+    "context": "He's not willing that any should perish but that all should come to repentance",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 1188.6400146484375,
+    "end_time": 1256.2000122070312,
+    "point_summary": "God's universal salvific will is affirmed from 2 Peter 3:9 — that He is not willing any should perish but that all should come to repentance — as the scriptural ground for understanding humanity's greatest need as salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

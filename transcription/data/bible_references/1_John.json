@@ -14285,5 +14285,31 @@
     "end_time": 2073.540008544922,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 9,
+    "reference_text": "1 John 1:9",
+    "context": "if we confess our sins, he is faithful and just to forgive us and to cleanse us from all unrighteousness",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2219.6800231933594,
+    "end_time": 2279.480010986328,
+    "point_summary": "Confession of past failures in witnessing—acknowledged as disobedience and fear—opens the door to God's promised forgiveness and cleansing, restoring the believer to faithful gospel witness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 2,
+    "verse": 1,
+    "reference_text": "1 John 2:1",
+    "context": "we have an advocate with our Father, Jesus Christ the righteous",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2219.6800231933594,
+    "end_time": 2279.480010986328,
+    "point_summary": "When believers have failed to witness faithfully, 1 John 2:1's promise of an advocate in Jesus Christ the righteous offers the forgiveness and restoration needed to confess that disobedience and seek a fresh opportunity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

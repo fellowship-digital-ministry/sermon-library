@@ -12309,5 +12309,18 @@
     "end_time": 1473.9000244140625,
     "point_summary": "Godly believers are promised persecution from the world, not divine wrath, distinguishing the church's present suffering from the tribulation's outpouring of God's judgment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 3,
+    "reference_text": "2 Timothy 2:3",
+    "context": "the Bible says that we're to be good soldiers of Jesus Christ",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 1256.2000122070312,
+    "end_time": 1319.2000122070312,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

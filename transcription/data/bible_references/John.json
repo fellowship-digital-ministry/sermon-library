@@ -36307,5 +36307,31 @@
     "end_time": 1905.5199966430664,
     "point_summary": "Heaven is a real place with only one way of entry — Jesus Christ alone, as his own words declare and Peter's proclamation in Acts 4 confirms.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "John 3:16",
+    "context": "for God so loved the world",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 59.86000061035156,
+    "end_time": 121.0999984741211,
+    "point_summary": "God's global redemptive love, summarized in \"God so loved the world,\" grounds the church's participation in worldwide missionary work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 4,
+    "verse": 35,
+    "reference_text": "John 4:35",
+    "context": "our focus is to be on the fields that are white unto harvest. Lift up your eyes. The Lord says this and he tells us that the harvest, listen, it's plenteous. The labors, they're few",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2081.3600158691406,
+    "end_time": 2147.1200256347656,
+    "point_summary": "Distraction, not only disobedience, can blind believers to evangelistic urgency, making Christ's call to \"lift up your eyes\" on fields \"white unto harvest\" a necessary corrective for those too busy to see the lost.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

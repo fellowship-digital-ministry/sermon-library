@@ -11451,5 +11451,18 @@
     "end_time": 1533.9200134277344,
     "point_summary": "James 5:8's phrase \"the coming of the Lord draweth nigh\" is cited as a scriptural basis for the doctrine of imminence—that Christ's return could occur at any moment without prerequisite events.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "help us to be doers of the word and not hearers only",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2734.320037841797,
+    "end_time": 2829.1800231933594,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

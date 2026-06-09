@@ -17860,5 +17860,18 @@
     "end_time": 1840.7999954223633,
     "point_summary": "The Holy Spirit's sealing of believers \"unto the day of redemption\" is cited as the guarantee that heaven is a certain, real destination for the saved.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "Ephesians 2:4",
+    "context": "God who is rich in mercy",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 1188.6400146484375,
+    "end_time": 1256.2000122070312,
+    "point_summary": "God's universal saving will — that He desires all people to be saved and come to the knowledge of the truth — grounds the urgency of proclaiming the gospel to every human being.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

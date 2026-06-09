@@ -5952,5 +5952,44 @@
     "end_time": 1705.2200012207031,
     "point_summary": "Isaiah's vision of the seraphim crying \"holy, holy, holy\" is brought alongside Revelation 4 to reinforce that the heavenly throne-room scene John describes is a consistent, real picture of God's majesty across Scripture.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "Isaiah 6:1",
+    "context": "Isaiah in chapter number six when he was commissioned to go? God gives him the commission. You know what Isaiah saw? He saw God high, holy, and lifted up.",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2484.6400299072266,
+    "end_time": 2546.4000244140625,
+    "point_summary": "Isaiah's vision of God high, holy, and lifted up produced such brokenness and awe that he answered the call to preach before fully understanding the commission—modeling obedience grounded in who God is rather than in favorable outcomes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 8,
+    "reference_text": "Isaiah 6:8",
+    "context": "we find that there in Isaiah chapter number six, who will go, right? And Isaiah answers the call, here am I.",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2484.6400299072266,
+    "end_time": 2546.4000244140625,
+    "point_summary": "Isaiah's willingness to answer God's call before knowing the full commission illustrates that obedience flows from seeing God rightly, not from prior knowledge of the task's outcome.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Isaiah 6",
+    "context": "You read it in Isaiah six, they're not going to listen.",
+    "is_implicit": true,
+    "video_id": "3Ct-Lh8Rchw",
+    "start_time": 2546.4000244140625,
+    "end_time": 2615.6400299072266,
+    "point_summary": "Isaiah's willing surrender — \"Here am I\" before knowing the full commission — illustrates that obedience rooted in a vision of God's holiness precedes and overrides any calculation of whether the audience will respond.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

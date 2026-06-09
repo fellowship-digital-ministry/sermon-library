@@ -1,0 +1,58 @@
+{
+  "video_id": "3Ct-Lh8Rchw",
+  "title": "\"Do I Have Blood On My Hands?\"  Acts 20:26-27",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/3Ct-Lh8Rchw.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/3Ct-Lh8Rchw.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/3Ct-Lh8Rchw.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/3Ct-Lh8Rchw.vtt",
+  "duration": 2906.0,
+  "transcription_timestamp": "2026-06-08T21:10:44.359910",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Acts 20:26-27 on the Christian's responsibility to declare the gospel, framed by Paul's statement that he is 'pure from the blood of all men.' The passage is read alongside Ezekiel 3:16-22 and Romans 1:14-15 to examine the watchman metaphor and its application to personal evangelism.",
+    "themes": [
+      "evangelism",
+      "the watchman responsibility",
+      "gospel urgency",
+      "personal accountability",
+      "missions",
+      "confession and recommitment"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Missions Conference Introduction"
+      },
+      {
+        "t": 231,
+        "heading": "Acts 20:26-27 Introduced"
+      },
+      {
+        "t": 323,
+        "heading": "Ezekiel 3 and the Watchman Passage"
+      },
+      {
+        "t": 747,
+        "heading": "Paul's Commission and the Condition of Humanity"
+      },
+      {
+        "t": 1401,
+        "heading": "Paul's Urgency in Declaring the Gospel"
+      },
+      {
+        "t": 1871,
+        "heading": "The Question of Blood on One's Hands"
+      },
+      {
+        "t": 2018,
+        "heading": "Missed Opportunities, Confession, and Recommitment"
+      },
+      {
+        "t": 2599,
+        "heading": "Warning Every Man, Colossians 1:28"
+      }
+    ]
+  }
+}

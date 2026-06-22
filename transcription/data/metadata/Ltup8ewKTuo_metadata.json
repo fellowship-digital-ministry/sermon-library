@@ -1,0 +1,54 @@
+{
+  "video_id": "Ltup8ewKTuo",
+  "title": "\"Make Known Thy Truth\"  Isaiah 38:19",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Ltup8ewKTuo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Ltup8ewKTuo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ltup8ewKTuo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Ltup8ewKTuo.vtt",
+  "duration": 2909.0,
+  "transcription_timestamp": "2026-06-21T21:06:06.889574",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Isaiah 38:19 on the responsibility of fathers and believers to pass the truth of God to the next generation, preached on Father's Day. Drawing from Hezekiah's writing after his recovery from illness, the message moves through Psalms, Proverbs, Ephesians, and 2 Timothy to examine the plea, passion, and purpose behind intergenerational spiritual influence.",
+    "themes": [
+      "intergenerational faithfulness",
+      "fatherhood",
+      "spiritual influence",
+      "teaching children",
+      "passing on truth",
+      "discipleship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context of Isaiah 38"
+      },
+      {
+        "t": 234,
+        "heading": "Hezekiah, Manasseh, and the Call to Influence"
+      },
+      {
+        "t": 649,
+        "heading": "A Plea for Influence: Psalm 71:18"
+      },
+      {
+        "t": 1305,
+        "heading": "A Passion to Influence: Psalm 145 and Proverbs 4"
+      },
+      {
+        "t": 1972,
+        "heading": "The Purpose of Influence: 2 Timothy 2:2 and Ephesians 6:4"
+      },
+      {
+        "t": 2307,
+        "heading": "Psalm 78 and 3 John on Generational Truth"
+      },
+      {
+        "t": 2689,
+        "heading": "The Home, the Church, and Parental Responsibility"
+      }
+    ]
+  }
+}

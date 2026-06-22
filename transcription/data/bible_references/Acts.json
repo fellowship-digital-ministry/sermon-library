@@ -28676,5 +28676,31 @@
     "end_time": 2900.9800415039062,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Acts 1:8",
+    "context": "but ye shall receive power after that the Holy Ghost is come upon you, and ye shall be witnesses unto me",
+    "is_implicit": true,
+    "video_id": "CXg_STSF1ug",
+    "start_time": 900.0,
+    "end_time": 983.0,
+    "point_summary": "Christ's command in Acts 1:8 to be witnesses simultaneously in Jerusalem and to the uttermost parts of the earth is fulfilled through the local church's financial and prayerful partnerships in world missions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Acts 1:8",
+    "context": "Jerusalem and in Samaria and into all Judea, and ultimately unto where? The Bible says the uttermost parts of the earth",
+    "is_implicit": true,
+    "video_id": "CXg_STSF1ug",
+    "start_time": 900.0,
+    "end_time": 983.0,
+    "point_summary": "Christ's command in Acts 1:8 to be witnesses simultaneously in Jerusalem and to the uttermost parts of the earth is fulfilled through the local church's financial and prayerful partnerships in world missions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

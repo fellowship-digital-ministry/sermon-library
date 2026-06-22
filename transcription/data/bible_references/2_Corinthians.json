@@ -23424,5 +23424,70 @@
     "end_time": 2900.9800415039062,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "2 Corinthians 8",
+    "context": "We know having read and studied the book of 2 Corinthians chapter number 8 that Philippi was one of those Macedonian churches",
+    "is_implicit": false,
+    "video_id": "THOg22UDO9w",
+    "start_time": 970.0,
+    "end_time": 1055.0,
+    "point_summary": "Philippi's partnership with Paul was not casual charity but covenant cooperation, confirmed by 2 Corinthians 8's testimony that the Macedonian churches gave sacrificially to his missionary work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "2 Corinthians 8",
+    "context": "According to 2 Corinthians chapter 8 the Macedonians gave in spite of some things",
+    "is_implicit": false,
+    "video_id": "THOg22UDO9w",
+    "start_time": 1055.0,
+    "end_time": 1128.0,
+    "point_summary": "Philippians 4:15's word \"communicated\" (partnership) is grounded in 2 Corinthians 8, where the Macedonian churches—including Philippi—gave sacrificially to Paul's missions despite great affliction and deep poverty, proving their commitment over convenience.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "2 Corinthians chapter 8",
+    "context": "2 Corinthians chapter 8 again teaches us they were living in deep poverty",
+    "is_implicit": false,
+    "video_id": "THOg22UDO9w",
+    "start_time": 1291.1800003051758,
+    "end_time": 1369.8600006103516,
+    "point_summary": "Philippians's sacrificial giving is illuminated by 2 Corinthians 8, which establishes that this church gave not from surplus but from deep poverty, making the sacrifice itself—not the amount—the measure Paul honors.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 2,
+    "reference_text": "2 Corinthians 6:2",
+    "context": "today is the day of salvation",
+    "is_implicit": true,
+    "video_id": "Tzzte7ZXQ_E",
+    "start_time": 1754.3400268554688,
+    "end_time": 1827.380027770996,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "2 Corinthians 8",
+    "context": "according to 2 Corinthians chapter 8, they were living in what kind of poverty?",
+    "is_implicit": false,
+    "video_id": "CXg_STSF1ug",
+    "start_time": 1782.8800048828125,
+    "end_time": 1869.3200073242188,
+    "point_summary": "Divine bookkeeping credits spiritual fruit rather than financial size, as the Macedonians' deep poverty (2 Corinthians 8) underscores that heaven measures the outcome of giving, not its amount.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

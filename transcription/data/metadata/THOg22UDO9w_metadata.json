@@ -1,0 +1,54 @@
+{
+  "video_id": "THOg22UDO9w",
+  "title": "\"The Opportunity That Wasn't Missed In Missions\"  Philippians 4:15-19",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/THOg22UDO9w.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/THOg22UDO9w.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/THOg22UDO9w.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/THOg22UDO9w.vtt",
+  "duration": 2432.0,
+  "transcription_timestamp": "2026-06-21T21:19:18.448823",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Philippians 4:15-19 on the church of Philippi as a model of missionary partnership, examining the singular, sacrificial, and theologically significant nature of their financial support for the apostle Paul.",
+    "themes": [
+      "missions giving",
+      "missionary partnership",
+      "sacrificial giving",
+      "worship through giving",
+      "opportunity in world evangelism",
+      "god's provision"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Greetings and Missionary Context"
+      },
+      {
+        "t": 462,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 561,
+        "heading": "Philippi as a Missions-Minded Church"
+      },
+      {
+        "t": 974,
+        "heading": "A Singular Partnership"
+      },
+      {
+        "t": 1258,
+        "heading": "A Sacrificial Participation"
+      },
+      {
+        "t": 1492,
+        "heading": "Giving as Worship and Vertical Offering"
+      },
+      {
+        "t": 1812,
+        "heading": "A Secured Promise and Its Context"
+      }
+    ]
+  }
+}

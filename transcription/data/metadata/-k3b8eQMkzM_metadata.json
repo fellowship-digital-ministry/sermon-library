@@ -1,0 +1,50 @@
+{
+  "video_id": "-k3b8eQMkzM",
+  "title": "\"The World's Greatest Needs\"  Matthew 9:35-38",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/-k3b8eQMkzM.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/-k3b8eQMkzM.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/-k3b8eQMkzM.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/-k3b8eQMkzM.vtt",
+  "duration": 2370.0,
+  "transcription_timestamp": "2026-06-21T21:09:35.706788",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 9:35-38 on the world's greatest spiritual needs, tracing Jesus's ministry through cities and villages as a framework for understanding the need for the gospel, the compassion of Christ, and the call for believers to labor in the harvest.",
+    "themes": [
+      "missions",
+      "the gospel",
+      "compassion for the lost",
+      "evangelism",
+      "laborers for the harvest",
+      "salvation"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Passage Introduction and Reading"
+      },
+      {
+        "t": 144,
+        "heading": "Physical vs. Spiritual Needs of the World"
+      },
+      {
+        "t": 284,
+        "heading": "The Unequaled Need for the Savior"
+      },
+      {
+        "t": 569,
+        "heading": "The Gospel Defined and Sin Explained"
+      },
+      {
+        "t": 1315,
+        "heading": "The Compassion of Christ for the Lost"
+      },
+      {
+        "t": 1933,
+        "heading": "The Faithful Work of Believers"
+      }
+    ]
+  }
+}

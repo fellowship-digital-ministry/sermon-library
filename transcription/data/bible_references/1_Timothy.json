@@ -7707,5 +7707,31 @@
     "end_time": 1256.2000122070312,
     "point_summary": "God's universal saving will — that he desires all people to be saved and come to the knowledge of the truth — establishes the greatest need of every human being as salvation through Christ alone.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 4,
+    "reference_text": "1 Timothy 2:4",
+    "context": "God would have all men to be saved and to come unto the knowledge of the truth",
+    "is_implicit": false,
+    "video_id": "Tzzte7ZXQ_E",
+    "start_time": 1349.3400268554688,
+    "end_time": 1426.3400268554688,
+    "point_summary": "God's desire that all men be saved and come to the knowledge of the truth grounds the church's missionary mandate as a command to be obeyed, not a suggestion to be ignored.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 6,
+    "verse": 10,
+    "reference_text": "1 Timothy 6:10",
+    "context": "the love of money is the root of all evil",
+    "is_implicit": false,
+    "video_id": "CXg_STSF1ug",
+    "start_time": 658.0,
+    "end_time": 745.0,
+    "point_summary": "Contrary to popular misquotation, Scripture indicts not money itself but the love of money as the root of all evil, freeing believers to view wealth as a legitimate instrument for world evangelism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

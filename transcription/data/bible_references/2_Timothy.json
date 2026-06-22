@@ -12322,5 +12322,57 @@
     "end_time": 1319.2000122070312,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "reference_text": "2 Timothy 2:2",
+    "context": "commit thou to faithful men who shall be able to teach others also",
+    "is_implicit": true,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 0.0,
+    "end_time": 56.7599983215332,
+    "point_summary": "Faithful transmission of the faith across generations—illustrated by a father's conversion and its effect on his family—grounds the call to commit truth to faithful men who will teach others.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "reference_text": "2 Timothy 2:2",
+    "context": "the things that thou hast heard of me among many witnesses, the same commit thou to faithful men shall be able to teach others also",
+    "is_implicit": true,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 1403.7799682617188,
+    "end_time": 1459.2999572753906,
+    "point_summary": "Faithful transmission of truth across generations requires intentional commitment, as the charge to entrust what one has heard to faithful men who will teach others reflects a passion to influence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "reference_text": "Second Timothy two and verse number two",
+    "context": "the things that thou hast heard of me among many witnesses. Notice this. He says the same, not something different, not something new. No, no, no. The same commit thou to faithful men who shall be able to teach others also.",
+    "is_implicit": false,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 1958.5399932861328,
+    "end_time": 2022.8199920654297,
+    "point_summary": "Paul's charge in 2 Timothy 2:2 to pass on \"the same\" truth to faithful men who will teach others grounds the sermon's call to prioritize transmitting unchanging truth about God across generations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 4,
+    "verse": 2,
+    "reference_text": "2 Timothy 4:2",
+    "context": "Preach the word. Be incidences and odysseys and reprove, rebuke, exhort with all longsuffering and doctrine",
+    "is_implicit": true,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 2199.3999938964844,
+    "end_time": 2258.199981689453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

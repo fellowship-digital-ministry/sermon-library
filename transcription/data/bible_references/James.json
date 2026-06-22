@@ -11464,5 +11464,18 @@
     "end_time": 2829.1800231933594,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "Let's be doers of the word and not hearers only",
+    "is_implicit": true,
+    "video_id": "THOg22UDO9w",
+    "start_time": 2368.0799560546875,
+    "end_time": 2428.9999618530273,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

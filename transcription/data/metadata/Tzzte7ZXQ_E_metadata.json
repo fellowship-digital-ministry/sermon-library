@@ -1,0 +1,54 @@
+{
+  "video_id": "Tzzte7ZXQ_E",
+  "title": "\"Compelled By Calvary\"  Luke 23:33",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Tzzte7ZXQ_E.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Tzzte7ZXQ_E.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Tzzte7ZXQ_E.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Tzzte7ZXQ_E.vtt",
+  "duration": 1851.0,
+  "transcription_timestamp": "2026-06-21T21:15:44.317953",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 23:33 on the cross of Calvary as the theological foundation and motivating force for world missions, preached as the opening message of a Missions Conference.",
+    "themes": [
+      "calvary",
+      "world missions",
+      "evangelism",
+      "salvation",
+      "the blood of christ",
+      "motivation for service"
+    ],
+    "sections": [
+      {
+        "t": 47,
+        "heading": "Context and Text Introduced"
+      },
+      {
+        "t": 195,
+        "heading": "Calvary as Destination of Christ's Ministry"
+      },
+      {
+        "t": 338,
+        "heading": "Calvary Prophesied and Proclaimed"
+      },
+      {
+        "t": 567,
+        "heading": "Calvary as Suffering, Substitution, and Splendor"
+      },
+      {
+        "t": 803,
+        "heading": "The Reason for Calvary: Salvation"
+      },
+      {
+        "t": 1200,
+        "heading": "The Reach of Calvary: Worldwide Service"
+      },
+      {
+        "t": 1480,
+        "heading": "The Rejoicing of Calvary: Victory Proclaimed"
+      }
+    ]
+  }
+}

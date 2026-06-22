@@ -25712,5 +25712,31 @@
     "end_time": 2081.3600158691406,
     "point_summary": "Fixing one's eyes on Jesus (Heb. 12:2) is affirmed, but set in tension with the equally urgent call to lift one's eyes to the harvest fields that are white and ready.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Hebrews 4:12",
+    "context": "the word of God is quick and powerful and sharper than any two-edged sword",
+    "is_implicit": true,
+    "video_id": "9fRZbfoVgGY",
+    "start_time": 831.3599853515625,
+    "end_time": 882.9399719238281,
+    "point_summary": "God's word alone — not human opinion or rival religious messages — carries the living, penetrating power (Heb. 4:12) that can actually change people, making the gospel the only message worth proclaiming.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 9,
+    "verse": 27,
+    "reference_text": "Hebrews 9:27",
+    "context": "as it appointed unto man wants to die and after this, the judgment",
+    "is_implicit": true,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 237.0,
+    "end_time": 304.3599853515625,
+    "point_summary": "Death is the universal, divinely appointed appointment for every person, as affirmed by Hebrews 9:27, grounding the urgency of Hezekiah's confrontation with mortality and the priority of passing truth to the next generation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

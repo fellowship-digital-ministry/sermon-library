@@ -5354,5 +5354,18 @@
     "end_time": 1256.2000122070312,
     "point_summary": "God's universal salvific will is affirmed from 2 Peter 3:9 — that He is not willing any should perish but that all should come to repentance — as the scriptural ground for understanding humanity's greatest need as salvation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 3,
+    "verse": 9,
+    "reference_text": "2 Peter 3:9",
+    "context": "The Lord is not slack concerning His promise, as some men count slackness, but is longsuffering to us where not willing that any should perish, but that somebody help me preach, all should come to repentance",
+    "is_implicit": false,
+    "video_id": "Tzzte7ZXQ_E",
+    "start_time": 1274.3400268554688,
+    "end_time": 1349.3400268554688,
+    "point_summary": "God's longsuffering patience, grounded in His unwillingness that any should perish, establishes that the salvation procured at Calvary is universally offered to whosoever — the theological basis for world evangelism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

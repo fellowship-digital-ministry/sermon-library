@@ -1,0 +1,58 @@
+{
+  "video_id": "CXg_STSF1ug",
+  "title": "\"Truths Concerning Our Treasures\"  Matthew 6:19-21",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/CXg_STSF1ug.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/CXg_STSF1ug.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CXg_STSF1ug.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/CXg_STSF1ug.vtt",
+  "duration": 2860.0,
+  "transcription_timestamp": "2026-06-21T21:23:13.394520",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Matthew 6:19-21 on earthly versus heavenly treasure, delivered at a missions conference, connecting Christ's Sermon on the Mount teaching to the practice of local-church missions giving.",
+    "themes": [
+      "heavenly treasure",
+      "missions giving",
+      "stewardship",
+      "world evangelism",
+      "the heart and money",
+      "perishing nature of earthly wealth"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Greetings and Context"
+      },
+      {
+        "t": 322,
+        "heading": "Text Reading: Matthew 6:19-21"
+      },
+      {
+        "t": 503,
+        "heading": "Context: Sermon on the Mount and Two Treasuries"
+      },
+      {
+        "t": 1017,
+        "heading": "Perishing Nature of Earthly Treasures"
+      },
+      {
+        "t": 1485,
+        "heading": "Permanence of Heavenly Treasures"
+      },
+      {
+        "t": 1669,
+        "heading": "Philippians 4: The Believers Account with God"
+      },
+      {
+        "t": 2150,
+        "heading": "Priority Revealed by Treasure: Matthew 6:21"
+      },
+      {
+        "t": 2443,
+        "heading": "Closing Illustration: Patricia Farah's Last Check"
+      }
+    ]
+  }
+}

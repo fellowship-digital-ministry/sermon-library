@@ -17873,5 +17873,70 @@
     "end_time": 1256.2000122070312,
     "point_summary": "God's universal saving will — that He desires all people to be saved and come to the knowledge of the truth — grounds the urgency of proclaiming the gospel to every human being.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "reference_text": "Ephesians 2:8-9",
+    "context": "by grace through faith, not of our works",
+    "is_implicit": true,
+    "video_id": "9fRZbfoVgGY",
+    "start_time": 1706.2799987792969,
+    "end_time": 1761.3200073242188,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Ephesians 6",
+    "context": "And we think about this purpose of influence. Look at Ephesians chapter 6",
+    "is_implicit": false,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 2078.699981689453,
+    "end_time": 2132.1399841308594,
+    "point_summary": "Passing the baton of biblical truth to the next generation is grounded in Ephesians 6, introduced here as a passage on parental instruction and children's obedience before further development.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "Ephesians 6:1",
+    "context": "Children, obey your parents and the Lord for this is right",
+    "is_implicit": false,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 2132.1399841308594,
+    "end_time": 2199.3999938964844,
+    "point_summary": "Children's obedience to parents is introduced as foundational, but the sermon's weight falls on the parental responsibility in verse 4 to raise children in nurture and admonition rather than on the children's command itself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 4,
+    "reference_text": "Ephesians 6:4",
+    "context": "and ye fathers, provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord",
+    "is_implicit": false,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 2132.1399841308594,
+    "end_time": 2199.3999938964844,
+    "point_summary": "Fathers bear a weighty responsibility to raise children through instruction aimed at increasing virtue and gentle reproof, not by prioritizing friendship over parental authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 4,
+    "reference_text": "Ephesians 6:4",
+    "context": "them up in the nurture and admonition",
+    "is_implicit": true,
+    "video_id": "Ltup8ewKTuo",
+    "start_time": 2199.3999938964844,
+    "end_time": 2258.199981689453,
+    "point_summary": "Fathers bear a weighty responsibility to raise children through nurture—instruction aimed at increasing virtue—and admonition—gentle reproof and counseling against faults—rather than prioritizing friendship over parental correction.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

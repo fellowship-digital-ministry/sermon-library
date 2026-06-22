@@ -1,0 +1,58 @@
+{
+  "video_id": "9fRZbfoVgGY",
+  "title": "\"Go And Share The Gospel\"  Mark 16:9-20",
+  "publish_date": "20260621",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/9fRZbfoVgGY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/9fRZbfoVgGY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/9fRZbfoVgGY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/9fRZbfoVgGY.vtt",
+  "duration": 1979.0,
+  "transcription_timestamp": "2026-06-21T21:13:04.874184",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 16:9-20 on the Christian obligation to share the gospel, centered on Christ's post-resurrection commands to go and preach, the disciples' obedience, and practical hindrances to personal evangelism.",
+    "themes": [
+      "evangelism",
+      "the great commission",
+      "gospel proclamation",
+      "fear and hindrances to witnessing",
+      "the holy spirit in evangelism",
+      "personal responsibility for sharing the gospel"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening Illustration: Waiting to Go"
+      },
+      {
+        "t": 228,
+        "heading": "Context: Mark 16:9-20 Read and Set"
+      },
+      {
+        "t": 457,
+        "heading": "God's Command to Go"
+      },
+      {
+        "t": 688,
+        "heading": "God's Command to Preach the Gospel"
+      },
+      {
+        "t": 1104,
+        "heading": "Baptism, Sign Gifts, and the Text"
+      },
+      {
+        "t": 1197,
+        "heading": "The Disciples' Obedience and Our Responsibility"
+      },
+      {
+        "t": 1565,
+        "heading": "Hindrances to Sharing the Gospel"
+      },
+      {
+        "t": 1706,
+        "heading": "The Urgency: Statistics on Lostness"
+      }
+    ]
+  }
+}

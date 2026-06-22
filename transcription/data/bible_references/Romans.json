@@ -22020,5 +22020,83 @@
     "end_time": 2417.140031814575,
     "point_summary": "Commitment to faithful gospel proclamation going forward is grounded in Paul's declaration that the gospel is God's own power unto salvation—reason enough to be unashamed.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 3,
+    "verse": 23,
+    "reference_text": "Romans 3:23",
+    "context": "For all have sinned and come short of the glory of God",
+    "is_implicit": true,
+    "video_id": "-k3b8eQMkzM",
+    "start_time": 738.6399841308594,
+    "end_time": 800.2799835205078,
+    "point_summary": "Universal human sinfulness—falling short of God's standard—is presented as the foundational problem that explains why Christ had to die for sins, linking Romans 3:23 directly to 1 Corinthians 15:3.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 3,
+    "verse": 10,
+    "reference_text": "Romans 3:10",
+    "context": "no one is clean",
+    "is_implicit": true,
+    "video_id": "-k3b8eQMkzM",
+    "start_time": 923.6999816894531,
+    "end_time": 999.6199951171875,
+    "point_summary": "No human effort—goodness, money, or religion—can bridge the gap to God, because Scripture declares no one is righteous, making all self-sufficient attempts at salvation futile.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "Romans 1:16",
+    "context": "don't be ashamed of the gospel",
+    "is_implicit": true,
+    "video_id": "9fRZbfoVgGY",
+    "start_time": 831.3599853515625,
+    "end_time": 882.9399719238281,
+    "point_summary": "Shame over the gospel is rebuked by urging believers not to live as \"undercover Christians\" but to embrace and openly proclaim the gospel as the only message that saves.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "Romans 1:16",
+    "context": "for I am not ashamed of the gospel of Christ, for it is the power of God unto salvation to everyone that believeth, to the Jew first and also to the Greek",
+    "is_implicit": false,
+    "video_id": "9fRZbfoVgGY",
+    "start_time": 1010.9199829101562,
+    "end_time": 1066.1799926757812,
+    "point_summary": "Contrasted against a man openly proclaiming \"Jesus is dead,\" Romans 1:16 is cited as the Christian's counter-call to proclaim without shame that Jesus is alive and the gospel is God's power unto salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 17,
+    "reference_text": "Romans 10:17",
+    "context": "faith cometh by hearing and hearing by the Word of God",
+    "is_implicit": true,
+    "video_id": "Tzzte7ZXQ_E",
+    "start_time": 1003.3800048828125,
+    "end_time": 1084.2200012207031,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Romans 10:13",
+    "context": "For whosoever shall call upon the name of the Lord shall be saved",
+    "is_implicit": false,
+    "video_id": "Tzzte7ZXQ_E",
+    "start_time": 1349.3400268554688,
+    "end_time": 1426.3400268554688,
+    "point_summary": "The universal scope of salvation through Christ's shed blood is anchored in Romans 10:13's \"whosoever,\" confirming that Calvary's reach extends to every person regardless of race or social standing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

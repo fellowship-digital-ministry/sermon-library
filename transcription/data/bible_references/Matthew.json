@@ -18900,5 +18900,18 @@
     "end_time": 2755.6400146484375,
     "point_summary": "Where one's treasure is laid up reveals where the heart truly is, illustrated by a woman whose final tithe and missions check showed she would have no regret in eternity.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 4,
+    "verse": 19,
+    "reference_text": "follow me",
+    "context": "he would simply say this, follow me, follow me, and straightway, immediately, they left their nets, and they followed Jesus",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 431.82000732421875,
+    "end_time": 503.1400146484375,
+    "point_summary": "Christ's call to \"follow me\" — echoed in Paul's own discipleship — establishes that following Jesus means taking him as one's guide and imitating his example.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

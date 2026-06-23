@@ -9475,5 +9475,44 @@
     "end_time": 2035.3200073242188,
     "point_summary": "Giving toward gospel partnership is not merely financial transaction but fruit-bearing investment, with every act compounding eternally as \"fruit that abounds to our account\" before God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": null,
+    "reference_text": "Philippians 4",
+    "context": "Look at Philippians chapter four, if you will. And we'll close with this portion of scripture in Philippians chapter number four.",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 1598.7200012207031,
+    "end_time": 1657.2000122070312,
+    "point_summary": "Paul's exhortation to \"rejoice in the Lord always\" in Philippians 4:4 is presented as consistent with his own conduct during suffering in Philippi, demonstrating that his call to imitate him was grounded in a lived example.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 4,
+    "reference_text": "Philippians 4:4",
+    "context": "rejoice in the Lord always, and again, I say, rejoice",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 1657.2000122070312,
+    "end_time": 1717.8200073242188,
+    "point_summary": "Paul's command to \"rejoice in the Lord always\" carried credibility because his own conduct at Philippi—singing in prison under suffering—demonstrated that he practiced what he preached.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 9,
+    "reference_text": "Philippians 4:9",
+    "context": "those things which ye have both learned and received and heard, and then notice those next words, and seen in me. And then he simply says this, do. The God of peace shall be with you.",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 1717.8200073242188,
+    "end_time": 1797.5,
+    "point_summary": "Paul's credibility as a model rests on the alignment between his verbal instruction and his lived example, so that what the Philippians heard and saw in him were one and the same.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

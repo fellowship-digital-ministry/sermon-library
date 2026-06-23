@@ -28702,5 +28702,44 @@
     "end_time": 983.0,
     "point_summary": "Christ's command in Acts 1:8 to be witnesses simultaneously in Jerusalem and to the uttermost parts of the earth is fulfilled through the local church's financial and prayerful partnerships in world missions.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Acts 1",
+    "context": "We read in Acts chapter number one",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 557.739990234375,
+    "end_time": 621.420015335083,
+    "point_summary": "Acts 1 is introduced as the starting point for tracing Christ's purposeful earthly steps, reinforcing 1 Peter 2:21's call to follow his example.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 1,
+    "reference_text": "Acts 1:1",
+    "context": "here in Acts chapter number one is the writer begins to make his introduction. It says, the former treaties have I made, O Theophilus. Notice of all that Jesus began.",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 621.420015335083,
+    "end_time": 688.4600143432617,
+    "point_summary": "Acts 1:1's phrase \"both to do and teach\" is cited to show that Christ's earthly ministry was marked by purposeful action and instruction, making him the supreme example worth following.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": null,
+    "reference_text": "Acts 16",
+    "context": "you read in Acts 16, and all that transpired",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 1598.7200012207031,
+    "end_time": 1657.2000122070312,
+    "point_summary": "Acts 16 grounds Paul's credibility to call the Philippians to rejoicing: having sung praises while imprisoned on his first visit, he had already modeled in suffering the very joy he later commanded in writing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

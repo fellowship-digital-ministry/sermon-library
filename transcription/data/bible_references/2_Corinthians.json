@@ -23489,5 +23489,70 @@
     "end_time": 1869.3200073242188,
     "point_summary": "Divine bookkeeping credits spiritual fruit rather than financial size, as the Macedonians' deep poverty (2 Corinthians 8) underscores that heaven measures the outcome of giving, not its amount.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 14,
+    "reference_text": "2 Corinthians 5:14",
+    "context": "Second Corinthians five in verse 14",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 888.8600158691406,
+    "end_time": 953.7000122070312,
+    "point_summary": "Paul's self-denial was not mere discipline but was driven by Christ's constraining love, which compelled him to live no longer for himself but for the one who died and rose for him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 14,
+    "reference_text": "2 Corinthians 5:14",
+    "context": "for the love of Christ constraineth us because we thus judge that if one died for all, then we're all dead",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 953.7000122070312,
+    "end_time": 1019.4200134277344,
+    "point_summary": "Christ's love as a constraining force is Paul's explanation for why believers no longer live for themselves but for the One who died and rose for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 15,
+    "reference_text": "2 Corinthians 5:15",
+    "context": "And then he died for all that they which live should not henceforth live unto themselves, but unto him which died for them and rose again",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 953.7000122070312,
+    "end_time": 1019.4200134277344,
+    "point_summary": "Christ's death for all demands that believers no longer live for themselves but wholly for him — the constraining love Paul cites as the foundation of his own Christ-following example.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 16,
+    "reference_text": "2 Corinthians 5:16",
+    "context": "Wherefore, henceforth, know we no man after the flesh, yea, though we have known Christ after the flesh, yet now henceforth, know we him no more",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 953.7000122070312,
+    "end_time": 1019.4200134277344,
+    "point_summary": "Knowing no one after the flesh (v. 16) is presented as the natural consequence of Christ's constraining love and the believer's death to self described in the surrounding verses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "if any man be in Christ, he's a new creature. Old things are passed away. Behold, all things are become new",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 953.7000122070312,
+    "end_time": 1019.4200134277344,
+    "point_summary": "Regeneration in Christ — being a new creature with old things passed away — is presented as the personal transformation underlying Paul's Christ-centered life and his credibility to call others to follow him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

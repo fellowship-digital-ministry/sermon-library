@@ -36593,5 +36593,18 @@
     "end_time": 900.0,
     "point_summary": "Obedience to Christ's command—not mere profession of love—is the scriptural basis for financially and prayerfully supporting world evangelism as a concrete act of keeping His commandments.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 8,
+    "verse": 29,
+    "reference_text": "John 8:29",
+    "context": "the Lord Jesus Christ, the Bible tells us in the book of John in the eighth chapter that he always did that which pleased the father. We understand as we begin to look through, he says that at the end of verse number 29, for I do always those things that please him.",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 621.420015335083,
+    "end_time": 688.4600143432617,
+    "point_summary": "Christ's perfect testimony—\"I do always those things that please him\"—establishes him as the supreme example whose steps believers are called to follow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

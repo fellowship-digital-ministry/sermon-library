@@ -8526,5 +8526,44 @@
     "end_time": 750.6999969482422,
     "point_summary": "Because God transformed the gore of crucifixion into glory, Paul's boast in the cross alone (Gal. 6:14) becomes the natural response—and the model for a Calvary-compelled ministry.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": 20,
+    "reference_text": "Galatians 2:20",
+    "context": "I am crucified with Christ. He declares that in Galatians 2 in verse number 20",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 184.4199981689453,
+    "end_time": 248.0,
+    "point_summary": "Paul's total surrender to Christ — \"I am crucified with Christ\" — is cited as the defining posture that made him a faithful, will-of-God-following example worthy of imitation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": null,
+    "reference_text": "Galatians 2",
+    "context": "Galatians chapter two",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 823.3800201416016,
+    "end_time": 888.8600158691406,
+    "point_summary": "Paul's declaration in Galatians 2 is presented as the biographical evidence that he had genuinely fulfilled the three-step order of Mark 8:34—self-denial, cross-bearing, and then following Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": 20,
+    "reference_text": "Galatians 2:20",
+    "context": "I am crucified with Christ. Nevertheless, I live, yet not I, but Christ liveth in me. In the life which I now live in the flesh, I live by the faith of the son of God who loved me and gave himself for me",
+    "is_implicit": false,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 888.8600158691406,
+    "end_time": 953.7000122070312,
+    "point_summary": "Paul's declaration \"I am crucified with Christ\" is cited as evidence that he had genuinely fulfilled the prior conditions of self-denial and cross-bearing that make authentic Christ-following possible.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

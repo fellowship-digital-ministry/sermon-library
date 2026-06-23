@@ -25738,5 +25738,18 @@
     "end_time": 304.3599853515625,
     "point_summary": "Death is the universal, divinely appointed appointment for every person, as affirmed by Hebrews 9:27, grounding the urgency of Hezekiah's confrontation with mortality and the priority of passing truth to the next generation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Hebrews 4:12",
+    "context": "God is able to take this word that is quick and powerful and sharper than any two-edged sword, he's able to take this word that is alive, that is profitable",
+    "is_implicit": true,
+    "video_id": "D2z46EI7Kt4",
+    "start_time": 119.55999755859375,
+    "end_time": 184.4199981689453,
+    "point_summary": "Scripture's living, active character—described in Hebrews 4:12 as quick, powerful, and sharper than any two-edged sword—is invoked to show that God meets his people's needs for encouragement, instruction, and correction through his word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

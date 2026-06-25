@@ -164,6 +164,27 @@ if [[ -d "$PAGES_REPO/.git" ]]; then
           --author="Fellowship Ingest Bot <fellowship-ingest@local>" \
       && git -C "$PAGES_REPO" push origin main || echo "catalog push failed — will retry next run"
   fi
+
+  # --- refresh the static Bible-reference data the public Bible page reads ---
+  # The Bible References page (reference-viewer) reads assets/data/bible/*.json,
+  # NOT the live API. This used to be refreshed by a GitHub Action, but
+  # scheduled workflows get auto-disabled for "inactivity", so the page silently
+  # froze (stuck at the May-28 snapshot while new sermons piled up). Pull
+  # straight from the API here so the Bible data tracks the same reliable
+  # schedule as the catalog above. fetch_bible_data.py writes to $OUTPUT_DIR.
+  echo ""
+  echo "[+] refresh static Bible-reference data (Pages repo)"
+  OUTPUT_DIR="$PAGES_REPO/assets/data/bible" \
+    python "$PAGES_REPO/scripts/fetch_bible_data.py" \
+      || echo "(bible data refresh had issues, continuing)"
+  git -C "$PAGES_REPO" add assets/data/bible 2>/dev/null || true
+  if git -C "$PAGES_REPO" diff --staged --quiet; then
+    echo "Bible data unchanged."
+  else
+    git -C "$PAGES_REPO" commit -m "Update Bible reference data: $TODAY [skip ci]" \
+          --author="Fellowship Ingest Bot <fellowship-ingest@local>" \
+      && git -C "$PAGES_REPO" push origin main || echo "bible data push failed — will retry next run"
+  fi
 else
   echo "Pages repo not found at $PAGES_REPO; skipping catalog rebuild."
 fi

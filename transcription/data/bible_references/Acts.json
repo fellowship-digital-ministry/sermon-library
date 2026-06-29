@@ -28741,5 +28741,18 @@
     "end_time": 1657.2000122070312,
     "point_summary": "Acts 16 grounds Paul's credibility to call the Philippians to rejoicing: having sung praises while imprisoned on his first visit, he had already modeled in suffering the very joy he later commanded in writing.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Acts 20",
+    "context": "The Bible says in Acts chapter number 20",
+    "is_implicit": false,
+    "video_id": "o0eFy1RDlXI",
+    "start_time": 1899.4200134277344,
+    "end_time": 1964.780014038086,
+    "point_summary": "Paul's ministry of weeping day and night, cited from Acts 20, illustrates the kind of tearful burden for people's condition that Nehemiah modeled and that God's servants are called to share.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

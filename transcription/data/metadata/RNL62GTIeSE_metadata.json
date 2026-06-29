@@ -1,0 +1,58 @@
+{
+  "video_id": "RNL62GTIeSE",
+  "title": "\"The Husbandman Purgeth\" John 15:1-8",
+  "publish_date": "20260629",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/RNL62GTIeSE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/RNL62GTIeSE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/RNL62GTIeSE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/RNL62GTIeSE.vtt",
+  "duration": 2095.0,
+  "transcription_timestamp": "2026-06-28T21:05:27.754626",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 15:1-8 on the Father as husbandman and his purging of fruit-bearing branches, with attention to the process and purpose of pruning as distinct from punishment or chastisement.",
+    "themes": [
+      "abiding in christ",
+      "fruit-bearing",
+      "spiritual pruning",
+      "the word of god as a tool",
+      "competing priorities",
+      "god's glory"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Introduction and Reading"
+      },
+      {
+        "t": 140,
+        "heading": "Two Categories of Branches"
+      },
+      {
+        "t": 377,
+        "heading": "The Process: Evaluating and Identifying"
+      },
+      {
+        "t": 529,
+        "heading": "Eliminating Competing Branches"
+      },
+      {
+        "t": 912,
+        "heading": "The Word of God as the Tool"
+      },
+      {
+        "t": 1208,
+        "heading": "The Purpose: Not Punishment"
+      },
+      {
+        "t": 1352,
+        "heading": "Pruning for Health, Growth, and Fruit"
+      },
+      {
+        "t": 1778,
+        "heading": "Free Will and Yielding to the Process"
+      }
+    ]
+  }
+}

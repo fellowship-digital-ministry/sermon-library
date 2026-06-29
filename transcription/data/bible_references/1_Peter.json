@@ -12101,5 +12101,31 @@
     "end_time": 1868.2400207519531,
     "point_summary": "Christ's example of leaving a pattern for others to follow undergirds the call for believers to live visibly consistent lives that others can imitate without shame.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 5,
+    "reference_text": "1 Peter 5:5",
+    "context": "God resisteth the proud but giveth grace unto the humble",
+    "is_implicit": true,
+    "video_id": "o0eFy1RDlXI",
+    "start_time": 1682.6799926757812,
+    "end_time": 1762.0800170898438,
+    "point_summary": "God's resistance of the proud, cited from 1 Peter 5:5, is applied directly to national pride in America, illustrated by Nebuchadnezzar's fall as a warning to self-sufficient leaders.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "1 Peter 4:17",
+    "context": "Judgment must begin where? At the house of the Lord.",
+    "is_implicit": true,
+    "video_id": "o0eFy1RDlXI",
+    "start_time": 2380.760009765625,
+    "end_time": 2448.4600143432617,
+    "point_summary": "Judgment beginning at the house of God means God's people must own their own sin before pointing outward, as Nehemiah's prayer of corporate confession illustrates.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

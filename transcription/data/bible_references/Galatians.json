@@ -8565,5 +8565,18 @@
     "end_time": 953.7000122070312,
     "point_summary": "Paul's declaration \"I am crucified with Christ\" is cited as evidence that he had genuinely fulfilled the prior conditions of self-denial and cross-bearing that make authentic Christ-following possible.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 5,
+    "verse": 22,
+    "reference_text": "Galatians 5:22",
+    "context": "the fruit of the Spirit",
+    "is_implicit": true,
+    "video_id": "RNL62GTIeSE",
+    "start_time": 1550.5600280761719,
+    "end_time": 1618.5600280761719,
+    "point_summary": "The fruit listed in Galatians 5:22 belongs to the Spirit, not the believer's own effort—it is what the Spirit produces in a person as they walk in Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

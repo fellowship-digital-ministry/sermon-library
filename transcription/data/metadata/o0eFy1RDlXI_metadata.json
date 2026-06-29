@@ -1,0 +1,58 @@
+{
+  "video_id": "o0eFy1RDlXI",
+  "title": "\"Righteousness Exalteth A Nation\"  Proverbs 14:34; Nehemiah 1:1-7",
+  "publish_date": "20260628",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/o0eFy1RDlXI.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/o0eFy1RDlXI.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/o0eFy1RDlXI.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/o0eFy1RDlXI.vtt",
+  "duration": 3087.0,
+  "transcription_timestamp": "2026-06-28T21:09:52.585705",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 14:34 and Nehemiah 1:1-7 on national sin, reproach, and the response of Nehemiah to the condition of his homeland, preached in the context of America's 250th anniversary.",
+    "themes": [
+      "national sin and judgment",
+      "righteousness and nations",
+      "confession and repentance",
+      "prayer and fasting",
+      "the gospel as national hope",
+      "the condition of america"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Proverbs 14:34 and the 250th Anniversary"
+      },
+      {
+        "t": 141,
+        "heading": "The Broad Principle of Proverbs 14:34"
+      },
+      {
+        "t": 370,
+        "heading": "Nehemiah 1: The Request and the Report"
+      },
+      {
+        "t": 1073,
+        "heading": "Why Israel Was in Reproach: Lamentations and Leviticus 26"
+      },
+      {
+        "t": 1451,
+        "heading": "America's Sins Cataloged"
+      },
+      {
+        "t": 1782,
+        "heading": "Nehemiah's Response: Weeping, Mourning, Fasting, Prayer"
+      },
+      {
+        "t": 2203,
+        "heading": "Nehemiah's Confession Before God"
+      },
+      {
+        "t": 2727,
+        "heading": "Application to America's Spiritual Condition"
+      }
+    ]
+  }
+}

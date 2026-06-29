@@ -5341,5 +5341,31 @@
     "end_time": 953.7000122070312,
     "point_summary": "Discipleship's sequential demands—self-denial and cross-bearing before following—are being violated when believers claim to follow Christ while skipping the first two steps Jesus explicitly required.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 8,
+    "verse": 36,
+    "reference_text": "Mark 8:36",
+    "context": "What shall it profit a man if he gained the whole world, but loses his own soul? Mark eight.",
+    "is_implicit": true,
+    "video_id": "o0eFy1RDlXI",
+    "start_time": 1964.780014038086,
+    "end_time": 2033.4800109863281,
+    "point_summary": "Material prosperity and a healthy economy cannot offset the loss of souls, and preoccupation with personal wealth breeds the spiritual apathy that blinds God's people to the true condition of humanity around them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 9,
+    "verse": 29,
+    "reference_text": "Mark 9:29",
+    "context": "this kind cometh forth by nothing but by prayer and fasting",
+    "is_implicit": true,
+    "video_id": "o0eFy1RDlXI",
+    "start_time": 2106.3800048828125,
+    "end_time": 2175.6600036621094,
+    "point_summary": "Fasting, as cited from Mark 9:29, is presented here as fundamentally spiritual—a deliberate self-denial that demonstrates to God the seriousness of one's heart in prayer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

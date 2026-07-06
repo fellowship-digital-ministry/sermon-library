@@ -20486,5 +20486,31 @@
     "end_time": 2033.4800109863281,
     "point_summary": "America's spiritual condition mirrors the Laodicean church of Revelation 3:17—materially prosperous and self-sufficient, yet that very abundance has produced dangerous apathy and indifference toward the souls of humanity.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "alpha and the omega",
+    "context": "He is the alpha and the omega",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 57.540000915527344,
+    "end_time": 120.0999984741211,
+    "point_summary": "God's eternal nature—expressed in the Alpha and Omega title—is presented as the foundation for comfort and relevance, assuring believers that an eternal, omniscient God fully anticipated their need for spiritual warfare guidance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 12,
+    "verse": 10,
+    "reference_text": "Revelation 12:10",
+    "context": "the enemy, he's the accuser of the brethren",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2284.8600158691406,
+    "end_time": 2341.6199951171875,
+    "point_summary": "Satan's role as \"the accuser of the brethren\" (Rev. 12:10) is invoked to explain why the helmet of salvation guards the believer's mind against doubt that would render him spiritually ineffective.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -28754,5 +28754,18 @@
     "end_time": 1964.780014038086,
     "point_summary": "Paul's ministry of weeping day and night, cited from Acts 20, illustrates the kind of tearful burden for people's condition that Nehemiah modeled and that God's servants are called to share.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Acts 1:8",
+    "context": "ye shall receive power after that the Holy Ghost has come upon you. And ye shall be witnesses unto me, both in Jerusalem and all Judea and Samaria and under the uttermost part of the earth",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 1229.3199882507324,
+    "end_time": 1300.6799850463867,
+    "point_summary": "The power promised in Acts 1:8 — the Holy Spirit coming upon believers — is cited as God's provision of strength for spiritual battle, not human flesh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

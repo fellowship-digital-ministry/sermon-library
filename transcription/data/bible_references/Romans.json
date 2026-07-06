@@ -22111,5 +22111,70 @@
     "end_time": 2242.000030517578,
     "point_summary": "The word \"beseech\" in Romans 12:1 is drawn in to illuminate Nehemiah's identical posture of urgent, pleading prayer, showing that both Paul and Nehemiah approach God with the same anguished seriousness of soul.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 23,
+    "reference_text": "Romans 6:23",
+    "context": "The Bible says the wages of sin is death, but the gift of God is eternal life through Jesus Christ, our Lord",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 306.70001220703125,
+    "end_time": 364.8599853515625,
+    "point_summary": "Sin's penalty — death — is contrasted with God's gift of eternal life through Christ, establishing that the Ephesian believers, like all the saved, have trusted the One who paid that price.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Romans 10:13",
+    "context": "for whosoever shall call upon the name of the Lord shall be saved",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 364.8599853515625,
+    "end_time": 428.82000732421875,
+    "point_summary": "Salvation is open to all without exception, as the universal promise \"whosoever shall call upon the name of the Lord shall be saved\" is cited to define what it means to be among the saved people comprising the Ephesian church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 37,
+    "reference_text": "Romans 8:37",
+    "context": "we are more than conquerors through Christ",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 969.2999877929688,
+    "end_time": 1028.2999877929688,
+    "point_summary": "Christians are not defeated but are \"more than conquerors through Christ,\" standing and advancing rather than retreating in the evil day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "Romans 1:16",
+    "context": "For I am not ashamed of the gospel of Christ, for it is the power of God unto salvation to everyone that believe it, to the Jew first and also to the Greek",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2027.0800018310547,
+    "end_time": 2084.6799926757812,
+    "point_summary": "Readiness to preach the gospel without shame, as Paul declares in Romans 1:16, is the animating purpose behind having one's feet shod with the preparation of the gospel of peace—driving believers to offensive, outward gospel proclamation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Romans 10:13",
+    "context": "Jesus, God told us in his word for whose service shall call upon the name of the Lord shall be saved",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2284.8600158691406,
+    "end_time": 2341.6199951171875,
+    "point_summary": "Calling on the name of the Lord guarantees salvation, and the helmet of salvation guards the believer's mind against the enemy's strategy of inducing doubt about that secured standing in Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "video_id": "IRL8UsBTrPc",
+  "title": "\"That Ye May Be Able To Withstand In The Evil Day\" Ephesians 6:10-18",
+  "publish_date": "20260705",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/IRL8UsBTrPc.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/IRL8UsBTrPc.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/IRL8UsBTrPc.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/IRL8UsBTrPc.vtt",
+  "duration": 2762.0,
+  "transcription_timestamp": "2026-07-05T21:09:40.801418",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Ephesians 6:10-18 on the armor of God and spiritual warfare, addressed to a local congregation in the context of present-day moral and cultural conditions. God's plan and provision for believers to stand, withstand, and resist in an evil day are traced through each piece of armor listed in the passage.",
+    "themes": [
+      "spiritual warfare",
+      "armor of god",
+      "standing against the devil",
+      "faith and resistance",
+      "prayer",
+      "assurance of salvation"
+    ],
+    "sections": [
+      {
+        "t": 45,
+        "heading": "God's Eternal, Omniscient Character"
+      },
+      {
+        "t": 280,
+        "heading": "Background on Ephesians and Its Recipients"
+      },
+      {
+        "t": 513,
+        "heading": "God's Plan for His People"
+      },
+      {
+        "t": 1031,
+        "heading": "God's Provision for His People"
+      },
+      {
+        "t": 1546,
+        "heading": "The Whole Armor of God Introduced"
+      },
+      {
+        "t": 1733,
+        "heading": "Each Piece of Armor Examined"
+      },
+      {
+        "t": 2476,
+        "heading": "Prayer as Part of the Armor"
+      },
+      {
+        "t": 2569,
+        "heading": "Closing Appeal and Invitation"
+      }
+    ]
+  }
+}

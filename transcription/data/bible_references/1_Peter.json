@@ -12127,5 +12127,18 @@
     "end_time": 2448.4600143432617,
     "point_summary": "Judgment beginning at the house of God means God's people must own their own sin before pointing outward, as Nehemiah's prayer of corporate confession illustrates.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "1 Peter 5:8",
+    "context": "be sober, be vigilant, because your adversary, the devil, he walketh about as a roaring lion, seeking whom he may devour",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 625.7999877929688,
+    "end_time": 687.2999877929688,
+    "point_summary": "Christians face a real and active enemy in the devil, who prowls as a roaring lion seeking to devour, making the ability to stand against his wiles the very purpose of God's armor.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

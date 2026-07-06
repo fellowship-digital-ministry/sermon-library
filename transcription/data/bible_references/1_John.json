@@ -14389,5 +14389,57 @@
     "end_time": 718.2599945068359,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 5,
+    "verse": 13,
+    "reference_text": "1 John 5:13",
+    "context": "these things have I written unto you that believe in the name of the Son of God, that you may know that you have eternal life",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 364.8599853515625,
+    "end_time": 428.82000732421875,
+    "point_summary": "Assurance of salvation—knowing rather than merely hoping one is saved—is the stated purpose of 1 John 5:13, grounding the believer's confidence that heaven is a certain destination.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 4,
+    "reference_text": "1 John 4:4",
+    "context": "Greater is he that is in you than he that is in the world",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 1155.2999877929688,
+    "end_time": 1229.3199882507324,
+    "point_summary": "God's provision for the believer's spiritual warfare rests not in personal strength but in the indwelling Holy Spirit, who is greater than the enemy in the world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 5,
+    "verse": 4,
+    "reference_text": "1 John 5:4",
+    "context": "1 John chapter number five in verse number four",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2156.8399963378906,
+    "end_time": 2223.300018310547,
+    "point_summary": "Faith is identified as the instrument of victory over the world, grounding the shield of faith's power in the new birth rather than in human resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 5,
+    "verse": 4,
+    "reference_text": "1 John 5:4",
+    "context": "For whatsoever is born of God overcometh the world and this is the victory that overcometh the world, even our faith",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2156.8399963378906,
+    "end_time": 2223.300018310547,
+    "point_summary": "Faith is identified as the instrument of victory over the world, grounding the shield of faith's power in the new birth rather than in human resolve.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

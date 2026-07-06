@@ -25842,5 +25842,18 @@
     "end_time": 2047.3600311279297,
     "point_summary": "Hebrews 12:1's call to lay aside every weight is applied as a parallel to John 15's pruning, identifying competing branches as the encumbrances that hinder fruitbearing.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 11,
+    "verse": 6,
+    "reference_text": "without faith, it's impossible to please him",
+    "context": "without faith, it's impossible to please him",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2156.8399963378906,
+    "end_time": 2223.300018310547,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

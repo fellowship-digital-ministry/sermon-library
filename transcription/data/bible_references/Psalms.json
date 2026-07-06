@@ -34695,5 +34695,18 @@
     "end_time": 1226.4600143432617,
     "point_summary": "God's Word both warns the servant and promises great reward in obedience, illustrating the dual function of Scripture as a tool God uses to comfort, convict, and change His people.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 101,
+    "verse": 3,
+    "reference_text": "Psalms 101:3",
+    "context": "I will set no wicked thing before mine eyes",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 2399.4199829101562,
+    "end_time": 2465.4199829101562,
+    "point_summary": "Psalm 101:3 is cited as a ready, targeted scriptural response to temptation, illustrating the skill of wielding the Word of God against specific sins rather than applying one verse indiscriminately.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

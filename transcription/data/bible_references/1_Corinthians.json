@@ -20200,5 +20200,31 @@
     "end_time": 1618.5600280761719,
     "point_summary": "Fruit-bearing is entirely God's work — he plants, he waters, he gives the increase — and the believer's role is simply to abide as the branch through which that fruit comes.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 57,
+    "reference_text": "1 Corinthians 15:57",
+    "context": "but thanks be to God, which giveth us the victory through our Lord Jesus Christ",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 969.2999877929688,
+    "end_time": 1028.2999877929688,
+    "point_summary": "Victory over the enemy is not partial — the shield of faith is God's provision by which believers may quench *all* the fiery darts, because the victory already belongs to God's people through Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 6,
+    "verse": 19,
+    "reference_text": "1 Corinthians 6:19",
+    "context": "your body is the temple of the Holy Ghost, which is in you, which you have of God",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 1099.2999877929688,
+    "end_time": 1155.2999877929688,
+    "point_summary": "The indwelling Holy Spirit, received at salvation, is identified as a foundational element of God's provision for believers to stand in the evil day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

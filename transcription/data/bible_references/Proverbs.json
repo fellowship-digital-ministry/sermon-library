@@ -7525,5 +7525,18 @@
     "end_time": 1296.8000183105469,
     "point_summary": "Proverbs 3 is cited as a biblical locus for the doctrine of chastisement, which the sermon then distinguishes from purging—chastening being corrective discipline, purging being for health and productivity.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 30,
+    "verse": 5,
+    "reference_text": "Proverbs 30:5",
+    "context": "Every word of God is pure",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 0.0,
+    "end_time": 57.5,
+    "point_summary": "Every word of God is pure — a truth grounding the sermon's confidence that Scripture, providentially preserved, gives believers exactly what they need to stand in the evil day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

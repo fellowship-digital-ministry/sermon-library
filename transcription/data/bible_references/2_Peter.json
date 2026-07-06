@@ -5380,5 +5380,31 @@
     "end_time": 123.44000244140625,
     "point_summary": "Scripture's divine inspiration — affirmed by 2 Peter 1:21 — establishes that Solomon wrote Proverbs 14:34 not on his own initiative but as he was moved by the Holy Ghost, making its words timelessly authoritative.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 3,
+    "reference_text": "2 Peter 1:3",
+    "context": "as Peter would say it in 2 Peter, that God hath given to us all things that pertain unto life and godliness",
+    "is_implicit": true,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 120.0999984741211,
+    "end_time": 185.4600067138672,
+    "point_summary": "Because God is eternal and omniscient, He foreknew the spiritual battles and deceptions of the last days and has already provided His people with everything needed for life and godliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "2 Peter 1",
+    "context": "from the record of 2 Peter chapter 1, that he's given us all things that pertain unto life and godliness",
+    "is_implicit": false,
+    "video_id": "IRL8UsBTrPc",
+    "start_time": 1028.2999877929688,
+    "end_time": 1099.2999877929688,
+    "point_summary": "God's provision for his people is total — he has given all things that pertain unto life and godliness, leaving believers without excuse to stand rather than retreat in the evil day.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

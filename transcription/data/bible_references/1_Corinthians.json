@@ -20226,5 +20226,31 @@
     "end_time": 1155.2999877929688,
     "point_summary": "The indwelling Holy Spirit, received at salvation, is identified as a foundational element of God's provision for believers to stand in the evil day.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 15,
+    "verse": 3,
+    "reference_text": "1 Corinthians 15:3-4",
+    "context": "died for their sins, that rose on the third day according to the scriptures",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1797.6400146484375,
+    "end_time": 1862.559986114502,
+    "point_summary": "The content of the gospel being shared — Christ's death for sins, resurrection on the third day, and return — is drawn directly from 1 Corinthians 15:3 as the message God's Spirit can use even in a resistant heart.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 3,
+    "verse": 6,
+    "reference_text": "1 Corinthians 3:6",
+    "context": "some plant, some water, but God gives the increase",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 2205.7999877929688,
+    "end_time": 2301.5799865722656,
+    "point_summary": "Faithfulness in sowing and watering—not measurable results—is the believer's responsibility, because only God produces the increase.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

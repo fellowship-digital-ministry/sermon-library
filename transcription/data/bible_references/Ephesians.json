@@ -18679,5 +18679,31 @@
     "end_time": 2758.8999938964844,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": null,
+    "reference_text": "Ephesians 2",
+    "context": "Remember Ephesians 2, that we are his workmanship created unto Christ Jesus",
+    "is_implicit": false,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1202.0800170898438,
+    "end_time": 1267.000015258789,
+    "point_summary": "Good works flow from salvation rather than toward it, as Ephesians 2's \"workmanship\" language confirms that well-doing is the result of being saved, not the means of getting or staying saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": null,
+    "reference_text": "Ephesians 4",
+    "context": "Ephesians chapter number four, that the pastor is given to the church, is a gift to the church in order to equip the saints for the work of the ministry",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 2301.5799865722656,
+    "end_time": 2370.0199584960938,
+    "point_summary": "Ephesians 4 is cited to establish that ministry belongs to the whole congregation, not the pastor alone, making every member equally susceptible to growing weary in well-doing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

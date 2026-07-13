@@ -34708,5 +34708,44 @@
     "end_time": 2465.4199829101562,
     "point_summary": "Psalm 101:3 is cited as a ready, targeted scriptural response to temptation, illustrating the skill of wielding the Word of God against specific sins rather than applying one verse indiscriminately.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 103,
+    "verse": 14,
+    "reference_text": "Psalms 103:14",
+    "context": "God knows our frame",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 65.76000213623047,
+    "end_time": 137.83999633789062,
+    "point_summary": "God's knowledge of human frailty (\"God knows our frame\") grounds the assurance that the overwhelming demands of life are met with divine care, sustenance, and comfort.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 107,
+    "verse": 27,
+    "reference_text": "Psalms 107:27",
+    "context": "as the book of Psalms will talk about there, their wit's end",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1002.0800170898438,
+    "end_time": 1066.0800170898438,
+    "point_summary": "Weariness in parenting is likened to the Psalmist's \"wit's end,\" illustrating how sustained faithfulness is required even when results are delayed and doubt sets in.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 119,
+    "verse": 130,
+    "reference_text": "Psalms 119:130",
+    "context": "the entrance of thy words giveth light",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1743.6400146484375,
+    "end_time": 1797.6400146484375,
+    "point_summary": "Psalm 119:130's declaration that God's word gives light undergirds the confidence that even a briefly encountered gospel tract can work in a person's heart, since Scripture does not return void.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

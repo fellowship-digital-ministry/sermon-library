@@ -12140,5 +12140,18 @@
     "end_time": 687.2999877929688,
     "point_summary": "Christians face a real and active enemy in the devil, who prowls as a roaring lion seeking to devour, making the ability to stand against his wiles the very purpose of God's armor.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": 4,
+    "reference_text": "1 Peter 1:4",
+    "context": "I have reserved in heaven for me an inheritance that is incorruptible and undefiled, it fadeth not away",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1993.9199829101562,
+    "end_time": 2067.779998779297,
+    "point_summary": "Eternal inheritance—secure, incorruptible, and unfading—is cited as the settled ground of assurance that frees believers to do good without fear of losing salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -22176,5 +22176,31 @@
     "end_time": 2341.6199951171875,
     "point_summary": "Calling on the name of the Lord guarantees salvation, and the helmet of salvation guards the believer's mind against the enemy's strategy of inducing doubt about that secured standing in Christ.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 7,
+    "verse": 7,
+    "reference_text": "Romans 7:7",
+    "context": "I would not have known covetousness except the law says thou shalt not covet",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1129.0800170898438,
+    "end_time": 1202.0800170898438,
+    "point_summary": "Romans 7:7 is cited to illustrate that the law's purpose is to expose sin—revealing covetousness, not conferring life or righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 9,
+    "reference_text": "Romans 6:9",
+    "context": "sin shall no longer have dominion over us",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1862.559986114502,
+    "end_time": 1923.7599868774414,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

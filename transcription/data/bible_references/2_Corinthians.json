@@ -23606,5 +23606,57 @@
     "end_time": 1969.1200103759766,
     "point_summary": "Christ's imputed righteousness—not personal merit—forms the believer's breastplate, grounded in God making him who knew no sin to be sin so we might become the righteousness of God in him.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": 1,
+    "reference_text": "2 Corinthians 4:1",
+    "context": "therefore",
+    "is_implicit": false,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 324.55999755859375,
+    "end_time": 394.1600036621094,
+    "point_summary": "Receiving ministry as an act of divine mercy—not personal merit—is the stated ground Paul gives for refusing to grow weary in his apostolic work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": null,
+    "reference_text": "2 Corinthians 4",
+    "context": "he says here in 2 Corinthians 4 therefore seeing we have this ministry as we have received mercy we faint not",
+    "is_implicit": false,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 394.1600036621094,
+    "end_time": 470.1600036621094,
+    "point_summary": "Paul's use of \"faint not\" in 2 Corinthians 4:1 and 4:16 carries the same Greek word translated \"weary\" in Galatians and 2 Thessalonians, grounding perseverance in received mercy and daily inward renewal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": 16,
+    "reference_text": "2 Corinthians 4:16",
+    "context": "in verse number 16 here in 2 Corinthians chapter 4 he says for which cause we faint not but though our outward man perish yet the inward man is renewed day by day",
+    "is_implicit": false,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 394.1600036621094,
+    "end_time": 470.1600036621094,
+    "point_summary": "Amid outward decay, the inward man's daily renewal by God's mercy is Paul's stated reason for not fainting in ministry work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": null,
+    "reference_text": "2 Corinthians 4",
+    "context": "when I read of the apostle Paul writing of his own ministry and his own work in 2 Corinthians chapter number four he speaks about fainting not not growing weary",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 470.1600036621094,
+    "end_time": 534.4000244140625,
+    "point_summary": "The Greek word translated \"faint\" in 2 Corinthians 4:1 and 16 is the same word rendered \"weary\" in Galatians 6 and 2 Thessalonians, establishing that Paul's call not to grow faint is grounded in received mercy and daily inward renewal.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -2338,5 +2338,18 @@
     "end_time": 2027.0800018310547,
     "point_summary": "God's grace, which brings salvation, also teaches believers to live righteously and godly, grounding the breastplate of righteousness in grace rather than personal works.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Titus",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Titus",
+    "context": "Remember in the book of Titus that Paul talks about the fact that we're to be zealous of good works",
+    "is_implicit": false,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1202.0800170898438,
+    "end_time": 1267.000015258789,
+    "point_summary": "Zeal for good works, as Paul urges in Titus, flows from salvation already received—not as a means to obtain or maintain it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

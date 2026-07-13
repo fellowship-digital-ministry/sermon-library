@@ -1,0 +1,54 @@
+{
+  "video_id": "S1o4pyCcW3Q",
+  "title": "\"The Danger Of Growing Weary\" Galatians 6:7-10",
+  "publish_date": "20260712",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/S1o4pyCcW3Q.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/S1o4pyCcW3Q.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/S1o4pyCcW3Q.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/S1o4pyCcW3Q.vtt",
+  "duration": 2505.0,
+  "transcription_timestamp": "2026-07-12T21:06:42.852235",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Galatians 6:7-10 on the law of sowing and reaping as it applies to perseverance in Christian service, with supporting references to 2 Thessalonians 3:13 and 2 Corinthians 4:1-16. The passage is read within the context of Paul's letters to multiple New Testament churches facing opposition and discouragement.",
+    "themes": [
+      "sowing and reaping",
+      "perseverance in ministry",
+      "weariness in well-doing",
+      "god's timing",
+      "embracing god's promises",
+      "the work of the church"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text Reading and Introduction"
+      },
+      {
+        "t": 146,
+        "heading": "Background of the Galatian Churches"
+      },
+      {
+        "t": 285,
+        "heading": "Parallel Passages on Weariness"
+      },
+      {
+        "t": 517,
+        "heading": "The Principle of Sowing and Reaping"
+      },
+      {
+        "t": 980,
+        "heading": "The Pitfall of Growing Weary Exposed"
+      },
+      {
+        "t": 1549,
+        "heading": "The Promise of Reaping in Due Season"
+      },
+      {
+        "t": 1977,
+        "heading": "Opportunity and Doing Good"
+      }
+    ]
+  }
+}

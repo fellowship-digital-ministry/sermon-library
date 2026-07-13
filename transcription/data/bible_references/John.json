@@ -37204,5 +37204,18 @@
     "end_time": 2465.4199829101562,
     "point_summary": "Knowing John 3:16 alone is insufficient spiritual weaponry; skillful use of Scripture requires matching the specific Word of God to each specific temptation faced.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 3,
+    "reference_text": "John 14:3",
+    "context": "I will come again",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1862.559986114502,
+    "end_time": 1923.7599868774414,
+    "point_summary": "Christ's promise \"I will come again\" (John 14:3) is cited as an example of a promise that must be actively embraced, not merely known, to sustain perseverance against weariness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

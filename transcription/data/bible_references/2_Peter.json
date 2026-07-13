@@ -5406,5 +5406,44 @@
     "end_time": 1099.2999877929688,
     "point_summary": "God's provision for his people is total — he has given all things that pertain unto life and godliness, leaving believers without excuse to stand rather than retreat in the evil day.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 3,
+    "reference_text": "2 Peter 1:3",
+    "context": "He's given to us all things that pertain unto life and godliness",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 65.76000213623047,
+    "end_time": 137.83999633789062,
+    "point_summary": "God's provision of \"all things that pertain unto life and godliness\" is cited as the basis for confidence that believers are fully equipped to face life's overwhelming demands without growing weary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 4,
+    "reference_text": "2 Peter 1:4",
+    "context": "these exceeding great and precious promises",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 1797.6400146484375,
+    "end_time": 1862.559986114502,
+    "point_summary": "God's exceeding great and precious promises, as Peter calls them, are meant to be personally embraced—not merely sung about or recited, but actively claimed and stood upon.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 3,
+    "verse": 9,
+    "reference_text": "2 Peter 3:9",
+    "context": "he's not willing that any should perish, but that all should come to repentance",
+    "is_implicit": true,
+    "video_id": "S1o4pyCcW3Q",
+    "start_time": 2370.0199584960938,
+    "end_time": 2433.099983215332,
+    "point_summary": "God's unwillingness that any should perish grounds the call to persevere in ministry without fixating on visible results, trusting him to work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

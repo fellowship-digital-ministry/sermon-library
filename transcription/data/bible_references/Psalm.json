@@ -6420,5 +6420,31 @@
     "end_time": 2301.5799865722656,
     "point_summary": "God's knowledge of human frailty — that we are but dust — grounds the call not to grow weary, since he does not demand results only we cannot produce.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": null,
+    "reference_text": "Psalm 119",
+    "context": "great peace",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 1670.0999755859375,
+    "end_time": 1746.0999755859375,
+    "point_summary": "Loving God's law produces a great peace so firm that nothing can cause the believer to stumble or fall, because Scripture saturates and stabilizes the life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": 165,
+    "reference_text": "Psalm 119:165",
+    "context": "great peace have they which love thy word and nothing shall offend them",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 2861.9400024414062,
+    "end_time": 2924.3800048828125,
+    "point_summary": "Great peace belongs to those who love God's word — a condition the sermon presents as the pathway to the unshakeable peace that nothing can offend or overthrow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -1,0 +1,57 @@
+{
+  "video_id": "BVKCM6yyZSM",
+  "title": "\"The Peace Of God\"  John 14:27",
+  "publish_date": "20260719",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/BVKCM6yyZSM.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/BVKCM6yyZSM.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BVKCM6yyZSM.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BVKCM6yyZSM.vtt",
+  "duration": 3038.0,
+  "transcription_timestamp": "2026-07-19T21:09:23.146837",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of John 14:27 on the peace of God, tracing its source in the person of Jesus Christ and its scope through Psalm 119:165, Isaiah 26:3-4, and Philippians 4:4-9, addressed to a congregation facing anxiety and worldly turmoil.",
+    "themes": [
+      "peace of god",
+      "anxiety and fear",
+      "trusting god in trials",
+      "the mind stayed on christ",
+      "scripture and inner peace"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Context of John 14"
+      },
+      {
+        "t": 419,
+        "heading": "John 14:27 Introduced"
+      },
+      {
+        "t": 557,
+        "heading": "Source of Peace: Jesus Christ"
+      },
+      {
+        "t": 1254,
+        "heading": "Scope of Peace Introduced"
+      },
+      {
+        "t": 1392,
+        "heading": "Great Peace: Psalm 119:165"
+      },
+      {
+        "t": 1668,
+        "heading": "Perfect Peace: Isaiah 26:3-4"
+      },
+      {
+        "t": 2039,
+        "heading": "Peace That Passes Understanding: Philippians 4:4-9"
+      },
+      {
+        "t": 2752,
+        "heading": "Closing Summary from John 16:33"
+      }
+    ]
+  }
+}

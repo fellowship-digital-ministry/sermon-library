@@ -22202,5 +22202,31 @@
     "end_time": 1923.7599868774414,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 23,
+    "reference_text": "Romans 6:23",
+    "context": "the wage of sin is death",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 855.9199981689453,
+    "end_time": 930.760009765625,
+    "point_summary": "Sin's wage of death once left the unsaved separated from God and bound for the lake of fire, but Christ's blood brings the formerly far-off near and becomes their peace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "Romans 5",
+    "context": "Romans five makes that abundantly clear",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 930.760009765625,
+    "end_time": 996.9200134277344,
+    "point_summary": "Peace with God comes exclusively through Jesus Christ, a truth Romans 5 is said to make \"abundantly clear\" in this sermon's distinction between peace *with* God and the peace *of* God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -11490,5 +11490,31 @@
     "end_time": 664.0800170898438,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 5,
+    "reference_text": "James 1:5",
+    "context": "If any man lack wisdom, let him ask of God",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 636.2400016784668,
+    "end_time": 714.8600006103516,
+    "point_summary": "God's gift of wisdom to those who ask (James 1:5) is invoked to identify Christ as the divine Counselor of Isaiah 9:6, the all-wise God who meets every human need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "be doers of the word and not hearers only",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 2982.5,
+    "end_time": 3028.6000213623047,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

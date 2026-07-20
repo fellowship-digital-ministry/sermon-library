@@ -12153,5 +12153,31 @@
     "end_time": 2067.779998779297,
     "point_summary": "Eternal inheritance—secure, incorruptible, and unfading—is cited as the settled ground of assurance that frees believers to do good without fear of losing salvation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 0,
+    "reference_text": "1 Peter 5",
+    "context": "As he's writing in 1 Peter chapter 5 and talking about being eyewitnesses of the sufferings of Christ",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 1201.0999755859375,
+    "end_time": 1271.0999755859375,
+    "point_summary": "Peter's description of the disciples as eyewitnesses of Christ's sufferings illustrates that true peace is not found in the absence of trouble but in the presence of Jesus, who grants peace amid difficult days.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "1 Peter 5:8",
+    "context": "we're to be sober and to be vigilant. Why? Because we have an adversary, the devil, that walketh about as a roaring lion seeking whom he may devour",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 2554.6000061035156,
+    "end_time": 2619.960006713867,
+    "point_summary": "Because the devil prowls as a roaring lion seeking to devour, 1 Peter 5:8 establishes the real danger of hostile spiritual invasion that makes God's guarding peace so urgently necessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

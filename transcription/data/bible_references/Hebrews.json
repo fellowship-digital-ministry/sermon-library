@@ -25894,5 +25894,83 @@
     "end_time": 2500.259979248047,
     "point_summary": "Fixing eyes on Jesus rather than on visible results is presented as the antidote to weariness, drawing on the Hebrews 12:2 call to look to the author and finisher of faith.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 7,
+    "verse": 25,
+    "reference_text": "Hebrews 7:25",
+    "context": "he ever liveth to make intercession for us",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 267.0,
+    "end_time": 340.0,
+    "point_summary": "Christ's ascension and ongoing heavenly ministry — that he \"ever liveth to make intercession for us\" — grounds the comfort offered to troubled hearts in John 14.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 20,
+    "reference_text": "Hebrews 13:20",
+    "context": "Hebrews chapter 13 in verse number 20",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 996.9200134277344,
+    "end_time": 1067.5400085449219,
+    "point_summary": "God is identified in Hebrews 13:20 as \"the God of peace,\" a title that, alongside Christ as Prince of Peace and giver of peace, establishes the divine source of the peace the sermon is tracing.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 21,
+    "reference_text": "Hebrews 13:21",
+    "context": "verse 21, make you perfect in every good work to do his will, working in you that which is well pleasing in his sight through Jesus Christ to whom be glory forever and ever",
+    "is_implicit": false,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 996.9200134277344,
+    "end_time": 1067.5400085449219,
+    "point_summary": "God is identified as \"the God of peace\" in Hebrews 13:20–21, establishing that the source of the believer's peace and perfecting work is God himself, through Jesus Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Hebrews 12:2",
+    "context": "my eyes are looking unto Jesus, the author and finisher of my faith",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 1670.0999755859375,
+    "end_time": 1746.0999755859375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 15,
+    "reference_text": "Hebrews 4:15",
+    "context": "We have not an high priest which cannot be touched with the feeling of our infirmities, but was in all points tempted like as we are yet without sin",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 1954.5799713134766,
+    "end_time": 2023.739974975586,
+    "point_summary": "Christ's peace is uniquely his own to give because, as fully God and fully man, he was tempted in all points yet without sin and therefore truly understands human infirmity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 5,
+    "reference_text": "Hebrews 13:5",
+    "context": "I will never leave thee, nor forsake thee",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 2204.8399658203125,
+    "end_time": 2263.679962158203,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

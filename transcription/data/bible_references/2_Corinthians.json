@@ -23658,5 +23658,18 @@
     "end_time": 534.4000244140625,
     "point_summary": "The Greek word translated \"faint\" in 2 Corinthians 4:1 and 16 is the same word rendered \"weary\" in Galatians 6 and 2 Thessalonians, establishing that Paul's call not to grow faint is grounded in received mercy and daily inward renewal.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verse": 9,
+    "reference_text": "2 Corinthians 8:9",
+    "context": "He was rich, but he became poor for our sakes",
+    "is_implicit": true,
+    "video_id": "BVKCM6yyZSM",
+    "start_time": 636.2400016784668,
+    "end_time": 714.8600006103516,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

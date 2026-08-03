@@ -12179,5 +12179,31 @@
     "end_time": 2619.960006713867,
     "point_summary": "Because the devil prowls as a roaring lion seeking to devour, 1 Peter 5:8 establishes the real danger of hostile spiritual invasion that makes God's guarding peace so urgently necessary.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "your adversary the devil is a roaring lion, walketh about seeking whom he may devour",
+    "context": "your adversary the devil is a roaring lion, walketh about seeking whom he may devour",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 1040.6399841308594,
+    "end_time": 1098.6000061035156,
+    "point_summary": "Even in seasons of blessing and prosperity, believers must remain alert, because the devil as a roaring lion persistently seeks opportunity to devour the unwary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "1 Peter 1:16",
+    "context": "Be holy, for I am holy.",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2021.8400268554688,
+    "end_time": 2096.1600341796875,
+    "point_summary": "Holiness as God's own character—\"Be holy, for I am holy\"—is the divine standard undergirding the call to flee seduction and guard one's walk with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

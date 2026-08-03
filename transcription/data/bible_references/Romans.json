@@ -22228,5 +22228,31 @@
     "end_time": 996.9200134277344,
     "point_summary": "Peace with God comes exclusively through Jesus Christ, a truth Romans 5 is said to make \"abundantly clear\" in this sermon's distinction between peace *with* God and the peace *of* God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "Romans 6",
+    "context": "you can rejoice as we find in Romans six",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 304.1400146484375,
+    "end_time": 367.3800048828125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 1,
+    "reference_text": "Romans 12:1",
+    "context": "present their bodies a living sacrifice",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 367.3800048828125,
+    "end_time": 434.3399963378906,
+    "point_summary": "Presenting the body as a living sacrifice (Romans 12:1) is cited as Paul's own articulation of the ongoing discipline of mortifying the flesh and actively pursuing righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

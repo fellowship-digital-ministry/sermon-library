@@ -6368,5 +6368,18 @@
     "end_time": 2924.3800048828125,
     "point_summary": "Perfect peace is promised to the one whose mind is stayed on God, making focused trust in the Lord the condition for receiving divine peace amid life's troubles.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": 5,
+    "reference_text": "Isaiah 6:5",
+    "context": "When Isaiah saw him high, holy, and lifted up, man, it had an impact on him, did it not? Woe is me, for I am unclean.",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2021.8400268554688,
+    "end_time": 2096.1600341796875,
+    "point_summary": "Beholding God's thrice-holy majesty, as Isaiah's undone cry of \"Woe is me\" illustrates, produces the reverent fear of God that guards against seduction and sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

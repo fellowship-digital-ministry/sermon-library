@@ -25972,5 +25972,57 @@
     "end_time": 2263.679962158203,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 11,
+    "verse": 25,
+    "reference_text": "Hebrews 11:25",
+    "context": "there's pleasure in sin for a season",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 1892.5800170898438,
+    "end_time": 1952.4600219726562,
+    "point_summary": "Choosing the fleeting pleasure of sin over God's provided escape route is the very temptation Moses refused, confirming that sin's appeal is real but temporary and not worth forfeiting one's walk with God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": 29,
+    "reference_text": "consuming fire",
+    "context": "our God is a consuming fire",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2096.1600341796875,
+    "end_time": 2173.040008544922,
+    "point_summary": "God's consuming fire and the fearful reality of falling into the hands of the living God ground the fear of God as a genuine safeguard against seduction and sin.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 10,
+    "verse": 31,
+    "reference_text": "fearful thing to fall into the hands of a living God",
+    "context": "it's a fearful thing to fall into the hands of a living God",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2096.1600341796875,
+    "end_time": 2173.040008544922,
+    "point_summary": "Fearing God as a consuming fire and a righteous judge—not merely trusting His mercy—is presented as essential motivation for resisting seduction and living in holiness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Hebrews 12:2",
+    "context": "the author and finisher of our faith",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 3298.0799865722656,
+    "end_time": 3307.1600036621094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

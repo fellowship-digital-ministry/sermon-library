@@ -12582,5 +12582,18 @@
     "end_time": 573.0,
     "point_summary": "God has not given believers a spirit of fear, cited as scriptural grounding for why troubled hearts can receive Christ's peace amid the anxiety and turmoil prevalent today.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 22,
+    "reference_text": "2 Timothy 2:22",
+    "context": "flee also youthful lust",
+    "is_implicit": false,
+    "video_id": "kys_Aov71eo",
+    "start_time": 1892.5800170898438,
+    "end_time": 1952.4600219726562,
+    "point_summary": "Fleeing youthful lusts, like fleeing fornication, is a literal command to physically remove oneself from sinful situations rather than negotiate with temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

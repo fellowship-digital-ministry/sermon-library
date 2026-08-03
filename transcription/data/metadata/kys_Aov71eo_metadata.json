@@ -1,0 +1,58 @@
+{
+  "video_id": "kys_Aov71eo",
+  "title": "\"Awake To Righteousness, and Sin Not\" I Corinthians 15:33-34; Genesis 39:1-23",
+  "publish_date": "20260802",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/kys_Aov71eo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/kys_Aov71eo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/kys_Aov71eo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/kys_Aov71eo.vtt",
+  "duration": 3309.0,
+  "transcription_timestamp": "2026-08-02T21:09:42.213716",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 1 Corinthians 15:33-34 and Genesis 39:1-23 on spiritual alertness and resistance to sin, using Joseph's encounter with Potiphar's wife as the primary case study. The sermon traces what Joseph recognized, how he responded, and what resulted, set against the New Testament call to awake to righteousness.",
+    "themes": [
+      "resisting temptation",
+      "spiritual alertness",
+      "the fear of god",
+      "testimony and integrity",
+      "the presence of god",
+      "sin in the life of a believer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text"
+      },
+      {
+        "t": 91,
+        "heading": "Meaning of Awake to Righteousness"
+      },
+      {
+        "t": 506,
+        "heading": "Supporting Texts on Sobriety and Holiness"
+      },
+      {
+        "t": 784,
+        "heading": "Joseph in Potiphar's House"
+      },
+      {
+        "t": 975,
+        "heading": "Joseph's Recognition: Seduction, Severity, and God"
+      },
+      {
+        "t": 1559,
+        "heading": "Joseph's Resolve: Refusal and Flight"
+      },
+      {
+        "t": 2218,
+        "heading": "Results: False Accusation and Imprisonment"
+      },
+      {
+        "t": 2450,
+        "heading": "Joseph's Testimony Intact and Paul in Acts 24"
+      }
+    ]
+  }
+}

@@ -6446,5 +6446,31 @@
     "end_time": 2924.3800048828125,
     "point_summary": "Great peace belongs to those who love God's word — a condition the sermon presents as the pathway to the unshakeable peace that nothing can offend or overthrow.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 130,
+    "verse": 4,
+    "reference_text": "Psalm 130:4",
+    "context": "with thee is forgiveness",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 1281.2400207519531,
+    "end_time": 1343.1200103759766,
+    "point_summary": "God's forgiveness is real and available, but the sermon grounds it in the recognition that sin is first and foremost an offense against God, not merely against other people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": 97,
+    "reference_text": "Oh, how love I thy law",
+    "context": "The psalmist said, Oh, how love I thy law. It is my meditation all the day",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2096.1600341796875,
+    "end_time": 2173.040008544922,
+    "point_summary": "Loving and meditating on God's law—the psalmist's declaration in Psalm 119:97—is presented as the source of the principles that guard against seduction and moral compromise.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

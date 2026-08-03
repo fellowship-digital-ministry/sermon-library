@@ -11516,5 +11516,18 @@
     "end_time": 3028.6000213623047,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 8,
+    "reference_text": "James 4:8",
+    "context": "draw nigh to God but then what? He draws nigh to us",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2553.6199951171875,
+    "end_time": 2619.6199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

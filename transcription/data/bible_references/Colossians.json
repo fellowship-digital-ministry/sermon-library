@@ -8981,5 +8981,31 @@
     "end_time": 3036.4400215148926,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Colossians",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Colossians",
+    "context": "putting off the old man and putting on the new man",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 367.3800048828125,
+    "end_time": 434.3399963378906,
+    "point_summary": "Colossians supplies the principle of \"putting off the old man and putting on the new man,\" paired with the command to mortify the members, as the doctrinal grounding for the call to awake to righteousness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": 5,
+    "reference_text": "Colossians 3:5",
+    "context": "mortify their members",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 367.3800048828125,
+    "end_time": 434.3399963378906,
+    "point_summary": "Mortifying the flesh — the Colossians command to \"put off the old man\" — is presented as the believer's active, ongoing duty in the war against sin until glorification removes its very presence.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

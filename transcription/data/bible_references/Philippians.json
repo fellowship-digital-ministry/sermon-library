@@ -9748,5 +9748,18 @@
     "end_time": 3028.6000213623047,
     "point_summary": "God's peace—described in Philippians 4:7 as surpassing all understanding—is presented here as a present possession Christians must actively allow to rule in their hearts amid fear, anxiety, and trials.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 8,
+    "reference_text": "Philippians 4:8",
+    "context": "The Bible tells us in Philippians four to think on these things",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 304.1400146484375,
+    "end_time": 367.3800048828125,
+    "point_summary": "Philippians 4:8's call to \"think on these things\" is cited as scriptural evidence that the mind is a spiritual battleground, directly linking mental soberness to the command to \"awake to righteousness.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

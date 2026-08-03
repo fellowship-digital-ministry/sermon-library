@@ -23671,5 +23671,18 @@
     "end_time": 714.8600006103516,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 2,
+    "verse": 11,
+    "reference_text": "2 Corinthians 2:11",
+    "context": "He tells us that we're not ignorant of his devices",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 1098.6000061035156,
+    "end_time": 1155.1199951171875,
+    "point_summary": "Believers are not ignorant of Satan's devices, and that awareness — like Joseph's recognition of the seduction — is a God-given provision enabling vigilance against persistent temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

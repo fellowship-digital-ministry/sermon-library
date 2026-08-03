@@ -37594,5 +37594,44 @@
     "end_time": 2924.3800048828125,
     "point_summary": "Christ's gift of peace—distinct from the world's—is the source believers are to focus on and allow to rule their hearts amid trouble, rather than fixating on the problem itself.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 30,
+    "reference_text": "John 3:30",
+    "context": "he must increase, and we must decrease",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 864.0199890136719,
+    "end_time": 923.6199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 15,
+    "verse": 5,
+    "reference_text": "John 15:5",
+    "context": "Jesus said without me you can do nothing",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2755.6199951171875,
+    "end_time": 2814.6199951171875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 15,
+    "verse": 4,
+    "reference_text": "Abide in me",
+    "context": "Abide in me Jesus said",
+    "is_implicit": true,
+    "video_id": "kys_Aov71eo",
+    "start_time": 2947.6199951171875,
+    "end_time": 3016.3799953460693,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

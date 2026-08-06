@@ -6472,5 +6472,18 @@
     "end_time": 2173.040008544922,
     "point_summary": "Loving and meditating on God's law—the psalmist's declaration in Psalm 119:97—is presented as the source of the principles that guard against seduction and moral compromise.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 19,
+    "verse": 7,
+    "reference_text": "Psalm 19:7",
+    "context": "the law of the Lord",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 379.2799987792969,
+    "end_time": 446.4800109863281,
+    "point_summary": "Psalm 19:7 identifies the law of the Lord as \"perfect,\" meaning both without error and complete — qualities grounded in the character of the infallible God who inspired it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

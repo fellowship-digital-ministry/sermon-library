@@ -11529,5 +11529,18 @@
     "end_time": 2619.6199951171875,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "James 4:6",
+    "context": "God resisteth the proud but gives grace to the humble",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 2199.9199829101562,
+    "end_time": 2262.0799865722656,
+    "point_summary": "God resists the proud but gives grace to the humble (James 4:6), cited here as the scriptural warrant for why immersion in God's Word is the appointed means of keeping a king's — or any believer's — heart from being lifted up in pride.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

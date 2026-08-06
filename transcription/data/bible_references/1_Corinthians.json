@@ -20499,5 +20499,31 @@
     "end_time": 3168.1199951171875,
     "point_summary": "Awakening to righteousness and refusing sin requires daily dependence on God's grace, walking in the Spirit so that the flesh's lusts are not fulfilled.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": null,
+    "reference_text": "1 Corinthians 13",
+    "context": "Paul would say this in 1 Corinthians 13, that that which is in part is come",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 446.4800109863281,
+    "end_time": 508.3599853515625,
+    "point_summary": "Paul's reference to \"that which is perfect\" in 1 Corinthians 13 is applied here to the completed canon of Scripture, signaling that the partial has given way to the whole revealed Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 3,
+    "verse": 2,
+    "reference_text": "1 Corinthians 3:2",
+    "context": "There's milk of the word, there's meat of the word",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 627.4400005340576,
+    "end_time": 689.5,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

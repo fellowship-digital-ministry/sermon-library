@@ -26024,5 +26024,18 @@
     "end_time": 3307.1600036621094,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 5,
+    "verse": 14,
+    "reference_text": "Hebrews 5:14",
+    "context": "Strong meat belonging to them that are full age",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1334.5999755859375,
+    "end_time": 1399.5999755859375,
+    "point_summary": "Spiritual appetite for God's Word, like physical hunger, grows rather than diminishes as a believer matures from milk to strong meat.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

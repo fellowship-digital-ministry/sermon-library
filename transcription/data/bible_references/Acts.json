@@ -28923,5 +28923,18 @@
     "end_time": 3092.3199920654297,
     "point_summary": "Maintaining a conscience void of offense toward God and men requires active, ongoing effort—like Paul's striving—so that nothing interrupts sweet communion with the Savior.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Acts 20",
+    "context": "Paul said in Acts 20 that he was going to serve the Lord in all humility, in all humility in Acts 20",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 2262.0799865722656,
+    "end_time": 2326.239990234375,
+    "point_summary": "Paul's declaration in Acts 20 that he served the Lord with all humility is cited as evidence that true humility flows from a proper relationship to the Word of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

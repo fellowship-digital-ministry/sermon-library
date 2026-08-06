@@ -9150,5 +9150,18 @@
     "end_time": 3168.1199951171875,
     "point_summary": "Walking in the Spirit is presented as the God-given means by which believers need not fulfill the flesh's lusts, though the flesh's desire itself remains.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "Galatians 5",
+    "context": "talking about liberty in the book of Galatians, you can read in chapter 5",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1806.6399755477905,
+    "end_time": 1877.0399780273438,
+    "point_summary": "Galatians 5 is cited alongside Romans 6 to affirm that believers have been granted liberty from bondage to sin and must not be entangled in it again.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

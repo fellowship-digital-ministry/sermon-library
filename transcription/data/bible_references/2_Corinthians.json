@@ -23684,5 +23684,18 @@
     "end_time": 1155.1199951171875,
     "point_summary": "Believers are not ignorant of Satan's devices, and that awareness — like Joseph's recognition of the seduction — is a God-given provision enabling vigilance against persistent temptation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 10,
+    "verse": 5,
+    "reference_text": "2 Corinthians 10:5",
+    "context": "bring into captivity every thought to the obedience of Christ",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1941.7599792480469,
+    "end_time": 2004.719970703125,
+    "point_summary": "Bringing every thought into captivity to the obedience of Christ (2 Cor. 10:5) is cited as the biblical mandate underlying the psalmist's prayer that heart-meditation be acceptable, because unchecked thoughts progress into sinful actions.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

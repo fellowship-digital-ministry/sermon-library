@@ -6381,5 +6381,18 @@
     "end_time": 2096.1600341796875,
     "point_summary": "Beholding God's thrice-holy majesty, as Isaiah's undone cry of \"Woe is me\" illustrates, produces the reverent fear of God that guards against seduction and sin.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 5,
+    "verse": 20,
+    "reference_text": "Isaiah 5:20",
+    "context": "wants to call evil good and good evil",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 627.4400005340576,
+    "end_time": 689.5,
+    "point_summary": "In a culture that inverts moral categories—calling evil good and good evil—God's statutes stand as an objective, unchanging standard of what is right.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

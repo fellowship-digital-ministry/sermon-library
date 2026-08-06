@@ -12595,5 +12595,70 @@
     "end_time": 1952.4600219726562,
     "point_summary": "Fleeing youthful lusts, like fleeing fornication, is a literal command to physically remove oneself from sinful situations rather than negotiate with temptation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "2 Timothy 3:16",
+    "context": "the Bible tells us in 2 Timothy 3 and verse number 16, for all Scripture is given by inspiration of God and is profitable",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 315.67999267578125,
+    "end_time": 379.2799987792969,
+    "point_summary": "All Scripture being God-breathed and profitable frames the sermon's examination of how Psalm 19 describes, defines, and declares the effects of God's word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 14,
+    "reference_text": "2 Timothy 3:14",
+    "context": "evil men and seducers shall wax worse and worse, deceiving and being deceived. But continue thou in the things which thou hast learned and been assured of, knowing of whom thou hast learned them, and that from a child thou hast known the holy Scriptures",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 315.67999267578125,
+    "end_time": 379.2799987792969,
+    "point_summary": "Continuance in Scripture learned from childhood is presented as the necessary foundation before Paul's declaration that all Scripture is profitable and God-breathed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "2 Timothy 3:16",
+    "context": "all Scripture is given by inspiration of God",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 379.2799987792969,
+    "end_time": 446.4800109863281,
+    "point_summary": "Scripture's divine inspiration guarantees its perfection and profitability, grounding the call for Timothy—and believers today—to continue in it amid increasing deception.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 15,
+    "reference_text": "2 Timothy 3:15",
+    "context": "from 2 Timothy 3 and verse 15, it's the Scriptures that Timothy",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 446.4800109863281,
+    "end_time": 508.3599853515625,
+    "point_summary": "Scripture's power to bring salvation is grounded in its being known from childhood, as Timothy's early knowledge of the sacred writings made him wise unto salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 15,
+    "reference_text": "2 Timothy 3:15",
+    "context": "knew from a child that were able to make him wise unto salvation",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 508.3599853515625,
+    "end_time": 569.0800170898438,
+    "point_summary": "Scripture's role as the instrument of salvation is underscored by the fact that it was the Scriptures Timothy knew from childhood that made him wise unto salvation—without which no one would know sin, Savior, or redemption.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

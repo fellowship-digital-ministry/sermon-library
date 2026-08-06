@@ -4249,5 +4249,31 @@
     "end_time": 2173.040008544922,
     "point_summary": "Meditating on God's Word day and night, as commanded in Joshua 1:8, is the source of the biblical principles that guard against seduction and moral failure.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Joshua 1",
+    "context": "Notice in Joshua 1 and I'll close with this in Joshua 1. Notice what the bible says in Joshua 1",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 2262.0799865722656,
+    "end_time": 2326.239990234375,
+    "point_summary": "God's command to Joshua to meditate on the law day and night so as to observe and do all that is written therein is presented as the biblical pattern for humble, obedient leadership.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Joshua 1:8",
+    "context": "This book of the law shall not depart out of thy mouth but thou shalt meditate therein day and night. Why? That thou mayest observe to do according to all that is written therein. All that is written therein. He says for then thou shalt make thy way prosperous and then thou shalt have good success.",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 2326.239990234375,
+    "end_time": 2407.639992713928,
+    "point_summary": "Prosperity and success in Joshua 1:8 are presented as conditional outcomes—the \"then\"—that follow only after continual meditation on and obedience to God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

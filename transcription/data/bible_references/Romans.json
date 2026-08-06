@@ -22254,5 +22254,44 @@
     "end_time": 434.3399963378906,
     "point_summary": "Presenting the body as a living sacrifice (Romans 12:1) is cited as Paul's own articulation of the ongoing discipline of mortifying the flesh and actively pursuing righteousness.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 7,
+    "verse": 7,
+    "reference_text": "Romans 7:7",
+    "context": "Paul says it this way, I would not know sin except for the law",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1604.5999755859375,
+    "end_time": 1670.5999755859375,
+    "point_summary": "The law's role as the revealer of sin—Paul's testimony that he would not have known covetousness apart from the commandment—grounds the psalmist's cry to be cleansed from errors and secret faults he could not otherwise recognize.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Romans 6",
+    "context": "according to Romans 6, we have been delivered from the power of sin",
+    "is_implicit": false,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1806.6399755477905,
+    "end_time": 1877.0399780273438,
+    "point_summary": "Believers have been delivered from sin's power through salvation, so presumptuous sins need not have dominion over them, as Romans 6 is cited to establish.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Romans 12:2",
+    "context": "we're to renew our mind",
+    "is_implicit": true,
+    "video_id": "IN5r7ZtpkKY",
+    "start_time": 1941.7599792480469,
+    "end_time": 2004.719970703125,
+    "point_summary": "Renewing the mind, as Paul commands in Romans 12:2, is invoked here to underscore that guarding the meditation of the heart is the critical first defense against the progression from secret faults to great transgression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

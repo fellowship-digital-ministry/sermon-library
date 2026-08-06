@@ -1,0 +1,54 @@
+{
+  "video_id": "IN5r7ZtpkKY",
+  "title": "\"The Law Of The Lord\"  Psalm 19:7-14",
+  "publish_date": "20260805",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/IN5r7ZtpkKY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/IN5r7ZtpkKY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/IN5r7ZtpkKY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/IN5r7ZtpkKY.vtt",
+  "duration": 2550.0,
+  "transcription_timestamp": "2026-08-05T21:10:49.030928",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 19:7-14 on the nature and value of Scripture, tracing six descriptive titles for the Word of God and their corresponding effects, then moving to the desire for Scripture above gold and honey, and finally to Scripture as a defense against a progression from errors to secret faults to presumptuous sins to great transgression.",
+    "themes": [
+      "the word of god",
+      "bible reading and meditation",
+      "fear of the lord",
+      "sin and its progression",
+      "humility",
+      "obedience and blessing"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of Psalm 19:7-14"
+      },
+      {
+        "t": 97,
+        "heading": "Bible Belief Versus Bible Practice"
+      },
+      {
+        "t": 287,
+        "heading": "The Word of God Described"
+      },
+      {
+        "t": 984,
+        "heading": "The Word of God Desired"
+      },
+      {
+        "t": 1356,
+        "heading": "The Word of God as Defense"
+      },
+      {
+        "t": 1952,
+        "heading": "Prayer of Consecration in Verse 14"
+      },
+      {
+        "t": 2092,
+        "heading": "Deuteronomy 17 and Joshua 1 on Meditating the Law"
+      }
+    ]
+  }
+}

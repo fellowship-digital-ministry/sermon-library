@@ -6394,5 +6394,44 @@
     "end_time": 689.5,
     "point_summary": "In a culture that inverts moral categories—calling evil good and good evil—God's statutes stand as an objective, unchanging standard of what is right.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Isaiah 6",
+    "context": "When you think about the account in Isaiah chapter number six when Isaiah sees God and all of his holiness, and he sees God high, holy and lifted up and the train did fill the temple",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1058.2200012207031,
+    "end_time": 1121.6799926757812,
+    "point_summary": "Isaiah 6's vision of God \"high, holy and lifted up\" with angels crying \"holy, holy, holy\" is cited as scriptural confirmation that God's holiness is an eternal, unchanging attribute, not a developing one.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Isaiah 6 (Seraphim)",
+    "context": "he hears those angels saying, holy, holy, holy",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1058.2200012207031,
+    "end_time": 1121.6799926757812,
+    "point_summary": "Isaiah 6's vision of God \"high, holy and lifted up\" with angels crying \"holy, holy, holy\" is cited as scriptural confirmation that God's holiness is an eternal, unchanging attribute, not a developing one.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 40,
+    "verse": 31,
+    "reference_text": "Isaiah 40:31",
+    "context": "they that wait upon the Lord shall renew their strength",
+    "is_implicit": false,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1439.3199768066406,
+    "end_time": 1516.47998046875,
+    "point_summary": "God's strength replacing human weakness — illustrated by Paul's thorn and the songwriter's warning that \"the arm of flesh will fail\" — is the promise Mary's magnifying of the Lord points toward in Isaiah 40:31.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

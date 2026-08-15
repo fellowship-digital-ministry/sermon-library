@@ -26037,5 +26037,31 @@
     "end_time": 1399.5999755859375,
     "point_summary": "Spiritual appetite for God's Word, like physical hunger, grows rather than diminishes as a believer matures from milk to strong meat.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Looking unto Jesus, the author and finisher of our faith",
+    "context": "Looking unto Jesus, the author and finisher of our faith",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 682.9599914550781,
+    "end_time": 745.2799835205078,
+    "point_summary": "Fixing one's focus on the person of Jesus — \"the author and finisher of our faith\" — is presented as the foundational act that produces magnification of the Lord in a believer's life.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 16,
+    "reference_text": "Hebrews 4:16",
+    "context": "we looked there at the passage in Hebrews four in verse number 16, and that were to come boldly into the throne of grace, that we may obtain mercy and find grace to help in time of need",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1184.5199584960938,
+    "end_time": 1250.5999794006348,
+    "point_summary": "Hebrews 4:16 is cited to define mercy as God withholding deserved judgment, grounding the believer's bold approach to the throne of grace to obtain that mercy in time of need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

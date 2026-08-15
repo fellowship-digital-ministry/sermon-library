@@ -11542,5 +11542,44 @@
     "end_time": 2262.0799865722656,
     "point_summary": "God resists the proud but gives grace to the humble (James 4:6), cited here as the scriptural warrant for why immersion in God's Word is the appointed means of keeping a king's — or any believer's — heart from being lifted up in pride.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "James 4:6",
+    "context": "God resisteth the proud, but giveth grace unto the humble",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1516.47998046875,
+    "end_time": 1586.3599853515625,
+    "point_summary": "God resists the proud but gives grace to the humble (James 4:6), cited as scriptural confirmation that the God Mary magnifies in Luke 1:52 is just in exalting the lowly and putting down the mighty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 1,
+    "reference_text": "James",
+    "context": "we've been going through the book of James",
+    "is_implicit": false,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1516.47998046875,
+    "end_time": 1586.3599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "and not hearers only",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 3047.459945678711,
+    "end_time": 3096.4999465942383,
+    "point_summary": "Obedience to Scripture—being doers of the word and not hearers only—is the standard by which the congregation is called to respond to what they have heard this morning.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

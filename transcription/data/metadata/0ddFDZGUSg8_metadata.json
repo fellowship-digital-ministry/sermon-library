@@ -1,0 +1,50 @@
+{
+  "video_id": "0ddFDZGUSg8",
+  "title": "\"My Soul Doth Magnify The Lord\"  Luke 1:46-55",
+  "publish_date": "20260814",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/0ddFDZGUSg8.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/0ddFDZGUSg8.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/0ddFDZGUSg8.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/0ddFDZGUSg8.vtt",
+  "duration": 3110.0,
+  "transcription_timestamp": "2026-08-14T21:14:31.259731",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 1:46-55 on Mary's Magnificat, tracing the attributes of God and his provisions that prompted her declaration of praise, with application to the congregation's own practice of magnifying the Lord.",
+    "themes": [
+      "magnifying the lord",
+      "attributes of god",
+      "god's provision",
+      "salvation",
+      "praise and worship",
+      "spiritual hunger"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Pastoral Anniversaries and Introduction"
+      },
+      {
+        "t": 322,
+        "heading": "Context of Mary's Magnificat"
+      },
+      {
+        "t": 507,
+        "heading": "The Call to Magnify the Lord"
+      },
+      {
+        "t": 691,
+        "heading": "Focusing on God's Person"
+      },
+      {
+        "t": 1719,
+        "heading": "Focusing on God's Provision"
+      },
+      {
+        "t": 2967,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
+}

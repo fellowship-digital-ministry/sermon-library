@@ -9774,5 +9774,18 @@
     "end_time": 998.4400024414062,
     "point_summary": "Scripture itself meets every criterion Paul lists in Philippians 4:8 for worthy thinking, making the Bible the singular text that fulfills that standard completely.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "Philippians 4:6",
+    "context": "the Bible says be careful for nothing",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1306.859977722168,
+    "end_time": 1372.47998046875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -6485,5 +6485,57 @@
     "end_time": 446.4800109863281,
     "point_summary": "Psalm 19:7 identifies the law of the Lord as \"perfect,\" meaning both without error and complete — qualities grounded in the character of the infallible God who inspired it.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 48,
+    "verse": 1,
+    "reference_text": "Psalm 48:1",
+    "context": "Great is the Lord and greatly to be praised",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 556.2000122070312,
+    "end_time": 614.6799879074097,
+    "point_summary": "Psalm 48:1's declaration that God is great and greatly to be praised frames the imperative that believers must magnify the Lord rather than magnify their problems amid life's trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": 1,
+    "reference_text": "Psalm 23:1",
+    "context": "the Lord is my shepherd, I shall not want",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1712.719970703125,
+    "end_time": 1776.5599975585938,
+    "point_summary": "God's provision extends beyond temporal or monetary needs to encompass every need of his people, as the shepherd of Psalm 23:1 knows and supplies what his sheep require.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": 1,
+    "reference_text": "Psalm 23",
+    "context": "the Lord is my shepherd",
+    "is_implicit": false,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1899.1199645996094,
+    "end_time": 1971.1599578857422,
+    "point_summary": "Psalm 23's declaration \"the LORD is my shepherd\" is invoked to underscore that salvation is not merely universal provision but a personal relationship—each believer must claim the Lord as *my* Savior.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 55,
+    "verse": 22,
+    "reference_text": "Psalm 55:22",
+    "context": "Cast thy burdens upon the Lord and he shall sustain",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 2086.3599548339844,
+    "end_time": 2144.8399658203125,
+    "point_summary": "Casting burdens on the Lord (Psalm 55:22) is presented as God's promise to sustain believers who bring their heaviest, unspoken cares to him, because he both knows and cares for them.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

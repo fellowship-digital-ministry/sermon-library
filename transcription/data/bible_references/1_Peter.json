@@ -12244,5 +12244,44 @@
     "end_time": 1334.5999755859375,
     "point_summary": "Just as physical hunger persists and grows from infancy into adulthood, the Spirit-born desire for Scripture instilled at salvation should deepen and continue throughout the believer's life.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 2,
+    "verse": 7,
+    "reference_text": "1 Peter 2:7",
+    "context": "Peter would say this in first Peter two, the beginning part of verse number seven, he would say unto you therefore which believe, he is precious",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 225.47999572753906,
+    "end_time": 293.3999938964844,
+    "point_summary": "Christ is precious to all who believe — a truth Peter affirms in the first part of 1 Peter 2:7, cited here as personal testimony that saving faith makes Jesus precious to the believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "1 Peter",
+    "context": "Peter would then state that again in his epistle in first Peter, that we as the people of God are to be holy because our God is holy",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1058.2200012207031,
+    "end_time": 1121.6799926757812,
+    "point_summary": "The call to holiness in 1 Peter echoes Leviticus and grounds Mary's praise of God's holy name: God's people must be holy because God himself is holy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 7,
+    "reference_text": "1 Peter 5:7",
+    "context": "casting all your care upon him for he careth for you",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 2086.3599548339844,
+    "end_time": 2144.8399658203125,
+    "point_summary": "God's intimate knowledge of human frailty grounds the invitation of 1 Peter 5:7—because He knows every care and promises to sustain, believers are called to cast their burdens upon Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

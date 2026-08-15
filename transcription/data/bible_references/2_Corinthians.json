@@ -23697,5 +23697,57 @@
     "end_time": 2004.719970703125,
     "point_summary": "Bringing every thought into captivity to the obedience of Christ (2 Cor. 10:5) is cited as the biblical mandate underlying the psalmist's prayer that heart-meditation be acceptable, because unchecked thoughts progress into sinful actions.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "If any man be in Christ, he is a new creature. Old things are passed away, behold, all things are become new.",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 54.08000183105469,
+    "end_time": 112.23999786376953,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verse": 9,
+    "reference_text": "2 Corinthians 12:9",
+    "context": "my grace is sufficient for thee",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1372.47998046875,
+    "end_time": 1439.3199768066406,
+    "point_summary": "God's strength is demonstrated, not merely declared — as Paul's thorn shows, divine power is perfected precisely in human weakness, making weakness itself a ground for glorying.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verse": 9,
+    "reference_text": "2 Corinthians 12:9",
+    "context": "most gladly therefore will I rather glory in my infirmities that the power of Christ may rest upon me",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1439.3199768066406,
+    "end_time": 1516.47998046875,
+    "point_summary": "God's strength is made perfect in human weakness, so that Paul's boasting in infirmities becomes the very means by which the power of Christ rests upon him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verse": 10,
+    "reference_text": "2 Corinthians 12:10",
+    "context": "Therefore, I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake. For when I am weak, then am I strong",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1439.3199768066406,
+    "end_time": 1516.47998046875,
+    "point_summary": "God's strength is made perfect in human weakness, so that boasting in infirmities becomes the means by which the power of Christ rests upon the believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -12036,5 +12036,18 @@
     "end_time": 1670.5999755859375,
     "point_summary": "Covetousness, cited from the tenth commandment, illustrates Paul's point in Romans 7 that the law reveals sin — without it, one would not recognize guilt.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 4,
+    "reference_text": "Exodus 16:4",
+    "context": "Manna from heaven. I mean angel's food. Right? Miraculous every day. Manna.",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1776.5599975585938,
+    "end_time": 1836.5599632263184,
+    "point_summary": "God's miraculous daily provision of manna, though despised by the Israelites who longed for Egypt's food, illustrates how people complain about and even hate the very provision God graciously supplies.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

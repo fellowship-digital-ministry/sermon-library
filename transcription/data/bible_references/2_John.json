@@ -37,5 +37,18 @@
     "end_time": 2881.5199584960938,
     "point_summary": "2 John 1:8 is cited as scriptural warrant for the reality of rewards at the judgment seat, with the phrase \"full reward\" grounding the sermon's broader discussion of crowns to be received.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "2 John",
+    "context": "we're teaching on Wednesdays through the book of 2 John and there's only 13 verses",
+    "is_implicit": false,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 556.2000122070312,
+    "end_time": 614.6799879074097,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

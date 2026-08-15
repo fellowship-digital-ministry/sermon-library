@@ -22293,5 +22293,18 @@
     "end_time": 2004.719970703125,
     "point_summary": "Renewing the mind, as Paul commands in Romans 12:2, is invoked here to underscore that guarding the meditation of the heart is the critical first defense against the progression from secret faults to great transgression.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 16,
+    "reference_text": "Romans 8:16",
+    "context": "His Spirit communes with our spirit",
+    "is_implicit": true,
+    "video_id": "0ddFDZGUSg8",
+    "start_time": 1836.5599632263184,
+    "end_time": 1899.1199645996094,
+    "point_summary": "The indwelling Spirit's communion with the believer's spirit is cited as part of God's spiritual provision, grounding the call to walk in the Spirit rather than the flesh.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

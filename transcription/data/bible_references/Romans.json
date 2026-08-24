@@ -22306,5 +22306,18 @@
     "end_time": 1899.1199645996094,
     "point_summary": "The indwelling Spirit's communion with the believer's spirit is cited as part of God's spiritual provision, grounding the call to walk in the Spirit rather than the flesh.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Romans 10:13",
+    "context": "For whosoever shall call upon the name of the Lord shall be saved",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1763.0400390625,
+    "end_time": 1817.4000272750854,
+    "point_summary": "Salvation, like Christ's help in the storm, is freely offered but never coerced — \"whosoever shall call\" reflects a standing invitation that each person must willingly receive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

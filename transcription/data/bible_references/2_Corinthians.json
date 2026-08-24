@@ -23749,5 +23749,18 @@
     "end_time": 1516.47998046875,
     "point_summary": "God's strength is made perfect in human weakness, so that boasting in infirmities becomes the means by which the power of Christ rests upon the believer.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verse": 9,
+    "reference_text": "2 Corinthians 12:9",
+    "context": "He said to Paul, my grace is sufficient for thee",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2708.240020751953,
+    "end_time": 2781.1200256347656,
+    "point_summary": "Christ's promise to Paul — \"my grace is sufficient for thee\" — is extended here as a universal assurance that Jesus knows and meets every believer's need in their storm.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

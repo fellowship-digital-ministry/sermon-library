@@ -1,0 +1,58 @@
+{
+  "video_id": "xTkB01-htp0",
+  "title": "\"He Saw Them\"  Mark 6:45-52",
+  "publish_date": "20260823",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/xTkB01-htp0.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/xTkB01-htp0.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/xTkB01-htp0.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/xTkB01-htp0.vtt",
+  "duration": 2910.0,
+  "transcription_timestamp": "2026-08-23T21:10:25.173459",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Mark 6:45-52 on the disciples toiling against contrary winds on the Sea of Galilee, organized around three observations drawn from the phrase 'he saw them' in verse 48: that the Lord knows where his people are, what they are facing, and what they need.",
+    "themes": [
+      "god's omniscience",
+      "storms and trials",
+      "obedience amid difficulty",
+      "god's word as provision",
+      "receiving god's help",
+      "the presence of christ"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Isaiah 53 and the Suffering Savior"
+      },
+      {
+        "t": 93,
+        "heading": "Context: The Feeding of the 5,000"
+      },
+      {
+        "t": 325,
+        "heading": "Hardened Hearts and Forgotten Miracles"
+      },
+      {
+        "t": 557,
+        "heading": "The Lord Knows Where You Are"
+      },
+      {
+        "t": 892,
+        "heading": "The Lord Knows What You Are Facing"
+      },
+      {
+        "t": 1509,
+        "heading": "The Lord Knows What You Need"
+      },
+      {
+        "t": 1886,
+        "heading": "A Word from God in the Storm"
+      },
+      {
+        "t": 2259,
+        "heading": "He Came to Where They Were"
+      }
+    ]
+  }
+}

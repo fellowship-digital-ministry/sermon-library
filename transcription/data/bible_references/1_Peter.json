@@ -12283,5 +12283,18 @@
     "end_time": 2144.8399658203125,
     "point_summary": "God's intimate knowledge of human frailty grounds the invitation of 1 Peter 5:7—because He knows every care and promises to sustain, believers are called to cast their burdens upon Him.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 7,
+    "reference_text": "1 Peter 5:7",
+    "context": "Casting all your care upon Him. Why? For He careth for you.",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1322.880012512207,
+    "end_time": 1392.8800048828125,
+    "point_summary": "God's omniscience and love are joined here: because He cares for His people, every burden—even those too deep to verbalize—can be cast entirely upon Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

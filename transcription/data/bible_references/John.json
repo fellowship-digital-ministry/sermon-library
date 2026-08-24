@@ -37711,5 +37711,70 @@
     "end_time": 2086.3599548339844,
     "point_summary": "New birth, not works, is the prerequisite for salvation assurance, as Jesus' words to Nicodemus are invoked to urge any without certainty of salvation to trust Christ that day.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 11,
+    "verse": null,
+    "reference_text": "John 11",
+    "context": "So you think about John 11. I love John chapter 11.",
+    "is_implicit": false,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1140.8800048828125,
+    "end_time": 1205.800009727478,
+    "point_summary": "Jesus's deliberate delay in coming to Lazarus illustrates that God's timing in apparent abandonment serves a greater purpose—demonstrating power beyond what immediate rescue would have shown.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 11,
+    "verse": null,
+    "reference_text": "John 11",
+    "context": "if you were to read John chapter 11, that Jesus did not immediately go to where He was",
+    "is_implicit": false,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1140.8800048828125,
+    "end_time": 1205.800009727478,
+    "point_summary": "Jesus's deliberate delay in coming to Lazarus—arriving after four days—illustrates that God's apparent slowness in the storm is purposeful, working toward a greater display of power than immediate relief would allow.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 6,
+    "verse": 21,
+    "reference_text": "John 6:21",
+    "context": "they willingly received him into the ship",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1705.8200073242188,
+    "end_time": 1763.0400390625,
+    "point_summary": "The disciples' willingness to receive Jesus into the ship—contrasted with his readiness to pass by—illustrates that God offers his help but never forces himself upon anyone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "John 1:11",
+    "context": "He came to his own",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1705.8200073242188,
+    "end_time": 1763.0400390625,
+    "point_summary": "Christ's rejection by his own people illustrates the broader principle that God never forces himself upon anyone—salvation and help alike are offered freely but must be willingly received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 1,
+    "verse": 12,
+    "reference_text": "John 1:12",
+    "context": "His own received him not, but as many as received him, to them gave he power to become the sons of God",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1763.0400390625,
+    "end_time": 1817.4000272750854,
+    "point_summary": "Receiving Christ — whether for salvation or ongoing help — is a voluntary act, as John 1:12's \"as many as received him\" underscores God's consistent pattern of offering without compelling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

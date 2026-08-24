@@ -58732,5 +58732,18 @@
     "end_time": 1439.3199768066406,
     "point_summary": "God's rhetorical question to Abraham in Genesis 18:14 is cited as an example of God not merely declaring his omnipotence but visibly demonstrating it by giving a son to a hundred-year-old man and his ninety-year-old wife.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 3,
+    "reference_text": "Genesis 1:3",
+    "context": "Let there be light. There was light.",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2636.2000274658203,
+    "end_time": 2708.240020751953,
+    "point_summary": "God's creative word in Genesis 1:3 — \"Let there be light, and there was light\" — is cited as evidence that the same Lord who spoke creation into existence is the helper who meets every need.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

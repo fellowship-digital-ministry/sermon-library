@@ -26063,5 +26063,70 @@
     "end_time": 1250.5999794006348,
     "point_summary": "Hebrews 4:16 is cited to define mercy as God withholding deserved judgment, grounding the believer's bold approach to the throne of grace to obtain that mercy in time of need.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 15,
+    "reference_text": "Hebrews 4:15",
+    "context": "in all points like as we are yet without sin",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 0.0,
+    "end_time": 65.91999816894531,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 5,
+    "reference_text": "Hebrews 13:5",
+    "context": "the truth of Hebrews chapter 13 when we talk about that and often we reference the truth that he says that I'll never leave thee nor forsake thee, but the wonderful truth of the promise is this, in verse number 5, let your conversation be without covetousness and be content with such things as you have, for he hath said",
+    "is_implicit": false,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1935.5800323486328,
+    "end_time": 2001.1800231933594,
+    "point_summary": "God's promise \"I will never leave thee nor forsake thee\" grounds the disciples' fearlessness in the storm, enabling the bold confession that no storm—like no man—can ultimately harm those in Christ's care.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 5,
+    "reference_text": "Hebrews 13:5",
+    "context": "I will never leave thee nor forsake thee, so that we may boldly say, the Lord is my helper",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2001.1800231933594,
+    "end_time": 2073.1000366210938,
+    "point_summary": "God's promise never to leave or forsake his people (Heb. 13:5) is the basis for fearlessness in the storm, just as Christ's \"be not afraid\" addressed the disciples' crisis in Mark 6.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 6,
+    "reference_text": "Hebrews 13:6",
+    "context": "I will not fear what man shall do unto me",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2001.1800231933594,
+    "end_time": 2073.1000366210938,
+    "point_summary": "Christ's \"It is I, be not afraid\" in the storm is linked to Hebrews 13:6's \"I will not fear\" as the natural bold response to the promise that God never leaves nor forsakes.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 4,
+    "verse": 16,
+    "reference_text": "Hebrews 4:16",
+    "context": "we're to come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2708.240020751953,
+    "end_time": 2781.1200256347656,
+    "point_summary": "Hebrews 4:16 is invoked as the standing invitation to bring any personal need boldly before God, who already knows what you face and is able to meet it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

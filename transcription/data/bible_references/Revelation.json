@@ -20538,5 +20538,18 @@
     "end_time": 1250.5999794006348,
     "point_summary": "God's eternality—having no beginning and no ending, existing outside of time as Alpha and Omega—is the theological ground drawn from Revelation 1:8 to anchor Mary's praise across generations.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "verse": 4,
+    "reference_text": "Revelation 21:4",
+    "context": "no more sorrow, no more death, no more tears",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 494.79998779296875,
+    "end_time": 556.9199829101562,
+    "point_summary": "The future promise of no more sorrow, death, or tears grounds the present encouragement that God sees his people even now in the midst of their storms.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

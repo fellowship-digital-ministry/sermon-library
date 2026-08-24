@@ -18991,5 +18991,18 @@
     "end_time": 2086.3599548339844,
     "point_summary": "Salvation rests entirely on God's grace through faith, not human works, so that genuine assurance is possible and boasting is excluded.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "reference_text": "Ephesians 2:8-9",
+    "context": "For by grace are you saved through faith. And that not of yourselves, it is the gift of God, not of works, lest any man should boast.",
+    "is_implicit": true,
+    "video_id": "xTkB01-htp0",
+    "start_time": 2273.260040283203,
+    "end_time": 2330.6600341796875,
+    "point_summary": "Salvation by grace through faith alone is humanity's greatest need, and only Jesus — who came to where his disciples were — can meet it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

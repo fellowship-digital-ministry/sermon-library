@@ -6537,5 +6537,31 @@
     "end_time": 2144.8399658203125,
     "point_summary": "Casting burdens on the Lord (Psalm 55:22) is presented as God's promise to sustain believers who bring their heaviest, unspoken cares to him, because he both knows and cares for them.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 55,
+    "verse": null,
+    "reference_text": "Psalm 55",
+    "context": "Casting thy burden upon the Lord, why? We find that in Psalm 55 because He will, the promise that He will sustain thee.",
+    "is_implicit": false,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1322.880012512207,
+    "end_time": 1392.8800048828125,
+    "point_summary": "Psalm 55's promise that God \"will sustain thee\" is cited as the scriptural ground for casting every burden on a God who cares and will not let His people go unsupported.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 139,
+    "verse": null,
+    "reference_text": "Psalm 139",
+    "context": "Let's go over in Psalm 139, if you will, Psalm 139",
+    "is_implicit": false,
+    "video_id": "xTkB01-htp0",
+    "start_time": 1322.880012512207,
+    "end_time": 1392.8800048828125,
+    "point_summary": "God's omniscience—that He knows exhaustively what each person faces, even what cannot be verbalized—is grounded in Psalm 139:1 as the psalmist opens with direct address to the all-knowing Lord.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

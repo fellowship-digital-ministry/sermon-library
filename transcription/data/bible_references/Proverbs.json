@@ -7616,5 +7616,31 @@
     "end_time": 860.760009765625,
     "point_summary": "God's omnipresence, illustrated by Proverbs 15:3's declaration that the Lord's eyes behold every place, grounds the comfort that no believer is ever unseen, even in the storm.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 23,
+    "verse": 5,
+    "reference_text": "Proverbs 23:5",
+    "context": "the Bible tells us in the book of Proverbs that riches make wings and they fly away",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 605.260009765625,
+    "end_time": 670.1000061035156,
+    "point_summary": "Riches are fleeting and ultimately unsatisfying, illustrated by the image of wealth sprouting wings and flying away, underscoring why Zacchaeus's possessions left him empty.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 23,
+    "verse": 5,
+    "reference_text": "Proverbs 23:5",
+    "context": "like Proverbs said, riches make wings and they fly away",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 670.1000061035156,
+    "end_time": 729.8800048828125,
+    "point_summary": "Riches are fleeting by nature—Proverbs 23:5's image of wealth sprouting wings and flying away illustrates why Zacchaeus's possessions and position left him empty and still seeking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

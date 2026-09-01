@@ -19121,5 +19121,31 @@
     "end_time": 1935.5800323486328,
     "point_summary": "Christ's word of comfort — \"Be of good cheer, it is I, be not afraid\" — comes while the storm is still raging, showing that God's word is the very help believers need in the midst of trial.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 16,
+    "verse": null,
+    "reference_text": "Matthew 16",
+    "context": "Matthew chapter number 16 when He's speaking to His disciples. Whom do men say that I am?",
+    "is_implicit": false,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1337.9000244140625,
+    "end_time": 1409.9000244140625,
+    "point_summary": "The question Jesus posed to His disciples — \"Whom do men say that I am?\" — frames Zacchaeus's curiosity as a search for Christ's identity, not merely His miraculous power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 16,
+    "verse": null,
+    "reference_text": "Matthew 16:16",
+    "context": "Peter stands up and he says, thou art the Christ, the Son of the living God",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1337.9000244140625,
+    "end_time": 1409.9000244140625,
+    "point_summary": "The question Jesus posed to His disciples — \"Whom do men say that I am?\" — frames Zacchaeus's curiosity as a search for Christ's identity, not merely His miraculous power.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

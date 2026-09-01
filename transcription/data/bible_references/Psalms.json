@@ -35813,5 +35813,18 @@
     "end_time": 2904.300018310547,
     "point_summary": "Psalm 121's call to lift one's eyes toward the source of help is invoked as the fitting posture for believers to actively receive God's aid rather than let Him pass by.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 19,
+    "verse": 1,
+    "reference_text": "Psalms 19:1",
+    "context": "The Bible tells us that the heavens declare the glory of God. The firmament showeth forth his handiwork",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1623.9000244140625,
+    "end_time": 1691.9000244140625,
+    "point_summary": "Creation itself testifies to God's existence, making atheism a position that requires more faith than belief, given the overwhelming evidence surrounding us.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

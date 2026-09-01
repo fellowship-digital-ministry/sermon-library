@@ -1,0 +1,58 @@
+{
+  "video_id": "bLroMQe43GY",
+  "title": "\"This Day Is Salvation Come To This House\"  Luke 19:1-10",
+  "publish_date": "20260831",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/bLroMQe43GY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/bLroMQe43GY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/bLroMQe43GY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/bLroMQe43GY.vtt",
+  "duration": 2945.0,
+  "transcription_timestamp": "2026-08-31T21:06:20.802330",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Luke 19:1-10 on the conversion of Zacchaeus, organized around his condition as a sinner, the compassion of Christ in seeking him, and the evidence and confirmation of his salvation. The passage is used to press the necessity of a personal decision on a particular day for every individual.",
+    "themes": [
+      "salvation",
+      "personal conversion",
+      "seeking savior",
+      "sin and emptiness",
+      "assurance of heaven",
+      "evangelism"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Scripture Reading and Introduction"
+      },
+      {
+        "t": 138,
+        "heading": "Preacher's Personal Salvation Testimony"
+      },
+      {
+        "t": 323,
+        "heading": "The Condition of Zacchaeus"
+      },
+      {
+        "t": 929,
+        "heading": "The Compassion of Jesus"
+      },
+      {
+        "t": 1758,
+        "heading": "The Conversion of Zacchaeus"
+      },
+      {
+        "t": 2366,
+        "heading": "Confirmation of Conversion in Verse Nine"
+      },
+      {
+        "t": 2646,
+        "heading": "Appeal to Saved and Unsaved"
+      },
+      {
+        "t": 2834,
+        "heading": "Closing Prayer and Invitation"
+      }
+    ]
+  }
+}

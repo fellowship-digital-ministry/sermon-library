@@ -50,5 +50,18 @@
     "end_time": 614.6799879074097,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 1,
+    "reference_text": "2 John",
+    "context": "we've been dealing with this on Wednesday evenings looking through the book of 2 John",
+    "is_implicit": false,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1485.9000244140625,
+    "end_time": 1554.9000244140625,
+    "point_summary": "Because God is love, He gave humanity truth — and 2 John grounds the claim that God's love and His truth are inseparable motivations for revealing Scripture to sinners.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -19004,5 +19004,31 @@
     "end_time": 2330.6600341796875,
     "point_summary": "Salvation by grace through faith alone is humanity's greatest need, and only Jesus — who came to where his disciples were — can meet it.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "reference_text": "Ephesians 2:8-9",
+    "context": "For by grace are you saved through faith, and that not of yourselves is the gift of God, not of works lest any man should boast",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1554.9000244140625,
+    "end_time": 1623.9000244140625,
+    "point_summary": "Salvation cannot be earned by human effort — just as Adam and Eve's self-made coverings were insufficient, so too are good works, because grace through faith is God's gift alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "reference_text": "Ephesians 2:8",
+    "context": "For by grace are you saved through faith, right? Not of yourselves, it tells us it's not of works lest any man should boast.",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 2156.1400146484375,
+    "end_time": 2223.1400146484375,
+    "point_summary": "Zacchaeus's fourfold restitution is identified as evidence of conversion, not its cause, because salvation is by grace through faith and not of works.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

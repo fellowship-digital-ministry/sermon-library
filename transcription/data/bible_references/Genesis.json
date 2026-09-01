@@ -58745,5 +58745,31 @@
     "end_time": 2708.240020751953,
     "point_summary": "God's creative word in Genesis 1:3 — \"Let there be light, and there was light\" — is cited as evidence that the same Lord who spoke creation into existence is the helper who meets every need.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 7,
+    "reference_text": "Genesis 3:7",
+    "context": "their eyes were opened. And you know what they tried to do? They tried to cover their nakedness",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1485.9000244140625,
+    "end_time": 1554.9000244140625,
+    "point_summary": "The self-made coverings of Adam and Eve after the Fall illustrate humanity's futile attempt to address sin through its own works, which salvation by grace alone exposes as wholly insufficient.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 3,
+    "reference_text": "Genesis 6:3",
+    "context": "he preached for 120 years",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 2775.0400390625,
+    "end_time": 2836.1800537109375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

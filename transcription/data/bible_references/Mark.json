@@ -5640,5 +5640,31 @@
     "end_time": 2575.1800231933594,
     "point_summary": "Christ's words \"Be of good cheer; it is I, be not afraid\" (Mark 6:50) are linked to Psalm 46's \"therefore will not we fear,\" grounding fearlessness in the recognition of God as refuge, strength, and present help.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 2,
+    "verse": 1,
+    "reference_text": "Mark chapter number two",
+    "context": "as you look at Mark chapter number two, that there's so many people that they can't even get the man into the door",
+    "is_implicit": false,
+    "video_id": "bLroMQe43GY",
+    "start_time": 388.32000732421875,
+    "end_time": 454.9599914550781,
+    "point_summary": "The crowd at Capernaum was so large no one could enter the door, yet Jesus's attention fixed on one paralyzed individual — illustrating that God's love for the world is always expressed toward specific persons.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Mark 6",
+    "context": "Mark chapter number six, that he saw them",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 1135.260009765625,
+    "end_time": 1200.9000244140625,
+    "point_summary": "Drawing on the previous week's sermon from Mark 6, the willingness to receive Jesus—as the disciples received him into the ship—is presented as the decisive parallel to Zacchaeus's ready response to Christ's invitation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

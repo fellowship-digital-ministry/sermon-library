@@ -11594,5 +11594,18 @@
     "end_time": 2273.260040283203,
     "point_summary": "Drawing on James 4:8's promise that God draws near to those who draw near to Him, the sermon illustrates this truth through Christ physically coming to the disciples in the boat when they could not come to Him.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "doers of the word",
+    "is_implicit": true,
+    "video_id": "bLroMQe43GY",
+    "start_time": 2775.0400390625,
+    "end_time": 2836.1800537109375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

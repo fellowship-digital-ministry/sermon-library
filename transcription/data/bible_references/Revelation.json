@@ -20551,5 +20551,18 @@
     "end_time": 556.9199829101562,
     "point_summary": "The future promise of no more sorrow, death, or tears grounds the present encouragement that God sees his people even now in the midst of their storms.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 20,
+    "verse": 14,
+    "reference_text": "Revelation 20:14-15",
+    "context": "Revelation chapter 20. You can read verses 14 and 15",
+    "is_implicit": false,
+    "video_id": "bLroMQe43GY",
+    "start_time": 2031.9000244140625,
+    "end_time": 2090.9400329589844,
+    "point_summary": "Dying without Christ means facing the great white throne judgment and eternity in the lake of fire, making the timing of one's confession of Jesus as Lord eternally decisive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

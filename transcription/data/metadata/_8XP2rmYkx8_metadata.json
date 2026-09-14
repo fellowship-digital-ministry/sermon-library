@@ -1,0 +1,58 @@
+{
+  "video_id": "_8XP2rmYkx8",
+  "title": "\"In Wrath Remember Mercy\"  Revelation 7:1-17",
+  "publish_date": "20260914",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/_8XP2rmYkx8.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/_8XP2rmYkx8.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_8XP2rmYkx8.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/_8XP2rmYkx8.vtt",
+  "duration": 3008.0,
+  "transcription_timestamp": "2026-09-13T21:05:49.849740",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Revelation 7:1-17 on the two groups presented in the tribulation period interlude between the sixth and seventh seal judgments: the 144,000 sealed servants from the tribes of Israel and the innumerable multitude of Gentile tribulation saints before the throne. Parallel passages in Matthew 24 and Ephesians 1 are drawn in to establish context and correlation.",
+    "themes": [
+      "tribulation period",
+      "144,000 sealed servants",
+      "tribulation saints",
+      "sealing by the holy spirit",
+      "divine mercy amid judgment",
+      "urgency in evangelism"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Passage Overview"
+      },
+      {
+        "t": 137,
+        "heading": "Structure and Outline of Revelation"
+      },
+      {
+        "t": 275,
+        "heading": "Matthew 24 and the Seal Judgments Compared"
+      },
+      {
+        "t": 791,
+        "heading": "The Four Angels and the Pause in Judgment"
+      },
+      {
+        "t": 1075,
+        "heading": "Sealing of Believers, Ephesians 1 Parallel"
+      },
+      {
+        "t": 1403,
+        "heading": "Identity and Listing of the 144,000"
+      },
+      {
+        "t": 1771,
+        "heading": "The Great Multitude of Tribulation Saints"
+      },
+      {
+        "t": 2801,
+        "heading": "Present Urgency for the Church Age"
+      }
+    ]
+  }
+}

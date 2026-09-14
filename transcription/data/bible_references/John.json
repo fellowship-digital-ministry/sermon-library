@@ -37906,5 +37906,44 @@
     "end_time": 2638.580047607422,
     "point_summary": "Christ's cry \"It is finished\" on the cross declares that salvation is entirely complete — nothing left for the sinner to add, only to receive as a free gift.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 1,
+    "verse": 11,
+    "reference_text": "John 1:11-12",
+    "context": "he came to his own, his own received him not, but as many as received him, to them gave he power to become the sons of God, even to them that believe on his name",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 1159.7000122070312,
+    "end_time": 1222.600019454956,
+    "point_summary": "Not all who hear the gospel receive it, but those who do are sealed with the Holy Spirit — a contrast the sermon uses to highlight the privilege of belonging to Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "John 3:16",
+    "context": "Jesus died for the sins of the world",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 1926.4600448608398,
+    "end_time": 1988.4600524902344,
+    "point_summary": "The innumerable, global multitude of Revelation 7 illustrates that Christ's death for \"the sins of the world\" (John 3:16) extends to every nation, kindred, people, and tongue—grounding the church's missionary mandate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 17,
+    "verse": 16,
+    "reference_text": "John 17:16",
+    "context": "we're in the world but we're not of the world",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1746.2400512695312,
+    "end_time": 1808.6000394821167,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

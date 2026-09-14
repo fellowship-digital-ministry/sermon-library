@@ -5666,5 +5666,31 @@
     "end_time": 1200.9000244140625,
     "point_summary": "Drawing on the previous week's sermon from Mark 6, the willingness to receive Jesus—as the disciples received him into the ship—is presented as the decisive parallel to Zacchaeus's ready response to Christ's invitation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 16,
+    "verse": 15,
+    "reference_text": "preach the gospel to every creature",
+    "context": "obedient to the instruction to preach the gospel to every creature",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 1089.6000061035156,
+    "end_time": 1159.7000122070312,
+    "point_summary": "The command to preach the gospel to every creature (Mark 16:15) is the obedience that makes personal salvation possible, as someone must be faithful to proclaim it before anyone can hear and trust Christ.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Mark",
+    "chapter": 8,
+    "verse": null,
+    "reference_text": "Mark 8",
+    "context": "Mark chapter eight",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 2754.320037841797,
+    "end_time": 2821.7000427246094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

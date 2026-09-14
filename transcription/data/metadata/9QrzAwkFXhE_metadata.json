@@ -1,0 +1,50 @@
+{
+  "video_id": "9QrzAwkFXhE",
+  "title": "\"God Giveth More Grace\"  James 4:1-6",
+  "publish_date": "20260913",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/9QrzAwkFXhE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/9QrzAwkFXhE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/9QrzAwkFXhE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/9QrzAwkFXhE.vtt",
+  "duration": 3332.0,
+  "transcription_timestamp": "2026-09-13T21:10:34.696656",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:1-6 on the sources of conflict, worldliness, and carnality among believers, set within a verse-by-verse study of the book of James. The passage is examined under four headings moving from the conduct and conflicts described in verses 1-3, through the indictment of spiritual adultery in verse 4, to the remedy of humility and grace in verses 5-6.",
+    "themes": [
+      "conflict among believers",
+      "worldliness and carnality",
+      "prayer",
+      "humility",
+      "the grace of god",
+      "separation from the world"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Scripture Reading and Introduction"
+      },
+      {
+        "t": 149,
+        "heading": "Grace of God and Series Context"
+      },
+      {
+        "t": 480,
+        "heading": "Disappointing Conduct of Believers"
+      },
+      {
+        "t": 1051,
+        "heading": "Destructive Conflicts Among Believers"
+      },
+      {
+        "t": 1624,
+        "heading": "Devastating Conclusion: Worldliness and Spiritual Adultery"
+      },
+      {
+        "t": 2692,
+        "heading": "The Divine Cure: Humility and Grace"
+      }
+    ]
+  }
+}

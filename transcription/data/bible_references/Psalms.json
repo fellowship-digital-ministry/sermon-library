@@ -35826,5 +35826,44 @@
     "end_time": 1691.9000244140625,
     "point_summary": "Creation itself testifies to God's existence, making atheism a position that requires more faith than belief, given the overwhelming evidence surrounding us.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 100,
+    "verse": 1,
+    "reference_text": "Make a joyful noise unto the Lord",
+    "context": "Make a joyful noise unto the Lord. Amen.",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 2193.9000549316406,
+    "end_time": 2253.6600341796875,
+    "point_summary": "Congregational singing is genuine worship, not a filler, grounded in the command to make a joyful noise to the Lord because He is worthy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 34,
+    "verse": 3,
+    "reference_text": "Psalms 34:3",
+    "context": "let us magnify the Lord",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 2254.5400390625,
+    "end_time": 2315.1000366210938,
+    "point_summary": "Congregational singing is framed not as a worship service filler but as active magnification of God, echoing David's call in Psalm 34:3 to collectively exalt the Lord together.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 99,
+    "verse": 5,
+    "reference_text": "Psalms 99:5",
+    "context": "come, let us worship",
+    "is_implicit": true,
+    "video_id": "_8XP2rmYkx8",
+    "start_time": 2254.5400390625,
+    "end_time": 2315.1000366210938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

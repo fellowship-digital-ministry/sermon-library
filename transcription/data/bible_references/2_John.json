@@ -63,5 +63,18 @@
     "end_time": 1554.9000244140625,
     "point_summary": "Because God is love, He gave humanity truth — and 2 John grounds the claim that God's love and His truth are inseparable motivations for revealing Scripture to sinners.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 6,
+    "reference_text": "2 John 1:6",
+    "context": "we are to walk in love that we're to love one another",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 329.0400085449219,
+    "end_time": 390.6400146484375,
+    "point_summary": "The New Testament's repeated call to walk in love, including in 2 John, sharpens the heartache of James 4's portrait of division and carnality among believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

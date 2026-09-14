@@ -58771,5 +58771,83 @@
     "end_time": 2836.1800537109375,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 7,
+    "reference_text": "Genesis 13:7",
+    "context": "and there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle",
+    "is_implicit": false,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1167.5800170898438,
+    "end_time": 1234.0400352478027,
+    "point_summary": "Strife among Abram's and Lot's herdmen is presented as a warning that internal conflict among God's people is especially grievous because it occurs in full view of unbelieving outsiders—the Canaanite and Perizzite dwelling in the land.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": null,
+    "reference_text": "Genesis 13",
+    "context": "Genesis chapter 13 is talking about individuals and their people that are responsible, Abram and Lot family",
+    "is_implicit": false,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1234.0400352478027,
+    "end_time": 1291.640037536621,
+    "point_summary": "The strife between Abram's and Lot's herdmen, witnessed by the surrounding Canaanites and Perizzites, is applied as a warning that conflict among God's people undermines their witness before a watching, lost world.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 8,
+    "reference_text": "Genesis 13:8",
+    "context": "And Abram said unto Lot, Lotus, let there be no strife I pray",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1291.640037536621,
+    "end_time": 1364.6000366210938,
+    "point_summary": "Abram's appeal to Lot—\"we be brethren\"—is applied as a rebuke to Christian conflict: those who share spiritual kinship have no business being known for fighting and strife.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 8,
+    "reference_text": "Genesis 13:8",
+    "context": "What did Abram say? We are brethren.",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1487.3200378417969,
+    "end_time": 1542.6000366210938,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Genesis",
+    "context": "we see in the book of Genesis and the book of Acts",
+    "is_implicit": false,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1542.6000366210938,
+    "end_time": 1599.2400512695312,
+    "point_summary": "Genesis and Acts together supply concrete examples of strife among brethren—Abram's appeal and Moses' rebuke—that illuminate the conflict James addresses in chapter four.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 24,
+    "reference_text": "Genesis 2:24",
+    "context": "if the two become one, and that's what the Bible says",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 2968.320068359375,
+    "end_time": 3044.400047302246,
+    "point_summary": "Marital unity—\"two become one flesh\"—means that harming one's spouse is self-harm, making pride-driven conflict in marriage uniquely self-destructive.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

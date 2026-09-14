@@ -23853,5 +23853,83 @@
     "end_time": 2704.9000549316406,
     "point_summary": "Salvation received obligates the saved to live not for themselves but for Christ who died for them, making active witness the expected response of those already assured of heaven.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verse": 9,
+    "reference_text": "2 Corinthians 12:9",
+    "context": "my grace is sufficient for thee",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 133.60000610351562,
+    "end_time": 195.0399932861328,
+    "point_summary": "God's grace, cited through Paul's \"my grace is sufficient for thee,\" is presented as the sustaining, enabling grace given day by day beyond saving grace.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "2 Corinthians 5",
+    "context": "2 Corinthians chapter number 5 the fact that we've been given this ministry of reconciliation",
+    "is_implicit": false,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1291.640037536621,
+    "end_time": 1364.6000366210938,
+    "point_summary": "The ministry of reconciliation entrusted to believers (2 Cor. 5) makes intra-church strife a direct contradiction of the gospel message Christians are commissioned to proclaim.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 17,
+    "reference_text": "2 Corinthians 6:17",
+    "context": "come out from among them and be separate saith the Lord",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1746.2400512695312,
+    "end_time": 1808.6000394821167,
+    "point_summary": "Separation from the world is grounded in the identity of God's people as those called out to be distinct, unable to divide loyalty between God and worldly ways.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "if any man be in Christ, he is a new creature. Old things are passed away, behold, all things are become new",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 1877.3600387573242,
+    "end_time": 1945.780044555664,
+    "point_summary": "Regeneration in Christ means believers are genuinely new creatures, so ethnic temperament or old patterns of conflict cannot excuse worldly behavior in the saved.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 17,
+    "reference_text": "2 Corinthians 6:17",
+    "context": "come out from among them and be you separate, sayeth the Lord",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 2210.6600341796875,
+    "end_time": 2269.9000244140625,
+    "point_summary": "Separation from worldly conformity is God's direct command — \"come out from among them and be ye separate\" — making the church's attempt to imitate the world both unbiblical and unnecessary.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 1,
+    "reference_text": "2 Corinthians 6:1-7:1",
+    "context": "2 Corinthians chapter six, you read through the end of the chapter, the beginning of chapter seven",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 2210.6600341796875,
+    "end_time": 2269.9000244140625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

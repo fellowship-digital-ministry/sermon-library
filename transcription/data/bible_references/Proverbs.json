@@ -7642,5 +7642,31 @@
     "end_time": 729.8800048828125,
     "point_summary": "Riches are fleeting by nature—Proverbs 23:5's image of wealth sprouting wings and flying away illustrates why Zacchaeus's possessions and position left him empty and still seeking.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 13,
+    "verse": 15,
+    "reference_text": "Proverbs 13:15",
+    "context": "the way of transgressors is hard according to the book of Proverbs",
+    "is_implicit": true,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 712.8800277709961,
+    "end_time": 773.2000274658203,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 13,
+    "verse": 10,
+    "reference_text": "only by pride cometh contention",
+    "context": "what does the book of Proverbs tell us? It says, only by pride cometh contention",
+    "is_implicit": false,
+    "video_id": "9QrzAwkFXhE",
+    "start_time": 2902.1400451660156,
+    "end_time": 2968.320068359375,
+    "point_summary": "Pride is identified as the sole source of contention, making humility the necessary prerequisite for confession, reconciliation, and healing among those in conflict.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

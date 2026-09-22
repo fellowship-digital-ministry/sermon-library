@@ -61,6 +61,10 @@ git pull --rebase --autostash origin main || { echo "git pull failed; aborting";
 # --- discover new videos via yt-dlp flat-playlist enumeration ---
 # Metadata-only; this path is NOT subject to YouTube's download gating.
 echo ""
+# --- prune transcribed audio: mp3s are inputs only; transcripts are the artifact ---
+# anything older than a day has either been transcribed or will be re-fetched by RSS prefetch
+find "$REPO_ROOT/transcription/data/audio" -maxdepth 1 -type f \( -name "*.mp3" -o -name "*.m4a" -o -name "*.webm" -o -name "*.wav" \) -mtime +1 -delete 2>/dev/null || true
+
 echo "[2/8] discover new videos from YouTube channel"
 python tools/discover_youtube_backlog.py || echo "(discover step had issues, continuing)"
 

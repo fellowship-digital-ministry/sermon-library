@@ -1,0 +1,54 @@
+{
+  "video_id": "Z1UCPWdB4J4",
+  "title": "\"The Biblical Response To Worldliness - Part 2\"  James 4:6-10",
+  "publish_date": "20261007",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Z1UCPWdB4J4.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Z1UCPWdB4J4.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Z1UCPWdB4J4.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Z1UCPWdB4J4.vtt",
+  "duration": 2948.0,
+  "transcription_timestamp": "2026-10-07T21:06:49.049438",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:6-10 on the biblical response to worldliness, presented as the second part of a two-part series and framed as a 'pathway to revival.' The passage is treated as a sequential guide covering examination of actions and thoughts, brokenness over sin, and repentance and restoration.",
+    "themes": [
+      "worldliness",
+      "revival",
+      "self-examination",
+      "brokenness over sin",
+      "repentance and confession",
+      "humility"
+    ],
+    "sections": [
+      {
+        "t": 48,
+        "heading": "Passage Reading and Series Context"
+      },
+      {
+        "t": 191,
+        "heading": "Pathway to Revival Introduced"
+      },
+      {
+        "t": 288,
+        "heading": "Recap of Part One: Submit, Resist, Draw Nigh"
+      },
+      {
+        "t": 480,
+        "heading": "Examination: Cleansing Hands and Purifying Hearts"
+      },
+      {
+        "t": 1209,
+        "heading": "Brokenness: Mourning and Weeping Over Sin"
+      },
+      {
+        "t": 1833,
+        "heading": "Repentance, Confession, and Restoration"
+      },
+      {
+        "t": 2482,
+        "heading": "Keeping Unspotted and the Cost of Revival"
+      }
+    ]
+  }
+}

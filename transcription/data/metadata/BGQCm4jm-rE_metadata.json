@@ -1,0 +1,54 @@
+{
+  "video_id": "BGQCm4jm-rE",
+  "title": "\"Marvel At Jesus\" Matthew 8:23-27",
+  "publish_date": "20261007",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/BGQCm4jm-rE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/BGQCm4jm-rE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BGQCm4jm-rE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/BGQCm4jm-rE.vtt",
+  "duration": 2483.0,
+  "transcription_timestamp": "2026-10-07T21:10:42.833628",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "A study of marveling at Jesus drawn from Matthew 8:23-27, Matthew 9:1-8, and Matthew 9:32-33, examining three miracle accounts in which disciples and multitudes marveled at Christ's power, then turning to the question of whether present-day believers still marvel at who Jesus is and what he does.",
+    "themes": [
+      "marveling at christ",
+      "miracles of jesus",
+      "attributes of god",
+      "worship",
+      "spiritual freshness",
+      "answered prayer"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: The Word Marvel"
+      },
+      {
+        "t": 185,
+        "heading": "Power Over Nature: Storm Calmed"
+      },
+      {
+        "t": 323,
+        "heading": "Power Over Sin: Palsy Healed"
+      },
+      {
+        "t": 598,
+        "heading": "Power Over Devils: Dumb Man Healed"
+      },
+      {
+        "t": 647,
+        "heading": "Attributes of God That Cause Marvel"
+      },
+      {
+        "t": 1158,
+        "heading": "Christ as Intercessor and Advocate"
+      },
+      {
+        "t": 1542,
+        "heading": "When Did You Last Marvel at Jesus"
+      }
+    ]
+  }
+}

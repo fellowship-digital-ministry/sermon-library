@@ -7694,5 +7694,31 @@
     "end_time": 1805.3200097084045,
     "point_summary": "Concealing sin leads to a failure to prosper, while confessing it opens the door to God's mercy and restoration.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 11,
+    "verse": 2,
+    "reference_text": "Proverbs 11:2",
+    "context": "when pride cometh, then cometh shame",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 199.97999572753906,
+    "end_time": 274.6600036621094,
+    "point_summary": "Pride's arrival brings shame in its wake, as Solomon's warning in Proverbs 11:2 illustrates the sermon's broader case that nothing good comes from pride.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 13,
+    "verse": 10,
+    "reference_text": "Proverbs 13:10",
+    "context": "only by pride cometh contention",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 493.760009765625,
+    "end_time": 565.0999755859375,
+    "point_summary": "Pride causes contention among believers, as Proverbs 13:10 is invoked to show that pride adversely affects fellowship within the family of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -21799,5 +21799,18 @@
     "end_time": 1048.8999938964844,
     "point_summary": "God's self-identification as Alpha and Omega grounds his eternality and immutability—attributes that, when genuinely considered, ought to produce marvel and awe in the believer.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 19,
+    "verse": 6,
+    "reference_text": "Revelation 19:6",
+    "context": "The Lord God omnipotent reigneth",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 1043.6400146484375,
+    "end_time": 1112.52001953125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

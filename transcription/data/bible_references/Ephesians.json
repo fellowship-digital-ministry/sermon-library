@@ -19199,5 +19199,31 @@
     "end_time": 1247.2199745178223,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 2,
+    "verse": 5,
+    "reference_text": "Ephesians 2:5",
+    "context": "when you were born again you were revived, you were made alive, you were quickened",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 2100.9400024414062,
+    "end_time": 2167.1799926757812,
+    "point_summary": "Regeneration through new birth is the believer's relief from the flesh's dominion, as being quickened and made alive in Christ means the Christian is no longer operating in the flesh alone.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 3,
+    "verse": 20,
+    "reference_text": "Ephesians 3:20",
+    "context": "He's able to do exceeding abundantly above all that we ask or think",
+    "is_implicit": true,
+    "video_id": "Dhzx0Flx8mE",
+    "start_time": 1779.199951171875,
+    "end_time": 1839.3199882507324,
+    "point_summary": "God's ability to do \"exceeding abundantly above all that we ask or think\" grounds the call to speak the gospel with the same bold confidence the little maid showed in her adverse circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

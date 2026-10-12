@@ -9241,5 +9241,31 @@
     "end_time": 2150.220001220703,
     "point_summary": "Walking in the Spirit is presented as the necessary and ongoing counter to the flesh's persistent lusts, which remain active even after salvation.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 2,
+    "verse": 20,
+    "reference_text": "Galatians 2:20",
+    "context": "I am crucified with Christ. Nevertheless I live, yet not I but Christ liveth in me. In the life that I now live in the flesh I live by the faith of the Son of God who loved me and gave himself for me",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 1922.8600006103516,
+    "end_time": 1980.3800048828125,
+    "point_summary": "Paul's full surrender to God and usefulness in ministry are traced directly to his embrace of the crucified life—\"I am crucified with Christ…yet not I but Christ liveth in me.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Galatians",
+    "chapter": 5,
+    "verse": 16,
+    "reference_text": "Galatians 5:16",
+    "context": "walking in the Spirit so that we would not fulfill the lust of the flesh",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 2038.6199951171875,
+    "end_time": 2099.8200073242188,
+    "point_summary": "Walking in the Spirit (Gal. 5:16) is invoked as the necessary counter to the flesh's evil desires, which Paul in Romans 7 confesses dwell within him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

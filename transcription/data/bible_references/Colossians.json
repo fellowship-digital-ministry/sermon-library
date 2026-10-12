@@ -9033,5 +9033,18 @@
     "end_time": 406.8999938964844,
     "point_summary": "Risen with Christ, believers are called to redirect their affections upward, reinforcing the sermon's call to draw near to God as the antidote to worldliness.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Colossians",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Colossians 3",
+    "context": "we're to mortify our members according to Colossians chapter number three",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 2038.6199951171875,
+    "end_time": 2099.8200073242188,
+    "point_summary": "Colossians 3's command to mortify the members is cited as scriptural grounding for why the flesh, with its evil desires, must be put to death rather than indulged.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

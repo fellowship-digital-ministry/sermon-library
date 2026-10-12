@@ -1,0 +1,58 @@
+{
+  "video_id": "5WkuygO7LrM",
+  "title": "\"Humble Yourselves\"  James 4:10",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/5WkuygO7LrM.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/5WkuygO7LrM.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5WkuygO7LrM.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/5WkuygO7LrM.vtt",
+  "duration": 3073.0,
+  "transcription_timestamp": "2026-10-11T21:10:13.598405",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:10 on humility and pride as part of a series on revival, examining how a proper view of God and a proper view of self are necessary to identify and root out pride. Biblical case studies from Isaiah, John the Baptist, Paul, and Nebuchadnezzar illustrate the consequences of pride and the marks of genuine humility.",
+    "themes": [
+      "pride and humility",
+      "proper view of god",
+      "proper view of self",
+      "revival",
+      "self-examination",
+      "biblical case studies"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Text Introduction"
+      },
+      {
+        "t": 186,
+        "heading": "Pride in Scripture and History"
+      },
+      {
+        "t": 472,
+        "heading": "Pride Identified in One's Own Life"
+      },
+      {
+        "t": 799,
+        "heading": "A Proper View of God"
+      },
+      {
+        "t": 1589,
+        "heading": "A Proper View of Self"
+      },
+      {
+        "t": 1823,
+        "heading": "Paul as Example of Humility"
+      },
+      {
+        "t": 2534,
+        "heading": "Christ as the Supreme Example"
+      },
+      {
+        "t": 2820,
+        "heading": "Nebuchadnezzar and God's Ability to Abase"
+      }
+    ]
+  }
+}

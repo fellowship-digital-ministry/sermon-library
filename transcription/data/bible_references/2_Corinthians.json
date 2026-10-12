@@ -24022,5 +24022,57 @@
     "end_time": 2356.2200317382812,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "if any man be in Christ he's a new creature. Old things are passed away. Behold all things are become new",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 1852.46000289917,
+    "end_time": 1920.3800048828125,
+    "point_summary": "Paul's conversion and new-creature status in Christ (2 Cor. 5:17) are cited as the turning point that gave him a proper view of God and self, which became the foundation for his humility and usefulness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "2 Corinthians 5",
+    "context": "to be absent from the bodies, to be present with the Lord",
+    "is_implicit": false,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 1980.3800048828125,
+    "end_time": 2038.6199951171875,
+    "point_summary": "Paul's confident knowledge of future resurrection (\"absent from the body, present with the Lord\") is cited as one example of the assured, Spirit-given knowledge believers possess, before the sermon pivots to a contrasting use of \"know\" in Romans 7:18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "if any man be in Christ, he's a new creature",
+    "is_implicit": true,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 2405.4200048446655,
+    "end_time": 2462.5400047302246,
+    "point_summary": "Regeneration through Christ frees a believer from being defined by past sin, as Paul's declaration \"I am what I am by the grace of God\" illustrates that identity is now grounded in what God has made him, not what he was.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "2 Corinthians 5:8",
+    "context": "to be absent from the body is to be present with the Lord",
+    "is_implicit": true,
+    "video_id": "Dhzx0Flx8mE",
+    "start_time": 1779.199951171875,
+    "end_time": 1839.3199882507324,
+    "point_summary": "Paul's confidence in 2 Corinthians 5:8 — that to be absent from the body is to be present with the Lord — is cited as the scriptural ground for speaking the gospel with certainty rather than doubt.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

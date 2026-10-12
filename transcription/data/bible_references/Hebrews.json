@@ -26232,5 +26232,18 @@
     "end_time": 1247.2199745178223,
     "point_summary": "Christ's perpetual intercession for believers, referenced through Hebrews 7:25's \"he ever liveth to make intercession,\" is cited as grounds for marveling that he is both available and actively praying for his own.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 7,
+    "verse": 25,
+    "reference_text": "Hebrews 7:25",
+    "context": "Our God is able to save to the uttermost",
+    "is_implicit": true,
+    "video_id": "Dhzx0Flx8mE",
+    "start_time": 1660.3599853515625,
+    "end_time": 1721.0399780273438,
+    "point_summary": "The little maid's confidence in Elisha's power to heal becomes a call to equal confidence in Christ, grounded in His ability to save to the uttermost any sinner.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -14779,5 +14779,18 @@
     "end_time": 1393.6599731445312,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 5,
+    "verse": 13,
+    "reference_text": "1 John 5:13",
+    "context": "These things have I written unto you that believe in the name of the Son of God that ye may know that ye have eternal life",
+    "is_implicit": false,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 1980.3800048828125,
+    "end_time": 2038.6199951171875,
+    "point_summary": "The assurance of salvation expressed in 1 John 5:13 — that believers may *know* they have eternal life — is cited as the proper use of the word \"know,\" before contrasting it with Paul's self-knowledge of his own fleshly corruption in Romans 7:18.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

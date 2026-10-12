@@ -1,0 +1,58 @@
+{
+  "video_id": "Dhzx0Flx8mE",
+  "title": "\"A Little Maid Who Made A Big Difference\" II Kings 5:1-4",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/Dhzx0Flx8mE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/Dhzx0Flx8mE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Dhzx0Flx8mE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/Dhzx0Flx8mE.vtt",
+  "duration": 2719.0,
+  "transcription_timestamp": "2026-10-11T21:05:52.129020",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Kings 5:1-4 on the unnamed Israelite captive whose compassion, courage, and confidence in the prophet Elisha set in motion Naaman's healing and spiritual declaration. The account is read alongside Philippians 1:12, Joshua 1:7-9, and Acts 4:23-31 to examine how adverse circumstances can become occasions for gospel witness.",
+    "themes": [
+      "adverse circumstances",
+      "compassion",
+      "courage and boldness",
+      "confidence in god",
+      "making a difference",
+      "gospel witness"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Text Reading"
+      },
+      {
+        "t": 93,
+        "heading": "People Who Made a Difference"
+      },
+      {
+        "t": 283,
+        "heading": "The Maid's Circumstances"
+      },
+      {
+        "t": 575,
+        "heading": "Circumstances and the Furtherance of the Gospel"
+      },
+      {
+        "t": 851,
+        "heading": "The Maid's Compassion"
+      },
+      {
+        "t": 1041,
+        "heading": "The Maid's Courage and Boldness"
+      },
+      {
+        "t": 1516,
+        "heading": "The Maid's Confidence in Elisha"
+      },
+      {
+        "t": 1845,
+        "heading": "The Impact of Her Confidence on Naaman"
+      }
+    ]
+  }
+}

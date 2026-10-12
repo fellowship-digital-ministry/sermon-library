@@ -19862,5 +19862,31 @@
     "end_time": 1544.3399658203125,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 16,
+    "verse": null,
+    "reference_text": "Matthew 16",
+    "context": "as I went to Matthew 16, and I said, the most important question is who is Jesus?",
+    "is_implicit": false,
+    "video_id": "5WkuygO7LrM",
+    "start_time": 839.4199981689453,
+    "end_time": 908.9400024414062,
+    "point_summary": "A proper view of God—specifically the identity of Jesus as God rather than merely a great teacher—is essential to genuine humility, since humbling oneself must be done \"in the sight of the Lord.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 14,
+    "verse": 14,
+    "reference_text": "Matthew 14:14",
+    "context": "he was moved with compassion",
+    "is_implicit": true,
+    "video_id": "Dhzx0Flx8mE",
+    "start_time": 941.3599853515625,
+    "end_time": 1010.0199890136719,
+    "point_summary": "Compassion that moves one to act—even toward an adversary—mirrors Christ himself, who, as the sermon notes, \"was moved with compassion.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

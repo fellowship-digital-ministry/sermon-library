@@ -22800,5 +22800,31 @@
     "end_time": 2719.1399841308594,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "reference_text": "Romans 1:16",
+    "context": "the Bible says I am not ashamed of the Gospel of Christ. For it is the power of God unto salvation to everyone that believe it, to the Jew first and also to the Greek",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2053.560043334961,
+    "end_time": 2119.6800537109375,
+    "point_summary": "The divine mandate to proclaim the Gospel—not in shame or silence before a culture that marginalizes righteous voices—is grounded in Paul's declaration that the Gospel is the power of God unto salvation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 0,
+    "verse": 0,
+    "reference_text": "Romans (law of death and law of life)",
+    "context": "if we think about the book of Romans and we think about the truth of the law of death but then the law of life",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2119.6800537109375,
+    "end_time": 2187.800048828125,
+    "point_summary": "The Gospel of Christ carries God's own power for salvation, leaving no grounds for shame or silence in a culture that pressures believers to suppress biblical truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

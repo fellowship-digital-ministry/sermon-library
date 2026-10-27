@@ -24074,5 +24074,31 @@
     "end_time": 1839.3199882507324,
     "point_summary": "Paul's confidence in 2 Corinthians 5:8 — that to be absent from the body is to be present with the Lord — is cited as the scriptural ground for speaking the gospel with certainty rather than doubt.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 21,
+    "reference_text": "Second Corinthians 5:21",
+    "context": "he hath made him to be sin who knew no sin, that we might be made the righteousness of God in him",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 267.0,
+    "end_time": 336.3999938964844,
+    "point_summary": "The \"righteous\" of Psalm 11 refers not to personal merit but to the imputed righteousness of Christ—his sinless life credited to the believer's account through faith in his finished work.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "To be absent from the body is to be present with the Lord",
+    "context": "To be absent from the body is to be present with the Lord",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2187.800048828125,
+    "end_time": 2259.4000244140625,
+    "point_summary": "Bodily absence from the Lord is temporary, with the believer's present earthly existence held in tension against the certain future hope of being present with Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

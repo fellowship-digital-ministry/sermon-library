@@ -12933,5 +12933,31 @@
     "end_time": 2938.2999877929688,
     "point_summary": "Humbling oneself before God is an urgent, individual act—far preferable to being forcibly abased by God, as Nebuchadnezzar's experience in Daniel 4 illustrates.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 5,
+    "verse": 16,
+    "reference_text": "James 5:16",
+    "context": "The effectual fervent prayer of a righteous man availeth much. In James 5 and verse 16.",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 792.3000183105469,
+    "end_time": 863.1800231933594,
+    "point_summary": "Effectual, fervent prayer is presented as the first and foundational duty of the righteous, grounded in James 5:16's promise that such prayer from a righteous person accomplishes much.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "James",
+    "context": "going through the book of James",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1195.260009765625,
+    "end_time": 1261.5800399780273,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

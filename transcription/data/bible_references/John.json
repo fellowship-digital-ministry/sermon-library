@@ -38504,5 +38504,44 @@
     "end_time": 1721.0399780273438,
     "point_summary": "God's unlimited saving power—illustrated by the little maid's confidence in Elisha—is grounded in the truth that God so loved the world and no sinner lies beyond Christ's ability to save.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 1,
+    "reference_text": "John 14:1",
+    "context": "Jesus said, let not your heart be troubled. You believe in God, believe also in Me.",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1852.5800399780273,
+    "end_time": 1911.3600387573242,
+    "point_summary": "Christ's promised return — \"I will come again\" — is cited as the certain, unshakeable hope that sustains the righteous when earthly foundations crumble and circumstances grow increasingly dark.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 2,
+    "reference_text": "John 14:2",
+    "context": "In My Father's house are many mansions. If it were not so, I would have told you.",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1852.5800399780273,
+    "end_time": 1911.3600387573242,
+    "point_summary": "Christ's promised return and his prepared dwelling place anchor the righteous in hope amid worsening circumstances, grounding present praise in the certainty of his coming again.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 8,
+    "verse": 32,
+    "reference_text": "John 8:32",
+    "context": "The truth shall make you free",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2333.7200317382812,
+    "end_time": 2413.960012435913,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

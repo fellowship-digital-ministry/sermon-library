@@ -3170,5 +3170,31 @@
     "end_time": 2866.9400024414062,
     "point_summary": "Nebuchadnezzar's firsthand experience of divine abasement illustrates that God is able to humble the proud, making voluntary self-humbling far preferable to being humbled by God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Daniel 4:17",
+    "context": "Daniel chapter four and verse 17",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1122.2999877929688,
+    "end_time": 1195.260009765625,
+    "point_summary": "Daniel 4:17 is cited to establish that the Most High rules in the kingdoms of men, meaning that however proud earthly rulers may be, God remains sovereign over all human authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 17,
+    "reference_text": "Daniel 4:17",
+    "context": "Daniel four and verse 17. The Bible says this matter is by the decree of the watchers and the demand of the word of the holy ones to the intent that the living may know that the most high ruleth in the kingdom of men and giveth it to whomsoever he will and set up over it the beast of men",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1122.2999877929688,
+    "end_time": 1195.260009765625,
+    "point_summary": "Daniel 4:17 is cited to establish that the Most High rules in the kingdoms of men, meaning that however proud earthly rulers may be, God remains sovereign over all human authority.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

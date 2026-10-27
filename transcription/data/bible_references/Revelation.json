@@ -21812,5 +21812,31 @@
     "end_time": 1112.52001953125,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 19,
+    "verse": 6,
+    "reference_text": "Revelation",
+    "context": "And the Bible tells us the book of Revelation that the Lord God omnipotent reigneth.",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 196.27999877929688,
+    "end_time": 267.0,
+    "point_summary": "God's omnipotent reign—cited from Revelation 19:6—grounds the assurance that even when foundations crumble, the Lord remains on His throne and in control.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "Revelation 1:8",
+    "context": "He's Alpha and Omega",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1983.0800323486328,
+    "end_time": 2053.560043334961,
+    "point_summary": "God's unchanging nature — He is Alpha and Omega, the same yesterday, today, and forever — grounds the righteous in confident praise amid cultural upheaval.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

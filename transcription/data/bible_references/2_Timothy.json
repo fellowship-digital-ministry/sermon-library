@@ -12699,5 +12699,44 @@
     "end_time": 493.760009765625,
     "point_summary": "Paul's list in 2 Timothy 3:2 — self-love, boasting, and pride — is presented as prophetic evidence that pride is a defining characteristic of the last days.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 1,
+    "reference_text": "2 Timothy 3:1",
+    "context": "in the last days there shall be perilous times",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 668.6200180053711,
+    "end_time": 731.1800079345703,
+    "point_summary": "Paul's description of perilous last days in 2 Timothy 3:1–9 is cited as the present cultural reality, with the sermon's answer drawn from verse 14's command to \"continue\" rather than flee.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 14,
+    "reference_text": "2 Timothy 3:14",
+    "context": "but continue. Continue thou in the things which thou hast learned and has been assured of, knowing of whom thou hast learned them",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 668.6200180053711,
+    "end_time": 731.1800079345703,
+    "point_summary": "Against the cultural pressure to flee or despair, Paul's command to Timothy — \"continue\" — stands as the biblical answer to what the righteous can do in perilous times.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 13,
+    "reference_text": "2 Timothy 3:13",
+    "context": "evil men and seducers shall wax worse and worse, deceiving and being deceived",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1852.5800399780273,
+    "end_time": 1911.3600387573242,
+    "point_summary": "Evil men and seducers waxing worse and worse—deceiving and being deceived—is presented as the biblical explanation for the moral and social confusion visibly spreading through society today.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

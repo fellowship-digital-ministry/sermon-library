@@ -10099,5 +10099,31 @@
     "end_time": 2619.4199829101562,
     "point_summary": "Surrendered believers are called to adopt Paul's perspective that unwanted or difficult circumstances are permitted by God specifically to advance the gospel and create unexpected ministry opportunities.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 2,
+    "verse": 9,
+    "reference_text": "Philippians 2:9",
+    "context": "He's given a name which is above every name",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1520.3400268554688,
+    "end_time": 1590.7600402832031,
+    "point_summary": "God has given Jesus a name above every name, making Him uniquely worthy of the continual, joyful praise that sustains believers even through trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 2,
+    "verse": 10,
+    "reference_text": "Philippians 2:10",
+    "context": "Every tongue's going to confess, every knee is going to bow that Jesus Christ is Lord to the glory of the Father",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1520.3400268554688,
+    "end_time": 1590.7600402832031,
+    "point_summary": "Every knee bowing and every tongue confessing that Jesus Christ is Lord grounds the call to praise His name now, on earth, while we have opportunity.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -12543,5 +12543,31 @@
     "end_time": 2938.2999877929688,
     "point_summary": "Nebuchadnezzar's humbling by God serves as a warning that it is far better to voluntarily be clothed with humility, as 1 Peter 5:5 commands, than to be abased by God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": 5,
+    "reference_text": "1 Peter 5:5",
+    "context": "he resisted the proud, but giveth grace into the humble, humble yourselves",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1122.2999877929688,
+    "end_time": 1195.260009765625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": 6,
+    "reference_text": "1 Peter 1:6",
+    "context": "if need be for a season, you're in manifold temptations",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1520.3400268554688,
+    "end_time": 1590.7600402832031,
+    "point_summary": "Even in manifold trials and seasons of difficulty, rejoicing remains the commanded response because God is purposefully at work teaching, showing, and using the believer through that suffering.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

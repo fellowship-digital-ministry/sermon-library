@@ -26245,5 +26245,31 @@
     "end_time": 1721.0399780273438,
     "point_summary": "The little maid's confidence in Elisha's power to heal becomes a call to equal confidence in Christ, grounded in His ability to save to the uttermost any sinner.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 15,
+    "reference_text": "Hebrews 13:15",
+    "context": "by Him, therefore, let us offer the sacrifice of praise to God continually. That is the fruit of our lips, giving thanks to His name.",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1590.7600402832031,
+    "end_time": 1655.0800476074219,
+    "point_summary": "Hebrews 13:15's command to offer \"the sacrifice of praise continually\" is pressed as a rebuke to the ease of complaining, calling believers to unceasing thanksgiving rather than murmuring through trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 8,
+    "reference_text": "Hebrews 13:8",
+    "context": "God is the same yesterday, today and forever",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 1983.0800323486328,
+    "end_time": 2053.560043334961,
+    "point_summary": "God's unchanging nature — \"the same yesterday, today and forever\" — is the stated reason the righteous can keep praising even as the world around them shifts dramatically.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

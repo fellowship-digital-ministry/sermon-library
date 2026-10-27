@@ -19225,5 +19225,57 @@
     "end_time": 1839.3199882507324,
     "point_summary": "God's ability to do \"exceeding abundantly above all that we ask or think\" grounds the call to speak the gospel with the same bold confidence the little maid showed in her adverse circumstances.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 12,
+    "reference_text": "Ephesians 6:12",
+    "context": "we wrestle not against flesh and blood but against spiritual wickedness in high places",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 529.8599853515625,
+    "end_time": 594.739990234375,
+    "point_summary": "Amid cultural and political chaos, the real conflict is spiritual warfare — a wrestling not against flesh and blood but against spiritual wickedness in high places, meaning believers must identify the battle correctly to engage it rightly.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 3,
+    "verse": 20,
+    "reference_text": "Ephesians 3:20",
+    "context": "able to do exceeding abundantly above all that we ask or think",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 792.3000183105469,
+    "end_time": 863.1800231933594,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": null,
+    "reference_text": "Ephesians 4",
+    "context": "they followed the principle of Ephesians chapter number four",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2682.4000244140625,
+    "end_time": 2743.8400268554688,
+    "point_summary": "Ephesians 4's principle that leaders equip the saints for the work of ministry is shown to have been operative in Acts 8, where scattered laypeople—not the apostles—went everywhere preaching the word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Ephesians 4:12",
+    "context": "equipping the saints for the work of the ministry",
+    "is_implicit": true,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 2743.8400268554688,
+    "end_time": 2807.8800048828125,
+    "point_summary": "Equipping the saints for the work of ministry (Eph. 4:12) is the church's purpose, so that every believer—not just leadership—can proclaim the gospel wherever they are scattered.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

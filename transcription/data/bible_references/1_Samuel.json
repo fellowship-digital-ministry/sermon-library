@@ -5107,5 +5107,31 @@
     "end_time": 274.6600036621094,
     "point_summary": "Saul's trajectory from being \"little in his own sight\" to self-exaltation illustrates how pride leads to disobedience, shame, and ultimately divine rejection.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": null,
+    "reference_text": "1 Samuel 18, 19",
+    "context": "most likely it's somewhere around 1 Samuel 18, 19, somewhere in that portion of David's life",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 0.0,
+    "end_time": 64.44000244140625,
+    "point_summary": "Psalm 11 is set against the backdrop of 1 Samuel 18–19, when Saul's murderous jealousy toward David provides the life circumstances from which David's declaration of trust in the Lord emerges.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": null,
+    "reference_text": "1 Samuel 17",
+    "context": "1 Samuel 17 is when God used David to defeat Goliath",
+    "is_implicit": false,
+    "video_id": "KYuUFAMK1Vk",
+    "start_time": 0.0,
+    "end_time": 64.44000244140625,
+    "point_summary": "The victory over Goliath in 1 Samuel 17 is identified as the historical backdrop that triggered Saul's jealousy and the persecution that likely gave rise to Psalm 11.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

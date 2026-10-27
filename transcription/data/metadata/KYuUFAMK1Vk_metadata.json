@@ -1,0 +1,54 @@
+{
+  "video_id": "KYuUFAMK1Vk",
+  "title": "\"What Can The Righteous Do\"  Psalm 11:3",
+  "publish_date": "20261026",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/KYuUFAMK1Vk.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/KYuUFAMK1Vk.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/KYuUFAMK1Vk.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/KYuUFAMK1Vk.vtt",
+  "duration": 2948.0,
+  "transcription_timestamp": "2026-10-26T21:06:13.747806",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Psalm 11:3 on the responsibilities of the righteous amid cultural and spiritual decline, set against the background of David's flight from Saul and applied to contemporary American political and social conditions.",
+    "themes": [
+      "prayer",
+      "praise",
+      "proclamation",
+      "spiritual warfare",
+      "god's sovereignty",
+      "the great commission"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Psalm 11 Read and Contextualized"
+      },
+      {
+        "t": 277,
+        "heading": "The Question: What Can the Righteous Do"
+      },
+      {
+        "t": 510,
+        "heading": "Current Events as Spiritual Battle"
+      },
+      {
+        "t": 839,
+        "heading": "First Answer: The Righteous Must Pray"
+      },
+      {
+        "t": 1354,
+        "heading": "Second Answer: The Righteous Must Praise"
+      },
+      {
+        "t": 2036,
+        "heading": "Third Answer: The Righteous Must Proclaim"
+      },
+      {
+        "t": 2429,
+        "heading": "Acts 8 and the Scattered Church"
+      }
+    ]
+  }
+}

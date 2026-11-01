@@ -148,7 +148,17 @@ if git diff --staged --quiet; then
 else
   git commit -m "Local ingest: $TODAY [skip ci]" \
              --author="Fellowship Ingest Bot <fellowship-ingest@local>"
-  git push origin main || echo "git push failed — will retry next run"
+fi
+
+# Set when a push could not be completed; makes the run exit non-zero so the
+# failure shows up in systemd instead of only in the log.
+LIBRARY_PUSH_FAILED=0
+PAGES_PUSH_FAILED=0
+
+# Push whenever we are ahead, not just after a new commit, so a failed push is
+# retried on the next run even if that run has nothing new to commit.
+if [[ "$(git rev-list --count origin/main..HEAD)" -gt 0 ]]; then
+  git push origin main || { echo "ERROR: sermon-library push failed"; LIBRARY_PUSH_FAILED=1; }
 fi
 
 # --- rebuild + publish the static sermon catalog to the Pages repo ---
@@ -158,7 +168,35 @@ fi
 echo ""
 echo "[+] rebuild + push sermon catalog (Pages repo)"
 PAGES_REPO="${PAGES_REPO:-$REPO_ROOT/../fellowship-digital-ministry.github.io}"
+
+# The Pages repo's fetch_bible_data Action also commits to main, so this checkout
+# must integrate origin/main before it can push. Everything this script commits
+# there is generated data, so if both sides changed the same file during the
+# rebase we keep our copy (-X theirs: in a rebase, "theirs" is the local commit).
+pages_sync() {
+  git -C "$PAGES_REPO" pull --rebase --autostash -X theirs origin main && return 0
+  git -C "$PAGES_REPO" rebase --abort 2>/dev/null || true
+  echo "ERROR: could not sync Pages repo with origin/main"
+  PAGES_PUSH_FAILED=1
+  return 1
+}
+
+# Push if ahead of origin/main. A rejected push means the Action committed since
+# our last sync, so sync and retry once.
+pages_publish() {
+  [[ "$(git -C "$PAGES_REPO" rev-list --count origin/main..HEAD)" -gt 0 ]] || return 0
+  if git -C "$PAGES_REPO" push origin main \
+     || { echo "Pages push rejected; syncing and retrying"; pages_sync && git -C "$PAGES_REPO" push origin main; }; then
+    PAGES_PUSH_FAILED=0
+    return 0
+  fi
+  echo "ERROR: Pages repo push failed"
+  PAGES_PUSH_FAILED=1
+  return 1
+}
+
 if [[ -d "$PAGES_REPO/.git" ]]; then
+  pages_sync || true
   python tools/build_sermon_catalog.py --out "$PAGES_REPO/assets/data/sermons_catalog.json" || true
   git -C "$PAGES_REPO" add assets/data/sermons_catalog.json 2>/dev/null || true
   if git -C "$PAGES_REPO" diff --staged --quiet; then
@@ -166,8 +204,9 @@ if [[ -d "$PAGES_REPO/.git" ]]; then
   else
     git -C "$PAGES_REPO" commit -m "Update sermon catalog: $TODAY [skip ci]" \
           --author="Fellowship Ingest Bot <fellowship-ingest@local>" \
-      && git -C "$PAGES_REPO" push origin main || echo "catalog push failed — will retry next run"
+      || echo "ERROR: catalog commit failed"
   fi
+  pages_publish || true
 
   # --- refresh the static Bible-reference data the public Bible page reads ---
   # The Bible References page (reference-viewer) reads assets/data/bible/*.json,
@@ -187,11 +226,17 @@ if [[ -d "$PAGES_REPO/.git" ]]; then
   else
     git -C "$PAGES_REPO" commit -m "Update Bible reference data: $TODAY [skip ci]" \
           --author="Fellowship Ingest Bot <fellowship-ingest@local>" \
-      && git -C "$PAGES_REPO" push origin main || echo "bible data push failed — will retry next run"
+      || echo "ERROR: bible data commit failed"
   fi
+  pages_publish || true
 else
   echo "Pages repo not found at $PAGES_REPO; skipping catalog rebuild."
 fi
 
 echo ""
 echo "Run complete at $(date -Iseconds)"
+
+if [[ "$LIBRARY_PUSH_FAILED" -ne 0 || "$PAGES_PUSH_FAILED" -ne 0 ]]; then
+  echo "ERROR: run finished with unpublished changes (sermon-library failed=$LIBRARY_PUSH_FAILED, pages failed=$PAGES_PUSH_FAILED)"
+  exit 3
+fi

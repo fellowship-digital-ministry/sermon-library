@@ -252,12 +252,13 @@ def process_videos(csv_path=config.VIDEO_LIST_PATH, force_download=False, proces
             # Step 2: Transcribe audio
             logger.info(f"Transcribing audio for {video_id}")
             transcript = transcribe_audio(audio_file)
-            
-            if not transcript:
+
+            if not transcript or not transcript.get("text", "").strip():
+                logger.error(f"Transcription produced no text for {video_id}; marking failed")
                 update_video_status(csv_path, video_id, "failed")
                 results["failures"] += 1
                 continue
-            
+
             # Step 3: Save transcript
             transcript_file = save_transcript(video_id, transcript, config.TRANSCRIPT_DIR)
             results["transcripts_created"] += 1

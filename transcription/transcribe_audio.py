@@ -51,19 +51,18 @@ def transcribe_audio(audio_file, model=config.WHISPER_MODEL, language=config.WHI
             logger.info(f"Transcribing chunk {i+1}/{len(chunk_files)}")
             chunk_transcript = transcribe_chunk(chunk_file, model, language)
             
-            if chunk_transcript:
-                transcripts.append(chunk_transcript)
-            else:
-                logger.error(f"Failed to transcribe chunk {i+1}")
-        
+            # A transcript missing a chunk would silently drop part of the sermon,
+            # so fail the whole file and let the next run retry it.
+            if chunk_transcript is None:
+                logger.error(f"Failed to transcribe chunk {i+1}; not saving a partial transcript")
+                return None
+
+            transcripts.append(chunk_transcript)
+
         # Merge transcripts
-        if transcripts:
-            full_transcript = merge_transcripts(transcripts)
-            logger.info(f"Successfully transcribed all chunks ({len(full_transcript)} characters)")
-            return full_transcript
-        else:
-            logger.error("No chunks were successfully transcribed")
-            return None
+        full_transcript = merge_transcripts(transcripts)
+        logger.info(f"Successfully transcribed all chunks ({len(full_transcript)} characters)")
+        return full_transcript
     else:
         # File is small enough, transcribe directly
         return transcribe_chunk(audio_file, model, language)
@@ -125,8 +124,7 @@ def transcribe_chunk(audio_file, model, language):
         return transcript
     except Exception as e:
         logger.error(f"Failed to transcribe {audio_file}: {str(e)}")
-        # Return a valid but empty transcript structure
-        return {"text": "", "segments": []}
+        return None
 
 def transcribe_batch(audio_files, output_dir=config.TRANSCRIPT_DIR, metadata_dir=config.METADATA_DIR):
     """

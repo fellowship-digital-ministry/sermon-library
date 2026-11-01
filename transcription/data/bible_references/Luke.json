@@ -11555,5 +11555,44 @@
     "end_time": 1788.6000366210938,
     "point_summary": "When circumstances overwhelm, the righteous must not fall silent — for even the rocks stand ready to cry out in praise if God's people refuse their calling.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Luke",
+    "chapter": 4,
+    "verse": 1,
+    "reference_text": "Luke 4:1-13",
+    "context": "You can read it in Matthew, you can read it in Luke",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1574.0400085449219,
+    "end_time": 1634.3200073242188,
+    "point_summary": "Jesus's repeated use of \"it is written\" during the wilderness temptation illustrates that Scripture—applied specifically to each temptation—is the believer's essential weapon for resisting the devil.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Luke",
+    "chapter": 24,
+    "verse": null,
+    "reference_text": "Luke 24",
+    "context": "the disciples on the road to Emmaus, they're in Luke 24",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1954.280014038086,
+    "end_time": 2020.8200073242188,
+    "point_summary": "The Road to Emmaus illustrates that genuine nearness to God means walking at his pace, staying close enough that the heart burns as he opens the Scriptures along the way.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Luke",
+    "chapter": 24,
+    "verse": 32,
+    "reference_text": "Luke 24:32",
+    "context": "And they said, did not our heart burn within us when he spoke with us along the way?",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2021.8200073242188,
+    "end_time": 2096.4200134277344,
+    "point_summary": "The disciples' burning hearts on the Emmaus road illustrate that genuine abiding with Christ means walking at his pace, in his presence, with scripture opening the way.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

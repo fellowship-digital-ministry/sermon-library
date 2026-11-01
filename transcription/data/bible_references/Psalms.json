@@ -36346,5 +36346,44 @@
     "end_time": 2875.9600219726562,
     "point_summary": "When foundations are destroyed, the righteous are called to respond with prayer, praise, and proclamation—actively doing what God has equipped them to do.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 73,
+    "verse": 28,
+    "reference_text": "Psalm 73:28",
+    "context": "the psalmist articulates it here in this portion of scripture when we think about this principle of draw nigh to God",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1820.8000106811523,
+    "end_time": 1882.380012512207,
+    "point_summary": "Nearness to God is presented as a deliberate, personal good — the psalmist's own declaration that drawing near is beneficial frames the James 4 command to \"draw nigh to God\" as a principle to be actively followed, not passively received.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Psalms",
+    "context": "The psalmist says it is good for me to draw near to God",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2096.4200134277344,
+    "end_time": 2154.6600036621094,
+    "point_summary": "Drawing near to God is presented as a matter of personal experience and honest self-awareness, grounded in the psalmist's testimony that nearness to God is genuinely good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 73,
+    "verse": 28,
+    "reference_text": "it is good for me to draw nigh to God",
+    "context": "the psalmist says it is good for me to draw nigh to God",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2216.980010986328,
+    "end_time": 2277.7000122070312,
+    "point_summary": "Drawing near to God is not a one-sided effort; the promise embedded in James 4:8 is that God reciprocates—he will draw near to you—a truth the psalmist of Psalm 73:28 confirmed from lived experience of drift and return.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -6589,5 +6589,44 @@
     "end_time": 126.36000061035156,
     "point_summary": "Psalm 11:1 opens the sermon by establishing David's declaration of trust in God as the foundational answer to every counsel urging flight from trouble.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 73,
+    "verse": 28,
+    "reference_text": "Psalm 73:28",
+    "context": "in Psalm 73 and verse 28, notice how he says it, but it is good for me to draw near to God",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1882.380012512207,
+    "end_time": 1954.280014038086,
+    "point_summary": "Drawing near to God is presented as the positive counterpart to resisting the devil—a deliberate, joyful cleaving to his presence that worldliness by definition forecloses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 16,
+    "verse": 11,
+    "reference_text": "Psalm 16:11",
+    "context": "Psalm 1611, in his presence is fullness of joy",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1882.380012512207,
+    "end_time": 1954.280014038086,
+    "point_summary": "Fullness of joy found in God's presence (Ps. 16:11) is cited as the motivating delight—not drudgery—that draws the believer near to God in the act of \"drawing nigh.\"",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 46,
+    "verse": 10,
+    "reference_text": "Psalm 46:10",
+    "context": "You know that verse that's hard for us in Psalm 46 and verse 10? Be still and know that I am God.",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2021.8200073242188,
+    "end_time": 2096.4200134277344,
+    "point_summary": "Stillness before God — \"Be still and know that I am God\" — is presented as the posture of abiding, slowing to walk in step with him rather than racing ahead or lagging behind.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

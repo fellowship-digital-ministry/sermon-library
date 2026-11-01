@@ -58875,5 +58875,31 @@
     "end_time": 1983.0800323486328,
     "point_summary": "God's creation of humanity as male and female is invoked as the plain, unchanging biblical standard against which contemporary claims of multiple genders are measured as deception.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 1,
+    "reference_text": "Genesis 3:1",
+    "context": "he's more subtle than any beast of the field",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1246.0599975585938,
+    "end_time": 1312.0799942016602,
+    "point_summary": "Genesis 3:1's description of the serpent as more subtle than any beast of the field is cited to illuminate the meaning of \"wiles\" in Ephesians 6:11—the devil's mode is deceit and trickery, not open confrontation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 1,
+    "reference_text": "Genesis 3:1",
+    "context": "when the serpent came in, he's more subtle than any beast of the field",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1312.0799942016602,
+    "end_time": 1374.520004272461,
+    "point_summary": "Genesis 3:1's description of the serpent as \"more subtle than any beast of the field\" is linked to Paul's word \"wiles\" in Ephesians 6:11, establishing that the devil's chief weapon is crafty deception rather than open confrontation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

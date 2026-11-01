@@ -21838,5 +21838,31 @@
     "end_time": 2053.560043334961,
     "point_summary": "God's unchanging nature — He is Alpha and Omega, the same yesterday, today, and forever — grounds the righteous in confident praise amid cultural upheaval.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 7,
+    "verse": null,
+    "reference_text": "Revelation 7",
+    "context": "those folks in Revelation 7 that received that seal",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 816.719970703125,
+    "end_time": 879.219970703125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Revelation 3",
+    "context": "I know sometimes we inappropriately apply the truth of Revelation 3 when I say it's a fine application, but it's not the right hermeneutical principle.",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2021.8200073242188,
+    "end_time": 2096.4200134277344,
+    "point_summary": "Revelation 3's image of Christ knocking is correctly applied not to individual salvation but to a church that has excluded its own Lord, who desires restored fellowship with his people.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

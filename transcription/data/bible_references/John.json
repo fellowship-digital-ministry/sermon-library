@@ -38543,5 +38543,31 @@
     "end_time": 2413.960012435913,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 15,
+    "verse": 4,
+    "reference_text": "John 15:4",
+    "context": "Jesus uses this word in the New Testament in John 15 in verse number four, abide, abide in me",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1882.380012512207,
+    "end_time": 1954.280014038086,
+    "point_summary": "Abiding in Christ (John 15:4) is presented as the New Testament expression of the Old Testament call to cleave to God, illustrating what it means to draw near to Him.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "John 3:16",
+    "context": "God so loved the world",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2277.7000122070312,
+    "end_time": 2359.780029296875,
+    "point_summary": "God's love for \"the world\" (John 3:16) is invoked to underscore that the same God who loves eight billion people desires individual fellowship with each believer, making the call to draw near personally urgent.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

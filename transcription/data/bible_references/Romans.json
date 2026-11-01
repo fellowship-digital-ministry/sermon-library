@@ -22826,5 +22826,57 @@
     "end_time": 2187.800048828125,
     "point_summary": "The Gospel of Christ carries God's own power for salvation, leaving no grounds for shame or silence in a culture that pressures believers to suppress biblical truth.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Romans 6",
+    "context": "in the book of Romans, if you will, I'm gonna look at two verses of scripture, one in Romans, one in First Corinthians. So in Romans chapter number six",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 566.9600219726562,
+    "end_time": 628.2799777984619,
+    "point_summary": "Romans 6 is cited to show that submission to God means yielding oneself as a servant of righteousness rather than sin, since sin no longer holds dominion over the believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": null,
+    "reference_text": "Romans 6",
+    "context": "in Romans chapter number six, with regard to yielding. And really, we could see that as being akin to the idea of submission. And we find here, and we don't have time to develop all of it, but we find that in Romans chapter number six",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 566.9600219726562,
+    "end_time": 628.2799777984619,
+    "point_summary": "Romans 6 is cited to show that submission to God means yielding oneself as a servant of righteousness rather than sin, with the believer's changed status providing the basis and motivation for that yielding.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 6,
+    "verse": 13,
+    "reference_text": "Romans 6:13",
+    "context": "neither yield ye your members as instruments of unrighteousness unto sin, but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 628.2799777984619,
+    "end_time": 694.9599761962891,
+    "point_summary": "Yielding one's members to God as instruments of righteousness, rather than to sin, is presented as the practical shape of submission to God's authority for those who have been freed from sin's dominion.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "reference_text": "Romans 10:13",
+    "context": "for whosoever shall call upon the name of the Lord shall be saved",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 759.9999847412109,
+    "end_time": 816.719970703125,
+    "point_summary": "Salvation through calling on the Lord (Romans 10:13) is presented as the entry point after which the believer discovers that the indwelling Holy Spirit means the body no longer belongs to oneself.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

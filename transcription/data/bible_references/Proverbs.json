@@ -7746,5 +7746,18 @@
     "end_time": 1053.7400207519531,
     "point_summary": "God's sovereign control over the king's heart—turning it wherever He wills—is given as the foundational reason why prayer is the righteous person's most essential and powerful response to troubled times.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Proverbs",
+    "chapter": 3,
+    "verse": 34,
+    "reference_text": "Proverbs 3:34",
+    "context": "God resisteth the proud, but giveth grace unto the humble",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 127.62000274658203,
+    "end_time": 187.44000244140625,
+    "point_summary": "Humility functions as the structural bookend of James 4:6–10, with God's resistance of the proud and grace toward the humble (quoted from Proverbs 3:34) framing the entire biblical response to worldliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

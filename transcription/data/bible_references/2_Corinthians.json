@@ -24100,5 +24100,18 @@
     "end_time": 2259.4000244140625,
     "point_summary": "Bodily absence from the Lord is temporary, with the believer's present earthly existence held in tension against the certain future hope of being present with Him.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "reference_text": "2 Corinthians 5:17",
+    "context": "If any man being Christ is a new creature",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1011.4199829101562,
+    "end_time": 1068.6199645996094,
+    "point_summary": "Regeneration in Christ does not eliminate the ongoing tension with the old nature, making daily, repeated submission to God a necessary discipline for the believer.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

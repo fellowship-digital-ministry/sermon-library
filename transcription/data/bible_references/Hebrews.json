@@ -26271,5 +26271,57 @@
     "end_time": 2053.560043334961,
     "point_summary": "God's unchanging nature — \"the same yesterday, today and forever\" — is the stated reason the righteous can keep praising even as the world around them shifts dramatically.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 10,
+    "verse": 31,
+    "reference_text": "Hebrews 10:31",
+    "context": "it's a fearful thing to fall into the hands of a living God",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 503.55999755859375,
+    "end_time": 566.9600219726562,
+    "point_summary": "Hebrews 10:31 is cited as a New Testament warrant for fearing God, distinguishing that proper fear from the reverence-based submission the sermon calls believers to practice.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": 29,
+    "reference_text": "Hebrews 12:29",
+    "context": "Our God is a consuming fire",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 503.55999755859375,
+    "end_time": 566.9600219726562,
+    "point_summary": "God being \"a consuming fire\" (Heb. 12:29) is cited as a New Testament truth establishing the reverence-based submission owed to God's acknowledged authority, distinct from mere fearful compliance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": null,
+    "reference_text": "Hebrews 12",
+    "context": "Whether it's a sin or a weight, according to Hebrews chapter 12",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2156.02001953125,
+    "end_time": 2216.980010986328,
+    "point_summary": "Hebrews 12's distinction between sins and weights is invoked to show that spiritual drift from God can result from either, not only from outright transgression.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 12,
+    "verse": null,
+    "reference_text": "Hebrews 12",
+    "context": "according to Hebrews chapter 12",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2277.7000122070312,
+    "end_time": 2359.780029296875,
+    "point_summary": "Sins and weights alike cause spiritual drift, and both must be dealt with, per Hebrews 12, as obstacles to the close walk with God that revival restores.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

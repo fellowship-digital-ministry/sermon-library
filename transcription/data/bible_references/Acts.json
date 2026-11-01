@@ -29365,5 +29365,44 @@
     "end_time": 2743.8400268554688,
     "point_summary": "The scattering of ordinary believers in Acts 8 — not the apostles, who remained in Jerusalem — establishes that gospel proclamation is the responsibility of the whole congregation, not only its leadership.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 4,
+    "verse": 12,
+    "reference_text": "Acts 4:12",
+    "context": "Peter stands up and says, there's no other name under heaven given among men whereby we must be saved",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1756.1599731445312,
+    "end_time": 1820.8000106811523,
+    "point_summary": "Acts 4:13, cited alongside verse 12, grounds the principle that nearness to God produces likeness to Christ, as the disciples' time with Jesus was the observable explanation for their transformed character.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 4,
+    "verse": 13,
+    "reference_text": "Acts 4:13",
+    "context": "they perceived that they were ignorant, unlearned men but then it says this, but they had been with Jesus",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1756.1599731445312,
+    "end_time": 1820.8000106811523,
+    "point_summary": "Boldness and Christlikeness in the disciples were traced not to their own education or ability but to the single fact that they had been with Jesus, illustrating the sermon's principle that nearness produces likeness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": null,
+    "reference_text": "Acts 20",
+    "context": "according to Acts chapter 20, he bought it with his own blood",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2096.4200134277344,
+    "end_time": 2154.6600036621094,
+    "point_summary": "Acts 20 is cited to ground the claim that Christ has rightful ownership of the church, having purchased it with his own blood.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

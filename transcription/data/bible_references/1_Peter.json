@@ -12569,5 +12569,18 @@
     "end_time": 1590.7600402832031,
     "point_summary": "Even in manifold trials and seasons of difficulty, rejoicing remains the commanded response because God is purposefully at work teaching, showing, and using the believer through that suffering.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 5,
+    "verse": null,
+    "reference_text": "1 Peter 5",
+    "context": "Peter says this in 1 Peter 5, that we're to be clothed in humility",
+    "is_implicit": false,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 127.62000274658203,
+    "end_time": 187.44000244140625,
+    "point_summary": "Peter's command to \"be clothed in humility\" is cited to reinforce that humility functions as the structural bookend of James 4:6–10, framing the entire biblical response to worldliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

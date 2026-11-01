@@ -19979,5 +19979,31 @@
     "end_time": 2333.7200317382812,
     "point_summary": "Christ's promise of his abiding presence—\"I am with you always\"—grounds the Great Commission mandate given to the righteous, assuring them of divine accompaniment as they proclaim the gospel until the end of the world.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 4,
+    "verse": 1,
+    "reference_text": "Matthew 4:1-11",
+    "context": "remember when Jesus was being tempted in the wilderness? The Bible says he led to the spirit to be tempted in the wilderness",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 1574.0400085449219,
+    "end_time": 1634.3200073242188,
+    "point_summary": "Christ's temptation in the wilderness (Matthew 4:1) is cited as the model for resisting Satan through Scripture, specifically by wielding verses precisely matched to each particular temptation.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Matthew",
+    "chapter": 4,
+    "verse": 10,
+    "reference_text": "Matthew 4:10",
+    "context": "get thee behind me, Satan",
+    "is_implicit": true,
+    "video_id": "pguzDbTJCFM",
+    "start_time": 2425.940004348755,
+    "end_time": 2489.1000061035156,
+    "point_summary": "Resisting the devil requires wielding Scripture as a weapon, as Jesus himself did when he declared \"it is written\" to drive Satan away.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

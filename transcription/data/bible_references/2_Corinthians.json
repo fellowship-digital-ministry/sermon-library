@@ -24113,5 +24113,31 @@
     "end_time": 1068.6199645996094,
     "point_summary": "Regeneration in Christ does not eliminate the ongoing tension with the old nature, making daily, repeated submission to God a necessary discipline for the believer.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "2 Corinthians 5:8",
+    "context": "Paul said to be absent from the body is to be present with the Lord",
+    "is_implicit": true,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 73.23999786376953,
+    "end_time": 134.9600067138672,
+    "point_summary": "Bodily death holds no terror for the believer because, as Paul declares, to be absent from the body is to be present with the Lord—a confident, Word-grounded hope, not wishful thinking.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 2,
+    "reference_text": "2 Corinthians 6:2",
+    "context": "today is the day of salvation",
+    "is_implicit": true,
+    "video_id": "spkzWGQNXlY",
+    "start_time": 0.0,
+    "end_time": 65.5999984741211,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

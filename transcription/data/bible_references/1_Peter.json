@@ -12582,5 +12582,18 @@
     "end_time": 187.44000244140625,
     "point_summary": "Peter's command to \"be clothed in humility\" is cited to reinforce that humility functions as the structural bookend of James 4:6–10, framing the entire biblical response to worldliness.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Peter",
+    "chapter": 1,
+    "verse": 19,
+    "reference_text": "1 Peter 1:19",
+    "context": "but with the precious blood of Christ as of a Lamb without blemish and without spot",
+    "is_implicit": true,
+    "video_id": "spkzWGQNXlY",
+    "start_time": 0.0,
+    "end_time": 65.5999984741211,
+    "point_summary": "Christ's atoning work is framed through Peter's language of \"precious blood\" and the unblemished Lamb, underscoring the incorruptible, substitutionary price of redemption.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

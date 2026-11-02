@@ -6628,5 +6628,18 @@
     "end_time": 2096.4200134277344,
     "point_summary": "Stillness before God — \"Be still and know that I am God\" — is presented as the posture of abiding, slowing to walk in step with him rather than racing ahead or lagging behind.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalm",
+    "chapter": 11,
+    "verse": null,
+    "reference_text": "Psalm 11",
+    "context": "we're there in Psalm chapter 11",
+    "is_implicit": false,
+    "video_id": "spkzWGQNXlY",
+    "start_time": 308.4800109863281,
+    "end_time": 369.67999267578125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -4340,5 +4340,70 @@
     "end_time": 127.62000274658203,
     "point_summary": "Joshua 7's account of Achan illustrates the principle that God exposes sin among his people and then requires them to deal with it decisively, warning that his presence depends on removing the accursed thing.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 0,
+    "reference_text": "Joshua 1",
+    "context": "So turn a few pages over, if you will, to Joshua chapter number one",
+    "is_implicit": false,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 689.0999984741211,
+    "end_time": 750.2799987792969,
+    "point_summary": "God's repeated command to Joshua — \"be strong and of good courage, be not afraid\" — is shown to carry divine authority, having been spoken first through Moses in Deuteronomy 31:23 and then directly by God in Joshua 1:9.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 9,
+    "reference_text": "Joshua 1:9",
+    "context": "And I want you to notice in verse number nine, Have not I commanded thee?",
+    "is_implicit": false,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 689.0999984741211,
+    "end_time": 750.2799987792969,
+    "point_summary": "God's repeated command to Joshua — \"be strong and of good courage, be not afraid\" — is shown to carry divine authority precisely because it echoes God's earlier direct charge in Deuteronomy 31:23, not merely human encouragement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 9,
+    "reference_text": "Joshua 1:9",
+    "context": "be strong and have a good courage",
+    "is_implicit": true,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 689.0999984741211,
+    "end_time": 750.2799987792969,
+    "point_summary": "God's repeated command to Joshua — \"be strong and of good courage, be not afraid\" — is shown to carry divine authority precisely because it echoes God's earlier direct charge in Deuteronomy 31:23, not merely human encouragement.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Joshua chapter number one",
+    "context": "There in Joshua chapter number one, they're ready to enter into the land",
+    "is_implicit": false,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 816.6599884033203,
+    "end_time": 877.6600036621094,
+    "point_summary": "God's repeated charge to Joshua — \"be not afraid, neither be thou dismayed, for the Lord thy God is with thee\" — is presented as one link in a chain of divine courage-commands running through Israel's history toward Jeremiah's calling.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 8,
+    "reference_text": "I will be with thee",
+    "context": "Because God said, I will be with thee",
+    "is_implicit": true,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 1826.3599853515625,
+    "end_time": 1893.3599853515625,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

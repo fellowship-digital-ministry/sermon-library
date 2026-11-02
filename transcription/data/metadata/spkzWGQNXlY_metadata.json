@@ -1,0 +1,58 @@
+{
+  "video_id": "spkzWGQNXlY",
+  "title": "\"Judging Or Doing\" James 4:11-12",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/spkzWGQNXlY.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/spkzWGQNXlY.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/spkzWGQNXlY.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/spkzWGQNXlY.vtt",
+  "duration": 3153.0,
+  "transcription_timestamp": "2026-11-01T21:17:02.540026",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:11-12 on the contrast between judging others and being a doer of the law, addressed to believers within the local church. The passage is examined alongside Matthew 7:1-5, John 7:24, and 1 Corinthians 5-6 to establish a biblical framework for righteous judgment versus self-examination.",
+    "themes": [
+      "judging others",
+      "self-examination",
+      "speaking evil",
+      "doers of the word",
+      "church unity",
+      "righteous judgment"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Opening and Salvation"
+      },
+      {
+        "t": 91,
+        "heading": "Book of James Overview"
+      },
+      {
+        "t": 372,
+        "heading": "Context of James 4:11-12"
+      },
+      {
+        "t": 744,
+        "heading": "Common Misunderstanding of Judging"
+      },
+      {
+        "t": 889,
+        "heading": "Biblical Basis for Righteous Judgment"
+      },
+      {
+        "t": 1520,
+        "heading": "Practical Illustrations of Judging"
+      },
+      {
+        "t": 2175,
+        "heading": "Priority of Doing the Word"
+      },
+      {
+        "t": 2503,
+        "heading": "One Lawgiver and the Closing Question"
+      }
+    ]
+  }
+}

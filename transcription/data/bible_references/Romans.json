@@ -22878,5 +22878,31 @@
     "end_time": 816.719970703125,
     "point_summary": "Salvation through calling on the Lord (Romans 10:13) is presented as the entry point after which the believer discovers that the indwelling Holy Spirit means the body no longer belongs to oneself.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Romans 1",
+    "context": "What did he say in Romans chapter one? That the gospel is the power of God unto salvation, to everyone that believe it, to the Jew first, and also to the Greek",
+    "is_implicit": true,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 1564.8599548339844,
+    "end_time": 1616.1599731445312,
+    "point_summary": "Romans 1:16's declaration that the gospel is \"to the Jew first\" explains why Paul consistently entered synagogues before turning to the Gentiles when rejected.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 5,
+    "verse": 8,
+    "reference_text": "Romans 5:8",
+    "context": "but God commendeth His love toward us in that while we were yet sinners, Christ died for us",
+    "is_implicit": false,
+    "video_id": "spkzWGQNXlY",
+    "start_time": 0.0,
+    "end_time": 65.5999984741211,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

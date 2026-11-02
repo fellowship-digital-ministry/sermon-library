@@ -1,0 +1,58 @@
+{
+  "video_id": "fLU-33BSzYo",
+  "title": "\"God Hath Not Given Us The Spirit Of Fear\"  II Timothy 1:7",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/fLU-33BSzYo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/fLU-33BSzYo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/fLU-33BSzYo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/fLU-33BSzYo.vtt",
+  "duration": 2818.0,
+  "transcription_timestamp": "2026-11-01T21:12:04.027080",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 Timothy 1:7 on the spirit of fear, surveying eight biblical passages from Genesis through Hebrews to establish that God's repeated command to fear not is grounded in the promise of his presence with his people.",
+    "themes": [
+      "fear and courage",
+      "presence of god",
+      "biblical survey",
+      "end times peril",
+      "god's promises",
+      "uncertainty and trials"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Text and Opening Context"
+      },
+      {
+        "t": 234,
+        "heading": "Last Days Peril in 2 Timothy 3"
+      },
+      {
+        "t": 381,
+        "heading": "Survey of Fear Not Passages Introduced"
+      },
+      {
+        "t": 521,
+        "heading": "Old Testament Examples: Jacob to Jeremiah"
+      },
+      {
+        "t": 1033,
+        "heading": "Jesus to His Disciples: John 14 and 16"
+      },
+      {
+        "t": 1357,
+        "heading": "God's Word to Paul in Corinth: Acts 18"
+      },
+      {
+        "t": 1731,
+        "heading": "Hebrews 13 and the Reason Behind Fear Not"
+      },
+      {
+        "t": 1969,
+        "heading": "Psalms 23 and 46 as Application"
+      }
+    ]
+  }
+}

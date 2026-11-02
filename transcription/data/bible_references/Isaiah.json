@@ -6771,5 +6771,18 @@
     "end_time": 503.55999755859375,
     "point_summary": "God's ways and thoughts transcending human comprehension (Isa. 55:8) grounds the call to submission: a right view of God's incomprehensible greatness corrects the inflated self-regard that breeds pride rather than reverence.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 41,
+    "verse": 10,
+    "reference_text": "I am with thee",
+    "context": "He said, I am with thee",
+    "is_implicit": true,
+    "video_id": "fLU-33BSzYo",
+    "start_time": 1826.3599853515625,
+    "end_time": 1893.3599853515625,
+    "point_summary": "In every \"fear not\" passage surveyed, the singular reason God gives for not fearing is His promised presence—\"I will be with thee\"—not merely a command to suppress fear.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

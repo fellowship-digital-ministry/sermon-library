@@ -1,0 +1,54 @@
+{
+  "video_id": "AiH6dA61jsE",
+  "title": "\"Your Live Is A Vapor\"  James 4:13-16",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/AiH6dA61jsE.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/AiH6dA61jsE.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/AiH6dA61jsE.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/AiH6dA61jsE.vtt",
+  "duration": 2893.0,
+  "transcription_timestamp": "2026-11-08T21:11:11.331157",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:13-16 on the brevity of human life and the danger of presumptuous planning, addressed originally to traveling merchants and applied broadly to believers in their daily priorities and perspective.",
+    "themes": [
+      "brevity of life",
+      "presumption and boasting",
+      "eternal perspective",
+      "planning and priorities",
+      "procrastination",
+      "the coming of the lord"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Reading of James 4:13-16"
+      },
+      {
+        "t": 322,
+        "heading": "Immediate Context: Traveling Merchants"
+      },
+      {
+        "t": 463,
+        "heading": "Analyzing Plans, Eliminating Presumption"
+      },
+      {
+        "t": 788,
+        "heading": "Analyzing Priorities, Eliminating Procrastination"
+      },
+      {
+        "t": 1220,
+        "heading": "Changing Perspective: What We Ought to Say"
+      },
+      {
+        "t": 1595,
+        "heading": "Paul's Eternal Perspective in 2 Corinthians 4"
+      },
+      {
+        "t": 2249,
+        "heading": "C.T. Studd Poem and Closing Application"
+      }
+    ]
+  }
+}

@@ -26427,5 +26427,18 @@
     "end_time": 2706.760040283203,
     "point_summary": "God's promise never to leave nor forsake his people (Heb. 13:5) underscores that Christ's physical absence is what necessitates delegated human judgment in the church, making it a solemn responsibility rather than a joyful privilege.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 9,
+    "verse": 27,
+    "reference_text": "Hebrews 9:27",
+    "context": "as it appointed unto man once to die. After this, the judgment",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 1426.499984741211,
+    "end_time": 1501.4999694824219,
+    "point_summary": "Hebrews 9:27's declaration that death is appointed for every person grounds the \"if the Lord will\" of James 4 as a genuine life principle, not a casual Christian phrase.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

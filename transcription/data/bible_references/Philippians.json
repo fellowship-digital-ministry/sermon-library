@@ -10138,5 +10138,31 @@
     "end_time": 134.9600067138672,
     "point_summary": "Paul's declaration of desiring \"to depart and be with Christ, which is far better\" grounds the believer's confident hope of seeing the Savior face to face in the certain truth of Scripture, not wishful thinking.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 3,
+    "verse": 13,
+    "reference_text": "Philippians 3:13",
+    "context": "the instruction that Paul gave for getting those things which are behind",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 295.32000732421875,
+    "end_time": 354.0799865722656,
+    "point_summary": "Forgetting what lies behind (Phil. 3:13) is invoked as Paul's corrective against living in the past, which the sermon warns cripples those who cannot move forward in the present.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 6,
+    "reference_text": "Philippians 4:6",
+    "context": "it says be careful for nothing",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 1766.1199951171875,
+    "end_time": 1824.3799591064453,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -21175,5 +21175,18 @@
     "end_time": 2778.500030517578,
     "point_summary": "Judging within the church, as Paul implies in 1 Corinthians 6, is a necessary but sobering responsibility that demands humility, prayer, and hearing the full matter before rendering any verdict.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 10,
+    "verse": 31,
+    "reference_text": "1 Corinthians 10:31",
+    "context": "to eat or drink or whatsoever you do, do all to the glory of God",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 1162.3800048828125,
+    "end_time": 1230.8999786376953,
+    "point_summary": "Every day is guaranteed only today, so the question each person must answer is what they will do with it for the glory of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

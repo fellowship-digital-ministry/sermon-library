@@ -9735,5 +9735,18 @@
     "end_time": 2348.320068359375,
     "point_summary": "Genuine focus on proving and doing what is acceptable to God leaves a believer too occupied with his own obedience to spend time judging others.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 16,
+    "reference_text": "1 Thessalonians 4:16",
+    "context": "The trumpet of the Lord shall sound",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 2611.8799438476562,
+    "end_time": 2690.5799560546875,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

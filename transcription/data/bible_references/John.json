@@ -38816,5 +38816,18 @@
     "end_time": 2469.5200424194336,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 17,
+    "verse": 16,
+    "reference_text": "John 17:16",
+    "context": "I know that we're in the world, but we're not of the world",
+    "is_implicit": true,
+    "video_id": "AiH6dA61jsE",
+    "start_time": 2174.0199584960938,
+    "end_time": 2230.6199645996094,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

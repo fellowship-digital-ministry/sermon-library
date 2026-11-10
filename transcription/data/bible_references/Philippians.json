@@ -10164,5 +10164,44 @@
     "end_time": 1824.3799591064453,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 1,
+    "verse": 18,
+    "reference_text": "Philippians 1:18",
+    "context": "what then, notwithstanding every way, whether in pretense or in truth, Christ is preached. And I therein do rejoice and will rejoice",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 784.6800079345703,
+    "end_time": 854.0400085449219,
+    "point_summary": "Paul's deliberate choice to rejoice despite surrounding opposition illustrates that rejoicing is an act of the will, not a response to favorable circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 4,
+    "reference_text": "Philippians 4:4",
+    "context": "Yet, I will rejoice in the Lord",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1727.5,
+    "end_time": 1793.1400146484375,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Philippians",
+    "chapter": 4,
+    "verse": 4,
+    "reference_text": "Philippians 4:4",
+    "context": "we need to rejoice in the Lord",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2359.1799926757812,
+    "end_time": 2435.0999908447266,
+    "point_summary": "Rejoicing in the Lord, rather than in circumstances, is presented as the necessary corrective when one's \"joy meter\" rises and falls with uncontrollable situations.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

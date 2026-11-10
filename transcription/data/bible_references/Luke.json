@@ -11620,5 +11620,18 @@
     "end_time": 920.4999694824219,
     "point_summary": "The rich fool's assumption that he could secure his future through accumulated wealth is used to illustrate how misplaced priorities reveal a failure to reckon with life's brevity and the soul's accountability to God.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Luke",
+    "chapter": 10,
+    "verse": 20,
+    "reference_text": "Luke 10:20",
+    "context": "rejoice not in this, rather rejoice that your name is written in heaven",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 387.3999938964844,
+    "end_time": 444.6000061035156,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

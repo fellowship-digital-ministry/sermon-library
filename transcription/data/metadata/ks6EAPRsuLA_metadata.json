@@ -1,0 +1,54 @@
+{
+  "video_id": "ks6EAPRsuLA",
+  "title": "\"I Will Rejoice\"  Habakkuk 3:17-19",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/ks6EAPRsuLA.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/ks6EAPRsuLA.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ks6EAPRsuLA.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/ks6EAPRsuLA.vtt",
+  "duration": 2597.0,
+  "transcription_timestamp": "2026-11-09T21:09:26.705149",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Habakkuk 3:17-19 on the deliberate choice to rejoice amid dire circumstances, set against the prophet's announcement of Babylonian invasion and complete agricultural and economic collapse. Supporting declarations from Psalms 9, 31, 63, 104, and Philippians 1 frame the central text.",
+    "themes": [
+      "rejoicing",
+      "circumstances and response",
+      "strength of god",
+      "fear and trust",
+      "meditation on god",
+      "preparation for hardship"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction and Opening Texts"
+      },
+      {
+        "t": 94,
+        "heading": "Controlling Response vs. Circumstances"
+      },
+      {
+        "t": 236,
+        "heading": "Survey of 'I Will Rejoice' Declarations"
+      },
+      {
+        "t": 903,
+        "heading": "Habakkuk 3:17-19 Introduced"
+      },
+      {
+        "t": 1004,
+        "heading": "The Circumstances: Complete Collapse"
+      },
+      {
+        "t": 1719,
+        "heading": "The Choice: Yet I Will Rejoice"
+      },
+      {
+        "t": 2104,
+        "heading": "The Basis: God as Strength and Sure Foundation"
+      }
+    ]
+  }
+}

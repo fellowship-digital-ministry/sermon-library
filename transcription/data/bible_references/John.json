@@ -38829,5 +38829,18 @@
     "end_time": 2230.6199645996094,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 10,
+    "verse": 14,
+    "reference_text": "John 10:14",
+    "context": "Jesus said this in John chapter number 10, I know my sheep",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 387.3999938964844,
+    "end_time": 444.6000061035156,
+    "point_summary": "Eternal security—that Christ knows His sheep and guarantees they will never perish—grounds the believer's rejoicing in salvation beyond present circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

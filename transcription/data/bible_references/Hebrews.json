@@ -26440,5 +26440,18 @@
     "end_time": 1501.4999694824219,
     "point_summary": "Hebrews 9:27's declaration that death is appointed for every person grounds the \"if the Lord will\" of James 4 as a genuine life principle, not a casual Christian phrase.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 6,
+    "reference_text": "Hebrews 13:6",
+    "context": "I'm not going to fear what man shall do unto me",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2017.1799926757812,
+    "end_time": 2078.1799926757812,
+    "point_summary": "Choosing not to fear what man can do is grounded in God's presence, echoing the confession \"the Lord is my helper\" that Hebrews 13:6 frames as the believer's confident declaration.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

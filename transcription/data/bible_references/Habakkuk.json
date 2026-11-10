@@ -9,7 +9,7 @@
     "video_id": "317YMHnIXHg",
     "start_time": 557.6199951171875,
     "end_time": 627.4200019836426,
-    "point_summary": "True success, by God's measure, is defined by faith\u2014taking God at His word\u2014a principle the sermon traces from Habakkuk 2:4 (\"the just shall live by faith\") through Joshua and Hebrews 11:6.",
+    "point_summary": "True success, by God's measure, is defined by faith—taking God at His word—a principle the sermon traces from Habakkuk 2:4 (\"the just shall live by faith\") through Joshua and Hebrews 11:6.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -22,7 +22,7 @@
     "video_id": "a8Z2gxOlMKc",
     "start_time": 2466.5800170898438,
     "end_time": 2537.500015258789,
-    "point_summary": "Faith's call in Habakkuk 2:4 \u2014 \"the just shall live by faith\" \u2014 is invoked as the governing principle that believers are to simply take God at His word rather than demanding to understand how outcomes will unfold.",
+    "point_summary": "Faith's call in Habakkuk 2:4 — \"the just shall live by faith\" — is invoked as the governing principle that believers are to simply take God at His word rather than demanding to understand how outcomes will unfold.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -74,7 +74,7 @@
     "video_id": "PgcjaAnGexU",
     "start_time": 1430.0199737548828,
     "end_time": 1495.8999633789062,
-    "point_summary": "Living by faith\u2014not human strategy or scheming\u2014is the basis on which believers obey God's command to go forward, trusting him alone to accomplish what only he can do.",
+    "point_summary": "Living by faith—not human strategy or scheming—is the basis on which believers obey God's command to go forward, trusting him alone to accomplish what only he can do.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -87,7 +87,7 @@
     "video_id": "qwt_XuUQD9E",
     "start_time": 237.0800018310547,
     "end_time": 305.94000244140625,
-    "point_summary": "Habakkuk's declaration \u2014 \"yet I will rejoice in the Lord\" \u2014 is held up as a model of choosing rejoicing even when every visible circumstance, from failed harvests to empty stalls, paints a dim picture.",
+    "point_summary": "Habakkuk's declaration — \"yet I will rejoice in the Lord\" — is held up as a model of choosing rejoicing even when every visible circumstance, from failed harvests to empty stalls, paints a dim picture.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -100,7 +100,7 @@
     "video_id": "qwt_XuUQD9E",
     "start_time": 305.94000244140625,
     "end_time": 380.1000061035156,
-    "point_summary": "Even when every material circumstance is stripped away \u2014 no harvest, no flock, no provision \u2014 Habakkuk's deliberate, purposed declaration \"yet I will rejoice in the Lord\" models a joy rooted in God's character, not in conditions.",
+    "point_summary": "Even when every material circumstance is stripped away — no harvest, no flock, no provision — Habakkuk's deliberate, purposed declaration \"yet I will rejoice in the Lord\" models a joy rooted in God's character, not in conditions.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -165,7 +165,7 @@
     "video_id": "Ufw5LOw3rkA",
     "start_time": 2402.0999755859375,
     "end_time": 2472.3800048828125,
-    "point_summary": "The Old Testament principle from Habakkuk 2:3\u20134 \u2014 \"the just shall live by faith\" \u2014 is cited as the foundation underlying Hebrews 10:38\u201339, and later taken up distinctly by Paul in Romans and Galatians.",
+    "point_summary": "The Old Testament principle from Habakkuk 2:3–4 — \"the just shall live by faith\" — is cited as the foundation underlying Hebrews 10:38–39, and later taken up distinctly by Paul in Romans and Galatians.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -295,7 +295,7 @@
     "video_id": "fbc-2026-02-25mw-they-believed-not",
     "start_time": 1017.3199768066406,
     "end_time": 1076.8799743652344,
-    "point_summary": "Unbelief is treated as a serious offense against God, with Jude 1:5 invoked to show that those who refused to trust God's word were destroyed\u2014underscoring that the just must live by faith.",
+    "point_summary": "Unbelief is treated as a serious offense against God, with Jude 1:5 invoked to show that those who refused to trust God's word were destroyed—underscoring that the just must live by faith.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -308,7 +308,7 @@
     "video_id": "fbc-2025-10-12pm-come-and-help",
     "start_time": 430.6600036621094,
     "end_time": 507.2799987792969,
-    "point_summary": "Obedience to Christ's command\u2014even when imperfect, as Peter cast one net instead of many\u2014still constitutes genuine faith, because the just shall live by faith, meaning they take God at His word and trust He will do what He says.",
+    "point_summary": "Obedience to Christ's command—even when imperfect, as Peter cast one net instead of many—still constitutes genuine faith, because the just shall live by faith, meaning they take God at His word and trust He will do what He says.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   },
   {
@@ -373,7 +373,228 @@
     "video_id": "_8XP2rmYkx8",
     "start_time": 656.0999984741211,
     "end_time": 720.7799987792969,
-    "point_summary": "Habakkuk 3:2's cry \u2014 \"in wrath, remember mercy\" \u2014 supplies the sermon's title and interpretive lens for reading Revelation 7's two redeemed groups amid the tribulation's judgments.",
+    "point_summary": "Habakkuk 3:2's cry — \"in wrath, remember mercy\" — supplies the sermon's title and interpretive lens for reading Revelation 7's two redeemed groups amid the tribulation's judgments.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Habakkuk chapter 3",
+    "context": "Habakkuk chapter number three",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 0.0,
+    "end_time": 60.31999969482422,
+    "point_summary": "Habakkuk's declaration \"I will rejoice\" is presented as a volitional, deliberate choice—a willed act of trust rather than a spontaneous emotional response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 17,
+    "reference_text": "Habakkuk 3:17",
+    "context": "although the fig tree shall not blossom, neither shall fruit be in the vines, the labor of the olive shall fail, and the field shall yield no meat, the flock shall be cut off from the fold",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 855.4400024414062,
+    "end_time": 922.2400207519531,
+    "point_summary": "Habakkuk's declaration \"yet I will rejoice\" is presented as a deliberate, chosen response to total agricultural and economic devastation—a decision to rejoice regardless of circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 17,
+    "reference_text": "Habakkuk 3:17",
+    "context": "and there shall be no herd in the stalls. Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 922.2400207519531,
+    "end_time": 998.6000061035156,
+    "point_summary": "Even when every material provision fails and invasion looms, Habakkuk's declaration \"yet I will rejoice\" is a deliberate choice made against dire, unavoidable circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "reference_text": "Habakkuk 3:19",
+    "context": "The Lord God is my strength, and he will make my feet like Heinz' feet, and he will make me to walk upon mine high places to the chief singer on my stringed instruments.",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 922.2400207519531,
+    "end_time": 998.6000061035156,
+    "point_summary": "Even amid the direst circumstances—Babylonian invasion and total agricultural collapse—Habakkuk declares the Lord God his strength and the one who enables him to walk on high places.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 1,
+    "verse": 2,
+    "reference_text": "Habakkuk 1:2",
+    "context": "he starts in chapter 1 by asking this question of how long? How long?",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 922.2400207519531,
+    "end_time": 998.6000061035156,
+    "point_summary": "Habakkuk's opening cry of \"how long?\" in chapter 1 frames the entire book as a series of questions to God, setting up the triumphant declaration of rejoicing that concludes it.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 1,
+    "verse": 17,
+    "reference_text": "Habakkuk 1:17",
+    "context": "verse 17",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 998.6000061035156,
+    "end_time": 1074.6400146484375,
+    "point_summary": "Habakkuk 3:17 is read as a catalogue of total agricultural and economic collapse—a \"complete collapse, utter destruction\"—establishing the dire circumstances against which Habakkuk's declaration of rejoicing stands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 17,
+    "reference_text": "Habakkuk 3:17",
+    "context": "although the fig tree shall not blossom",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 998.6000061035156,
+    "end_time": 1074.6400146484375,
+    "point_summary": "Habakkuk 3:17 is read as a catalogue of total agricultural and economic collapse—a \"complete collapse, utter destruction\"—setting the dire historical circumstances of impending Babylonian invasion against which Habakkuk's declaration of rejoicing stands.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": null,
+    "reference_text": "Habakkuk 3",
+    "context": "from Habakkuk 3",
+    "is_implicit": false,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1280.7000122070312,
+    "end_time": 1351.8600158691406,
+    "point_summary": "Habakkuk 3 is read as a call to clear-eyed awareness of dire circumstances, not as a specific prophecy of national collapse, but as a framework for understanding that believers will face serious trials.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "Habakkuk 3:18",
+    "context": "yet I will rejoice in the Lord. I will joy in the God of my salvation",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1642.780029296875,
+    "end_time": 1727.5,
+    "point_summary": "Amid circumstances of utter collapse, Habakkuk's \"yet I will rejoice\" represents a deliberate, God-directed choice to rejoice anyway—not sheer willpower, but being full of God.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "yet I will rejoice in the Lord",
+    "context": "the prophet says, yet I will rejoice in the Lord",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1793.1400146484375,
+    "end_time": 1870.1799926757812,
+    "point_summary": "Rejoicing in the Lord is a deliberate, God-centered choice—grounded in meditating on him as \"the God of my salvation\"—made even when outward circumstances have completely collapsed.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 17,
+    "reference_text": "Habakkuk 3:17",
+    "context": "verse 17 when we consider the complete collapse and we consider what's going on, the fig tree won't blossom, there's no fruit on the vines, the fields yield no meat, the flock is cut off, there's no herd in the stalls",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1870.1799926757812,
+    "end_time": 1941.1799926757812,
+    "point_summary": "Even when every agricultural resource fails completely, God still knows what his people need and remains able to provide it by whatever means he chooses.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "Habakkuk 3:18",
+    "context": "yet I will rejoice in the Lord. I will joy in the God of my salvation",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 1941.1799926757812,
+    "end_time": 2016.1799926757812,
+    "point_summary": "Habakkuk's \"yet I will rejoice\" is presented as a deliberate, volitional choice made in the face of total material loss, not a passive emotional response.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "Habakkuk 3:18",
+    "context": "the scriptures don't end in verse 18",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2017.1799926757812,
+    "end_time": 2078.1799926757812,
+    "point_summary": "Rejoicing in God is a deliberate, willed choice—not a response to favorable circumstances—made even when conditions are dire.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "reference_text": "Habakkuk 3:19",
+    "context": "The Lord God, verse 19, is my strength",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2078.1799926757812,
+    "end_time": 2149.1799926757812,
+    "point_summary": "Habakkuk's declaration that \"the Lord God is my strength\" in verse 19 provides the stated reason behind his choice to rejoice—not circumstantial optimism, but a known, sustaining source amid honest acknowledgment of coming judgment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "reference_text": "Habakkuk 3:19",
+    "context": "the Lord God is my strength. And then notice what he says, and He will. This is confidence. This is a confident expectation that the prophet is revealing to us in his declaration that He will make my feet like Heinz' feet.",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2290.1799926757812,
+    "end_time": 2359.1799926757812,
+    "point_summary": "Habakkuk's declaration that God will make his feet like hinds' feet points not to speed but to sure-footedness—the confident stability God provides for navigating life's trials when He is known beforehand as one's strength.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "reference_text": "Habakkuk 3:19",
+    "context": "He will make me to walk upon my high places",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2359.1799926757812,
+    "end_time": 2435.0999908447266,
+    "point_summary": "Habakkuk's image of hind's feet on high places is read as a promise of sure-footed confidence in God's sovereign goodness, enabling believers to walk steadily through trials regardless of circumstances.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 19,
+    "reference_text": "Habakkuk 3:19",
+    "context": "to the chief singer on my stringed instruments",
+    "is_implicit": true,
+    "video_id": "ks6EAPRsuLA",
+    "start_time": 2359.1799926757812,
+    "end_time": 2435.0999908447266,
+    "point_summary": "Habakkuk's image of hind's feet on high places is read as a promise of sure-footed confidence in God's sovereign goodness, enabling believers to walk steadily through trials regardless of circumstances.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

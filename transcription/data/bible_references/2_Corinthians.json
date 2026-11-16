@@ -24347,5 +24347,18 @@
     "end_time": 2149.1799926757812,
     "point_summary": "Even when outward circumstances deteriorate, the inward man is renewed day by day, and this renewal is the strength by which Habakkuk's choice to rejoice becomes possible.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": 3,
+    "reference_text": "2 Corinthians 4:3",
+    "context": "If our gospel be hid, why would our gospel be hid?",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 1957.0399627685547,
+    "end_time": 2016.0399627685547,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

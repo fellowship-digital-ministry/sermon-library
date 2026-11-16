@@ -22917,5 +22917,57 @@
     "end_time": 1351.8600158691406,
     "point_summary": "Spiritual alertness is demanded by the hour, as Romans 13:11's call to \"awake out of sleep\" is invoked to urge believers to be wide-eyed and clear-headed about the dire circumstances surrounding them.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 1,
+    "verse": null,
+    "reference_text": "Romans",
+    "context": "Romans deals with this, that they had the responsibility of the Jews to ensure that the word of God was sent forth",
+    "is_implicit": false,
+    "video_id": "381OiXEwp68",
+    "start_time": 1025.8999633789062,
+    "end_time": 1093.8599853515625,
+    "point_summary": "Romans is cited briefly to note that the Jews bore a responsibility to send forth God's word, illustrating that God's people have always been accountable to disseminate Scripture—a duty now carried by the church.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Romans 12:2",
+    "context": "proven what is acceptable unto the Lord",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 1159.6199951171875,
+    "end_time": 1229.3399658203125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 16,
+    "verse": 19,
+    "reference_text": "Romans 16:19",
+    "context": "Look at Romans chapter 16 if you will... in Romans chapter 16, in verse number 19, notice what the Bible says here in this verse of Scripture",
+    "is_implicit": false,
+    "video_id": "381OiXEwp68",
+    "start_time": 1284.3399658203125,
+    "end_time": 1343.3399658203125,
+    "point_summary": "Personal accountability before God requires knowing what is good, and Romans 16:19's call to be \"wise unto that which is good\" is fulfilled through the ongoing discipline of proving and studying Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Romans",
+    "chapter": 12,
+    "verse": 19,
+    "reference_text": "Romans 12:19",
+    "context": "For your obedience has come abroad unto all men. I am glad therefore on your behalf, but yet I would have you wise unto that which is good and simple concerning evil.",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 1343.3399658203125,
+    "end_time": 1415.3399658203125,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -596,5 +596,18 @@
     "end_time": 2435.0999908447266,
     "point_summary": "Habakkuk's image of hind's feet on high places is read as a promise of sure-footed confidence in God's sovereign goodness, enabling believers to walk steadily through trials regardless of circumstances.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verse": 18,
+    "reference_text": "Habakkuk 3:18",
+    "context": "Yet I will rejoice. Why? Because God is my strength",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 1773.3399658203125,
+    "end_time": 1837.4199676513672,
+    "point_summary": "Rejoicing in God as one's strength—not in circumstances—is the motivating \"why\" behind the command to count trials all joy.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

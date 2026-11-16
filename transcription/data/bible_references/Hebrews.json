@@ -26453,5 +26453,31 @@
     "end_time": 2078.1799926757812,
     "point_summary": "Choosing not to fear what man can do is grounded in God's presence, echoing the confession \"the Lord is my helper\" that Hebrews 13:6 frames as the believer's confident declaration.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 13,
+    "verse": 16,
+    "reference_text": "Hebrews 13:16",
+    "context": "But to do good and to communicate, forget not. For with such sacrifices God is well pleased.",
+    "is_implicit": false,
+    "video_id": "381OiXEwp68",
+    "start_time": 1343.3399658203125,
+    "end_time": 1415.3399658203125,
+    "point_summary": "Hebrews 13:16 is cited to show that doing good constitutes a sacrifice well-pleasing to God, grounding the obligation to act on known good in Scripture's own language.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Hebrews",
+    "chapter": 10,
+    "verse": 20,
+    "reference_text": "new and living way",
+    "context": "the access that you have because we have a new and living way, that we draw nigh to God",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 2442.5599517822266,
+    "end_time": 2517.099952697754,
+    "point_summary": "Access to God in prayer is grounded in the \"new and living way\" opened by Christ, making drawing near to God not merely a privilege but an expected, doable good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

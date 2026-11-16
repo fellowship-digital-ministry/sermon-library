@@ -38842,5 +38842,18 @@
     "end_time": 444.6000061035156,
     "point_summary": "Eternal security—that Christ knows His sheep and guarantees they will never perish—grounds the believer's rejoicing in salvation beyond present circumstances.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": null,
+    "reference_text": "John 13",
+    "context": "when the Lord Jesus Christ is washing the feet of the disciples and Peter says, no, no, no, not so, Lord",
+    "is_implicit": false,
+    "video_id": "381OiXEwp68",
+    "start_time": 2143.9599609375,
+    "end_time": 2203.919952392578,
+    "point_summary": "Jesus washing the disciples' feet illustrates that believers, already saved, still need ongoing cleansing from the world's defilement through continual return to God's Word.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -1,0 +1,54 @@
+{
+  "video_id": "381OiXEwp68",
+  "title": "\"Do Good\"  James 4:17",
+  "publish_date": NaN,
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/381OiXEwp68.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/381OiXEwp68.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/381OiXEwp68.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/381OiXEwp68.vtt",
+  "duration": 3138.0,
+  "transcription_timestamp": "2026-11-15T21:13:18.831498",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of James 4:17 on sins of omission, closing a year-long series through James. The verse's principle that failing to do known good is sin is examined through the immediate context of the epistle and a survey of practical commands across the book of James.",
+    "themes": [
+      "sins of omission",
+      "knowing versus doing",
+      "accountability to scripture",
+      "the word of god as standard",
+      "doers of the word",
+      "the book of james"
+    ],
+    "sections": [
+      {
+        "t": 46,
+        "heading": "Series Context and Verse Introduction"
+      },
+      {
+        "t": 231,
+        "heading": "James 4:17 Stated and Defined"
+      },
+      {
+        "t": 369,
+        "heading": "The Revelation: God Has Given His Word"
+      },
+      {
+        "t": 1066,
+        "heading": "The Responsibility to Know What Is Good"
+      },
+      {
+        "t": 1531,
+        "heading": "The Responsibility to Do What Is Known"
+      },
+      {
+        "t": 1724,
+        "heading": "Survey of Commands Throughout James"
+      },
+      {
+        "t": 2663,
+        "heading": "Luke 3: John the Baptist on Practical Obedience"
+      }
+    ]
+  }
+}

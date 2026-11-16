@@ -13024,5 +13024,70 @@
     "end_time": 2078.1799926757812,
     "point_summary": "God's gift of a spirit free from fear, established the previous week through multiple scriptures, grounds the prophet's deliberate choice to rejoice rather than live \"under the circumstances.\"",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verse": 16,
+    "reference_text": "2 Timothy 3:16",
+    "context": "all scripture is given by inspiration of God",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 515.4600219726562,
+    "end_time": 583.719970703125,
+    "point_summary": "Scripture's divine inspiration and providential preservation mean that those who possess the Bible are fully accountable before God, leaving them without excuse for failing to do good.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "reference_text": "2 Timothy 2:15",
+    "context": "study to show thyself approved unto God",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 843.5199737548828,
+    "end_time": 902.9999694824219,
+    "point_summary": "Diligent, Spirit-aided study of Scripture is required because God holds believers accountable for what He has revealed, making the command to \"study to show thyself approved\" a matter of divine stewardship.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "reference_text": "2 Timothy 2:15",
+    "context": "a workman that needs not to be ashamed, rightly dividing the word of truth",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 902.9999694824219,
+    "end_time": 963.1399841308594,
+    "point_summary": "Diligent study of Scripture is framed as an act of accountability before God, with 2 Timothy 2:15's call to be a \"workman approved\" cited as the reason believers must search and rightly divide a book the Holy Spirit alone can fully illuminate.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 4,
+    "verse": 3,
+    "reference_text": "2 Timothy 4:3",
+    "context": "the time will come while they will not endure sound doctrine",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 902.9999694824219,
+    "end_time": 963.1399841308594,
+    "point_summary": "Paul's warning that people will not endure sound doctrine frames the present age as one demanding faithful preaching of the Word despite cultural resistance.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 4,
+    "verse": 2,
+    "reference_text": "2 Timothy 4:2",
+    "context": "preach the word",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 902.9999694824219,
+    "end_time": 963.1399841308594,
+    "point_summary": "Amid warnings that people will not endure sound doctrine, the command to \"preach the word\" stands as the abiding admonition for faithful ministry and the reason believers must remain students of Scripture.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

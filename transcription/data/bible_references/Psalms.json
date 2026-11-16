@@ -36762,5 +36762,18 @@
     "end_time": 2078.1799926757812,
     "point_summary": "God's presence with his people—\"thou art with me\"—is the stated reason fear is overcome, connecting Psalm 23:4 to the broader sermon theme that God's companionship, not circumstances, grounds courage.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Psalms",
+    "chapter": 119,
+    "verse": 130,
+    "reference_text": "Psalms 119:130",
+    "context": "the entrance of thy words giveth light",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 963.1399841308594,
+    "end_time": 1025.8999633789062,
+    "point_summary": "Spreading Scripture to those without it is urgent because, as Psalm 119:130 declares, the entrance of God's words gives light.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

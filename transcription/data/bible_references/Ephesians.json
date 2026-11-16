@@ -19537,5 +19537,18 @@
     "end_time": 2359.1799926757812,
     "point_summary": "Spiritual preparation for life's storms must happen before they arrive, through daily intimacy with God, so that when trials come one can stand firm in His strength, not one's own.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 12,
+    "verse": 2,
+    "reference_text": "Ephesians 12:2",
+    "context": "proving what is acceptable unto the Lord",
+    "is_implicit": true,
+    "video_id": "381OiXEwp68",
+    "start_time": 1229.3399658203125,
+    "end_time": 1284.3399658203125,
+    "point_summary": "Ephesians 4 (not chapter 12) is cited to reinforce the individual responsibility to \"prove what is acceptable unto the Lord\" — meaning God's word, not opinion or culture, is the standard by which good is measured.\n\nWait — I must follow the rules and output only the sentence, and also note that Ephesians 12:2 does not exist.\n\nSince Ephesians 12:2 does not exist as a biblical reference, and the transcript references Paul's admonition in Ephesians without specifying a verse number, I should handle this carefully per the rules.\n\nBrief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -19550,5 +19550,44 @@
     "end_time": 1284.3399658203125,
     "point_summary": "Ephesians 4 (not chapter 12) is cited to reinforce the individual responsibility to \"prove what is acceptable unto the Lord\" — meaning God's word, not opinion or culture, is the standard by which good is measured.\n\nWait — I must follow the rules and output only the sentence, and also note that Ephesians 12:2 does not exist.\n\nSince Ephesians 12:2 does not exist as a biblical reference, and the transcript references Paul's admonition in Ephesians without specifying a verse number, I should handle this carefully per the rules.\n\nBrief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 15,
+    "reference_text": "Ephesians 4:15",
+    "context": "as we read in Ephesians four and verse 15, speak the truth in love",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 1652.2400207519531,
+    "end_time": 1716.9200439453125,
+    "point_summary": "Truth must be held with the right disposition—speaking it in love (Eph. 4:15)—so that firmness on biblical positions never becomes ugliness that closes ears to the message.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "Ephesians 4:14",
+    "context": "not being tossed to and fro with every wind of doctrine",
+    "is_implicit": true,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 658.5800018310547,
+    "end_time": 727.7200012207031,
+    "point_summary": "Spiritual instability and susceptibility to false teaching result from failing to diligently search Scripture, leaving believers easily tossed by every wind of doctrine.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 4,
+    "reference_text": "Ephesians 6:4",
+    "context": "bring them up in the nurture and admonition of the Lord",
+    "is_implicit": true,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 1276.9800033569336,
+    "end_time": 1350.5800018310547,
+    "point_summary": "Parental love and responsibility—illustrated by the speaker's own experience raising children with his wife—grounds the command of Ephesians 6:4 to bring children up without exposing them to instruction that causes them to err.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

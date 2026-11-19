@@ -38855,5 +38855,57 @@
     "end_time": 2203.919952392578,
     "point_summary": "Jesus washing the disciples' feet illustrates that believers, already saved, still need ongoing cleansing from the world's defilement through continual return to God's Word.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 1,
+    "verse": 14,
+    "reference_text": "John 1:14",
+    "context": "Jesus is full of grace and truth",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 143.72000122070312,
+    "end_time": 210.33999633789062,
+    "point_summary": "John 1:14's declaration that Jesus is \"full of grace and truth\" grounds the entire epistle's theme of truth by establishing Christ himself as its source and embodiment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 8,
+    "verse": 32,
+    "reference_text": "John 8:32",
+    "context": "and ye shall know the truth and the truth shall make you free",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 210.33999633789062,
+    "end_time": 280.8800048828125,
+    "point_summary": "John's recording of Jesus' words — \"the truth shall make you free\" — is cited as part of John's eyewitness heritage, establishing his authority to write on truth in 2 John.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 14,
+    "verse": 6,
+    "reference_text": "John 14:6",
+    "context": "I am the way, the truth and the life. No man cometh unto the Father, but by me",
+    "is_implicit": false,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 210.33999633789062,
+    "end_time": 280.8800048828125,
+    "point_summary": "Jesus' self-declaration as \"the way, the truth, and the life\" in John 14:6 is cited as part of John's eyewitness and recorded testimony to truth as the central theme of 2 John.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "John",
+    "chapter": 17,
+    "verse": 17,
+    "reference_text": "John 17:17",
+    "context": "Sanctify them through thy truth. Thy word is truth",
+    "is_implicit": false,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 210.33999633789062,
+    "end_time": 280.8800048828125,
+    "point_summary": "John 17:17 is cited as part of John's eyewitness and apostolic record, establishing that Scripture itself declares God's word to be truth—the foundation undergirding the epistle's central theme.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -14961,5 +14961,44 @@
     "end_time": 3030.3999633789062,
     "point_summary": "Hearing the Word without doing it is the failure being addressed, as James 1:22 anchors the sermon's call to be doers of the Word and not hearers only.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "from James one and verse 22, doers of the word",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 1154.8200073242188,
+    "end_time": 1217.680025100708,
+    "point_summary": "Being a doer of the Word, not merely a knower of truth, is the stated theme driving the sermon's movement from knowing truth (2 John 1–3) to walking in it (2 John 4–6).",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 14,
+    "reference_text": "James 4:14",
+    "context": "What is your life? It's a vapor that appears for a little time and then vanishes away",
+    "is_implicit": true,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 65.0,
+    "end_time": 126.0,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "James",
+    "chapter": 1,
+    "verse": 22,
+    "reference_text": "James 1:22",
+    "context": "be doers of the word and not hearers only",
+    "is_implicit": true,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 2600.300033569336,
+    "end_time": 2653.1200408935547,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

@@ -9761,5 +9761,18 @@
     "end_time": 1284.3399658203125,
     "point_summary": "Knowing what is good requires personal diligence—\"prove all things\" means each believer bears individual responsibility to study God's word as the standard for acceptable conduct.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "verse": 7,
+    "reference_text": "1 Thessalonians 2:7",
+    "context": "Paul, he cared for them as a nurse, cherished with her children in Thessalonica",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 1589.0400390625,
+    "end_time": 1652.2400207519531,
+    "point_summary": "Holding the right doctrinal position must be matched by the right disposition, illustrated by Paul's tender, nurse-like care for the Thessalonians as the model for speaking truth without ugliness.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

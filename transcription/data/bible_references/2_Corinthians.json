@@ -24360,5 +24360,18 @@
     "end_time": 2016.0399627685547,
     "point_summary": "Brief mention; no exposition in this segment.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 4,
+    "verse": 4,
+    "reference_text": "2 Corinthians 4:4",
+    "context": "the little g God of this world has blinded the minds of them which believe not, lest the light of the glorious gospel should shine unto them",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 358.94000244140625,
+    "end_time": 422.67999267578125,
+    "point_summary": "Satan's blinding of unbelievers' minds (2 Cor. 4:4) is invoked to underscore the privilege of those who have free access to Scripture, contrasting spiritual darkness with the knowable truth available to believers.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

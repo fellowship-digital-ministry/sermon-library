@@ -13089,5 +13089,31 @@
     "end_time": 963.1399841308594,
     "point_summary": "Amid warnings that people will not endure sound doctrine, the command to \"preach the word\" stands as the abiding admonition for faithful ministry and the reason believers must remain students of Scripture.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "reference_text": "2 Timothy 2:15",
+    "context": "Study to show thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 1475.4600219726562,
+    "end_time": 1530.6800231933594,
+    "point_summary": "Proper biblical position on truth is established through diligent personal study of Scripture, as 2 Timothy 2:15 commands, so that one rightly divides the word of truth rather than adopting the world's relativism.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "2 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "reference_text": "2 Timothy 2:15",
+    "context": "study to show thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth",
+    "is_implicit": true,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 266.0,
+    "end_time": 324.0,
+    "point_summary": "Rightly dividing the Word of truth requires diligent personal study, a standard AI-generated content cannot meet because it produces plausible-sounding falsehood rather than verified truth.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

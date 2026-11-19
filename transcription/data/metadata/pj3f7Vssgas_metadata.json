@@ -1,0 +1,54 @@
+{
+  "video_id": "pj3f7Vssgas",
+  "title": "\"Words of Knowledge\"  Proverbs 19:27",
+  "publish_date": "20261118",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/pj3f7Vssgas.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/pj3f7Vssgas.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/pj3f7Vssgas.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/pj3f7Vssgas.vtt",
+  "duration": 2658.0,
+  "transcription_timestamp": "2026-11-18T21:13:29.615700",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of Proverbs 19:27 on guarding against instruction that leads away from the words of knowledge, set against the backdrop of the modern information age and the proliferation of digital and AI-generated content. Supporting passages from Proverbs 1-2, Daniel 12, Acts 17, Romans 1, and Deuteronomy 13 frame the dangers of knowledge divorced from the fear of God.",
+    "themes": [
+      "words of knowledge",
+      "discernment",
+      "false teaching",
+      "the information age",
+      "scripture as truth",
+      "parental instruction"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Introduction: Proverbs 19 and Knowledge Defined"
+      },
+      {
+        "t": 99,
+        "heading": "The Information Age and AI"
+      },
+      {
+        "t": 426,
+        "heading": "Proverbs 1-2: Fear of God as Foundation of Knowledge"
+      },
+      {
+        "t": 754,
+        "heading": "Daniel 12, Acts 17, Romans 1: Knowledge Increasing and Ignored"
+      },
+      {
+        "t": 1182,
+        "heading": "The Caution: Contradicting and Confusing Words"
+      },
+      {
+        "t": 1766,
+        "heading": "Deuteronomy 13: Warning Against Those Who Lead Astray"
+      },
+      {
+        "t": 2233,
+        "heading": "The Counsel: Applying Heart and Ears to God's Word"
+      }
+    ]
+  }
+}

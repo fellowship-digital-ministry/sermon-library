@@ -14857,5 +14857,18 @@
     "end_time": 3030.3999633789062,
     "point_summary": "When believers fail to do the good they know to do, confession and forsaking of sin restores fellowship, with Christ as the righteous Advocate before the Father.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 1,
+    "reference_text": "1 John 1:1",
+    "context": "we're eyewitnesses of these things, that we're providing this eyewitness account",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 143.72000122070312,
+    "end_time": 210.33999633789062,
+    "point_summary": "Brief mention; no exposition in this segment.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

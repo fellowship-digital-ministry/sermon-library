@@ -4769,5 +4769,18 @@
     "end_time": 658.2599792480469,
     "point_summary": "Judah's indictment in Jeremiah 4:22—that they had no knowledge to do good—was not God's failure to provide, but their willful rejection of the word and prophets He had already given them.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "Jeremiah",
+    "context": "Jeremiah goes and prays. Jeremiah comes back and says, here's what God said",
+    "is_implicit": false,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 1973.040023803711,
+    "end_time": 2038.3600311279297,
+    "point_summary": "Jeremiah's experience of being asked to seek God's word and then having that word rejected illustrates the danger of claiming to want truth while refusing to walk in it when it costs something.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

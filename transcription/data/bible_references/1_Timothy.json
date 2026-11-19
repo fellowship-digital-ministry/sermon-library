@@ -7811,5 +7811,31 @@
     "end_time": 1093.8599853515625,
     "point_summary": "The church's designation as \"the pillar and ground of the truth\" establishes its responsibility to preserve and disseminate Scripture to those who do not yet have it.",
     "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 4,
+    "verse": 8,
+    "reference_text": "1 Timothy 4:8",
+    "context": "bodily exercise profiteth little",
+    "is_implicit": true,
+    "video_id": "o1Jy7FCh5qo",
+    "start_time": 636.919994354248,
+    "end_time": 694.5999984741211,
+    "point_summary": "Bodily exercise profits little compared to time in God's Word, making spiritual discipline in Scripture a far greater priority than physical discipline.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": null,
+    "verse": null,
+    "reference_text": "1 Timothy",
+    "context": "I preached a message on Sunday morning through the book of 1 Timothy",
+    "is_implicit": false,
+    "video_id": "pj3f7Vssgas",
+    "start_time": 1960.52001953125,
+    "end_time": 2032.1400146484375,
+    "point_summary": "A prior sermon on 1 Timothy served as the basis for an illustration contrasting Americans' careful scrutiny of physical diet with their uncritical consumption of spiritual teaching from unvetted online sources.",
+    "point_summary_model": "anthropic/claude-sonnet-4.6"
   }
 ]

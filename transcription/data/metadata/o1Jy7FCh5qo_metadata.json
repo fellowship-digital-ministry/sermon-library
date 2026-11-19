@@ -1,0 +1,50 @@
+{
+  "video_id": "o1Jy7FCh5qo",
+  "title": "\"I Have Chosen The Way Of Truth\"  II John 1:1-13",
+  "publish_date": "20261118",
+  "audio_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/audio/o1Jy7FCh5qo.mp3",
+  "transcript_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/transcripts/o1Jy7FCh5qo.json",
+  "srt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/o1Jy7FCh5qo.srt",
+  "vtt_file": "/home/wryan14/Development/experiments/fellowship/sermon-library/transcription/data/subtitles/o1Jy7FCh5qo.vtt",
+  "duration": 2259.0,
+  "transcription_timestamp": "2026-11-18T21:16:59.707945",
+  "model": "whisper-1",
+  "notes_schema_version": 3,
+  "notes": {
+    "introduction": "An exposition of 2 John 1:1-13 as a concluding summary message after a verse-by-verse series through the epistle, organized around three imperatives drawn from the text: knowing truth, walking in truth, and standing for truth. Psalm 119:30 and Psalm 86:11 provide the framing verses.",
+    "themes": [
+      "truth",
+      "walking in obedience",
+      "standing against false teaching",
+      "desire for scripture",
+      "spiritual discipline",
+      "disposition in confronting error"
+    ],
+    "sections": [
+      {
+        "t": 0,
+        "heading": "Series Context and Opening Texts"
+      },
+      {
+        "t": 143,
+        "heading": "John as Witness to Truth"
+      },
+      {
+        "t": 333,
+        "heading": "Know the Truth: Desire, Discipline, Diligence"
+      },
+      {
+        "t": 802,
+        "heading": "Walk in Truth: Application and Commitment"
+      },
+      {
+        "t": 1317,
+        "heading": "Stand for Truth: Verses 7-13 and False Teaching"
+      },
+      {
+        "t": 1458,
+        "heading": "Proper Position and Proper Disposition"
+      }
+    ]
+  }
+}
